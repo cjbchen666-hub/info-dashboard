@@ -253,33 +253,13 @@ def fetch_isw():
     if not map_img and not summary:
         return None
 
-    # 下载控制区地图到仓库, 页面用相对路径引用(规避 ISW/Cloudflare 防盗链导致浏览器 403)
-    local_map = ""
-    if map_img:
-        for attempt in range(2):
-            try:
-                img_bytes = http_get(map_img, timeout=45, headers={
-                    "Referer": url,
-                    "Accept": "image/webp,image/avif,image/*,*/*;q=0.8",
-                })
-                if img_bytes and img_bytes[:4] == b"RIFF" and len(img_bytes) > 30000:
-                    with open(os.path.join(BASE, "ukraine_map.webp"), "wb") as f:
-                        f.write(img_bytes)
-                    local_map = "ukraine_map.webp"
-                    break
-            except Exception:
-                pass
-            if attempt == 0:
-                time.sleep(3)
-
     return {"title": title[:120], "summary": summary,
-            "map_image": local_map or map_img,
-            "map_remote": map_img, "map_url": map_url, "url": url,
+            "map_url": map_url, "url": url,
             "links": [
-                {"name": "ISW 控制区地图详情", "url": map_url},
+                {"name": "ISW 评估原文", "url": url},
+                {"name": "ISW 官方地图页", "url": map_url},
                 {"name": "实时战线地图 Liveuamap", "url": "https://liveuamap.com/"},
                 {"name": "深州地图 DeepStateMap", "url": "https://deepstatemap.live/en"},
-                {"name": "ISW 评估原文", "url": url},
             ]}
 
 
@@ -337,7 +317,7 @@ def news_pool():
         WARNINGS.append("[gcores] %s" % e)
     for pageid, lid in SINA_POOLS:
         try:
-            pool += sina_roll(pageid, lid, 60)
+            pool += sina_roll(pageid, lid, 80)
         except Exception as e:
             WARNINGS.append("[sina:%s/%s] %s" % (pageid, lid, e))
     seen, uniq = set(), []
@@ -490,6 +470,9 @@ TWICE_KW = ["TWICE", "娜琏", "志效", "定延", "子瑜", "多贤", "彩瑛",
 ANIME_IND_KW = ["动画", "动漫", "番剧", "二次元", "新海诚", "宫崎骏", "鬼灭", "Aniplex", "角川",
                 "东宝", "MAPPA", "动画产业", "anime", "漫画", "漫改", "轻小说", "声优", "剧场版",
                 "OVA", "赛马娘", "龙珠", "高达", "宝可梦", "EVA"]
+UKRAINE_KW = ["俄乌", "乌克兰", "俄罗斯", "前线", "战线", "泽连斯基", "普京", "俄军", "乌军",
+              "基辅", "哈尔科夫", "顿巴斯", "克里米亚", "扎波罗热", "赫尔松", "顿涅茨克", "卢甘斯克",
+              "黑海", "无人机", "导弹", "反攻", "库尔斯克"]
 
 _cur = lambda title, link, src="资讯整理": {"title": title, "link": link, "time": "精选", "src": src}
 HARDWARE_NEWS = [
@@ -552,14 +535,21 @@ def collect():
     pool = safe(news_pool) or []
 
     ukraine = safe(fetch_isw)
-    if not ukraine or not ukraine.get("map_image"):
-        if prev and prev.get("ukraine") and prev["ukraine"].get("map_image"):
+    if not ukraine or not ukraine.get("summary"):
+        if prev and prev.get("ukraine") and prev["ukraine"].get("summary"):
             ukraine = prev["ukraine"]
             WARNINGS.append("[isw] 本次获取失败, 沿用上次数据(%s)" % (prev.get("generated_at") or "?"))
         elif not ukraine:
             ukraine = {"title": "ISW 数据暂不可用", "summary": "",
-                       "map_image": "", "url": "https://www.understandingwar.org/",
+                       "url": "https://www.understandingwar.org/",
                        "links": [{"name": "ISW 官网", "url": "https://www.understandingwar.org/"}]}
+    # 战线新闻集合: ISW 今日评估条目 + 实时新闻关键词过滤
+    u_news = []
+    if ukraine.get("url"):
+        u_news.append({"title": ("今日战况: " + ukraine.get("title", "ISW 每日评估")) if ukraine.get("title") else "今日战况: ISW 每日评估",
+                       "link": ukraine["url"], "time": "ISW每日评估", "src": "ISW"})
+    u_news += filter_news(pool, UKRAINE_KW, 5, [])
+    ukraine["news"] = u_news[:6]
 
     hf = safe(fetch_hf_trending) or []
     if not hf and prev and prev.get("ai", {}).get("hf"):
@@ -589,8 +579,7 @@ def collect():
             "profile": TWICE_PROFILE,
         },
         "anime_industry": {
-            "news": filter_news(pool, ANIME_IND_KW, 6, ANIME_IND_NEWS),
-            "stats": ANIME_STATS,
+            "news": filter_news(pool, ANIME_IND_KW, 10, ANIME_IND_NEWS),
         },
     }
     return data
@@ -686,7 +675,7 @@ a{color:inherit;text-decoration:none}
 .ua-wrap{display:grid;grid-template-columns:1.5fr 1fr;gap:14px;flex:1}
 @media(max-width:1000px){.ua-wrap{grid-template-columns:1fr}}
 .ua-map{position:relative;border:1px solid var(--line);border-radius:12px;overflow:hidden;background:#0b1017}
-.ua-map img{width:100%;max-height:480px;object-fit:cover;display:block}
+.ua-map img,.ua-map svg.handmap{width:100%;max-height:520px;object-fit:cover;display:block}
 .ua-map .cap{position:absolute;left:0;right:0;bottom:0;padding:14px 12px 10px;font-size:11.5px;color:#cfe3d0;
   background:linear-gradient(transparent,rgba(6,10,8,.92))}
 .ua-map a.zoom{position:absolute;top:8px;right:8px;background:rgba(0,0,0,.55);color:#cfe3d0;font-size:11px;
@@ -774,7 +763,46 @@ footer code{background:rgba(255,255,255,.05);border:1px solid var(--line);border
     <!-- 俄乌战线 -->
     <section class="card s8" style="--ac:var(--ua)">
       <div class="head"><span class="bar"></span><h2>俄乌战线 · 综合态势</h2><span class="tag" id="uaTag">前线</span></div>
-      <div class="ua-wrap" id="uaWrap"></div>
+      <div class="ua-wrap">
+        <div class="ua-map">
+          <svg class="handmap" viewBox="0 0 220 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="俄乌战线手绘示意图">
+            <defs>
+              <filter id="sketch" x="-10%" y="-10%" width="120%" height="120%">
+                <feTurbulence type="fractalNoise" baseFrequency="0.02" numOctaves="2" seed="7" result="n"/>
+                <feDisplacementMap in="SourceGraphic" in2="n" scale="2.2"/>
+              </filter>
+            </defs>
+            <g transform="rotate(-1 110 150)" filter="url(#sketch)">
+              <path d="M22 68 L30 46 L58 38 L92 40 L128 38 L158 44 L182 52 L192 62 L197 76 L203 92 L207 108 L210 122 L208 138 L198 150 L186 157 L168 164 L152 170 L138 176 L128 180 L120 181 L112 177 L104 175 L96 172 L84 178 L70 182 L56 186 L42 187 L30 184 L22 178 L19 162 L18 138 L19 110 L21 86 Z"
+                    fill="#24455c" stroke="#6fb1c9" stroke-width="2" stroke-linejoin="round"/>
+              <path d="M196 62 L206 92 L211 118 L209 136 L198 150 L186 157 L168 164 L152 170 L138 176 L128 180 L120 181 L116 176 L124 170 L138 164 L154 156 L168 144 L178 128 L186 112 L192 94 L196 76 Z"
+                    fill="#5c2230" stroke="#c05a5a" stroke-width="1.6" stroke-linejoin="round"/>
+              <path d="M120 180 L126 190 L130 210 L124 228 L114 220 L104 205 L100 192 L108 184 Z"
+                    fill="#5c2230" stroke="#c05a5a" stroke-width="1.6" stroke-linejoin="round"/>
+              <path d="M196 74 C192 88 194 96 190 106 C186 116 182 122 176 130 C170 138 162 144 154 150 C146 156 138 162 130 168 C124 172 120 175 116 177"
+                    fill="none" stroke="#e0a33a" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="6 5"/>
+              <path d="M150 160 L140 148 M178 128 L168 120 M136 146 l-8 4 M164 118 l-8 4"
+                    stroke="#e0a33a" stroke-width="2" stroke-linecap="round"/>
+              <g font-size="9.5" fill="#c9d6e2" font-family="Microsoft YaHei, PingFang SC, sans-serif">
+                <circle cx="78" cy="84" r="2.6" fill="#e8eef5"/><text x="84" y="87" style="paint-order:stroke;stroke:#0a0e14;stroke-width:2.5px">基辅</text>
+                <circle cx="188" cy="66" r="2.6" fill="#e8eef5"/><text x="174" y="60" style="paint-order:stroke;stroke:#0a0e14;stroke-width:2.5px">哈尔科夫</text>
+                <circle cx="128" cy="120" r="2.4" fill="#e8eef5"/><text x="133" y="123" style="paint-order:stroke;stroke:#0a0e14;stroke-width:2.5px">第聂伯罗</text>
+                <circle cx="142" cy="148" r="2.4" fill="#e8eef5"/><text x="128" y="152" style="paint-order:stroke;stroke:#0a0e14;stroke-width:2.5px">扎波罗热</text>
+                <circle cx="186" cy="124" r="2.4" fill="#e8eef5"/><text x="188" y="116" style="paint-order:stroke;stroke:#0a0e14;stroke-width:2.5px">顿涅茨克</text>
+                <circle cx="200" cy="104" r="2.4" fill="#e8eef5"/><text x="190" y="97" style="paint-order:stroke;stroke:#0a0e14;stroke-width:2.5px">卢甘斯克</text>
+                <circle cx="104" cy="168" r="2.4" fill="#e8eef5"/><text x="88" y="172" style="paint-order:stroke;stroke:#0a0e14;stroke-width:2.5px">赫尔松</text>
+                <circle cx="42" cy="180" r="2.4" fill="#e8eef5"/><text x="47" y="183" style="paint-order:stroke;stroke:#0a0e14;stroke-width:2.5px">敖德萨</text>
+                <circle cx="192" cy="146" r="2.4" fill="#e8eef5"/><text x="180" y="150" style="paint-order:stroke;stroke:#0a0e14;stroke-width:2.5px">马里乌波尔</text>
+                <circle cx="115" cy="213" r="2.4" fill="#e8eef5"/><text x="120" y="216" style="paint-order:stroke;stroke:#0a0e14;stroke-width:2.5px">辛菲罗波尔</text>
+                <circle cx="152" cy="50" r="2.2" fill="#e8eef5"/><text x="157" y="53" style="paint-order:stroke;stroke:#0a0e14;stroke-width:2.5px">苏梅</text>
+                <circle cx="27" cy="72" r="2.2" fill="#e8eef5"/><text x="32" y="75" style="paint-order:stroke;stroke:#0a0e14;stroke-width:2.5px">利沃夫</text>
+              </g>
+            </g>
+          </svg>
+          <div class="cap">手绘示意图 · 红=俄控 蓝=乌控 橙虚线=前线 黄箭头=近期推进（示意边界，非精确）</div>
+        </div>
+        <div class="ua-side" id="uaSide"></div>
+      </div>
     </section>
 
     <!-- A股 -->
@@ -912,12 +940,6 @@ setTimeout(()=>location.reload(), 30*60*1000);
 (function(){
   const U = D.ukraine || {};
   $("uaTag").textContent = "前线动态";
-  const map = U.map_image
-    ? '<div class="ua-map"><a href="'+esc(U.map_url||U.map_image)+'" target="_blank" rel="noopener" class="zoom">查看地图详情 ↗</a>'+
-      '<img src="'+esc(U.map_image)+'" alt="ISW 俄乌控制区地图" onerror="if(!this.dataset.f){this.dataset.f=1;this.src=\''+esc(U.map_remote||U.map_image)+'\';}else{this.parentElement.querySelector(\'.cap\').textContent=\'地图加载失败, 请点击右上角查看详情\';}">'+
-      '<div class="cap">ISW 每日更新的前线控制区评估图 — 点击查看地图详情</div></div>'
-    : '<div class="ua-map" style="display:flex;align-items:center;justify-content:center;min-height:180px">'+
-      '<span class="dim">前线地图暂不可用<br>请访问下方实时地图站点</span></div>';
   const legend = '<div class="legend">'+
     '<span><i style="background:#7b2d3b"></i>俄军控制区</span>'+
     '<span><i style="background:#c05a5a"></i>俄方声称控制</span>'+
@@ -927,10 +949,11 @@ setTimeout(()=>location.reload(), 30*60*1000);
     '</div>';
   const links = '<div class="links">'+((U.links||[]).map(l=>
     '<a href="'+esc(l.url)+'" target="_blank" rel="noopener">'+esc(l.name)+'</a>').join(''))+'</div>';
-  $("uaWrap").innerHTML = map + '<div class="ua-side">'+
+  const news = '<h3 class="sec">战线新闻 · 新闻集合</h3><div class="news-card" style="max-height:180px">'+newsHTML(U.news,6)+'</div>';
+  $("uaSide").innerHTML =
     '<h3>'+esc(U.title||"ISW 战况评估")+'</h3>'+
     '<div class="sum">'+(U.summary?esc(U.summary):'<span class="dim">摘要暂不可用</span>')+'</div>'+
-    legend + links + '</div>';
+    legend + links + news;
 })();
 
 /* AI */
@@ -991,14 +1014,10 @@ setTimeout(()=>location.reload(), 30*60*1000);
   $("twiceBody").innerHTML = h;
 })();
 
-/* 日本动画产业 */
+/* 日本动画产业(新闻集合) */
 (function(){
   const A = D.anime_industry || {};
-  let h = '<div class="stats">'+((A.stats||[]).map(s=>
-    '<div class="st"><span class="k">'+esc(s.k)+'</span><span class="v">'+esc(s.v)+'</span><span class="n">'+esc(s.n)+'</span></div>'
-  ).join(''))+'</div>';
-  h += '<h3 style="font-size:12px;color:var(--mut);margin:10px 0 6px">产业快讯</h3><div class="news-card">'+newsHTML(A.news,6)+'</div>';
-  $("animeIndBody").innerHTML = h;
+  $("animeIndBody").innerHTML = '<h3 class="sec">产业新闻 · 新闻集合</h3><div class="news-card" style="max-height:460px">'+newsHTML(A.news,10)+'</div>';
 })();
 
 /* 说明 */
@@ -1035,7 +1054,8 @@ def main():
     print("== 构建完成 ==")
     print("生成时间:", data["generated_at"])
     print("A股指数:", len(data["ashare"]["indices"]), "| 全球指数:", len(data["global"]))
-    print("今日新番:", len(data["anime"]["items"]), "| ISW地图:", "有" if data["ukraine"].get("map_image") else "无")
+    print("今日新番:", len(data["anime"]["items"]), "| ISW战况:", "有" if data["ukraine"].get("summary") else "无",
+          "| 战线新闻:", len(data["ukraine"].get("news", [])))
     print("AI新闻:", len(data["ai"]["news_zh"]), "| HF趋势:", len(data["ai"]["hf"]),
           "| 硬件快讯:", len(data["hw_news"]))
     print("小岛新闻:", len(data["kojima"]["news"]), "| TWICE新闻:", len(data["twice"]["news"]),
