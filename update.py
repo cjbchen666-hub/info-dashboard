@@ -680,9 +680,10 @@ h1 small{color:var(--dim);font-size:12px;letter-spacing:3px;margin-left:10px;fon
 .card>.head h2{font-size:15px;font-weight:700;letter-spacing:1px}
 .card>.head .tag{margin-left:auto;font-size:11px;color:var(--mut);background:rgba(255,255,255,.04);
   border:1px solid var(--line);padding:2px 9px;border-radius:20px;white-space:nowrap}
-.s8{grid-column:span 8}.s4{grid-column:span 4}.s12{grid-column:span 12}
-@media(max-width:1180px){.s8,.s4,.s12{grid-column:span 6}}
-@media(max-width:820px){.s8,.s4,.s12{grid-column:span 12}}
+.s8{grid-column:span 8}.s7{grid-column:span 7}.s6{grid-column:span 6}
+.s5{grid-column:span 5}.s4{grid-column:span 4}.s12{grid-column:span 12}
+@media(max-width:1180px){.s8,.s7,.s6,.s5,.s4,.s12{grid-column:span 6}}
+@media(max-width:820px){.s8,.s7,.s6,.s5,.s4,.s12{grid-column:span 12}}
 /* ---------- 通用 ---------- */
 .mut{color:var(--mut)}.dim{color:var(--dim)}.small{font-size:12px}
 .empty{padding:26px 10px;text-align:center;color:var(--dim);font-size:13px;border:1px dashed var(--line);border-radius:10px}
@@ -708,7 +709,7 @@ a{color:inherit;text-decoration:none}
 .mini .nmc{display:flex;flex-direction:column}
 .mini .nmc em{font-style:normal;color:var(--dim);font-size:10.5px}
 .au2{display:grid;grid-template-columns:1fr 1.4fr;gap:12px;margin-top:4px}
-@media(max-width:900px){.au2{grid-template-columns:1fr}}
+@media(max-width:1280px){.au2{grid-template-columns:1fr}}
 .watch td{vertical-align:middle}
 .watch .n em{display:block;font-style:normal;color:var(--dim);font-size:10px}
 .watch .pxc{white-space:nowrap;font-family:Consolas,monospace;text-align:right}
@@ -816,7 +817,7 @@ footer code{background:rgba(255,255,255,.05);border:1px solid var(--line);border
 
   <div class="grid">
     <!-- 俄乌战线 -->
-    <section class="card s8" style="--ac:var(--ua)">
+    <section class="card s7" style="--ac:var(--ua)">
       <div class="head"><span class="bar"></span><h2>俄乌战线 · 综合态势</h2><span class="tag" id="uaTag">前线</span></div>
       <div class="ua-wrap">
         <div class="ua-map">
@@ -861,39 +862,39 @@ footer code{background:rgba(255,255,255,.05);border:1px solid var(--line);border
     </section>
 
     <!-- A股 -->
-    <section class="card s8" style="--ac:var(--a)">
+    <section class="card s5" style="--ac:var(--a)">
       <div class="head"><span class="bar"></span><h2>A股市场</h2><span class="tag" id="ashareTag">--</span></div>
       <div id="ashareBody"></div>
     </section>
 
+    <!-- AI -->
+    <section class="card s7" style="--ac:var(--ai)">
+      <div class="head"><span class="bar"></span><h2>AI 前沿 · 大模型 / 视频模型</h2><span class="tag">LLM × Video</span></div>
+      <div class="ai-wrap" id="aiBody"></div>
+    </section>
+
     <!-- 日本新番 -->
-    <section class="card s4" style="--ac:var(--anime)">
+    <section class="card s5" style="--ac:var(--anime)">
       <div class="head"><span class="bar"></span><h2>今日日本新番</h2><span class="tag" id="animeTag">--</span></div>
       <div id="animeBody"></div>
+    </section>
+
+    <!-- 硬件外设 -->
+    <section class="card s7" style="--ac:var(--hw)">
+      <div class="head"><span class="bar"></span><h2>电脑硬件 · 外设</h2><span class="tag">新闻聚合</span></div>
+      <div id="hwBody"></div>
+    </section>
+
+    <!-- TWICE -->
+    <section class="card s5" style="--ac:var(--tw)">
+      <div class="head"><span class="bar"></span><h2>TWICE</h2><span class="tag">SOCIAL × NEWS</span></div>
+      <div id="twiceBody"></div>
     </section>
 
     <!-- 小岛秀夫 -->
     <section class="card s4" style="--ac:var(--kj)">
       <div class="head"><span class="bar"></span><h2>小岛秀夫</h2><span class="tag">HIDEO KOJIMA</span></div>
       <div id="kojimaBody"></div>
-    </section>
-
-    <!-- AI -->
-    <section class="card s8" style="--ac:var(--ai)">
-      <div class="head"><span class="bar"></span><h2>AI 前沿 · 大模型 / 视频模型</h2><span class="tag">LLM × Video</span></div>
-      <div class="ai-wrap" id="aiBody"></div>
-    </section>
-
-    <!-- TWICE -->
-    <section class="card s4" style="--ac:var(--tw)">
-      <div class="head"><span class="bar"></span><h2>TWICE</h2><span class="tag">SOCIAL × NEWS</span></div>
-      <div id="twiceBody"></div>
-    </section>
-
-    <!-- 硬件外设 -->
-    <section class="card s8" style="--ac:var(--hw)">
-      <div class="head"><span class="bar"></span><h2>电脑硬件 · 外设</h2><span class="tag">新闻聚合</span></div>
-      <div id="hwBody"></div>
     </section>
 
     <!-- 日本动画产业 -->
@@ -903,7 +904,7 @@ footer code{background:rgba(255,255,255,.05);border:1px solid var(--line);border
     </section>
 
     <!-- 使用说明 -->
-    <section class="card s12" style="--ac:var(--info)">
+    <section class="card s4" style="--ac:var(--info)">
       <div class="head"><span class="bar"></span><h2>更新机制 · 数据源</h2><span class="tag">INFO</span></div>
       <div class="info-body" id="infoBody"></div>
     </section>
