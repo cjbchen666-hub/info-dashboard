@@ -8,6 +8,8 @@ name: Update InfoDashboard
 on:
   schedule:
     - cron: "0 */2 * * *"   # 每 2 小时(北京时间整点)
+  push:
+    branches: [main]         # 推送到 main 时立即重新部署(保证本地推送后云端马上更新)
   workflow_dispatch: {}   # 支持在 Actions 页面手动触发
 
 permissions:
