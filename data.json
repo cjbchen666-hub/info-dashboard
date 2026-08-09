@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10 06:17",
+  "generated_at": "2026-08-10 06:22",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -263,22 +263,22 @@
         "src": "市场资讯"
       },
       {
-        "title": "金力永磁于8月7日注销272.32万股已回购股份",
-        "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimssst3559579.shtml",
-        "time": "08-09 10:31",
-        "src": "新浪港股"
+        "title": "传音控股：赴港上市获中国证监会备案，拟发行不超过 1.32 亿股",
+        "link": "https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimswyp1922886.shtml",
+        "time": "08-09 13:42",
+        "src": "IT之家"
       },
       {
-        "title": "创科实业于8月7日斥资64.81万港元回购4500股",
-        "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimssst8972925.shtml",
-        "time": "08-09 10:31",
-        "src": "新浪港股"
+        "title": "16万亿砸向AIDC：AI大时代，电力成最大刚需？",
+        "link": "https://finance.sina.com.cn/roll/2026-08-08/doc-inimrkxi9485548.shtml",
+        "time": "08-08 21:13",
+        "src": "一财网"
       },
       {
-        "title": "中国旺旺于8月7日斥资725.71万港元回购220万股",
-        "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimssst8972697.shtml",
-        "time": "08-09 10:30",
-        "src": "新浪港股"
+        "title": "算力紧缺背景下 亚马逊AWS要求工程师削减CPU资源浪费",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-07/doc-inimpfya9842938.shtml",
+        "time": "08-07 22:11",
+        "src": "环球市场播报"
       }
     ]
   },
@@ -327,7 +327,7 @@
         "score": 7.1,
         "img": "http://lain.bgm.tv/pic/cover/c/f1/bf/569116_n6dPq.jpg",
         "air_date": "2026-07-06",
-        "rank": 2347
+        "rank": 2383
       },
       {
         "id": 607340,
@@ -336,7 +336,7 @@
         "score": 6.9,
         "img": "http://lain.bgm.tv/pic/cover/c/71/44/607340_n8Rrl.jpg",
         "air_date": "2026-07-06",
-        "rank": 2865
+        "rank": 2850
       },
       {
         "id": 569671,
@@ -381,7 +381,7 @@
         "score": 5.7,
         "img": "http://lain.bgm.tv/pic/cover/c/2c/93/590786_48D8M.jpg",
         "air_date": "2026-07-06",
-        "rank": 8479
+        "rank": 8491
       },
       {
         "id": 528828,
@@ -390,7 +390,7 @@
         "score": 5.3,
         "img": "http://lain.bgm.tv/pic/cover/c/1d/71/528828_oQl2M.jpg",
         "air_date": "2026-07-06",
-        "rank": 8811
+        "rank": 8835
       },
       {
         "id": 636067,
@@ -399,7 +399,7 @@
         "score": 5.3,
         "img": "http://lain.bgm.tv/pic/cover/c/75/fd/636067_0uuym.jpg",
         "air_date": "2026-07-06",
-        "rank": 7883
+        "rank": 8103
       },
       {
         "id": 456080,
@@ -408,7 +408,7 @@
         "score": 5.1,
         "img": "http://lain.bgm.tv/pic/cover/c/ce/e2/456080_C4q4C.jpg",
         "air_date": "2026-07-06",
-        "rank": 9602
+        "rank": 9593
       },
       {
         "id": 579246,
@@ -417,7 +417,7 @@
         "score": 5.0,
         "img": "http://lain.bgm.tv/pic/cover/c/e2/dd/579246_61291.jpg",
         "air_date": "2026-07-06",
-        "rank": 9193
+        "rank": 9187
       },
       {
         "id": 456081,
@@ -426,7 +426,7 @@
         "score": 4.9,
         "img": "http://lain.bgm.tv/pic/cover/c/a7/a6/456081_Bs2nE.jpg",
         "air_date": "2026-07-06",
-        "rank": 9156
+        "rank": 9140
       },
       {
         "id": 607933,
@@ -540,7 +540,7 @@
     "hf": [
       {
         "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3233,
+        "likes": 3234,
         "downloads": 35295,
         "pipeline": "image-text-to-video"
       },
@@ -552,13 +552,13 @@
       },
       {
         "id": "Comfy-Org/MiniMax-H3",
-        "likes": 1067,
+        "likes": 1068,
         "downloads": 4947943,
         "pipeline": ""
       },
       {
         "id": "moonshotai/Kimi-K3",
-        "likes": 10394,
+        "likes": 10395,
         "downloads": 1456459,
         "pipeline": "image-text-to-text"
       },
