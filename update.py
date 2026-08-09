@@ -514,7 +514,7 @@ def collect():
 
     data = {
         "generated_at": now.strftime("%Y-%m-%d %H:%M"),
-        "update_note": "每日 12:00 / 17:00 由 WorkBuddy 定时自动更新",
+        "update_note": "每 2 小时由云端定时自动更新",
         "ashare": safe(fetch_ashare) or {"indices": [], "gainers": [], "losers": [], "status": market_status()},
         "global": safe(fetch_global_indices) or [],
         "anime": safe(fetch_anime) or {"date": now.strftime("%m-%d"), "weekday": "?", "items": []},
@@ -941,7 +941,7 @@ setTimeout(()=>location.reload(), 30*60*1000);
   const srcs = ["腾讯行情 (A股/全球指数)","新浪行情 (涨跌榜)","Bangumi (今日新番)",
     "ISW (俄乌评估+地图)","新浪/IT之家/机核 (新闻)","HuggingFace (趋势模型)"];
   $("infoBody").innerHTML =
-    '<b>定时更新:</b> 每天 <b>12:00</b> 与 <b>17:00</b> 自动抓取并重建本页<br>'+
+    '<b>定时更新:</b> 每 <b>2 小时</b> 自动抓取并重建本页（云端 GitHub Actions）<br>'+
     '<b>自动刷新:</b> 页面每 30 分钟重载, 打开着即可看到新数据<br>'+
     '<b>手动更新:</b> 运行 <code>python update.py</code> 后刷新页面<br>'+
     '<b>数据源:</b><div class="src">'+srcs.map(s=>'<span>'+s+'</span>').join('')+'</div>';

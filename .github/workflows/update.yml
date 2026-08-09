@@ -1,12 +1,12 @@
 name: Update InfoDashboard
 
-# 云端定时任务: 每天 12:00 / 17:00(北京时间) 自动抓取数据并发布页面
-# GitHub Actions 的 cron 使用 UTC: 12:00 北京时间 = 04:00 UTC; 17:00 = 09:00 UTC
+# 云端定时任务: 每 2 小时自动抓取数据并发布页面
+# GitHub Actions 的 cron 使用 UTC: "0 */2 * * *" = 每 2 小时整点(UTC)
+# 北京时间 = UTC+8, 对应北京时间整点(8,10,12,...,22,0,2,4,6)
 # 部署方式: push 到 gh-pages 分支, Pages 源设置为 "Deploy from a branch" -> gh-pages
 on:
   schedule:
-    - cron: "0 4 * * *"   # 每天 12:00 北京时间
-    - cron: "0 9 * * *"   # 每天 17:00 北京时间
+    - cron: "0 */2 * * *"   # 每 2 小时(北京时间整点)
   workflow_dispatch: {}   # 支持在 Actions 页面手动触发
 
 permissions:
