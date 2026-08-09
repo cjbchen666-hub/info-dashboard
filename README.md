@@ -30,8 +30,8 @@ InfoDashboardCloud/
 
 ## 工作原理
 
-- `update.yml` 定义了每天 `04:00` 和 `09:00`（UTC，即北京时间 12:00 / 17:00）自动运行
-- 运行时会：拉取仓库 → 用 Python 跑 `update.py` 抓取 A股/新番/俄乌/AI/硬件/小岛秀夫/TWICE/动画产业数据 → 更新 `dashboard.html`（提交到 main）→ 自动把页面发布到 `gh-pages` 分支
+- `update.yml` 定义了每 2 小时自动运行（cron: `0 */2 * * *`，UTC，即北京时间整点）
+- 运行时会：拉取仓库 → 用 Python 跑 `update.py` 抓取 A股/新番/俄乌/AI/硬件/小岛秀夫/TWICE/动画产业数据 → 自动把页面发布到 `gh-pages` 分支
 - GitHub Pages 设置为「Deploy from a branch → gh-pages」，推送即自动生效
 - 也可在 Actions 页面点 **Run workflow** 手动触发一次
 
