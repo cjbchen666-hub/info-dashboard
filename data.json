@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10 06:10",
+  "generated_at": "2026-08-10 06:17",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -132,7 +132,155 @@
       "state": "未开盘",
       "label": "今日尚未开盘",
       "date": "2026-08-10"
-    }
+    },
+    "watch": [
+      {
+        "code": "300308",
+        "name": "中际旭创",
+        "theme": "AI光模块",
+        "reason": "800G/1.6T光模块龙头, AI算力资本开支核心受益",
+        "price": 919.87,
+        "pct": -3.68
+      },
+      {
+        "code": "300502",
+        "name": "新易盛",
+        "theme": "AI光模块",
+        "reason": "光模块高弹性, 海外算力需求驱动",
+        "price": 420.95,
+        "pct": -0.22
+      },
+      {
+        "code": "688256",
+        "name": "寒武纪",
+        "theme": "国产AI芯片",
+        "reason": "国产算力核心标的, 大模型推理放量",
+        "price": 1199.93,
+        "pct": 2.72
+      },
+      {
+        "code": "688041",
+        "name": "海光信息",
+        "theme": "国产算力",
+        "reason": "信创+国产DCU双主线",
+        "price": 295.75,
+        "pct": 1.61
+      },
+      {
+        "code": "002371",
+        "name": "北方华创",
+        "theme": "半导体设备",
+        "reason": "国产设备龙头, 晶圆厂扩产受益",
+        "price": 751.99,
+        "pct": 1.28
+      },
+      {
+        "code": "688981",
+        "name": "中芯国际",
+        "theme": "晶圆代工",
+        "reason": "国产代工龙头, 稼动率与价格回升",
+        "price": 128.5,
+        "pct": 3.5
+      },
+      {
+        "code": "002230",
+        "name": "科大讯飞",
+        "theme": "AI应用",
+        "reason": "大模型应用落地, 星火迭代提速",
+        "price": 43.53,
+        "pct": -0.34
+      },
+      {
+        "code": "601689",
+        "name": "拓普集团",
+        "theme": "人形机器人",
+        "reason": "机器人执行器核心供应商",
+        "price": 50.38,
+        "pct": 1.23
+      },
+      {
+        "code": "600276",
+        "name": "恒瑞医药",
+        "theme": "创新药",
+        "reason": "创新药BD出海密集, 管线兑现",
+        "price": 54.62,
+        "pct": 4.82
+      },
+      {
+        "code": "688235",
+        "name": "百济神州",
+        "theme": "创新药",
+        "reason": "全球化创新药企, 海外收入放量",
+        "price": 299.33,
+        "pct": 11.28
+      },
+      {
+        "code": "601088",
+        "name": "中国神华",
+        "theme": "高股息",
+        "reason": "高股息煤炭龙头, 防御属性强",
+        "price": 43.94,
+        "pct": -0.07
+      },
+      {
+        "code": "300059",
+        "name": "东方财富",
+        "theme": "金融科技",
+        "reason": "市场成交活跃, 业绩弹性大",
+        "price": 19.98,
+        "pct": -0.15
+      }
+    ],
+    "news": [
+      {
+        "title": "2026 年上半年全国人形机器人领域新设企业 11.6 万户，同比增长 9.5%",
+        "link": "https://www.ithome.com/0/987/596.htm",
+        "time": "08-09 18:41",
+        "src": "IT之家"
+      },
+      {
+        "title": "标普500期货横盘，市场静待霍尔木兹海峡相关协议及通胀数据",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimukzx3039451.shtml",
+        "time": "08-10 06:15",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "600449，拟最高2亿元回购，注销！",
+        "link": "https://finance.sina.com.cn/stock/s/2026-08-09/doc-inimtuec1630641.shtml",
+        "time": "08-09 21:17",
+        "src": ""
+      },
+      {
+        "title": "中信证券：A股市场处于超跌反弹阶段 科技聚焦核心资产 增配能化、有色等板块",
+        "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimtiqi1819917.shtml",
+        "time": "08-09 18:56",
+        "src": "智通财经APP"
+      },
+      {
+        "title": "困守炊具市场，爱仕达中报预亏，机器人业务难盈利",
+        "link": "https://finance.sina.com.cn/stock/s/2026-08-09/doc-inimtchp8868489.shtml",
+        "time": "08-09 15:00",
+        "src": "市场资讯"
+      },
+      {
+        "title": "传音控股：赴港上市获中国证监会备案，拟发行不超过 1.32 亿股",
+        "link": "https://finance.sina.com.cn/tech/digi/2026-08-09/doc-inimswyp1922886.shtml",
+        "time": "08-09 13:42",
+        "src": "IT之家"
+      },
+      {
+        "title": "16万亿砸向AIDC：AI大时代，电力成最大刚需？",
+        "link": "https://finance.sina.com.cn/roll/2026-08-08/doc-inimrkxi9485548.shtml",
+        "time": "08-08 21:13",
+        "src": "一财网"
+      },
+      {
+        "title": "算力紧缺背景下 亚马逊AWS要求工程师削减CPU资源浪费",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-07/doc-inimpfya9842938.shtml",
+        "time": "08-07 22:11",
+        "src": "环球市场播报"
+      }
+    ]
   },
   "global": [
     {
@@ -398,7 +546,7 @@
       },
       {
         "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-        "likes": 2936,
+        "likes": 2937,
         "downloads": 868576,
         "pipeline": "text-generation"
       },
@@ -416,7 +564,7 @@
       },
       {
         "id": "larryvrh/MiniMax-H3-Turbo-Lora",
-        "likes": 542,
+        "likes": 543,
         "downloads": 0,
         "pipeline": "text-to-video"
       },

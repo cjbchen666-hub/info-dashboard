@@ -98,27 +98,38 @@ def safe_float(v):
         return 0.0
 
 
+def _pfx(code):
+    """股票代码 -> 腾讯行情前缀 (sh/sz/bj)"""
+    if code[0] == "6":          # 60x/68x -> 沪市
+        return "sh" + code
+    if code[0] in "032":        # 00x/30x/20x -> 深市(含创业板300/301)
+        return "sz" + code
+    return "bj" + code          # 4x/8x -> 北交所
+
+
 def tencent_quotes(codes):
-    """腾讯行情接口: http://qt.gtimg.cn/q=code1,code2... (GBK)"""
-    url = "http://qt.gtimg.cn/q=" + ",".join(codes)
-    raw = http_get(url, timeout=20).decode("gbk", "ignore")
+    """腾讯行情接口: http://qt.gtimg.cn/q=code1,code2... (GBK), 每批最多6个代码"""
     out = []
-    for m in re.finditer(r'v_\w+="([^"]*)"', raw):
-        f = m.group(1).split("~")
-        if len(f) < 33:
-            continue
-        try:
-            price = float(f[3])
-        except Exception:
-            continue
-        amount_wan = safe_float(f[37]) if len(f) > 37 else 0.0
-        out.append({
-            "name": f[1], "code": f[2],
-            "price": round(price, 2),
-            "pct": round(safe_float(f[32]), 2),
-            "chg": round(safe_float(f[31]), 2),
-            "amount": ("%.0f亿" % (amount_wan / 1e4)) if amount_wan else "--",
-        })
+    for i in range(0, len(codes), 6):
+        chunk = codes[i:i + 6]
+        url = "http://qt.gtimg.cn/q=" + ",".join(chunk)
+        raw = http_get(url, timeout=20).decode("gbk", "ignore")
+        for m in re.finditer(r'v_\w+="([^"]*)"', raw):
+            f = m.group(1).split("~")
+            if len(f) < 33:
+                continue
+            try:
+                price = float(f[3])
+            except Exception:
+                continue
+            amount_wan = safe_float(f[37]) if len(f) > 37 else 0.0
+            out.append({
+                "name": f[1], "code": f[2],
+                "price": round(price, 2),
+                "pct": round(safe_float(f[32]), 2),
+                "chg": round(safe_float(f[31]), 2),
+                "amount": ("%.0f亿" % (amount_wan / 1e4)) if amount_wan else "--",
+            })
     return out
 
 
@@ -456,6 +467,22 @@ ANIME_STATS = [
 ]
 
 
+# ---- 建议关注股票(综合分析: 板块主线 + 代表标的 + 关注理由; 仅供观察, 非投资建议) ----
+A_SHARE_WATCH = [
+    {"code": "300308", "name": "中际旭创", "theme": "AI光模块", "reason": "800G/1.6T光模块龙头, AI算力资本开支核心受益"},
+    {"code": "300502", "name": "新易盛", "theme": "AI光模块", "reason": "光模块高弹性, 海外算力需求驱动"},
+    {"code": "688256", "name": "寒武纪", "theme": "国产AI芯片", "reason": "国产算力核心标的, 大模型推理放量"},
+    {"code": "688041", "name": "海光信息", "theme": "国产算力", "reason": "信创+国产DCU双主线"},
+    {"code": "002371", "name": "北方华创", "theme": "半导体设备", "reason": "国产设备龙头, 晶圆厂扩产受益"},
+    {"code": "688981", "name": "中芯国际", "theme": "晶圆代工", "reason": "国产代工龙头, 稼动率与价格回升"},
+    {"code": "002230", "name": "科大讯飞", "theme": "AI应用", "reason": "大模型应用落地, 星火迭代提速"},
+    {"code": "601689", "name": "拓普集团", "theme": "人形机器人", "reason": "机器人执行器核心供应商"},
+    {"code": "600276", "name": "恒瑞医药", "theme": "创新药", "reason": "创新药BD出海密集, 管线兑现"},
+    {"code": "688235", "name": "百济神州", "theme": "创新药", "reason": "全球化创新药企, 海外收入放量"},
+    {"code": "601088", "name": "中国神华", "theme": "高股息", "reason": "高股息煤炭龙头, 防御属性强"},
+    {"code": "300059", "name": "东方财富", "theme": "金融科技", "reason": "市场成交活跃, 业绩弹性大"},
+]
+
 # ---- 新闻关键词(用于本地过滤)与精选兜底 ----
 AI_KW = ["AI", "大模型", "人工智能", "GPT", "Gemini", "Claude", "DeepSeek", "通义", "文心", "豆包",
          "Kimi", "智谱", "混元", "MiniMax", "ChatGPT", "智能体", "Agent", "GPU", "算力", "英伟达",
@@ -475,6 +502,15 @@ UKRAINE_KW = ["俄乌", "乌克兰", "俄罗斯", "前线", "战线", "泽连斯
               "黑海", "无人机", "导弹", "反攻", "库尔斯克"]
 
 _cur = lambda title, link, src="资讯整理": {"title": title, "link": link, "time": "精选", "src": src}
+ASHARE_KW = ["A股", "沪指", "深成指", "创业板", "科创50", "北证50", "北向", "涨停", "跌停", "证监会",
+             "央行", "降息", "降准", "美联储", "IPO", "回购", "增持", "成交", "万亿", "牛市", "主力资金",
+             "国家队", "A50", "恒生", "纳指", "道指", "标普", "半导体", "算力", "机器人", "创新药", "券商"]
+A_SHARE_NEWS = [
+    _cur("A股周五收盘综述: 上证指数涨1.02%收3940.04点, 科创50大涨2.51%, 两市成交合计超2.6万亿",
+         "https://finance.sina.com.cn/stock/"),
+    _cur("全球市场: 美股标普500再创收盘新高(纳指+1.3%), 恒生指数收涨0.54%",
+         "https://finance.sina.com.cn/stock/usstock/"),
+]
 HARDWARE_NEWS = [
     _cur("Computex 2026: NVIDIA 发布 ARM 架构 PC 芯片 RTX Spark, 集成 Blackwell GPU, 对标苹果 M5",
          "https://new.qq.com/rain/a/20260605A09PXY00"),
@@ -555,10 +591,23 @@ def collect():
     if not hf and prev and prev.get("ai", {}).get("hf"):
         hf = prev["ai"]["hf"]
 
+    ashare = safe(fetch_ashare) or {"indices": [], "gainers": [], "losers": [], "status": market_status()}
+    # 建议关注: 精选标的 + 实时行情合并
+    try:
+        qmap = {q["code"]: q for q in tencent_quotes([_pfx(w["code"]) for w in A_SHARE_WATCH])}
+        ashare["watch"] = [dict(w,
+                                price=qmap[w["code"]]["price"] if w["code"] in qmap else None,
+                                pct=qmap[w["code"]]["pct"] if w["code"] in qmap else None)
+                           for w in A_SHARE_WATCH]
+    except Exception as e:
+        WARNINGS.append("[watch] %s" % e)
+        ashare["watch"] = []
+    ashare["news"] = filter_news(pool, ASHARE_KW, 8, A_SHARE_NEWS)
+
     data = {
         "generated_at": now.strftime("%Y-%m-%d %H:%M"),
         "update_note": "每 2 小时由云端定时自动更新",
-        "ashare": safe(fetch_ashare) or {"indices": [], "gainers": [], "losers": [], "status": market_status()},
+        "ashare": ashare,
         "global": safe(fetch_global_indices) or [],
         "anime": safe(fetch_anime) or {"date": now.strftime("%m-%d"), "weekday": "?", "items": []},
         "ukraine": ukraine,
@@ -631,9 +680,9 @@ h1 small{color:var(--dim);font-size:12px;letter-spacing:3px;margin-left:10px;fon
 .card>.head h2{font-size:15px;font-weight:700;letter-spacing:1px}
 .card>.head .tag{margin-left:auto;font-size:11px;color:var(--mut);background:rgba(255,255,255,.04);
   border:1px solid var(--line);padding:2px 9px;border-radius:20px;white-space:nowrap}
-.s8{grid-column:span 8}.s4{grid-column:span 4}
-@media(max-width:1180px){.s8,.s4{grid-column:span 6}}
-@media(max-width:820px){.s8,.s4{grid-column:span 12}}
+.s8{grid-column:span 8}.s4{grid-column:span 4}.s12{grid-column:span 12}
+@media(max-width:1180px){.s8,.s4,.s12{grid-column:span 6}}
+@media(max-width:820px){.s8,.s4,.s12{grid-column:span 12}}
 /* ---------- 通用 ---------- */
 .mut{color:var(--mut)}.dim{color:var(--dim)}.small{font-size:12px}
 .empty{padding:26px 10px;text-align:center;color:var(--dim);font-size:13px;border:1px dashed var(--line);border-radius:10px}
@@ -658,6 +707,12 @@ a{color:inherit;text-decoration:none}
 .mini td:last-child{text-align:right;font-family:Consolas,monospace;white-space:nowrap}
 .mini .nmc{display:flex;flex-direction:column}
 .mini .nmc em{font-style:normal;color:var(--dim);font-size:10.5px}
+.au2{display:grid;grid-template-columns:1fr 1.4fr;gap:12px;margin-top:4px}
+@media(max-width:900px){.au2{grid-template-columns:1fr}}
+.watch td{vertical-align:middle}
+.watch .n em{display:block;font-style:normal;color:var(--dim);font-size:10px}
+.watch .pxc{white-space:nowrap;font-family:Consolas,monospace;text-align:right}
+.watch .d{font-size:11px;line-height:1.45;color:var(--mut)}
 .glb{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px;padding-top:10px;border-top:1px dashed var(--line)}
 .glb span{font-size:11.5px;color:var(--mut);padding:3px 8px;border:1px solid var(--line);border-radius:20px;background:rgba(255,255,255,.02)}
 .glb b{font-family:Consolas,monospace;margin:0 3px}
@@ -806,7 +861,7 @@ footer code{background:rgba(255,255,255,.05);border:1px solid var(--line);border
     </section>
 
     <!-- A股 -->
-    <section class="card s4" style="--ac:var(--a)">
+    <section class="card s8" style="--ac:var(--a)">
       <div class="head"><span class="bar"></span><h2>A股市场</h2><span class="tag" id="ashareTag">--</span></div>
       <div id="ashareBody"></div>
     </section>
@@ -817,28 +872,28 @@ footer code{background:rgba(255,255,255,.05);border:1px solid var(--line);border
       <div id="animeBody"></div>
     </section>
 
-    <!-- AI -->
-    <section class="card s8" style="--ac:var(--ai)">
-      <div class="head"><span class="bar"></span><h2>AI 前沿 · 大模型 / 视频模型</h2><span class="tag">LLM × Video</span></div>
-      <div class="ai-wrap" id="aiBody"></div>
-    </section>
-
-    <!-- 硬件外设 -->
-    <section class="card s8" style="--ac:var(--hw)">
-      <div class="head"><span class="bar"></span><h2>电脑硬件 · 外设</h2><span class="tag">新闻聚合</span></div>
-      <div id="hwBody"></div>
-    </section>
-
     <!-- 小岛秀夫 -->
     <section class="card s4" style="--ac:var(--kj)">
       <div class="head"><span class="bar"></span><h2>小岛秀夫</h2><span class="tag">HIDEO KOJIMA</span></div>
       <div id="kojimaBody"></div>
     </section>
 
+    <!-- AI -->
+    <section class="card s8" style="--ac:var(--ai)">
+      <div class="head"><span class="bar"></span><h2>AI 前沿 · 大模型 / 视频模型</h2><span class="tag">LLM × Video</span></div>
+      <div class="ai-wrap" id="aiBody"></div>
+    </section>
+
     <!-- TWICE -->
     <section class="card s4" style="--ac:var(--tw)">
       <div class="head"><span class="bar"></span><h2>TWICE</h2><span class="tag">SOCIAL × NEWS</span></div>
       <div id="twiceBody"></div>
+    </section>
+
+    <!-- 硬件外设 -->
+    <section class="card s8" style="--ac:var(--hw)">
+      <div class="head"><span class="bar"></span><h2>电脑硬件 · 外设</h2><span class="tag">新闻聚合</span></div>
+      <div id="hwBody"></div>
     </section>
 
     <!-- 日本动画产业 -->
@@ -848,7 +903,7 @@ footer code{background:rgba(255,255,255,.05);border:1px solid var(--line);border
     </section>
 
     <!-- 使用说明 -->
-    <section class="card s4" style="--ac:var(--info)">
+    <section class="card s12" style="--ac:var(--info)">
       <div class="head"><span class="bar"></span><h2>更新机制 · 数据源</h2><span class="tag">INFO</span></div>
       <div class="info-body" id="infoBody"></div>
     </section>
@@ -894,7 +949,7 @@ function tick(){ const d=new Date();
 tick(); setInterval(tick,1000);
 setTimeout(()=>location.reload(), 30*60*1000);
 
-/* A股 */
+/* A股(指数/涨跌榜/建议关注/市场新闻) */
 (function(){
   const A = D.ashare || {};
   const st = A.status || {};
@@ -907,18 +962,25 @@ setTimeout(()=>location.reload(), 30*60*1000);
   });
   idx += '</div>';
   let minis = '<div class="mini">';
-  minis += '<div><h3>涨幅榜</h3><table>'+((A.gainers||[]).slice(0,5).map(g =>
+  minis += '<div><h3>涨幅榜</h3><table>'+((A.gainers||[]).slice(0,6).map(g =>
     '<tr><td><span class="nmc">'+esc(g.name)+'<em>'+esc(g.code)+'</em></span></td>'+
     '<td class="up">'+pct(g.pct)+'</td></tr>').join(''))+'</table></div>';
-  minis += '<div><h3>跌幅榜</h3><table>'+((A.losers||[]).slice(0,5).map(g =>
+  minis += '<div><h3>跌幅榜</h3><table>'+((A.losers||[]).slice(0,6).map(g =>
     '<tr><td><span class="nmc">'+esc(g.name)+'<em>'+esc(g.code)+'</em></span></td>'+
     '<td class="down">'+pct(g.pct)+'</td></tr>').join(''))+'</table></div>';
   minis += '</div>';
+  const watch = A.watch || [];
+  let wtable = '<div><h3 class="sec">建议关注 · 综合分析</h3>'+
+    (watch.length ? '<table class="tbl watch">'+watch.map(w =>
+      '<tr><td class="n">'+esc(w.name)+'<em>'+esc(w.theme)+' · '+esc(w.code)+'</em></td>'+
+      '<td class="pxc '+pctCls(w.pct)+'">'+(w.price!=null?esc(w.price):"--")+'<br>'+pct(w.pct)+'</td>'+
+      '<td class="d">'+esc(w.reason)+'</td></tr>').join('')+'</table>' : '<div class="empty">暂无数据</div>')+'</div>';
   let glb = '<div class="glb">'+(D.global||[]).map(g =>
     '<span>'+esc(g.name)+'<b class="'+pctCls(g.pct)+'">'+esc(g.price)+'</b><b class="'+pctCls(g.pct)+'">'+pct(g.pct)+'</b></span>'
   ).join('')+'</div>';
-  const has = (A.indices||[]).length;
-  $("ashareBody").innerHTML = has ? idx+minis+glb : '<div class="empty">行情获取失败, 等待下次自动更新</div>'+(glb||"");
+  const news = '<h3 class="sec">市场新闻 · 新闻集合</h3><div class="news-card" style="max-height:220px">'+newsHTML(A.news,8)+'</div>';
+  $("ashareBody").innerHTML = (A.indices||[]).length ? idx + '<div class="au2">'+minis+wtable+'</div>' + glb + news
+    : '<div class="empty">行情获取失败, 等待下次自动更新</div>'+(glb||"");
 })();
 
 /* 新番 */
