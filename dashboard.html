@@ -5,27 +5,402 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>信息驾驶舱 INFO COCKPIT</title>
 <style>
-body{font-family:"Segoe UI","PingFang SC","Microsoft YaHei",system-ui,sans-serif;background:#0a0e14;color:#dce6f0;
-  display:flex;align-items:center;justify-content:center;min-height:100vh;margin:0}
-.card{max-width:640px;background:#111821;border:1px solid #1d2836;border-radius:16px;padding:40px 44px;text-align:center}
-.dot{width:14px;height:14px;border-radius:50%;background:#38bdf8;display:inline-block;margin-bottom:18px;
-  box-shadow:0 0 14px #38bdf8;animation:pulse 1.6s infinite}
-@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
-h1{font-size:24px;letter-spacing:2px;margin:0 0 8px}
-p{color:#8fa3b8;font-size:14px;line-height:1.9;margin:6px 0}
-code{background:rgba(255,255,255,.06);border:1px solid #1d2836;border-radius:6px;padding:2px 8px;font-size:13px}
-b{color:#dce6f0}
+:root{
+  --bg:#0a0e14; --panel:#111821; --panel2:#0d141c; --line:#1d2836;
+  --txt:#dce6f0; --mut:#8fa3b8; --dim:#5c6f85;
+  --red:#ff4d4f; --green:#2ecc8f; --amber:#f5b942;
+  --a:#ff4d4f; --anime:#f472b6; --ua:#a3e635; --ai:#38bdf8;
+  --hw:#fb923c; --kj:#94a3b8; --tw:#f9a8d4; --id:#a78bfa; --info:#5c6f85;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{background:var(--bg)}
+body{font-family:"Segoe UI","PingFang SC","Microsoft YaHei",system-ui,sans-serif;
+  color:var(--txt);background:
+  radial-gradient(1200px 500px at 15% -10%, rgba(56,189,248,.08), transparent 60%),
+  radial-gradient(1000px 500px at 90% -10%, rgba(167,139,250,.07), transparent 60%),
+  var(--bg);min-height:100vh;padding:18px 20px 40px}
+.wrap{max-width:1460px;margin:0 auto}
+header{display:flex;flex-wrap:wrap;align-items:center;gap:14px;margin-bottom:18px;
+  padding:14px 18px;background:linear-gradient(90deg,#101823,#0d131c 60%,#101823);
+  border:1px solid var(--line);border-radius:14px}
+.logo{display:flex;align-items:center;gap:12px}
+.logo .dot{width:12px;height:12px;border-radius:50%;background:var(--ai);
+  box-shadow:0 0 12px var(--ai);animation:pulse 2s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
+h1{font-size:22px;letter-spacing:2px;font-weight:700}
+h1 small{color:var(--dim);font-size:12px;letter-spacing:3px;margin-left:10px;font-weight:400}
+.hmeta{margin-left:auto;display:flex;gap:22px;flex-wrap:wrap;align-items:center;color:var(--mut);font-size:12.5px}
+.hmeta b{color:var(--txt);font-weight:600}
+#clock{font-family:Consolas,"JetBrains Mono",monospace;font-size:16px;color:var(--ai)}
+#refreshNote{color:var(--dim);font-size:11.5px}
+.grid{display:grid;grid-template-columns:repeat(12,1fr);gap:14px}
+.card{background:linear-gradient(180deg,var(--panel),var(--panel2));border:1px solid var(--line);
+  border-radius:14px;padding:14px 16px;display:flex;flex-direction:column;min-width:0;
+  box-shadow:0 4px 18px rgba(0,0,0,.25)}
+.card>.head{display:flex;align-items:center;gap:8px;margin-bottom:10px;padding-bottom:9px;
+  border-bottom:1px solid var(--line)}
+.card>.head .bar{width:4px;height:15px;border-radius:2px;background:var(--ac,#38bdf8)}
+.card>.head h2{font-size:15px;font-weight:700;letter-spacing:1px}
+.card>.head .tag{margin-left:auto;font-size:11px;color:var(--mut);background:rgba(255,255,255,.04);
+  border:1px solid var(--line);padding:2px 9px;border-radius:20px;white-space:nowrap}
+.s8{grid-column:span 8}.s4{grid-column:span 4}
+@media(max-width:1180px){.s8,.s4{grid-column:span 6}}
+@media(max-width:820px){.s8,.s4{grid-column:span 12}}
+/* ---------- 通用 ---------- */
+.mut{color:var(--mut)}.dim{color:var(--dim)}.small{font-size:12px}
+.empty{padding:26px 10px;text-align:center;color:var(--dim);font-size:13px;border:1px dashed var(--line);border-radius:10px}
+a{color:inherit;text-decoration:none}
+.news{display:flex;flex-direction:column;gap:8px;overflow:hidden}
+.news a{display:flex;gap:8px;align-items:baseline;padding:7px 9px;border-radius:8px;transition:background .15s}
+.news a:hover{background:rgba(255,255,255,.05)}
+.news .t{flex:1;font-size:12.8px;line-height:1.45;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.news .time{color:var(--dim);font-size:11px;white-space:nowrap}
+/* ---------- A股 ---------- */
+.idx{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:10px}
+.idx .cell{flex:1 1 30%;min-width:120px;background:rgba(255,255,255,.03);border:1px solid var(--line);
+  border-radius:10px;padding:8px 10px}
+.idx .nm{font-size:12px;color:var(--mut);display:flex;justify-content:space-between;gap:4px}
+.idx .px{font-size:19px;font-weight:700;font-family:Consolas,monospace;margin-top:2px}
+.up{color:var(--red)} .down{color:var(--green)} .flat{color:var(--mut)}
+.pct{font-size:12px;font-family:Consolas,monospace}
+.mini{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.mini h3{font-size:12px;color:var(--mut);margin-bottom:5px;font-weight:600}
+.mini table{width:100%;border-collapse:collapse;font-size:12px}
+.mini td{padding:3.5px 2px;border-bottom:1px solid rgba(255,255,255,.04)}
+.mini td:last-child{text-align:right;font-family:Consolas,monospace;white-space:nowrap}
+.mini .nmc{display:flex;flex-direction:column}
+.mini .nmc em{font-style:normal;color:var(--dim);font-size:10.5px}
+.glb{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px;padding-top:10px;border-top:1px dashed var(--line)}
+.glb span{font-size:11.5px;color:var(--mut);padding:3px 8px;border:1px solid var(--line);border-radius:20px;background:rgba(255,255,255,.02)}
+.glb b{font-family:Consolas,monospace;margin:0 3px}
+/* ---------- 新番 ---------- */
+.anime{display:flex;flex-direction:column;gap:8px;max-height:560px;overflow:auto;padding-right:4px}
+.anime::-webkit-scrollbar{width:5px}
+.anime::-webkit-scrollbar-thumb{background:#263448;border-radius:3px}
+.anime .it{display:flex;gap:10px;align-items:center;padding:7px;border-radius:10px;background:rgba(255,255,255,.025);border:1px solid var(--line)}
+.anime img{width:44px;height:58px;object-fit:cover;border-radius:6px;background:#000;flex-shrink:0}
+.anime .info{flex:1;min-width:0}
+.anime .info .cn{font-size:13px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.anime .info .jp{font-size:11.5px;color:var(--mut);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.anime .sc{font-size:12px;color:var(--amber);font-family:Consolas,monospace;flex-shrink:0}
+/* ---------- 俄乌 ---------- */
+.ua-wrap{display:grid;grid-template-columns:1.5fr 1fr;gap:14px;flex:1}
+@media(max-width:1000px){.ua-wrap{grid-template-columns:1fr}}
+.ua-map{position:relative;border:1px solid var(--line);border-radius:12px;overflow:hidden;background:#0b1017}
+.ua-map img{width:100%;max-height:480px;object-fit:cover;display:block}
+.ua-map .cap{position:absolute;left:0;right:0;bottom:0;padding:14px 12px 10px;font-size:11.5px;color:#cfe3d0;
+  background:linear-gradient(transparent,rgba(6,10,8,.92))}
+.ua-map a.zoom{position:absolute;top:8px;right:8px;background:rgba(0,0,0,.55);color:#cfe3d0;font-size:11px;
+  padding:4px 10px;border-radius:16px;border:1px solid rgba(255,255,255,.25)}
+.ua-side{display:flex;flex-direction:column;gap:10px;min-width:0}
+.ua-side h3{font-size:13.5px;line-height:1.5}
+.ua-side .sum{font-size:12.3px;color:var(--mut);line-height:1.65;overflow:auto;max-height:210px;padding-right:4px}
+.legend{display:flex;flex-wrap:wrap;gap:6px;margin-top:2px}
+.legend span{font-size:10.8px;color:var(--mut);border:1px solid var(--line);border-radius:14px;padding:2.5px 8px;background:rgba(255,255,255,.02)}
+.legend i{display:inline-block;width:8px;height:8px;border-radius:2px;margin-right:4px;vertical-align:1px}
+.links{display:flex;flex-wrap:wrap;gap:8px;margin-top:auto}
+.links a{font-size:11.5px;color:var(--ai);border:1px solid rgba(56,189,248,.35);padding:4px 10px;border-radius:16px;background:rgba(56,189,248,.06)}
+.links a:hover{background:rgba(56,189,248,.14)}
+/* ---------- AI ---------- */
+.ai-wrap{display:grid;grid-template-columns:1.05fr 1fr 0.95fr;gap:12px;flex:1;min-width:0}
+@media(max-width:1100px){.ai-wrap{grid-template-columns:1fr 1fr}}
+@media(max-width:700px){.ai-wrap{grid-template-columns:1fr}}
+.ai-wrap .col h3{font-size:12px;color:var(--mut);margin-bottom:8px;font-weight:600;letter-spacing:1px}
+.tbl{font-size:11.8px;border-collapse:collapse;width:100%}
+.tbl td{padding:4.5px 6px;border-bottom:1px solid rgba(255,255,255,.045);vertical-align:top}
+.tbl .n{font-weight:600;white-space:nowrap}
+.tbl .v{color:var(--mut);white-space:nowrap;font-size:10.8px}
+.tbl .d{color:var(--mut);font-size:11px;line-height:1.4}
+.hf{font-size:12px;display:flex;flex-direction:column;gap:6px;margin-top:8px}
+.hf .m{display:flex;justify-content:space-between;gap:8px;padding:6px 8px;background:rgba(255,255,255,.03);border:1px solid var(--line);border-radius:8px}
+.hf .m b{font-family:Consolas,monospace;font-size:11.5px;white-space:nowrap}
+/* ---------- 硬件 ---------- */
+.hw{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;flex:1}
+@media(max-width:1100px){.hw{grid-template-columns:repeat(2,1fr)}}
+.hw a{display:flex;flex-direction:column;gap:4px;padding:11px;border:1px solid var(--line);border-radius:11px;
+  background:rgba(255,255,255,.028);transition:transform .12s,border-color .12s}
+.hw a:hover{transform:translateY(-2px);border-color:rgba(251,146,60,.5)}
+.hw .cat{font-size:10.5px;color:var(--hw);letter-spacing:1px}
+.hw .nm{font-size:13px;font-weight:600;line-height:1.35}
+.hw .nt{font-size:11.3px;color:var(--mut);line-height:1.5}
+/* ---------- 小岛/TWICE/动画产业 ---------- */
+.profile{font-size:12.3px;color:var(--mut);line-height:1.7;margin-bottom:8px}
+.profile b{color:var(--txt)}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin:8px 0 4px}
+.chips span{font-size:11px;color:var(--txt);background:rgba(255,255,255,.045);border:1px solid var(--line);
+  border-radius:15px;padding:3px 9px}
+.news-card{max-height:240px;overflow:auto;padding-right:3px}
+.news-card::-webkit-scrollbar{width:5px}
+.news-card::-webkit-scrollbar-thumb{background:#263448;border-radius:3px}
+.stats{display:flex;flex-direction:column;gap:8px}
+.stats .st{display:flex;gap:10px;align-items:baseline;padding:7px 9px;background:rgba(255,255,255,.03);
+  border:1px solid var(--line);border-radius:9px}
+.stats .k{font-size:11px;color:var(--mut);flex-shrink:0;width:86px}
+.stats .v{font-size:13.5px;font-weight:700;color:var(--id);white-space:nowrap;font-family:Consolas,monospace}
+.stats .n{font-size:11px;color:var(--mut);line-height:1.4}
+/* ---------- 说明卡 ---------- */
+.info-body{font-size:12.5px;color:var(--mut);line-height:1.9;flex:1}
+.info-body b{color:var(--txt)}
+.info-body .src{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+.info-body .src span{font-size:10.8px;border:1px solid var(--line);border-radius:12px;padding:2px 8px;color:var(--dim)}
+footer{margin-top:16px;text-align:center;color:var(--dim);font-size:11.5px;line-height:1.8}
+footer code{background:rgba(255,255,255,.05);border:1px solid var(--line);border-radius:5px;padding:1px 7px;font-family:Consolas,monospace}
 </style>
 </head>
 <body>
-<div class="card">
-  <span class="dot"></span>
-  <h1>信息驾驶舱</h1>
-  <p>云端定时任务已就绪，正在等待首次数据生成。</p>
-  <p>每天 <b>12:00</b> 与 <b>17:00</b>（北京时间），GitHub Actions 将自动抓取
-     A股 / 日本新番 / 俄乌战线 / AI / 硬件外设 / 小岛秀夫 / TWICE / 日本动画产业数据，
-     并在此页面自动更新。</p>
-  <p>想立即查看：到仓库 <code>Actions</code> 页点击 <b>Run workflow</b> 手动触发一次，几分钟后刷新本页即可。</p>
+<div class="wrap">
+  <header>
+    <div class="logo"><span class="dot"></span>
+      <h1>信息驾驶舱<small>INFO COCKPIT</small></h1>
+    </div>
+    <div class="hmeta">
+      <span>数据更新 <b id="genAt"></b></span>
+      <span id="clock">--:--:--</span>
+      <span id="refreshNote">每30分钟自动刷新</span>
+    </div>
+  </header>
+
+  <div class="grid">
+    <!-- 俄乌战线 -->
+    <section class="card s8" style="--ac:var(--ua)">
+      <div class="head"><span class="bar"></span><h2>俄乌战线 · 综合态势</h2><span class="tag" id="uaTag">前线</span></div>
+      <div class="ua-wrap" id="uaWrap"></div>
+    </section>
+
+    <!-- A股 -->
+    <section class="card s4" style="--ac:var(--a)">
+      <div class="head"><span class="bar"></span><h2>A股市场</h2><span class="tag" id="ashareTag">--</span></div>
+      <div id="ashareBody"></div>
+    </section>
+
+    <!-- 日本新番 -->
+    <section class="card s4" style="--ac:var(--anime)">
+      <div class="head"><span class="bar"></span><h2>今日日本新番</h2><span class="tag" id="animeTag">--</span></div>
+      <div id="animeBody"></div>
+    </section>
+
+    <!-- AI -->
+    <section class="card s8" style="--ac:var(--ai)">
+      <div class="head"><span class="bar"></span><h2>AI 前沿 · 大模型 / 视频模型</h2><span class="tag">LLM × Video</span></div>
+      <div class="ai-wrap" id="aiBody"></div>
+    </section>
+
+    <!-- 硬件外设 -->
+    <section class="card s8" style="--ac:var(--hw)">
+      <div class="head"><span class="bar"></span><h2>电脑硬件 · 外设</h2><span class="tag" id="hwTag">CPU/主板/显卡/内存/显示器/键鼠耳</span></div>
+      <div id="hwBody"></div>
+    </section>
+
+    <!-- 小岛秀夫 -->
+    <section class="card s4" style="--ac:var(--kj)">
+      <div class="head"><span class="bar"></span><h2>小岛秀夫</h2><span class="tag">HIDEO KOJIMA</span></div>
+      <div id="kojimaBody"></div>
+    </section>
+
+    <!-- TWICE -->
+    <section class="card s4" style="--ac:var(--tw)">
+      <div class="head"><span class="bar"></span><h2>TWICE</h2><span class="tag">ONCE</span></div>
+      <div id="twiceBody"></div>
+    </section>
+
+    <!-- 日本动画产业 -->
+    <section class="card s4" style="--ac:var(--id)">
+      <div class="head"><span class="bar"></span><h2>日本动画产业</h2><span class="tag">INDUSTRY</span></div>
+      <div id="animeIndBody"></div>
+    </section>
+
+    <!-- 使用说明 -->
+    <section class="card s4" style="--ac:var(--info)">
+      <div class="head"><span class="bar"></span><h2>更新机制 · 数据源</h2><span class="tag">INFO</span></div>
+      <div class="info-body" id="infoBody"></div>
+    </section>
+  </div>
+
+  <footer>
+    数据来源: 腾讯行情 · 新浪 · Bangumi · ISW · IT之家 · 机核 · HuggingFace &nbsp;|&nbsp;
+    手动更新: <code>python C:/Users/27170/InfoDashboard/update.py</code> &nbsp;|&nbsp;
+    页面每 30 分钟自动刷新
+  </footer>
 </div>
+
+<script>
+window.__DATA__ = {"generated_at": "2026-08-10 05:15", "update_note": "每日 12:00 / 17:00 由 WorkBuddy 定时自动更新", "ashare": {"indices": [{"name": "上证指数", "code": "000001", "price": 3940.04, "pct": 1.02, "chg": 39.69, "amount": "12095亿"}, {"name": "深证成指", "code": "399001", "price": 14311.01, "pct": 1.42, "chg": 200.89, "amount": "14549亿"}, {"name": "创业板指", "code": "399006", "price": 3563.12, "pct": 1.35, "chg": 47.56, "amount": "7301亿"}, {"name": "沪深300", "code": "000300", "price": 4694.44, "pct": 0.93, "chg": 43.13, "amount": "7884亿"}, {"name": "科创50", "code": "000688", "price": 1744.02, "pct": 2.51, "chg": 42.73, "amount": "1363亿"}, {"name": "北证50", "code": "899050", "price": 1134.24, "pct": 1.01, "chg": 11.37, "amount": "192亿"}], "gainers": [{"name": "N展芯", "code": "301707", "pct": 396.89, "price": 116.52}, {"name": "锐翔智能", "code": "920178", "pct": 20.21, "price": 110.02}, {"name": "志特新材", "code": "300986", "pct": 20.03, "price": 14.8}, {"name": "博腾股份", "code": "300363", "pct": 20.02, "price": 20.44}, {"name": "近岸蛋白", "code": "688137", "pct": 20.01, "price": 46.72}, {"name": "毕得医药", "code": "688073", "pct": 20.01, "price": 61.6}], "losers": [{"name": "C津富", "code": "603468", "pct": -17.98, "price": 30.75}, {"name": "名家汇", "code": "300506", "pct": -13.48, "price": 5.65}, {"name": "*ST卓然", "code": "688121", "pct": -10.28, "price": 2.27}, {"name": "风范股份", "code": "601700", "pct": -10.06, "price": 6.44}, {"name": "大晟文化", "code": "600892", "pct": -10.04, "price": 4.12}, {"name": "鑫宏业", "code": "301310", "pct": -10.03, "price": 53.72}], "status": {"state": "未开盘", "label": "今日尚未开盘", "date": "2026-08-10"}}, "global": [{"name": "恒生指数", "code": "HSI", "price": 25668.03, "pct": 0.54, "chg": 137.75, "amount": "2597亿"}, {"name": "道琼斯", "code": ".DJI", "price": 54036.93, "pct": 0.28, "chg": 151.83, "amount": "2044788416亿"}, {"name": "纳斯达克", "code": ".IXIC", "price": 26690.62, "pct": 1.3, "chg": 342.27, "amount": "19238211278亿"}, {"name": "标普500", "code": ".INX", "price": 7757.64, "pct": 0.62, "chg": 47.68, "amount": "2109956733亿"}], "anime": {"date": "08-10", "weekday": "月", "items": [{"id": 569116, "name": "ぐらんぶる Season 3", "name_cn": "碧蓝之海 第三季", "score": 7.1, "img": "http://lain.bgm.tv/pic/cover/c/f1/bf/569116_n6dPq.jpg", "air_date": "2026-07-06", "rank": 2347}, {"id": 607340, "name": "透明な夜に駆ける君と、目に見えない恋をした。", "name_cn": "与奔驰于透明之夜的你，谈一场看不见的恋爱。", "score": 6.9, "img": "http://lain.bgm.tv/pic/cover/c/71/44/607340_n8Rrl.jpg", "air_date": "2026-07-06", "rank": 2865}, {"id": 569671, "name": "炎の闘球女 ドッジ弾子", "name_cn": "斗球女弹子", "score": 6.1, "img": "http://lain.bgm.tv/pic/cover/c/5a/fe/569671_0HZvf.jpg", "air_date": "2026-07-06", "rank": null}, {"id": 637339, "name": "北斗の拳 拳王軍ザコたちの挽歌 第2クール", "name_cn": "北斗神拳 拳王军杂兵们的挽歌 第二季", "score": 6.1, "img": "http://lain.bgm.tv/pic/cover/c/d0/a9/637339_93zPo.jpg", "air_date": "2026-07-06", "rank": null}, {"id": 491582, "name": "天子传奇：姬发篇", "name_cn": "天子传奇：姬发篇", "score": 6.0, "img": "http://lain.bgm.tv/pic/cover/c/26/04/491582_d967P.jpg", "air_date": "2026-07-20", "rank": null}, {"id": 663444, "name": "King of the Hill Season 15", "name_cn": "一家之主 第15季", "score": 6.0, "img": "http://lain.bgm.tv/pic/cover/c/1e/f8/663444_i2im9.jpg", "air_date": "2026-07-20", "rank": null}, {"id": 590786, "name": "ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。", "name_cn": "『你们先走我断后』，于是10年后我成为了传说", "score": 5.7, "img": "http://lain.bgm.tv/pic/cover/c/2c/93/590786_48D8M.jpg", "air_date": "2026-07-06", "rank": 8479}, {"id": 528828, "name": "骸骨騎士様、只今異世界へお出掛け中Ⅱ", "name_cn": "骸骨骑士大人异世界冒险中 第二季", "score": 5.3, "img": "http://lain.bgm.tv/pic/cover/c/1d/71/528828_oQl2M.jpg", "air_date": "2026-07-06", "rank": 8811}, {"id": 636067, "name": "捨てられ聖女の異世界ごはん旅 隠れスキルでキャンピングカーを召喚しました", "name_cn": "无用圣女的异世界美食之旅 凭借隐藏技能召唤露营车", "score": 5.3, "img": "http://lain.bgm.tv/pic/cover/c/75/fd/636067_0uuym.jpg", "air_date": "2026-07-06", "rank": 7883}, {"id": 456080, "name": "転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件", "name_cn": "转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥们儿", "score": 5.1, "img": "http://lain.bgm.tv/pic/cover/c/ce/e2/456080_C4q4C.jpg", "air_date": "2026-07-06", "rank": 9602}, {"id": 579246, "name": "ブチ切れ令嬢は報復を誓いました。～魔導書の力で祖国を叩き潰します～", "name_cn": "暴怒千金发誓复仇。～凭借魔导书之力打垮祖国～", "score": 5.0, "img": "http://lain.bgm.tv/pic/cover/c/e2/dd/579246_61291.jpg", "air_date": "2026-07-06", "rank": 9193}, {"id": 456081, "name": "最強出涸らし皇子の暗躍帝位争い", "name_cn": "最强废渣皇子暗中活跃于帝位之争", "score": 4.9, "img": "http://lain.bgm.tv/pic/cover/c/a7/a6/456081_Bs2nE.jpg", "air_date": "2026-07-06", "rank": 9156}, {"id": 607933, "name": "万古至尊：李云霄传", "name_cn": "", "score": 3.0, "img": "http://lain.bgm.tv/pic/cover/c/2f/c0/607933_uzVv6.jpg", "air_date": "2026-07-20", "rank": null}, {"id": 595884, "name": "Marvel's Spidey and His Amazing Friends Season 5", "name_cn": "蜘蛛侠与他的神奇朋友们 第五季", "score": null, "img": "http://lain.bgm.tv/pic/cover/c/b2/2b/595884_0QYyv.jpg", "air_date": "2026-07-13", "rank": null}]}, "ukraine": {"title": "Russian Offensive Campaign Assessment", "summary": "ISW’s Russia and Ukraine team produces the maps and analysis of record of the war in Ukraine. The Russian Offensive Campaign Assessment provides a synthetic running intelligence estimate of Putin’s political and military objectives in Ukraine and the design, prosecution, and outcomes of Russia’s war effort. ISW has published this update daily since Russia’s full-scale invasion of Ukraine in February 2022. Each update includes an assessment of the latest battlefield changes at the operational and tactical levels of war as well as an updated strategic assessment and forecast of the war’s trajectory along with numer", "map_image": "https://understandingwar.org/wp-content/uploads/2026/08/Russo-Ukrainian-War-August-8-2026.webp", "map_url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-august-8-2026-at-130-pm-et/", "url": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment", "links": [{"name": "ISW 控制区地图详情", "url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-august-8-2026-at-130-pm-et/"}, {"name": "实时战线地图 Liveuamap", "url": "https://liveuamap.com/"}, {"name": "深州地图 DeepStateMap", "url": "https://deepstatemap.live/en"}, {"name": "ISW 评估原文", "url": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment"}]}, "ai": {"news_zh": [{"title": "甲骨文 OpenJDK 项目新规：不允许提交 AI 生成代码", "link": "https://www.ithome.com/0/987/615.htm", "time": "08-09 21:22", "src": "IT之家"}, {"title": "5 岁孩子使用 AI 后“暴躁易怒”，家长发现 AI 竟会迎合孩子编造血腥暴力内容", "link": "https://www.ithome.com/0/987/603.htm", "time": "08-09 19:29", "src": "IT之家"}, {"title": "员工用 AI 批量提交诉讼，英国就业法院诉状激增", "link": "https://www.ithome.com/0/987/602.htm", "time": "08-09 19:28", "src": "IT之家"}, {"title": "2026 年上半年全国人形机器人领域新设企业 11.6 万户，同比增长 9.5%", "link": "https://www.ithome.com/0/987/596.htm", "time": "08-09 18:41", "src": "IT之家"}, {"title": "穆迪警告：银行加速拥抱 AI 或将陷入科技巨头依赖", "link": "https://www.ithome.com/0/987/590.htm", "time": "08-09 18:14", "src": "IT之家"}, {"title": "消息称 iQOO Z11S 手机本月发布，搭载天玑 7500 / Turbo 芯片", "link": "https://www.ithome.com/0/987/583.htm", "time": "08-09 17:41", "src": "IT之家"}, {"title": "新加坡总理黄循财谈 AI：将利用新技术提高生产效率、创造高质量就业岗位", "link": "https://www.ithome.com/0/987/582.htm", "time": "08-09 17:30", "src": "IT之家"}, {"title": "英伟达拟向星际之门项目背后电力企业Lancium最高投资30亿美元", "link": "https://finance.sina.com.cn/7x24/2026-08-10/doc-inimuetz3123250.shtml", "time": "08-10 04:00", "src": "环球市场播报"}], "hf": [{"id": "MiniMaxAI/MiniMax-H3", "likes": 3227, "downloads": 35295, "pipeline": "image-text-to-video"}, {"id": "deepseek-ai/DeepSeek-V4-Flash-0731", "likes": 2933, "downloads": 868576, "pipeline": "text-generation"}, {"id": "Comfy-Org/MiniMax-H3", "likes": 1063, "downloads": 4947943, "pipeline": ""}, {"id": "moonshotai/Kimi-K3", "likes": 10393, "downloads": 1456459, "pipeline": "image-text-to-text"}, {"id": "larryvrh/MiniMax-H3-Turbo-Lora", "likes": 542, "downloads": 0, "pipeline": "text-to-video"}, {"id": "LiquidAI/LFM2.5-2.6B", "likes": 447, "downloads": 85651, "pipeline": "text-generation"}], "models": [{"name": "DeepSeek-V4-Pro", "vendor": "深度求索", "note": "1.6T总参/49B激活, 1M上下文; 8/6正式版登顶 OpenRouter 调用量"}, {"name": "Kimi K3", "vendor": "月之暗面", "note": "7月中旬发布, 两万亿参数级, 1M 上下文, Agent 能力登顶全球榜单"}, {"name": "GLM-5.2", "vendor": "智谱AI", "note": "745B/44B MoE 开源, 200K上下文; 另有 Solid 1M 无损上下文版"}, {"name": "Qwen3.8-Max", "vendor": "阿里通义", "note": "8月正式发布, 参数规模达 2.4 万亿"}, {"name": "MiniMax H3 / M3", "vendor": "MiniMax", "note": "H3 多模态生成模型开源, 视频编辑能力全球第一"}, {"name": "混元 Hy3", "vendor": "腾讯", "note": "295B/21B 激活 MoE, 256K 上下文, 开源; 快慢思维融合"}, {"name": "MiMo-V2.5-Pro", "vendor": "小米", "note": "1.02T/42B 激活, 1M 上下文, MIT 开源, 长期 Agent 任务"}, {"name": "GPT-5.5", "vendor": "OpenAI", "note": "2026-05 发布, 800K 输入/128K 输出, $3/$20 每百万 token"}, {"name": "Gemini 3.1 Pro", "vendor": "Google", "note": "ARC-AGI-2 达 77.1%, 推理/多模态/Agent 全面升级"}, {"name": "Claude Sonnet 4.6", "vendor": "Anthropic", "note": "1M 上下文, 编码与电脑操作能力显著提升, 保持原价"}], "video_models": [{"name": "Seedance 2.5", "vendor": "字节跳动", "note": "长叙事+多模态参考+编辑能力, 音画联合生成"}, {"name": "MiniMax H3", "vendor": "MiniMax", "note": "2K 分辨率直出, 最长15秒音画内容, 视频编辑榜第一"}, {"name": "可灵 2.x", "vendor": "快手", "note": "国内头部文生视频, 电影级运镜"}, {"name": "通义万相 Wan", "vendor": "阿里", "note": "开源视频生成, 2.1 系列性能领跑"}, {"name": "Sora 2", "vendor": "OpenAI", "note": "文生视频标杆, 原生多模态叙事"}, {"name": "Veo 3", "vendor": "Google", "note": "原生音频+视频, 专业级质感"}, {"name": "即梦 Dreamina", "vendor": "字节", "note": "面向创作者的图像视频工具集"}, {"name": "Vidu 2", "vendor": "生数科技", "note": "高一致性, 首尾帧控制出色"}, {"name": "Runway Gen-4", "vendor": "Runway", "note": "专业影视工作流, 场景一致性"}, {"name": "混元视频", "vendor": "腾讯", "note": "全链路视频生成, 与元宝深度集成"}]}, "hardware": [{"cat": "CPU", "name": "AMD Ryzen 9 9850X3D", "note": "2026 游戏CPU之王: 5.6GHz/104MB缓存, 较 i9-285K 快约27%", "link": "https://www.amd.com/zh-hans/products/processors"}, {"cat": "CPU", "name": "Intel Nova Lake(预览)", "note": "48核(16P+32E), 18A工艺, LGA1954新插槽, 预计2026年底上市", "link": "https://www.intel.cn/"}, {"cat": "显卡", "name": "NVIDIA RTX 5090 / RTX Spark", "note": "Blackwell 旗舰; 新增 ARM 架构 PC 芯片 RTX Spark 对标苹果 M5", "link": "https://www.nvidia.cn/"}, {"cat": "显卡", "name": "AMD RX 9070 GRE", "note": "RDNA4, 12GB, 1440p 甜品卡, $549, 较 RTX 5060 Ti 快约21%", "link": "https://www.amd.com/zh-hans/products/graphics"}, {"cat": "主板", "name": "AM5 平台(至2029) / X970", "note": "AMD 承诺 AM5 支持到2029; Intel 平台换 LGA1954 需换新主板", "link": "https://www.asus.com/cn/"}, {"cat": "内存", "name": "DDR5 8000+ / CUDIMM", "note": "高频 DDR5 普及, 主动散热内存登场(降温约15℃), EXPO 一键超频", "link": "https://www.gskill.com/"}, {"cat": "显示器", "name": "1000Hz / 5K Mini-LED", "note": "宏碁首发1000Hz电竞屏; 微星5K Mini-LED双模(5K@180Hz/2K@330Hz)", "link": "https://www.acer.com.cn/"}, {"cat": "键盘", "name": "磁轴/光轴电竞键盘", "note": "RT 快速触发成主流, 国产客制化厂牌百花齐放", "link": "https://www.vgn.com.cn/"}, {"cat": "耳机", "name": "旗舰降噪 / 电竞耳机", "note": "索尼 WH-1000XM 系列 / Audeze 平板振膜 / HyperX Cloud III", "link": "https://www.sony.com.cn/"}, {"cat": "鼠标", "name": "轻量化旗舰", "note": "罗技 G Pro X Superlight 2 / 雷蛇 Viper V3 Pro / 国产 VXE", "link": "https://www.logitech.com.cn/"}], "hw_news": [{"title": "技嘉重新推出 B760M GAMING 主板：DDR4 配 PCIe 5.0 插槽", "link": "https://www.ithome.com/0/987/636.htm", "time": "08-09 22:55", "src": "IT之家"}, {"title": "到手价16499元！华硕ROG魔霸9X台式机上新：酷睿Ultra 7+32GB DDR5", "link": "https://finance.sina.com.cn/tech/roll/2026-08-07/doc-inimnvki0012633.shtml", "time": "08-07 19:09", "src": "快科技"}, {"title": "华为何刚官宣 FreeClip 2 耳夹耳机配饰上新，和法国珠宝品牌 Les Néréides 达成合作", "link": "https://finance.sina.com.cn/tech/digi/2026-08-07/doc-inimnvkf3242334.shtml", "time": "08-07 19:07", "src": "IT之家"}, {"title": "华硕 ROG 魔霸 9X 主机新增 U7 270K PLUS + RTX 5070 型号，32G 大内存 17999 元", "link": "https://finance.sina.com.cn/tech/digi/2026-08-07/doc-inimnvkh9972167.shtml", "time": "08-07 17:48", "src": "IT之家"}, {"title": "Lazard新兴市场股票基金抄底三星 看好内存芯片上行周期", "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-07/doc-inimnrac4108795.shtml", "time": "08-07 15:41", "src": "环球市场播报"}], "kojima": {"news": [{"title": "小岛秀夫客串日剧《VIVANT》第二季第11集, 饰演警视总监\"绵贯贤\", 摘眼镜剃胡造型大反转", "link": "https://dy.163.com/article/L2RI4BGS0526K1KN.html", "time": "精选", "src": "资讯整理"}, {"title": "小岛工作室联名日本音频品牌 km5 推出《死亡搁浅2》限定 CD 播放器, 荧光橙致敬 BB Pod", "link": "https://www.163.com/dy/article/L3ETSAA705561FY7.html", "time": "精选", "src": "资讯整理"}, {"title": "小岛秀夫 X 发布\"早上好\"动态, 配图羊文学《Keep Walking》封面引玩家热议", "link": "https://game.zol.com.cn/1226/12268058.html", "time": "精选", "src": "资讯整理"}], "profile": {"name": "小岛秀夫", "birth": "1963-08-24 (神奈川)", "role": "游戏设计师·制作人, Kojima Productions 创始人", "icon_works": ["合金装备 MGS 系列(1987-2015)", "死亡搁浅(2019)", "死亡搁浅2: 海滩(2025-06-26, PS5)", "OD (Xbox, 与 Jordan Peele 合作的恐怖作品)", "Physint (谍战新作)", "新东京工作室(2025)"], "links": [{"name": "KOJIMA PRODUCTIONS 官网", "url": "https://www.kojimaproductions.jp/"}, {"name": "X @HIDEO_KOJIMA_EN", "url": "https://x.com/HIDEO_KOJIMA_EN"}]}}, "twice": {"news": [{"title": "TWICE 出道10周年: 4月在日本国家体育场(MUFG Stadium)连开3场360°舞台演唱会, 刷新纪录", "link": "https://lehoivietnam.com.vn/zh-hans/su-kien/5086-twice-mufg-stadium-concert-series", "time": "精选", "src": "资讯整理"}, {"title": "娜琏确定担任 8/29 台北大巨蛋 SINGDOME 音乐电台演出嘉宾", "link": "https://www.163.com/dy/article/L3DF6THD05528K16.html", "time": "精选", "src": "资讯整理"}, {"title": "志效确认以 SPECIAL HEADLINER 身份加盟 9/12 高雄 WATERBOMB 水炸弹音乐节", "link": "https://www.163.com/dy/article/L3DF6THD05528K16.html", "time": "精选", "src": "资讯整理"}, {"title": "《THIS IS FOR》第六次世巡: 定延因健康因素缺席 10/4 菲律宾站, 世巡剩余44场", "link": "https://cn.hitkn.com/a/shi-xun-huan-you-44chang-twiceding-yan-shen-ti-chu-zhuang-kuang-que-ding-que-xi-fei-lu-bin.html", "time": "精选", "src": "资讯整理"}], "profile": {"name": "TWICE", "birth": "2015-10-20 出道 (JYP Entertainment), 2026年出道10周年", "members": "9人: 娜琏·定延·Momo·Sana·志效·Mina·多贤·彩瑛·子瑜", "albums": ["《STRATEGY》(2024-12, 14th Mini)", "《THIS IS FOR》(2025, 15th Mini·世巡同名)", "《ENEMY》(2026, 最新专辑)"], "tour": "第六次世界巡演《THIS IS FOR》: 4月日本国家体育场360°舞台; 10-12月新加坡/吉隆坡/悉尼/墨尔本/高雄/香港/曼谷; 剩余44场", "links": [{"name": "JYP TWICE 官方", "url": "https://twice.jype.com/"}, {"name": "YouTube 官方频道", "url": "https://www.youtube.com/@TWICE"}]}}, "anime_industry": {"news": [{"title": "我国发现的首个独立锗酸盐矿物“乌斯河锗矿”正式获批，氧化锗平均含量高达 72%", "link": "https://www.ithome.com/0/987/631.htm", "time": "08-09 22:13", "src": "IT之家"}, {"title": "《动画产业报告2025》: 市场规模达 3.84 万亿日元创历史新高, 海外占比约 56.5%", "link": "https://www.info35.net/hotopics/44871.html", "time": "精选", "src": "资讯整理"}, {"title": "东宝2026年2月期营收3606亿日元/营业利润678亿日元均创纪录; 角川营业利润同比下滑51.3%", "link": "https://news.sohu.com/a/1031048251_761993", "time": "精选", "src": "资讯整理"}, {"title": "MAPPA 与 Netflix 建立战略合作伙伴关系, 打造面向全球观众的新项目", "link": "https://www.info35.net/hotopics/44871.html", "time": "精选", "src": "资讯整理"}, {"title": "专家示警\"串流泡沫到顶\": KADOKAWA、TBS动画事业、Studio KAI 相继亏损或大幅减益", "link": "https://www.ucmanga.com/a/ri-ben-dong-hua-ye-jing-bao-xiang-qi-da-han-jie-lian-yu-sun-zhuan-jia-shi-jing-chuan-liu-pao-mo-dao-ding-liao.html", "time": "精选", "src": "资讯整理"}], "stats": [{"k": "市场规模(2024年度)", "v": "3.84 万亿日元", "note": "《动画产业报告2025》历史新高, 稳步迈向4万亿"}, {"k": "海外市场占比", "v": "约 56.5%", "note": "首次持续超过国内市场, 流媒体(Netflix/Crunchyroll)驱动"}, {"k": "电视动画年产量", "v": "约 300 部", "note": "2000年代初约100部, 制作数量持续攀升"}, {"k": "制作市场", "v": "营收创新高", "note": "但缺工+外包成本上涨, 倒闭/停业案例增加"}, {"k": "行业分化", "v": "赢家通吃", "note": "东宝(营业利润678亿日元新高)、索尼/Aniplex 稳健; 角川利润 -51.3%"}, {"k": "趋势信号", "v": "串流泡沫隐忧", "note": "二次开发/海外授权成关键; MAPPA x Netflix 战略合作"}]}};
+(function(){
+const D = window.__DATA__ || {};
+const $ = id => document.getElementById(id);
+const esc = s => String(s==null?"":s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
+const pct = v => { const x=parseFloat(v); return isNaN(x)?"--":(x>0?"+":"")+x.toFixed(2)+"%"; };
+const pctCls = v => { const x=parseFloat(v); return x>0?"up":(x<0?"down":"flat"); };
+const newsHTML = (arr, max) => {
+  if(!arr || !arr.length) return '<div class="empty">暂无新闻</div>';
+  return '<div class="news">'+arr.slice(0,max||10).map(n => {
+    const meta = [n.time, n.src].filter(Boolean).join(' · ');
+    return '<a href="'+esc(n.link)+'" target="_blank" rel="noopener">'+
+      '<span class="t">'+esc(n.title)+'</span>'+
+      (meta?'<span class="time">'+esc(meta)+'</span>':'')+
+    '</a>';
+  }).join('')+'</div>';
+};
+const tableHTML = (arr, cols) => {
+  if(!arr || !arr.length) return '<div class="empty">暂无数据</div>';
+  return '<table class="tbl">'+arr.map(r =>
+    '<tr>'+cols.map(c => c==='name' ? '<td class="n">'+esc(r[c])+'</td>'
+      : c==='note'||c==='d' ? '<td class="d">'+esc(r[c])+'</td>'
+      : '<td class="v">'+esc(r[c])+'</td>').join('')+'</tr>').join('')+'</table>';
+};
+
+/* 头部 */
+$("genAt").textContent = D.generated_at || "--";
+function tick(){ const d=new Date();
+  $("clock").textContent = d.toLocaleString("zh-CN",{hour12:false}); }
+tick(); setInterval(tick,1000);
+setTimeout(()=>location.reload(), 30*60*1000);
+
+/* A股 */
+(function(){
+  const A = D.ashare || {};
+  const st = A.status || {};
+  $("ashareTag").textContent = st.label || "--";
+  let idx = '<div class="idx">';
+  (A.indices||[]).forEach(i=>{
+    idx += '<div class="cell"><div class="nm"><span>'+esc(i.name)+'</span><span class="'+pctCls(i.pct)+'">'+pct(i.pct)+'</span></div>'+
+      '<div class="px '+pctCls(i.pct)+'">'+esc(i.price)+'</div>'+
+      '<div class="pct '+pctCls(i.pct)+'">'+esc(i.amount||"--")+'</div></div>';
+  });
+  idx += '</div>';
+  let minis = '<div class="mini">';
+  minis += '<div><h3>涨幅榜</h3><table>'+((A.gainers||[]).slice(0,5).map(g =>
+    '<tr><td><span class="nmc">'+esc(g.name)+'<em>'+esc(g.code)+'</em></span></td>'+
+    '<td class="up">'+pct(g.pct)+'</td></tr>').join(''))+'</table></div>';
+  minis += '<div><h3>跌幅榜</h3><table>'+((A.losers||[]).slice(0,5).map(g =>
+    '<tr><td><span class="nmc">'+esc(g.name)+'<em>'+esc(g.code)+'</em></span></td>'+
+    '<td class="down">'+pct(g.pct)+'</td></tr>').join(''))+'</table></div>';
+  minis += '</div>';
+  let glb = '<div class="glb">'+(D.global||[]).map(g =>
+    '<span>'+esc(g.name)+'<b class="'+pctCls(g.pct)+'">'+esc(g.price)+'</b><b class="'+pctCls(g.pct)+'">'+pct(g.pct)+'</b></span>'
+  ).join('')+'</div>';
+  const has = (A.indices||[]).length;
+  $("ashareBody").innerHTML = has ? idx+minis+glb : '<div class="empty">行情获取失败, 等待下次自动更新</div>'+(glb||"");
+})();
+
+/* 新番 */
+(function(){
+  const A = D.anime || {};
+  $("animeTag").textContent = (A.date||"--")+" · 周"+esc(A.weekday||"?");
+  const items = A.items || [];
+  if(!items.length){ $("animeBody").innerHTML = '<div class="empty">今日暂无放送数据</div>'; return; }
+  $("animeBody").innerHTML = '<div class="anime">'+items.map(it => {
+    const img = it.img ? '<img src="'+esc(it.img)+'" loading="lazy" onerror="this.style.visibility=\'hidden\'">' : '<img style="visibility:hidden">';
+    return '<a class="it" href="https://bgm.tv/subject/'+esc(it.id)+'" target="_blank" rel="noopener">'+
+      img+'<div class="info"><div class="cn">'+esc(it.name_cn||it.name)+'</div>'+
+      '<div class="jp">'+(it.name_cn?esc(it.name):"")+'</div></div>'+
+      '<span class="sc">'+(it.score!=null?esc(it.score.toFixed?it.score.toFixed(2):it.score):"")+'</span></a>';
+  }).join('')+'</div>';
+})();
+
+/* 俄乌 */
+(function(){
+  const U = D.ukraine || {};
+  $("uaTag").textContent = "前线动态";
+  const map = U.map_image
+    ? '<div class="ua-map"><a href="'+esc(U.map_url||U.map_image)+'" target="_blank" rel="noopener" class="zoom">查看地图详情 ↗</a>'+
+      '<img src="'+esc(U.map_image)+'" alt="ISW 俄乌控制区地图" onerror="this.parentElement.querySelector(\'.cap\').textContent=\'地图加载失败, 请点击右上角查看详情\'">'+
+      '<div class="cap">ISW 每日更新的前线控制区评估图 — 点击查看地图详情</div></div>'
+    : '<div class="ua-map" style="display:flex;align-items:center;justify-content:center;min-height:180px">'+
+      '<span class="dim">前线地图暂不可用<br>请访问下方实时地图站点</span></div>';
+  const legend = '<div class="legend">'+
+    '<span><i style="background:#7b2d3b"></i>俄军控制区</span>'+
+    '<span><i style="background:#c05a5a"></i>俄方声称控制</span>'+
+    '<span><i style="background:#2e6e8e"></i>乌军控制区</span>'+
+    '<span><i style="background:#6fb1c9"></i>乌方声称控制</span>'+
+    '<span><i style="background:#e0a33a"></i>近期推进方向</span>'+
+    '</div>';
+  const links = '<div class="links">'+((U.links||[]).map(l=>
+    '<a href="'+esc(l.url)+'" target="_blank" rel="noopener">'+esc(l.name)+'</a>').join(''))+'</div>';
+  $("uaWrap").innerHTML = map + '<div class="ua-side">'+
+    '<h3>'+esc(U.title||"ISW 战况评估")+'</h3>'+
+    '<div class="sum">'+(U.summary?esc(U.summary):'<span class="dim">摘要暂不可用</span>')+'</div>'+
+    legend + links + '</div>';
+})();
+
+/* AI */
+(function(){
+  const A = D.ai || {};
+  const newsCol = '<div class="col"><h3>AI 快讯 · 中文</h3>'+newsHTML(A.news_zh,8)+'</div>';
+  const llmCol = '<div class="col"><h3>大模型速览 (2026-08)</h3>'+tableHTML(A.models,['name','vendor','note'])+'</div>';
+  let videoCol = '<div class="col"><h3>视频生成模型</h3>'+tableHTML(A.video_models,['name','vendor','note']);
+  if((A.hf||[]).length){
+    videoCol += '<h3 style="margin-top:10px">HuggingFace 趋势模型</h3><div class="hf">'+
+      A.hf.slice(0,5).map(m=>'<div class="m"><b>'+esc(m.id)+'</b><span class="mut">♥ '+esc(m.likes)+'</span></div>').join('')+'</div>';
+  }
+  videoCol += '</div>';
+  $("aiBody").innerHTML = newsCol + llmCol + videoCol;
+})();
+
+/* 硬件 */
+(function(){
+  const H = D.hardware || [];
+  $("hwBody").innerHTML = H.length
+    ? '<div class="hw">'+H.map(x=>'<a href="'+esc(x.link||"#")+'" target="_blank" rel="noopener">'+
+        '<span class="cat">'+esc(x.cat)+'</span><span class="nm">'+esc(x.name)+'</span>'+
+        '<span class="nt">'+esc(x.note)+'</span></a>').join('')+'</div>'
+    : '<div class="empty">暂无数据</div>';
+  if(D.hw_news && D.hw_news.length){
+    const nw = $("hwBody").innerHTML;
+    $("hwBody").innerHTML = nw + '<div style="margin-top:12px"><h3 style="font-size:12px;color:var(--mut);margin-bottom:6px">硬件快讯</h3>'+newsHTML(D.hw_news,5)+'</div>';
+  }
+})();
+
+/* 小岛秀夫 */
+(function(){
+  const K = D.kojima || {}; const P = K.profile || {};
+  let h = '<div class="profile"><b>'+esc(P.name||"小岛秀夫")+'</b> · '+esc(P.birth||"")+'<br>'+esc(P.role||"")+'</div>';
+  if((P.icon_works||[]).length){
+    h += '<div class="chips">'+(P.icon_works||[]).map(w=>'<span>'+esc(w)+'</span>').join('')+'</div>';
+  }
+  if((P.links||[]).length){
+    h += '<div class="links" style="margin:8px 0 10px">'+(P.links||[]).map(l=>'<a href="'+esc(l.url)+'" target="_blank" rel="noopener">'+esc(l.name)+'</a>').join('')+'</div>';
+  }
+  h += '<div class="news-card">'+newsHTML(K.news,7)+'</div>';
+  $("kojimaBody").innerHTML = h;
+})();
+
+/* TWICE */
+(function(){
+  const T = D.twice || {}; const P = T.profile || {};
+  let h = '<div class="profile"><b>'+esc(P.name||"TWICE")+'</b><br>'+esc(P.birth||"")+'<br>'+esc(P.members||"")+'</div>';
+  if((P.albums||[]).length){
+    h += '<div class="chips">'+(P.albums||[]).map(a=>'<span>'+esc(a)+'</span>').join('')+'</div>';
+  }
+  if(P.tour){ h += '<div class="profile" style="margin-top:6px">巡演: '+esc(P.tour)+'</div>'; }
+  if((P.links||[]).length){
+    h += '<div class="links" style="margin:6px 0 10px">'+(P.links||[]).map(l=>'<a href="'+esc(l.url)+'" target="_blank" rel="noopener">'+esc(l.name)+'</a>').join('')+'</div>';
+  }
+  h += '<div class="news-card">'+newsHTML(T.news,7)+'</div>';
+  $("twiceBody").innerHTML = h;
+})();
+
+/* 日本动画产业 */
+(function(){
+  const A = D.anime_industry || {};
+  let h = '<div class="stats">'+((A.stats||[]).map(s=>
+    '<div class="st"><span class="k">'+esc(s.k)+'</span><span class="v">'+esc(s.v)+'</span><span class="n">'+esc(s.n)+'</span></div>'
+  ).join(''))+'</div>';
+  h += '<h3 style="font-size:12px;color:var(--mut);margin:10px 0 6px">产业快讯</h3><div class="news-card">'+newsHTML(A.news,6)+'</div>';
+  $("animeIndBody").innerHTML = h;
+})();
+
+/* 说明 */
+(function(){
+  const srcs = ["腾讯行情 (A股/全球指数)","新浪行情 (涨跌榜)","Bangumi (今日新番)",
+    "ISW (俄乌评估+地图)","新浪/IT之家/机核 (新闻)","HuggingFace (趋势模型)"];
+  $("infoBody").innerHTML =
+    '<b>定时更新:</b> 每天 <b>12:00</b> 与 <b>17:00</b> 自动抓取并重建本页<br>'+
+    '<b>自动刷新:</b> 页面每 30 分钟重载, 打开着即可看到新数据<br>'+
+    '<b>手动更新:</b> 运行 <code>python update.py</code> 后刷新页面<br>'+
+    '<b>数据源:</b><div class="src">'+srcs.map(s=>'<span>'+s+'</span>').join('')+'</div>';
+})();
+})();
+</script>
 </body>
 </html>

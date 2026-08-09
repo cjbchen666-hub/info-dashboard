@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10 04:46",
+  "generated_at": "2026-08-10 05:15",
   "update_note": "每日 12:00 / 17:00 由 WorkBuddy 定时自动更新",
   "ashare": {
     "indices": [
@@ -379,25 +379,25 @@
     "hf": [
       {
         "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3223,
+        "likes": 3227,
         "downloads": 35295,
         "pipeline": "image-text-to-video"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-        "likes": 2932,
+        "likes": 2933,
         "downloads": 868576,
         "pipeline": "text-generation"
       },
       {
         "id": "Comfy-Org/MiniMax-H3",
-        "likes": 1062,
+        "likes": 1063,
         "downloads": 4947943,
         "pipeline": ""
       },
       {
         "id": "moonshotai/Kimi-K3",
-        "likes": 10392,
+        "likes": 10393,
         "downloads": 1456459,
         "pipeline": "image-text-to-text"
       },
