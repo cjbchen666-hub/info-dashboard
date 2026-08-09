@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10 05:32",
+  "generated_at": "2026-08-10 05:58",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -303,13 +303,15 @@
   "ukraine": {
     "title": "Russian Offensive Campaign Assessment",
     "summary": "ISW’s Russia and Ukraine team produces the maps and analysis of record of the war in Ukraine. The Russian Offensive Campaign Assessment provides a synthetic running intelligence estimate of Putin’s political and military objectives in Ukraine and the design, prosecution, and outcomes of Russia’s war effort. ISW has published this update daily since Russia’s full-scale invasion of Ukraine in February 2022. Each update includes an assessment of the latest battlefield changes at the operational and tactical levels of war as well as an updated strategic assessment and forecast of the war’s trajectory along with numer",
-    "map_image": "https://understandingwar.org/wp-content/uploads/2026/08/Russo-Ukrainian-War-August-8-2026.webp",
-    "map_remote": "https://understandingwar.org/wp-content/uploads/2026/08/Russo-Ukrainian-War-August-8-2026.webp",
     "map_url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-august-8-2026-at-130-pm-et/",
     "url": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment",
     "links": [
       {
-        "name": "ISW 控制区地图详情",
+        "name": "ISW 评估原文",
+        "url": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment"
+      },
+      {
+        "name": "ISW 官方地图页",
         "url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-august-8-2026-at-130-pm-et/"
       },
       {
@@ -319,10 +321,20 @@
       {
         "name": "深州地图 DeepStateMap",
         "url": "https://deepstatemap.live/en"
+      }
+    ],
+    "news": [
+      {
+        "title": "今日战况: Russian Offensive Campaign Assessment",
+        "link": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment",
+        "time": "ISW每日评估",
+        "src": "ISW"
       },
       {
-        "name": "ISW 评估原文",
-        "url": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment"
+        "title": "俄罗斯通报称俄军持续打击敖德萨及尼古拉耶夫涉军目标",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimtchp8822104.shtml",
+        "time": "08-09 14:55",
+        "src": "环球市场播报"
       }
     ]
   },
@@ -380,19 +392,19 @@
     "hf": [
       {
         "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3230,
+        "likes": 3233,
         "downloads": 35295,
         "pipeline": "image-text-to-video"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-        "likes": 2933,
+        "likes": 2935,
         "downloads": 868576,
         "pipeline": "text-generation"
       },
       {
         "id": "Comfy-Org/MiniMax-H3",
-        "likes": 1064,
+        "likes": 1066,
         "downloads": 4947943,
         "pipeline": ""
       },
@@ -855,38 +867,6 @@
         "link": "https://www.ucmanga.com/a/ri-ben-dong-hua-ye-jing-bao-xiang-qi-da-han-jie-lian-yu-sun-zhuan-jia-shi-jing-chuan-liu-pao-mo-dao-ding-liao.html",
         "time": "精选",
         "src": "资讯整理"
-      }
-    ],
-    "stats": [
-      {
-        "k": "市场规模(2024年度)",
-        "v": "3.84 万亿日元",
-        "note": "《动画产业报告2025》历史新高, 稳步迈向4万亿"
-      },
-      {
-        "k": "海外市场占比",
-        "v": "约 56.5%",
-        "note": "首次持续超过国内市场, 流媒体(Netflix/Crunchyroll)驱动"
-      },
-      {
-        "k": "电视动画年产量",
-        "v": "约 300 部",
-        "note": "2000年代初约100部, 制作数量持续攀升"
-      },
-      {
-        "k": "制作市场",
-        "v": "营收创新高",
-        "note": "但缺工+外包成本上涨, 倒闭/停业案例增加"
-      },
-      {
-        "k": "行业分化",
-        "v": "赢家通吃",
-        "note": "东宝(营业利润678亿日元新高)、索尼/Aniplex 稳健; 角川利润 -51.3%"
-      },
-      {
-        "k": "趋势信号",
-        "v": "串流泡沫隐忧",
-        "note": "二次开发/海外授权成关键; MAPPA x Netflix 战略合作"
       }
     ]
   }
