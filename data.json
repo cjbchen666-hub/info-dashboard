@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10 05:15",
-  "update_note": "每日 12:00 / 17:00 由 WorkBuddy 定时自动更新",
+  "generated_at": "2026-08-10 05:26",
+  "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
       {
@@ -304,6 +304,7 @@
     "title": "Russian Offensive Campaign Assessment",
     "summary": "ISW’s Russia and Ukraine team produces the maps and analysis of record of the war in Ukraine. The Russian Offensive Campaign Assessment provides a synthetic running intelligence estimate of Putin’s political and military objectives in Ukraine and the design, prosecution, and outcomes of Russia’s war effort. ISW has published this update daily since Russia’s full-scale invasion of Ukraine in February 2022. Each update includes an assessment of the latest battlefield changes at the operational and tactical levels of war as well as an updated strategic assessment and forecast of the war’s trajectory along with numer",
     "map_image": "https://understandingwar.org/wp-content/uploads/2026/08/Russo-Ukrainian-War-August-8-2026.webp",
+    "map_remote": "https://understandingwar.org/wp-content/uploads/2026/08/Russo-Ukrainian-War-August-8-2026.webp",
     "map_url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-august-8-2026-at-130-pm-et/",
     "url": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment",
     "links": [
@@ -379,7 +380,7 @@
     "hf": [
       {
         "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3227,
+        "likes": 3229,
         "downloads": 35295,
         "pipeline": "image-text-to-video"
       },
@@ -391,7 +392,7 @@
       },
       {
         "id": "Comfy-Org/MiniMax-H3",
-        "likes": 1063,
+        "likes": 1064,
         "downloads": 4947943,
         "pipeline": ""
       },

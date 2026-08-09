@@ -252,8 +252,29 @@ def fetch_isw():
     summary = re.sub(r"\s+", " ", unescape(body or desc)).strip()[:620]
     if not map_img and not summary:
         return None
+
+    # 下载控制区地图到仓库, 页面用相对路径引用(规避 ISW/Cloudflare 防盗链导致浏览器 403)
+    local_map = ""
+    if map_img:
+        for attempt in range(2):
+            try:
+                img_bytes = http_get(map_img, timeout=45, headers={
+                    "Referer": url,
+                    "Accept": "image/webp,image/avif,image/*,*/*;q=0.8",
+                })
+                if img_bytes and img_bytes[:4] == b"RIFF" and len(img_bytes) > 30000:
+                    with open(os.path.join(BASE, "ukraine_map.webp"), "wb") as f:
+                        f.write(img_bytes)
+                    local_map = "ukraine_map.webp"
+                    break
+            except Exception:
+                pass
+            if attempt == 0:
+                time.sleep(3)
+
     return {"title": title[:120], "summary": summary,
-            "map_image": map_img, "map_url": map_url, "url": url,
+            "map_image": local_map or map_img,
+            "map_remote": map_img, "map_url": map_url, "url": url,
             "links": [
                 {"name": "ISW 控制区地图详情", "url": map_url},
                 {"name": "实时战线地图 Liveuamap", "url": "https://liveuamap.com/"},
@@ -850,7 +871,7 @@ setTimeout(()=>location.reload(), 30*60*1000);
   $("uaTag").textContent = "前线动态";
   const map = U.map_image
     ? '<div class="ua-map"><a href="'+esc(U.map_url||U.map_image)+'" target="_blank" rel="noopener" class="zoom">查看地图详情 ↗</a>'+
-      '<img src="'+esc(U.map_image)+'" alt="ISW 俄乌控制区地图" onerror="this.parentElement.querySelector(\'.cap\').textContent=\'地图加载失败, 请点击右上角查看详情\'">'+
+      '<img src="'+esc(U.map_image)+'" alt="ISW 俄乌控制区地图" onerror="if(!this.dataset.f){this.dataset.f=1;this.src=\''+esc(U.map_remote||U.map_image)+'\';}else{this.parentElement.querySelector(\'.cap\').textContent=\'地图加载失败, 请点击右上角查看详情\';}">'+
       '<div class="cap">ISW 每日更新的前线控制区评估图 — 点击查看地图详情</div></div>'
     : '<div class="ua-map" style="display:flex;align-items:center;justify-content:center;min-height:180px">'+
       '<span class="dim">前线地图暂不可用<br>请访问下方实时地图站点</span></div>';
