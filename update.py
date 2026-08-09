@@ -442,6 +442,24 @@ TWICE_PROFILE = {
     "name": "TWICE",
     "birth": "2015-10-20 出道 (JYP Entertainment), 2026年出道10周年",
     "members": "9人: 娜琏·定延·Momo·Sana·志效·Mina·多贤·彩瑛·子瑜",
+    "socials": [
+        {"platform": "Instagram", "handle": "@twicetagram", "url": "https://www.instagram.com/twicetagram/"},
+        {"platform": "X", "handle": "@JYPETWICE", "url": "https://x.com/JYPETWICE"},
+        {"platform": "YouTube", "handle": "@TWICE", "url": "https://www.youtube.com/@TWICE"},
+        {"platform": "TikTok", "handle": "@twice_tiktok_official", "url": "https://www.tiktok.com/@twice_tiktok_official"},
+        {"platform": "Facebook", "handle": "JYPETWICE", "url": "https://www.facebook.com/JYPETWICE"},
+    ],
+    "members_socials": [
+        {"name": "娜琏 Nayeon", "ig": "@nayeonyny", "url": "https://www.instagram.com/nayeonyny/"},
+        {"name": "定延 Jeongyeon", "ig": "@jy_piece", "url": "https://www.instagram.com/jy_piece/"},
+        {"name": "Momo 平井桃", "ig": "@momo", "url": "https://www.instagram.com/momo/"},
+        {"name": "Sana 凑崎纱夏", "ig": "@m.by__sana", "url": "https://www.instagram.com/m.by__sana/"},
+        {"name": "志效 Jihyo", "ig": "@_zyozyo", "url": "https://www.instagram.com/_zyozyo/"},
+        {"name": "Mina 名井南", "ig": "@mina_sr_my", "url": "https://www.instagram.com/mina_sr_my/"},
+        {"name": "多贤 Dahyun", "ig": "@dahhyunnee", "url": "https://www.instagram.com/dahhyunnee/"},
+        {"name": "彩瑛 Chaeyoung", "ig": "@chaeyo.0", "url": "https://www.instagram.com/chaeyo.0/"},
+        {"name": "子瑜 Tzuyu", "ig": "@thinkaboutzu", "url": "https://www.instagram.com/thinkaboutzu/"},
+    ],
     "albums": ["《STRATEGY》(2024-12, 14th Mini)", "《THIS IS FOR》(2025, 15th Mini·世巡同名)",
                "《ENEMY》(2026, 最新专辑)"],
     "tour": "第六次世界巡演《THIS IS FOR》: 4月日本国家体育场360°舞台; 10-12月新加坡/吉隆坡/悉尼/墨尔本/高雄/香港/曼谷; 剩余44场",
@@ -474,6 +492,20 @@ ANIME_IND_KW = ["动画", "动漫", "番剧", "二次元", "新海诚", "宫崎�
                 "OVA", "赛马娘", "龙珠", "高达", "宝可梦", "EVA"]
 
 _cur = lambda title, link, src="资讯整理": {"title": title, "link": link, "time": "精选", "src": src}
+HARDWARE_NEWS = [
+    _cur("Computex 2026: NVIDIA 发布 ARM 架构 PC 芯片 RTX Spark, 集成 Blackwell GPU, 对标苹果 M5",
+         "https://new.qq.com/rain/a/20260605A09PXY00"),
+    _cur("AMD 发布 Ryzen 7 7700X3D(104MB缓存,$329) 与 Radeon RX 9070 GRE(12GB,$549), 强化 1440p 游戏市场",
+         "https://www.91mobiles.com/hub/computex-2026-amd-ryzen-x3d-cpus-radeon-9070-gre"),
+    _cur("Intel 预览 Nova Lake 桌面平台: 最高48核(16P+32E), 18A 工艺, LGA1954 新插槽, 预计2026年底上市",
+         "https://www.160.com/article/12732.html"),
+    _cur("宏碁首发 1000Hz 电竞显示器; 微星 5K Mini-LED 双模电竞屏(5K@180Hz/2K@330Hz) 亮相 Computex 2026",
+         "https://www.160.com/article/12732.html"),
+    _cur("微星 40 周年发布 RTX 5090 LIGHTNING Z 旗舰与内置 AI 代理的 OLED 电竞显示器",
+         "https://www.160.com/article/12732.html"),
+    _cur("AMD 锐龙 AI Max 400 系列: 192GB 统一内存, 宣称本地可运行 300B 参数大模型",
+         "https://www.160.com/article/12732.html"),
+]
 KOJIMA_NEWS = [
     _cur("小岛秀夫客串日剧《VIVANT》第二季第11集, 饰演警视总监\"绵贯贤\", 摘眼镜剃胡造型大反转",
          "https://dy.163.com/article/L2RI4BGS0526K1KN.html"),
@@ -547,7 +579,7 @@ def collect():
             "video_models": VIDEO_MODELS,
         },
         "hardware": HARDWARE,
-        "hw_news": filter_news(pool, HW_KW, 5, []),
+        "hw_news": filter_news(pool, HW_KW, 12, HARDWARE_NEWS),
         "kojima": {
             "news": filter_news(pool, KOJIMA_KW, 7, KOJIMA_NEWS),
             "profile": KOJIMA_PROFILE,
@@ -696,6 +728,17 @@ a{color:inherit;text-decoration:none}
 .chips{display:flex;flex-wrap:wrap;gap:6px;margin:8px 0 4px}
 .chips span{font-size:11px;color:var(--txt);background:rgba(255,255,255,.045);border:1px solid var(--line);
   border-radius:15px;padding:3px 9px}
+.sec{font-size:12px;color:var(--mut);margin:10px 0 6px;font-weight:600;letter-spacing:1px}
+.soc{display:flex;flex-wrap:wrap;gap:6px}
+.soc a{display:flex;flex-direction:column;gap:1px;min-width:100px;padding:6px 10px;border:1px solid var(--line);
+  border-radius:9px;background:rgba(255,255,255,.03);transition:border-color .12s}
+.soc a:hover{border-color:rgba(249,168,212,.6)}
+.soc i{font-style:normal;font-size:10.5px;color:var(--mut)}
+.soc b{font-size:11.8px;color:var(--tw);font-weight:600;font-family:Consolas,monospace;white-space:nowrap}
+.soc.mem a{min-width:150px}
+.chips a{display:inline-block;font-size:11px;color:var(--txt);background:rgba(255,255,255,.045);
+  border:1px solid var(--line);border-radius:15px;padding:3px 9px;margin:2px}
+.chips a:hover{border-color:var(--hw)}
 .news-card{max-height:240px;overflow:auto;padding-right:3px}
 .news-card::-webkit-scrollbar{width:5px}
 .news-card::-webkit-scrollbar-thumb{background:#263448;border-radius:3px}
@@ -754,7 +797,7 @@ footer code{background:rgba(255,255,255,.05);border:1px solid var(--line);border
 
     <!-- 硬件外设 -->
     <section class="card s8" style="--ac:var(--hw)">
-      <div class="head"><span class="bar"></span><h2>电脑硬件 · 外设</h2><span class="tag" id="hwTag">CPU/主板/显卡/内存/显示器/键鼠耳</span></div>
+      <div class="head"><span class="bar"></span><h2>电脑硬件 · 外设</h2><span class="tag">新闻聚合</span></div>
       <div id="hwBody"></div>
     </section>
 
@@ -766,7 +809,7 @@ footer code{background:rgba(255,255,255,.05);border:1px solid var(--line);border
 
     <!-- TWICE -->
     <section class="card s4" style="--ac:var(--tw)">
-      <div class="head"><span class="bar"></span><h2>TWICE</h2><span class="tag">ONCE</span></div>
+      <div class="head"><span class="bar"></span><h2>TWICE</h2><span class="tag">SOCIAL × NEWS</span></div>
       <div id="twiceBody"></div>
     </section>
 
@@ -904,18 +947,16 @@ setTimeout(()=>location.reload(), 30*60*1000);
   $("aiBody").innerHTML = newsCol + llmCol + videoCol;
 })();
 
-/* 硬件 */
+/* 硬件(新闻聚合) */
 (function(){
+  let h = '<h3 class="sec">硬件快讯 · 新闻集合</h3><div class="news-card" style="max-height:400px">'+newsHTML(D.hw_news,12)+'</div>';
   const H = D.hardware || [];
-  $("hwBody").innerHTML = H.length
-    ? '<div class="hw">'+H.map(x=>'<a href="'+esc(x.link||"#")+'" target="_blank" rel="noopener">'+
-        '<span class="cat">'+esc(x.cat)+'</span><span class="nm">'+esc(x.name)+'</span>'+
-        '<span class="nt">'+esc(x.note)+'</span></a>').join('')+'</div>'
-    : '<div class="empty">暂无数据</div>';
-  if(D.hw_news && D.hw_news.length){
-    const nw = $("hwBody").innerHTML;
-    $("hwBody").innerHTML = nw + '<div style="margin-top:12px"><h3 style="font-size:12px;color:var(--mut);margin-bottom:6px">硬件快讯</h3>'+newsHTML(D.hw_news,5)+'</div>';
+  if(H.length){
+    h += '<h3 class="sec">近期旗舰速览</h3><div class="chips">'+H.map(x=>
+      '<a href="'+esc(x.link||"#")+'" target="_blank" rel="noopener"><b style="color:var(--hw)">'+esc(x.cat)+'</b> · '+esc(x.name)+'</a>'
+    ).join('')+'</div>';
   }
+  $("hwBody").innerHTML = h;
 })();
 
 /* 小岛秀夫 */
@@ -932,18 +973,21 @@ setTimeout(()=>location.reload(), 30*60*1000);
   $("kojimaBody").innerHTML = h;
 })();
 
-/* TWICE */
+/* TWICE(官方/成员社媒 + 新闻) */
 (function(){
   const T = D.twice || {}; const P = T.profile || {};
-  let h = '<div class="profile"><b>'+esc(P.name||"TWICE")+'</b><br>'+esc(P.birth||"")+'<br>'+esc(P.members||"")+'</div>';
-  if((P.albums||[]).length){
-    h += '<div class="chips">'+(P.albums||[]).map(a=>'<span>'+esc(a)+'</span>').join('')+'</div>';
+  let h = '<div class="profile"><b>'+esc(P.name||"TWICE")+'</b> · '+esc(P.birth||"")+'<br>'+esc(P.members||"")+'</div>';
+  if((P.socials||[]).length){
+    h += '<h3 class="sec">官方社媒</h3><div class="soc">'+(P.socials||[]).map(s=>
+      '<a href="'+esc(s.url)+'" target="_blank" rel="noopener"><i>'+esc(s.platform)+'</i><b>'+esc(s.handle)+'</b></a>').join('')+'</div>';
   }
+  if((P.members_socials||[]).length){
+    h += '<h3 class="sec">9 位成员 · Instagram</h3><div class="soc mem">'+(P.members_socials||[]).map(m=>
+      '<a href="'+esc(m.url)+'" target="_blank" rel="noopener"><i>'+esc(m.name)+'</i><b>'+esc(m.ig)+'</b></a>').join('')+'</div>';
+  }
+  if((P.albums||[]).length){ h += '<div class="chips">'+(P.albums||[]).map(a=>'<span>'+esc(a)+'</span>').join('')+'</div>'; }
   if(P.tour){ h += '<div class="profile" style="margin-top:6px">巡演: '+esc(P.tour)+'</div>'; }
-  if((P.links||[]).length){
-    h += '<div class="links" style="margin:6px 0 10px">'+(P.links||[]).map(l=>'<a href="'+esc(l.url)+'" target="_blank" rel="noopener">'+esc(l.name)+'</a>').join('')+'</div>';
-  }
-  h += '<div class="news-card">'+newsHTML(T.news,7)+'</div>';
+  h += '<h3 class="sec">最新动态</h3><div class="news-card">'+newsHTML(T.news,6)+'</div>';
   $("twiceBody").innerHTML = h;
 })();
 

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10 05:26",
+  "generated_at": "2026-08-10 05:32",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -380,7 +380,7 @@
     "hf": [
       {
         "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3229,
+        "likes": 3230,
         "downloads": 35295,
         "pipeline": "image-text-to-video"
       },
@@ -410,7 +410,7 @@
       },
       {
         "id": "LiquidAI/LFM2.5-2.6B",
-        "likes": 447,
+        "likes": 448,
         "downloads": 85651,
         "pipeline": "text-generation"
       }
@@ -612,6 +612,48 @@
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-07/doc-inimnrac4108795.shtml",
       "time": "08-07 15:41",
       "src": "环球市场播报"
+    },
+    {
+      "title": "鸿蒙智行智界 RX 新版本申报：磷酸铁锂 / 三元锂电池，提供大量轮毂 / 车标样式可选",
+      "link": "https://finance.sina.com.cn/tech/digi/2026-08-07/doc-inimnrac4071598.shtml",
+      "time": "08-07 14:49",
+      "src": "IT之家"
+    },
+    {
+      "title": "Computex 2026: NVIDIA 发布 ARM 架构 PC 芯片 RTX Spark, 集成 Blackwell GPU, 对标苹果 M5",
+      "link": "https://new.qq.com/rain/a/20260605A09PXY00",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "AMD 发布 Ryzen 7 7700X3D(104MB缓存,$329) 与 Radeon RX 9070 GRE(12GB,$549), 强化 1440p 游戏市场",
+      "link": "https://www.91mobiles.com/hub/computex-2026-amd-ryzen-x3d-cpus-radeon-9070-gre",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "Intel 预览 Nova Lake 桌面平台: 最高48核(16P+32E), 18A 工艺, LGA1954 新插槽, 预计2026年底上市",
+      "link": "https://www.160.com/article/12732.html",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "宏碁首发 1000Hz 电竞显示器; 微星 5K Mini-LED 双模电竞屏(5K@180Hz/2K@330Hz) 亮相 Computex 2026",
+      "link": "https://www.160.com/article/12732.html",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "微星 40 周年发布 RTX 5090 LIGHTNING Z 旗舰与内置 AI 代理的 OLED 电竞显示器",
+      "link": "https://www.160.com/article/12732.html",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "AMD 锐龙 AI Max 400 系列: 192GB 统一内存, 宣称本地可运行 300B 参数大模型",
+      "link": "https://www.160.com/article/12732.html",
+      "time": "精选",
+      "src": "资讯整理"
     }
   ],
   "kojima": {
@@ -690,6 +732,80 @@
       "name": "TWICE",
       "birth": "2015-10-20 出道 (JYP Entertainment), 2026年出道10周年",
       "members": "9人: 娜琏·定延·Momo·Sana·志效·Mina·多贤·彩瑛·子瑜",
+      "socials": [
+        {
+          "platform": "Instagram",
+          "handle": "@twicetagram",
+          "url": "https://www.instagram.com/twicetagram/"
+        },
+        {
+          "platform": "X",
+          "handle": "@JYPETWICE",
+          "url": "https://x.com/JYPETWICE"
+        },
+        {
+          "platform": "YouTube",
+          "handle": "@TWICE",
+          "url": "https://www.youtube.com/@TWICE"
+        },
+        {
+          "platform": "TikTok",
+          "handle": "@twice_tiktok_official",
+          "url": "https://www.tiktok.com/@twice_tiktok_official"
+        },
+        {
+          "platform": "Facebook",
+          "handle": "JYPETWICE",
+          "url": "https://www.facebook.com/JYPETWICE"
+        }
+      ],
+      "members_socials": [
+        {
+          "name": "娜琏 Nayeon",
+          "ig": "@nayeonyny",
+          "url": "https://www.instagram.com/nayeonyny/"
+        },
+        {
+          "name": "定延 Jeongyeon",
+          "ig": "@jy_piece",
+          "url": "https://www.instagram.com/jy_piece/"
+        },
+        {
+          "name": "Momo 平井桃",
+          "ig": "@momo",
+          "url": "https://www.instagram.com/momo/"
+        },
+        {
+          "name": "Sana 凑崎纱夏",
+          "ig": "@m.by__sana",
+          "url": "https://www.instagram.com/m.by__sana/"
+        },
+        {
+          "name": "志效 Jihyo",
+          "ig": "@_zyozyo",
+          "url": "https://www.instagram.com/_zyozyo/"
+        },
+        {
+          "name": "Mina 名井南",
+          "ig": "@mina_sr_my",
+          "url": "https://www.instagram.com/mina_sr_my/"
+        },
+        {
+          "name": "多贤 Dahyun",
+          "ig": "@dahhyunnee",
+          "url": "https://www.instagram.com/dahhyunnee/"
+        },
+        {
+          "name": "彩瑛 Chaeyoung",
+          "ig": "@chaeyo.0",
+          "url": "https://www.instagram.com/chaeyo.0/"
+        },
+        {
+          "name": "子瑜 Tzuyu",
+          "ig": "@thinkaboutzu",
+          "url": "https://www.instagram.com/thinkaboutzu/"
+        }
+      ],
       "albums": [
         "《STRATEGY》(2024-12, 14th Mini)",
         "《THIS IS FOR》(2025, 15th Mini·世巡同名)",
