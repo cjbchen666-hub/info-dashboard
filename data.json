@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11 03:05",
+  "generated_at": "2026-08-11 04:52",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -251,6 +251,12 @@
         "src": "IT之家"
       },
       {
+        "title": "特朗普称几天前曾与美联储主席沃什“简短”交谈",
+        "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwpyv0917398.shtml",
+        "time": "08-11 03:51",
+        "src": "环球市场播报"
+      },
+      {
         "title": "美国政府文件显示美联储主席沃什已完成所承诺的投资权益剥离",
         "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimwcmh6226975.shtml",
         "time": "08-10 23:10",
@@ -269,16 +275,10 @@
         "src": "证券时报"
       },
       {
-        "title": "凯文·沃什重塑美联储：AI驱动新范式遇上顽固通胀的“钢丝表演”",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimvxci4796856.shtml",
-        "time": "08-10 20:52",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "哈塞特否认可能接替库克出任美联储理事",
-        "link": "https://finance.sina.com.cn/world/2026-08-10/doc-inimvxcc1118633.shtml",
-        "time": "08-10 20:42",
-        "src": "环球市场播报"
+        "title": "A股周五收盘综述: 上证指数涨1.02%收3940.04点, 科创50大涨2.51%, 两市成交合计超2.6万亿",
+        "link": "https://finance.sina.com.cn/stock/",
+        "time": "精选",
+        "src": "资讯整理"
       }
     ]
   },
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 53887.3,
-      "pct": -0.28,
-      "chg": -149.63,
-      "amount": "1422403175亿"
+      "price": 53975.98,
+      "pct": -0.11,
+      "chg": -60.95,
+      "amount": "2233139637亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26608.97,
-      "pct": -0.31,
-      "chg": -81.65,
-      "amount": "13307876137亿"
+      "price": 26605.36,
+      "pct": -0.32,
+      "chg": -85.26,
+      "amount": "18137959077亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7754.9,
-      "pct": -0.04,
-      "chg": -2.74,
-      "amount": "1265391043亿"
+      "price": 7753.11,
+      "pct": -0.06,
+      "chg": -4.53,
+      "amount": "2083190694亿"
     }
   ],
   "anime": {
@@ -447,12 +447,6 @@
         "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimvxcf2753800.shtml",
         "time": "08-10 21:37",
         "src": "环球市场播报"
-      },
-      {
-        "title": "波音出售三大子公司换Archer股权：eVTOL与无人机业务迎来整合加速",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimvxci4792733.shtml",
-        "time": "08-10 20:45",
-        "src": "环球市场播报"
       }
     ]
   },
@@ -510,37 +504,37 @@
     "hf": [
       {
         "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3397,
+        "likes": 3409,
         "downloads": 47468,
         "pipeline": "image-text-to-video"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-        "likes": 3034,
+        "likes": 3040,
         "downloads": 954441,
         "pipeline": "text-generation"
       },
       {
         "id": "Comfy-Org/MiniMax-H3",
-        "likes": 1134,
+        "likes": 1137,
         "downloads": 6009639,
         "pipeline": ""
       },
       {
-        "id": "larryvrh/MiniMax-H3-Turbo-Lora",
-        "likes": 591,
-        "downloads": 0,
-        "pipeline": "text-to-video"
-      },
-      {
         "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 571,
+        "likes": 627,
         "downloads": 0,
         "pipeline": "image-text-to-text"
       },
       {
+        "id": "larryvrh/MiniMax-H3-Turbo-Lora",
+        "likes": 596,
+        "downloads": 0,
+        "pipeline": "text-to-video"
+      },
+      {
         "id": "moonshotai/Kimi-K3",
-        "likes": 10460,
+        "likes": 10463,
         "downloads": 1510032,
         "pipeline": "image-text-to-text"
       }
@@ -732,6 +726,12 @@
       "src": "IT之家"
     },
     {
+      "title": "8月11日收盘：三大指数小幅收跌，油价因伊朗不确定性上涨，英特尔拖累芯片板块走低",
+      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwpyx7805060.shtml",
+      "time": "08-11 04:34",
+      "src": "环球市场播报"
+    },
+    {
       "title": "英特尔将发行150亿美元普通股 趁AI热潮之际融资",
       "link": "https://finance.sina.com.cn/world/2026-08-10/doc-inimwcmc7968134.shtml",
       "time": "08-10 23:37",
@@ -778,12 +778,6 @@
       "link": "https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimvhfp8202038.shtml",
       "time": "08-10 15:02",
       "src": "TechWeb"
-    },
-    {
-      "title": "华为终于听劝了！折叠屏笔记本要出青春版：万元左右、带外屏",
-      "link": "https://finance.sina.com.cn/tech/discovery/2026-08-10/doc-inimuzxr8242723.shtml",
-      "time": "08-10 12:33",
-      "src": "快科技"
     }
   ],
   "kojima": {
