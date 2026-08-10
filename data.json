@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11 01:00",
+  "generated_at": "2026-08-11 03:05",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 53939.25,
-      "pct": -0.18,
-      "chg": -97.68,
-      "amount": "1096855643亿"
+      "price": 53887.3,
+      "pct": -0.28,
+      "chg": -149.63,
+      "amount": "1422403175亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26587.9,
-      "pct": -0.38,
-      "chg": -102.72,
-      "amount": "10276343033亿"
+      "price": 26608.97,
+      "pct": -0.31,
+      "chg": -81.65,
+      "amount": "13307876137亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7752.27,
-      "pct": -0.07,
-      "chg": -5.37,
-      "amount": "949810815亿"
+      "price": 7754.9,
+      "pct": -0.04,
+      "chg": -2.74,
+      "amount": "1265391043亿"
     }
   ],
   "anime": {
@@ -510,38 +510,38 @@
     "hf": [
       {
         "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3383,
+        "likes": 3397,
         "downloads": 47468,
         "pipeline": "image-text-to-video"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-        "likes": 3027,
+        "likes": 3034,
         "downloads": 954441,
         "pipeline": "text-generation"
       },
       {
         "id": "Comfy-Org/MiniMax-H3",
-        "likes": 1126,
+        "likes": 1134,
         "downloads": 6009639,
         "pipeline": ""
       },
       {
         "id": "larryvrh/MiniMax-H3-Turbo-Lora",
-        "likes": 583,
+        "likes": 591,
         "downloads": 0,
         "pipeline": "text-to-video"
       },
       {
-        "id": "moonshotai/Kimi-K3",
-        "likes": 10454,
-        "downloads": 1510032,
+        "id": "meta-models/Muse-Glimmer-30B",
+        "likes": 571,
+        "downloads": 0,
         "pipeline": "image-text-to-text"
       },
       {
-        "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 496,
-        "downloads": 0,
+        "id": "moonshotai/Kimi-K3",
+        "likes": 10460,
+        "downloads": 1510032,
         "pipeline": "image-text-to-text"
       }
     ],
@@ -732,12 +732,6 @@
       "src": "IT之家"
     },
     {
-      "title": "铭凡 MS-03 迷你主机酷睿 Ultra 5 336H 版开售，准系统 4999 元",
-      "link": "https://www.ithome.com/0/988/015.htm",
-      "time": "08-10 19:39",
-      "src": "IT之家"
-    },
-    {
       "title": "英特尔将发行150亿美元普通股 趁AI热潮之际融资",
       "link": "https://finance.sina.com.cn/world/2026-08-10/doc-inimwcmc7968134.shtml",
       "time": "08-10 23:37",
@@ -784,6 +778,12 @@
       "link": "https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimvhfp8202038.shtml",
       "time": "08-10 15:02",
       "src": "TechWeb"
+    },
+    {
+      "title": "华为终于听劝了！折叠屏笔记本要出青春版：万元左右、带外屏",
+      "link": "https://finance.sina.com.cn/tech/discovery/2026-08-10/doc-inimuzxr8242723.shtml",
+      "time": "08-10 12:33",
+      "src": "快科技"
     }
   ],
   "kojima": {
