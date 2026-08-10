@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10 17:40",
+  "generated_at": "2026-08-10 19:13",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,21 +233,27 @@
     ],
     "news": [
       {
+        "title": "压倒性优势，今年上半年中国厂商贡献全球超 97% 人形机器人出货量",
+        "link": "https://www.ithome.com/0/987/989.htm",
+        "time": "08-10 18:06",
+        "src": "IT之家"
+      },
+      {
+        "title": "央行：构建同科技创新相适应的科技金融体制，高质量建设债券市场“科技板”",
+        "link": "https://finance.sina.com.cn/china/2026-08-10/doc-inimvsvf1167824.shtml",
+        "time": "08-10 18:25",
+        "src": "央行"
+      },
+      {
+        "title": "央行印发《中国人民银行“十五五”改革发展规划》",
+        "link": "https://finance.sina.com.cn/china/2026-08-10/doc-inimvsvf1166847.shtml",
+        "time": "08-10 18:20",
+        "src": "央行"
+      },
+      {
         "title": "俄罗斯央行建议各银行，准许遭仓库袭击受损的企业进行贷款重组",
         "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimvnpp4944171.shtml",
         "time": "08-10 17:38",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "日本央行想加息，高市早苗却要它护债市",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimvnpp4923903.shtml",
-        "time": "08-10 17:05",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "印尼总统提名代理行长Destry为印尼央行行长唯一候选人",
-        "link": "https://finance.sina.com.cn/world/2026-08-10/doc-inimvnpp4906016.shtml",
-        "time": "08-10 16:40",
         "src": "环球市场播报"
       },
       {
@@ -261,12 +267,6 @@
         "link": "https://finance.sina.com.cn/roll/2026-08-08/doc-inimrkxi9485548.shtml",
         "time": "08-08 21:13",
         "src": "一财网"
-      },
-      {
-        "title": "算力紧缺背景下 亚马逊AWS要求工程师削减CPU资源浪费",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-07/doc-inimpfya9842938.shtml",
-        "time": "08-07 22:11",
-        "src": "环球市场播报"
       },
       {
         "title": "A股周五收盘综述: 上证指数涨1.02%收3940.04点, 科创50大涨2.51%, 两市成交合计超2.6万亿",
@@ -501,6 +501,36 @@
   "ai": {
     "news_zh": [
       {
+        "title": "飞猪推出旅行 AI 产品“飞猪帮帮”，能帮用户订机酒、做攻略",
+        "link": "https://www.ithome.com/0/988/010.htm",
+        "time": "08-10 19:13",
+        "src": "IT之家"
+      },
+      {
+        "title": "Meta 开源 30B AI 模型 Muse Glimmer，4bit 量化可在单卡 24GB 显存 GPU 运行",
+        "link": "https://www.ithome.com/0/988/007.htm",
+        "time": "08-10 18:52",
+        "src": "IT之家"
+      },
+      {
+        "title": "小米 REDMI 17 5G/REDMI 17 4G 手机海外发布，高通骁龙 4 Gen 5 / 联发科 Helio G91 Ultra 芯片",
+        "link": "https://www.ithome.com/0/987/999.htm",
+        "time": "08-10 18:32",
+        "src": "IT之家"
+      },
+      {
+        "title": "理想汽车：第二代理想 AI 眼镜 Livis 预计明年下半年到来，正和蔡司评估镜片内显示技术方案",
+        "link": "https://www.ithome.com/0/987/994.htm",
+        "time": "08-10 18:12",
+        "src": "IT之家"
+      },
+      {
+        "title": "压倒性优势，今年上半年中国厂商贡献全球超 97% 人形机器人出货量",
+        "link": "https://www.ithome.com/0/987/989.htm",
+        "time": "08-10 18:06",
+        "src": "IT之家"
+      },
+      {
         "title": "零一万物大模型开放平台将逐步停止面向用户提供在线体验、API 调用及充值等相关服务",
         "link": "https://www.ithome.com/0/987/951.htm",
         "time": "08-10 17:29",
@@ -517,72 +547,42 @@
         "link": "https://www.ithome.com/0/987/941.htm",
         "time": "08-10 17:04",
         "src": "IT之家"
-      },
-      {
-        "title": "通用百万比特光量子计算迎来可行路径，合肥硅臻芯片等发布片上 MBQC 技术突破",
-        "link": "https://www.ithome.com/0/987/915.htm",
-        "time": "08-10 16:25",
-        "src": "IT之家"
-      },
-      {
-        "title": "综合扣费 12%，消息称豆包渠道的酒店订单今日起开始执行独立费率",
-        "link": "https://www.ithome.com/0/987/903.htm",
-        "time": "08-10 16:08",
-        "src": "IT之家"
-      },
-      {
-        "title": "CIS 最大 AI 工厂亚美尼亚投运，建设方 Firebird 获 NVIDIA 投资",
-        "link": "https://www.ithome.com/0/987/901.htm",
-        "time": "08-10 16:02",
-        "src": "IT之家"
-      },
-      {
-        "title": "德国考虑重新设计身份证：将原本印在背面的住址信息存入芯片",
-        "link": "https://www.ithome.com/0/987/890.htm",
-        "time": "08-10 15:53",
-        "src": "IT之家"
-      },
-      {
-        "title": "科技领袖宣称 AI 将带来四天工作制，然而员工每周还要工作 90 小时",
-        "link": "https://www.ithome.com/0/987/888.htm",
-        "time": "08-10 15:46",
-        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3330,
+        "likes": 3339,
         "downloads": 47468,
         "pipeline": "image-text-to-video"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-        "likes": 2990,
+        "likes": 3000,
         "downloads": 954441,
         "pipeline": "text-generation"
       },
       {
         "id": "Comfy-Org/MiniMax-H3",
-        "likes": 1105,
+        "likes": 1110,
         "downloads": 6009639,
         "pipeline": ""
       },
       {
         "id": "larryvrh/MiniMax-H3-Turbo-Lora",
-        "likes": 573,
+        "likes": 574,
         "downloads": 0,
         "pipeline": "text-to-video"
       },
       {
         "id": "moonshotai/Kimi-K3",
-        "likes": 10427,
+        "likes": 10432,
         "downloads": 1510032,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "LiquidAI/LFM2.5-2.6B",
-        "likes": 466,
+        "likes": 470,
         "downloads": 89680,
         "pipeline": "text-generation"
       }
@@ -765,18 +765,6 @@
       "title": "AOC 推出 24.5\" QHD 360Hz Fast IPS 电竞显示器 Q25G11SE6",
       "link": "https://www.ithome.com/0/987/912.htm",
       "time": "08-10 16:24",
-      "src": "IT之家"
-    },
-    {
-      "title": "CIS 最大 AI 工厂亚美尼亚投运，建设方 Firebird 获 NVIDIA 投资",
-      "link": "https://www.ithome.com/0/987/901.htm",
-      "time": "08-10 16:02",
-      "src": "IT之家"
-    },
-    {
-      "title": "OPPO 为 Enco Clip2 耳机、Watch X3 Mini 手表推出全新配饰，8 月 14 日发售",
-      "link": "https://www.ithome.com/0/987/862.htm",
-      "time": "08-10 15:17",
       "src": "IT之家"
     },
     {
