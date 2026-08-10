@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10 21:24",
+  "generated_at": "2026-08-10 23:06",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,16 +233,34 @@
     ],
     "news": [
       {
+        "title": "消息称智谱 API 用户接近 700 万，已启用超 5 万块国产算力芯片",
+        "link": "https://www.ithome.com/0/988/048.htm",
+        "time": "08-10 22:42",
+        "src": "IT之家"
+      },
+      {
+        "title": "韩国计划设立 5 万亿韩元半导体潜力投资基金，推动大小企业合作",
+        "link": "https://www.ithome.com/0/988/042.htm",
+        "time": "08-10 22:19",
+        "src": "IT之家"
+      },
+      {
         "title": "奕境 X9 鸿蒙座舱 HarmonySpace 6 首秀，支持“哈蒙蒙”AI 陪伴机器人",
         "link": "https://www.ithome.com/0/988/031.htm",
         "time": "08-10 21:15",
         "src": "IT之家"
       },
       {
-        "title": "压倒性优势，今年上半年中国厂商贡献全球超 97% 人形机器人出货量",
-        "link": "https://www.ithome.com/0/987/989.htm",
-        "time": "08-10 18:06",
-        "src": "IT之家"
+        "title": "业绩“炸裂”！301308，净利猛增71528.66%，拟最高8亿元回购",
+        "link": "https://finance.sina.com.cn/jjxw/2026-08-10/doc-inimwcmf4724477.shtml",
+        "time": "08-10 22:50",
+        "src": "市场资讯"
+      },
+      {
+        "title": "11个涨停！603221，再度停牌核查",
+        "link": "https://finance.sina.com.cn/wm/2026-08-10/doc-inimvxcf2746206.shtml",
+        "time": "08-10 21:22",
+        "src": "证券时报"
       },
       {
         "title": "凯文·沃什重塑美联储：AI驱动新范式遇上顽固通胀的“钢丝表演”",
@@ -261,24 +279,6 @@
         "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimvxci4789934.shtml",
         "time": "08-10 20:39",
         "src": "环球市场播报"
-      },
-      {
-        "title": "停牌前涨停！600984，拟重大资产重组",
-        "link": "https://finance.sina.com.cn/stock/s/2026-08-10/doc-inimvxci4795206.shtml",
-        "time": "08-10 20:37",
-        "src": "市场资讯"
-      },
-      {
-        "title": "盘前：纳指期货涨0.02% 市场焦点转向7月CPI",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimvxcf8017550.shtml",
-        "time": "08-10 20:30",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "日本央行释放9月加息信号，促成美日联手干预汇市",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimvxcf8007402.shtml",
-        "time": "08-10 20:21",
-        "src": "环球市场播报"
       }
     ]
   },
@@ -294,156 +294,120 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 54036.93,
-      "pct": 0.28,
-      "chg": 151.83,
-      "amount": "2044788416亿"
+      "price": 54015.1,
+      "pct": -0.04,
+      "chg": -21.83,
+      "amount": "663890051亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26690.62,
-      "pct": 1.3,
-      "chg": 342.27,
-      "amount": "19238211278亿"
+      "price": 26653.0,
+      "pct": -0.14,
+      "chg": -37.62,
+      "amount": "7026268562亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7757.64,
-      "pct": 0.62,
-      "chg": 47.68,
-      "amount": "2109956733亿"
+      "price": 7762.66,
+      "pct": 0.06,
+      "chg": 5.02,
+      "amount": "580040110亿"
     }
   ],
   "anime": {
-    "date": "08-10",
-    "weekday": "月",
+    "date": "08-11",
+    "weekday": "火",
     "items": [
       {
-        "id": 569116,
-        "name": "ぐらんぶる Season 3",
-        "name_cn": "碧蓝之海 第三季",
-        "score": 7.1,
-        "img": "http://lain.bgm.tv/pic/cover/c/f1/bf/569116_n6dPq.jpg",
-        "air_date": "2026-07-06",
-        "rank": 2383
+        "id": 496276,
+        "name": "攻殻機動隊 THE GHOST IN THE SHELL",
+        "name_cn": "攻壳机动队 THE GHOST IN THE SHELL",
+        "score": 7.5,
+        "img": "http://lain.bgm.tv/pic/cover/c/7e/10/496276_Qeu06.jpg",
+        "air_date": "2026-07-07",
+        "rank": 879
       },
       {
-        "id": 607340,
-        "name": "透明な夜に駆ける君と、目に見えない恋をした。",
-        "name_cn": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
-        "score": 6.9,
-        "img": "http://lain.bgm.tv/pic/cover/c/71/44/607340_n8Rrl.jpg",
-        "air_date": "2026-07-06",
-        "rank": 2850
+        "id": 541285,
+        "name": "きみが死ぬまで恋をしたい",
+        "name_cn": "与你相恋到生命尽头",
+        "score": 7.2,
+        "img": "http://lain.bgm.tv/pic/cover/c/b3/26/541285_CYBZc.jpg",
+        "air_date": "2026-07-07",
+        "rank": 1976
       },
       {
-        "id": 569671,
-        "name": "炎の闘球女 ドッジ弾子",
-        "name_cn": "斗球女弹子",
+        "id": 325767,
+        "name": "対ありでした。 ～お嬢さまは格闘ゲームなんてしない～",
+        "name_cn": "感谢对战。 ～大小姐才不玩格斗游戏～",
+        "score": 7.0,
+        "img": "http://lain.bgm.tv/pic/cover/c/a1/d3/325767_u3pvR.jpg",
+        "air_date": "2026-07-07",
+        "rank": 2501
+      },
+      {
+        "id": 607929,
+        "name": "百日成王",
+        "name_cn": "百日成王",
+        "score": 6.3,
+        "img": "http://lain.bgm.tv/pic/cover/c/1d/82/607929_h9X29.jpg",
+        "air_date": "2026-07-03",
+        "rank": null
+      },
+      {
+        "id": 584641,
+        "name": "手札が多めのビクトリア",
+        "name_cn": "奇招百出的维多利亚",
         "score": 6.1,
-        "img": "http://lain.bgm.tv/pic/cover/c/5a/fe/569671_0HZvf.jpg",
-        "air_date": "2026-07-06",
+        "img": "http://lain.bgm.tv/pic/cover/c/04/5b/584641_150ne.jpg",
+        "air_date": "2026-07-07",
+        "rank": 6254
+      },
+      {
+        "id": 516426,
+        "name": "一斩苍穹",
+        "name_cn": "一斩苍穹",
+        "score": 5.8,
+        "img": "http://lain.bgm.tv/pic/cover/c/ef/2e/516426_JJUoU.jpg",
+        "air_date": "2026-07-28",
         "rank": null
       },
       {
-        "id": 637339,
-        "name": "北斗の拳 拳王軍ザコたちの挽歌 第2クール",
-        "name_cn": "北斗神拳 拳王军杂兵们的挽歌 第二季",
-        "score": 6.1,
-        "img": "http://lain.bgm.tv/pic/cover/c/d0/a9/637339_93zPo.jpg",
-        "air_date": "2026-07-06",
+        "id": 612697,
+        "name": "鎧真伝サムライトルーパー 第2クール",
+        "name_cn": "铠真传 武士军团 第2部分",
+        "score": 5.6,
+        "img": "http://lain.bgm.tv/pic/cover/c/c5/ce/612697_hn4N5.jpg",
+        "air_date": "2026-07-07",
         "rank": null
       },
       {
-        "id": 491582,
-        "name": "天子传奇：姬发篇",
-        "name_cn": "天子传奇：姬发篇",
-        "score": 6.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/26/04/491582_d967P.jpg",
-        "air_date": "2026-07-20",
+        "id": 627648,
+        "name": "天は赤い河のほとり",
+        "name_cn": "天是红河岸",
+        "score": 4.4,
+        "img": "http://lain.bgm.tv/pic/cover/c/11/b7/627648_V00Vh.jpg",
+        "air_date": "2026-07-07",
+        "rank": 9356
+      },
+      {
+        "id": 638995,
+        "name": "身代わり令嬢を救ったのは冷酷無慈悲な氷の王子の愛でした",
+        "name_cn": "拯救替身千金的是冷酷无情冰之王子的爱",
+        "score": 3.8,
+        "img": "http://lain.bgm.tv/pic/cover/c/96/aa/638995_mM0aJ.jpg",
+        "air_date": "2026-07-07",
         "rank": null
       },
       {
-        "id": 663444,
-        "name": "King of the Hill Season 15",
-        "name_cn": "一家之主 第15季",
-        "score": 6.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/1e/f8/663444_i2im9.jpg",
-        "air_date": "2026-07-20",
-        "rank": null
-      },
-      {
-        "id": 590786,
-        "name": "ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。",
-        "name_cn": "『你们先走我断后』，于是10年后我成为了传说",
-        "score": 5.7,
-        "img": "http://lain.bgm.tv/pic/cover/c/2c/93/590786_48D8M.jpg",
-        "air_date": "2026-07-06",
-        "rank": 8491
-      },
-      {
-        "id": 528828,
-        "name": "骸骨騎士様、只今異世界へお出掛け中Ⅱ",
-        "name_cn": "骸骨骑士大人异世界冒险中 第二季",
-        "score": 5.3,
-        "img": "http://lain.bgm.tv/pic/cover/c/1d/71/528828_oQl2M.jpg",
-        "air_date": "2026-07-06",
-        "rank": 8835
-      },
-      {
-        "id": 636067,
-        "name": "捨てられ聖女の異世界ごはん旅 隠れスキルでキャンピングカーを召喚しました",
-        "name_cn": "无用圣女的异世界美食之旅 凭借隐藏技能召唤露营车",
-        "score": 5.3,
-        "img": "http://lain.bgm.tv/pic/cover/c/75/fd/636067_0uuym.jpg",
-        "air_date": "2026-07-06",
-        "rank": 8103
-      },
-      {
-        "id": 456080,
-        "name": "転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件",
-        "name_cn": "转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥们儿",
-        "score": 5.1,
-        "img": "http://lain.bgm.tv/pic/cover/c/ce/e2/456080_C4q4C.jpg",
-        "air_date": "2026-07-06",
-        "rank": 9593
-      },
-      {
-        "id": 579246,
-        "name": "ブチ切れ令嬢は報復を誓いました。～魔導書の力で祖国を叩き潰します～",
-        "name_cn": "暴怒千金发誓复仇。～凭借魔导书之力打垮祖国～",
-        "score": 5.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/e2/dd/579246_61291.jpg",
-        "air_date": "2026-07-06",
-        "rank": 9187
-      },
-      {
-        "id": 456081,
-        "name": "最強出涸らし皇子の暗躍帝位争い",
-        "name_cn": "最强废渣皇子暗中活跃于帝位之争",
-        "score": 4.9,
-        "img": "http://lain.bgm.tv/pic/cover/c/a7/a6/456081_Bs2nE.jpg",
-        "air_date": "2026-07-06",
-        "rank": 9140
-      },
-      {
-        "id": 607933,
-        "name": "万古至尊：李云霄传",
-        "name_cn": "",
-        "score": 3.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/2f/c0/607933_uzVv6.jpg",
-        "air_date": "2026-07-20",
-        "rank": null
-      },
-      {
-        "id": 595884,
-        "name": "Marvel's Spidey and His Amazing Friends Season 5",
-        "name_cn": "蜘蛛侠与他的神奇朋友们 第五季",
-        "score": null,
-        "img": "http://lain.bgm.tv/pic/cover/c/b2/2b/595884_0QYyv.jpg",
-        "air_date": "2026-07-13",
+        "id": 662681,
+        "name": "万古神帝",
+        "name_cn": "万古神帝",
+        "score": 1.5,
+        "img": "http://lain.bgm.tv/pic/cover/c/29/37/662681_9996z.jpg",
+        "air_date": "2026-07-21",
         "rank": null
       }
     ]
@@ -479,6 +443,12 @@
         "src": "ISW"
       },
       {
+        "title": "乌克兰无人机袭击俄罗斯中部炼油重镇，造成 13 人遇难",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimvxcf2753800.shtml",
+        "time": "08-10 21:37",
+        "src": "环球市场播报"
+      },
+      {
         "title": "波音出售三大子公司换Archer股权：eVTOL与无人机业务迎来整合加速",
         "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimvxci4792733.shtml",
         "time": "08-10 20:45",
@@ -489,88 +459,88 @@
   "ai": {
     "news_zh": [
       {
+        "title": "扎克伯格呼吁美国放宽开源 AI 限制，以应对中国竞争",
+        "link": "https://www.ithome.com/0/988/051.htm",
+        "time": "08-10 22:59",
+        "src": "IT之家"
+      },
+      {
+        "title": "日产在美国工厂部署 AI 摄像头，能帮装配工人“纠正”操作姿势",
+        "link": "https://www.ithome.com/0/988/050.htm",
+        "time": "08-10 22:58",
+        "src": "IT之家"
+      },
+      {
+        "title": "消息称智谱 API 用户接近 700 万，已启用超 5 万块国产算力芯片",
+        "link": "https://www.ithome.com/0/988/048.htm",
+        "time": "08-10 22:42",
+        "src": "IT之家"
+      },
+      {
+        "title": "诺和诺德设立亚马逊 AWS 协同创新中心，利用 AI 加速药物上市",
+        "link": "https://www.ithome.com/0/988/045.htm",
+        "time": "08-10 22:27",
+        "src": "IT之家"
+      },
+      {
+        "title": "马斯克超级芯片工厂 TeraFab 将用天然气供电，而非特斯拉太阳能",
+        "link": "https://www.ithome.com/0/988/039.htm",
+        "time": "08-10 22:03",
+        "src": "IT之家"
+      },
+      {
+        "title": "因使用 AI 维护办案记录，英国一高级警探接受调查",
+        "link": "https://www.ithome.com/0/988/037.htm",
+        "time": "08-10 21:47",
+        "src": "IT之家"
+      },
+      {
+        "title": "消息称微软 Maia 300 AI 芯片最快下月亮相，目标 2027 年交付至少 30 万颗",
+        "link": "https://www.ithome.com/0/988/036.htm",
+        "time": "08-10 21:43",
+        "src": "IT之家"
+      },
+      {
         "title": "奕境 X9 鸿蒙座舱 HarmonySpace 6 首秀，支持“哈蒙蒙”AI 陪伴机器人",
         "link": "https://www.ithome.com/0/988/031.htm",
         "time": "08-10 21:15",
         "src": "IT之家"
-      },
-      {
-        "title": "福特海外推出新 AI 助手：可以检查油量，还能教你保养",
-        "link": "https://www.ithome.com/0/988/013.htm",
-        "time": "08-10 19:32",
-        "src": "IT之家"
-      },
-      {
-        "title": "飞猪推出旅行 AI 产品“飞猪帮帮”，能帮用户订机酒、做攻略",
-        "link": "https://www.ithome.com/0/988/010.htm",
-        "time": "08-10 19:13",
-        "src": "IT之家"
-      },
-      {
-        "title": "Meta 开源 30B AI 模型 Muse Glimmer，4bit 量化可在单卡 24GB 显存 GPU 运行",
-        "link": "https://www.ithome.com/0/988/007.htm",
-        "time": "08-10 18:52",
-        "src": "IT之家"
-      },
-      {
-        "title": "小米 REDMI 17 5G/REDMI 17 4G 手机海外发布，高通骁龙 4 Gen 5 / 联发科 Helio G91 Ultra 芯片",
-        "link": "https://www.ithome.com/0/987/999.htm",
-        "time": "08-10 18:32",
-        "src": "IT之家"
-      },
-      {
-        "title": "理想汽车：第二代理想 AI 眼镜 Livis 预计明年下半年到来，正和蔡司评估镜片内显示技术方案",
-        "link": "https://www.ithome.com/0/987/994.htm",
-        "time": "08-10 18:12",
-        "src": "IT之家"
-      },
-      {
-        "title": "压倒性优势，今年上半年中国厂商贡献全球超 97% 人形机器人出货量",
-        "link": "https://www.ithome.com/0/987/989.htm",
-        "time": "08-10 18:06",
-        "src": "IT之家"
-      },
-      {
-        "title": "知情人士：微软计划明年大幅增产下一代AI芯片",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimvxcf2735439.shtml",
-        "time": "08-10 21:05",
-        "src": "环球市场播报"
       }
     ],
     "hf": [
       {
         "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3359,
+        "likes": 3375,
         "downloads": 47468,
         "pipeline": "image-text-to-video"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-        "likes": 3012,
+        "likes": 3018,
         "downloads": 954441,
         "pipeline": "text-generation"
       },
       {
         "id": "Comfy-Org/MiniMax-H3",
-        "likes": 1116,
+        "likes": 1122,
         "downloads": 6009639,
         "pipeline": ""
       },
       {
         "id": "larryvrh/MiniMax-H3-Turbo-Lora",
-        "likes": 578,
+        "likes": 579,
         "downloads": 0,
         "pipeline": "text-to-video"
       },
       {
         "id": "moonshotai/Kimi-K3",
-        "likes": 10442,
+        "likes": 10450,
         "downloads": 1510032,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "LiquidAI/LFM2.5-2.6B",
-        "likes": 473,
+        "likes": 477,
         "downloads": 89680,
         "pipeline": "text-generation"
       }
@@ -744,6 +714,12 @@
   ],
   "hw_news": [
     {
+      "title": "外媒再度揭发驰为 UniBook 笔记本虚假宣传：屏幕标称 100% sRGB 色域覆盖，实测不到 60%",
+      "link": "https://www.ithome.com/0/988/040.htm",
+      "time": "08-10 22:13",
+      "src": "IT之家"
+    },
+    {
       "title": "英特尔拟进行 150 亿美元股票发行，净收益用于一般企业用途",
       "link": "https://www.ithome.com/0/988/016.htm",
       "time": "08-10 21:03",
@@ -766,6 +742,12 @@
       "link": "https://www.ithome.com/0/988/012.htm",
       "time": "08-10 19:30",
       "src": "IT之家"
+    },
+    {
+      "title": "人工智能需求持续爆发，英特尔计划增发150亿美元普通股",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimwcmc7955739.shtml",
+      "time": "08-10 23:03",
+      "src": "环球市场播报"
     },
     {
       "title": "英特尔宣布拟增发150亿美元普通股，盘前股价下跌3%以上",
@@ -802,18 +784,6 @@
       "link": "https://finance.sina.com.cn/tech/digi/2026-08-10/doc-inimvhfr4977674.shtml",
       "time": "08-10 15:09",
       "src": "IT之家"
-    },
-    {
-      "title": "折叠屏笔记本门槛大降？曝华为新品定价1x999元，冲击万元级市场",
-      "link": "https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimvhfp8202038.shtml",
-      "time": "08-10 15:02",
-      "src": "TechWeb"
-    },
-    {
-      "title": "华为终于听劝了！折叠屏笔记本要出青春版：万元左右、带外屏",
-      "link": "https://finance.sina.com.cn/tech/discovery/2026-08-10/doc-inimuzxr8242723.shtml",
-      "time": "08-10 12:33",
-      "src": "快科技"
     }
   ],
   "kojima": {
