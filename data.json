@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10 23:06",
+  "generated_at": "2026-08-11 01:00",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -129,9 +129,9 @@
       }
     ],
     "status": {
-      "state": "已收盘",
-      "label": "今日已收盘",
-      "date": "2026-08-10"
+      "state": "未开盘",
+      "label": "今日尚未开盘",
+      "date": "2026-08-11"
     },
     "watch": [
       {
@@ -251,6 +251,12 @@
         "src": "IT之家"
       },
       {
+        "title": "美国政府文件显示美联储主席沃什已完成所承诺的投资权益剥离",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimwcmh6226975.shtml",
+        "time": "08-10 23:10",
+        "src": "环球市场播报"
+      },
+      {
         "title": "业绩“炸裂”！301308，净利猛增71528.66%，拟最高8亿元回购",
         "link": "https://finance.sina.com.cn/jjxw/2026-08-10/doc-inimwcmf4724477.shtml",
         "time": "08-10 22:50",
@@ -273,12 +279,6 @@
         "link": "https://finance.sina.com.cn/world/2026-08-10/doc-inimvxcc1118633.shtml",
         "time": "08-10 20:42",
         "src": "环球市场播报"
-      },
-      {
-        "title": "哈塞特称希望库克确系清白 无意接替其美联储理事席位",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimvxci4789934.shtml",
-        "time": "08-10 20:39",
-        "src": "环球市场播报"
       }
     ]
   },
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 54015.1,
-      "pct": -0.04,
-      "chg": -21.83,
-      "amount": "663890051亿"
+      "price": 53939.25,
+      "pct": -0.18,
+      "chg": -97.68,
+      "amount": "1096855643亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26653.0,
-      "pct": -0.14,
-      "chg": -37.62,
-      "amount": "7026268562亿"
+      "price": 26587.9,
+      "pct": -0.38,
+      "chg": -102.72,
+      "amount": "10276343033亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7762.66,
-      "pct": 0.06,
-      "chg": 5.02,
-      "amount": "580040110亿"
+      "price": 7752.27,
+      "pct": -0.07,
+      "chg": -5.37,
+      "amount": "949810815亿"
     }
   ],
   "anime": {
@@ -459,6 +459,18 @@
   "ai": {
     "news_zh": [
       {
+        "title": "Meta 扎克伯格：美国若想取得开源 AI 领先，就得减少政策障碍",
+        "link": "https://www.ithome.com/0/988/059.htm",
+        "time": "08-10 23:46",
+        "src": "IT之家"
+      },
+      {
+        "title": "新调查显示：AI 时代下，超八成家长和老师认为学生应具备更强的数据素养",
+        "link": "https://www.ithome.com/0/988/056.htm",
+        "time": "08-10 23:21",
+        "src": "IT之家"
+      },
+      {
         "title": "扎克伯格呼吁美国放宽开源 AI 限制，以应对中国竞争",
         "link": "https://www.ithome.com/0/988/051.htm",
         "time": "08-10 22:59",
@@ -493,56 +505,44 @@
         "link": "https://www.ithome.com/0/988/037.htm",
         "time": "08-10 21:47",
         "src": "IT之家"
-      },
-      {
-        "title": "消息称微软 Maia 300 AI 芯片最快下月亮相，目标 2027 年交付至少 30 万颗",
-        "link": "https://www.ithome.com/0/988/036.htm",
-        "time": "08-10 21:43",
-        "src": "IT之家"
-      },
-      {
-        "title": "奕境 X9 鸿蒙座舱 HarmonySpace 6 首秀，支持“哈蒙蒙”AI 陪伴机器人",
-        "link": "https://www.ithome.com/0/988/031.htm",
-        "time": "08-10 21:15",
-        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3375,
+        "likes": 3383,
         "downloads": 47468,
         "pipeline": "image-text-to-video"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-        "likes": 3018,
+        "likes": 3027,
         "downloads": 954441,
         "pipeline": "text-generation"
       },
       {
         "id": "Comfy-Org/MiniMax-H3",
-        "likes": 1122,
+        "likes": 1126,
         "downloads": 6009639,
         "pipeline": ""
       },
       {
         "id": "larryvrh/MiniMax-H3-Turbo-Lora",
-        "likes": 579,
+        "likes": 583,
         "downloads": 0,
         "pipeline": "text-to-video"
       },
       {
         "id": "moonshotai/Kimi-K3",
-        "likes": 10450,
+        "likes": 10454,
         "downloads": 1510032,
         "pipeline": "image-text-to-text"
       },
       {
-        "id": "LiquidAI/LFM2.5-2.6B",
-        "likes": 477,
-        "downloads": 89680,
-        "pipeline": "text-generation"
+        "id": "meta-models/Muse-Glimmer-30B",
+        "likes": 496,
+        "downloads": 0,
+        "pipeline": "image-text-to-text"
       }
     ],
     "models": [
@@ -738,10 +738,10 @@
       "src": "IT之家"
     },
     {
-      "title": "雷神 23.8 英寸 4K 160Hz 雾面显示器“JU24F160L”首销，1499 元",
-      "link": "https://www.ithome.com/0/988/012.htm",
-      "time": "08-10 19:30",
-      "src": "IT之家"
+      "title": "英特尔将发行150亿美元普通股 趁AI热潮之际融资",
+      "link": "https://finance.sina.com.cn/world/2026-08-10/doc-inimwcmc7968134.shtml",
+      "time": "08-10 23:37",
+      "src": "环球市场播报"
     },
     {
       "title": "人工智能需求持续爆发，英特尔计划增发150亿美元普通股",
@@ -753,12 +753,6 @@
       "title": "英特尔宣布拟增发150亿美元普通股，盘前股价下跌3%以上",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimvxcf2740222.shtml",
       "time": "08-10 21:14",
-      "src": "环球市场播报"
-    },
-    {
-      "title": "英特尔将发行150亿美元普通股 趁AI数据中心热潮之际融资",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimvsvi8127661.shtml",
-      "time": "08-10 20:04",
       "src": "环球市场播报"
     },
     {
@@ -784,6 +778,12 @@
       "link": "https://finance.sina.com.cn/tech/digi/2026-08-10/doc-inimvhfr4977674.shtml",
       "time": "08-10 15:09",
       "src": "IT之家"
+    },
+    {
+      "title": "折叠屏笔记本门槛大降？曝华为新品定价1x999元，冲击万元级市场",
+      "link": "https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimvhfp8202038.shtml",
+      "time": "08-10 15:02",
+      "src": "TechWeb"
     }
   ],
   "kojima": {
