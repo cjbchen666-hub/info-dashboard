@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12 03:11",
+  "generated_at": "2026-08-12 04:55",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 53786.15,
-      "pct": -0.35,
-      "chg": -189.83,
-      "amount": "1252387347亿"
+      "price": 53791.85,
+      "pct": -0.34,
+      "chg": -184.13,
+      "amount": "2044820594亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26418.44,
-      "pct": -0.7,
-      "chg": -186.92,
-      "amount": "13827420577亿"
+      "price": 26445.45,
+      "pct": -0.6,
+      "chg": -159.91,
+      "amount": "18318616156亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7725.13,
-      "pct": -0.36,
-      "chg": -27.98,
-      "amount": "1167554346亿"
+      "price": 7728.2,
+      "pct": -0.32,
+      "chg": -24.91,
+      "amount": "1934018266亿"
     }
   ],
   "anime": {
@@ -432,7 +432,7 @@
         "id": 412144,
         "name": "乙女ゲー世界はモブに厳しい世界です2",
         "name_cn": "恋爱游戏世界对路人角色很不友好 第二季",
-        "score": 5.0,
+        "score": 4.9,
         "img": "http://lain.bgm.tv/pic/cover/c/16/a8/412144_39HJH.jpg",
         "air_date": "2026-07-08",
         "rank": 9539
@@ -505,7 +505,7 @@
   "ukraine": {
     "title": "Russian Offensive Campaign Assessment",
     "summary": "ISW’s Russia and Ukraine team produces the maps and analysis of record of the war in Ukraine. The Russian Offensive Campaign Assessment provides a synthetic running intelligence estimate of Putin’s political and military objectives in Ukraine and the design, prosecution, and outcomes of Russia’s war effort. ISW has published this update daily since Russia’s full-scale invasion of Ukraine in February 2022. Each update includes an assessment of the latest battlefield changes at the operational and tactical levels of war as well as an updated strategic assessment and forecast of the war’s trajectory along with numer",
-    "map_url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-august-10-2026-at-130-pm-et/",
+    "map_url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-august-8-2026-at-130-pm-et/",
     "url": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment",
     "links": [
       {
@@ -514,7 +514,7 @@
       },
       {
         "name": "ISW 官方地图页",
-        "url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-august-10-2026-at-130-pm-et/"
+        "url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-august-8-2026-at-130-pm-et/"
       },
       {
         "name": "实时战线地图 Liveuamap",
@@ -531,6 +531,18 @@
         "link": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment",
         "time": "ISW每日评估",
         "src": "ISW"
+      },
+      {
+        "title": "胡塞武装：向穆哈和马里卜目标发射导弹和无人机",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-inimyxfv7080213.shtml",
+        "time": "08-12 04:04",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "联合海事信息中心：阿曼湾一艘集装箱船被直升机发射的导弹击中",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-inimysxz3973516.shtml",
+        "time": "08-12 03:26",
+        "src": "环球市场播报"
       }
     ]
   },
@@ -588,37 +600,37 @@
     "hf": [
       {
         "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3548,
+        "likes": 3554,
         "downloads": 59368,
         "pipeline": "image-text-to-video"
       },
       {
         "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 1044,
+        "likes": 1062,
         "downloads": 0,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-        "likes": 3132,
+        "likes": 3137,
         "downloads": 1048685,
         "pipeline": "text-generation"
       },
       {
         "id": "larryvrh/MiniMax-H3-Turbo-Lora",
-        "likes": 642,
+        "likes": 644,
         "downloads": 0,
         "pipeline": "text-to-video"
       },
       {
         "id": "Comfy-Org/MiniMax-H3",
-        "likes": 1206,
+        "likes": 1211,
         "downloads": 6798796,
         "pipeline": ""
       },
       {
         "id": "LiquidAI/LFM2.5-2.6B",
-        "likes": 540,
+        "likes": 543,
         "downloads": 93668,
         "pipeline": "text-generation"
       }
