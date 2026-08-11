@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11 17:06",
+  "generated_at": "2026-08-11 18:56",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,10 +233,22 @@
     ],
     "news": [
       {
-        "title": "集结全公司之力，消息称三星加快自研人形机器人",
-        "link": "https://www.ithome.com/0/988/358.htm",
-        "time": "08-11 15:59",
-        "src": "IT之家"
+        "title": "标普500逼近历史高位，现在真的适合入场买股票吗？听听巴菲特给投资者的宝贵建议",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimxvuf0685568.shtml",
+        "time": "08-11 18:27",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "十年一遇布局良机：一只回撤45%的标普500高股息成长股，当下值得买入？",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimxvuf0682373.shtml",
+        "time": "08-11 18:22",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "回购、增持、并购，富淼科技在释放什么信号？",
+        "link": "https://finance.sina.com.cn/stock/s/2026-08-11/doc-inimxvun5836582.shtml",
+        "time": "08-11 18:07",
+        "src": "市场资讯"
       },
       {
         "title": "虎牙发布2026年Q2财报：总收入连续六季同比增长 扩大股票回购计划授权额度至1亿美元",
@@ -251,6 +263,12 @@
         "src": "环球市场播报"
       },
       {
+        "title": "品茗科技连续亏损：AI相关业务营收占比低 股价大跌之下一边减持一边回购",
+        "link": "https://finance.sina.com.cn/stock/observe/2026-08-11/doc-inimxvuf0678697.shtml",
+        "time": "08-11 18:16",
+        "src": "新浪财经"
+      },
+      {
         "title": "地瓜机器人：DGP计划已孵化出百余类机器人产品",
         "link": "https://finance.sina.com.cn/jjxw/2026-08-11/doc-inimxrnp4323472.shtml",
         "time": "08-11 16:33",
@@ -261,24 +279,6 @@
         "link": "https://finance.sina.com.cn/tech/shenji/2026-08-11/doc-inimxewt4412296.shtml",
         "time": "08-11 11:46",
         "src": "新浪科技"
-      },
-      {
-        "title": "TVB：拟成立合营公司 在港提供算力服务",
-        "link": "https://finance.sina.com.cn/tech/shenji/2026-08-11/doc-inimxewu5879494.shtml",
-        "time": "08-11 09:55",
-        "src": "新浪科技"
-      },
-      {
-        "title": "消息称智谱 API 用户接近 700 万，已启用超 5 万块国产算力芯片",
-        "link": "https://finance.sina.com.cn/tech/digi/2026-08-11/doc-inimwcmf4723788.shtml",
-        "time": "08-10 22:42",
-        "src": "IT之家"
-      },
-      {
-        "title": "A股周五收盘综述: 上证指数涨1.02%收3940.04点, 科创50大涨2.51%, 两市成交合计超2.6万亿",
-        "link": "https://finance.sina.com.cn/stock/",
-        "time": "精选",
-        "src": "资讯整理"
       }
     ]
   },
@@ -447,13 +447,43 @@
   "ai": {
     "news_zh": [
       {
+        "title": "未公开的新模型“立功”，Anthropic 宣布 Claude 攻克黎曼猜想取得重大突破",
+        "link": "https://www.ithome.com/0/988/453.htm",
+        "time": "08-11 18:35",
+        "src": "IT之家"
+      },
+      {
+        "title": "“建议零售价”如今已成空谈：英伟达 RTX 50 系显卡本月涨幅最高达 39%",
+        "link": "https://www.ithome.com/0/988/449.htm",
+        "time": "08-11 18:22",
+        "src": "IT之家"
+      },
+      {
+        "title": "蚂蚁百灵开源 Ling-3.0-tiny 模型，支持英伟达 DGX Spark、苹果 Mac mini 部署",
+        "link": "https://www.ithome.com/0/988/431.htm",
+        "time": "08-11 17:57",
+        "src": "IT之家"
+      },
+      {
+        "title": "消息称字节继 Seed、Flow 后又成立新的一级部门，着眼 AI 数据与安全",
+        "link": "https://www.ithome.com/0/988/429.htm",
+        "time": "08-11 17:36",
+        "src": "IT之家"
+      },
+      {
+        "title": "DeepSeek 梁文锋财富一年暴涨 3850%，增速登顶全球亿万富豪榜",
+        "link": "https://www.ithome.com/0/988/396.htm",
+        "time": "08-11 17:13",
+        "src": "IT之家"
+      },
+      {
         "title": "谷歌力推的 AI 招聘工具遭自家 DeepMind 团队“打脸”：或不小心误筛简历",
         "link": "https://www.ithome.com/0/988/380.htm",
         "time": "08-11 16:59",
         "src": "IT之家"
       },
       {
-        "title": "米哈游 AI 女友桌面陪伴软件《BSide: Olivia Lin》宣布 8 月 31 日停运，8 月 27 日发布离线版",
+        "title": "上线不足一个月：米哈游 AI 女友桌面陪伴软件《BSide: Olivia Lin》宣布 8 月 31 日停运，8 月 27 日发布离线版",
         "link": "https://www.ithome.com/0/988/371.htm",
         "time": "08-11 16:27",
         "src": "IT之家"
@@ -463,72 +493,42 @@
         "link": "https://www.ithome.com/0/988/365.htm",
         "time": "08-11 16:12",
         "src": "IT之家"
-      },
-      {
-        "title": "英伟达 RTX 4080 魔改 32GB 显存涡轮显卡现身闲鱼",
-        "link": "https://www.ithome.com/0/988/359.htm",
-        "time": "08-11 16:01",
-        "src": "IT之家"
-      },
-      {
-        "title": "集结全公司之力，消息称三星加快自研人形机器人",
-        "link": "https://www.ithome.com/0/988/358.htm",
-        "time": "08-11 15:59",
-        "src": "IT之家"
-      },
-      {
-        "title": "吉利银河战舰 700“AI 全地形硬核 SUV”展车陆续到店，覆盖全国 119 城 150 店",
-        "link": "https://www.ithome.com/0/988/357.htm",
-        "time": "08-11 15:56",
-        "src": "IT之家"
-      },
-      {
-        "title": "主攻代码智能体产品？深度求索注册“Deepseek Harness 团队”公众号",
-        "link": "https://www.ithome.com/0/988/327.htm",
-        "time": "08-11 15:22",
-        "src": "IT之家"
-      },
-      {
-        "title": "民众反感 AI 数据中心，Meta 掏出 10 亿美元补贴社区",
-        "link": "https://www.ithome.com/0/988/320.htm",
-        "time": "08-11 15:16",
-        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3486,
+        "likes": 3498,
         "downloads": 59368,
         "pipeline": "image-text-to-video"
       },
       {
         "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 887,
+        "likes": 921,
         "downloads": 0,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-        "likes": 3099,
+        "likes": 3107,
         "downloads": 1048685,
         "pipeline": "text-generation"
       },
       {
-        "id": "Comfy-Org/MiniMax-H3",
-        "likes": 1173,
-        "downloads": 6798796,
-        "pipeline": ""
-      },
-      {
         "id": "larryvrh/MiniMax-H3-Turbo-Lora",
-        "likes": 613,
+        "likes": 616,
         "downloads": 0,
         "pipeline": "text-to-video"
       },
       {
+        "id": "Comfy-Org/MiniMax-H3",
+        "likes": 1179,
+        "downloads": 6798796,
+        "pipeline": ""
+      },
+      {
         "id": "LiquidAI/LFM2.5-2.6B",
-        "likes": 508,
+        "likes": 514,
         "downloads": 93668,
         "pipeline": "text-generation"
       }
@@ -702,40 +702,58 @@
   ],
   "hw_news": [
     {
+      "title": "影驰推出联盟 B650M Wi-Fi 黑武士 PLUS V2 主板，规格多处降级",
+      "link": "https://www.ithome.com/0/988/457.htm",
+      "time": "08-11 18:46",
+      "src": "IT之家"
+    },
+    {
+      "title": "“建议零售价”如今已成空谈：英伟达 RTX 50 系显卡本月涨幅最高达 39%",
+      "link": "https://www.ithome.com/0/988/449.htm",
+      "time": "08-11 18:22",
+      "src": "IT之家"
+    },
+    {
+      "title": "挑战三星显示，消息称京东方争取为苹果 iPad Air 供应 OLED 面板",
+      "link": "https://www.ithome.com/0/988/448.htm",
+      "time": "08-11 18:20",
+      "src": "IT之家"
+    },
+    {
+      "title": "铭瑄瑷珈主板 MS-iCraft B850M CROSS 发售，1299 元",
+      "link": "https://www.ithome.com/0/988/437.htm",
+      "time": "08-11 18:06",
+      "src": "IT之家"
+    },
+    {
+      "title": "微星 PRO MAX 341QPXW14G 显示器发售：RGB 条纹子像素 QD-OLED，5999 元",
+      "link": "https://www.ithome.com/0/988/432.htm",
+      "time": "08-11 17:57",
+      "src": "IT之家"
+    },
+    {
+      "title": "iQOO Neo11 至尊版手机现身中国电信终端产品库：天玑 9500 定制处理器，8 月 18 日发布",
+      "link": "https://www.ithome.com/0/988/421.htm",
+      "time": "08-11 17:30",
+      "src": "IT之家"
+    },
+    {
       "title": "前行者带来 S9V2 Ultimate 中大手鼠标：3955 + 54L15，磁吸无线座充",
       "link": "https://www.ithome.com/0/988/372.htm",
       "time": "08-11 16:31",
       "src": "IT之家"
     },
     {
-      "title": "英伟达 RTX 4080 魔改 32GB 显存涡轮显卡现身闲鱼",
-      "link": "https://www.ithome.com/0/988/359.htm",
-      "time": "08-11 16:01",
-      "src": "IT之家"
-    },
-    {
-      "title": "Keychron 推出 Z5 Ultra 8K 机械键盘：75% 配列 615 元、98% 配列 659 元",
-      "link": "https://www.ithome.com/0/988/356.htm",
-      "time": "08-11 15:56",
-      "src": "IT之家"
-    },
-    {
-      "title": "可维修模块化手机 Fairphone 6+ 手机曝光：12GB 内存，3 种配件",
-      "link": "https://www.ithome.com/0/988/349.htm",
-      "time": "08-11 15:39",
-      "src": "IT之家"
-    },
-    {
-      "title": "苹果 iMac 要换 OLED 屏？消息称 LG Display 正研发 5 层堆叠 OLED 面板",
-      "link": "https://finance.sina.com.cn/tech/digi/2026-08-10/doc-inimvnpm8162356.shtml",
-      "time": "08-10 17:12",
-      "src": "IT之家"
-    },
-    {
-      "title": "日本显示器千叶工厂收到多份收购报价",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimvnpi1236216.shtml",
-      "time": "08-10 16:45",
+      "title": "英特尔为何将股票增发规模上调至200亿美元",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimxvun5834770.shtml",
+      "time": "08-11 18:12",
       "src": "环球市场播报"
+    },
+    {
+      "title": "爱攻AGON十周年启动“由顶到夯”战略，冠捷科技副总裁阎立东：AI电竞是下个十年重要布局方向",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-11/doc-inimxvum4271731.shtml",
+      "time": "08-11 18:45",
+      "src": "新浪科技"
     },
     {
       "title": "Computex 2026: NVIDIA 发布 ARM 架构 PC 芯片 RTX Spark, 集成 Blackwell GPU, 对标苹果 M5",
@@ -751,24 +769,6 @@
     },
     {
       "title": "Intel 预览 Nova Lake 桌面平台: 最高48核(16P+32E), 18A 工艺, LGA1954 新插槽, 预计2026年底上市",
-      "link": "https://www.160.com/article/12732.html",
-      "time": "精选",
-      "src": "资讯整理"
-    },
-    {
-      "title": "宏碁首发 1000Hz 电竞显示器; 微星 5K Mini-LED 双模电竞屏(5K@180Hz/2K@330Hz) 亮相 Computex 2026",
-      "link": "https://www.160.com/article/12732.html",
-      "time": "精选",
-      "src": "资讯整理"
-    },
-    {
-      "title": "微星 40 周年发布 RTX 5090 LIGHTNING Z 旗舰与内置 AI 代理的 OLED 电竞显示器",
-      "link": "https://www.160.com/article/12732.html",
-      "time": "精选",
-      "src": "资讯整理"
-    },
-    {
-      "title": "AMD 锐龙 AI Max 400 系列: 192GB 统一内存, 宣称本地可运行 300B 参数大模型",
       "link": "https://www.160.com/article/12732.html",
       "time": "精选",
       "src": "资讯整理"
@@ -944,6 +944,18 @@
   },
   "anime_industry": {
     "news": [
+      {
+        "title": "“建议零售价”如今已成空谈：英伟达 RTX 50 系显卡本月涨幅最高达 39%",
+        "link": "https://www.ithome.com/0/988/449.htm",
+        "time": "08-11 18:22",
+        "src": "IT之家"
+      },
+      {
+        "title": "云豹智能IPO：对持股近20%的腾讯销售依赖度高达95% 触及独立性与单一客户重大依赖“两大红线”",
+        "link": "https://finance.sina.com.cn/stock/observe/2026-08-11/doc-inimxvui7459756.shtml",
+        "time": "08-11 17:36",
+        "src": "新浪证券"
+      },
       {
         "title": "《动画产业报告2025》: 市场规模达 3.84 万亿日元创历史新高, 海外占比约 56.5%",
         "link": "https://www.info35.net/hotopics/44871.html",
