@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11 21:20",
+  "generated_at": "2026-08-11 23:04",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,6 +233,42 @@
     ],
     "news": [
       {
+        "title": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
+        "link": "https://www.ithome.com/0/988/524.htm",
+        "time": "08-11 22:54",
+        "src": "IT之家"
+      },
+      {
+        "title": "网上中签率 0.018% 仅为长鑫 3.8%：“人形机器人第一股”宇树科技公布中签结果，超 978 万户参与申购",
+        "link": "https://www.ithome.com/0/988/502.htm",
+        "time": "08-11 21:25",
+        "src": "IT之家"
+      },
+      {
+        "title": "马磊：蔚来乐道 2026 上半年成交均价 24.8 万元，同比上升位列 20 万-30 万元之首",
+        "link": "https://www.ithome.com/0/988/498.htm",
+        "time": "08-11 21:21",
+        "src": "IT之家"
+      },
+      {
+        "title": "存储巨头拟回购，用于减少注册资本",
+        "link": "https://finance.sina.com.cn/stock/s/2026-08-11/doc-inimyhkf4137742.shtml",
+        "time": "08-11 22:49",
+        "src": "证券时报"
+      },
+      {
+        "title": "尾盘突然跳水！6倍算力大牛股，紧急澄清：已报警",
+        "link": "https://finance.sina.com.cn/stock/s/2026-08-11/doc-inimyhkh5726637.shtml",
+        "time": "08-11 22:29",
+        "src": "市场资讯"
+      },
+      {
+        "title": "开盘：标普500小幅走高，投资者评估美伊达成协议的可能性",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyhiz0532305.shtml",
+        "time": "08-11 21:30",
+        "src": "环球市场播报"
+      },
+      {
         "title": "美国7月CPI数据即将出炉 美联储9月加息抉择陷入两难",
         "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyaak5778660.shtml",
         "time": "08-11 20:18",
@@ -243,42 +279,6 @@
         "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyaak5763084.shtml",
         "time": "08-11 19:51",
         "src": "环球市场播报"
-      },
-      {
-        "title": "台积电与索尼半导体解决方案将设立影像感测器合资公司",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyaaf7390266.shtml",
-        "time": "08-11 19:27",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "标普500逼近历史高位，现在真的适合入场买股票吗？听听巴菲特给投资者的宝贵建议",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimxvuf0685568.shtml",
-        "time": "08-11 18:27",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "十年一遇布局良机：一只回撤45%的标普500高股息成长股，当下值得买入？",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimxvuf0682373.shtml",
-        "time": "08-11 18:22",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "回购、增持、并购，富淼科技在释放什么信号？",
-        "link": "https://finance.sina.com.cn/stock/s/2026-08-11/doc-inimxvun5836582.shtml",
-        "time": "08-11 18:07",
-        "src": "市场资讯"
-      },
-      {
-        "title": "品茗科技连续亏损：AI相关业务营收占比低 股价大跌之下一边减持一边回购",
-        "link": "https://finance.sina.com.cn/stock/observe/2026-08-11/doc-inimxvuf0678697.shtml",
-        "time": "08-11 18:16",
-        "src": "新浪财经"
-      },
-      {
-        "title": "地瓜机器人：DGP计划已孵化出百余类机器人产品",
-        "link": "https://finance.sina.com.cn/jjxw/2026-08-11/doc-inimxrnp4323472.shtml",
-        "time": "08-11 16:33",
-        "src": "新浪科技"
       }
     ]
   },
@@ -294,120 +294,210 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 53975.98,
-      "pct": -0.11,
-      "chg": -60.95,
-      "amount": "2233139637亿"
+      "price": 53973.26,
+      "pct": -0.01,
+      "chg": -2.72,
+      "amount": "559570292亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26605.36,
-      "pct": -0.32,
-      "chg": -85.26,
-      "amount": "18338906074亿"
+      "price": 26601.56,
+      "pct": -0.01,
+      "chg": -3.8,
+      "amount": "6841352708亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7753.11,
-      "pct": -0.06,
-      "chg": -4.53,
-      "amount": "2083190694亿"
+      "price": 7757.84,
+      "pct": 0.06,
+      "chg": 4.73,
+      "amount": "511323756亿"
     }
   ],
   "anime": {
-    "date": "08-11",
-    "weekday": "火",
+    "date": "08-12",
+    "weekday": "水",
     "items": [
       {
-        "id": 496276,
-        "name": "攻殻機動隊 THE GHOST IN THE SHELL",
-        "name_cn": "攻壳机动队 THE GHOST IN THE SHELL",
-        "score": 7.5,
-        "img": "http://lain.bgm.tv/pic/cover/c/7e/10/496276_Qeu06.jpg",
-        "air_date": "2026-07-07",
-        "rank": 888
+        "id": 975,
+        "name": "ONE PIECE",
+        "name_cn": "航海王",
+        "score": 8.3,
+        "img": "http://lain.bgm.tv/pic/cover/c/92/97/975_GFGYI.jpg",
+        "air_date": "1999-10-20",
+        "rank": 104
       },
       {
-        "id": 541285,
-        "name": "きみが死ぬまで恋をしたい",
-        "name_cn": "与你相恋到生命尽头",
+        "id": 339515,
+        "name": "幼女戦記Ⅱ",
+        "name_cn": "幼女战记 第二季",
         "score": 7.2,
-        "img": "http://lain.bgm.tv/pic/cover/c/b3/26/541285_CYBZc.jpg",
-        "air_date": "2026-07-07",
-        "rank": 1979
+        "img": "http://lain.bgm.tv/pic/cover/c/45/a6/339515_OTG2O.jpg",
+        "air_date": "2026-07-08",
+        "rank": 1986
       },
       {
-        "id": 325767,
-        "name": "対ありでした。 ～お嬢さまは格闘ゲームなんてしない～",
-        "name_cn": "感谢对战。 ～大小姐才不玩格斗游戏～",
+        "id": 572768,
+        "name": "一念永恒 完结季",
+        "name_cn": "一念永恒 完结季",
         "score": 7.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/a1/d3/325767_u3pvR.jpg",
-        "air_date": "2026-07-07",
-        "rank": 2484
-      },
-      {
-        "id": 607929,
-        "name": "百日成王",
-        "name_cn": "百日成王",
-        "score": 6.3,
-        "img": "http://lain.bgm.tv/pic/cover/c/1d/82/607929_h9X29.jpg",
-        "air_date": "2026-07-03",
+        "img": "http://lain.bgm.tv/pic/cover/c/fa/da/572768_iX280.jpg",
+        "air_date": "2026-07-22",
         "rank": null
       },
       {
-        "id": 584641,
-        "name": "手札が多めのビクトリア",
-        "name_cn": "奇招百出的维多利亚",
+        "id": 585820,
+        "name": "クレバテスⅡ-魔獣の王と偽りの勇者伝承-",
+        "name_cn": "Clevatess II-魔兽之王与虚假的勇者传承-",
+        "score": 6.8,
+        "img": "http://lain.bgm.tv/pic/cover/c/1a/a0/585820_NpfLN.jpg",
+        "air_date": "2026-07-08",
+        "rank": 3258
+      },
+      {
+        "id": 500458,
+        "name": "胶囊计划·奇迹",
+        "name_cn": "胶囊计划 奇迹",
+        "score": 6.4,
+        "img": "http://lain.bgm.tv/pic/cover/c/f5/23/500458_jXNh1.jpg",
+        "air_date": "2026-07-08",
+        "rank": null
+      },
+      {
+        "id": 481295,
+        "name": "X-Men '97 Season 2",
+        "name_cn": "X战警97 第二季",
+        "score": 6.2,
+        "img": "http://lain.bgm.tv/pic/cover/c/48/4a/481295_Z8c8P.jpg",
+        "air_date": "2026-07-01",
+        "rank": null
+      },
+      {
+        "id": 558064,
+        "name": "ヒロイン？聖女？いいえ、オールワークスメイドです（誇）！",
+        "name_cn": "女主角？圣女？不，我是杂役女仆（自豪）！",
         "score": 6.1,
-        "img": "http://lain.bgm.tv/pic/cover/c/04/5b/584641_150ne.jpg",
-        "air_date": "2026-07-07",
-        "rank": 6263
+        "img": "http://lain.bgm.tv/pic/cover/c/04/e4/558064_Q15R6.jpg",
+        "air_date": "2026-07-01",
+        "rank": 6673
       },
       {
-        "id": 516426,
-        "name": "一斩苍穹",
-        "name_cn": "一斩苍穹",
+        "id": 572613,
+        "name": "いびってこない義母と義姉",
+        "name_cn": "不虐待我的继母与继姐",
+        "score": 6.0,
+        "img": "http://lain.bgm.tv/pic/cover/c/04/7e/572613_v58Bn.jpg",
+        "air_date": "2026-07-08",
+        "rank": 6987
+      },
+      {
+        "id": 642666,
+        "name": "李熊猫",
+        "name_cn": "",
+        "score": 5.9,
+        "img": "http://lain.bgm.tv/pic/cover/c/2e/26/642666_tALbN.jpg",
+        "air_date": "2026-07-29",
+        "rank": null
+      },
+      {
+        "id": 565701,
+        "name": "片田舎のおっさん、剣聖になるⅡ",
+        "name_cn": "乡下大叔成为剑圣 第二季",
         "score": 5.8,
-        "img": "http://lain.bgm.tv/pic/cover/c/ef/2e/516426_JJUoU.jpg",
-        "air_date": "2026-07-28",
+        "img": "http://lain.bgm.tv/pic/cover/c/85/7f/565701_JKCaL.jpg",
+        "air_date": "2026-07-08",
+        "rank": 7619
+      },
+      {
+        "id": 637124,
+        "name": "花ざかりの君たちへ 第2期",
+        "name_cn": "花样少年少女 第二季",
+        "score": 5.8,
+        "img": "http://lain.bgm.tv/pic/cover/c/20/0f/637124_6DDda.jpg",
+        "air_date": "2026-07-01",
         "rank": null
       },
       {
-        "id": 612697,
-        "name": "鎧真伝サムライトルーパー 第2クール",
-        "name_cn": "铠真传 武士军团 第2部分",
-        "score": 5.6,
-        "img": "http://lain.bgm.tv/pic/cover/c/c5/ce/612697_hn4N5.jpg",
-        "air_date": "2026-07-07",
+        "id": 625215,
+        "name": "サンダー3",
+        "name_cn": "雷霆三人行",
+        "score": 5.5,
+        "img": "http://lain.bgm.tv/pic/cover/c/7f/48/625215_xb611.jpg",
+        "air_date": "2026-07-08",
+        "rank": 8692
+      },
+      {
+        "id": 412144,
+        "name": "乙女ゲー世界はモブに厳しい世界です2",
+        "name_cn": "恋爱游戏世界对路人角色很不友好 第二季",
+        "score": 4.9,
+        "img": "http://lain.bgm.tv/pic/cover/c/16/a8/412144_39HJH.jpg",
+        "air_date": "2026-07-08",
+        "rank": 9539
+      },
+      {
+        "id": 579787,
+        "name": "LV999の村人",
+        "name_cn": "LV999的村民",
+        "score": 4.9,
+        "img": "http://lain.bgm.tv/pic/cover/c/e4/57/579787_9aHqE.jpg",
+        "air_date": "2026-07-01",
+        "rank": 9719
+      },
+      {
+        "id": 658254,
+        "name": "ようじょしぇんき2",
+        "name_cn": "",
+        "score": 4.7,
+        "img": "http://lain.bgm.tv/pic/cover/c/6f/21/658254_D50aA.jpg",
+        "air_date": "2026-07-08",
         "rank": null
       },
       {
-        "id": 627648,
-        "name": "天は赤い河のほとり",
-        "name_cn": "天是红河岸",
-        "score": 4.4,
-        "img": "http://lain.bgm.tv/pic/cover/c/11/b7/627648_V00Vh.jpg",
-        "air_date": "2026-07-07",
-        "rank": 9378
+        "id": 621835,
+        "name": "도굴왕",
+        "name_cn": "盗墓王",
+        "score": 4.5,
+        "img": "http://lain.bgm.tv/pic/cover/c/7a/d3/621835_IFhDH.jpg",
+        "air_date": "2026-07-08",
+        "rank": 9753
       },
       {
-        "id": 638995,
-        "name": "身代わり令嬢を救ったのは冷酷無慈悲な氷の王子の愛でした",
-        "name_cn": "拯救替身千金的是冷酷无情冰之王子的爱",
-        "score": 3.8,
-        "img": "http://lain.bgm.tv/pic/cover/c/96/aa/638995_mM0aJ.jpg",
-        "air_date": "2026-07-07",
+        "id": 630163,
+        "name": "落第賢者の学院無双～二度目の転生、Sランクチート魔術師冒険録～",
+        "name_cn": "落第贤者的学院无双～第二次转生的S级开外挂魔术师冒险录～",
+        "score": 4.5,
+        "img": "http://lain.bgm.tv/pic/cover/c/fd/f7/630163_yyAc7.jpg",
+        "air_date": "2026-07-01",
+        "rank": 9926
+      },
+      {
+        "id": 630164,
+        "name": "パーフェクトアディクション",
+        "name_cn": "澈底对你成瘾",
+        "score": 3.6,
+        "img": "http://lain.bgm.tv/pic/cover/c/48/2b/630164_rIi5N.jpg",
+        "air_date": "2026-07-08",
         "rank": null
       },
       {
-        "id": 662681,
-        "name": "万古神帝",
-        "name_cn": "万古神帝",
-        "score": 1.5,
-        "img": "http://lain.bgm.tv/pic/cover/c/29/37/662681_9996z.jpg",
-        "air_date": "2026-07-21",
+        "id": 668113,
+        "name": "NARUTO x PUBG MOBILE Exclusive Collab Anime",
+        "name_cn": "《PUBG MOBILE：绝地求生M》×《火影忍者疾风传》",
+        "score": 3.0,
+        "img": "http://lain.bgm.tv/pic/cover/c/6e/76/668113_xH76x.jpg",
+        "air_date": "2026-07-08",
+        "rank": null
+      },
+      {
+        "id": 532053,
+        "name": "地球大好き！きっくん",
+        "name_cn": "",
+        "score": null,
+        "img": "http://lain.bgm.tv/pic/cover/c/a3/dd/532053_NK9BA.jpg",
+        "air_date": "2026-07-01",
         "rank": null
       }
     ]
@@ -447,88 +537,88 @@
   "ai": {
     "news_zh": [
       {
+        "title": "Ulefone 推出 Armor 22 Pro/24 Pro 三防手机，联发科 Helio G200 芯片",
+        "link": "https://www.ithome.com/0/988/526.htm",
+        "time": "08-11 23:03",
+        "src": "IT之家"
+      },
+      {
+        "title": "苹果 iOS 27 测试版出现 iCloud+ 限制变化，库克此前曾暗示将对高级 AI 功能收费",
+        "link": "https://www.ithome.com/0/988/525.htm",
+        "time": "08-11 22:55",
+        "src": "IT之家"
+      },
+      {
+        "title": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
+        "link": "https://www.ithome.com/0/988/524.htm",
+        "time": "08-11 22:54",
+        "src": "IT之家"
+      },
+      {
+        "title": "让 AI 生成的非真人歌手无处遁形，Spotify 推出“AI 人格”标签",
+        "link": "https://www.ithome.com/0/988/504.htm",
+        "time": "08-11 21:38",
+        "src": "IT之家"
+      },
+      {
+        "title": "网上中签率 0.018% 仅为长鑫 3.8%：“人形机器人第一股”宇树科技公布中签结果，超 978 万户参与申购",
+        "link": "https://www.ithome.com/0/988/502.htm",
+        "time": "08-11 21:25",
+        "src": "IT之家"
+      },
+      {
+        "title": "李飞飞：AI 进入校园的最大风险，是可能削弱孩子的学习能力",
+        "link": "https://www.ithome.com/0/988/501.htm",
+        "time": "08-11 21:25",
+        "src": "IT之家"
+      },
+      {
         "title": "与华为联合研发：小鹏 G9L 大五座 SUV 官宣搭载百万像素 AI 数字投影大灯",
         "link": "https://www.ithome.com/0/988/474.htm",
         "time": "08-11 19:45",
         "src": "IT之家"
       },
       {
-        "title": "李开复：中国开源大模型让美国人很担忧",
-        "link": "https://www.ithome.com/0/988/466.htm",
-        "time": "08-11 19:11",
-        "src": "IT之家"
-      },
-      {
-        "title": "未公开的新模型“立功”，Anthropic 宣布 Claude 攻克黎曼猜想取得重大突破",
-        "link": "https://www.ithome.com/0/988/453.htm",
-        "time": "08-11 18:35",
-        "src": "IT之家"
-      },
-      {
-        "title": "“建议零售价”如今已成空谈：英伟达 RTX 50 系显卡本月涨幅最高达 39%",
-        "link": "https://www.ithome.com/0/988/449.htm",
-        "time": "08-11 18:22",
-        "src": "IT之家"
-      },
-      {
-        "title": "蚂蚁百灵开源 Ling-3.0-tiny 模型，支持英伟达 DGX Spark、苹果 Mac mini 部署",
-        "link": "https://www.ithome.com/0/988/431.htm",
-        "time": "08-11 17:57",
-        "src": "IT之家"
-      },
-      {
-        "title": "消息称字节继 Seed、Flow 后又成立新的一级部门，着眼 AI 数据与安全",
-        "link": "https://www.ithome.com/0/988/429.htm",
-        "time": "08-11 17:36",
-        "src": "IT之家"
-      },
-      {
-        "title": "英伟达全力研发Nemotron 4开源大模型 拉动芯片需求同时直面客户竞争",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyaai4217582.shtml",
-        "time": "08-11 21:12",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "英伟达盘前领涨科技七巨头 英伟达为AI基础设施筹5000亿美元融资",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimxvuf0677388.shtml",
-        "time": "08-11 18:14",
-        "src": "环球市场播报"
+        "title": "尾盘突然跳水！6倍算力大牛股，紧急澄清：已报警",
+        "link": "https://finance.sina.com.cn/stock/s/2026-08-11/doc-inimyhkh5726637.shtml",
+        "time": "08-11 22:29",
+        "src": "市场资讯"
       }
     ],
     "hf": [
       {
         "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3514,
+        "likes": 3526,
         "downloads": 59368,
         "pipeline": "image-text-to-video"
       },
       {
         "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 958,
+        "likes": 992,
         "downloads": 0,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-        "likes": 3118,
+        "likes": 3121,
         "downloads": 1048685,
         "pipeline": "text-generation"
       },
       {
         "id": "larryvrh/MiniMax-H3-Turbo-Lora",
-        "likes": 623,
+        "likes": 628,
         "downloads": 0,
         "pipeline": "text-to-video"
       },
       {
         "id": "Comfy-Org/MiniMax-H3",
-        "likes": 1185,
+        "likes": 1193,
         "downloads": 6798796,
         "pipeline": ""
       },
       {
         "id": "LiquidAI/LFM2.5-2.6B",
-        "likes": 524,
+        "likes": 528,
         "downloads": 93668,
         "pipeline": "text-generation"
       }
@@ -702,45 +792,21 @@
   ],
   "hw_news": [
     {
+      "title": "vivo 头戴降噪耳机罗小黑联名礼包公开，含定制收纳包、主题弹窗、学生专属猫耳配件等",
+      "link": "https://www.ithome.com/0/988/506.htm",
+      "time": "08-11 21:50",
+      "src": "IT之家"
+    },
+    {
+      "title": "Bosgame 推出 E2 Plus 迷你主机：锐龙 5 3501U 处理器、8GB 内存，249 美元",
+      "link": "https://www.ithome.com/0/988/499.htm",
+      "time": "08-11 21:21",
+      "src": "IT之家"
+    },
+    {
       "title": "三星 Galaxy Buds 耳机“助听器”功能获美国 FDA 批准，今年 Q4 上线",
       "link": "https://www.ithome.com/0/988/494.htm",
       "time": "08-11 21:08",
-      "src": "IT之家"
-    },
-    {
-      "title": "一加 LCD 屏新机曝光：天玑 6360 处理器、8000mAh 电池，支持 120Hz 高刷",
-      "link": "https://www.ithome.com/0/988/465.htm",
-      "time": "08-11 19:04",
-      "src": "IT之家"
-    },
-    {
-      "title": "影驰推出联盟 B650M Wi-Fi 黑武士 PLUS V2 主板，规格多处降级",
-      "link": "https://www.ithome.com/0/988/457.htm",
-      "time": "08-11 18:46",
-      "src": "IT之家"
-    },
-    {
-      "title": "“建议零售价”如今已成空谈：英伟达 RTX 50 系显卡本月涨幅最高达 39%",
-      "link": "https://www.ithome.com/0/988/449.htm",
-      "time": "08-11 18:22",
-      "src": "IT之家"
-    },
-    {
-      "title": "挑战三星显示，消息称京东方争取为苹果 iPad Air 供应 OLED 面板",
-      "link": "https://www.ithome.com/0/988/448.htm",
-      "time": "08-11 18:20",
-      "src": "IT之家"
-    },
-    {
-      "title": "铭瑄瑷珈主板 MS-iCraft B850M CROSS 发售，1299 元",
-      "link": "https://www.ithome.com/0/988/437.htm",
-      "time": "08-11 18:06",
-      "src": "IT之家"
-    },
-    {
-      "title": "微星 PRO MAX 341QPXW14G 显示器发售：RGB 条纹子像素 QD-OLED，5999 元",
-      "link": "https://www.ithome.com/0/988/432.htm",
-      "time": "08-11 17:57",
       "src": "IT之家"
     },
     {
@@ -769,6 +835,24 @@
     },
     {
       "title": "Intel 预览 Nova Lake 桌面平台: 最高48核(16P+32E), 18A 工艺, LGA1954 新插槽, 预计2026年底上市",
+      "link": "https://www.160.com/article/12732.html",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "宏碁首发 1000Hz 电竞显示器; 微星 5K Mini-LED 双模电竞屏(5K@180Hz/2K@330Hz) 亮相 Computex 2026",
+      "link": "https://www.160.com/article/12732.html",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "微星 40 周年发布 RTX 5090 LIGHTNING Z 旗舰与内置 AI 代理的 OLED 电竞显示器",
+      "link": "https://www.160.com/article/12732.html",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "AMD 锐龙 AI Max 400 系列: 192GB 统一内存, 宣称本地可运行 300B 参数大模型",
       "link": "https://www.160.com/article/12732.html",
       "time": "精选",
       "src": "资讯整理"
@@ -944,18 +1028,6 @@
   },
   "anime_industry": {
     "news": [
-      {
-        "title": "“建议零售价”如今已成空谈：英伟达 RTX 50 系显卡本月涨幅最高达 39%",
-        "link": "https://www.ithome.com/0/988/449.htm",
-        "time": "08-11 18:22",
-        "src": "IT之家"
-      },
-      {
-        "title": "云豹智能IPO：对持股近20%的腾讯销售依赖度高达95% 触及独立性与单一客户重大依赖“两大红线”",
-        "link": "https://finance.sina.com.cn/stock/observe/2026-08-11/doc-inimxvui7459756.shtml",
-        "time": "08-11 17:36",
-        "src": "新浪证券"
-      },
       {
         "title": "《动画产业报告2025》: 市场规模达 3.84 万亿日元创历史新高, 海外占比约 56.5%",
         "link": "https://www.info35.net/hotopics/44871.html",
