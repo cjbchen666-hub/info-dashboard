@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12 01:04",
+  "generated_at": "2026-08-12 03:11",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -251,6 +251,12 @@
         "src": "IT之家"
       },
       {
+        "title": "法国央行预计第三季度经济保持增长势头",
+        "link": "https://finance.sina.com.cn/world/2026-08-12/doc-inimysya5577475.shtml",
+        "time": "08-12 02:47",
+        "src": "环球市场播报"
+      },
+      {
         "title": "纽约联储研究：信用卡债务规模升至1.26万亿美元，K型格局仍在延续",
         "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-inimynrz7268941.shtml",
         "time": "08-12 00:23",
@@ -273,12 +279,6 @@
         "link": "https://finance.sina.com.cn/stock/s/2026-08-11/doc-inimyhkh5726637.shtml",
         "time": "08-11 22:29",
         "src": "市场资讯"
-      },
-      {
-        "title": "开盘：标普500小幅走高，投资者评估美伊达成协议的可能性",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyhiz0532305.shtml",
-        "time": "08-11 21:30",
-        "src": "环球市场播报"
       }
     ]
   },
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 53889.18,
-      "pct": -0.16,
-      "chg": -86.8,
-      "amount": "903996828亿"
+      "price": 53786.15,
+      "pct": -0.35,
+      "chg": -189.83,
+      "amount": "1252387347亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26455.48,
-      "pct": -0.56,
-      "chg": -149.88,
-      "amount": "10620942135亿"
+      "price": 26418.44,
+      "pct": -0.7,
+      "chg": -186.92,
+      "amount": "13827420577亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7732.63,
-      "pct": -0.26,
-      "chg": -20.48,
-      "amount": "842129149亿"
+      "price": 7725.13,
+      "pct": -0.36,
+      "chg": -27.98,
+      "amount": "1167554346亿"
     }
   ],
   "anime": {
@@ -432,7 +432,7 @@
         "id": 412144,
         "name": "乙女ゲー世界はモブに厳しい世界です2",
         "name_cn": "恋爱游戏世界对路人角色很不友好 第二季",
-        "score": 4.9,
+        "score": 5.0,
         "img": "http://lain.bgm.tv/pic/cover/c/16/a8/412144_39HJH.jpg",
         "air_date": "2026-07-08",
         "rank": 9539
@@ -459,7 +459,7 @@
         "id": 621835,
         "name": "도굴왕",
         "name_cn": "盗墓王",
-        "score": 4.5,
+        "score": 4.6,
         "img": "http://lain.bgm.tv/pic/cover/c/7a/d3/621835_IFhDH.jpg",
         "air_date": "2026-07-08",
         "rank": 9753
@@ -579,46 +579,46 @@
         "src": "IT之家"
       },
       {
-        "title": "芝商所和Silicon Data计划10月5日推出算力期货",
-        "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimynsc4027404.shtml",
-        "time": "08-11 23:48",
+        "title": "英伟达信用风险指标回落 CEO澄清5000亿美元融资计划",
+        "link": "https://finance.sina.com.cn/world/2026-08-12/doc-inimysxz3942626.shtml",
+        "time": "08-12 01:46",
         "src": "环球市场播报"
       }
     ],
     "hf": [
       {
         "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3538,
+        "likes": 3548,
         "downloads": 59368,
         "pipeline": "image-text-to-video"
       },
       {
         "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 1019,
+        "likes": 1044,
         "downloads": 0,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-        "likes": 3128,
+        "likes": 3132,
         "downloads": 1048685,
         "pipeline": "text-generation"
       },
       {
         "id": "larryvrh/MiniMax-H3-Turbo-Lora",
-        "likes": 637,
+        "likes": 642,
         "downloads": 0,
         "pipeline": "text-to-video"
       },
       {
         "id": "Comfy-Org/MiniMax-H3",
-        "likes": 1199,
+        "likes": 1206,
         "downloads": 6798796,
         "pipeline": ""
       },
       {
         "id": "LiquidAI/LFM2.5-2.6B",
-        "likes": 534,
+        "likes": 540,
         "downloads": 93668,
         "pipeline": "text-generation"
       }
