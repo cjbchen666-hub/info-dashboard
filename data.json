@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11 15:18",
+  "generated_at": "2026-08-11 17:06",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,52 +233,52 @@
     ],
     "news": [
       {
-        "title": "阿维塔陈卓：必须守住算力调度、整车解决方案层面独立性，避免沦为硬件整合商",
-        "link": "https://www.ithome.com/0/988/296.htm",
-        "time": "08-11 15:07",
+        "title": "集结全公司之力，消息称三星加快自研人形机器人",
+        "link": "https://www.ithome.com/0/988/358.htm",
+        "time": "08-11 15:59",
         "src": "IT之家"
       },
       {
-        "title": "小摩：太平洋航运重申“增持”评级 目标价上调13%至4.3港元",
-        "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-11/doc-inimxrnp4244568.shtml",
-        "time": "08-11 14:36",
-        "src": "新浪港股"
-      },
-      {
-        "title": "通胀风险挥之不去 韩国央行副行长暗示可能进一步加息",
-        "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimxrnp4242700.shtml",
-        "time": "08-11 14:33",
+        "title": "虎牙发布2026年Q2财报：总收入连续六季同比增长 扩大股票回购计划授权额度至1亿美元",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimxvun5775017.shtml",
+        "time": "08-11 16:44",
         "src": "环球市场播报"
       },
       {
-        "title": "*ST航图（688066）业绩快报“大变脸”后再遭证监会立案 两类投资者可索赔",
-        "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-11/doc-inimxrnp4240862.shtml",
-        "time": "08-11 14:26",
-        "src": "市场资讯"
-      },
-      {
-        "title": "联创光电及实控人双双被立案！涉嫌隐瞒非经营性资金往来，8月5日股价跌停，投资者维权启动",
-        "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-11/doc-inimxrnm7467978.shtml",
-        "time": "08-11 14:26",
-        "src": "市场资讯"
-      },
-      {
-        "title": "韩国央行副行长称很有可能再次加息以应对通胀压力",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimxmep7592087.shtml",
-        "time": "08-11 14:17",
+        "title": "澳大利亚央行按兵不动 但行长在发布会上唱鹰调",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimxrni0719785.shtml",
+        "time": "08-11 16:04",
         "src": "环球市场播报"
       },
       {
-        "title": "*ST实达、*ST航图遭证监会立案  投资者或可索赔",
-        "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-11/doc-inimxmep7592651.shtml",
-        "time": "08-11 14:00",
-        "src": "市场资讯"
+        "title": "地瓜机器人：DGP计划已孵化出百余类机器人产品",
+        "link": "https://finance.sina.com.cn/jjxw/2026-08-11/doc-inimxrnp4323472.shtml",
+        "time": "08-11 16:33",
+        "src": "新浪科技"
       },
       {
         "title": "豆包刘星：“豆包推荐酒店要收费”说法不准确，仅在订单成交后支付渠道服务费",
         "link": "https://finance.sina.com.cn/tech/shenji/2026-08-11/doc-inimxewt4412296.shtml",
         "time": "08-11 11:46",
         "src": "新浪科技"
+      },
+      {
+        "title": "TVB：拟成立合营公司 在港提供算力服务",
+        "link": "https://finance.sina.com.cn/tech/shenji/2026-08-11/doc-inimxewu5879494.shtml",
+        "time": "08-11 09:55",
+        "src": "新浪科技"
+      },
+      {
+        "title": "消息称智谱 API 用户接近 700 万，已启用超 5 万块国产算力芯片",
+        "link": "https://finance.sina.com.cn/tech/digi/2026-08-11/doc-inimwcmf4723788.shtml",
+        "time": "08-10 22:42",
+        "src": "IT之家"
+      },
+      {
+        "title": "A股周五收盘综述: 上证指数涨1.02%收3940.04点, 科创50大涨2.51%, 两市成交合计超2.6万亿",
+        "link": "https://finance.sina.com.cn/stock/",
+        "time": "精选",
+        "src": "资讯整理"
       }
     ]
   },
@@ -286,10 +286,10 @@
     {
       "name": "恒生指数",
       "code": "HSI",
-      "price": 25683.94,
-      "pct": -0.98,
-      "chg": -253.55,
-      "amount": "1738亿"
+      "price": 25652.82,
+      "pct": -1.1,
+      "chg": -284.67,
+      "amount": "2109亿"
     },
     {
       "name": "道琼斯",
@@ -447,89 +447,89 @@
   "ai": {
     "news_zh": [
       {
+        "title": "谷歌力推的 AI 招聘工具遭自家 DeepMind 团队“打脸”：或不小心误筛简历",
+        "link": "https://www.ithome.com/0/988/380.htm",
+        "time": "08-11 16:59",
+        "src": "IT之家"
+      },
+      {
+        "title": "米哈游 AI 女友桌面陪伴软件《BSide: Olivia Lin》宣布 8 月 31 日停运，8 月 27 日发布离线版",
+        "link": "https://www.ithome.com/0/988/371.htm",
+        "time": "08-11 16:27",
+        "src": "IT之家"
+      },
+      {
+        "title": "OpenAI 伦理主管 Chloé Bakalar 悄然离职，在岗不到一年",
+        "link": "https://www.ithome.com/0/988/365.htm",
+        "time": "08-11 16:12",
+        "src": "IT之家"
+      },
+      {
+        "title": "英伟达 RTX 4080 魔改 32GB 显存涡轮显卡现身闲鱼",
+        "link": "https://www.ithome.com/0/988/359.htm",
+        "time": "08-11 16:01",
+        "src": "IT之家"
+      },
+      {
+        "title": "集结全公司之力，消息称三星加快自研人形机器人",
+        "link": "https://www.ithome.com/0/988/358.htm",
+        "time": "08-11 15:59",
+        "src": "IT之家"
+      },
+      {
+        "title": "吉利银河战舰 700“AI 全地形硬核 SUV”展车陆续到店，覆盖全国 119 城 150 店",
+        "link": "https://www.ithome.com/0/988/357.htm",
+        "time": "08-11 15:56",
+        "src": "IT之家"
+      },
+      {
+        "title": "主攻代码智能体产品？深度求索注册“Deepseek Harness 团队”公众号",
+        "link": "https://www.ithome.com/0/988/327.htm",
+        "time": "08-11 15:22",
+        "src": "IT之家"
+      },
+      {
         "title": "民众反感 AI 数据中心，Meta 掏出 10 亿美元补贴社区",
         "link": "https://www.ithome.com/0/988/320.htm",
         "time": "08-11 15:16",
-        "src": "IT之家"
-      },
-      {
-        "title": "阿维塔陈卓：必须守住算力调度、整车解决方案层面独立性，避免沦为硬件整合商",
-        "link": "https://www.ithome.com/0/988/296.htm",
-        "time": "08-11 15:07",
-        "src": "IT之家"
-      },
-      {
-        "title": "马斯克赞同 Cloudflare 预测：未来 5 年内 AI 流量将超人类互联网用量 1000 倍",
-        "link": "https://www.ithome.com/0/988/284.htm",
-        "time": "08-11 14:52",
-        "src": "IT之家"
-      },
-      {
-        "title": "3.6 Flash 发布不到 1 个月，谷歌 Gemini 3.7 Flash AI 模型踪迹曝光",
-        "link": "https://www.ithome.com/0/988/280.htm",
-        "time": "08-11 14:36",
-        "src": "IT之家"
-      },
-      {
-        "title": "消息称谷歌已搁置发布 Gemini 3.5 Pro AI 模型",
-        "link": "https://www.ithome.com/0/988/277.htm",
-        "time": "08-11 14:23",
-        "src": "IT之家"
-      },
-      {
-        "title": "智谱宣布 ZCode 全面升级，GLM Coding Plan 全员额度回满",
-        "link": "https://www.ithome.com/0/988/276.htm",
-        "time": "08-11 14:19",
-        "src": "IT之家"
-      },
-      {
-        "title": "过去 1 年全球亿万富翁身价报告：马斯克日增 8.75 亿美元居首，DeepSeek 梁文锋飙升 3850% 最快",
-        "link": "https://www.ithome.com/0/988/273.htm",
-        "time": "08-11 14:08",
-        "src": "IT之家"
-      },
-      {
-        "title": "Gartner 预估 2026 年 AI 推理支出首次超越模型训练",
-        "link": "https://www.ithome.com/0/988/266.htm",
-        "time": "08-11 13:43",
         "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3469,
-        "downloads": 47468,
+        "likes": 3486,
+        "downloads": 59368,
         "pipeline": "image-text-to-video"
       },
       {
         "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 855,
+        "likes": 887,
         "downloads": 0,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-        "likes": 3090,
-        "downloads": 954441,
+        "likes": 3099,
+        "downloads": 1048685,
         "pipeline": "text-generation"
       },
       {
         "id": "Comfy-Org/MiniMax-H3",
-        "likes": 1164,
-        "downloads": 6009639,
+        "likes": 1173,
+        "downloads": 6798796,
         "pipeline": ""
       },
       {
         "id": "larryvrh/MiniMax-H3-Turbo-Lora",
-        "likes": 608,
+        "likes": 613,
         "downloads": 0,
         "pipeline": "text-to-video"
       },
       {
         "id": "LiquidAI/LFM2.5-2.6B",
-        "likes": 499,
-        "downloads": 89680,
+        "likes": 508,
+        "downloads": 93668,
         "pipeline": "text-generation"
       }
     ],
@@ -702,22 +702,28 @@
   ],
   "hw_news": [
     {
-      "title": "英特尔确认以 95 美元股价发行股票，总募资规模增至 200 亿美元",
-      "link": "https://www.ithome.com/0/988/283.htm",
-      "time": "08-11 14:43",
+      "title": "前行者带来 S9V2 Ultimate 中大手鼠标：3955 + 54L15，磁吸无线座充",
+      "link": "https://www.ithome.com/0/988/372.htm",
+      "time": "08-11 16:31",
       "src": "IT之家"
     },
     {
-      "title": "忆联首款消费级 PCIe Gen5 QLC 固态硬盘 AE631 预热：“性能等效 TLC”",
-      "link": "https://www.ithome.com/0/988/272.htm",
-      "time": "08-11 14:01",
+      "title": "英伟达 RTX 4080 魔改 32GB 显存涡轮显卡现身闲鱼",
+      "link": "https://www.ithome.com/0/988/359.htm",
+      "time": "08-11 16:01",
       "src": "IT之家"
     },
     {
-      "title": "英特尔上调股票募资规模至200亿美元 AI赛道股权融资市场承接力充足",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimxrni0661033.shtml",
-      "time": "08-11 14:55",
-      "src": "环球市场播报"
+      "title": "Keychron 推出 Z5 Ultra 8K 机械键盘：75% 配列 615 元、98% 配列 659 元",
+      "link": "https://www.ithome.com/0/988/356.htm",
+      "time": "08-11 15:56",
+      "src": "IT之家"
+    },
+    {
+      "title": "可维修模块化手机 Fairphone 6+ 手机曝光：12GB 内存，3 种配件",
+      "link": "https://www.ithome.com/0/988/349.htm",
+      "time": "08-11 15:39",
+      "src": "IT之家"
     },
     {
       "title": "苹果 iMac 要换 OLED 屏？消息称 LG Display 正研发 5 层堆叠 OLED 面板",
@@ -938,12 +944,6 @@
   },
   "anime_industry": {
     "news": [
-      {
-        "title": "苹果 iOS 27 Beta 5 隐藏变化：优化 Siri 动画、移除 10 张 CarPlay 壁纸等",
-        "link": "https://www.ithome.com/0/988/256.htm",
-        "time": "08-11 12:29",
-        "src": "IT之家"
-      },
       {
         "title": "《动画产业报告2025》: 市场规模达 3.84 万亿日元创历史新高, 海外占比约 56.5%",
         "link": "https://www.info35.net/hotopics/44871.html",
