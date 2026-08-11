@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11 23:04",
+  "generated_at": "2026-08-12 01:04",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -129,9 +129,9 @@
       }
     ],
     "status": {
-      "state": "已收盘",
-      "label": "今日已收盘",
-      "date": "2026-08-11"
+      "state": "未开盘",
+      "label": "今日尚未开盘",
+      "date": "2026-08-12"
     },
     "watch": [
       {
@@ -251,6 +251,18 @@
         "src": "IT之家"
       },
       {
+        "title": "纽约联储研究：信用卡债务规模升至1.26万亿美元，K型格局仍在延续",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-inimynrz7268941.shtml",
+        "time": "08-12 00:23",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "芝商所和Silicon Data计划10月5日推出算力期货",
+        "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimynsc4027404.shtml",
+        "time": "08-11 23:48",
+        "src": "环球市场播报"
+      },
+      {
         "title": "存储巨头拟回购，用于减少注册资本",
         "link": "https://finance.sina.com.cn/stock/s/2026-08-11/doc-inimyhkf4137742.shtml",
         "time": "08-11 22:49",
@@ -267,18 +279,6 @@
         "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyhiz0532305.shtml",
         "time": "08-11 21:30",
         "src": "环球市场播报"
-      },
-      {
-        "title": "美国7月CPI数据即将出炉 美联储9月加息抉择陷入两难",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyaak5778660.shtml",
-        "time": "08-11 20:18",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "德国基金行业管理的资产规模首次突破5万亿欧元 ETF需求强劲",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyaak5763084.shtml",
-        "time": "08-11 19:51",
-        "src": "环球市场播报"
       }
     ]
   },
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 53973.26,
-      "pct": -0.01,
-      "chg": -2.72,
-      "amount": "559570292亿"
+      "price": 53889.18,
+      "pct": -0.16,
+      "chg": -86.8,
+      "amount": "903996828亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26601.56,
-      "pct": -0.01,
-      "chg": -3.8,
-      "amount": "6841352708亿"
+      "price": 26455.48,
+      "pct": -0.56,
+      "chg": -149.88,
+      "amount": "10620942135亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7757.84,
-      "pct": 0.06,
-      "chg": 4.73,
-      "amount": "511323756亿"
+      "price": 7732.63,
+      "pct": -0.26,
+      "chg": -20.48,
+      "amount": "842129149亿"
     }
   ],
   "anime": {
@@ -537,6 +537,12 @@
   "ai": {
     "news_zh": [
       {
+        "title": "台风过境：宁波用 AI“算”出防汛最优解，预报模型 5 秒生成方案",
+        "link": "https://www.ithome.com/0/988/529.htm",
+        "time": "08-11 23:08",
+        "src": "IT之家"
+      },
+      {
         "title": "Ulefone 推出 Armor 22 Pro/24 Pro 三防手机，联发科 Helio G200 芯片",
         "link": "https://www.ithome.com/0/988/526.htm",
         "time": "08-11 23:03",
@@ -573,52 +579,46 @@
         "src": "IT之家"
       },
       {
-        "title": "与华为联合研发：小鹏 G9L 大五座 SUV 官宣搭载百万像素 AI 数字投影大灯",
-        "link": "https://www.ithome.com/0/988/474.htm",
-        "time": "08-11 19:45",
-        "src": "IT之家"
-      },
-      {
-        "title": "尾盘突然跳水！6倍算力大牛股，紧急澄清：已报警",
-        "link": "https://finance.sina.com.cn/stock/s/2026-08-11/doc-inimyhkh5726637.shtml",
-        "time": "08-11 22:29",
-        "src": "市场资讯"
+        "title": "芝商所和Silicon Data计划10月5日推出算力期货",
+        "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimynsc4027404.shtml",
+        "time": "08-11 23:48",
+        "src": "环球市场播报"
       }
     ],
     "hf": [
       {
         "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3526,
+        "likes": 3538,
         "downloads": 59368,
         "pipeline": "image-text-to-video"
       },
       {
         "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 992,
+        "likes": 1019,
         "downloads": 0,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-        "likes": 3121,
+        "likes": 3128,
         "downloads": 1048685,
         "pipeline": "text-generation"
       },
       {
         "id": "larryvrh/MiniMax-H3-Turbo-Lora",
-        "likes": 628,
+        "likes": 637,
         "downloads": 0,
         "pipeline": "text-to-video"
       },
       {
         "id": "Comfy-Org/MiniMax-H3",
-        "likes": 1193,
+        "likes": 1199,
         "downloads": 6798796,
         "pipeline": ""
       },
       {
         "id": "LiquidAI/LFM2.5-2.6B",
-        "likes": 528,
+        "likes": 534,
         "downloads": 93668,
         "pipeline": "text-generation"
       }
@@ -792,6 +792,18 @@
   ],
   "hw_news": [
     {
+      "title": "849 元科睿 27 英寸 2K 240Hz 显示器 X7Q 发售，峰值亮度 400nits",
+      "link": "https://www.ithome.com/0/988/541.htm",
+      "time": "08-11 23:42",
+      "src": "IT之家"
+    },
+    {
+      "title": "雷蛇那伽梵蛇 V3 专业版无线鼠标发布：23 个按键 + 50K 光学传感，1499 元",
+      "link": "https://www.ithome.com/0/988/532.htm",
+      "time": "08-11 23:14",
+      "src": "IT之家"
+    },
+    {
       "title": "vivo 头戴降噪耳机罗小黑联名礼包公开，含定制收纳包、主题弹窗、学生专属猫耳配件等",
       "link": "https://www.ithome.com/0/988/506.htm",
       "time": "08-11 21:50",
@@ -804,15 +816,9 @@
       "src": "IT之家"
     },
     {
-      "title": "三星 Galaxy Buds 耳机“助听器”功能获美国 FDA 批准，今年 Q4 上线",
-      "link": "https://www.ithome.com/0/988/494.htm",
-      "time": "08-11 21:08",
-      "src": "IT之家"
-    },
-    {
-      "title": "英特尔为何将股票增发规模上调至200亿美元",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimxvun5834770.shtml",
-      "time": "08-11 18:12",
+      "title": "英特尔股票发行交易据悉约三分之一认购者未获配股份",
+      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimyhkf4151777.shtml",
+      "time": "08-11 23:29",
       "src": "环球市场播报"
     },
     {
