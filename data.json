@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13 04:54",
+  "generated_at": "2026-08-13 06:12",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -251,6 +251,18 @@
         "src": "IT之家"
       },
       {
+        "title": "美联储料维持准备金管理购买节奏",
+        "link": "https://finance.sina.com.cn/world/2026-08-13/doc-ininchpa3493691.shtml",
+        "time": "08-13 06:03",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "美国股市：标普500指数逼近纪录高位 温和通胀缓解加息担忧",
+        "link": "https://finance.sina.com.cn/world/2026-08-13/doc-ininchpa3484717.shtml",
+        "time": "08-13 05:32",
+        "src": "环球市场播报"
+      },
+      {
         "title": "8月13日收盘：美股三大指数涨跌不一 温和CPI提振降息预期 AI概念股领涨科技板块",
         "link": "https://finance.sina.com.cn/world/2026-08-13/doc-inincaey4973319.shtml",
         "time": "08-13 04:31",
@@ -267,18 +279,6 @@
         "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-ininarre5121818.shtml",
         "time": "08-12 23:17",
         "src": "环球市场播报"
-      },
-      {
-        "title": "摩根资产管理：美国的“特氟龙式通胀”黏不住 美联储无需加息",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-ininarre5111526.shtml",
-        "time": "08-12 22:54",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "600721最新提示：不涉及创新药研发",
-        "link": "https://finance.sina.com.cn/stock/s/2026-08-12/doc-ininarqz6640532.shtml",
-        "time": "08-12 22:30",
-        "src": "证券时报"
       }
     ]
   },
@@ -305,7 +305,7 @@
       "price": 26588.49,
       "pct": 0.54,
       "chg": 143.04,
-      "amount": "18697930002亿"
+      "amount": "18982725518亿"
     },
     {
       "name": "标普500",
@@ -495,6 +495,36 @@
         "link": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment",
         "time": "ISW每日评估",
         "src": "ISW"
+      },
+      {
+        "title": "伊朗代理总统同俄罗斯总统通电话 讨论合作问题",
+        "link": "https://news.sina.com.cn/w/2024-06-27/doc-incaceev5723822.shtml",
+        "time": "06-27 03:10",
+        "src": "央视"
+      },
+      {
+        "title": "韩国联合参谋本部：朝鲜向半岛东部海域发射导弹",
+        "link": "https://news.sina.com.cn/w/2024-06-26/doc-inazyzfu1005524.shtml",
+        "time": "06-26 04:41",
+        "src": "央视"
+      },
+      {
+        "title": "美官员称美国将再向乌克兰提供1.5亿美元弹药",
+        "link": "https://news.sina.com.cn/w/2024-06-25/doc-inazwwht1613362.shtml",
+        "time": "06-25 03:39",
+        "src": "央视"
+      },
+      {
+        "title": "古特雷斯强烈谴责俄罗斯达吉斯坦共和国恐袭事件",
+        "link": "https://news.sina.com.cn/w/2024-06-25/doc-inazwmsy1974761.shtml",
+        "time": "06-25 02:17",
+        "src": "央视"
+      },
+      {
+        "title": "普京访朝，给金正恩带了礼物",
+        "link": "https://news.sina.com.cn/w/2024-06-19/doc-inazhrnc8517348.shtml",
+        "time": "06-19 19:45",
+        "src": "新浪新闻综合"
       }
     ]
   },
@@ -552,14 +582,14 @@
     "hf": [
       {
         "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 1263,
+        "likes": 1273,
         "downloads": 0,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3700,
-        "downloads": 59368,
+        "likes": 3703,
+        "downloads": 83484,
         "pipeline": "image-text-to-video"
       },
       {
@@ -570,19 +600,19 @@
       },
       {
         "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-        "likes": 3223,
+        "likes": 3227,
         "downloads": 1048685,
         "pipeline": "text-generation"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 540,
+        "likes": 551,
         "downloads": 39,
         "pipeline": "image-to-video"
       },
       {
         "id": "Comfy-Org/MiniMax-H3",
-        "likes": 1250,
+        "likes": 1252,
         "downloads": 6798796,
         "pipeline": ""
       }
@@ -1023,5 +1053,155 @@
         "src": "资讯整理"
       }
     ]
-  }
+  },
+  "intl_news": [
+    {
+      "title": "电动方程式 Formula E 与迪士尼达成多年转播协议，2026/27 赛季起 Disney+ 全球独家流媒体直播",
+      "link": "https://www.ithome.com/0/988/995.htm",
+      "time": "08-12 23:19",
+      "src": "IT之家"
+    },
+    {
+      "title": "全球首款机器人手机荣耀 Robot Phone 正式发布，天马宣布独家供屏",
+      "link": "https://www.ithome.com/0/988/986.htm",
+      "time": "08-12 22:11",
+      "src": "IT之家"
+    },
+    {
+      "title": "我国三代核电迎来重大突破，全球首台国产 CAP1000 50Hz 屏蔽电机主泵顺利完工",
+      "link": "https://www.ithome.com/0/988/981.htm",
+      "time": "08-12 21:55",
+      "src": "IT之家"
+    },
+    {
+      "title": "《影之刃零》登顶Steam全球和国区热销榜",
+      "link": "https://www.gcores.com/articles/218263",
+      "time": "08-12 16:37",
+      "src": "机核"
+    },
+    {
+      "title": "8月13日外盘头条：德黑兰正为地区冲突长期化做准备 美国7月核心通胀表现温和 思科公布远超预期财测",
+      "link": "https://finance.sina.com.cn/world/2026-08-13/doc-ininchpe0263675.shtml",
+      "time": "08-13 05:54",
+      "src": "环球市场播报"
+    },
+    {
+      "title": "伊朗：霍尔木兹海峡使用者必须“修复”海湾环境损害",
+      "link": "https://finance.sina.com.cn/world/2026-08-13/doc-ininchpa3484257.shtml",
+      "time": "08-13 05:30",
+      "src": "环球市场播报"
+    },
+    {
+      "title": "全球最大主权财富基金披露首度持有SpaceX股份，录得创纪录1840亿美元利润",
+      "link": "https://finance.sina.com.cn/world/2026-08-13/doc-ininchnz3587116.shtml",
+      "time": "08-13 05:20",
+      "src": "环球市场播报"
+    },
+    {
+      "title": "特朗普称白宫新闻秘书莱维特将离职",
+      "link": "https://finance.sina.com.cn/world/2026-08-13/doc-inincaex3253509.shtml",
+      "time": "08-13 04:03",
+      "src": "环球市场播报"
+    }
+  ],
+  "econ_news": [
+    {
+      "title": "谷歌 Pixel 11 系列正式发布：全系 256GB 起步 899 美元起，8 月 20 日开售",
+      "link": "https://www.ithome.com/0/988/985.htm",
+      "time": "08-12 22:06",
+      "src": "IT之家"
+    },
+    {
+      "title": "我国攻克锂云母提锂多项技术难题：首创熔盐置换焙烧实现工业化，已在江西多个项目应用",
+      "link": "https://www.ithome.com/0/988/980.htm",
+      "time": "08-12 21:51",
+      "src": "IT之家"
+    },
+    {
+      "title": "富士康对苹果业务营收依赖下降：智能消费电子占比降至 29%，AI 服务器首次突破 50%",
+      "link": "https://www.ithome.com/0/988/966.htm",
+      "time": "08-12 21:15",
+      "src": "IT之家"
+    },
+    {
+      "title": "SQUARE ENIX公布最新财报，“银海之天舟”揭晓显著带动FF14玩家回流",
+      "link": "https://www.gcores.com/articles/218222",
+      "time": "08-12 09:40",
+      "src": "机核"
+    },
+    {
+      "title": "美联储料维持准备金管理购买节奏",
+      "link": "https://finance.sina.com.cn/world/2026-08-13/doc-ininchpa3493691.shtml",
+      "time": "08-13 06:03",
+      "src": "环球市场播报"
+    },
+    {
+      "title": "8月13日外盘头条：德黑兰正为地区冲突长期化做准备 美国7月核心通胀表现温和 思科公布远超预期财测",
+      "link": "https://finance.sina.com.cn/world/2026-08-13/doc-ininchpe0263675.shtml",
+      "time": "08-13 05:54",
+      "src": "环球市场播报"
+    },
+    {
+      "title": "多空在160大关附近鏖战 交易员密切关注日元会否再遭干预",
+      "link": "https://finance.sina.com.cn/world/2026-08-13/doc-ininchnz3595290.shtml",
+      "time": "08-13 05:42",
+      "src": "环球市场播报"
+    },
+    {
+      "title": "大宗商品综述：油价走势震荡 铜价续跌 金价上涨",
+      "link": "https://finance.sina.com.cn/world/2026-08-13/doc-ininchnz3594145.shtml",
+      "time": "08-13 05:39",
+      "src": "环球市场播报"
+    }
+  ],
+  "game_news": [
+    {
+      "title": "微软发布《战争机器：事变日》主题 XBOX 控制器：将“开裂的沥青路面”铺上手柄",
+      "link": "https://www.ithome.com/0/988/997.htm",
+      "time": "08-12 23:29",
+      "src": "IT之家"
+    },
+    {
+      "title": "索尼宣布《羊蹄山之魂：完全版》10 月 2 日发售：追加全新剧情扩展内容，原版玩家可花 108 港币升级",
+      "link": "https://www.ithome.com/0/988/996.htm",
+      "time": "08-12 23:22",
+      "src": "IT之家"
+    },
+    {
+      "title": "《侏罗纪世界: 进化 3》游戏扩展包“鳄潮海岸”上线，Steam 国区售价 69 元",
+      "link": "https://www.ithome.com/0/988/992.htm",
+      "time": "08-12 22:34",
+      "src": "IT之家"
+    },
+    {
+      "title": "漫威索尼《蜘蛛侠：崭新之日》上映两周杀入影史票房 TOP10，暂列 2026 年度冠军",
+      "link": "https://www.ithome.com/0/988/989.htm",
+      "time": "08-12 22:17",
+      "src": "IT之家"
+    },
+    {
+      "title": "iQOO Z11S 手机官宣搭载 144Hz 护眼电竞屏，支持 2000nits 全屏最大亮度",
+      "link": "https://www.ithome.com/0/988/978.htm",
+      "time": "08-12 21:46",
+      "src": "IT之家"
+    },
+    {
+      "title": "索尼官宣《绝地潜兵 2》加入 PS+ 二三档会员游戏库，大型更新同步上线",
+      "link": "https://www.ithome.com/0/988/976.htm",
+      "time": "08-12 21:39",
+      "src": "IT之家"
+    },
+    {
+      "title": "零刻推出 AMD 锐龙 AI 9 HX 470 版 ME Pro NAS 迷你主机，4795 元起",
+      "link": "https://www.ithome.com/0/988/960.htm",
+      "time": "08-12 20:35",
+      "src": "IT之家"
+    },
+    {
+      "title": "《共鸣：瘟疫传说传承》公开全新故事预告片及独家幕后内容",
+      "link": "https://www.gcores.com/articles/218255",
+      "time": "08-13 00:00",
+      "src": "机核"
+    }
+  ]
 }
