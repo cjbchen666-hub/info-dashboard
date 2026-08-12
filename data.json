@@ -1,10 +1,133 @@
 {
-  "generated_at": "2026-08-12 15:42",
+  "generated_at": "2026-08-12 17:18",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
-    "indices": [],
-    "gainers": [],
-    "losers": [],
+    "indices": [
+      {
+        "name": "上证指数",
+        "code": "000001",
+        "price": 3946.68,
+        "pct": 0.32,
+        "chg": 12.59,
+        "amount": "9861亿"
+      },
+      {
+        "name": "深证成指",
+        "code": "399001",
+        "price": 14414.43,
+        "pct": 1.09,
+        "chg": 154.99,
+        "amount": "11663亿"
+      },
+      {
+        "name": "创业板指",
+        "code": "399006",
+        "price": 3602.08,
+        "pct": 1.49,
+        "chg": 52.92,
+        "amount": "5615亿"
+      },
+      {
+        "name": "沪深300",
+        "code": "000300",
+        "price": 4690.92,
+        "pct": 0.58,
+        "chg": 27.13,
+        "amount": "5753亿"
+      },
+      {
+        "name": "科创50",
+        "code": "000688",
+        "price": 1736.99,
+        "pct": 1.61,
+        "chg": 27.49,
+        "amount": "1033亿"
+      },
+      {
+        "name": "北证50",
+        "code": "899050",
+        "price": 1115.84,
+        "pct": 0.24,
+        "chg": 2.62,
+        "amount": "149亿"
+      }
+    ],
+    "gainers": [
+      {
+        "name": "N杰理",
+        "code": "920138",
+        "pct": 182.4,
+        "price": 53.26
+      },
+      {
+        "name": "浩淼科技",
+        "code": "920856",
+        "pct": 29.94,
+        "price": 14.93
+      },
+      {
+        "name": "盖世食品",
+        "code": "920826",
+        "pct": 22.25,
+        "price": 9.78
+      },
+      {
+        "name": "炬光科技",
+        "code": "688167",
+        "pct": 20.0,
+        "price": 245.52
+      },
+      {
+        "name": "长进光子",
+        "code": "688635",
+        "pct": 20.0,
+        "price": 300.02
+      },
+      {
+        "name": "威士顿",
+        "code": "301315",
+        "pct": 19.99,
+        "price": 46.16
+      }
+    ],
+    "losers": [
+      {
+        "name": "诚达药业",
+        "code": "301201",
+        "pct": -10.49,
+        "price": 35.75
+      },
+      {
+        "name": "珈凯生物",
+        "code": "920165",
+        "pct": -10.04,
+        "price": 41.33
+      },
+      {
+        "name": "新大洲A",
+        "code": "000571",
+        "pct": -9.35,
+        "price": 6.69
+      },
+      {
+        "name": "羚锐制药",
+        "code": "600285",
+        "pct": -9.22,
+        "price": 20.47
+      },
+      {
+        "name": "首华燃气",
+        "code": "300483",
+        "pct": -7.15,
+        "price": 23.1
+      },
+      {
+        "name": "甘咨询",
+        "code": "000779",
+        "pct": -6.36,
+        "price": 11.92
+      }
+    ],
     "status": {
       "state": "已收盘",
       "label": "今日已收盘",
@@ -110,52 +233,52 @@
     ],
     "news": [
       {
-        "title": "消息称三星在半导体研发中引入 Claude 模型，耗时一月的设计验证缩短至两天",
-        "link": "https://www.ithome.com/0/988/763.htm",
-        "time": "08-12 14:38",
+        "title": "宇树科技宣布人形机器人累计下线约 18000 台",
+        "link": "https://www.ithome.com/0/988/851.htm",
+        "time": "08-12 17:08",
         "src": "IT之家"
       },
       {
-        "title": "2026 中国算力大会 9 月 11-13 日在河北廊坊举行，集中发布一批首创首发算力软硬件新品",
-        "link": "https://www.ithome.com/0/988/729.htm",
-        "time": "08-12 13:40",
+        "title": "腾讯回应 Q2 负自由现金流 138 亿元：若剔除算力采购的预付款项，自由现金流为 376 亿元",
+        "link": "https://www.ithome.com/0/988/835.htm",
+        "time": "08-12 16:48",
         "src": "IT之家"
       },
       {
-        "title": "半导体人才争夺战：SK海力士扩招HBM人才 三星加码美国产能",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-inimzytm3579652.shtml",
-        "time": "08-12 15:37",
+        "title": "华尔街对美联储9月是否加息争执不下 通胀报告料定乾坤",
+        "link": "https://finance.sina.com.cn/world/2026-08-12/doc-inimzytm3629429.shtml",
+        "time": "08-12 16:53",
         "src": "环球市场播报"
       },
       {
-        "title": "市场押注日本央行加速加息、叠加通胀担忧升温，日本国债收益率上行",
-        "link": "https://finance.sina.com.cn/world/2026-08-12/doc-inimzumt4093097.shtml",
-        "time": "08-12 15:25",
+        "title": "广东：今年前7个月外贸进出口6.49万亿元 同比增长20.5%",
+        "link": "https://finance.sina.com.cn/jjxw/2026-08-12/doc-inimzytn5281515.shtml",
+        "time": "08-12 16:27",
+        "src": "证券时报网"
+      },
+      {
+        "title": "三星、SK海力士最快本月底公布股东回报 总额或超200万亿韩元",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-inimzytr3978902.shtml",
+        "time": "08-12 15:46",
         "src": "环球市场播报"
       },
       {
-        "title": "“双增长”！中国期货市场最新成交数据公布→",
-        "link": "https://finance.sina.com.cn/money/future/fmnews/2026-08-12/doc-inimzumq5362335.shtml",
-        "time": "08-12 15:13",
-        "src": "市场资讯"
+        "title": "阿里云：灵骏真武M890超节点实例上线，可承载十万亿参数模型",
+        "link": "https://finance.sina.com.cn/tech/shenji/2026-08-12/doc-inimzivu5426848.shtml",
+        "time": "08-12 10:39",
+        "src": "新浪科技"
       },
       {
-        "title": "刚刚，算力期货传来大消息！解读来了",
-        "link": "https://finance.sina.com.cn/money/future/fmnews/2026-08-12/doc-inimzumq5362065.shtml",
-        "time": "08-12 15:13",
-        "src": "市场资讯"
+        "title": "ALO天猫官方旗舰店正式开业：仅1分钟成交破1000万",
+        "link": "https://finance.sina.com.cn/tech/shenji/2026-08-12/doc-inimzivt3775084.shtml",
+        "time": "08-12 10:28",
+        "src": "新浪科技"
       },
       {
-        "title": "美联储高层官员表示：美国低收入群体如今难以维持收支平衡、勉强糊口",
-        "link": "https://finance.sina.com.cn/world/2026-08-12/doc-inimzumq5348771.shtml",
-        "time": "08-12 15:06",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "2026年7月全国期货市场交易情况：成交额同比增长20.99%",
-        "link": "https://finance.sina.com.cn/money/future/fmnews/2026-08-12/doc-inimzump3654919.shtml",
-        "time": "08-12 14:20",
-        "src": "市场资讯"
+        "title": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
+        "link": "https://finance.sina.com.cn/tech/digi/2026-08-12/doc-inimyhkc7371975.shtml",
+        "time": "08-11 22:54",
+        "src": "IT之家"
       }
     ]
   },
@@ -163,10 +286,10 @@
     {
       "name": "恒生指数",
       "code": "HSI",
-      "price": 25419.62,
-      "pct": -0.91,
-      "chg": -233.2,
-      "amount": "1890亿"
+      "price": 25440.17,
+      "pct": -0.83,
+      "chg": -212.65,
+      "amount": "2168亿"
     },
     {
       "name": "道琼斯",
@@ -410,9 +533,15 @@
         "src": "ISW"
       },
       {
-        "title": "万斯呼吁乌克兰停止袭击停靠俄罗斯港口的油轮",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-inimzumq5332025.shtml",
-        "time": "08-12 14:47",
+        "title": "普京表态：倘若欧盟各国扣押俄罗斯船只，俄罗斯将采取对等反制措施",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-inimzytr4034425.shtml",
+        "time": "08-12 17:06",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "小麦期货价格上涨3% 俄罗斯主要粮食港口遭袭后起火",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-inimzytm3620682.shtml",
+        "time": "08-12 16:39",
         "src": "环球市场播报"
       }
     ]
@@ -420,88 +549,88 @@
   "ai": {
     "news_zh": [
       {
-        "title": "高通骁龙芯片版谷歌 Googlebook 笔记本曝光：X Plus/X Elite 芯片",
-        "link": "https://www.ithome.com/0/988/777.htm",
-        "time": "08-12 15:03",
+        "title": "宇树科技宣布人形机器人累计下线约 18000 台",
+        "link": "https://www.ithome.com/0/988/851.htm",
+        "time": "08-12 17:08",
         "src": "IT之家"
       },
       {
-        "title": "OpenAI 测试 ChatGPT Plus 付费重置额度功能，可支付 8 美元恢复使用额度",
-        "link": "https://www.ithome.com/0/988/773.htm",
-        "time": "08-12 14:56",
+        "title": "腾讯回应 Q2 负自由现金流 138 亿元：若剔除算力采购的预付款项，自由现金流为 376 亿元",
+        "link": "https://www.ithome.com/0/988/835.htm",
+        "time": "08-12 16:48",
         "src": "IT之家"
       },
       {
-        "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
-        "link": "https://www.ithome.com/0/988/766.htm",
-        "time": "08-12 14:46",
+        "title": "华为启动 AIPL 基线合作伙伴计划，联合打造可复制、可规模化推广的 AI 实践教学方案",
+        "link": "https://www.ithome.com/0/988/804.htm",
+        "time": "08-12 15:58",
         "src": "IT之家"
       },
       {
-        "title": "消息称三星在半导体研发中引入 Claude 模型，耗时一月的设计验证缩短至两天",
-        "link": "https://www.ithome.com/0/988/763.htm",
-        "time": "08-12 14:38",
+        "title": "致敬经典：微星尊爵14 Flip AI+ 梵高限定版大师套装3期免息热卖中",
+        "link": "https://www.gcores.com/articles/218253",
+        "time": "08-12 13:37",
+        "src": "机核"
+      },
+      {
+        "title": "“DeepSeek Harness团队”公众号上线，IP属地北京",
+        "link": "https://finance.sina.com.cn/tob/2026-08-12/doc-inimzqcs5391945.shtml",
+        "time": "08-12 12:54",
+        "src": "新浪科技"
+      },
+      {
+        "title": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
+        "link": "https://finance.sina.com.cn/tech/digi/2026-08-12/doc-inimyhkc7371975.shtml",
+        "time": "08-11 22:54",
         "src": "IT之家"
       },
       {
-        "title": "威联通为 Qsirch 推出 AI 模式：利用 VLM / LLM 优化 NAS 内容搜索体验",
-        "link": "https://www.ithome.com/0/988/759.htm",
-        "time": "08-12 14:34",
+        "title": "与华为联合研发：小鹏 G9L 大五座 SUV 官宣搭载百万像素 AI 数字投影大灯",
+        "link": "https://finance.sina.com.cn/tech/digi/2026-08-12/doc-inimyaai4182577.shtml",
+        "time": "08-11 19:45",
         "src": "IT之家"
       },
       {
-        "title": "马斯克最新 SpaceX 讲话：我们必须赢得 AI 竞争",
-        "link": "https://www.ithome.com/0/988/738.htm",
-        "time": "08-12 14:17",
-        "src": "IT之家"
-      },
-      {
-        "title": "冲击印度外包：AI 智能体不仅活干得好，而且成本更低",
-        "link": "https://www.ithome.com/0/988/735.htm",
-        "time": "08-12 14:11",
-        "src": "IT之家"
-      },
-      {
-        "title": "2026 中国算力大会 9 月 11-13 日在河北廊坊举行，集中发布一批首创首发算力软硬件新品",
-        "link": "https://www.ithome.com/0/988/729.htm",
-        "time": "08-12 13:40",
+        "title": "蚂蚁百灵开源 Ling-3.0-tiny 模型，支持英伟达 DGX Spark、苹果 Mac mini 部署",
+        "link": "https://finance.sina.com.cn/tech/digi/2026-08-12/doc-inimxvum4250371.shtml",
+        "time": "08-11 17:57",
         "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3628,
+        "likes": 3641,
         "downloads": 59368,
         "pipeline": "image-text-to-video"
       },
       {
         "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 1146,
+        "likes": 1164,
         "downloads": 0,
         "pipeline": "image-text-to-text"
       },
       {
-        "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-        "likes": 3181,
-        "downloads": 1048685,
-        "pipeline": "text-generation"
-      },
-      {
         "id": "larryvrh/MiniMax-H3-Turbo-Lora",
-        "likes": 666,
+        "likes": 670,
         "downloads": 0,
         "pipeline": "text-to-video"
       },
       {
+        "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
+        "likes": 3188,
+        "downloads": 1048685,
+        "pipeline": "text-generation"
+      },
+      {
         "id": "Comfy-Org/MiniMax-H3",
-        "likes": 1227,
+        "likes": 1229,
         "downloads": 6798796,
         "pipeline": ""
       },
       {
         "id": "moonshotai/Kimi-K3",
-        "likes": 10540,
+        "likes": 10545,
         "downloads": 1565484,
         "pipeline": "image-text-to-text"
       }
@@ -675,33 +804,27 @@
   ],
   "hw_news": [
     {
+      "title": "HWiNFO 将在下个版本提供对英特尔 \"Razor Lake AX\" 处理器的初步支持",
+      "link": "https://www.ithome.com/0/988/844.htm",
+      "time": "08-12 17:02",
+      "src": "IT之家"
+    },
+    {
+      "title": "迈从 V7 三模电竞鼠标发售：搭 PAW3395 传感器，到手价 149.6 元",
+      "link": "https://www.ithome.com/0/988/833.htm",
+      "time": "08-12 16:42",
+      "src": "IT之家"
+    },
+    {
+      "title": "铭凡 M1 迷你主机新增 13900HX 款，无内存无存储 399 美元",
+      "link": "https://www.ithome.com/0/988/811.htm",
+      "time": "08-12 16:11",
+      "src": "IT之家"
+    },
+    {
       "title": "万魔推出 HQ60 头戴式降噪耳机：40mm 动圈、-50dB 降噪深度、105 小时续航，698 元",
       "link": "https://www.ithome.com/0/988/790.htm",
       "time": "08-12 15:30",
-      "src": "IT之家"
-    },
-    {
-      "title": "高通骁龙芯片版谷歌 Googlebook 笔记本曝光：X Plus/X Elite 芯片",
-      "link": "https://www.ithome.com/0/988/777.htm",
-      "time": "08-12 15:03",
-      "src": "IT之家"
-    },
-    {
-      "title": "韶音 OpenDots 2 开放式运动耳机“落樱粉”配色发售，首发价 1168.2 元",
-      "link": "https://www.ithome.com/0/988/775.htm",
-      "time": "08-12 14:59",
-      "src": "IT之家"
-    },
-    {
-      "title": "4.75mm 厚度 1.8mm 键程：EMO 公布全球最薄量产机械键盘 Altar II",
-      "link": "https://www.ithome.com/0/988/736.htm",
-      "time": "08-12 14:12",
-      "src": "IT之家"
-    },
-    {
-      "title": "华硕首款 Googlebook 笔记本曝光：14 英寸触控屏、最高 64GB 内存",
-      "link": "https://www.ithome.com/0/988/725.htm",
-      "time": "08-12 13:25",
       "src": "IT之家"
     },
     {
