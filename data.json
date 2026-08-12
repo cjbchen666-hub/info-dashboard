@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13 03:11",
+  "generated_at": "2026-08-13 04:54",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -251,6 +251,18 @@
         "src": "IT之家"
       },
       {
+        "title": "8月13日收盘：美股三大指数涨跌不一 温和CPI提振降息预期 AI概念股领涨科技板块",
+        "link": "https://finance.sina.com.cn/world/2026-08-13/doc-inincaey4973319.shtml",
+        "time": "08-13 04:31",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "美国7月核心通胀表现温和 美联储加息概率下降",
+        "link": "https://finance.sina.com.cn/world/2026-08-13/doc-inincafc3687839.shtml",
+        "time": "08-13 03:51",
+        "src": "环球市场播报"
+      },
+      {
         "title": "管理2.3万亿美元主权基金首席执行官警示，上半年丰厚回报难以持续",
         "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-ininarre5121818.shtml",
         "time": "08-12 23:17",
@@ -267,18 +279,6 @@
         "link": "https://finance.sina.com.cn/stock/s/2026-08-12/doc-ininarqz6640532.shtml",
         "time": "08-12 22:30",
         "src": "证券时报"
-      },
-      {
-        "title": "全文|腾讯Q2业绩会实录：AI是长期赛道 不准备出租算力",
-        "link": "https://finance.sina.com.cn/tech/2026-08-12/doc-ininarrc3408590.shtml",
-        "time": "08-12 22:22",
-        "src": "新浪科技"
-      },
-      {
-        "title": "印度7月通胀升至4.45%，市场预期央行年内晚些时候加息",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-ininarre5094445.shtml",
-        "time": "08-12 22:19",
-        "src": "环球市场播报"
       }
     ]
   },
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 53846.28,
-      "pct": 0.1,
-      "chg": 54.43,
-      "amount": "1426190423亿"
+      "price": 53770.27,
+      "pct": -0.04,
+      "chg": -21.58,
+      "amount": "2211286537亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26617.58,
-      "pct": 0.65,
-      "chg": 172.13,
-      "amount": "13921835942亿"
+      "price": 26588.49,
+      "pct": 0.54,
+      "chg": 143.04,
+      "amount": "18697930002亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7754.7,
-      "pct": 0.34,
-      "chg": 26.5,
-      "amount": "1306895148亿"
+      "price": 7748.5,
+      "pct": 0.26,
+      "chg": 20.3,
+      "amount": "2072338788亿"
     }
   ],
   "anime": {
@@ -552,37 +552,37 @@
     "hf": [
       {
         "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 1252,
+        "likes": 1263,
         "downloads": 0,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3696,
+        "likes": 3700,
         "downloads": 59368,
         "pipeline": "image-text-to-video"
       },
       {
         "id": "larryvrh/MiniMax-H3-Turbo-Lora",
-        "likes": 691,
+        "likes": 694,
         "downloads": 0,
         "pipeline": "text-to-video"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-        "likes": 3220,
+        "likes": 3223,
         "downloads": 1048685,
         "pipeline": "text-generation"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 527,
+        "likes": 540,
         "downloads": 39,
         "pipeline": "image-to-video"
       },
       {
         "id": "Comfy-Org/MiniMax-H3",
-        "likes": 1247,
+        "likes": 1250,
         "downloads": 6798796,
         "pipeline": ""
       }
