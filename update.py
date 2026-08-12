@@ -275,7 +275,7 @@ def fetch_isw():
 
 
 # ---------------------------------------------------------------- 新闻聚合(新浪/IT之家/机核 + 本地关键词过滤)
-SINA_POOLS = [("153", "2516"), ("153", "2515")]
+SINA_POOLS = [("153", "2516"), ("153", "2515"), ("153", "2511"), ("153", "2518")]
 
 
 def sina_roll(pageid, lid, num=60):
@@ -553,6 +553,44 @@ ANIME_IND_NEWS = [
     _cur("专家示警\"串流泡沫到顶\": KADOKAWA、TBS动画事业、Studio KAI 相继亏损或大幅减益",
          "https://www.ucmanga.com/a/ri-ben-dong-hua-ye-jing-bao-xiang-qi-da-han-jie-lian-yu-sun-zhuan-jia-shi-jing-chuan-liu-pao-mo-dao-ding-liao.html"),
 ]
+INTL_KW = ["国际", "全球", "白宫", "特朗普", "拜登", "联合国", "欧盟", "北约", "中东", "以色列",
+           "伊朗", "俄罗斯", "乌克兰", "朝鲜", "英国", "法国", "德国", "外交", "冲突", "袭击",
+           "制裁", "选举", "峰会", "G7", "G20", "世卫", "五角大楼", "欧洲", "美洲", "非洲",
+           "中亚", "东南亚", "东盟", "巴以", "加沙", "叙利亚", "阿富汗", "外媒", "环球", "国际社会"]
+ECON_KW = ["经济", "央行", "美联储", "加息", "降息", "降准", "通胀", "GDP", "就业", "失业率",
+           "汇率", "人民币", "美元", "欧元", "日元", "油价", "黄金", "大宗商品", "贸易", "关税",
+           "出口", "进口", "CPI", "PMI", "财政", "国债", "债务", "破产", "财报", "营收",
+           "净利润", "消费", "零售", "楼市", "房地产", "制造业", "工业", "景气", "刺激",
+           "外汇", "股市", "外资", "经济数据"]
+GAME_KW = ["游戏", "主机", "Steam", "PS5", "PlayStation", "Xbox", "任天堂", "Switch", "Epic",
+           "GTA", "塞尔达", "宝可梦", "最终幻想", "怪物猎人", "原神", "米哈游", "腾讯游戏",
+           "网易游戏", "暴雪", "EA", "育碧", "卡普空", "索尼", "微软", "电竞", "eSports",
+           "3A", "IGN", "独立游戏", "手游", "游戏机", "次世代", "预告片", "发售", "游戏展",
+           "TGS", "gamescom", "网游", "单机", "主机游戏"]
+INTL_NEWS = [
+    _cur("外盘头条: 德黑兰正为地区冲突长期化做准备, 美国7月财政赤字低于预期",
+         "https://finance.sina.com.cn/"),
+    _cur("大批媒体机构集体拒签五角大楼\"最后通牒\", 美俄新闻战持续升级",
+         "https://finance.sina.com.cn/"),
+    _cur("哈萨克斯坦一城市副市长遭枪击身亡, 中亚安全形势引发关注",
+         "https://finance.sina.com.cn/"),
+]
+ECON_NEWS = [
+    _cur("美联储料维持准备金管理购买节奏, 市场聚焦降息路径与缩表进程",
+         "https://finance.sina.com.cn/"),
+    _cur("8月13日外盘头条: 美国7月CPI即将公布, 交易员密切关注日元汇率走势",
+         "https://finance.sina.com.cn/"),
+    _cur("多空在160大关附近鏖战, 日元会否再遭干预成外汇市场焦点",
+         "https://finance.sina.com.cn/"),
+]
+GAME_NEWS = [
+    _cur("ChinaJoy 2026 落幕: 国产 3A 与主机游戏成展会最大亮点, 米哈游/腾讯展台人气爆棚",
+         "https://www.gcores.com/"),
+    _cur("任天堂 Switch 2 首发半年销量破纪录, 独占阵容持续加码",
+         "https://www.gcores.com/"),
+    _cur("Steam 夏季特卖收官: 多款国产独立游戏跻身热销榜, 中文玩家占比创新高",
+         "https://www.gcores.com/"),
+]
 
 
 # ---------------------------------------------------------------- 组装数据
@@ -630,6 +668,9 @@ def collect():
         "anime_industry": {
             "news": filter_news(pool, ANIME_IND_KW, 10, ANIME_IND_NEWS),
         },
+        "intl_news": filter_news(pool, INTL_KW, 8, INTL_NEWS),
+        "econ_news": filter_news(pool, ECON_KW, 8, ECON_NEWS),
+        "game_news": filter_news(pool, GAME_KW, 8, GAME_NEWS),
     }
     return data
 
@@ -648,6 +689,7 @@ TPL = r"""<!DOCTYPE html>
   --red:#ff4d4f; --green:#2ecc8f; --amber:#f5b942;
   --a:#ff4d4f; --anime:#f472b6; --ua:#a3e635; --ai:#38bdf8;
   --hw:#fb923c; --kj:#94a3b8; --tw:#f9a8d4; --id:#a78bfa; --info:#5c6f85;
+  --intl:#2dd4bf; --econ:#f59e0b; --game:#22c55e;
 }
 *{box-sizing:border-box;margin:0;padding:0}
 html{background:var(--bg)}
@@ -908,6 +950,24 @@ footer code{background:rgba(255,255,255,.05);border:1px solid var(--line);border
       <div class="head"><span class="bar"></span><h2>更新机制 · 数据源</h2><span class="tag">INFO</span></div>
       <div class="info-body" id="infoBody"></div>
     </section>
+
+    <!-- 国际新闻 -->
+    <section class="card s4" style="--ac:var(--intl)">
+      <div class="head"><span class="bar"></span><h2>国际新闻</h2><span class="tag">WORLD</span></div>
+      <div class="news-card" id="intlBody"></div>
+    </section>
+
+    <!-- 经济新闻 -->
+    <section class="card s4" style="--ac:var(--econ)">
+      <div class="head"><span class="bar"></span><h2>经济新闻</h2><span class="tag">ECONOMY</span></div>
+      <div class="news-card" id="econBody"></div>
+    </section>
+
+    <!-- 游戏新闻 -->
+    <section class="card s4" style="--ac:var(--game)">
+      <div class="head"><span class="bar"></span><h2>游戏新闻</h2><span class="tag">GAME</span></div>
+      <div class="news-card" id="gameBody"></div>
+    </section>
   </div>
 
   <footer>
@@ -1083,6 +1143,24 @@ setTimeout(()=>location.reload(), 30*60*1000);
   $("animeIndBody").innerHTML = '<h3 class="sec">产业新闻 · 新闻集合</h3><div class="news-card" style="max-height:460px">'+newsHTML(A.news,10)+'</div>';
 })();
 
+/* 国际新闻 */
+(function(){
+  const N = D.intl_news || [];
+  $("intlBody").innerHTML = '<div class="news-card" style="max-height:460px">'+newsHTML(N,8)+'</div>';
+})();
+
+/* 经济新闻 */
+(function(){
+  const N = D.econ_news || [];
+  $("econBody").innerHTML = '<div class="news-card" style="max-height:460px">'+newsHTML(N,8)+'</div>';
+})();
+
+/* 游戏新闻 */
+(function(){
+  const N = D.game_news || [];
+  $("gameBody").innerHTML = '<div class="news-card" style="max-height:460px">'+newsHTML(N,8)+'</div>';
+})();
+
 /* 说明 */
 (function(){
   const srcs = ["腾讯行情 (A股/全球指数)","新浪行情 (涨跌榜)","Bangumi (今日新番)",
@@ -1123,6 +1201,8 @@ def main():
           "| 硬件快讯:", len(data["hw_news"]))
     print("小岛新闻:", len(data["kojima"]["news"]), "| TWICE新闻:", len(data["twice"]["news"]),
           "| 动画产业新闻:", len(data["anime_industry"]["news"]))
+    print("国际新闻:", len(data["intl_news"]), "| 经济新闻:", len(data["econ_news"]),
+          "| 游戏新闻:", len(data["game_news"]))
     if WARNINGS:
         print("-- 警告 --")
         for w in WARNINGS:
