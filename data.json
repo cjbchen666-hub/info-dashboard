@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12 23:04",
+  "generated_at": "2026-08-13 01:03",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -129,9 +129,9 @@
       }
     ],
     "status": {
-      "state": "已收盘",
-      "label": "今日已收盘",
-      "date": "2026-08-12"
+      "state": "未开盘",
+      "label": "今日尚未开盘",
+      "date": "2026-08-13"
     },
     "watch": [
       {
@@ -233,6 +233,12 @@
     ],
     "news": [
       {
+        "title": "到 2030 年全国算力用电量将达 8000 亿度，届时 6 万亿度绿电奔涌入网",
+        "link": "https://www.ithome.com/0/988/994.htm",
+        "time": "08-12 23:14",
+        "src": "IT之家"
+      },
+      {
         "title": "全球首款机器人手机荣耀 Robot Phone 正式发布，天马宣布独家供屏",
         "link": "https://www.ithome.com/0/988/986.htm",
         "time": "08-12 22:11",
@@ -243,6 +249,12 @@
         "link": "https://www.ithome.com/0/988/968.htm",
         "time": "08-12 21:20",
         "src": "IT之家"
+      },
+      {
+        "title": "管理2.3万亿美元主权基金首席执行官警示，上半年丰厚回报难以持续",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-ininarre5121818.shtml",
+        "time": "08-12 23:17",
+        "src": "环球市场播报"
       },
       {
         "title": "摩根资产管理：美国的“特氟龙式通胀”黏不住 美联储无需加息",
@@ -267,18 +279,6 @@
         "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-ininarre5094445.shtml",
         "time": "08-12 22:19",
         "src": "环球市场播报"
-      },
-      {
-        "title": "AI扩张成本高企，令美联储抗通胀工作陷入两难",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-ininarri3820303.shtml",
-        "time": "08-12 22:16",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "美国7月核心通胀表现温和 缓解美联储加息压力",
-        "link": "https://finance.sina.com.cn/world/2026-08-12/doc-ininamim3909537.shtml",
-        "time": "08-12 20:54",
-        "src": "环球市场播报"
       }
     ]
   },
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 53765.42,
-      "pct": -0.05,
-      "chg": -26.43,
-      "amount": "677633416亿"
+      "price": 53810.05,
+      "pct": 0.03,
+      "chg": 18.2,
+      "amount": "1063578484亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26564.03,
-      "pct": 0.45,
-      "chg": 118.58,
-      "amount": "7174440016亿"
+      "price": 26618.91,
+      "pct": 0.66,
+      "chg": 173.46,
+      "amount": "10805720871亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7740.84,
-      "pct": 0.16,
-      "chg": 12.64,
-      "amount": "583068554亿"
+      "price": 7752.46,
+      "pct": 0.31,
+      "chg": 24.26,
+      "amount": "932619057亿"
     }
   ],
   "anime": {
@@ -495,23 +495,35 @@
         "link": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment",
         "time": "ISW每日评估",
         "src": "ISW"
-      },
-      {
-        "title": "万斯曾亲自要求基辅方面停止对里海管道联盟基础设施的打击",
-        "link": "https://finance.sina.com.cn/world/2026-08-12/doc-ininamif3484170.shtml",
-        "time": "08-12 20:29",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "外交部：有关国家影射中方导弹试射活动 完全是出于政治目的",
-        "link": "https://finance.sina.com.cn/jjxw/2026-08-12/doc-ininaezp4000912.shtml",
-        "time": "08-12 19:30",
-        "src": "央视"
       }
     ]
   },
   "ai": {
     "news_zh": [
+      {
+        "title": "深夜放大招！DeepSeek V4 Pro 正式版 API 更新上线，多项测试性能接近 Fable 5",
+        "link": "https://www.ithome.com/0/989/000.htm",
+        "time": "08-13 00:05",
+        "src": "IT之家"
+      },
+      {
+        "title": "剑指 GPT-5.6 Sol，SpaceXAI 发布 Grok 4.6 模型",
+        "link": "https://www.ithome.com/0/988/999.htm",
+        "time": "08-12 23:57",
+        "src": "IT之家"
+      },
+      {
+        "title": "深夜放大招？DeepSeek 官网 API 文档新增“DeepSeek-V4-Pro-0813”模型",
+        "link": "https://www.ithome.com/0/988/998.htm",
+        "time": "08-12 23:41",
+        "src": "IT之家"
+      },
+      {
+        "title": "到 2030 年全国算力用电量将达 8000 亿度，届时 6 万亿度绿电奔涌入网",
+        "link": "https://www.ithome.com/0/988/994.htm",
+        "time": "08-12 23:14",
+        "src": "IT之家"
+      },
       {
         "title": "全球首款机器人手机荣耀 Robot Phone 正式发布，天马宣布独家供屏",
         "link": "https://www.ithome.com/0/988/986.htm",
@@ -535,68 +547,44 @@
         "link": "https://www.ithome.com/0/988/969.htm",
         "time": "08-12 21:25",
         "src": "IT之家"
-      },
-      {
-        "title": "荣耀宣布出战第二届世界人形机器人运动会，自研机器人曾包揽半马前六",
-        "link": "https://www.ithome.com/0/988/968.htm",
-        "time": "08-12 21:20",
-        "src": "IT之家"
-      },
-      {
-        "title": "富士康对苹果业务营收依赖下降：智能消费电子占比降至 29%，AI 服务器首次突破 50%",
-        "link": "https://www.ithome.com/0/988/966.htm",
-        "time": "08-12 21:15",
-        "src": "IT之家"
-      },
-      {
-        "title": "零刻推出 AMD 锐龙 AI 9 HX 470 版 ME Pro NAS 迷你主机，4795 元起",
-        "link": "https://www.ithome.com/0/988/960.htm",
-        "time": "08-12 20:35",
-        "src": "IT之家"
-      },
-      {
-        "title": "3999 元影石 X6 正式发布：1/1.1 英寸大底传感器 + AI 三芯架构，支持 8K 50 帧全景视频",
-        "link": "https://www.ithome.com/0/988/955.htm",
-        "time": "08-12 20:10",
-        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 1213,
+        "likes": 1239,
         "downloads": 0,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3680,
+        "likes": 3688,
         "downloads": 59368,
         "pipeline": "image-text-to-video"
       },
       {
         "id": "larryvrh/MiniMax-H3-Turbo-Lora",
-        "likes": 683,
+        "likes": 689,
         "downloads": 0,
         "pipeline": "text-to-video"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-        "likes": 3205,
+        "likes": 3216,
         "downloads": 1048685,
         "pipeline": "text-generation"
       },
       {
-        "id": "Comfy-Org/MiniMax-H3",
-        "likes": 1241,
-        "downloads": 6798796,
-        "pipeline": ""
-      },
-      {
         "id": "Lightricks/LTX-2.5",
-        "likes": 473,
+        "likes": 509,
         "downloads": 39,
         "pipeline": "image-to-video"
+      },
+      {
+        "id": "Comfy-Org/MiniMax-H3",
+        "likes": 1247,
+        "downloads": 6798796,
+        "pipeline": ""
       }
     ],
     "models": [
@@ -804,12 +792,6 @@
       "src": "IT之家"
     },
     {
-      "title": "英伟达 RTX PRO 6000 Blackwell 涨价至 16000 美元，较上市初期上涨 87%",
-      "link": "https://www.ithome.com/0/988/947.htm",
-      "time": "08-12 19:52",
-      "src": "IT之家"
-    },
-    {
       "title": "荣耀CEO李健谈内存涨价、竞争压力：不经历磨难的企业不可能走向伟大",
       "link": "https://finance.sina.com.cn/jjxw/2026-08-12/doc-ininamic6741877.shtml",
       "time": "08-12 21:28",
@@ -835,6 +817,12 @@
     },
     {
       "title": "Intel 预览 Nova Lake 桌面平台: 最高48核(16P+32E), 18A 工艺, LGA1954 新插槽, 预计2026年底上市",
+      "link": "https://www.160.com/article/12732.html",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "宏碁首发 1000Hz 电竞显示器; 微星 5K Mini-LED 双模电竞屏(5K@180Hz/2K@330Hz) 亮相 Computex 2026",
       "link": "https://www.160.com/article/12732.html",
       "time": "精选",
       "src": "资讯整理"
