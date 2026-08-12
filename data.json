@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13 06:28",
+  "generated_at": "2026-08-13 06:32",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -588,7 +588,7 @@
       },
       {
         "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3703,
+        "likes": 3705,
         "downloads": 83484,
         "pipeline": "image-text-to-video"
       },
@@ -600,7 +600,7 @@
       },
       {
         "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-        "likes": 3227,
+        "likes": 3228,
         "downloads": 1048685,
         "pipeline": "text-generation"
       },
@@ -612,7 +612,7 @@
       },
       {
         "id": "Qwen/Qwen3.8-2.4T-A95B",
-        "likes": 450,
+        "likes": 451,
         "downloads": 978,
         "pipeline": "text-generation"
       }
@@ -1260,6 +1260,56 @@
       "time": "8-13",
       "type": "停机维护",
       "src": "网易官网"
+    }
+  ],
+  "mil_news": [
+    {
+      "title": "俄乌今日战况: Russian Offensive Campaign Assessment",
+      "link": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment",
+      "time": "ISW每日评估",
+      "src": "ISW"
+    },
+    {
+      "title": "微软发布《战争机器：事变日》主题 XBOX 控制器：将“开裂的沥青路面”铺上手柄",
+      "link": "https://www.ithome.com/0/988/997.htm",
+      "time": "08-12 23:29",
+      "src": "IT之家"
+    },
+    {
+      "title": "东方战争建造模拟游戏《烽沙》现已开启抢先体验",
+      "link": "https://www.gcores.com/articles/218231",
+      "time": "08-12 09:55",
+      "src": "机核"
+    },
+    {
+      "title": "8月13日外盘头条：德黑兰正为地区冲突长期化做准备 美国7月核心通胀表现温和 思科公布远超预期财测",
+      "link": "https://finance.sina.com.cn/world/2026-08-13/doc-ininchpe0263675.shtml",
+      "time": "08-13 05:54",
+      "src": "环球市场播报"
+    },
+    {
+      "title": "伊朗：霍尔木兹海峡使用者必须“修复”海湾环境损害",
+      "link": "https://finance.sina.com.cn/world/2026-08-13/doc-ininchpa3484257.shtml",
+      "time": "08-13 05:30",
+      "src": "环球市场播报"
+    },
+    {
+      "title": "伊朗“波斯湾海峡管理局”：霍尔木兹海峡仍关闭",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-13/doc-inincaey4961556.shtml",
+      "time": "08-13 03:44",
+      "src": "央视"
+    },
+    {
+      "title": "美军称已使59艘商船改变航线",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-13/doc-inincaex3241626.shtml",
+      "time": "08-13 03:07",
+      "src": "央视"
+    },
+    {
+      "title": "美伊谈判陷入僵局 德黑兰正为地区冲突长期化做准备",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-13/doc-ininavxa5034935.shtml",
+      "time": "08-13 01:12",
+      "src": "环球市场播报"
     }
   ]
 }
