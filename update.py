@@ -275,7 +275,7 @@ def fetch_isw():
 
 
 # ---------------------------------------------------------------- 新闻聚合(新浪/IT之家/机核 + 本地关键词过滤)
-SINA_POOLS = [("153", "2516"), ("153", "2515"), ("153", "2511"), ("153", "2518")]
+SINA_POOLS = [("153", "2516"), ("153", "2515"), ("153", "2511"), ("153", "2518"), ("153", "2517")]
 
 
 def sina_roll(pageid, lid, num=60):
@@ -318,14 +318,21 @@ def rss_feed(url, limit=40, default_src="RSS"):
 def news_pool():
     """汇总多源新闻池, 供各板块按关键词过滤"""
     pool = []
-    try:
-        pool += rss_feed("https://www.ithome.com/rss/", 40, "IT之家")   # IT之家(科技/硬件)
-    except Exception as e:
-        WARNINGS.append("[ithome] %s" % e)
-    try:
-        pool += rss_feed("https://www.gcores.com/rss", 30, "机核")      # 机核(游戏/文化)
-    except Exception as e:
-        WARNINGS.append("[gcores] %s" % e)
+    # (来源名, URL, 抓取条数) —— 全部免费/免密钥, 本地与云端(GitHub Actions)均可访问
+    RSS_SOURCES = [
+        ("IT之家", "https://www.ithome.com/rss/", 50),                      # 科技/硬件
+        ("机核", "https://www.gcores.com/rss", 40),                         # 游戏/文化
+        ("中新网", "https://www.chinanews.com.cn/rss/scroll-news.xml", 40),  # 国内外综合
+        ("cnBeta", "https://www.cnbeta.com.tw/backend.php", 40),            # 科技
+        ("少数派", "https://sspai.com/feed", 25),                            # 数码/效率
+        ("法广RFI", "https://www.rfi.fr/cn/rss", 25),                        # 国际(欧洲视角)
+        ("BBC中文", "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml", 25),   # 国际
+    ]
+    for name, url, n in RSS_SOURCES:
+        try:
+            pool += rss_feed(url, n, name)
+        except Exception as e:
+            WARNINGS.append("[%s] %s" % (name, e))
     for pageid, lid in SINA_POOLS:
         try:
             pool += sina_roll(pageid, lid, 80)
