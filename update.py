@@ -903,10 +903,34 @@ footer code{background:rgba(255,255,255,.05);border:1px solid var(--line);border
       </div>
     </section>
 
+    <!-- 国际新闻 -->
+    <section class="card s5" style="--ac:var(--intl)">
+      <div class="head"><span class="bar"></span><h2>国际新闻</h2><span class="tag">WORLD</span></div>
+      <div class="news-card" id="intlBody"></div>
+    </section>
+
+    <!-- 经济新闻 -->
+    <section class="card s7" style="--ac:var(--econ)">
+      <div class="head"><span class="bar"></span><h2>经济新闻</h2><span class="tag">ECONOMY</span></div>
+      <div class="news-card" id="econBody"></div>
+    </section>
+
+    <!-- 游戏新闻 -->
+    <section class="card s5" style="--ac:var(--game)">
+      <div class="head"><span class="bar"></span><h2>游戏新闻</h2><span class="tag">GAME</span></div>
+      <div class="news-card" id="gameBody"></div>
+    </section>
+
     <!-- A股 -->
-    <section class="card s5" style="--ac:var(--a)">
+    <section class="card s7" style="--ac:var(--a)">
       <div class="head"><span class="bar"></span><h2>A股市场</h2><span class="tag" id="ashareTag">--</span></div>
       <div id="ashareBody"></div>
+    </section>
+
+    <!-- 今日日本新番 -->
+    <section class="card s5" style="--ac:var(--anime)">
+      <div class="head"><span class="bar"></span><h2>今日日本新番</h2><span class="tag" id="animeTag">--</span></div>
+      <div id="animeBody"></div>
     </section>
 
     <!-- AI -->
@@ -915,58 +939,34 @@ footer code{background:rgba(255,255,255,.05);border:1px solid var(--line);border
       <div class="ai-wrap" id="aiBody"></div>
     </section>
 
-    <!-- 日本新番 -->
-    <section class="card s5" style="--ac:var(--anime)">
-      <div class="head"><span class="bar"></span><h2>今日日本新番</h2><span class="tag" id="animeTag">--</span></div>
-      <div id="animeBody"></div>
-    </section>
-
-    <!-- 硬件外设 -->
-    <section class="card s7" style="--ac:var(--hw)">
-      <div class="head"><span class="bar"></span><h2>电脑硬件 · 外设</h2><span class="tag">新闻聚合</span></div>
-      <div id="hwBody"></div>
-    </section>
-
     <!-- TWICE -->
     <section class="card s5" style="--ac:var(--tw)">
       <div class="head"><span class="bar"></span><h2>TWICE</h2><span class="tag">SOCIAL × NEWS</span></div>
       <div id="twiceBody"></div>
     </section>
 
+    <!-- 电脑硬件·外设 -->
+    <section class="card s7" style="--ac:var(--hw)">
+      <div class="head"><span class="bar"></span><h2>电脑硬件 · 外设</h2><span class="tag">新闻聚合</span></div>
+      <div id="hwBody"></div>
+    </section>
+
     <!-- 小岛秀夫 -->
-    <section class="card s4" style="--ac:var(--kj)">
+    <section class="card s5" style="--ac:var(--kj)">
       <div class="head"><span class="bar"></span><h2>小岛秀夫</h2><span class="tag">HIDEO KOJIMA</span></div>
       <div id="kojimaBody"></div>
     </section>
 
     <!-- 日本动画产业 -->
-    <section class="card s4" style="--ac:var(--id)">
+    <section class="card s6" style="--ac:var(--id)">
       <div class="head"><span class="bar"></span><h2>日本动画产业</h2><span class="tag">INDUSTRY</span></div>
       <div id="animeIndBody"></div>
     </section>
 
     <!-- 使用说明 -->
-    <section class="card s4" style="--ac:var(--info)">
+    <section class="card s6" style="--ac:var(--info)">
       <div class="head"><span class="bar"></span><h2>更新机制 · 数据源</h2><span class="tag">INFO</span></div>
       <div class="info-body" id="infoBody"></div>
-    </section>
-
-    <!-- 国际新闻 -->
-    <section class="card s4" style="--ac:var(--intl)">
-      <div class="head"><span class="bar"></span><h2>国际新闻</h2><span class="tag">WORLD</span></div>
-      <div class="news-card" id="intlBody"></div>
-    </section>
-
-    <!-- 经济新闻 -->
-    <section class="card s4" style="--ac:var(--econ)">
-      <div class="head"><span class="bar"></span><h2>经济新闻</h2><span class="tag">ECONOMY</span></div>
-      <div class="news-card" id="econBody"></div>
-    </section>
-
-    <!-- 游戏新闻 -->
-    <section class="card s4" style="--ac:var(--game)">
-      <div class="head"><span class="bar"></span><h2>游戏新闻</h2><span class="tag">GAME</span></div>
-      <div class="news-card" id="gameBody"></div>
     </section>
   </div>
 

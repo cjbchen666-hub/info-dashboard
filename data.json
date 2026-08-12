@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13 06:12",
+  "generated_at": "2026-08-13 06:22",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -327,7 +327,7 @@
         "score": 7.2,
         "img": "http://lain.bgm.tv/pic/cover/c/6a/b3/622206_dpWcC.jpg",
         "air_date": "2026-07-02",
-        "rank": 1841
+        "rank": 1825
       },
       {
         "id": 571784,
@@ -336,7 +336,7 @@
         "score": 7.0,
         "img": "http://lain.bgm.tv/pic/cover/c/6f/42/571784_leRlL.jpg",
         "air_date": "2026-07-09",
-        "rank": 2513
+        "rank": 2516
       },
       {
         "id": 617123,
@@ -345,7 +345,7 @@
         "score": 6.6,
         "img": "http://lain.bgm.tv/pic/cover/c/e3/74/617123_PaMs9.jpg",
         "air_date": "2026-07-02",
-        "rank": 4678
+        "rank": 4740
       },
       {
         "id": 603352,
@@ -363,7 +363,7 @@
         "score": 6.3,
         "img": "http://lain.bgm.tv/pic/cover/c/1c/e4/583729_KxOZV.jpg",
         "air_date": "2026-07-02",
-        "rank": 6249
+        "rank": 6254
       },
       {
         "id": 614594,
@@ -372,7 +372,7 @@
         "score": 6.0,
         "img": "http://lain.bgm.tv/pic/cover/c/29/c5/614594_f5Szx.jpg",
         "air_date": "2026-07-02",
-        "rank": 7064
+        "rank": 7055
       },
       {
         "id": 449354,
@@ -390,7 +390,7 @@
         "score": 5.5,
         "img": "http://lain.bgm.tv/pic/cover/c/e5/4e/622633_JNfJt.jpg",
         "air_date": "2026-07-02",
-        "rank": 8970
+        "rank": 8999
       },
       {
         "id": 511177,
@@ -399,7 +399,7 @@
         "score": 5.0,
         "img": "http://lain.bgm.tv/pic/cover/c/8f/47/511177_EP43p.jpg",
         "air_date": "2026-07-02",
-        "rank": 9648
+        "rank": 9653
       },
       {
         "id": 574794,
@@ -417,7 +417,7 @@
         "score": 4.1,
         "img": "http://lain.bgm.tv/pic/cover/c/cc/46/276787_4oO0A.jpg",
         "air_date": "2026-07-09",
-        "rank": 9929
+        "rank": 9930
       },
       {
         "id": 592111,
@@ -582,13 +582,13 @@
     "hf": [
       {
         "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 1273,
+        "likes": 1274,
         "downloads": 0,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3702,
+        "likes": 3703,
         "downloads": 83484,
         "pipeline": "image-text-to-video"
       },
@@ -611,10 +611,10 @@
         "pipeline": "image-to-video"
       },
       {
-        "id": "Comfy-Org/MiniMax-H3",
-        "likes": 1252,
-        "downloads": 6798796,
-        "pipeline": ""
+        "id": "Qwen/Qwen3.8-2.4T-A95B",
+        "likes": 450,
+        "downloads": 978,
+        "pipeline": "text-generation"
       }
     ],
     "models": [
