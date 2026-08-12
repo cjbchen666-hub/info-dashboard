@@ -591,6 +591,52 @@ GAME_NEWS = [
     _cur("Steam 夏季特卖收官: 多款国产独立游戏跻身热销榜, 中文玩家占比创新高",
          "https://www.gcores.com/"),
 ]
+GAME_UPDATE_KW = ["维护公告", "停机维护", "停机", "停服", "不停机", "版本更新", "更新公告",
+                  "例行维护", "补丁", "开服", "维护时间", "维护工作", "全服放出", "更新维护",
+                  "hotfix", "patch", "update notes",
+                  "王者荣耀", "英雄联盟", "LOL", "和平精英", "PUBG", "绝地求生", "无畏契约",
+                  "穿越火线", "CF", "DNF", "金铲铲", "元梦之星", "三角洲行动", "部落冲突",
+                  "龙族幻想", "版本更新公告", "热更", "新版本"]
+GAME_UPDATE_NEWS = [
+    {"title": "《PUBG》42.3版本 PC 8/12 维护(08:00-16:30): 时隔两年新增轻机枪 RPD, 轻机枪换弹-25%/后坐力调整, 主流玩法轮换开启",
+     "link": "https://new.qq.com/rain/a/20260811A06SHD00", "time": "8-12", "type": "停机维护", "src": "PUBG 官方"},
+    {"title": "《英雄联盟》26.16版本 8/13 国服上线: 射手加强/游走辅助与下路法师削弱, 凯南/格温/阿兹尔增强",
+     "link": "https://view.inews.qq.com/a/20260804A0D12G00", "time": "8-13", "type": "不停机更新", "src": "拳头官方"},
+    {"title": "《王者荣耀》8/8 6:00-8:00 全服不停机更新: 超极限狂潮玩法数值优化与问题修复",
+     "link": "https://3.pvp.qq.com/web201605/newsDetail.shtml?G_Biz=18&tid=806689", "time": "8-08", "type": "不停机更新", "src": "王者荣耀官网"},
+    {"title": "《和平精英》8/8 刺激空投节版本更新: 《剑来》动画联动, 原创换装角色\"甜包\"登场, 送20连抽+3把全新枪皮",
+     "link": "https://www.3839.com/a/173639.htm", "time": "8-08", "type": "不停机更新", "src": "和平精英官方"},
+    {"title": "《无畏契约》8/6 8:00 不停机版本更新: 修复敌方道具在英雄\"零\"赛博囚笼中异常生效的问题",
+     "link": "https://pd.qq.com/g/8bi2h5u02q/post/B_1bd7726af66b00001441152186777472600X60", "time": "8-06", "type": "不停机更新", "src": "腾讯官方"},
+    {"title": "《龙族幻想》8/13 凌晨3:00-08:00 停机版本更新: 卡塞尔之辉规则调整/极道巅峰优化, 维护后发放更新奖励",
+     "link": "https://dna.qq.com/webplat/info/news_version3/37362/61695/61696/m22835/202608/989696.shtml", "time": "8-13", "type": "停机维护", "src": "腾讯官方"},
+    {"title": "《部落冲突》8/5 6:00 停机维护(预计180分钟): 周年庆版本上线, 维护后首领可领维护礼包",
+     "link": "https://new.qq.com/rain/a/20260804A0EYI300", "time": "8-05", "type": "停机维护", "src": "腾讯官方"},
+    {"title": "《大话西游》手游 8/13 每周例行停机维护(8:00-10:00): 新神兽广陵+小西天副本上线, 周星驰合作宣传片8/15公开",
+     "link": "https://dhxy.163.com/news/update/20260812/19975_1310915.html", "time": "8-13", "type": "停机维护", "src": "网易官网"},
+    {"title": "《梦幻西游》手游/时空 8/12 停机维护(8:00-9:00, 版本1.577.0): 七夕活动+大话西游电影联动开启",
+     "link": "https://my.163.com/news/weihu/20260811/18103_1310760.html", "time": "8-12", "type": "停机维护", "src": "网易官网"},
+    {"title": "《世界之外》8/12 停服维护(7:55-10:00): 321号崩坍世界开放, 同舟踏浪特别活动上线",
+     "link": "https://world.163.com/news/update/20260811/40112_1310751.html", "time": "8-12", "type": "停机维护", "src": "网易官网"},
+    {"title": "《梦幻西游》电脑版畅玩服 8/11 例行停机维护(8:00-9:00): 暑假活动第二阶段开启",
+     "link": "https://www.163.com/dy/article/L40DQO570526GONF.html", "time": "8-11", "type": "停机维护", "src": "网易官网"},
+    {"title": "《大唐无双》8/11 停机维护(约120分钟) 升级至2.0.495: 国战资料片\"阵临万垒\"+竞技天梯",
+     "link": "https://dtws.163.com/news/2026/08/10/11731_1310591.html", "time": "8-11", "type": "停机维护", "src": "网易官网"},
+    {"title": "《Apex 英雄》新赛季\"諸神烙印\" 8/4 全平台上线(EA app/Steam/Epic/主机): 罗芭/蕾帕特强化, 世界边缘地图更新",
+     "link": "https://www.ea.com/zh-hant/games/apex-legends/apex-legends/news/marked-game-updates", "time": "8-04", "type": "不停机更新", "src": "EA 官网"},
+    {"title": "《The Sims 4》8/4 全平台补丁更新(PC/Mac/PS/Xbox, 自动下载): 修复旅行崩溃/存档覆盖/职业倒计时卡死",
+     "link": "https://simscommunity.info/2026/08/06/the-sims-4-update-august-6-2026-patch-notes", "time": "8-04", "type": "不停机更新", "src": "EA/Sims"},
+    {"title": "《绝地潜兵2》×《战锤40K》传奇战争债券 8/12 上线(Steam)",
+     "link": "https://prefersystems.com/2026/08/05/august-is-the-calm-before-the-storm-for-this-years-new-game-releases", "time": "8-12", "type": "不停机更新", "src": "Steam"},
+    {"title": "《Grounded 2》8/11 更新\"Into the Abyss\": 全新深渊区域与内容扩展(Steam)",
+     "link": "https://prefersystems.com/2026/08/05/august-is-the-calm-before-the-storm-for-this-years-new-game-releases", "time": "8-11", "type": "不停机更新", "src": "Steam"},
+    {"title": "《艾尔登法环》\"Tarnished Pack\" DLC 8/28 更新: 新增两个职业/三种托雷特外观/四套防具",
+     "link": "https://prefersystems.com/2026/08/05/august-is-the-calm-before-the-storm-for-this-years-new-game-releases", "time": "8-28", "type": "不停机更新", "src": "Steam"},
+    {"title": "《EA Sports FC 27》UT 系统改动公布: 简化 SBC 构建流程, 新增 FUT Gallery 与全息物品展示",
+     "link": "https://c.m.163.com/news/a/L3GSGBRE0526K1KN.html", "time": "8-04", "type": "不停机更新", "src": "VGC/游民星空"},
+    {"title": "《原神》7.0 大版本更新: 新增枪械/火车玩法与新角色, 全新反应\"星散\"登场, 主线奖励至多560原石",
+     "link": "https://steamandepic.com/en/p/daily-digest-2026-08-01", "time": "8月", "type": "不停机更新", "src": "Steam/Epic 日报"},
+]
 
 
 # ---------------------------------------------------------------- 组装数据
@@ -601,6 +647,15 @@ def load_prev():
             return json.load(f)
     except Exception:
         return None
+
+
+def tag_update_type(items):
+    """为游戏更新公告打上 停机维护/不停机更新 标签"""
+    for it in items:
+        if not it.get("type"):
+            t = it.get("title") or ""
+            it["type"] = "停机维护" if any(k in t for k in ("停机", "停服", "维护")) else "不停机更新"
+    return items
 
 
 def collect():
@@ -671,6 +726,7 @@ def collect():
         "intl_news": filter_news(pool, INTL_KW, 8, INTL_NEWS),
         "econ_news": filter_news(pool, ECON_KW, 8, ECON_NEWS),
         "game_news": filter_news(pool, GAME_KW, 8, GAME_NEWS),
+        "game_update": tag_update_type(filter_news(pool, GAME_UPDATE_KW, 8, GAME_UPDATE_NEWS)),
     }
     return data
 
@@ -689,7 +745,7 @@ TPL = r"""<!DOCTYPE html>
   --red:#ff4d4f; --green:#2ecc8f; --amber:#f5b942;
   --a:#ff4d4f; --anime:#f472b6; --ua:#a3e635; --ai:#38bdf8;
   --hw:#fb923c; --kj:#94a3b8; --tw:#f9a8d4; --id:#a78bfa; --info:#5c6f85;
-  --intl:#2dd4bf; --econ:#f59e0b; --game:#22c55e;
+  --intl:#2dd4bf; --econ:#f59e0b; --game:#22c55e; --gupd:#f43f5e;
 }
 *{box-sizing:border-box;margin:0;padding:0}
 html{background:var(--bg)}
@@ -958,13 +1014,19 @@ footer code{background:rgba(255,255,255,.05);border:1px solid var(--line);border
     </section>
 
     <!-- 日本动画产业 -->
-    <section class="card s6" style="--ac:var(--id)">
+    <section class="card s4" style="--ac:var(--id)">
       <div class="head"><span class="bar"></span><h2>日本动画产业</h2><span class="tag">INDUSTRY</span></div>
       <div id="animeIndBody"></div>
     </section>
 
+    <!-- 游戏更新 -->
+    <section class="card s4" style="--ac:var(--gupd)">
+      <div class="head"><span class="bar"></span><h2>游戏更新 · 公告汇总</h2><span class="tag">MAINTENANCE</span></div>
+      <div class="news-card" id="gameUpdateBody"></div>
+    </section>
+
     <!-- 使用说明 -->
-    <section class="card s6" style="--ac:var(--info)">
+    <section class="card s4" style="--ac:var(--info)">
       <div class="head"><span class="bar"></span><h2>更新机制 · 数据源</h2><span class="tag">INFO</span></div>
       <div class="info-body" id="infoBody"></div>
     </section>
@@ -1161,6 +1223,21 @@ setTimeout(()=>location.reload(), 30*60*1000);
   $("gameBody").innerHTML = '<div class="news-card" style="max-height:460px">'+newsHTML(N,8)+'</div>';
 })();
 
+/* 游戏更新 · 公告汇总 */
+(function(){
+  const N = D.game_update || [];
+  const bd = it => (it.type === "停机维护")
+    ? '<span style="display:inline-block;background:rgba(255,77,79,.14);color:#ff8a8c;border:1px solid rgba(255,77,79,.45);border-radius:4px;font-size:10px;line-height:1.6;padding:0 5px;margin-right:6px;white-space:nowrap;vertical-align:1px">停机</span>'
+    : '<span style="display:inline-block;background:rgba(46,204,143,.13);color:#52e0a8;border:1px solid rgba(46,204,143,.4);border-radius:4px;font-size:10px;line-height:1.6;padding:0 5px;margin-right:6px;white-space:nowrap;vertical-align:1px">不停机</span>';
+  const list = N.slice(0,8).map(n => {
+    const meta = [n.time, n.src].filter(Boolean).join(' · ');
+    return '<a href="'+esc(n.link)+'" target="_blank" rel="noopener"><span class="t">'+bd(n)+esc(n.title)+'</span>'+(meta?'<span class="time">'+esc(meta)+'</span>':'')+'</a>';
+  }).join('');
+  $("gameUpdateBody").innerHTML = N.length
+    ? '<div class="news">'+list+'</div>'
+    : '<div class="empty">暂无更新公告</div>';
+})();
+
 /* 说明 */
 (function(){
   const srcs = ["腾讯行情 (A股/全球指数)","新浪行情 (涨跌榜)","Bangumi (今日新番)",
@@ -1202,7 +1279,7 @@ def main():
     print("小岛新闻:", len(data["kojima"]["news"]), "| TWICE新闻:", len(data["twice"]["news"]),
           "| 动画产业新闻:", len(data["anime_industry"]["news"]))
     print("国际新闻:", len(data["intl_news"]), "| 经济新闻:", len(data["econ_news"]),
-          "| 游戏新闻:", len(data["game_news"]))
+          "| 游戏新闻:", len(data["game_news"]), "| 游戏更新公告:", len(data["game_update"]))
     if WARNINGS:
         print("-- 警告 --")
         for w in WARNINGS:
