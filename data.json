@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13 06:32",
+  "generated_at": "2026-08-13 06:50",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -251,6 +251,12 @@
         "src": "IT之家"
       },
       {
+        "title": "8月13日美股成交额前20：费城半导体指数涨超2% 存储板块普涨",
+        "link": "https://finance.sina.com.cn/world/2026-08-13/doc-ininchpe0278002.shtml",
+        "time": "08-13 06:37",
+        "src": "环球市场播报"
+      },
+      {
         "title": "美联储料维持准备金管理购买节奏",
         "link": "https://finance.sina.com.cn/world/2026-08-13/doc-ininchpa3493691.shtml",
         "time": "08-13 06:03",
@@ -272,12 +278,6 @@
         "title": "美国7月核心通胀表现温和 美联储加息概率下降",
         "link": "https://finance.sina.com.cn/world/2026-08-13/doc-inincafc3687839.shtml",
         "time": "08-13 03:51",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "管理2.3万亿美元主权基金首席执行官警示，上半年丰厚回报难以持续",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-ininarre5121818.shtml",
-        "time": "08-12 23:17",
         "src": "环球市场播报"
       }
     ]
@@ -582,7 +582,7 @@
     "hf": [
       {
         "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 1275,
+        "likes": 1279,
         "downloads": 0,
         "pipeline": "image-text-to-text"
       },
@@ -600,19 +600,19 @@
       },
       {
         "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-        "likes": 3228,
+        "likes": 3230,
         "downloads": 1048685,
         "pipeline": "text-generation"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 551,
+        "likes": 555,
         "downloads": 39,
         "pipeline": "image-to-video"
       },
       {
         "id": "Qwen/Qwen3.8-2.4T-A95B",
-        "likes": 451,
+        "likes": 459,
         "downloads": 978,
         "pipeline": "text-generation"
       }
@@ -816,12 +816,6 @@
       "src": "IT之家"
     },
     {
-      "title": "消息称 AMD RX 9000 系列 Q3 全面涨价，RX 9070 XT 销售指导价 6999 元",
-      "link": "https://www.ithome.com/0/988/952.htm",
-      "time": "08-12 20:04",
-      "src": "IT之家"
-    },
-    {
       "title": "荣耀CEO李健谈内存涨价、竞争压力：不经历磨难的企业不可能走向伟大",
       "link": "https://finance.sina.com.cn/jjxw/2026-08-12/doc-ininamic6741877.shtml",
       "time": "08-12 21:28",
@@ -853,6 +847,12 @@
     },
     {
       "title": "宏碁首发 1000Hz 电竞显示器; 微星 5K Mini-LED 双模电竞屏(5K@180Hz/2K@330Hz) 亮相 Computex 2026",
+      "link": "https://www.160.com/article/12732.html",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "微星 40 周年发布 RTX 5090 LIGHTNING Z 旗舰与内置 AI 代理的 OLED 电竞显示器",
       "link": "https://www.160.com/article/12732.html",
       "time": "精选",
       "src": "资讯整理"
