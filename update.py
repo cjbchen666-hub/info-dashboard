@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-信息驾驶舱 - 数据采集与页面构建脚本
+信息面板 - 数据采集与页面构建脚本
 =====================================
 数据源(全部免费、国内可访问、无需密钥):
   A股指数/涨跌榜/全球指数 : 东方财富 push2 API
@@ -759,7 +759,7 @@ TPL = r"""<!DOCTYPE html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>信息驾驶舱 INFO COCKPIT</title>
+<title>信息面板 INFO PANEL</title>
 <style>
 :root{
   --bg:#0a0e14; --panel:#111821; --panel2:#0d141c; --line:#1d2836;
@@ -928,7 +928,7 @@ footer code{background:rgba(255,255,255,.05);border:1px solid var(--line);border
 <div class="wrap">
   <header>
     <div class="logo"><span class="dot"></span>
-      <h1>信息驾驶舱<small>INFO COCKPIT</small></h1>
+      <h1>信息面板<small>INFO PANEL</small></h1>
     </div>
     <div class="hmeta">
       <span>数据更新 <b id="genAt"></b></span>
@@ -1303,7 +1303,7 @@ def build(data):
 
 
 def main():
-    print("== 信息驾驶舱数据采集开始 ==")
+    print("== 信息面板数据采集开始 ==")
     data = collect()
     build(data)
     print("== 构建完成 ==")
