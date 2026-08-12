@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13 01:03",
+  "generated_at": "2026-08-13 03:11",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 53810.05,
-      "pct": 0.03,
-      "chg": 18.2,
-      "amount": "1063578484亿"
+      "price": 53846.28,
+      "pct": 0.1,
+      "chg": 54.43,
+      "amount": "1426190423亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26618.91,
-      "pct": 0.66,
-      "chg": 173.46,
-      "amount": "10805720871亿"
+      "price": 26617.58,
+      "pct": 0.65,
+      "chg": 172.13,
+      "amount": "13921835942亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7752.46,
-      "pct": 0.31,
-      "chg": 24.26,
-      "amount": "932619057亿"
+      "price": 7754.7,
+      "pct": 0.34,
+      "chg": 26.5,
+      "amount": "1306895148亿"
     }
   ],
   "anime": {
@@ -552,31 +552,31 @@
     "hf": [
       {
         "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 1239,
+        "likes": 1252,
         "downloads": 0,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3688,
+        "likes": 3696,
         "downloads": 59368,
         "pipeline": "image-text-to-video"
       },
       {
         "id": "larryvrh/MiniMax-H3-Turbo-Lora",
-        "likes": 689,
+        "likes": 691,
         "downloads": 0,
         "pipeline": "text-to-video"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-        "likes": 3216,
+        "likes": 3220,
         "downloads": 1048685,
         "pipeline": "text-generation"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 509,
+        "likes": 527,
         "downloads": 39,
         "pipeline": "image-to-video"
       },
