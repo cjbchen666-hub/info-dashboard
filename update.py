@@ -500,8 +500,23 @@ ANIME_IND_KW = ["动画", "动漫", "番剧", "二次元", "新海诚", "宫崎�
 UKRAINE_KW = ["俄乌", "乌克兰", "俄罗斯", "前线", "战线", "泽连斯基", "普京", "俄军", "乌军",
               "基辅", "哈尔科夫", "顿巴斯", "克里米亚", "扎波罗热", "赫尔松", "顿涅茨克", "卢甘斯克",
               "黑海", "无人机", "导弹", "反攻", "库尔斯克"]
-
 _cur = lambda title, link, src="资讯整理": {"title": title, "link": link, "time": "精选", "src": src}
+MILITARY_KW = ["军事", "军队", "国防", "战机", "军舰", "航母", "导弹", "部队", "军演", "武器",
+               "防空", "无人机", "冲突", "战场", "袭击", "军援", "坦克", "战区", "北约", "美军",
+               "俄军", "乌军", "以军", "伊朗", "以色列", "加沙", "黎巴嫩", "胡塞", "台海", "南海",
+               "军费", "核武", "特种部队", "边境", "交火", "轰炸", "部队调动", "兵工厂", "军备",
+               "五角大楼", "国防部", "军演", "战争", "开火"]
+MILITARY_NEWS = [
+    _cur("大批媒体机构集体拒签五角大楼\"最后通牒\", 美俄新闻战持续升级",
+         "https://finance.sina.com.cn/"),
+    _cur("外媒: 德黑兰正为地区冲突长期化做准备, 中东局势仍高度紧张",
+         "https://finance.sina.com.cn/"),
+    _cur("哈萨克斯坦一城市副市长遭枪击身亡, 中亚地区安全形势引关注",
+         "https://finance.sina.com.cn/"),
+    _cur("多国宣布新一轮联合军事演习, 亚太安全格局持续调整",
+         "https://finance.sina.com.cn/"),
+]
+
 ASHARE_KW = ["A股", "沪指", "深成指", "创业板", "科创50", "北证50", "北向", "涨停", "跌停", "证监会",
              "央行", "降息", "降准", "美联储", "IPO", "回购", "增持", "成交", "万亿", "牛市", "主力资金",
              "国家队", "A50", "恒生", "纳指", "道指", "标普", "半导体", "算力", "机器人", "创新药", "券商"]
@@ -672,13 +687,12 @@ def collect():
             ukraine = {"title": "ISW 数据暂不可用", "summary": "",
                        "url": "https://www.understandingwar.org/",
                        "links": [{"name": "ISW 官网", "url": "https://www.understandingwar.org/"}]}
-    # 战线新闻集合: ISW 今日评估条目 + 实时新闻关键词过滤
-    u_news = []
+    # 军事新闻: ISW 今日评估条目(置顶) + 军事关键词实时过滤
+    mil_news = []
     if ukraine.get("url"):
-        u_news.append({"title": ("今日战况: " + ukraine.get("title", "ISW 每日评估")) if ukraine.get("title") else "今日战况: ISW 每日评估",
-                       "link": ukraine["url"], "time": "ISW每日评估", "src": "ISW"})
-    u_news += filter_news(pool, UKRAINE_KW, 5, [])
-    ukraine["news"] = u_news[:6]
+        mil_news.append({"title": ("俄乌今日战况: " + ukraine.get("title", "ISW 每日评估")) if ukraine.get("title") else "俄乌今日战况: ISW 每日评估",
+                         "link": ukraine["url"], "time": "ISW每日评估", "src": "ISW"})
+    mil_news += filter_news(pool, MILITARY_KW, 7, MILITARY_NEWS)
 
     hf = safe(fetch_hf_trending) or []
     if not hf and prev and prev.get("ai", {}).get("hf"):
@@ -727,6 +741,7 @@ def collect():
         "econ_news": filter_news(pool, ECON_KW, 8, ECON_NEWS),
         "game_news": filter_news(pool, GAME_KW, 8, GAME_NEWS),
         "game_update": tag_update_type(filter_news(pool, GAME_UPDATE_KW, 8, GAME_UPDATE_NEWS)),
+        "mil_news": mil_news[:8],
     }
     return data
 
@@ -745,7 +760,7 @@ TPL = r"""<!DOCTYPE html>
   --red:#ff4d4f; --green:#2ecc8f; --amber:#f5b942;
   --a:#ff4d4f; --anime:#f472b6; --ua:#a3e635; --ai:#38bdf8;
   --hw:#fb923c; --kj:#94a3b8; --tw:#f9a8d4; --id:#a78bfa; --info:#5c6f85;
-  --intl:#2dd4bf; --econ:#f59e0b; --game:#22c55e; --gupd:#f43f5e;
+  --intl:#2dd4bf; --econ:#f59e0b; --game:#22c55e; --gupd:#f43f5e; --mil:#facc15;
 }
 *{box-sizing:border-box;margin:0;padding:0}
 html{background:var(--bg)}
@@ -896,6 +911,8 @@ a{color:inherit;text-decoration:none}
 .info-body b{color:var(--txt)}
 .info-body .src{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
 .info-body .src span{font-size:10.8px;border:1px solid var(--line);border-radius:12px;padding:2px 8px;color:var(--dim)}
+.s12 .info-body{display:flex;flex-wrap:wrap;gap:8px 28px;align-items:center;line-height:2}
+.s12 .info-body .src{margin-top:0}
 footer{margin-top:16px;text-align:center;color:var(--dim);font-size:11.5px;line-height:1.8}
 footer code{background:rgba(255,255,255,.05);border:1px solid var(--line);border-radius:5px;padding:1px 7px;font-family:Consolas,monospace}
 </style>
@@ -959,22 +976,22 @@ footer code{background:rgba(255,255,255,.05);border:1px solid var(--line);border
       </div>
     </section>
 
+    <!-- 军事新闻 -->
+    <section class="card s5" style="--ac:var(--mil)">
+      <div class="head"><span class="bar"></span><h2>军事新闻</h2><span class="tag">MILITARY</span></div>
+      <div class="news-card" id="milBody"></div>
+    </section>
+
     <!-- 国际新闻 -->
-    <section class="card s5" style="--ac:var(--intl)">
+    <section class="card s7" style="--ac:var(--intl)">
       <div class="head"><span class="bar"></span><h2>国际新闻</h2><span class="tag">WORLD</span></div>
       <div class="news-card" id="intlBody"></div>
     </section>
 
     <!-- 经济新闻 -->
-    <section class="card s7" style="--ac:var(--econ)">
+    <section class="card s5" style="--ac:var(--econ)">
       <div class="head"><span class="bar"></span><h2>经济新闻</h2><span class="tag">ECONOMY</span></div>
       <div class="news-card" id="econBody"></div>
-    </section>
-
-    <!-- 游戏新闻 -->
-    <section class="card s5" style="--ac:var(--game)">
-      <div class="head"><span class="bar"></span><h2>游戏新闻</h2><span class="tag">GAME</span></div>
-      <div class="news-card" id="gameBody"></div>
     </section>
 
     <!-- A股 -->
@@ -983,10 +1000,10 @@ footer code{background:rgba(255,255,255,.05);border:1px solid var(--line);border
       <div id="ashareBody"></div>
     </section>
 
-    <!-- 今日日本新番 -->
-    <section class="card s5" style="--ac:var(--anime)">
-      <div class="head"><span class="bar"></span><h2>今日日本新番</h2><span class="tag" id="animeTag">--</span></div>
-      <div id="animeBody"></div>
+    <!-- 游戏新闻 -->
+    <section class="card s5" style="--ac:var(--game)">
+      <div class="head"><span class="bar"></span><h2>游戏新闻</h2><span class="tag">GAME</span></div>
+      <div class="news-card" id="gameBody"></div>
     </section>
 
     <!-- AI -->
@@ -995,10 +1012,10 @@ footer code{background:rgba(255,255,255,.05);border:1px solid var(--line);border
       <div class="ai-wrap" id="aiBody"></div>
     </section>
 
-    <!-- TWICE -->
-    <section class="card s5" style="--ac:var(--tw)">
-      <div class="head"><span class="bar"></span><h2>TWICE</h2><span class="tag">SOCIAL × NEWS</span></div>
-      <div id="twiceBody"></div>
+    <!-- 今日日本新番 -->
+    <section class="card s5" style="--ac:var(--anime)">
+      <div class="head"><span class="bar"></span><h2>今日日本新番</h2><span class="tag" id="animeTag">--</span></div>
+      <div id="animeBody"></div>
     </section>
 
     <!-- 电脑硬件·外设 -->
@@ -1007,8 +1024,14 @@ footer code{background:rgba(255,255,255,.05);border:1px solid var(--line);border
       <div id="hwBody"></div>
     </section>
 
+    <!-- TWICE -->
+    <section class="card s5" style="--ac:var(--tw)">
+      <div class="head"><span class="bar"></span><h2>TWICE</h2><span class="tag">SOCIAL × NEWS</span></div>
+      <div id="twiceBody"></div>
+    </section>
+
     <!-- 小岛秀夫 -->
-    <section class="card s5" style="--ac:var(--kj)">
+    <section class="card s4" style="--ac:var(--kj)">
       <div class="head"><span class="bar"></span><h2>小岛秀夫</h2><span class="tag">HIDEO KOJIMA</span></div>
       <div id="kojimaBody"></div>
     </section>
@@ -1026,7 +1049,7 @@ footer code{background:rgba(255,255,255,.05);border:1px solid var(--line);border
     </section>
 
     <!-- 使用说明 -->
-    <section class="card s4" style="--ac:var(--info)">
+    <section class="card s12" style="--ac:var(--info)">
       <div class="head"><span class="bar"></span><h2>更新机制 · 数据源</h2><span class="tag">INFO</span></div>
       <div class="info-body" id="infoBody"></div>
     </section>
@@ -1134,11 +1157,18 @@ setTimeout(()=>location.reload(), 30*60*1000);
     '</div>';
   const links = '<div class="links">'+((U.links||[]).map(l=>
     '<a href="'+esc(l.url)+'" target="_blank" rel="noopener">'+esc(l.name)+'</a>').join(''))+'</div>';
-  const news = '<h3 class="sec">战线新闻 · 新闻集合</h3><div class="news-card" style="max-height:180px">'+newsHTML(U.news,6)+'</div>';
   $("uaSide").innerHTML =
     '<h3>'+esc(U.title||"ISW 战况评估")+'</h3>'+
     '<div class="sum">'+(U.summary?esc(U.summary):'<span class="dim">摘要暂不可用</span>')+'</div>'+
-    legend + links + news;
+    legend + links;
+})();
+
+/* 军事新闻 */
+(function(){
+  const N = D.mil_news || [];
+  $("milBody").innerHTML = N.length
+    ? '<div class="news-card" style="max-height:460px">'+newsHTML(N,8)+'</div>'
+    : '<div class="empty">暂无军事新闻</div>';
 })();
 
 /* AI */
@@ -1273,7 +1303,7 @@ def main():
     print("生成时间:", data["generated_at"])
     print("A股指数:", len(data["ashare"]["indices"]), "| 全球指数:", len(data["global"]))
     print("今日新番:", len(data["anime"]["items"]), "| ISW战况:", "有" if data["ukraine"].get("summary") else "无",
-          "| 战线新闻:", len(data["ukraine"].get("news", [])))
+          "| 军事新闻:", len(data["mil_news"]))
     print("AI新闻:", len(data["ai"]["news_zh"]), "| HF趋势:", len(data["ai"]["hf"]),
           "| 硬件快讯:", len(data["hw_news"]))
     print("小岛新闻:", len(data["kojima"]["news"]), "| TWICE新闻:", len(data["twice"]["news"]),
