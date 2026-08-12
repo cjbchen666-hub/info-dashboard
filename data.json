@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13 06:50",
+  "generated_at": "2026-08-13 06:56",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -251,33 +251,33 @@
         "src": "IT之家"
       },
       {
+        "title": "央行将开展隔夜逆回购操作 每日不超过6000亿元",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-12/10676680.shtml",
+        "time": "08-12 22:34",
+        "src": "中新网"
+      },
+      {
+        "title": "人类第一台机器人手机？荣耀Robot Phone将于8月12日晚全球发布",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1572902.htm",
+        "time": "08-12 17:10",
+        "src": "cnBeta.COM"
+      },
+      {
+        "title": "韩国寻求半导体外的新机遇：李在明公布未来技术发展战略，计划2030年前登月",
+        "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260812-%E9%9F%A9%E5%9B%BD%E5%AF%BB%E6%B1%82%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%A4%96%E7%9A%84%E6%96%B0%E6%9C%BA%E9%81%87-%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%85%AC%E5%B8%83%E6%9C%AA%E6%9D%A5%E6%8A%80%E6%9C%AF%E5%8F%91%E5%B1%95%E6%88%98%E7%95%A5%EF%BC%8C%E8%AE%A1%E5%88%922030%E5%B9%B4%E5%89%8D%E7%99%BB%E6%9C%88",
+        "time": "08-13 05:45",
+        "src": "Jung Yeon-je/P"
+      },
+      {
+        "title": "费加罗报：中国AI产业突飞猛进，从芯片到机器人无不颠覆硅谷的既有格局",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260812-%E8%B4%B9%E5%8A%A0%E7%BD%97%E6%8A%A5-%E4%B8%AD%E5%9B%BDai%E4%BA%A7%E4%B8%9A%E7%AA%81%E9%A3%9E%E7%8C%9B%E8%BF%9B%EF%BC%8C%E4%BB%8E%E8%8A%AF%E7%89%87%E5%88%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%97%A0%E4%B8%8D%E9%A2%A0%E8%A6%86%E7%A1%85%E8%B0%B7%E7%9A%84%E6%A0%BC%E5%B1%80",
+        "time": "08-12 22:37",
+        "src": "REUTERS - Ting"
+      },
+      {
         "title": "8月13日美股成交额前20：费城半导体指数涨超2% 存储板块普涨",
         "link": "https://finance.sina.com.cn/world/2026-08-13/doc-ininchpe0278002.shtml",
         "time": "08-13 06:37",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "美联储料维持准备金管理购买节奏",
-        "link": "https://finance.sina.com.cn/world/2026-08-13/doc-ininchpa3493691.shtml",
-        "time": "08-13 06:03",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "美国股市：标普500指数逼近纪录高位 温和通胀缓解加息担忧",
-        "link": "https://finance.sina.com.cn/world/2026-08-13/doc-ininchpa3484717.shtml",
-        "time": "08-13 05:32",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "8月13日收盘：美股三大指数涨跌不一 温和CPI提振降息预期 AI概念股领涨科技板块",
-        "link": "https://finance.sina.com.cn/world/2026-08-13/doc-inincaey4973319.shtml",
-        "time": "08-13 04:31",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "美国7月核心通胀表现温和 美联储加息概率下降",
-        "link": "https://finance.sina.com.cn/world/2026-08-13/doc-inincafc3687839.shtml",
-        "time": "08-13 03:51",
         "src": "环球市场播报"
       }
     ]
@@ -594,25 +594,25 @@
       },
       {
         "id": "larryvrh/MiniMax-H3-Turbo-Lora",
-        "likes": 694,
+        "likes": 695,
         "downloads": 0,
         "pipeline": "text-to-video"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-        "likes": 3230,
+        "likes": 3231,
         "downloads": 1048685,
         "pipeline": "text-generation"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 555,
+        "likes": 557,
         "downloads": 39,
         "pipeline": "image-to-video"
       },
       {
         "id": "Qwen/Qwen3.8-2.4T-A95B",
-        "likes": 459,
+        "likes": 461,
         "downloads": 978,
         "pipeline": "text-generation"
       }
@@ -816,6 +816,30 @@
       "src": "IT之家"
     },
     {
+      "title": "消息称 AMD RX 9000 系列 Q3 全面涨价，RX 9070 XT 销售指导价 6999 元",
+      "link": "https://www.ithome.com/0/988/952.htm",
+      "time": "08-12 20:04",
+      "src": "IT之家"
+    },
+    {
+      "title": "英伟达 RTX PRO 6000 Blackwell 涨价至 16000 美元，较上市初期上涨 87%",
+      "link": "https://www.ithome.com/0/988/947.htm",
+      "time": "08-12 19:52",
+      "src": "IT之家"
+    },
+    {
+      "title": "内存狂涨推高老旧处理器销量 旧型号倒反天罡力压旗舰",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1572916.htm",
+      "time": "08-12 21:38",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "NVIDIA顶级计算卡Blackwell 96GB RTX PRO 6000售价飙升至16000美元",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1572912.htm",
+      "time": "08-12 19:37",
+      "src": "cnBeta.COM"
+    },
+    {
       "title": "荣耀CEO李健谈内存涨价、竞争压力：不经历磨难的企业不可能走向伟大",
       "link": "https://finance.sina.com.cn/jjxw/2026-08-12/doc-ininamic6741877.shtml",
       "time": "08-12 21:28",
@@ -830,30 +854,6 @@
     {
       "title": "Computex 2026: NVIDIA 发布 ARM 架构 PC 芯片 RTX Spark, 集成 Blackwell GPU, 对标苹果 M5",
       "link": "https://new.qq.com/rain/a/20260605A09PXY00",
-      "time": "精选",
-      "src": "资讯整理"
-    },
-    {
-      "title": "AMD 发布 Ryzen 7 7700X3D(104MB缓存,$329) 与 Radeon RX 9070 GRE(12GB,$549), 强化 1440p 游戏市场",
-      "link": "https://www.91mobiles.com/hub/computex-2026-amd-ryzen-x3d-cpus-radeon-9070-gre",
-      "time": "精选",
-      "src": "资讯整理"
-    },
-    {
-      "title": "Intel 预览 Nova Lake 桌面平台: 最高48核(16P+32E), 18A 工艺, LGA1954 新插槽, 预计2026年底上市",
-      "link": "https://www.160.com/article/12732.html",
-      "time": "精选",
-      "src": "资讯整理"
-    },
-    {
-      "title": "宏碁首发 1000Hz 电竞显示器; 微星 5K Mini-LED 双模电竞屏(5K@180Hz/2K@330Hz) 亮相 Computex 2026",
-      "link": "https://www.160.com/article/12732.html",
-      "time": "精选",
-      "src": "资讯整理"
-    },
-    {
-      "title": "微星 40 周年发布 RTX 5090 LIGHTNING Z 旗舰与内置 AI 代理的 OLED 电竞显示器",
-      "link": "https://www.160.com/article/12732.html",
       "time": "精选",
       "src": "资讯整理"
     }
@@ -1029,6 +1029,12 @@
   "anime_industry": {
     "news": [
       {
+        "title": "新海诚新动画长片年底上映 索尼获得国际发行权",
+        "link": "https://www.cnbeta.com.tw/articles/movie/1572934.htm",
+        "time": "08-12 22:39",
+        "src": "cnBeta.COM"
+      },
+      {
         "title": "《动画产业报告2025》: 市场规模达 3.84 万亿日元创历史新高, 海外占比约 56.5%",
         "link": "https://www.info35.net/hotopics/44871.html",
         "time": "精选",
@@ -1080,28 +1086,28 @@
       "src": "机核"
     },
     {
-      "title": "8月13日外盘头条：德黑兰正为地区冲突长期化做准备 美国7月核心通胀表现温和 思科公布远超预期财测",
-      "link": "https://finance.sina.com.cn/world/2026-08-13/doc-ininchpe0263675.shtml",
-      "time": "08-13 05:54",
-      "src": "环球市场播报"
+      "title": "已致刚果（金）两千余人死亡 世卫：或为有记录以来最致命埃博拉疫情",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-13/10676694.shtml",
+      "time": "08-13 06:46",
+      "src": "中新网"
     },
     {
-      "title": "伊朗：霍尔木兹海峡使用者必须“修复”海湾环境损害",
-      "link": "https://finance.sina.com.cn/world/2026-08-13/doc-ininchpa3484257.shtml",
-      "time": "08-13 05:30",
-      "src": "环球市场播报"
+      "title": "伊朗“波斯湾海峡管理局”：霍尔木兹海峡仍关闭",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-13/10676691.shtml",
+      "time": "08-13 06:26",
+      "src": "中新网"
     },
     {
-      "title": "全球最大主权财富基金披露首度持有SpaceX股份，录得创纪录1840亿美元利润",
-      "link": "https://finance.sina.com.cn/world/2026-08-13/doc-ininchnz3587116.shtml",
-      "time": "08-13 05:20",
-      "src": "环球市场播报"
+      "title": "特朗普宣称“美国完全控制着霍尔木兹海峡”",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-12/10676687.shtml",
+      "time": "08-12 22:53",
+      "src": "中新网"
     },
     {
-      "title": "特朗普称白宫新闻秘书莱维特将离职",
-      "link": "https://finance.sina.com.cn/world/2026-08-13/doc-inincaex3253509.shtml",
-      "time": "08-13 04:03",
-      "src": "环球市场播报"
+      "title": "联合国任命冬奥冠军苏翊鸣为“体育促土地”大使",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-12/10676679.shtml",
+      "time": "08-12 22:41",
+      "src": "中新网"
     }
   ],
   "econ_news": [
@@ -1124,34 +1130,34 @@
       "src": "IT之家"
     },
     {
+      "title": "B 社《上古卷轴 4 : 湮灭重制版》登陆任天堂 Switch 2 平台，49.99 美元",
+      "link": "https://www.ithome.com/0/988/949.htm",
+      "time": "08-12 19:58",
+      "src": "IT之家"
+    },
+    {
+      "title": "英伟达 RTX PRO 6000 Blackwell 涨价至 16000 美元，较上市初期上涨 87%",
+      "link": "https://www.ithome.com/0/988/947.htm",
+      "time": "08-12 19:52",
+      "src": "IT之家"
+    },
+    {
       "title": "SQUARE ENIX公布最新财报，“银海之天舟”揭晓显著带动FF14玩家回流",
       "link": "https://www.gcores.com/articles/218222",
       "time": "08-12 09:40",
       "src": "机核"
     },
     {
-      "title": "美联储料维持准备金管理购买节奏",
-      "link": "https://finance.sina.com.cn/world/2026-08-13/doc-ininchpa3493691.shtml",
-      "time": "08-13 06:03",
-      "src": "环球市场播报"
+      "title": "综艺《不想睡的星期五》定档 聚焦城市夜间消费新图景",
+      "link": "https://www.chinanews.com.cn/cul/2026/08-12/10676686.shtml",
+      "time": "08-12 22:50",
+      "src": "中新网"
     },
     {
-      "title": "8月13日外盘头条：德黑兰正为地区冲突长期化做准备 美国7月核心通胀表现温和 思科公布远超预期财测",
-      "link": "https://finance.sina.com.cn/world/2026-08-13/doc-ininchpe0263675.shtml",
-      "time": "08-13 05:54",
-      "src": "环球市场播报"
-    },
-    {
-      "title": "多空在160大关附近鏖战 交易员密切关注日元会否再遭干预",
-      "link": "https://finance.sina.com.cn/world/2026-08-13/doc-ininchnz3595290.shtml",
-      "time": "08-13 05:42",
-      "src": "环球市场播报"
-    },
-    {
-      "title": "大宗商品综述：油价走势震荡 铜价续跌 金价上涨",
-      "link": "https://finance.sina.com.cn/world/2026-08-13/doc-ininchnz3594145.shtml",
-      "time": "08-13 05:39",
-      "src": "环球市场播报"
+      "title": "央行将开展隔夜逆回购操作 每日不超过6000亿元",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-12/10676680.shtml",
+      "time": "08-12 22:34",
+      "src": "中新网"
     }
   ],
   "game_news": [
@@ -1198,10 +1204,10 @@
       "src": "IT之家"
     },
     {
-      "title": "《共鸣：瘟疫传说传承》公开全新故事预告片及独家幕后内容",
-      "link": "https://www.gcores.com/articles/218255",
-      "time": "08-13 00:00",
-      "src": "机核"
+      "title": "B 社《上古卷轴 4 : 湮灭重制版》登陆任天堂 Switch 2 平台，49.99 美元",
+      "link": "https://www.ithome.com/0/988/949.htm",
+      "time": "08-12 19:58",
+      "src": "IT之家"
     }
   ],
   "game_update": [
@@ -1282,34 +1288,34 @@
       "src": "机核"
     },
     {
-      "title": "8月13日外盘头条：德黑兰正为地区冲突长期化做准备 美国7月核心通胀表现温和 思科公布远超预期财测",
-      "link": "https://finance.sina.com.cn/world/2026-08-13/doc-ininchpe0263675.shtml",
-      "time": "08-13 05:54",
-      "src": "环球市场播报"
-    },
-    {
-      "title": "伊朗：霍尔木兹海峡使用者必须“修复”海湾环境损害",
-      "link": "https://finance.sina.com.cn/world/2026-08-13/doc-ininchpa3484257.shtml",
-      "time": "08-13 05:30",
-      "src": "环球市场播报"
-    },
-    {
       "title": "伊朗“波斯湾海峡管理局”：霍尔木兹海峡仍关闭",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-13/doc-inincaey4961556.shtml",
-      "time": "08-13 03:44",
-      "src": "央视"
+      "link": "https://www.chinanews.com.cn/gj/2026/08-13/10676691.shtml",
+      "time": "08-13 06:26",
+      "src": "中新网"
     },
     {
-      "title": "美军称已使59艘商船改变航线",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-13/doc-inincaex3241626.shtml",
-      "time": "08-13 03:07",
-      "src": "央视"
+      "title": "欧盟等32国联合声明谴责伊朗持续处决抗议者",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260812-%E6%AC%A7%E7%9B%9F%E7%AD%8932%E5%9B%BD%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E%E8%B0%B4%E8%B4%A3%E4%BC%8A%E6%9C%97%E6%8C%81%E7%BB%AD%E5%A4%84%E5%86%B3%E6%8A%97%E8%AE%AE%E8%80%85",
+      "time": "08-13 05:22",
+      "src": "REUTERS - Joha"
     },
     {
-      "title": "美伊谈判陷入僵局 德黑兰正为地区冲突长期化做准备",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-13/doc-ininavxa5034935.shtml",
-      "time": "08-13 01:12",
-      "src": "环球市场播报"
+      "title": "6月对乌军事援助升至美国停援以来最高，但长期趋势仍放缓",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260812-6%E6%9C%88%E5%AF%B9%E4%B9%8C%E5%86%9B%E4%BA%8B%E6%8F%B4%E5%8A%A9%E5%8D%87%E8%87%B3%E7%BE%8E%E5%9B%BD%E5%81%9C%E6%8F%B4%E4%BB%A5%E6%9D%A5%E6%9C%80%E9%AB%98%EF%BC%8C%E4%BD%86%E9%95%BF%E6%9C%9F%E8%B6%8B%E5%8A%BF%E4%BB%8D%E6%94%BE%E7%BC%93",
+      "time": "08-13 03:29",
+      "src": "Teresa Suarez/"
+    },
+    {
+      "title": "特朗普确认：为躲避伊朗暗杀，北约峰会后曾秘密更换飞机离开土耳其",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260812-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A1%AE%E8%AE%A4-%E4%B8%BA%E8%BA%B2%E9%81%BF%E4%BC%8A%E6%9C%97%E6%9A%97%E6%9D%80%EF%BC%8C%E5%8C%97%E7%BA%A6%E5%B3%B0%E4%BC%9A%E5%90%8E%E6%9B%BE%E7%A7%98%E5%AF%86%E6%9B%B4%E6%8D%A2%E9%A3%9E%E6%9C%BA%E7%A6%BB%E5%BC%80%E5%9C%9F%E8%80%B3%E5%85%B6",
+      "time": "08-13 03:03",
+      "src": "AP Photo/Alex "
+    },
+    {
+      "title": "乌克兰情报部门称在俄罗斯新型导弹中发现了英伟达人工智能芯片",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260812-%E4%B9%8C%E5%85%8B%E5%85%B0%E6%83%85%E6%8A%A5%E9%83%A8%E9%97%A8%E7%A7%B0%E5%9C%A8%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B0%E5%9E%8B%E5%AF%BC%E5%BC%B9%E4%B8%AD%E5%8F%91%E7%8E%B0%E4%BA%86%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%8A%AF%E7%89%87",
+      "time": "08-13 00:28",
+      "src": "REUTERS - Dado"
     }
   ]
 }
