@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13 23:04",
+  "generated_at": "2026-08-14 01:02",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -129,9 +129,9 @@
       }
     ],
     "status": {
-      "state": "已收盘",
-      "label": "今日已收盘",
-      "date": "2026-08-13"
+      "state": "未开盘",
+      "label": "今日尚未开盘",
+      "date": "2026-08-14"
     },
     "watch": [
       {
@@ -245,12 +245,6 @@
         "src": "IT之家"
       },
       {
-        "title": "成都首笔“算力贷”落地 创新“券贷协同”赋能人工智能企业发展",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-13/10677287.shtml",
-        "time": "08-13 21:41",
-        "src": "中新网"
-      },
-      {
         "title": "芯片算力热潮挤压存储组件 千元以下智能手机已难以生存",
         "link": "https://www.cnbeta.com.tw/articles/tech/1573088.htm",
         "time": "08-13 22:46",
@@ -279,6 +273,12 @@
         "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260812-%E9%9F%A9%E5%9B%BD%E5%AF%BB%E6%B1%82%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%A4%96%E7%9A%84%E6%96%B0%E6%9C%BA%E9%81%87-%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%85%AC%E5%B8%83%E6%9C%AA%E6%9D%A5%E6%8A%80%E6%9C%AF%E5%8F%91%E5%B1%95%E6%88%98%E7%95%A5%EF%BC%8C%E8%AE%A1%E5%88%922030%E5%B9%B4%E5%89%8D%E7%99%BB%E6%9C%88",
         "time": "08-13 05:45",
         "src": "Jung Yeon-je/P"
+      },
+      {
+        "title": "高盛副董事长称美联储7月未加息绝对正确 或可“拖一拖”观察更多信号",
+        "link": "https://finance.sina.com.cn/world/2026-08-13/doc-inineywi9802173.shtml",
+        "time": "08-13 23:35",
+        "src": "环球市场播报"
       }
     ]
   },
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 53814.91,
-      "pct": 0.08,
-      "chg": 44.64,
-      "amount": "715548574亿"
+      "price": 53729.7,
+      "pct": -0.08,
+      "chg": -40.57,
+      "amount": "1098821987亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26804.87,
-      "pct": 0.81,
-      "chg": 216.38,
-      "amount": "7859047251亿"
+      "price": 26781.37,
+      "pct": 0.73,
+      "chg": 192.88,
+      "amount": "11710035308亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7797.39,
-      "pct": 0.63,
-      "chg": 48.89,
-      "amount": "559171216亿"
+      "price": 7791.73,
+      "pct": 0.56,
+      "chg": 43.23,
+      "amount": "928495158亿"
     }
   ],
   "anime": {
@@ -402,20 +402,20 @@
         "rank": null
       },
       {
+        "id": 662680,
+        "name": "死灵法师！我即是天灾",
+        "name_cn": "死灵法师！我即是天灾",
+        "score": 1.0,
+        "img": "http://lain.bgm.tv/pic/cover/c/b3/da/662680_6P2P4.jpg",
+        "air_date": "2026-07-24",
+        "rank": null
+      },
+      {
         "id": 542847,
         "name": "怪物大师之穿越时空的怪物",
         "name_cn": "怪物大师之穿越时空的怪物",
         "score": null,
         "img": "http://lain.bgm.tv/pic/cover/c/82/74/542847_F06co.jpg",
-        "air_date": "2026-07-24",
-        "rank": null
-      },
-      {
-        "id": 662680,
-        "name": "死灵法师！我即是天灾",
-        "name_cn": "死灵法师！我即是天灾",
-        "score": null,
-        "img": "http://lain.bgm.tv/pic/cover/c/b3/da/662680_6P2P4.jpg",
         "air_date": "2026-07-24",
         "rank": null
       },
@@ -504,6 +504,12 @@
   "ai": {
     "news_zh": [
       {
+        "title": "英伟达 GeForce NOW 原生 Linux 应用发布：结束 Beta 测试，支持 Ubuntu 24.04 及 Flatpak 安装",
+        "link": "https://www.ithome.com/0/989/486.htm",
+        "time": "08-13 23:46",
+        "src": "IT之家"
+      },
+      {
         "title": "神秘生图模型“mona-lisa-1”曝光：含 OpenAI 来源信号，GPT-Image-2 发布三个月仍稳坐第一",
         "link": "https://www.ithome.com/0/989/476.htm",
         "time": "08-13 22:41",
@@ -544,48 +550,42 @@
         "link": "https://www.ithome.com/0/989/433.htm",
         "time": "08-13 20:07",
         "src": "IT之家"
-      },
-      {
-        "title": "大疆 Osmo 360 II 全景相机发布：1 英寸影像、14.5 级动态范围、AI 超级夜景 2.0，3299 元起",
-        "link": "https://www.ithome.com/0/989/431.htm",
-        "time": "08-13 19:59",
-        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 1382,
+        "likes": 1391,
         "downloads": 121042,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3790,
+        "likes": 3801,
         "downloads": 1605940,
         "pipeline": "image-text-to-video"
       },
       {
         "id": "Qwen/Qwen3.8-2.4T-A95B",
-        "likes": 711,
+        "likes": 737,
         "downloads": 1012,
         "pipeline": "text-generation"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 653,
+        "likes": 677,
         "downloads": 57287,
         "pipeline": "image-to-video"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-        "likes": 3297,
+        "likes": 3303,
         "downloads": 1431587,
         "pipeline": "text-generation"
       },
       {
         "id": "larryvrh/MiniMax-H3-Turbo-Lora",
-        "likes": 714,
+        "likes": 716,
         "downloads": 0,
         "pipeline": "text-to-video"
       }
@@ -759,6 +759,18 @@
   ],
   "hw_news": [
     {
+      "title": "鸿蒙智行智界 RX 新车内饰公开，D 形方向盘装载 BOOST 模式按键",
+      "link": "https://www.ithome.com/0/989/483.htm",
+      "time": "08-13 23:30",
+      "src": "IT之家"
+    },
+    {
+      "title": "三星首款 Galaxy 头戴耳机曝光，预计 2027 年初正面挑战苹果 AirPods Max",
+      "link": "https://www.ithome.com/0/989/482.htm",
+      "time": "08-13 23:24",
+      "src": "IT之家"
+    },
+    {
       "title": "英特尔锐炫 A 系列 Linux 显卡驱动获 Vulkan Video AV1 编码支持，补齐硬件编码短板",
       "link": "https://www.ithome.com/0/989/468.htm",
       "time": "08-13 22:16",
@@ -817,18 +829,6 @@
       "link": "https://finance.sina.com.cn/tech/digi/2026-08-13/doc-inineiyk4725414.shtml",
       "time": "08-13 18:07",
       "src": "IT之家"
-    },
-    {
-      "title": "小米澎湃 HyperOS 4「柔光玻璃」适配机型公布，要求骁龙 8 至尊版 / 天玑 9500 / 玄戒 O1 处理器",
-      "link": "https://finance.sina.com.cn/tech/digi/2026-08-13/doc-inineiyp3452949.shtml",
-      "time": "08-13 18:04",
-      "src": "IT之家"
-    },
-    {
-      "title": "Computex 2026: NVIDIA 发布 ARM 架构 PC 芯片 RTX Spark, 集成 Blackwell GPU, 对标苹果 M5",
-      "link": "https://new.qq.com/rain/a/20260605A09PXY00",
-      "time": "精选",
-      "src": "资讯整理"
     }
   ],
   "kojima": {
@@ -1035,10 +1035,34 @@
   },
   "intl_news": [
     {
-      "title": "张雪机车能合规进入欧盟成员国了，500RR 摩托车获颁欧盟整车型式认证证书",
-      "link": "https://www.ithome.com/0/989/424.htm",
-      "time": "08-13 19:25",
+      "title": "全球最大电池纯电动飞机 Heart Aerospace X1 完成首飞：超 1 兆瓦功率输出 + 超 11 吨起飞重量",
+      "link": "https://www.ithome.com/0/989/485.htm",
+      "time": "08-13 23:34",
       "src": "IT之家"
+    },
+    {
+      "title": "伊朗最高领袖顾问：若条件得不到满足 或升级冲突",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-13/10677337.shtml",
+      "time": "08-13 23:56",
+      "src": "中新网"
+    },
+    {
+      "title": "美官员称美国将向中东部署“华盛顿”号航母",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-13/10677336.shtml",
+      "time": "08-13 23:55",
+      "src": "中新网"
+    },
+    {
+      "title": "2025-2026国际篮联少年三人篮球总决赛收官",
+      "link": "https://www.chinanews.com.cn/ty/2026/08-13/10677331.shtml",
+      "time": "08-13 23:21",
+      "src": "中新网"
+    },
+    {
+      "title": "全球首单企业类自贸离岸债在上海发行",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-13/10677330.shtml",
+      "time": "08-13 23:03",
+      "src": "中新网"
     },
     {
       "title": "深耕特色赛事IP，2026丽水国际轮滑赛收官",
@@ -1057,30 +1081,6 @@
       "link": "https://www.chinanews.com.cn/cj/2026/08-13/10677305.shtml",
       "time": "08-13 22:00",
       "src": "中新网"
-    },
-    {
-      "title": "东南亚水果经中老铁路输华今年已超20万吨",
-      "link": "https://www.chinanews.com.cn/aseaninfo/2026/08-13/10677304.shtml",
-      "time": "08-13 21:58",
-      "src": "中新网"
-    },
-    {
-      "title": "全球南方媒体热议全球发展倡议五周年：从理念到落地的南南合作实践",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-13/10677291.shtml",
-      "time": "08-13 21:43",
-      "src": "中新网"
-    },
-    {
-      "title": "俄船队油轮加装粗犷防护网 抵御乌克兰无人机袭击",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1573022.htm",
-      "time": "08-13 15:02",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "百余名菲律宾公民在华被处理 菲防长批勒索敲诈 菲外交部促保障被捕国人福祉",
-      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260813-%E7%99%BE%E4%BD%99%E5%90%8D%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%85%AC%E6%B0%91%E5%9C%A8%E5%8D%8E%E8%A2%AB%E5%A4%84%E7%90%86-%E8%8F%B2%E9%98%B2%E9%95%BF%E6%89%B9%E5%8B%92%E7%B4%A2%E6%95%B2%E8%AF%88-%E8%8F%B2%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BF%83%E4%BF%9D%E9%9A%9C%E8%A2%AB%E6%8D%95%E5%9B%BD%E4%BA%BA%E7%A6%8F%E7%A5%89",
-      "time": "08-13 22:20",
-      "src": "© 美联社图片"
     }
   ],
   "econ_news": [
@@ -1135,6 +1135,18 @@
   ],
   "game_news": [
     {
+      "title": "VLC 播放 MP3 卡顿 33 秒？微软 Microsoft Defender 背锅",
+      "link": "https://www.ithome.com/0/989/479.htm",
+      "time": "08-13 23:12",
+      "src": "IT之家"
+    },
+    {
+      "title": "Epic 喜加一：科幻公路旅行游戏《漫漫长路：沙巫之旅》免费领取",
+      "link": "https://www.ithome.com/0/989/478.htm",
+      "time": "08-13 23:05",
+      "src": "IT之家"
+    },
+    {
       "title": "微软整合个人、企业版两套 Copilot AI 助手，为“超级应用”铺路",
       "link": "https://www.ithome.com/0/989/474.htm",
       "time": "08-13 22:39",
@@ -1150,18 +1162,6 @@
       "title": "粉丝推测《GTA6》Netflix 预告片内容，有望围绕游戏首支预告片结尾抢劫展开",
       "link": "https://www.ithome.com/0/989/432.htm",
       "time": "08-13 20:01",
-      "src": "IT之家"
-    },
-    {
-      "title": "像素武侠新作《大侠立志传：侠道相逢》8 月 19 日发售：新增男女双主角与捏脸系统，首发 61.2 元",
-      "link": "https://www.ithome.com/0/989/425.htm",
-      "time": "08-13 19:37",
-      "src": "IT之家"
-    },
-    {
-      "title": "微软 Windows 即插即用机制曝安全漏洞“Plug and Pwn”，黑客可伪造 USB 设备获取 SYSTEM 权限",
-      "link": "https://www.ithome.com/0/989/422.htm",
-      "time": "08-13 19:21",
       "src": "IT之家"
     },
     {
@@ -1249,6 +1249,18 @@
       "src": "ISW"
     },
     {
+      "title": "伊朗最高领袖顾问：若条件得不到满足 或升级冲突",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-13/10677337.shtml",
+      "time": "08-13 23:56",
+      "src": "中新网"
+    },
+    {
+      "title": "美官员称美国将向中东部署“华盛顿”号航母",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-13/10677336.shtml",
+      "time": "08-13 23:55",
+      "src": "中新网"
+    },
+    {
       "title": "佛山南海个别学生在榕江“班超”赛事期间言行不当 官方通报致歉",
       "link": "https://www.chinanews.com.cn/sh/2026/08-13/10677308.shtml",
       "time": "08-13 22:05",
@@ -1267,28 +1279,16 @@
       "src": "cnBeta.COM"
     },
     {
+      "title": "美战争部副部长谈印太司令部为何改回旧名：美军的战略重点确实在于第一岛链",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260813-%E7%BE%8E%E6%88%98%E4%BA%89%E9%83%A8%E5%89%AF%E9%83%A8%E9%95%BF%E8%B0%88%E5%8D%B0%E5%A4%AA%E5%8F%B8%E4%BB%A4%E9%83%A8%E4%B8%BA%E4%BD%95%E6%9B%B4%E5%9B%9E%E6%97%A7%E5%90%8D-%E7%BE%8E%E5%86%9B%E7%9A%84%E6%88%98%E7%95%A5%E9%87%8D%E7%82%B9%E7%A1%AE%E5%AE%9E%E5%9C%A8%E4%BA%8E%E7%AC%AC%E4%B8%80%E5%B2%9B%E9%93%BE",
+      "time": "08-14 00:25",
+      "src": "© 美联社图片"
+    },
+    {
       "title": "白宫报告称40余国存在较高的涉华非法转运风险 正开发AI“侦测边境”系统",
       "link": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20260813-%E7%99%BD%E5%AE%AB%E6%8A%A5%E5%91%8A%E7%A7%B040%E4%BD%99%E5%9B%BD%E5%AD%98%E5%9C%A8%E8%BE%83%E9%AB%98%E7%9A%84%E6%B6%89%E5%8D%8E%E9%9D%9E%E6%B3%95%E8%BD%AC%E8%BF%90%E9%A3%8E%E9%99%A9-%E6%AD%A3%E5%BC%80%E5%8F%91ai-%E4%BE%A6%E6%B5%8B%E8%BE%B9%E5%A2%83-%E7%B3%BB%E7%BB%9F",
       "time": "08-13 21:38",
       "src": "© 法新社图片"
-    },
-    {
-      "title": "一审被判有罪后 涉擅拍韩军设施和美航母的中国留学生上诉",
-      "link": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20260813-%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%9C%89%E7%BD%AA%E5%90%8E-%E6%B6%89%E6%93%85%E6%8B%8D%E9%9F%A9%E5%86%9B%E8%AE%BE%E6%96%BD%E5%92%8C%E7%BE%8E%E8%88%AA%E6%AF%8D%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E4%B8%8A%E8%AF%89",
-      "time": "08-13 21:09",
-      "src": "© 路透社图片"
-    },
-    {
-      "title": "中美对抗激烈 亚太军演频繁",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%9B%BC%E8%B0%B7%E4%B8%93%E6%A0%8F/20260813-%E4%B8%AD%E7%BE%8E%E5%AF%B9%E6%8A%97%E6%BF%80%E7%83%88-%E4%BA%9A%E5%A4%AA%E5%86%9B%E6%BC%94%E9%A2%91%E7%B9%81",
-      "time": "08-13 19:06",
-      "src": "法广RFI"
-    },
-    {
-      "title": "欧盟等32国联合声明谴责伊朗持续处决抗议者",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260812-%E6%AC%A7%E7%9B%9F%E7%AD%8932%E5%9B%BD%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E%E8%B0%B4%E8%B4%A3%E4%BC%8A%E6%9C%97%E6%8C%81%E7%BB%AD%E5%A4%84%E5%86%B3%E6%8A%97%E8%AE%AE%E8%80%85",
-      "time": "08-13 05:22",
-      "src": "REUTERS - Joha"
     }
   ]
 }
