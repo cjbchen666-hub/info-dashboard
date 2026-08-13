@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14 04:52",
+  "generated_at": "2026-08-14 06:51",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,6 +233,12 @@
     ],
     "news": [
       {
+        "title": "备战 IPO 上市：彭博社称 2026 年 OpenAI 年化营收有望翻番达 400 亿美元",
+        "link": "https://www.ithome.com/0/989/490.htm",
+        "time": "08-14 06:49",
+        "src": "IT之家"
+      },
+      {
         "title": "双机械臂 + 4cm 高越障：小米米家扫拖机器人 5 京东 1510 元，上下水 1610 元",
         "link": "https://www.ithome.com/0/989/464.htm",
         "time": "08-13 22:07",
@@ -269,15 +275,9 @@
         "src": "cnBeta.COM"
       },
       {
-        "title": "8月14日收盘：标普500指数收盘创历史新高 受通胀数据低于预期及油价下跌提振",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininfmmw4338336.shtml",
-        "time": "08-14 04:25",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "高盛副董事长称美联储7月未加息绝对正确 或可“拖一拖”观察更多信号",
-        "link": "https://finance.sina.com.cn/world/2026-08-13/doc-inineywi9802173.shtml",
-        "time": "08-13 23:35",
+        "title": "8月14日隔夜要闻：标普500指数收盘创历史新高 原油结束连涨走势 存储板块同步走强",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininfrtu4243104.shtml",
+        "time": "08-14 06:13",
         "src": "环球市场播报"
       }
     ]
@@ -305,7 +305,7 @@
       "price": 26803.03,
       "pct": 0.81,
       "chg": 214.54,
-      "amount": "19847128219亿"
+      "amount": "20071045756亿"
     },
     {
       "name": "标普500",
@@ -327,7 +327,7 @@
         "score": 7.8,
         "img": "http://lain.bgm.tv/pic/cover/c/8b/c0/545917_GoNvI.jpg",
         "air_date": "2026-07-03",
-        "rank": 456
+        "rank": 452
       },
       {
         "id": 517106,
@@ -336,7 +336,7 @@
         "score": 6.8,
         "img": "http://lain.bgm.tv/pic/cover/c/5d/00/517106_Il9mk.jpg",
         "air_date": "2026-07-17",
-        "rank": 3323
+        "rank": 3301
       },
       {
         "id": 624691,
@@ -354,7 +354,7 @@
         "score": 6.0,
         "img": "http://lain.bgm.tv/pic/cover/c/fa/0b/638151_q95Ls.jpg",
         "air_date": "2026-07-03",
-        "rank": 7249
+        "rank": 7257
       },
       {
         "id": 571895,
@@ -363,7 +363,7 @@
         "score": 5.6,
         "img": "http://lain.bgm.tv/pic/cover/c/a2/a1/571895_0KwUw.jpg",
         "air_date": "2026-07-10",
-        "rank": 8410
+        "rank": 8441
       },
       {
         "id": 613438,
@@ -372,7 +372,7 @@
         "score": 5.6,
         "img": "http://lain.bgm.tv/pic/cover/c/15/fb/613438_pJVpS.jpg",
         "air_date": "2026-07-03",
-        "rank": 7265
+        "rank": 7308
       },
       {
         "id": 627136,
@@ -381,7 +381,7 @@
         "score": 5.6,
         "img": "http://lain.bgm.tv/pic/cover/c/01/8f/627136_hb0Jd.jpg",
         "air_date": "2026-07-03",
-        "rank": 8948
+        "rank": 8963
       },
       {
         "id": 664856,
@@ -504,6 +504,12 @@
   "ai": {
     "news_zh": [
       {
+        "title": "备战 IPO 上市：彭博社称 2026 年 OpenAI 年化营收有望翻番达 400 亿美元",
+        "link": "https://www.ithome.com/0/989/490.htm",
+        "time": "08-14 06:49",
+        "src": "IT之家"
+      },
+      {
         "title": "英伟达 GeForce NOW 原生 Linux 应用发布：结束 Beta 测试，支持 Ubuntu 24.04 及 Flatpak 安装",
         "link": "https://www.ithome.com/0/989/486.htm",
         "time": "08-13 23:46",
@@ -544,48 +550,42 @@
         "link": "https://www.ithome.com/0/989/446.htm",
         "time": "08-13 20:52",
         "src": "IT之家"
-      },
-      {
-        "title": "苹果 Apple TV 新增《泰坦尼克号》《E.T.外星人》《我，机器人》等经典影片，订阅用户可在线观看",
-        "link": "https://www.ithome.com/0/989/433.htm",
-        "time": "08-13 20:07",
-        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 1407,
+        "likes": 1411,
         "downloads": 121042,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3814,
+        "likes": 3818,
         "downloads": 1605940,
         "pipeline": "image-text-to-video"
       },
       {
         "id": "Qwen/Qwen3.8-2.4T-A95B",
-        "likes": 765,
+        "likes": 774,
         "downloads": 1012,
         "pipeline": "text-generation"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 705,
+        "likes": 712,
         "downloads": 57287,
         "pipeline": "image-to-video"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-        "likes": 3311,
+        "likes": 3314,
         "downloads": 1431587,
         "pipeline": "text-generation"
       },
       {
         "id": "lightx2v/Minimax-h3-Turbo",
-        "likes": 453,
+        "likes": 457,
         "downloads": 91455,
         "pipeline": "image-to-video"
       }
@@ -1008,6 +1008,12 @@
         "src": "IT之家"
       },
       {
+        "title": "高达100% 美国将对进口无人机及零部件征收关税",
+        "link": "https://www.chinanews.com.cn/gj/2026/08-14/10677339.shtml",
+        "time": "08-14 06:28",
+        "src": "中新网"
+      },
+      {
         "title": "《动画产业报告2025》: 市场规模达 3.84 万亿日元创历史新高, 海外占比约 56.5%",
         "link": "https://www.info35.net/hotopics/44871.html",
         "time": "精选",
@@ -1085,7 +1091,13 @@
   ],
   "econ_news": [
     {
-      "title": "法拉第未来 2026 财年半年报归母亏损 7488.5 万美元，同比扭亏为盈",
+      "title": "备战 IPO 上市：彭博社称 2026 年 OpenAI 年化营收有望翻番达 400 亿美元",
+      "link": "https://www.ithome.com/0/989/490.htm",
+      "time": "08-14 06:49",
+      "src": "IT之家"
+    },
+    {
+      "title": "法拉第未来 2026 财年半年报归母亏损 7488.5 万美元，同比亏损收窄 44.51%",
       "link": "https://www.ithome.com/0/989/489.htm",
       "time": "08-14 04:23",
       "src": "IT之家"
@@ -1103,6 +1115,12 @@
       "src": "机核"
     },
     {
+      "title": "高达100% 美国将对进口无人机及零部件征收关税",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-14/10677339.shtml",
+      "time": "08-14 06:28",
+      "src": "中新网"
+    },
+    {
       "title": "2026年上半年香港商品进出口同比量价齐升",
       "link": "https://www.chinanews.com.cn/dwq/2026/08-13/10677323.shtml",
       "time": "08-13 22:42",
@@ -1118,18 +1136,6 @@
       "title": "OpenAI营收负责人丹尼斯・德雷瑟即将离职 数日之内第二位高管出走",
       "link": "https://www.cnbeta.com.tw/articles/tech/1573092.htm",
       "time": "08-14 01:11",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "投资者押注Anthropic估值达2万亿美元 冲击史上最大IPO",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1573072.htm",
-      "time": "08-13 21:59",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "SpaceX完成首轮禁售期解禁考验 市值大涨 5000 亿美元",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1573050.htm",
-      "time": "08-13 21:29",
       "src": "cnBeta.COM"
     }
   ],
@@ -1249,6 +1255,12 @@
       "src": "ISW"
     },
     {
+      "title": "高达100% 美国将对进口无人机及零部件征收关税",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-14/10677339.shtml",
+      "time": "08-14 06:28",
+      "src": "中新网"
+    },
+    {
       "title": "伊朗最高领袖顾问：若条件得不到满足 或升级冲突",
       "link": "https://www.chinanews.com.cn/gj/2026/08-13/10677337.shtml",
       "time": "08-13 23:56",
@@ -1283,12 +1295,6 @@
       "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260813-%E4%B9%8C%E5%85%8B%E5%85%B0%E5%AF%B9%E4%BF%84%E7%BD%97%E6%96%AF%E5%85%B3%E9%94%AE%E7%9F%B3%E6%B2%B9%E9%83%A8%E9%97%A8%E9%95%BF%E8%BE%BE%E6%95%B0%E6%9C%88%E8%A2%AD%E5%87%BB",
       "time": "08-14 04:24",
       "src": "© Réseaux soci"
-    },
-    {
-      "title": "美战争部副部长谈印太司令部为何改回旧名：美军的战略重点确实在于第一岛链",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260813-%E7%BE%8E%E6%88%98%E4%BA%89%E9%83%A8%E5%89%AF%E9%83%A8%E9%95%BF%E8%B0%88%E5%8D%B0%E5%A4%AA%E5%8F%B8%E4%BB%A4%E9%83%A8%E4%B8%BA%E4%BD%95%E6%9B%B4%E5%9B%9E%E6%97%A7%E5%90%8D-%E7%BE%8E%E5%86%9B%E7%9A%84%E6%88%98%E7%95%A5%E9%87%8D%E7%82%B9%E7%A1%AE%E5%AE%9E%E5%9C%A8%E4%BA%8E%E7%AC%AC%E4%B8%80%E5%B2%9B%E9%93%BE",
-      "time": "08-14 00:25",
-      "src": "© 美联社图片"
     }
   ]
 }
