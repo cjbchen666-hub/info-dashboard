@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14 01:02",
+  "generated_at": "2026-08-14 03:12",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -269,15 +269,15 @@
         "src": "cnBeta.COM"
       },
       {
-        "title": "韩国寻求半导体外的新机遇：李在明公布未来技术发展战略，计划2030年前登月",
-        "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260812-%E9%9F%A9%E5%9B%BD%E5%AF%BB%E6%B1%82%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%A4%96%E7%9A%84%E6%96%B0%E6%9C%BA%E9%81%87-%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%85%AC%E5%B8%83%E6%9C%AA%E6%9D%A5%E6%8A%80%E6%9C%AF%E5%8F%91%E5%B1%95%E6%88%98%E7%95%A5%EF%BC%8C%E8%AE%A1%E5%88%922030%E5%B9%B4%E5%89%8D%E7%99%BB%E6%9C%88",
-        "time": "08-13 05:45",
-        "src": "Jung Yeon-je/P"
-      },
-      {
         "title": "高盛副董事长称美联储7月未加息绝对正确 或可“拖一拖”观察更多信号",
         "link": "https://finance.sina.com.cn/world/2026-08-13/doc-inineywi9802173.shtml",
         "time": "08-13 23:35",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "油价下跌且通胀接连报喜 交易员不再充分消化美联储年内加息的情景",
+        "link": "https://finance.sina.com.cn/world/2026-08-13/doc-inineywi9797601.shtml",
+        "time": "08-13 23:21",
         "src": "环球市场播报"
       }
     ]
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 53729.7,
-      "pct": -0.08,
-      "chg": -40.57,
-      "amount": "1098821987亿"
+      "price": 53794.82,
+      "pct": 0.05,
+      "chg": 24.55,
+      "amount": "1470272772亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26781.37,
-      "pct": 0.73,
-      "chg": 192.88,
-      "amount": "11710035308亿"
+      "price": 26847.69,
+      "pct": 0.97,
+      "chg": 259.2,
+      "amount": "15124305108亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7791.73,
-      "pct": 0.56,
-      "chg": 43.23,
-      "amount": "928495158亿"
+      "price": 7803.43,
+      "pct": 0.71,
+      "chg": 54.93,
+      "amount": "1314757571亿"
     }
   ],
   "anime": {
@@ -555,39 +555,39 @@
     "hf": [
       {
         "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 1391,
+        "likes": 1400,
         "downloads": 121042,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3801,
+        "likes": 3812,
         "downloads": 1605940,
         "pipeline": "image-text-to-video"
       },
       {
         "id": "Qwen/Qwen3.8-2.4T-A95B",
-        "likes": 737,
+        "likes": 755,
         "downloads": 1012,
         "pipeline": "text-generation"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 677,
+        "likes": 694,
         "downloads": 57287,
         "pipeline": "image-to-video"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-        "likes": 3303,
+        "likes": 3308,
         "downloads": 1431587,
         "pipeline": "text-generation"
       },
       {
-        "id": "larryvrh/MiniMax-H3-Turbo-Lora",
-        "likes": 716,
-        "downloads": 0,
-        "pipeline": "text-to-video"
+        "id": "lightx2v/Minimax-h3-Turbo",
+        "likes": 451,
+        "downloads": 91455,
+        "pipeline": "image-to-video"
       }
     ],
     "models": [
@@ -807,18 +807,6 @@
       "src": "cnBeta.COM"
     },
     {
-      "title": "联想新一代卷轴屏笔记本曝光：代号“天鹅” 屏幕可横向拉伸",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1573014.htm",
-      "time": "08-13 12:56",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "英特尔CEO暗示重返内存制造市场 还重新考虑将内存与CPU堆叠",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1573012.htm",
-      "time": "08-13 12:55",
-      "src": "cnBeta.COM"
-    },
-    {
       "title": "TDS REVIEW | 铁三角 ATH-SQ1TW2NC 降噪真无线耳机体验",
       "link": "https://sspai.com/post/113338",
       "time": "08-13 15:01",
@@ -829,6 +817,18 @@
       "link": "https://finance.sina.com.cn/tech/digi/2026-08-13/doc-inineiyk4725414.shtml",
       "time": "08-13 18:07",
       "src": "IT之家"
+    },
+    {
+      "title": "小米澎湃 HyperOS 4「柔光玻璃」适配机型公布，要求骁龙 8 至尊版 / 天玑 9500 / 玄戒 O1 处理器",
+      "link": "https://finance.sina.com.cn/tech/digi/2026-08-13/doc-inineiyp3452949.shtml",
+      "time": "08-13 18:04",
+      "src": "IT之家"
+    },
+    {
+      "title": "Computex 2026: NVIDIA 发布 ARM 架构 PC 芯片 RTX Spark, 集成 Blackwell GPU, 对标苹果 M5",
+      "link": "https://new.qq.com/rain/a/20260605A09PXY00",
+      "time": "精选",
+      "src": "资讯整理"
     }
   ],
   "kojima": {
@@ -1109,6 +1109,12 @@
       "src": "中新网"
     },
     {
+      "title": "OpenAI营收负责人丹尼斯・德雷瑟即将离职 数日之内第二位高管出走",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1573092.htm",
+      "time": "08-14 01:11",
+      "src": "cnBeta.COM"
+    },
+    {
       "title": "投资者押注Anthropic估值达2万亿美元 冲击史上最大IPO",
       "link": "https://www.cnbeta.com.tw/articles/tech/1573072.htm",
       "time": "08-13 21:59",
@@ -1124,12 +1130,6 @@
       "title": "韩国股市10天内上涨22% 芯片股重拾涨势",
       "link": "https://www.cnbeta.com.tw/articles/tech/1573048.htm",
       "time": "08-13 21:21",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "高通宣布推出Snapdragon C系列处理器 锁定300美元入门级笔记本市场",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1573038.htm",
-      "time": "08-13 15:19",
       "src": "cnBeta.COM"
     }
   ],
