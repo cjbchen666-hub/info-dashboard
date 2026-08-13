@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14 03:12",
+  "generated_at": "2026-08-14 04:52",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -269,15 +269,15 @@
         "src": "cnBeta.COM"
       },
       {
-        "title": "高盛副董事长称美联储7月未加息绝对正确 或可“拖一拖”观察更多信号",
-        "link": "https://finance.sina.com.cn/world/2026-08-13/doc-inineywi9802173.shtml",
-        "time": "08-13 23:35",
+        "title": "8月14日收盘：标普500指数收盘创历史新高 受通胀数据低于预期及油价下跌提振",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininfmmw4338336.shtml",
+        "time": "08-14 04:25",
         "src": "环球市场播报"
       },
       {
-        "title": "油价下跌且通胀接连报喜 交易员不再充分消化美联储年内加息的情景",
-        "link": "https://finance.sina.com.cn/world/2026-08-13/doc-inineywi9797601.shtml",
-        "time": "08-13 23:21",
+        "title": "高盛副董事长称美联储7月未加息绝对正确 或可“拖一拖”观察更多信号",
+        "link": "https://finance.sina.com.cn/world/2026-08-13/doc-inineywi9802173.shtml",
+        "time": "08-13 23:35",
         "src": "环球市场播报"
       }
     ]
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 53794.82,
-      "pct": 0.05,
-      "chg": 24.55,
-      "amount": "1470272772亿"
+      "price": 53839.99,
+      "pct": 0.13,
+      "chg": 69.72,
+      "amount": "2246482048亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26847.69,
-      "pct": 0.97,
-      "chg": 259.2,
-      "amount": "15124305108亿"
+      "price": 26803.03,
+      "pct": 0.81,
+      "chg": 214.54,
+      "amount": "19847128219亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7803.43,
-      "pct": 0.71,
-      "chg": 54.93,
-      "amount": "1314757571亿"
+      "price": 7798.99,
+      "pct": 0.65,
+      "chg": 50.49,
+      "amount": "2093975036亿"
     }
   ],
   "anime": {
@@ -555,37 +555,37 @@
     "hf": [
       {
         "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 1400,
+        "likes": 1407,
         "downloads": 121042,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3812,
+        "likes": 3814,
         "downloads": 1605940,
         "pipeline": "image-text-to-video"
       },
       {
         "id": "Qwen/Qwen3.8-2.4T-A95B",
-        "likes": 755,
+        "likes": 765,
         "downloads": 1012,
         "pipeline": "text-generation"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 694,
+        "likes": 705,
         "downloads": 57287,
         "pipeline": "image-to-video"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-        "likes": 3308,
+        "likes": 3311,
         "downloads": 1431587,
         "pipeline": "text-generation"
       },
       {
         "id": "lightx2v/Minimax-h3-Turbo",
-        "likes": 451,
+        "likes": 453,
         "downloads": 91455,
         "pipeline": "image-to-video"
       }
@@ -1085,6 +1085,12 @@
   ],
   "econ_news": [
     {
+      "title": "法拉第未来 2026 财年半年报归母亏损 7488.5 万美元，同比扭亏为盈",
+      "link": "https://www.ithome.com/0/989/489.htm",
+      "time": "08-14 04:23",
+      "src": "IT之家"
+    },
+    {
       "title": "维珍银河新一代 Delta 级飞船首飞推迟至 2027 年，75 万美元太空票获超额认购",
       "link": "https://www.ithome.com/0/989/470.htm",
       "time": "08-13 22:24",
@@ -1124,12 +1130,6 @@
       "title": "SpaceX完成首轮禁售期解禁考验 市值大涨 5000 亿美元",
       "link": "https://www.cnbeta.com.tw/articles/tech/1573050.htm",
       "time": "08-13 21:29",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "韩国股市10天内上涨22% 芯片股重拾涨势",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1573048.htm",
-      "time": "08-13 21:21",
       "src": "cnBeta.COM"
     }
   ],
@@ -1279,16 +1279,16 @@
       "src": "cnBeta.COM"
     },
     {
+      "title": "为逼迫普京谈判 乌克兰无人机继续袭击俄罗斯关键石油设施",
+      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260813-%E4%B9%8C%E5%85%8B%E5%85%B0%E5%AF%B9%E4%BF%84%E7%BD%97%E6%96%AF%E5%85%B3%E9%94%AE%E7%9F%B3%E6%B2%B9%E9%83%A8%E9%97%A8%E9%95%BF%E8%BE%BE%E6%95%B0%E6%9C%88%E8%A2%AD%E5%87%BB",
+      "time": "08-14 04:24",
+      "src": "© Réseaux soci"
+    },
+    {
       "title": "美战争部副部长谈印太司令部为何改回旧名：美军的战略重点确实在于第一岛链",
       "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260813-%E7%BE%8E%E6%88%98%E4%BA%89%E9%83%A8%E5%89%AF%E9%83%A8%E9%95%BF%E8%B0%88%E5%8D%B0%E5%A4%AA%E5%8F%B8%E4%BB%A4%E9%83%A8%E4%B8%BA%E4%BD%95%E6%9B%B4%E5%9B%9E%E6%97%A7%E5%90%8D-%E7%BE%8E%E5%86%9B%E7%9A%84%E6%88%98%E7%95%A5%E9%87%8D%E7%82%B9%E7%A1%AE%E5%AE%9E%E5%9C%A8%E4%BA%8E%E7%AC%AC%E4%B8%80%E5%B2%9B%E9%93%BE",
       "time": "08-14 00:25",
       "src": "© 美联社图片"
-    },
-    {
-      "title": "白宫报告称40余国存在较高的涉华非法转运风险 正开发AI“侦测边境”系统",
-      "link": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20260813-%E7%99%BD%E5%AE%AB%E6%8A%A5%E5%91%8A%E7%A7%B040%E4%BD%99%E5%9B%BD%E5%AD%98%E5%9C%A8%E8%BE%83%E9%AB%98%E7%9A%84%E6%B6%89%E5%8D%8E%E9%9D%9E%E6%B3%95%E8%BD%AC%E8%BF%90%E9%A3%8E%E9%99%A9-%E6%AD%A3%E5%BC%80%E5%8F%91ai-%E4%BE%A6%E6%B5%8B%E8%BE%B9%E5%A2%83-%E7%B3%BB%E7%BB%9F",
-      "time": "08-13 21:38",
-      "src": "© 法新社图片"
     }
   ]
 }
