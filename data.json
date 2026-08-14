@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14 21:21",
+  "generated_at": "2026-08-14 22:58",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -239,28 +239,16 @@
         "src": "IT之家"
       },
       {
-        "title": "三星电子 2026 财年上半年归母净利润 118.37 万亿韩元，同比增长 813.18%",
-        "link": "https://www.ithome.com/0/989/800.htm",
-        "time": "08-14 16:49",
-        "src": "IT之家"
+        "title": "新西兰前央行行长：亚太面临多重挑战，中国AI带来新选择",
+        "link": "https://www.chinanews.com.cn/gj/2026/08-14/10677976.shtml",
+        "time": "08-14 22:19",
+        "src": "中新网"
       },
       {
-        "title": "起亚汽车 2026 财年半年报归母净利润 4.16 万亿韩元，同比下降 10.79%",
-        "link": "https://www.ithome.com/0/989/792.htm",
-        "time": "08-14 16:18",
-        "src": "IT之家"
-      },
-      {
-        "title": "现代汽车 2026 财年上半年归母净利润 4.86 万亿韩元，同比下降 21.11%",
-        "link": "https://www.ithome.com/0/989/773.htm",
-        "time": "08-14 15:52",
-        "src": "IT之家"
-      },
-      {
-        "title": "SK 海力士今年上半年归母净利润 134.15 万亿韩元，同比增长 788.16%",
-        "link": "https://www.ithome.com/0/989/772.htm",
-        "time": "08-14 15:52",
-        "src": "IT之家"
+        "title": "LG电子与英伟达签署机器人、AI工厂和移动出行领域合作备忘录",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1573250.htm",
+        "time": "08-14 21:53",
+        "src": "cnBeta.COM"
       },
       {
         "title": "FF发布Q2财报：营收历史新高同比增1400% 机器人成核心增长引擎",
@@ -273,6 +261,18 @@
         "link": "https://www.cnbeta.com.tw/articles/tech/1573184.htm",
         "time": "08-14 11:20",
         "src": "cnBeta.COM"
+      },
+      {
+        "title": "三星电子上半年研发投入创纪录达27万亿韩元",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhxpk2528591.shtml",
+        "time": "08-14 21:34",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "开盘：标普500微升，有望收获周线连涨",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhxpm9299121.shtml",
+        "time": "08-14 21:30",
+        "src": "环球市场播报"
       },
       {
         "title": "盘前：市场重新涌入AI 纳指期货涨0.28%",
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 53839.99,
-      "pct": 0.13,
-      "chg": 69.72,
-      "amount": "2246482048亿"
+      "price": 53750.47,
+      "pct": -0.17,
+      "chg": -89.52,
+      "amount": "491194972亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26803.03,
-      "pct": 0.81,
-      "chg": 214.54,
-      "amount": "20071045756亿"
+      "price": 26732.53,
+      "pct": -0.26,
+      "chg": -70.5,
+      "amount": "6328498960亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7798.99,
-      "pct": 0.65,
-      "chg": 50.49,
-      "amount": "2093975036亿"
+      "price": 7790.65,
+      "pct": -0.11,
+      "chg": -8.34,
+      "amount": "449053630亿"
     }
   ],
   "anime": {
@@ -504,6 +504,24 @@
   "ai": {
     "news_zh": [
       {
+        "title": "消息称理想汽车探索自研云端推理芯片，沿用智驾芯片数据流架构",
+        "link": "https://www.ithome.com/0/989/947.htm",
+        "time": "08-14 22:48",
+        "src": "IT之家"
+      },
+      {
+        "title": "科技行业史上最大收购之一，SpaceX 豪掷 600 亿美元拿下 AI 编程公司 Cursor",
+        "link": "https://www.ithome.com/0/989/944.htm",
+        "time": "08-14 22:34",
+        "src": "IT之家"
+      },
+      {
+        "title": "vivo Y31T 手机规格曝光：6.75 寸 LCD 屏幕，骁龙 4 Gen 2 芯片",
+        "link": "https://www.ithome.com/0/989/938.htm",
+        "time": "08-14 21:50",
+        "src": "IT之家"
+      },
+      {
         "title": "谷歌 Chrome 浏览器新功能曝光：Gemini 帮你修改弱密码和重复密码",
         "link": "https://www.ithome.com/0/989/933.htm",
         "time": "08-14 21:15",
@@ -532,60 +550,42 @@
         "link": "https://www.ithome.com/0/989/810.htm",
         "time": "08-14 17:35",
         "src": "IT之家"
-      },
-      {
-        "title": "70 天超 10 款模型：CNBC 称美国限制反而催化中国 AI 创新，加速进入全球企业业务体系",
-        "link": "https://www.ithome.com/0/989/804.htm",
-        "time": "08-14 17:06",
-        "src": "IT之家"
-      },
-      {
-        "title": "英伟达据称已锁定台积电A16工艺 Feynman GPU有望于2028年下半年量产",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1573244.htm",
-        "time": "08-14 20:31",
-        "src": "cnBeta.COM"
-      },
-      {
-        "title": "英伟达弃用交流电 力推800V直流供电",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1573232.htm",
-        "time": "08-14 20:19",
-        "src": "cnBeta.COM"
       }
     ],
     "hf": [
       {
         "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 1475,
+        "likes": 1480,
         "downloads": 165300,
         "pipeline": "image-text-to-text"
       },
       {
-        "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3886,
-        "downloads": 1997541,
-        "pipeline": "image-text-to-video"
-      },
-      {
         "id": "Qwen/Qwen3.8-2.4T-A95B",
-        "likes": 869,
+        "likes": 878,
         "downloads": 3832,
         "pipeline": "text-generation"
       },
       {
+        "id": "MiniMaxAI/MiniMax-H3",
+        "likes": 3892,
+        "downloads": 1997541,
+        "pipeline": "image-text-to-video"
+      },
+      {
         "id": "Lightricks/LTX-2.5",
-        "likes": 793,
+        "likes": 804,
         "downloads": 207830,
         "pipeline": "image-to-video"
       },
       {
         "id": "MiniMaxAI/MiniMax-Music3",
-        "likes": 545,
+        "likes": 566,
         "downloads": 63,
         "pipeline": "text-to-audio"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-        "likes": 3360,
+        "likes": 3364,
         "downloads": 1606491,
         "pipeline": "text-generation"
       }
@@ -783,28 +783,22 @@
       "src": "IT之家"
     },
     {
-      "title": "B450 仍能战斗：技嘉推出 B450M D3HP 主板",
-      "link": "https://www.ithome.com/0/989/801.htm",
-      "time": "08-14 16:53",
-      "src": "IT之家"
-    },
-    {
-      "title": "技嘉“雕妹”系列扩展至显卡，AORUS GeForce RTX 5060 ARI 8G 上线",
-      "link": "https://www.ithome.com/0/989/794.htm",
-      "time": "08-14 16:35",
-      "src": "IT之家"
-    },
-    {
-      "title": "AMD 旧款处理器被曝内存地址映射漏洞，可攻击硬件保护区域",
-      "link": "https://www.ithome.com/0/989/793.htm",
-      "time": "08-14 16:31",
-      "src": "IT之家"
+      "title": "英睿达被曝售后违约：承诺更换故障DDR5内存却拒发新品 且强扣原件仅退原款",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1573248.htm",
+      "time": "08-14 21:53",
+      "src": "cnBeta.COM"
     },
     {
       "title": "TDS REVIEW | 铁三角 ATH-SQ1TW2NC 降噪真无线耳机体验",
       "link": "https://sspai.com/post/113338",
       "time": "08-13 15:01",
       "src": "少数派"
+    },
+    {
+      "title": "安全不是限制性能的枷锁：智界 RX 一键 BOOST 模式提升 10% 扭矩，动力底盘座舱三域联动",
+      "link": "https://finance.sina.com.cn/tech/digi/2026-08-14/doc-ininhnxp2828395.shtml",
+      "time": "08-14 15:07",
+      "src": "IT之家"
     },
     {
       "title": "Computex 2026: NVIDIA 发布 ARM 架构 PC 芯片 RTX Spark, 集成 Blackwell GPU, 对标苹果 M5",
@@ -826,6 +820,12 @@
     },
     {
       "title": "宏碁首发 1000Hz 电竞显示器; 微星 5K Mini-LED 双模电竞屏(5K@180Hz/2K@330Hz) 亮相 Computex 2026",
+      "link": "https://www.160.com/article/12732.html",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "微星 40 周年发布 RTX 5090 LIGHTNING Z 旗舰与内置 AI 代理的 OLED 电竞显示器",
       "link": "https://www.160.com/article/12732.html",
       "time": "精选",
       "src": "资讯整理"
@@ -1065,6 +1065,12 @@
   },
   "intl_news": [
     {
+      "title": "法国宪法委员会否决 15 岁以下未成年人社媒禁令",
+      "link": "https://www.ithome.com/0/989/940.htm",
+      "time": "08-14 21:57",
+      "src": "IT之家"
+    },
+    {
       "title": "70 天超 10 款模型：CNBC 称美国限制反而催化中国 AI 创新，加速进入全球企业业务体系",
       "link": "https://www.ithome.com/0/989/804.htm",
       "time": "08-14 17:06",
@@ -1077,33 +1083,21 @@
       "src": "机核"
     },
     {
-      "title": "普京登上俄日争议岛屿 中国外交部回应",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-14/10677906.shtml",
-      "time": "08-14 21:09",
+      "title": "为“毛孩子”造新家 浙江纺企转型“掘金”全球市场",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-14/10677987.shtml",
+      "time": "08-14 22:47",
       "src": "中新网"
     },
     {
-      "title": "中东部降雨持续 各地各部门多举措应对",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-14/10677907.shtml",
-      "time": "08-14 21:07",
+      "title": "2026香港国际茶文化论坛举行 探讨中国茶产业国际化发展",
+      "link": "https://www.chinanews.com.cn/dwq/2026/08-14/10677986.shtml",
+      "time": "08-14 22:46",
       "src": "中新网"
     },
     {
-      "title": "第四届国际基础科学大会“物理之夜”专场沙龙活动在北京举办",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-14/10677884.shtml",
-      "time": "08-14 20:48",
-      "src": "中新网"
-    },
-    {
-      "title": "外交部发言人介绍APEC第三次高官会筹备情况",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-14/10677874.shtml",
-      "time": "08-14 20:26",
-      "src": "中新网"
-    },
-    {
-      "title": "【中亚专线】44个国家和地区客商新疆喀交会觅商机",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-14/10677879.shtml",
-      "time": "08-14 20:26",
+      "title": "外媒观察：00后排队、外国游客争相体验，工业旅游正在重新定义“打卡中国”",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-14/10677975.shtml",
+      "time": "08-14 22:18",
       "src": "中新网"
     },
     {
@@ -1111,9 +1105,33 @@
       "link": "https://www.cnbeta.com.tw/articles/tech/1573234.htm",
       "time": "08-14 20:20",
       "src": "cnBeta.COM"
+    },
+    {
+      "title": "受强劲AI需求推动 中芯国际第二季度营收首破30亿美元并上调代工价格",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1573210.htm",
+      "time": "08-14 13:04",
+      "src": "cnBeta.COM"
     }
   ],
   "econ_news": [
+    {
+      "title": "苹果地图 Apple Maps 广告位招商中：美国、加拿大商家提前预订最高每月返现 1000 美元",
+      "link": "https://www.ithome.com/0/989/946.htm",
+      "time": "08-14 22:42",
+      "src": "IT之家"
+    },
+    {
+      "title": "科技行业史上最大收购之一，SpaceX 豪掷 600 亿美元拿下 AI 编程公司 Cursor",
+      "link": "https://www.ithome.com/0/989/944.htm",
+      "time": "08-14 22:34",
+      "src": "IT之家"
+    },
+    {
+      "title": "马斯克 2025 年账面薪酬 1583 亿美元：相当于特斯拉普通员工的 252 万倍，4.23 秒收入抵对方一年",
+      "link": "https://www.ithome.com/0/989/935.htm",
+      "time": "08-14 21:32",
+      "src": "IT之家"
+    },
     {
       "title": "英特尔高管确认 Raptor Lake 未来数年不停产：酷睿 i5-14600K 涨至 250 美元仍缺货，DDR5 内存价格失控逼用户退回 DDR4 平台",
       "link": "https://www.ithome.com/0/989/926.htm",
@@ -1139,31 +1157,25 @@
       "src": "IT之家"
     },
     {
-      "title": "三星电子 2026 财年上半年归母净利润 118.37 万亿韩元，同比增长 813.18%",
-      "link": "https://www.ithome.com/0/989/800.htm",
-      "time": "08-14 16:49",
-      "src": "IT之家"
-    },
-    {
-      "title": "起亚汽车 2026 财年半年报归母净利润 4.16 万亿韩元，同比下降 10.79%",
-      "link": "https://www.ithome.com/0/989/792.htm",
-      "time": "08-14 16:18",
-      "src": "IT之家"
-    },
-    {
-      "title": "现代汽车 2026 财年上半年归母净利润 4.86 万亿韩元，同比下降 21.11%",
-      "link": "https://www.ithome.com/0/989/773.htm",
-      "time": "08-14 15:52",
-      "src": "IT之家"
-    },
-    {
-      "title": "消息称阿里拟 15 亿美元卖出游戏业务“灵犀互娱”，信宸资本有望接手",
-      "link": "https://www.ithome.com/0/989/788.htm",
-      "time": "08-14 16:10",
-      "src": "IT之家"
+      "title": "广州“消费帮扶工惠行”累计带动特色产品销售超30亿元",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-14/10677981.shtml",
+      "time": "08-14 22:32",
+      "src": "中新网"
     }
   ],
   "game_news": [
+    {
+      "title": "《羊蹄山之魂》游戏 1.604 更新上线，体积超 30GB",
+      "link": "https://www.ithome.com/0/989/948.htm",
+      "time": "08-14 22:50",
+      "src": "IT之家"
+    },
+    {
+      "title": "脱离微软 Xbox 后，《午夜以南》Steam 发行商已变更为 Compulsion Games",
+      "link": "https://www.ithome.com/0/989/943.htm",
+      "time": "08-14 22:29",
+      "src": "IT之家"
+    },
     {
       "title": "2599 元：零刻 EQ mini 迷你主机开售，英特尔酷睿 3 304 处理器、12GB 内存",
       "link": "https://www.ithome.com/0/989/907.htm",
@@ -1192,18 +1204,6 @@
       "title": "微软 Mico 聊天机器人疑似被“降职”，从 Copilot 语音功能移至学习中心",
       "link": "https://www.ithome.com/0/989/810.htm",
       "time": "08-14 17:35",
-      "src": "IT之家"
-    },
-    {
-      "title": "国产武侠游戏《影之刃零》PC 版将首发支持 DLSS 4.5 和光追",
-      "link": "https://www.ithome.com/0/989/802.htm",
-      "time": "08-14 16:55",
-      "src": "IT之家"
-    },
-    {
-      "title": "消息称阿里拟 15 亿美元卖出游戏业务“灵犀互娱”，信宸资本有望接手",
-      "link": "https://www.ithome.com/0/989/788.htm",
-      "time": "08-14 16:10",
       "src": "IT之家"
     },
     {
@@ -1279,16 +1279,10 @@
       "src": "ISW"
     },
     {
-      "title": "中越边境小城何以凭一颗榴莲令八方来客“榴恋忘返”？",
-      "link": "https://www.chinanews.com.cn/aseaninfo/2026/08-14/10677885.shtml",
-      "time": "08-14 20:33",
+      "title": "《2025年南海区海洋生态保护修复公报》发布",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-14/10677985.shtml",
+      "time": "08-14 22:37",
       "src": "中新网"
-    },
-    {
-      "title": "美国将对无人机及其零部件征收关税 最高税率100%",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1573168.htm",
-      "time": "08-14 08:18",
-      "src": "cnBeta.COM"
     },
     {
       "title": "澳总理与特朗普通话谈关税等问题 并指中方导弹试射在太平洋引发极大担忧",
@@ -1319,6 +1313,12 @@
       "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260813-%E7%BE%8E%E6%88%98%E4%BA%89%E9%83%A8%E5%89%AF%E9%83%A8%E9%95%BF%E8%B0%88%E5%8D%B0%E5%A4%AA%E5%8F%B8%E4%BB%A4%E9%83%A8%E4%B8%BA%E4%BD%95%E6%9B%B4%E5%9B%9E%E6%97%A7%E5%90%8D-%E7%BE%8E%E5%86%9B%E7%9A%84%E6%88%98%E7%95%A5%E9%87%8D%E7%82%B9%E7%A1%AE%E5%AE%9E%E5%9C%A8%E4%BA%8E%E7%AC%AC%E4%B8%80%E5%B2%9B%E9%93%BE",
       "time": "08-14 00:25",
       "src": "© 美联社图片"
+    },
+    {
+      "title": "美軍林肯號航母航行250天 引發官兵人道狀況擔憂",
+      "link": "https://www.bbc.com/zhongwen/articles/ce34eqlg2ppo/trad?at_medium=RSS&at_campaign=rss",
+      "time": "08-14 14:31",
+      "src": "BBC中文"
     }
   ]
 }
