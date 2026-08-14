@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14 19:02",
+  "generated_at": "2026-08-14 21:21",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -263,22 +263,22 @@
         "src": "IT之家"
       },
       {
-        "title": "学者：人形机器人是“人类环境兼容形态” 非替代所有机器人",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-14/10677809.shtml",
-        "time": "08-14 18:50",
-        "src": "中新网"
+        "title": "FF发布Q2财报：营收历史新高同比增1400% 机器人成核心增长引擎",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1573186.htm",
+        "time": "08-14 11:21",
+        "src": "cnBeta.COM"
       },
       {
-        "title": "7月末中国社会融资规模存量超463万亿元 同比增7.4%",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-14/10677797.shtml",
-        "time": "08-14 18:43",
-        "src": "中新网"
+        "title": "纽约时报：美国想自己造人形机器人 供应链却绕不开中国",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1573184.htm",
+        "time": "08-14 11:20",
+        "src": "cnBeta.COM"
       },
       {
-        "title": "证监会发布上市公司2025年年度财务报告会计监管报告",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-14/10677789.shtml",
-        "time": "08-14 18:30",
-        "src": "中新网"
+        "title": "盘前：市场重新涌入AI 纳指期货涨0.28%",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhxpm9267555.shtml",
+        "time": "08-14 20:31",
+        "src": "环球市场播报"
       }
     ]
   },
@@ -504,6 +504,12 @@
   "ai": {
     "news_zh": [
       {
+        "title": "谷歌 Chrome 浏览器新功能曝光：Gemini 帮你修改弱密码和重复密码",
+        "link": "https://www.ithome.com/0/989/933.htm",
+        "time": "08-14 21:15",
+        "src": "IT之家"
+      },
+      {
         "title": "消息称英伟达下一代 GPU“Feynman”使用台积电 A16 制程",
         "link": "https://www.ithome.com/0/989/902.htm",
         "time": "08-14 18:46",
@@ -534,58 +540,52 @@
         "src": "IT之家"
       },
       {
-        "title": "芯擎科技自研车规级 7 纳米 AI 加速芯片“天工 100”量产，实现千元级硬件成本",
-        "link": "https://www.ithome.com/0/989/739.htm",
-        "time": "08-14 15:31",
-        "src": "IT之家"
+        "title": "英伟达据称已锁定台积电A16工艺 Feynman GPU有望于2028年下半年量产",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1573244.htm",
+        "time": "08-14 20:31",
+        "src": "cnBeta.COM"
       },
       {
-        "title": "OpenAI 首席营收官丹尼斯离职，系本周第二位出走核心高管",
-        "link": "https://www.ithome.com/0/989/738.htm",
-        "time": "08-14 15:30",
-        "src": "IT之家"
-      },
-      {
-        "title": "MiniMax-Music3 音乐模型发布：AI 生成最长 5 分钟歌曲",
-        "link": "https://www.ithome.com/0/989/722.htm",
-        "time": "08-14 15:15",
-        "src": "IT之家"
+        "title": "英伟达弃用交流电 力推800V直流供电",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1573232.htm",
+        "time": "08-14 20:19",
+        "src": "cnBeta.COM"
       }
     ],
     "hf": [
       {
         "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 1470,
+        "likes": 1475,
         "downloads": 165300,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3871,
+        "likes": 3886,
         "downloads": 1997541,
         "pipeline": "image-text-to-video"
       },
       {
         "id": "Qwen/Qwen3.8-2.4T-A95B",
-        "likes": 858,
+        "likes": 869,
         "downloads": 3832,
         "pipeline": "text-generation"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 774,
+        "likes": 793,
         "downloads": 207830,
         "pipeline": "image-to-video"
       },
       {
         "id": "MiniMaxAI/MiniMax-Music3",
-        "likes": 514,
+        "likes": 545,
         "downloads": 63,
         "pipeline": "text-to-audio"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-        "likes": 3354,
+        "likes": 3360,
         "downloads": 1606491,
         "pipeline": "text-generation"
       }
@@ -759,6 +759,18 @@
   ],
   "hw_news": [
     {
+      "title": "英特尔高管确认 Raptor Lake 未来数年不停产：酷睿 i5-14600K 涨至 250 美元仍缺货，DDR5 内存价格失控逼用户退回 DDR4 平台",
+      "link": "https://www.ithome.com/0/989/926.htm",
+      "time": "08-14 21:01",
+      "src": "IT之家"
+    },
+    {
+      "title": "2599 元：零刻 EQ mini 迷你主机开售，英特尔酷睿 3 304 处理器、12GB 内存",
+      "link": "https://www.ithome.com/0/989/907.htm",
+      "time": "08-14 19:06",
+      "src": "IT之家"
+    },
+    {
       "title": "狼蛛 SC880 系列鼠标开售：PAW3950/3955，到手价 359-399 元",
       "link": "https://www.ithome.com/0/989/903.htm",
       "time": "08-14 18:49",
@@ -786,18 +798,6 @@
       "title": "AMD 旧款处理器被曝内存地址映射漏洞，可攻击硬件保护区域",
       "link": "https://www.ithome.com/0/989/793.htm",
       "time": "08-14 16:31",
-      "src": "IT之家"
-    },
-    {
-      "title": "WIKO 新款 Hi MateBook D 16 锐龙版笔记本电脑开售：AMD R7 H 255 + 24G + 512G 售 6199 元",
-      "link": "https://www.ithome.com/0/989/786.htm",
-      "time": "08-14 16:00",
-      "src": "IT之家"
-    },
-    {
-      "title": "KTC 公告：显示器产品线后续或将进行价格上调",
-      "link": "https://www.ithome.com/0/989/743.htm",
-      "time": "08-14 15:36",
       "src": "IT之家"
     },
     {
@@ -1014,6 +1014,18 @@
         "src": "机核"
       },
       {
+        "title": "国产动画电影《牛来》上映9天票房7169元 观众看完想哭",
+        "link": "https://www.cnbeta.com.tw/articles/movie/1573242.htm",
+        "time": "08-14 20:25",
+        "src": "cnBeta.COM"
+      },
+      {
+        "title": "《宝可梦：波可比亚》销量突破500万 任天堂股价大涨7%",
+        "link": "https://www.cnbeta.com.tw/articles/game/1573228.htm",
+        "time": "08-14 20:11",
+        "src": "cnBeta.COM"
+      },
+      {
         "title": "新海诚回应新作电影细节 Crunchyroll与索尼联合发行",
         "link": "https://www.cnbeta.com.tw/articles/comic/1573202.htm",
         "time": "08-14 11:30",
@@ -1024,6 +1036,12 @@
         "link": "https://www.cnbeta.com.tw/articles/tech/1573190.htm",
         "time": "08-14 11:23",
         "src": "cnBeta.COM"
+      },
+      {
+        "title": "《宝可梦 Pokopia》销量突破500万份，任天堂股价大涨7%",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhxpk2480973.shtml",
+        "time": "08-14 20:01",
+        "src": "环球市场播报"
       },
       {
         "title": "《动画产业报告2025》: 市场规模达 3.84 万亿日元创历史新高, 海外占比约 56.5%",
@@ -1042,12 +1060,6 @@
         "link": "https://www.info35.net/hotopics/44871.html",
         "time": "精选",
         "src": "资讯整理"
-      },
-      {
-        "title": "专家示警\"串流泡沫到顶\": KADOKAWA、TBS动画事业、Studio KAI 相继亏损或大幅减益",
-        "link": "https://www.ucmanga.com/a/ri-ben-dong-hua-ye-jing-bao-xiang-qi-da-han-jie-lian-yu-sun-zhuan-jia-shi-jing-chuan-liu-pao-mo-dao-ding-liao.html",
-        "time": "精选",
-        "src": "资讯整理"
       }
     ]
   },
@@ -1059,49 +1071,55 @@
       "src": "IT之家"
     },
     {
-      "title": "诺兰票房最高电影《奥德赛》幕后：全球首部全程使用 IMAX 胶片拍摄电影",
-      "link": "https://www.ithome.com/0/989/746.htm",
-      "time": "08-14 15:42",
-      "src": "IT之家"
-    },
-    {
       "title": "《宝可梦Pokopia》全球累计销量突破500万份",
       "link": "https://www.gcores.com/articles/218355",
       "time": "08-14 13:40",
       "src": "机核"
     },
     {
-      "title": "IAI国际人工智能青创大赛举行 中国选手获赞展现全球竞争力",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-14/10677815.shtml",
-      "time": "08-14 18:54",
+      "title": "普京登上俄日争议岛屿 中国外交部回应",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-14/10677906.shtml",
+      "time": "08-14 21:09",
       "src": "中新网"
     },
     {
-      "title": "德国西部发生森林火灾 1800多人被疏散",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-14/10677799.shtml",
-      "time": "08-14 18:48",
+      "title": "中东部降雨持续 各地各部门多举措应对",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-14/10677907.shtml",
+      "time": "08-14 21:07",
       "src": "中新网"
     },
     {
-      "title": "（机遇香港）多元活力赋能文旅　香港持续“圈粉”全球游客",
-      "link": "https://www.chinanews.com.cn/dwq/2026/08-14/10677800.shtml",
-      "time": "08-14 18:38",
+      "title": "第四届国际基础科学大会“物理之夜”专场沙龙活动在北京举办",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-14/10677884.shtml",
+      "time": "08-14 20:48",
       "src": "中新网"
     },
     {
-      "title": "受强劲AI需求推动 中芯国际第二季度营收首破30亿美元并上调代工价格",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1573210.htm",
-      "time": "08-14 13:04",
-      "src": "cnBeta.COM"
+      "title": "外交部发言人介绍APEC第三次高官会筹备情况",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-14/10677874.shtml",
+      "time": "08-14 20:26",
+      "src": "中新网"
     },
     {
-      "title": "全球最大全电动飞机Heart Aerospace X1完成首飞",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1573204.htm",
-      "time": "08-14 12:58",
+      "title": "【中亚专线】44个国家和地区客商新疆喀交会觅商机",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-14/10677879.shtml",
+      "time": "08-14 20:26",
+      "src": "中新网"
+    },
+    {
+      "title": "从苹果到福特，中国科技为何越来越难以被全球企业忽视？",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1573234.htm",
+      "time": "08-14 20:20",
       "src": "cnBeta.COM"
     }
   ],
   "econ_news": [
+    {
+      "title": "英特尔高管确认 Raptor Lake 未来数年不停产：酷睿 i5-14600K 涨至 250 美元仍缺货，DDR5 内存价格失控逼用户退回 DDR4 平台",
+      "link": "https://www.ithome.com/0/989/926.htm",
+      "time": "08-14 21:01",
+      "src": "IT之家"
+    },
     {
       "title": "紫光国微 2026 年上半年归母净利润 7.98 亿元，同比增长 15.29%",
       "link": "https://www.ithome.com/0/989/887.htm",
@@ -1143,15 +1161,15 @@
       "link": "https://www.ithome.com/0/989/788.htm",
       "time": "08-14 16:10",
       "src": "IT之家"
-    },
-    {
-      "title": "SK 海力士今年上半年归母净利润 134.15 万亿韩元，同比增长 788.16%",
-      "link": "https://www.ithome.com/0/989/772.htm",
-      "time": "08-14 15:52",
-      "src": "IT之家"
     }
   ],
   "game_news": [
+    {
+      "title": "2599 元：零刻 EQ mini 迷你主机开售，英特尔酷睿 3 304 处理器、12GB 内存",
+      "link": "https://www.ithome.com/0/989/907.htm",
+      "time": "08-14 19:06",
+      "src": "IT之家"
+    },
     {
       "title": "Steam 喜加一：原价 59 元的冒险点击游戏《德波尼亚》免费领",
       "link": "https://www.ithome.com/0/989/885.htm",
@@ -1186,12 +1204,6 @@
       "title": "消息称阿里拟 15 亿美元卖出游戏业务“灵犀互娱”，信宸资本有望接手",
       "link": "https://www.ithome.com/0/989/788.htm",
       "time": "08-14 16:10",
-      "src": "IT之家"
-    },
-    {
-      "title": "《彩虹六号：攻势》游戏“攻坚测试”定档 9 月 15 日，即日起可预约",
-      "link": "https://www.ithome.com/0/989/747.htm",
-      "time": "08-14 15:42",
       "src": "IT之家"
     },
     {
@@ -1267,9 +1279,9 @@
       "src": "ISW"
     },
     {
-      "title": "塔阿边境发生流弹伤人事件 中使馆发布安全提醒",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-14/10677795.shtml",
-      "time": "08-14 18:48",
+      "title": "中越边境小城何以凭一颗榴莲令八方来客“榴恋忘返”？",
+      "link": "https://www.chinanews.com.cn/aseaninfo/2026/08-14/10677885.shtml",
+      "time": "08-14 20:33",
       "src": "中新网"
     },
     {
