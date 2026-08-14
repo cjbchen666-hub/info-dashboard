@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15 01:00",
+  "generated_at": "2026-08-15 03:03",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 53688.96,
-      "pct": -0.28,
-      "chg": -151.03,
-      "amount": "797114631亿"
+      "price": 53780.0,
+      "pct": -0.11,
+      "chg": -59.99,
+      "amount": "1057620863亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26675.56,
-      "pct": -0.48,
-      "chg": -127.47,
-      "amount": "10202437162亿"
+      "price": 26692.91,
+      "pct": -0.41,
+      "chg": -110.12,
+      "amount": "12937920088亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7779.48,
-      "pct": -0.25,
-      "chg": -19.51,
-      "amount": "773236761亿"
+      "price": 7783.03,
+      "pct": -0.2,
+      "chg": -15.96,
+      "amount": "1042477033亿"
     }
   ],
   "anime": {
@@ -589,37 +589,37 @@
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 8442,
+        "likes": 8639,
         "downloads": 2,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 1487,
+        "likes": 1497,
         "downloads": 165300,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "Qwen/Qwen3.8-2.4T-A95B",
-        "likes": 895,
+        "likes": 901,
         "downloads": 3832,
         "pipeline": "text-generation"
       },
       {
         "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3900,
+        "likes": 3908,
         "downloads": 1997541,
         "pipeline": "image-text-to-video"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 817,
+        "likes": 831,
         "downloads": 207830,
         "pipeline": "image-to-video"
       },
       {
         "id": "MiniMaxAI/MiniMax-Music3",
-        "likes": 599,
+        "likes": 613,
         "downloads": 63,
         "pipeline": "text-to-audio"
       }
