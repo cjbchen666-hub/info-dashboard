@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15 10:57",
+  "generated_at": "2026-08-15 12:38",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,6 +233,18 @@
     ],
     "news": [
       {
+        "title": "2026 E-Town机器人消费节在京启动 推出工业科技研学线路",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-15/10678102.shtml",
+        "time": "08-15 12:02",
+        "src": "中新网"
+      },
+      {
+        "title": "香港与内地企业共商农产品出海 预估意向成交额超18亿港元",
+        "link": "https://www.chinanews.com.cn/dwq/2026/08-15/10678097.shtml",
+        "time": "08-15 11:58",
+        "src": "中新网"
+      },
+      {
         "title": "三星电子上半年研发投入创纪录达27万亿韩元",
         "link": "https://www.cnbeta.com.tw/articles/tech/1573288.htm",
         "time": "08-15 09:25",
@@ -267,18 +279,6 @@
         "link": "https://finance.sina.com.cn/wm/2026-08-15/doc-ininiusy2177435.shtml",
         "time": "08-15 06:10",
         "src": "滚动播报"
-      },
-      {
-        "title": "伯克希尔增持达美航空和Alphabet 新CEO开始动用巨额现金储备",
-        "link": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiusy2172774.shtml",
-        "time": "08-15 06:03",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "美国股市：标普500指数从纪录高位回落 美国消费出现降温迹象",
-        "link": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiusu3740746.shtml",
-        "time": "08-15 05:22",
-        "src": "环球市场播报"
       }
     ]
   },
@@ -574,10 +574,10 @@
         "src": "IT之家"
       },
       {
-        "title": "硅光新时代来了？英伟达全面投产 Spectrum-X，全球首款量产 200G/lane CPO 交换机",
-        "link": "https://www.ithome.com/0/989/970.htm",
-        "time": "08-15 06:53",
-        "src": "IT之家"
+        "title": "2026 E-Town机器人消费节在京启动 推出工业科技研学线路",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-15/10678102.shtml",
+        "time": "08-15 12:02",
+        "src": "中新网"
       },
       {
         "title": "英伟达大幅收缩对OpenAI数据中心的融资担保",
@@ -589,37 +589,37 @@
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 9112,
+        "likes": 9194,
         "downloads": 2,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 1522,
+        "likes": 1523,
         "downloads": 165300,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "Qwen/Qwen3.8-2.4T-A95B",
-        "likes": 922,
+        "likes": 927,
         "downloads": 3832,
         "pipeline": "text-generation"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 852,
+        "likes": 889,
         "downloads": 0,
         "pipeline": ""
       },
       {
         "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3924,
+        "likes": 3926,
         "downloads": 1997541,
         "pipeline": "image-text-to-video"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 862,
+        "likes": 866,
         "downloads": 207830,
         "pipeline": "image-to-video"
       }
@@ -836,16 +836,16 @@
       "src": "少数派"
     },
     {
-      "title": "老虎环球Q2押注AI“二线选手”：新进Cerebras和AMD，增持英特尔，十大重仓股全线减持",
-      "link": "https://finance.sina.com.cn/stock/t/2026-08-15/doc-ininiqma2277311.shtml",
-      "time": "08-15 03:52",
-      "src": ""
-    },
-    {
       "title": "安全不是限制性能的枷锁：智界 RX 一键 BOOST 模式提升 10% 扭矩，动力底盘座舱三域联动",
       "link": "https://finance.sina.com.cn/tech/digi/2026-08-14/doc-ininhnxp2828395.shtml",
       "time": "08-14 15:07",
       "src": "IT之家"
+    },
+    {
+      "title": "老虎环球Q2押注AI“二线选手”：新进Cerebras和AMD，增持英特尔，十大重仓股全线减持",
+      "link": "https://finance.sina.com.cn/stock/t/2026-08-15/doc-ininiqma2277311.shtml",
+      "time": "08-15 03:52",
+      "src": ""
     },
     {
       "title": "Computex 2026: NVIDIA 发布 ARM 架构 PC 芯片 RTX Spark, 集成 Blackwell GPU, 对标苹果 M5",
@@ -1037,6 +1037,12 @@
   "anime_industry": {
     "news": [
       {
+        "title": "迪士尼皮克斯动画《寻梦环游记 2》发布首张概念图，2029 年上映",
+        "link": "https://www.ithome.com/0/990/026.htm",
+        "time": "08-15 11:49",
+        "src": "IT之家"
+      },
+      {
         "title": "蜘蛛侠动画电影三部曲终章《蜘蛛侠：超越宇宙》前 4 分钟高清画面流出",
         "link": "https://www.ithome.com/0/989/987.htm",
         "time": "08-15 08:43",
@@ -1089,26 +1095,20 @@
         "link": "https://www.info35.net/hotopics/44871.html",
         "time": "精选",
         "src": "资讯整理"
-      },
-      {
-        "title": "专家示警\"串流泡沫到顶\": KADOKAWA、TBS动画事业、Studio KAI 相继亏损或大幅减益",
-        "link": "https://www.ucmanga.com/a/ri-ben-dong-hua-ye-jing-bao-xiang-qi-da-han-jie-lian-yu-sun-zhuan-jia-shi-jing-chuan-liu-pao-mo-dao-ding-liao.html",
-        "time": "精选",
-        "src": "资讯整理"
       }
     ]
   },
   "intl_news": [
     {
-      "title": "漫威索尼《蜘蛛侠：崭新之日》官宣延长放映至 9 月 28 日，全球票房破 116 亿人民币拿下“票冠”",
-      "link": "https://www.ithome.com/0/990/006.htm",
-      "time": "08-15 10:08",
+      "title": "全球首秀，奔驰官宣全新 GLE SUV 长轴距版亮相成都车展",
+      "link": "https://www.ithome.com/0/990/018.htm",
+      "time": "08-15 11:07",
       "src": "IT之家"
     },
     {
-      "title": "硅光新时代来了？英伟达全面投产 Spectrum-X，全球首款量产 200G/lane CPO 交换机",
-      "link": "https://www.ithome.com/0/989/970.htm",
-      "time": "08-15 06:53",
+      "title": "漫威索尼《蜘蛛侠：崭新之日》官宣延长放映至 9 月 28 日，全球票房破 116 亿人民币拿下“票冠”",
+      "link": "https://www.ithome.com/0/990/006.htm",
+      "time": "08-15 10:08",
       "src": "IT之家"
     },
     {
@@ -1118,34 +1118,34 @@
       "src": "机核"
     },
     {
-      "title": "欧盟气候公约大使：中国生态环境法典具里程碑意义",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-15/10678059.shtml",
-      "time": "08-15 10:00",
+      "title": "（经济观察）中国咖啡市场持续看涨 海南或成全球咖啡入华新通道",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-15/10678137.shtml",
+      "time": "08-15 12:29",
       "src": "中新网"
     },
     {
-      "title": "唯有正视历史真相，才能避免悲剧重演（国际论坛）",
-      "link": "https://www.chinanews.com.cn/ll/2026/08-15/10678058.shtml",
-      "time": "08-15 09:58",
-      "src": "中新网"
+      "title": "企业级SSD消耗全球48%的NAND闪存供应",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1573268.htm",
+      "time": "08-15 08:53",
+      "src": "cnBeta.COM"
     },
     {
-      "title": "WTT欧洲大满贯赛瑞典站：中国组合林诗栋/蒯曼混双登顶",
-      "link": "https://www.chinanews.com.cn/ty/2026/08-15/10678047.shtml",
-      "time": "08-15 09:46",
-      "src": "中新网"
+      "title": "从苹果到福特，中国科技为何越来越难以被全球企业忽视？",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1573234.htm",
+      "time": "08-14 20:20",
+      "src": "cnBeta.COM"
     },
     {
-      "title": "英国威尔士一架轻型飞机坠毁致两人遇难",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-15/10678036.shtml",
-      "time": "08-15 09:25",
-      "src": "中新网"
+      "title": "《观点》周刊：中国发挥“贸易伪装”艺术至极致，特朗普的关税几同虚设",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260814-%E8%A7%82%E7%82%B9-%E5%91%A8%E5%88%8A-%E4%B8%AD%E5%9B%BD%E5%8F%91%E6%8C%A5-%E8%B4%B8%E6%98%93%E4%BC%AA%E8%A3%85-%E8%89%BA%E6%9C%AF%E8%87%B3%E6%9E%81%E8%87%B4%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E5%85%B3%E7%A8%8E%E5%87%A0%E5%90%8C%E8%99%9A%E8%AE%BE",
+      "time": "08-15 05:03",
+      "src": "AP - Hau Dinh"
     },
     {
-      "title": "特朗普再放话瞄准霍尔木兹海峡 伊朗：不会被武力威慑吓倒",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-15/10678045.shtml",
-      "time": "08-15 09:12",
-      "src": "中新网"
+      "title": "特朗普称等击败伊朗后，将“宣布霍尔木兹海峡属于美国领土”",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260814-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%AD%89%E5%87%BB%E8%B4%A5%E4%BC%8A%E6%9C%97%E5%90%8E%EF%BC%8C%E5%B0%86-%E5%AE%A3%E5%B8%83%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E5%B1%9E%E4%BA%8E%E7%BE%8E%E5%9B%BD%E9%A2%86%E5%9C%9F",
+      "time": "08-15 07:06",
+      "src": "© Emrah Gurel "
     }
   ],
   "econ_news": [
@@ -1162,21 +1162,21 @@
       "src": "IT之家"
     },
     {
-      "title": "翻新工厂、淘汰“祖宗之法”，福特斥 20 亿美元推进经济型纯电皮卡 Fathom 项目",
-      "link": "https://www.ithome.com/0/989/967.htm",
-      "time": "08-14 23:55",
-      "src": "IT之家"
-    },
-    {
-      "title": "中消协发布绿色消费指南 涵盖四大领域50条行动建议",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-15/10678069.shtml",
-      "time": "08-15 10:33",
+      "title": "（经济观察）中国咖啡市场持续看涨 海南或成全球咖啡入华新通道",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-15/10678137.shtml",
+      "time": "08-15 12:29",
       "src": "中新网"
     },
     {
-      "title": "31个省区市“晒账本”——上半年地方财政运行平稳",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-15/10678066.shtml",
-      "time": "08-15 10:28",
+      "title": "粤桂协作再落子 三江林下经济湾区觅商机",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-15/10678125.shtml",
+      "time": "08-15 12:27",
+      "src": "中新网"
+    },
+    {
+      "title": "2026 E-Town机器人消费节在京启动 推出工业科技研学线路",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-15/10678102.shtml",
+      "time": "08-15 12:02",
       "src": "中新网"
     },
     {
@@ -1199,6 +1199,12 @@
     }
   ],
   "game_news": [
+    {
+      "title": "三星 One UI 9 将支持卸载预装微软 SwiftKey 输入法，释放约 55MB 空间",
+      "link": "https://www.ithome.com/0/990/024.htm",
+      "time": "08-15 11:40",
+      "src": "IT之家"
+    },
     {
       "title": "微软 Copilot Notebooks 扩展支持 Markdown，强化 AI 资料分析",
       "link": "https://www.ithome.com/0/990/013.htm",
@@ -1240,12 +1246,6 @@
       "title": "微软推送 Win11 26x00.9267 RP 预览版：自由指定任务栏停靠位置",
       "link": "https://www.ithome.com/0/989/973.htm",
       "time": "08-15 07:16",
-      "src": "IT之家"
-    },
-    {
-      "title": "微软发布 Win11 26H1 RP 28000.2796 预览版：文件管理器适配 KB / MB / GB 单位",
-      "link": "https://www.ithome.com/0/989/969.htm",
-      "time": "08-15 01:23",
       "src": "IT之家"
     }
   ],
@@ -1315,12 +1315,6 @@
       "src": "ISW"
     },
     {
-      "title": "特朗普再放话瞄准霍尔木兹海峡 伊朗：不会被武力威慑吓倒",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-15/10678045.shtml",
-      "time": "08-15 09:12",
-      "src": "中新网"
-    },
-    {
       "title": "600亿美元科技收购落地 SpaceX正式杀入“Vibe Coding”战场",
       "link": "https://www.cnbeta.com.tw/articles/tech/1573302.htm",
       "time": "08-15 09:32",
@@ -1355,6 +1349,12 @@
       "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260814-%E7%BE%8E%E7%89%B9%E7%A7%8D%E4%BD%9C%E6%88%98%E5%8F%B8%E4%BB%A4%E9%83%A8%E5%8F%B8%E4%BB%A4%E5%88%B0%E8%AE%BF-%E5%87%86%E5%A4%87%E5%8A%A0%E5%BC%BA%E4%B8%8E%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%AD%89%E4%BA%9A%E6%B4%B2%E5%9B%BD%E5%AE%B6%E7%89%B9%E7%A7%8D%E9%83%A8%E9%98%9F%E7%9A%84%E6%88%98%E5%A4%87%E6%BC%94%E4%B9%A0",
       "time": "08-14 23:31",
       "src": "© 美联社图片"
+    },
+    {
+      "title": "澳总理与特朗普通话谈关税等问题 并指中方导弹试射在太平洋引发极大担忧",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260814-%E6%BE%B3%E6%80%BB%E7%90%86%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D%E8%B0%88%E5%85%B3%E7%A8%8E%E7%AD%89%E9%97%AE%E9%A2%98-%E5%B9%B6%E6%8C%87%E4%B8%AD%E6%96%B9%E5%AF%BC%E5%BC%B9%E8%AF%95%E5%B0%84%E5%9C%A8%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%BC%95%E5%8F%91%E6%9E%81%E5%A4%A7%E6%8B%85%E5%BF%A7",
+      "time": "08-14 18:38",
+      "src": "© 网络图片"
     }
   ]
 }
