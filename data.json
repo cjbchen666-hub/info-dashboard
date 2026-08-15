@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15 18:29",
+  "generated_at": "2026-08-15 20:50",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,6 +233,12 @@
     ],
     "news": [
       {
+        "title": "英伟达 CEO 黄仁勋出手安抚 AI 算力市场：部分 AI 投资项目可获最高 25% 残值支持",
+        "link": "https://www.ithome.com/0/990/154.htm",
+        "time": "08-15 18:41",
+        "src": "IT之家"
+      },
+      {
         "title": "北京 2026 E-Town 机器人消费节启动：促消费资金提至 1800 万元，首次打造机器人消费街",
         "link": "https://www.ithome.com/0/990/110.htm",
         "time": "08-15 16:25",
@@ -243,6 +249,12 @@
         "link": "https://www.ithome.com/0/990/105.htm",
         "time": "08-15 16:06",
         "src": "IT之家"
+      },
+      {
+        "title": "机器人带队助阵“东北超” 沈阳“赛博啦啦队”硬控全场",
+        "link": "http://www.chinanews.com.cn/ty/shipin/2026/08-15/news1065523.shtml",
+        "time": "08-15 20:16",
+        "src": "中新网"
       },
       {
         "title": "美国旧金山企业推出人形机器人保洁服务 每小时30美元",
@@ -267,18 +279,6 @@
         "link": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkfht2333709.shtml",
         "time": "08-15 10:18",
         "src": "一财网"
-      },
-      {
-        "title": "央行二季度货币政策报告：综合运用并适时调整货币政策工具",
-        "link": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininkfhv8772447.shtml",
-        "time": "08-15 09:30",
-        "src": "滚动播报"
-      },
-      {
-        "title": "8月15日隔夜要闻：标普500周线三连阳 油价上涨 金价反弹 特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
-        "link": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiusz8963314.shtml",
-        "time": "08-15 07:03",
-        "src": "环球市场播报"
       }
     ]
   },
@@ -538,6 +538,24 @@
   "ai": {
     "news_zh": [
       {
+        "title": "索尼 PS5 Pro 增强版 PSSR 技术揭秘：让 AI 少干活，画质反而更好",
+        "link": "https://www.ithome.com/0/990/159.htm",
+        "time": "08-15 19:19",
+        "src": "IT之家"
+      },
+      {
+        "title": "OpenAI 奥尔特曼：大学读四年可能有点久，两年就够了",
+        "link": "https://www.ithome.com/0/990/156.htm",
+        "time": "08-15 18:45",
+        "src": "IT之家"
+      },
+      {
+        "title": "英伟达 CEO 黄仁勋出手安抚 AI 算力市场：部分 AI 投资项目可获最高 25% 残值支持",
+        "link": "https://www.ithome.com/0/990/154.htm",
+        "time": "08-15 18:41",
+        "src": "IT之家"
+      },
+      {
         "title": "调查发现美国年轻人普遍不信任 AI，以及主张“拥抱 AI”的科技巨头",
         "link": "https://www.ithome.com/0/990/119.htm",
         "time": "08-15 17:30",
@@ -566,60 +584,42 @@
         "link": "https://www.ithome.com/0/990/074.htm",
         "time": "08-15 15:44",
         "src": "IT之家"
-      },
-      {
-        "title": "全球程序员都在浪费 token 白送钱，Anthropic 分享 Claude Code 六大省钱技巧",
-        "link": "https://www.ithome.com/0/990/072.htm",
-        "time": "08-15 15:35",
-        "src": "IT之家"
-      },
-      {
-        "title": "7 月环比增 32%，弗莱尔称 OpenAI 企业 AI 业务收入已超消费者业务",
-        "link": "https://www.ithome.com/0/990/066.htm",
-        "time": "08-15 15:27",
-        "src": "IT之家"
-      },
-      {
-        "title": "Anthropic 宣布为 Claude 生成文本加入水印后，部分用户担心“留痕”选择退订",
-        "link": "https://www.ithome.com/0/990/062.htm",
-        "time": "08-15 15:16",
-        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 9425,
+        "likes": 9490,
         "downloads": 91917,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 1538,
+        "likes": 1548,
         "downloads": 246454,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 978,
+        "likes": 1011,
         "downloads": 867963,
         "pipeline": ""
       },
       {
         "id": "Qwen/Qwen3.8-2.4T-A95B",
-        "likes": 944,
+        "likes": 950,
         "downloads": 6381,
         "pipeline": "text-generation"
       },
       {
         "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3944,
+        "likes": 3955,
         "downloads": 2212155,
         "pipeline": "image-text-to-video"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 891,
+        "likes": 899,
         "downloads": 378439,
         "pipeline": "image-to-video"
       }
@@ -793,22 +793,34 @@
   ],
   "hw_news": [
     {
+      "title": "英特尔副总裁称 PC 市场已两极分化，未来高低端平台或采用不同插槽",
+      "link": "https://www.ithome.com/0/990/167.htm",
+      "time": "08-15 20:22",
+      "src": "IT之家"
+    },
+    {
       "title": "惠普推出全新 OmniBook 5 笔记本：16 寸 OLED 屏幕，至高酷睿 Ultra 9 386H 处理器",
       "link": "https://www.ithome.com/0/990/120.htm",
       "time": "08-15 17:32",
       "src": "IT之家"
     },
     {
-      "title": "联想拯救者 Y700 无极平板参数曝光：骁龙 8 Elite Gen5 领先版、8.4 英寸 OLED 屏",
-      "link": "https://www.ithome.com/0/990/039.htm",
-      "time": "08-15 13:35",
-      "src": "IT之家"
+      "title": "美国商务部长警告苹果公司停止采购中国内存芯片",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1573348.htm",
+      "time": "08-15 20:46",
+      "src": "cnBeta.COM"
     },
     {
-      "title": "消息称英特尔 Razor Lake-AX 处理器沿用 Nova Lake 核心组合，不支持超频",
-      "link": "https://www.ithome.com/0/990/031.htm",
-      "time": "08-15 12:54",
-      "src": "IT之家"
+      "title": "继续用DDR4装机 英特尔称Raptor Lake还会卖很多年",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1573346.htm",
+      "time": "08-15 20:42",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "最高溢价88% RTX 5060 Ti价格暴涨到6000元",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1573344.htm",
+      "time": "08-15 19:40",
+      "src": "cnBeta.COM"
     },
     {
       "title": "DDR5太贵逼退玩家 13、14代酷睿需求暴涨断货令英特尔感到意外",
@@ -848,18 +860,6 @@
     },
     {
       "title": "Intel 预览 Nova Lake 桌面平台: 最高48核(16P+32E), 18A 工艺, LGA1954 新插槽, 预计2026年底上市",
-      "link": "https://www.160.com/article/12732.html",
-      "time": "精选",
-      "src": "资讯整理"
-    },
-    {
-      "title": "宏碁首发 1000Hz 电竞显示器; 微星 5K Mini-LED 双模电竞屏(5K@180Hz/2K@330Hz) 亮相 Computex 2026",
-      "link": "https://www.160.com/article/12732.html",
-      "time": "精选",
-      "src": "资讯整理"
-    },
-    {
-      "title": "微星 40 周年发布 RTX 5090 LIGHTNING Z 旗舰与内置 AI 代理的 OLED 电竞显示器",
       "link": "https://www.160.com/article/12732.html",
       "time": "精选",
       "src": "资讯整理"
@@ -1036,12 +1036,6 @@
   "anime_industry": {
     "news": [
       {
-        "title": "迪士尼动画《疯狂动物城 3》正式官宣，已开始制作",
-        "link": "https://www.ithome.com/0/990/036.htm",
-        "time": "08-15 13:25",
-        "src": "IT之家"
-      },
-      {
         "title": "声优、导演、原作者参演：TV动画《尼古喵喵》片头曲MV公开",
         "link": "https://www.gcores.com/articles/218357",
         "time": "08-14 13:54",
@@ -1087,6 +1081,12 @@
   },
   "intl_news": [
     {
+      "title": "全球两大支付巨头合并？消息称 Stripe 正洽谈收购 PayPal",
+      "link": "https://www.ithome.com/0/990/158.htm",
+      "time": "08-15 19:03",
+      "src": "IT之家"
+    },
+    {
       "title": "中国团队在全球最大“人造太阳”壁处理领域实现技术链条贯通，覆盖 GDC 与硼化两大系统",
       "link": "https://www.ithome.com/0/990/138.htm",
       "time": "08-15 18:20",
@@ -1111,31 +1111,31 @@
       "src": "IT之家"
     },
     {
-      "title": "X 战警官宣正式加入漫威电影宇宙：全新演员阵容公开，2028 年 5 月全球献映",
-      "link": "https://www.ithome.com/0/990/045.htm",
-      "time": "08-15 13:50",
-      "src": "IT之家"
-    },
-    {
-      "title": "限 1963 辆：兰博基尼全球首秀 V12 混动超跑 Revuelto SV，零百加速 2.4 秒、1065 马力",
-      "link": "https://www.ithome.com/0/990/033.htm",
-      "time": "08-15 13:09",
-      "src": "IT之家"
-    },
-    {
-      "title": "漫威《复仇者联盟 5：毁灭之日》全新预告发布，2026 年 12 月全球献映",
-      "link": "https://www.ithome.com/0/990/030.htm",
-      "time": "08-15 12:50",
-      "src": "IT之家"
-    },
-    {
       "title": "《宝可梦Pokopia》全球累计销量突破500万份",
       "link": "https://www.gcores.com/articles/218355",
       "time": "08-14 13:40",
       "src": "机核"
+    },
+    {
+      "title": "9国青年相聚塞上 2026宁夏国际青年友谊营银川启幕",
+      "link": "https://www.chinanews.com.cn/tp/2026/08-15/10678383.shtml",
+      "time": "08-15 20:45",
+      "src": "中新网"
+    },
+    {
+      "title": "“俄罗斯制造”节庆集市首登天津 主打“达恰”田园风情",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-15/10678365.shtml",
+      "time": "08-15 20:42",
+      "src": "中新网"
     }
   ],
   "econ_news": [
+    {
+      "title": "番茄小说作者“去世”三年后“复活”：读者斥其消费感情，平台介入调查",
+      "link": "https://www.ithome.com/0/990/164.htm",
+      "time": "08-15 20:00",
+      "src": "IT之家"
+    },
     {
       "title": "北京 2026 E-Town 机器人消费节启动：促消费资金提至 1800 万元，首次打造机器人消费街",
       "link": "https://www.ithome.com/0/990/110.htm",
@@ -1161,15 +1161,15 @@
       "src": "IT之家"
     },
     {
-      "title": "《中国工业领域绿色低碳发展技术蓝皮书》在湖州发布",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-15/10678269.shtml",
-      "time": "08-15 17:11",
+      "title": "中消协提出50条行动建议  引导绿色消费行为",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-15/10678375.shtml",
+      "time": "08-15 20:42",
       "src": "中新网"
     },
     {
-      "title": "内蒙古自治区人大财政经济委员会主任委员冯玉臻被查",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-15/10678264.shtml",
-      "time": "08-15 17:10",
+      "title": "天津：“俄罗斯制造”节庆集市启幕 俄式风情解锁夏日消费新场景",
+      "link": "https://www.chinanews.com.cn/tp/2026/08-15/10678332.shtml",
+      "time": "08-15 20:01",
       "src": "中新网"
     },
     {
@@ -1177,15 +1177,27 @@
       "link": "https://www.cnbeta.com.tw/articles/tech/1573324.htm",
       "time": "08-15 14:49",
       "src": "cnBeta.COM"
-    },
-    {
-      "title": "600亿美元科技收购落地 SpaceX正式杀入“Vibe Coding”战场",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1573302.htm",
-      "time": "08-15 09:32",
-      "src": "cnBeta.COM"
     }
   ],
   "game_news": [
+    {
+      "title": "微软 Edge 已支持从 Google 账户导入 Chrome 数据功能，覆盖书签、密码、历史记录和其他浏览器数据",
+      "link": "https://www.ithome.com/0/990/166.htm",
+      "time": "08-15 20:20",
+      "src": "IT之家"
+    },
+    {
+      "title": "任天堂《塞尔达传说》40 周年限定 Switch 2 Pro 手柄更多谍照曝光",
+      "link": "https://www.ithome.com/0/990/160.htm",
+      "time": "08-15 19:28",
+      "src": "IT之家"
+    },
+    {
+      "title": "索尼 PS5 Pro 增强版 PSSR 技术揭秘：让 AI 少干活，画质反而更好",
+      "link": "https://www.ithome.com/0/990/159.htm",
+      "time": "08-15 19:19",
+      "src": "IT之家"
+    },
     {
       "title": "2K 成立新体育游戏工作室，由多位 EA Sports 老将领衔",
       "link": "https://www.ithome.com/0/990/135.htm",
@@ -1215,24 +1227,6 @@
       "link": "https://www.ithome.com/0/990/063.htm",
       "time": "08-15 15:20",
       "src": "IT之家"
-    },
-    {
-      "title": "《王国之心 4》新宣传片公开：2027 年末发售，登陆 PS5/Xbox/ NS2/PC 平台",
-      "link": "https://www.ithome.com/0/990/056.htm",
-      "time": "08-15 14:55",
-      "src": "IT之家"
-    },
-    {
-      "title": "《主播女孩重度依赖》原班人马打造：暗黑视觉小说《妹妹、他人、妄想症》现已发售",
-      "link": "https://www.gcores.com/articles/218391",
-      "time": "08-15 12:24",
-      "src": "机核"
-    },
-    {
-      "title": "Vol.22 人生游戏九宫格（上：主播篇）：那些最爱玩的、影响最深的、最有回忆的和最想推荐给大家的「游戏时差03」",
-      "link": "https://www.gcores.com/radios/218389",
-      "time": "08-14 18:30",
-      "src": "机核"
     }
   ],
   "game_update": [
@@ -1301,15 +1295,9 @@
       "src": "ISW"
     },
     {
-      "title": "中国人民抗日战争纪念馆举办“赓续胜利荣光”主题社教活动",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-15/10678295.shtml",
-      "time": "08-15 18:25",
-      "src": "中新网"
-    },
-    {
-      "title": "国防部新闻发言人蒋斌就日本政要参拜靖国神社答记者问",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-15/10678280.shtml",
-      "time": "08-15 17:40",
+      "title": "南海开渔在即 广东闸坡渔港千帆待发",
+      "link": "https://www.chinanews.com.cn/tp/2026/08-15/10678381.shtml",
+      "time": "08-15 20:46",
       "src": "中新网"
     },
     {
@@ -1341,6 +1329,12 @@
       "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260814-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%AD%89%E5%87%BB%E8%B4%A5%E4%BC%8A%E6%9C%97%E5%90%8E%EF%BC%8C%E5%B0%86-%E5%AE%A3%E5%B8%83%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E5%B1%9E%E4%BA%8E%E7%BE%8E%E5%9B%BD%E9%A2%86%E5%9C%9F",
       "time": "08-15 07:06",
       "src": "© Emrah Gurel "
+    },
+    {
+      "title": "美国开征无人机关税 台湾积极应对",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260814-%E7%BE%8E%E5%9B%BD%E5%BC%80%E5%BE%81%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%85%B3%E7%A8%8E-%E5%8F%B0%E6%B9%BE%E7%A7%AF%E6%9E%81%E5%BA%94%E5%AF%B9",
+      "time": "08-15 04:54",
+      "src": "REUTERS - Chen"
     }
   ]
 }
