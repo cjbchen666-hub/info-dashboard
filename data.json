@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15 20:50",
+  "generated_at": "2026-08-15 22:29",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,6 +233,12 @@
     ],
     "news": [
       {
+        "title": "伯克希尔 · 哈撒韦大幅增持 Alphabet：持仓扩大 83%，价值近 380 亿美元",
+        "link": "https://www.ithome.com/0/990/176.htm",
+        "time": "08-15 21:57",
+        "src": "IT之家"
+      },
+      {
         "title": "英伟达 CEO 黄仁勋出手安抚 AI 算力市场：部分 AI 投资项目可获最高 25% 残值支持",
         "link": "https://www.ithome.com/0/990/154.htm",
         "time": "08-15 18:41",
@@ -251,12 +257,6 @@
         "src": "IT之家"
       },
       {
-        "title": "机器人带队助阵“东北超” 沈阳“赛博啦啦队”硬控全场",
-        "link": "http://www.chinanews.com.cn/ty/shipin/2026/08-15/news1065523.shtml",
-        "time": "08-15 20:16",
-        "src": "中新网"
-      },
-      {
         "title": "美国旧金山企业推出人形机器人保洁服务 每小时30美元",
         "link": "https://www.cnbeta.com.tw/articles/tech/1573324.htm",
         "time": "08-15 14:49",
@@ -269,16 +269,16 @@
         "src": "cnBeta.COM"
       },
       {
+        "title": "伯克希尔Q2增持谷歌170亿美元",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-15/doc-ininmhua3292827.shtml",
+        "time": "08-15 22:16",
+        "src": "环球市场播报"
+      },
+      {
         "title": "视频|美国旧金山企业推出人形机器人保洁服务 每小时30美元",
         "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-15/doc-ininkrwk3457356.shtml",
         "time": "08-15 14:09",
         "src": "环球市场播报"
-      },
-      {
-        "title": "国产品牌涌入，手术机器人厂商如何摆脱单纯卷价格",
-        "link": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkfht2333709.shtml",
-        "time": "08-15 10:18",
-        "src": "一财网"
       }
     ]
   },
@@ -538,6 +538,24 @@
   "ai": {
     "news_zh": [
       {
+        "title": "菲尔兹奖得主马丁 · 海尔：AI 数学推演已达博士水平，中国基础科学投入令人印象深刻",
+        "link": "https://www.ithome.com/0/990/181.htm",
+        "time": "08-15 22:29",
+        "src": "IT之家"
+      },
+      {
+        "title": "1.228 亿股，英伟达成 SpaceX 第六大股东",
+        "link": "https://www.ithome.com/0/990/179.htm",
+        "time": "08-15 22:20",
+        "src": "IT之家"
+      },
+      {
+        "title": "极摩客 EVO-X5 迷你主机现身 Geekbench：锐龙 AI Max+ Pro 495 处理器",
+        "link": "https://www.ithome.com/0/990/177.htm",
+        "time": "08-15 21:59",
+        "src": "IT之家"
+      },
+      {
         "title": "索尼 PS5 Pro 增强版 PSSR 技术揭秘：让 AI 少干活，画质反而更好",
         "link": "https://www.ithome.com/0/990/159.htm",
         "time": "08-15 19:19",
@@ -566,60 +584,42 @@
         "link": "https://www.ithome.com/0/990/115.htm",
         "time": "08-15 17:05",
         "src": "IT之家"
-      },
-      {
-        "title": "北京 2026 E-Town 机器人消费节启动：促消费资金提至 1800 万元，首次打造机器人消费街",
-        "link": "https://www.ithome.com/0/990/110.htm",
-        "time": "08-15 16:25",
-        "src": "IT之家"
-      },
-      {
-        "title": "“史上最大”IPO 筹备中，消息称 Anthropic 预估 2028 年营收可达 1900 亿-2000 亿美元",
-        "link": "https://www.ithome.com/0/990/105.htm",
-        "time": "08-15 16:06",
-        "src": "IT之家"
-      },
-      {
-        "title": "首次实现运营盈利：曝 Anthropic 2026Q2 营收破 115 亿美元，同比增长逾 14 倍",
-        "link": "https://www.ithome.com/0/990/074.htm",
-        "time": "08-15 15:44",
-        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 9490,
+        "likes": 9552,
         "downloads": 91917,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 1548,
+        "likes": 1552,
         "downloads": 246454,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 1011,
+        "likes": 1053,
         "downloads": 867963,
         "pipeline": ""
       },
       {
         "id": "Qwen/Qwen3.8-2.4T-A95B",
-        "likes": 950,
+        "likes": 951,
         "downloads": 6381,
         "pipeline": "text-generation"
       },
       {
         "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3955,
+        "likes": 3959,
         "downloads": 2212155,
         "pipeline": "image-text-to-video"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 899,
+        "likes": 908,
         "downloads": 378439,
         "pipeline": "image-to-video"
       }
@@ -793,6 +793,18 @@
   ],
   "hw_news": [
     {
+      "title": "玩家利用矿机 BC-250 主板，低成本组装“Steam Machine”",
+      "link": "https://www.ithome.com/0/990/180.htm",
+      "time": "08-15 22:26",
+      "src": "IT之家"
+    },
+    {
+      "title": "极摩客 EVO-X5 迷你主机现身 Geekbench：锐龙 AI Max+ Pro 495 处理器",
+      "link": "https://www.ithome.com/0/990/177.htm",
+      "time": "08-15 21:59",
+      "src": "IT之家"
+    },
+    {
       "title": "英特尔副总裁称 PC 市场已两极分化，未来高低端平台或采用不同插槽",
       "link": "https://www.ithome.com/0/990/167.htm",
       "time": "08-15 20:22",
@@ -803,6 +815,12 @@
       "link": "https://www.ithome.com/0/990/120.htm",
       "time": "08-15 17:32",
       "src": "IT之家"
+    },
+    {
+      "title": "AMD与ARM蚕食英特尔服务器市场份额 但x86架构仍将是主导",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1573354.htm",
+      "time": "08-15 20:51",
+      "src": "cnBeta.COM"
     },
     {
       "title": "美国商务部长警告苹果公司停止采购中国内存芯片",
@@ -845,24 +863,6 @@
       "link": "https://finance.sina.com.cn/stock/t/2026-08-15/doc-ininiqma2277311.shtml",
       "time": "08-15 03:52",
       "src": ""
-    },
-    {
-      "title": "Computex 2026: NVIDIA 发布 ARM 架构 PC 芯片 RTX Spark, 集成 Blackwell GPU, 对标苹果 M5",
-      "link": "https://new.qq.com/rain/a/20260605A09PXY00",
-      "time": "精选",
-      "src": "资讯整理"
-    },
-    {
-      "title": "AMD 发布 Ryzen 7 7700X3D(104MB缓存,$329) 与 Radeon RX 9070 GRE(12GB,$549), 强化 1440p 游戏市场",
-      "link": "https://www.91mobiles.com/hub/computex-2026-amd-ryzen-x3d-cpus-radeon-9070-gre",
-      "time": "精选",
-      "src": "资讯整理"
-    },
-    {
-      "title": "Intel 预览 Nova Lake 桌面平台: 最高48核(16P+32E), 18A 工艺, LGA1954 新插槽, 预计2026年底上市",
-      "link": "https://www.160.com/article/12732.html",
-      "time": "精选",
-      "src": "资讯整理"
     }
   ],
   "kojima": {
@@ -1081,6 +1081,12 @@
   },
   "intl_news": [
     {
+      "title": "美国考虑应特朗普喜好重新设计航母：电磁弹射改回蒸汽弹射 + 舰岛迁移，80 多年来首次新建第五座海军造船厂",
+      "link": "https://www.ithome.com/0/990/174.htm",
+      "time": "08-15 21:33",
+      "src": "IT之家"
+    },
+    {
       "title": "全球两大支付巨头合并？消息称 Stripe 正洽谈收购 PayPal",
       "link": "https://www.ithome.com/0/990/158.htm",
       "time": "08-15 19:03",
@@ -1099,37 +1105,37 @@
       "src": "IT之家"
     },
     {
-      "title": "全球首例：人类员工因 23 个班次迟到 17 次被“AI 老板”开除",
-      "link": "https://www.ithome.com/0/990/048.htm",
-      "time": "08-15 14:25",
-      "src": "IT之家"
-    },
-    {
-      "title": "全球限 150 辆：阿斯顿 · 马丁展示最强前置 V12 超跑 Valen，零百加速 3.1 秒",
-      "link": "https://www.ithome.com/0/990/047.htm",
-      "time": "08-15 14:08",
-      "src": "IT之家"
-    },
-    {
       "title": "《宝可梦Pokopia》全球累计销量突破500万份",
       "link": "https://www.gcores.com/articles/218355",
       "time": "08-14 13:40",
       "src": "机核"
     },
     {
-      "title": "9国青年相聚塞上 2026宁夏国际青年友谊营银川启幕",
-      "link": "https://www.chinanews.com.cn/tp/2026/08-15/10678383.shtml",
-      "time": "08-15 20:45",
+      "title": "（活力中国调研行）当一座内陆小城建设国际港",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-15/10678395.shtml",
+      "time": "08-15 21:15",
       "src": "中新网"
     },
     {
-      "title": "“俄罗斯制造”节庆集市首登天津 主打“达恰”田园风情",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-15/10678365.shtml",
-      "time": "08-15 20:42",
-      "src": "中新网"
+      "title": "科学家成功将全球最难回收的塑料之一转化为发动机机油",
+      "link": "https://www.cnbeta.com.tw/articles/science/1573350.htm",
+      "time": "08-15 20:48",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "英国游戏业慈善足球赛为残障玩家筹款逾6万英镑",
+      "link": "https://www.cnbeta.com.tw/articles/game/1573314.htm",
+      "time": "08-15 14:43",
+      "src": "cnBeta.COM"
     }
   ],
   "econ_news": [
+    {
+      "title": "伯克希尔 · 哈撒韦大幅增持 Alphabet：持仓扩大 83%，价值近 380 亿美元",
+      "link": "https://www.ithome.com/0/990/176.htm",
+      "time": "08-15 21:57",
+      "src": "IT之家"
+    },
     {
       "title": "番茄小说作者“去世”三年后“复活”：读者斥其消费感情，平台介入调查",
       "link": "https://www.ithome.com/0/990/164.htm",
@@ -1161,15 +1167,9 @@
       "src": "IT之家"
     },
     {
-      "title": "中消协提出50条行动建议  引导绿色消费行为",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-15/10678375.shtml",
-      "time": "08-15 20:42",
-      "src": "中新网"
-    },
-    {
-      "title": "天津：“俄罗斯制造”节庆集市启幕 俄式风情解锁夏日消费新场景",
-      "link": "https://www.chinanews.com.cn/tp/2026/08-15/10678332.shtml",
-      "time": "08-15 20:01",
+      "title": "（经济观察）中国信贷结构持续调整 对实体经济支持力度不减",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-15/10678396.shtml",
+      "time": "08-15 21:02",
       "src": "中新网"
     },
     {
@@ -1180,6 +1180,18 @@
     }
   ],
   "game_news": [
+    {
+      "title": "玩家利用矿机 BC-250 主板，低成本组装“Steam Machine”",
+      "link": "https://www.ithome.com/0/990/180.htm",
+      "time": "08-15 22:26",
+      "src": "IT之家"
+    },
+    {
+      "title": "极摩客 EVO-X5 迷你主机现身 Geekbench：锐龙 AI Max+ Pro 495 处理器",
+      "link": "https://www.ithome.com/0/990/177.htm",
+      "time": "08-15 21:59",
+      "src": "IT之家"
+    },
     {
       "title": "微软 Edge 已支持从 Google 账户导入 Chrome 数据功能，覆盖书签、密码、历史记录和其他浏览器数据",
       "link": "https://www.ithome.com/0/990/166.htm",
@@ -1214,18 +1226,6 @@
       "title": "前微软工程师计划开发“Outlook 平替”DayFrame，令动态磁贴重获新生",
       "link": "https://www.ithome.com/0/990/080.htm",
       "time": "08-15 15:48",
-      "src": "IT之家"
-    },
-    {
-      "title": "测试一年后，微软 Excel 的 COPILOT () 函数即将被砍",
-      "link": "https://www.ithome.com/0/990/076.htm",
-      "time": "08-15 15:46",
-      "src": "IT之家"
-    },
-    {
-      "title": "微软 OneNote 网页版下月起不再支持 Loop 组件，建议用户改用 Windows 版",
-      "link": "https://www.ithome.com/0/990/063.htm",
-      "time": "08-15 15:20",
       "src": "IT之家"
     }
   ],
@@ -1295,10 +1295,10 @@
       "src": "ISW"
     },
     {
-      "title": "南海开渔在即 广东闸坡渔港千帆待发",
-      "link": "https://www.chinanews.com.cn/tp/2026/08-15/10678381.shtml",
-      "time": "08-15 20:46",
-      "src": "中新网"
+      "title": "美国考虑应特朗普喜好重新设计航母：电磁弹射改回蒸汽弹射 + 舰岛迁移，80 多年来首次新建第五座海军造船厂",
+      "link": "https://www.ithome.com/0/990/174.htm",
+      "time": "08-15 21:33",
+      "src": "IT之家"
     },
     {
       "title": "600亿美元科技收购落地 SpaceX正式杀入“Vibe Coding”战场",
