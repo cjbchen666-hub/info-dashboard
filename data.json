@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15 14:49",
+  "generated_at": "2026-08-15 16:36",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,21 +233,33 @@
     ],
     "news": [
       {
-        "title": "北京举办消费节促“机器人买卖”",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-15/10678185.shtml",
-        "time": "08-15 14:10",
+        "title": "北京 2026 E-Town 机器人消费节启动：促消费资金提至 1800 万元，首次打造机器人消费街",
+        "link": "https://www.ithome.com/0/990/110.htm",
+        "time": "08-15 16:25",
+        "src": "IT之家"
+      },
+      {
+        "title": "“史上最大”IPO 筹备中，消息称 Anthropic 预估 2028 年营收可达 1900 亿-2000 亿美元",
+        "link": "https://www.ithome.com/0/990/105.htm",
+        "time": "08-15 16:06",
+        "src": "IT之家"
+      },
+      {
+        "title": "宁夏中卫：沙漠边缘崛起算力基地",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-15/10678218.shtml",
+        "time": "08-15 15:58",
         "src": "中新网"
+      },
+      {
+        "title": "美国旧金山企业推出人形机器人保洁服务 每小时30美元",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1573324.htm",
+        "time": "08-15 14:49",
+        "src": "cnBeta.COM"
       },
       {
         "title": "三星电子上半年研发投入创纪录达27万亿韩元",
         "link": "https://www.cnbeta.com.tw/articles/tech/1573288.htm",
         "time": "08-15 09:25",
-        "src": "cnBeta.COM"
-      },
-      {
-        "title": "LG电子与英伟达签署机器人、AI工厂和移动出行领域合作备忘录",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1573250.htm",
-        "time": "08-14 21:53",
         "src": "cnBeta.COM"
       },
       {
@@ -263,22 +275,10 @@
         "src": "一财网"
       },
       {
-        "title": "8月15日隔夜要闻：标普500周线三连阳 油价上涨 金价反弹 特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
-        "link": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiusz8963314.shtml",
-        "time": "08-15 07:03",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "8月15日美股成交额前20：闪迪收高7.39%，本周涨超35%，存储板块逆市走强",
-        "link": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiusu3768616.shtml",
-        "time": "08-15 06:53",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "视频|人形机器人上岗家政 一小时30刀进入普通家庭",
-        "link": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwp2185843.shtml",
-        "time": "08-15 14:11",
-        "src": "市场资讯"
+        "title": "央行二季度货币政策报告：综合运用并适时调整货币政策工具",
+        "link": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininkfhv8772447.shtml",
+        "time": "08-15 09:30",
+        "src": "滚动播报"
       }
     ]
   },
@@ -538,89 +538,89 @@
   "ai": {
     "news_zh": [
       {
+        "title": "北京 2026 E-Town 机器人消费节启动：促消费资金提至 1800 万元，首次打造机器人消费街",
+        "link": "https://www.ithome.com/0/990/110.htm",
+        "time": "08-15 16:25",
+        "src": "IT之家"
+      },
+      {
+        "title": "“史上最大”IPO 筹备中，消息称 Anthropic 预估 2028 年营收可达 1900 亿-2000 亿美元",
+        "link": "https://www.ithome.com/0/990/105.htm",
+        "time": "08-15 16:06",
+        "src": "IT之家"
+      },
+      {
+        "title": "首次实现运营盈利：曝 Anthropic 2026Q2 营收破 115 亿美元，同比增长逾 14 倍",
+        "link": "https://www.ithome.com/0/990/074.htm",
+        "time": "08-15 15:44",
+        "src": "IT之家"
+      },
+      {
+        "title": "全球程序员都在浪费 token 白送钱，Anthropic 分享 Claude Code 六大省钱技巧",
+        "link": "https://www.ithome.com/0/990/072.htm",
+        "time": "08-15 15:35",
+        "src": "IT之家"
+      },
+      {
+        "title": "7 月环比增 32%，弗莱尔称 OpenAI 企业 AI 业务收入已超消费者业务",
+        "link": "https://www.ithome.com/0/990/066.htm",
+        "time": "08-15 15:27",
+        "src": "IT之家"
+      },
+      {
+        "title": "Anthropic 宣布为 Claude 生成文本加入水印后，部分用户担心“留痕”选择退订",
+        "link": "https://www.ithome.com/0/990/062.htm",
+        "time": "08-15 15:16",
+        "src": "IT之家"
+      },
+      {
+        "title": "消息称 OpenAI 设专有邮箱，员工投诉可直达 CEO 奥尔特曼",
+        "link": "https://www.ithome.com/0/990/059.htm",
+        "time": "08-15 14:57",
+        "src": "IT之家"
+      },
+      {
         "title": "全球首例：人类员工因 23 个班次迟到 17 次被“AI 老板”开除",
         "link": "https://www.ithome.com/0/990/048.htm",
         "time": "08-15 14:25",
         "src": "IT之家"
-      },
-      {
-        "title": "腾讯 QQ Bot 官宣接入 DeepSeek Harness：支持单聊 / 群聊，接入仅需 3 步",
-        "link": "https://www.ithome.com/0/990/041.htm",
-        "time": "08-15 13:44",
-        "src": "IT之家"
-      },
-      {
-        "title": "追光 S 隧道 360° 大回环被疑 AI 造假，岚图汽车宣布发布会一镜到底回应质疑",
-        "link": "https://www.ithome.com/0/990/038.htm",
-        "time": "08-15 13:32",
-        "src": "IT之家"
-      },
-      {
-        "title": "微软 Copilot Notebooks 扩展支持 Markdown，强化 AI 资料分析",
-        "link": "https://www.ithome.com/0/990/013.htm",
-        "time": "08-15 10:48",
-        "src": "IT之家"
-      },
-      {
-        "title": "阿里千问开放 AI 眼镜生态，支持自建导游、教练、巡检等多种 skill",
-        "link": "https://www.ithome.com/0/990/003.htm",
-        "time": "08-15 09:59",
-        "src": "IT之家"
-      },
-      {
-        "title": "DeepSeek V4 Pro 正式版、Harness 上线国家超算互联网，可一站式完成部署开发",
-        "link": "https://www.ithome.com/0/990/002.htm",
-        "time": "08-15 09:53",
-        "src": "IT之家"
-      },
-      {
-        "title": "谷歌 Gemini 将推新选项：关闭 AI 生成图片 / 视频 / 音乐的可见水印",
-        "link": "https://www.ithome.com/0/989/997.htm",
-        "time": "08-15 09:29",
-        "src": "IT之家"
-      },
-      {
-        "title": "北京举办消费节促“机器人买卖”",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-15/10678185.shtml",
-        "time": "08-15 14:10",
-        "src": "中新网"
       }
     ],
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 9284,
-        "downloads": 2,
+        "likes": 9362,
+        "downloads": 91917,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 1525,
-        "downloads": 165300,
+        "likes": 1530,
+        "downloads": 246454,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 923,
-        "downloads": 0,
+        "likes": 951,
+        "downloads": 867963,
         "pipeline": ""
       },
       {
         "id": "Qwen/Qwen3.8-2.4T-A95B",
-        "likes": 931,
-        "downloads": 3832,
+        "likes": 936,
+        "downloads": 6381,
         "pipeline": "text-generation"
       },
       {
         "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3933,
-        "downloads": 1997541,
+        "likes": 3940,
+        "downloads": 2212155,
         "pipeline": "image-text-to-video"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 874,
-        "downloads": 207830,
+        "likes": 883,
+        "downloads": 378439,
         "pipeline": "image-to-video"
       }
     ],
@@ -805,34 +805,9 @@
       "src": "IT之家"
     },
     {
-      "title": "iQOO X 概念机内部发布：骁龙 8 Elite Gen10 Pro 处理器、15000mAh 固态电池",
-      "link": "https://www.ithome.com/0/990/000.htm",
-      "time": "08-15 09:47",
-      "src": "IT之家"
-    },
-    {
-      "title": "可维修模块化手机 Fairphone 6+ 官宣 8 月 18 日发布：升级 12GB 内存",
-      "link": "https://www.ithome.com/0/989/996.htm",
-      "time": "08-15 09:21",
-      "src": "IT之家"
-    },
-    {
-      "title": "EWC 电竞世俱杯回应《和平精英》多名选手食物中毒，原定比赛延期一天",
-      "link": "https://www.ithome.com/0/989/995.htm",
-      "time": "08-15 09:14",
-      "src": "IT之家",
-      "type": "不停机更新"
-    },
-    {
       "title": "DDR5太贵逼退玩家 13、14代酷睿需求暴涨断货令英特尔感到意外",
       "link": "https://www.cnbeta.com.tw/articles/tech/1573294.htm",
       "time": "08-15 09:28",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "英睿达被曝售后违约：承诺更换故障DDR5内存却拒发新品 且强扣原件仅退原款",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1573248.htm",
-      "time": "08-14 21:53",
       "src": "cnBeta.COM"
     },
     {
@@ -862,6 +837,30 @@
     {
       "title": "AMD 发布 Ryzen 7 7700X3D(104MB缓存,$329) 与 Radeon RX 9070 GRE(12GB,$549), 强化 1440p 游戏市场",
       "link": "https://www.91mobiles.com/hub/computex-2026-amd-ryzen-x3d-cpus-radeon-9070-gre",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "Intel 预览 Nova Lake 桌面平台: 最高48核(16P+32E), 18A 工艺, LGA1954 新插槽, 预计2026年底上市",
+      "link": "https://www.160.com/article/12732.html",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "宏碁首发 1000Hz 电竞显示器; 微星 5K Mini-LED 双模电竞屏(5K@180Hz/2K@330Hz) 亮相 Computex 2026",
+      "link": "https://www.160.com/article/12732.html",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "微星 40 周年发布 RTX 5090 LIGHTNING Z 旗舰与内置 AI 代理的 OLED 电竞显示器",
+      "link": "https://www.160.com/article/12732.html",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "AMD 锐龙 AI Max 400 系列: 192GB 统一内存, 宣称本地可运行 300B 参数大模型",
+      "link": "https://www.160.com/article/12732.html",
       "time": "精选",
       "src": "资讯整理"
     }
@@ -1094,6 +1093,12 @@
   },
   "intl_news": [
     {
+      "title": "全球程序员都在浪费 token 白送钱，Anthropic 分享 Claude Code 六大省钱技巧",
+      "link": "https://www.ithome.com/0/990/072.htm",
+      "time": "08-15 15:35",
+      "src": "IT之家"
+    },
+    {
       "title": "全球首例：人类员工因 23 个班次迟到 17 次被“AI 老板”开除",
       "link": "https://www.ithome.com/0/990/048.htm",
       "time": "08-15 14:25",
@@ -1130,12 +1135,6 @@
       "src": "IT之家"
     },
     {
-      "title": "漫威索尼《蜘蛛侠：崭新之日》官宣延长放映至 9 月 28 日，全球票房破 116 亿人民币拿下“票冠”",
-      "link": "https://www.ithome.com/0/990/006.htm",
-      "time": "08-15 10:08",
-      "src": "IT之家"
-    },
-    {
       "title": "《宝可梦Pokopia》全球累计销量突破500万份",
       "link": "https://www.gcores.com/articles/218355",
       "time": "08-14 13:40",
@@ -1144,16 +1143,40 @@
   ],
   "econ_news": [
     {
-      "title": "漫威索尼《蜘蛛侠：崭新之日》官宣延长放映至 9 月 28 日，全球票房破 116 亿人民币拿下“票冠”",
-      "link": "https://www.ithome.com/0/990/006.htm",
-      "time": "08-15 10:08",
+      "title": "北京 2026 E-Town 机器人消费节启动：促消费资金提至 1800 万元，首次打造机器人消费街",
+      "link": "https://www.ithome.com/0/990/110.htm",
+      "time": "08-15 16:25",
       "src": "IT之家"
     },
     {
-      "title": "北京举办消费节促“机器人买卖”",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-15/10678185.shtml",
-      "time": "08-15 14:10",
+      "title": "“史上最大”IPO 筹备中，消息称 Anthropic 预估 2028 年营收可达 1900 亿-2000 亿美元",
+      "link": "https://www.ithome.com/0/990/105.htm",
+      "time": "08-15 16:06",
+      "src": "IT之家"
+    },
+    {
+      "title": "首次实现运营盈利：曝 Anthropic 2026Q2 营收破 115 亿美元，同比增长逾 14 倍",
+      "link": "https://www.ithome.com/0/990/074.htm",
+      "time": "08-15 15:44",
+      "src": "IT之家"
+    },
+    {
+      "title": "7 月环比增 32%，弗莱尔称 OpenAI 企业 AI 业务收入已超消费者业务",
+      "link": "https://www.ithome.com/0/990/066.htm",
+      "time": "08-15 15:27",
+      "src": "IT之家"
+    },
+    {
+      "title": "长江十年行｜“数”读长江经济带十周年江西答卷",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-15/10678215.shtml",
+      "time": "08-15 15:56",
       "src": "中新网"
+    },
+    {
+      "title": "美国旧金山企业推出人形机器人保洁服务 每小时30美元",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1573324.htm",
+      "time": "08-15 14:49",
+      "src": "cnBeta.COM"
     },
     {
       "title": "600亿美元科技收购落地 SpaceX正式杀入“Vibe Coding”战场",
@@ -1166,69 +1189,44 @@
       "link": "https://www.cnbeta.com.tw/articles/tech/1573282.htm",
       "time": "08-15 09:08",
       "src": "cnBeta.COM"
-    },
-    {
-      "title": "知情人士：英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1573278.htm",
-      "time": "08-15 09:07",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "OpenAI首席财务官透露：企业级业务营收现已超越消费者业务",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1573276.htm",
-      "time": "08-15 09:06",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "《观点》周刊：中国发挥“贸易伪装”艺术至极致，特朗普的关税几同虚设",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260814-%E8%A7%82%E7%82%B9-%E5%91%A8%E5%88%8A-%E4%B8%AD%E5%9B%BD%E5%8F%91%E6%8C%A5-%E8%B4%B8%E6%98%93%E4%BC%AA%E8%A3%85-%E8%89%BA%E6%9C%AF%E8%87%B3%E6%9E%81%E8%87%B4%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E5%85%B3%E7%A8%8E%E5%87%A0%E5%90%8C%E8%99%9A%E8%AE%BE",
-      "time": "08-15 05:03",
-      "src": "AP - Hau Dinh"
-    },
-    {
-      "title": "美国开征无人机关税 台湾积极应对",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260814-%E7%BE%8E%E5%9B%BD%E5%BC%80%E5%BE%81%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%85%B3%E7%A8%8E-%E5%8F%B0%E6%B9%BE%E7%A7%AF%E6%9E%81%E5%BA%94%E5%AF%B9",
-      "time": "08-15 04:54",
-      "src": "REUTERS - Chen"
     }
   ],
   "game_news": [
+    {
+      "title": "微软发布 60 天倒计时：Windows Server 2022 及 Win11 24H2 将于 10 月 13 日终止支持",
+      "link": "https://www.ithome.com/0/990/108.htm",
+      "time": "08-15 16:16",
+      "src": "IT之家"
+    },
+    {
+      "title": "前微软工程师计划开发“Outlook 平替”DayFrame，令动态磁贴重获新生",
+      "link": "https://www.ithome.com/0/990/080.htm",
+      "time": "08-15 15:48",
+      "src": "IT之家"
+    },
+    {
+      "title": "测试一年后，微软 Excel 的 COPILOT () 函数即将被砍",
+      "link": "https://www.ithome.com/0/990/076.htm",
+      "time": "08-15 15:46",
+      "src": "IT之家"
+    },
+    {
+      "title": "微软 OneNote 网页版下月起不再支持 Loop 组件，建议用户改用 Windows 版",
+      "link": "https://www.ithome.com/0/990/063.htm",
+      "time": "08-15 15:20",
+      "src": "IT之家"
+    },
+    {
+      "title": "《王国之心 4》新宣传片公开：2027 年末发售，登陆 PS5/Xbox/ NS2/PC 平台",
+      "link": "https://www.ithome.com/0/990/056.htm",
+      "time": "08-15 14:55",
+      "src": "IT之家"
+    },
     {
       "title": "三星 One UI 9 将支持卸载预装微软 SwiftKey 输入法，释放约 55MB 空间",
       "link": "https://www.ithome.com/0/990/024.htm",
       "time": "08-15 11:40",
       "src": "IT之家"
-    },
-    {
-      "title": "微软 Copilot Notebooks 扩展支持 Markdown，强化 AI 资料分析",
-      "link": "https://www.ithome.com/0/990/013.htm",
-      "time": "08-15 10:48",
-      "src": "IT之家"
-    },
-    {
-      "title": "微软 Win11/Win10 版 Word 加入文本定位链接，协作跳转不必手动滚动",
-      "link": "https://www.ithome.com/0/990/007.htm",
-      "time": "08-15 10:11",
-      "src": "IT之家"
-    },
-    {
-      "title": "漫威索尼《蜘蛛侠：崭新之日》官宣延长放映至 9 月 28 日，全球票房破 116 亿人民币拿下“票冠”",
-      "link": "https://www.ithome.com/0/990/006.htm",
-      "time": "08-15 10:08",
-      "src": "IT之家"
-    },
-    {
-      "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug，部分用户拍手叫好",
-      "link": "https://www.ithome.com/0/989/999.htm",
-      "time": "08-15 09:43",
-      "src": "IT之家"
-    },
-    {
-      "title": "EWC 电竞世俱杯回应《和平精英》多名选手食物中毒，原定比赛延期一天",
-      "link": "https://www.ithome.com/0/989/995.htm",
-      "time": "08-15 09:14",
-      "src": "IT之家",
-      "type": "不停机更新"
     },
     {
       "title": "《主播女孩重度依赖》原班人马打造：暗黑视觉小说《妹妹、他人、妄想症》现已发售",
@@ -1244,13 +1242,6 @@
     }
   ],
   "game_update": [
-    {
-      "title": "EWC 电竞世俱杯回应《和平精英》多名选手食物中毒，原定比赛延期一天",
-      "link": "https://www.ithome.com/0/989/995.htm",
-      "time": "08-15 09:14",
-      "src": "IT之家",
-      "type": "不停机更新"
-    },
     {
       "title": "《PUBG》42.3版本 PC 8/12 维护(08:00-16:30): 时隔两年新增轻机枪 RPD, 轻机枪换弹-25%/后坐力调整, 主流玩法轮换开启",
       "link": "https://new.qq.com/rain/a/20260811A06SHD00",
@@ -1299,6 +1290,13 @@
       "time": "8-05",
       "type": "停机维护",
       "src": "腾讯官方"
+    },
+    {
+      "title": "《大话西游》手游 8/13 每周例行停机维护(8:00-10:00): 新神兽广陵+小西天副本上线, 周星驰合作宣传片8/15公开",
+      "link": "https://dhxy.163.com/news/update/20260812/19975_1310915.html",
+      "time": "8-13",
+      "type": "停机维护",
+      "src": "网易官网"
     }
   ],
   "mil_news": [
@@ -1307,18 +1305,6 @@
       "link": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment",
       "time": "ISW每日评估",
       "src": "ISW"
-    },
-    {
-      "title": "边境林海虎啸鹿鸣 太平沟绘就跨境生态共生答卷",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-15/10678179.shtml",
-      "time": "08-15 14:07",
-      "src": "中新网"
-    },
-    {
-      "title": "铭记历史 民众参观侵华日军第七三一部队罪证陈列馆",
-      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/08-15/1201140.shtml",
-      "time": "08-15 14:07",
-      "src": "中新网"
     },
     {
       "title": "600亿美元科技收购落地 SpaceX正式杀入“Vibe Coding”战场",
@@ -1348,6 +1334,18 @@
       "title": "对欧洲军事存在进行评估期间 特朗普政府向北约盟国发“忠诚度”效益主义问卷",
       "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260814-%E5%AF%B9%E6%AC%A7%E6%B4%B2%E5%86%9B%E4%BA%8B%E5%AD%98%E5%9C%A8%E8%BF%9B%E8%A1%8C%E8%AF%84%E4%BC%B0%E6%9C%9F%E9%97%B4-%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%90%91%E5%8C%97%E7%BA%A6%E7%9B%9F%E5%9B%BD%E5%8F%91-%E5%BF%A0%E8%AF%9A%E5%BA%A6-%E6%95%88%E7%9B%8A%E4%B8%BB%E4%B9%89%E9%97%AE%E5%8D%B7",
       "time": "08-15 00:06",
+      "src": "© 网络图片"
+    },
+    {
+      "title": "美特种作战司令部司令到访：准备加强与菲律宾等亚洲国家特种部队的战备演习",
+      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260814-%E7%BE%8E%E7%89%B9%E7%A7%8D%E4%BD%9C%E6%88%98%E5%8F%B8%E4%BB%A4%E9%83%A8%E5%8F%B8%E4%BB%A4%E5%88%B0%E8%AE%BF-%E5%87%86%E5%A4%87%E5%8A%A0%E5%BC%BA%E4%B8%8E%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%AD%89%E4%BA%9A%E6%B4%B2%E5%9B%BD%E5%AE%B6%E7%89%B9%E7%A7%8D%E9%83%A8%E9%98%9F%E7%9A%84%E6%88%98%E5%A4%87%E6%BC%94%E4%B9%A0",
+      "time": "08-14 23:31",
+      "src": "© 美联社图片"
+    },
+    {
+      "title": "澳总理与特朗普通话谈关税等问题 并指中方导弹试射在太平洋引发极大担忧",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260814-%E6%BE%B3%E6%80%BB%E7%90%86%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D%E8%B0%88%E5%85%B3%E7%A8%8E%E7%AD%89%E9%97%AE%E9%A2%98-%E5%B9%B6%E6%8C%87%E4%B8%AD%E6%96%B9%E5%AF%BC%E5%BC%B9%E8%AF%95%E5%B0%84%E5%9C%A8%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%BC%95%E5%8F%91%E6%9E%81%E5%A4%A7%E6%8B%85%E5%BF%A7",
+      "time": "08-14 18:38",
       "src": "© 网络图片"
     }
   ]
