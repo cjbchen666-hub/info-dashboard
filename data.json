@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15 09:40",
+  "generated_at": "2026-08-15 10:57",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -245,6 +245,12 @@
         "src": "cnBeta.COM"
       },
       {
+        "title": "国产品牌涌入，手术机器人厂商如何摆脱单纯卷价格",
+        "link": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkfht2333709.shtml",
+        "time": "08-15 10:18",
+        "src": "一财网"
+      },
+      {
         "title": "8月15日隔夜要闻：标普500周线三连阳 油价上涨 金价反弹 特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
         "link": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiusz8963314.shtml",
         "time": "08-15 07:03",
@@ -272,12 +278,6 @@
         "title": "美国股市：标普500指数从纪录高位回落 美国消费出现降温迹象",
         "link": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiusu3740746.shtml",
         "time": "08-15 05:22",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "伯克希尔披露Q2持仓：Alphabet跻身前三，增持达美航空和住宅建筑商",
-        "link": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiusy2162597.shtml",
-        "time": "08-15 05:21",
         "src": "环球市场播报"
       }
     ]
@@ -538,6 +538,24 @@
   "ai": {
     "news_zh": [
       {
+        "title": "微软 Copilot Notebooks 扩展支持 Markdown，强化 AI 资料分析",
+        "link": "https://www.ithome.com/0/990/013.htm",
+        "time": "08-15 10:48",
+        "src": "IT之家"
+      },
+      {
+        "title": "阿里千问开放 AI 眼镜生态，支持自建导游、教练、巡检等多种 skill",
+        "link": "https://www.ithome.com/0/990/003.htm",
+        "time": "08-15 09:59",
+        "src": "IT之家"
+      },
+      {
+        "title": "DeepSeek V4 Pro 正式版、Harness 上线国家超算互联网，可一站式完成部署开发",
+        "link": "https://www.ithome.com/0/990/002.htm",
+        "time": "08-15 09:53",
+        "src": "IT之家"
+      },
+      {
         "title": "谷歌 Gemini 将推新选项：关闭 AI 生成图片 / 视频 / 音乐的可见水印",
         "link": "https://www.ithome.com/0/989/997.htm",
         "time": "08-15 09:29",
@@ -562,64 +580,46 @@
         "src": "IT之家"
       },
       {
-        "title": "中国医生用 GPT-5.6 破解 22 年数学难题，Crouzeix 本人确认正确",
-        "link": "https://www.ithome.com/0/989/952.htm",
-        "time": "08-14 23:08",
-        "src": "IT之家"
-      },
-      {
-        "title": "新研究证实，AI 生成书籍已挤压人类作者作品市场空间",
-        "link": "https://www.ithome.com/0/989/951.htm",
-        "time": "08-14 23:06",
-        "src": "IT之家"
-      },
-      {
-        "title": "消息称理想汽车探索自研云端推理芯片，沿用智驾芯片数据流架构",
-        "link": "https://www.ithome.com/0/989/947.htm",
-        "time": "08-14 22:48",
-        "src": "IT之家"
-      },
-      {
-        "title": "科技行业史上最大收购之一，SpaceX 豪掷 600 亿美元拿下 AI 编程公司 Cursor",
-        "link": "https://www.ithome.com/0/989/944.htm",
-        "time": "08-14 22:34",
-        "src": "IT之家"
+        "title": "英伟达大幅收缩对OpenAI数据中心的融资担保",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1573306.htm",
+        "time": "08-15 09:33",
+        "src": "cnBeta.COM"
       }
     ],
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 9030,
+        "likes": 9112,
         "downloads": 2,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 1515,
+        "likes": 1522,
         "downloads": 165300,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "Qwen/Qwen3.8-2.4T-A95B",
-        "likes": 918,
+        "likes": 922,
         "downloads": 3832,
         "pipeline": "text-generation"
       },
       {
-        "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3920,
-        "downloads": 1997541,
-        "pipeline": "image-text-to-video"
-      },
-      {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 816,
+        "likes": 852,
         "downloads": 0,
         "pipeline": ""
       },
       {
+        "id": "MiniMaxAI/MiniMax-H3",
+        "likes": 3924,
+        "downloads": 1997541,
+        "pipeline": "image-text-to-video"
+      },
+      {
         "id": "Lightricks/LTX-2.5",
-        "likes": 859,
+        "likes": 862,
         "downloads": 207830,
         "pipeline": "image-to-video"
       }
@@ -793,6 +793,12 @@
   ],
   "hw_news": [
     {
+      "title": "iQOO X 概念机内部发布：骁龙 8 Elite Gen10 Pro 处理器、15000mAh 固态电池",
+      "link": "https://www.ithome.com/0/990/000.htm",
+      "time": "08-15 09:47",
+      "src": "IT之家"
+    },
+    {
       "title": "可维修模块化手机 Fairphone 6+ 官宣 8 月 18 日发布：升级 12GB 内存",
       "link": "https://www.ithome.com/0/989/996.htm",
       "time": "08-15 09:21",
@@ -809,12 +815,6 @@
       "title": "英特尔发布 32.0.101.8974 WHQL 显卡驱动：游戏性能最高提升 13%",
       "link": "https://www.ithome.com/0/989/983.htm",
       "time": "08-15 08:01",
-      "src": "IT之家"
-    },
-    {
-      "title": "苹果 AirPods Pro 4 耳机最新消息汇总：摄像头与手势识别成焦点",
-      "link": "https://www.ithome.com/0/989/955.htm",
-      "time": "08-14 23:25",
       "src": "IT之家"
     },
     {
@@ -1100,6 +1100,12 @@
   },
   "intl_news": [
     {
+      "title": "漫威索尼《蜘蛛侠：崭新之日》官宣延长放映至 9 月 28 日，全球票房破 116 亿人民币拿下“票冠”",
+      "link": "https://www.ithome.com/0/990/006.htm",
+      "time": "08-15 10:08",
+      "src": "IT之家"
+    },
+    {
       "title": "硅光新时代来了？英伟达全面投产 Spectrum-X，全球首款量产 200G/lane CPO 交换机",
       "link": "https://www.ithome.com/0/989/970.htm",
       "time": "08-15 06:53",
@@ -1112,6 +1118,24 @@
       "src": "机核"
     },
     {
+      "title": "欧盟气候公约大使：中国生态环境法典具里程碑意义",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-15/10678059.shtml",
+      "time": "08-15 10:00",
+      "src": "中新网"
+    },
+    {
+      "title": "唯有正视历史真相，才能避免悲剧重演（国际论坛）",
+      "link": "https://www.chinanews.com.cn/ll/2026/08-15/10678058.shtml",
+      "time": "08-15 09:58",
+      "src": "中新网"
+    },
+    {
+      "title": "WTT欧洲大满贯赛瑞典站：中国组合林诗栋/蒯曼混双登顶",
+      "link": "https://www.chinanews.com.cn/ty/2026/08-15/10678047.shtml",
+      "time": "08-15 09:46",
+      "src": "中新网"
+    },
+    {
       "title": "英国威尔士一架轻型飞机坠毁致两人遇难",
       "link": "https://www.chinanews.com.cn/gj/2026/08-15/10678036.shtml",
       "time": "08-15 09:25",
@@ -1122,33 +1146,15 @@
       "link": "https://www.chinanews.com.cn/gj/2026/08-15/10678045.shtml",
       "time": "08-15 09:12",
       "src": "中新网"
-    },
-    {
-      "title": "英国高温野火肆虐触发全国警报",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-15/10678020.shtml",
-      "time": "08-15 07:45",
-      "src": "中新网"
-    },
-    {
-      "title": "企业级SSD消耗全球48%的NAND闪存供应",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1573268.htm",
-      "time": "08-15 08:53",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "从苹果到福特，中国科技为何越来越难以被全球企业忽视？",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1573234.htm",
-      "time": "08-14 20:20",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "《观点》周刊：中国发挥“贸易伪装”艺术至极致，特朗普的关税几同虚设",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260814-%E8%A7%82%E7%82%B9-%E5%91%A8%E5%88%8A-%E4%B8%AD%E5%9B%BD%E5%8F%91%E6%8C%A5-%E8%B4%B8%E6%98%93%E4%BC%AA%E8%A3%85-%E8%89%BA%E6%9C%AF%E8%87%B3%E6%9E%81%E8%87%B4%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E5%85%B3%E7%A8%8E%E5%87%A0%E5%90%8C%E8%99%9A%E8%AE%BE",
-      "time": "08-15 05:03",
-      "src": "AP - Hau Dinh"
     }
   ],
   "econ_news": [
+    {
+      "title": "漫威索尼《蜘蛛侠：崭新之日》官宣延长放映至 9 月 28 日，全球票房破 116 亿人民币拿下“票冠”",
+      "link": "https://www.ithome.com/0/990/006.htm",
+      "time": "08-15 10:08",
+      "src": "IT之家"
+    },
     {
       "title": "IT早报 0815：曝苹果联合阿里自研中国专属大模型；追觅卖出首台超 3 万美元手机；微信称朋友圈坚守不可编辑原则；智谱发布 GLM-5.3 最强开源编程模型...",
       "link": "https://www.ithome.com/0/989/979.htm",
@@ -1162,21 +1168,15 @@
       "src": "IT之家"
     },
     {
-      "title": "苹果地图 Apple Maps 广告位招商中：美国、加拿大商家提前预订最高每月返现 1000 美元",
-      "link": "https://www.ithome.com/0/989/946.htm",
-      "time": "08-14 22:42",
-      "src": "IT之家"
+      "title": "中消协发布绿色消费指南 涵盖四大领域50条行动建议",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-15/10678069.shtml",
+      "time": "08-15 10:33",
+      "src": "中新网"
     },
     {
-      "title": "科技行业史上最大收购之一，SpaceX 豪掷 600 亿美元拿下 AI 编程公司 Cursor",
-      "link": "https://www.ithome.com/0/989/944.htm",
-      "time": "08-14 22:34",
-      "src": "IT之家"
-    },
-    {
-      "title": "美国7月零售销售额环比下降0.6% 创一年来最大跌幅",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-15/10678016.shtml",
-      "time": "08-15 06:50",
+      "title": "31个省区市“晒账本”——上半年地方财政运行平稳",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-15/10678066.shtml",
+      "time": "08-15 10:28",
       "src": "中新网"
     },
     {
@@ -1199,6 +1199,30 @@
     }
   ],
   "game_news": [
+    {
+      "title": "微软 Copilot Notebooks 扩展支持 Markdown，强化 AI 资料分析",
+      "link": "https://www.ithome.com/0/990/013.htm",
+      "time": "08-15 10:48",
+      "src": "IT之家"
+    },
+    {
+      "title": "微软 Win11/Win10 版 Word 加入文本定位链接，协作跳转不必手动滚动",
+      "link": "https://www.ithome.com/0/990/007.htm",
+      "time": "08-15 10:11",
+      "src": "IT之家"
+    },
+    {
+      "title": "漫威索尼《蜘蛛侠：崭新之日》官宣延长放映至 9 月 28 日，全球票房破 116 亿人民币拿下“票冠”",
+      "link": "https://www.ithome.com/0/990/006.htm",
+      "time": "08-15 10:08",
+      "src": "IT之家"
+    },
+    {
+      "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug，部分用户拍手叫好",
+      "link": "https://www.ithome.com/0/989/999.htm",
+      "time": "08-15 09:43",
+      "src": "IT之家"
+    },
     {
       "title": "EWC 电竞世俱杯回应《和平精英》多名选手食物中毒，原定比赛延期一天",
       "link": "https://www.ithome.com/0/989/995.htm",
@@ -1223,30 +1247,6 @@
       "link": "https://www.ithome.com/0/989/969.htm",
       "time": "08-15 01:23",
       "src": "IT之家"
-    },
-    {
-      "title": "索尼希望打造原创角色 IP，目标与三丽鸥抗衡",
-      "link": "https://www.ithome.com/0/989/964.htm",
-      "time": "08-14 23:38",
-      "src": "IT之家"
-    },
-    {
-      "title": "《羊蹄山之魂》游戏 1.604 更新上线，体积超 30GB",
-      "link": "https://www.ithome.com/0/989/948.htm",
-      "time": "08-14 22:50",
-      "src": "IT之家"
-    },
-    {
-      "title": "脱离微软 Xbox 后，《午夜以南》Steam 发行商已变更为 Compulsion Games",
-      "link": "https://www.ithome.com/0/989/943.htm",
-      "time": "08-14 22:29",
-      "src": "IT之家"
-    },
-    {
-      "title": "「摊开玩」独立游戏市集应该怎么走？手把手带你进入市集！",
-      "link": "https://www.gcores.com/articles/205679",
-      "time": "08-14 17:00",
-      "src": "机核"
     }
   ],
   "game_update": [
