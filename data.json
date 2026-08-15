@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15 16:36",
+  "generated_at": "2026-08-15 18:29",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -245,12 +245,6 @@
         "src": "IT之家"
       },
       {
-        "title": "宁夏中卫：沙漠边缘崛起算力基地",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-15/10678218.shtml",
-        "time": "08-15 15:58",
-        "src": "中新网"
-      },
-      {
         "title": "美国旧金山企业推出人形机器人保洁服务 每小时30美元",
         "link": "https://www.cnbeta.com.tw/articles/tech/1573324.htm",
         "time": "08-15 14:49",
@@ -279,6 +273,12 @@
         "link": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininkfhv8772447.shtml",
         "time": "08-15 09:30",
         "src": "滚动播报"
+      },
+      {
+        "title": "8月15日隔夜要闻：标普500周线三连阳 油价上涨 金价反弹 特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
+        "link": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiusz8963314.shtml",
+        "time": "08-15 07:03",
+        "src": "环球市场播报"
       }
     ]
   },
@@ -538,6 +538,18 @@
   "ai": {
     "news_zh": [
       {
+        "title": "调查发现美国年轻人普遍不信任 AI，以及主张“拥抱 AI”的科技巨头",
+        "link": "https://www.ithome.com/0/990/119.htm",
+        "time": "08-15 17:30",
+        "src": "IT之家"
+      },
+      {
+        "title": "智能体成“逃课神器”？部分美国学生用 AI 代替自己完成整门网络课程",
+        "link": "https://www.ithome.com/0/990/115.htm",
+        "time": "08-15 17:05",
+        "src": "IT之家"
+      },
+      {
         "title": "北京 2026 E-Town 机器人消费节启动：促消费资金提至 1800 万元，首次打造机器人消费街",
         "link": "https://www.ithome.com/0/990/110.htm",
         "time": "08-15 16:25",
@@ -572,54 +584,42 @@
         "link": "https://www.ithome.com/0/990/062.htm",
         "time": "08-15 15:16",
         "src": "IT之家"
-      },
-      {
-        "title": "消息称 OpenAI 设专有邮箱，员工投诉可直达 CEO 奥尔特曼",
-        "link": "https://www.ithome.com/0/990/059.htm",
-        "time": "08-15 14:57",
-        "src": "IT之家"
-      },
-      {
-        "title": "全球首例：人类员工因 23 个班次迟到 17 次被“AI 老板”开除",
-        "link": "https://www.ithome.com/0/990/048.htm",
-        "time": "08-15 14:25",
-        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 9362,
+        "likes": 9425,
         "downloads": 91917,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 1530,
+        "likes": 1538,
         "downloads": 246454,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 951,
+        "likes": 978,
         "downloads": 867963,
         "pipeline": ""
       },
       {
         "id": "Qwen/Qwen3.8-2.4T-A95B",
-        "likes": 936,
+        "likes": 944,
         "downloads": 6381,
         "pipeline": "text-generation"
       },
       {
         "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3940,
+        "likes": 3944,
         "downloads": 2212155,
         "pipeline": "image-text-to-video"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 883,
+        "likes": 891,
         "downloads": 378439,
         "pipeline": "image-to-video"
       }
@@ -793,6 +793,12 @@
   ],
   "hw_news": [
     {
+      "title": "惠普推出全新 OmniBook 5 笔记本：16 寸 OLED 屏幕，至高酷睿 Ultra 9 386H 处理器",
+      "link": "https://www.ithome.com/0/990/120.htm",
+      "time": "08-15 17:32",
+      "src": "IT之家"
+    },
+    {
       "title": "联想拯救者 Y700 无极平板参数曝光：骁龙 8 Elite Gen5 领先版、8.4 英寸 OLED 屏",
       "link": "https://www.ithome.com/0/990/039.htm",
       "time": "08-15 13:35",
@@ -854,12 +860,6 @@
     },
     {
       "title": "微星 40 周年发布 RTX 5090 LIGHTNING Z 旗舰与内置 AI 代理的 OLED 电竞显示器",
-      "link": "https://www.160.com/article/12732.html",
-      "time": "精选",
-      "src": "资讯整理"
-    },
-    {
-      "title": "AMD 锐龙 AI Max 400 系列: 192GB 统一内存, 宣称本地可运行 300B 参数大模型",
       "link": "https://www.160.com/article/12732.html",
       "time": "精选",
       "src": "资讯整理"
@@ -1042,12 +1042,6 @@
         "src": "IT之家"
       },
       {
-        "title": "迪士尼皮克斯动画《寻梦环游记 2》发布首张概念图，2029 年上映",
-        "link": "https://www.ithome.com/0/990/026.htm",
-        "time": "08-15 11:49",
-        "src": "IT之家"
-      },
-      {
         "title": "声优、导演、原作者参演：TV动画《尼古喵喵》片头曲MV公开",
         "link": "https://www.gcores.com/articles/218357",
         "time": "08-14 13:54",
@@ -1093,6 +1087,12 @@
   },
   "intl_news": [
     {
+      "title": "中国团队在全球最大“人造太阳”壁处理领域实现技术链条贯通，覆盖 GDC 与硼化两大系统",
+      "link": "https://www.ithome.com/0/990/138.htm",
+      "time": "08-15 18:20",
+      "src": "IT之家"
+    },
+    {
       "title": "全球程序员都在浪费 token 白送钱，Anthropic 分享 Claude Code 六大省钱技巧",
       "link": "https://www.ithome.com/0/990/072.htm",
       "time": "08-15 15:35",
@@ -1129,12 +1129,6 @@
       "src": "IT之家"
     },
     {
-      "title": "全球首秀，奔驰官宣全新 GLE SUV 长轴距版亮相成都车展",
-      "link": "https://www.ithome.com/0/990/018.htm",
-      "time": "08-15 11:07",
-      "src": "IT之家"
-    },
-    {
       "title": "《宝可梦Pokopia》全球累计销量突破500万份",
       "link": "https://www.gcores.com/articles/218355",
       "time": "08-14 13:40",
@@ -1167,9 +1161,15 @@
       "src": "IT之家"
     },
     {
-      "title": "长江十年行｜“数”读长江经济带十周年江西答卷",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-15/10678215.shtml",
-      "time": "08-15 15:56",
+      "title": "《中国工业领域绿色低碳发展技术蓝皮书》在湖州发布",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-15/10678269.shtml",
+      "time": "08-15 17:11",
+      "src": "中新网"
+    },
+    {
+      "title": "内蒙古自治区人大财政经济委员会主任委员冯玉臻被查",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-15/10678264.shtml",
+      "time": "08-15 17:10",
       "src": "中新网"
     },
     {
@@ -1183,17 +1183,17 @@
       "link": "https://www.cnbeta.com.tw/articles/tech/1573302.htm",
       "time": "08-15 09:32",
       "src": "cnBeta.COM"
-    },
-    {
-      "title": "Anthropic二季度营收达逾115亿美元 同比实现14倍暴涨",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1573282.htm",
-      "time": "08-15 09:08",
-      "src": "cnBeta.COM"
     }
   ],
   "game_news": [
     {
-      "title": "微软发布 60 天倒计时：Windows Server 2022 及 Win11 24H2 将于 10 月 13 日终止支持",
+      "title": "2K 成立新体育游戏工作室，由多位 EA Sports 老将领衔",
+      "link": "https://www.ithome.com/0/990/135.htm",
+      "time": "08-15 18:18",
+      "src": "IT之家"
+    },
+    {
+      "title": "微软发布 60 天倒计时：Windows Server 2022 及 Win11 24H2 将于 10 月 13 日终止主流支持",
       "link": "https://www.ithome.com/0/990/108.htm",
       "time": "08-15 16:16",
       "src": "IT之家"
@@ -1220,12 +1220,6 @@
       "title": "《王国之心 4》新宣传片公开：2027 年末发售，登陆 PS5/Xbox/ NS2/PC 平台",
       "link": "https://www.ithome.com/0/990/056.htm",
       "time": "08-15 14:55",
-      "src": "IT之家"
-    },
-    {
-      "title": "三星 One UI 9 将支持卸载预装微软 SwiftKey 输入法，释放约 55MB 空间",
-      "link": "https://www.ithome.com/0/990/024.htm",
-      "time": "08-15 11:40",
       "src": "IT之家"
     },
     {
@@ -1307,6 +1301,18 @@
       "src": "ISW"
     },
     {
+      "title": "中国人民抗日战争纪念馆举办“赓续胜利荣光”主题社教活动",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-15/10678295.shtml",
+      "time": "08-15 18:25",
+      "src": "中新网"
+    },
+    {
+      "title": "国防部新闻发言人蒋斌就日本政要参拜靖国神社答记者问",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-15/10678280.shtml",
+      "time": "08-15 17:40",
+      "src": "中新网"
+    },
+    {
       "title": "600亿美元科技收购落地 SpaceX正式杀入“Vibe Coding”战场",
       "link": "https://www.cnbeta.com.tw/articles/tech/1573302.htm",
       "time": "08-15 09:32",
@@ -1319,34 +1325,22 @@
       "src": "cnBeta.COM"
     },
     {
+      "title": "为遏制朝鲜核能力发展，韩国总统提议通过与朝鲜举行会谈正式结束朝鲜战争",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260815-%E4%B8%BA%E9%81%8F%E5%88%B6%E6%9C%9D%E9%B2%9C%E6%A0%B8%E8%83%BD%E5%8A%9B%E5%8F%91%E5%B1%95%EF%BC%8C%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%8F%90%E8%AE%AE%E9%80%9A%E8%BF%87%E4%B8%8E%E6%9C%9D%E9%B2%9C%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88%E6%AD%A3%E5%BC%8F%E7%BB%93%E6%9D%9F%E6%9C%9D%E9%B2%9C%E6%88%98%E4%BA%89",
+      "time": "08-15 17:33",
+      "src": "AFP - JUNG YEO"
+    },
+    {
+      "title": "无人水面艇摄像头被发现向中国IP地址发送信号 英国防部加强对供应链审查",
+      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260815-%E6%97%A0%E4%BA%BA%E6%B0%B4%E9%9D%A2%E8%89%87%E6%91%84%E5%83%8F%E5%A4%B4%E8%A2%AB%E5%8F%91%E7%8E%B0%E5%90%91%E4%B8%AD%E5%9B%BDip%E5%9C%B0%E5%9D%80%E5%8F%91%E9%80%81%E4%BF%A1%E5%8F%B7-%E8%8B%B1%E5%9B%BD%E9%98%B2%E9%83%A8%E5%8A%A0%E5%BC%BA%E5%AF%B9%E4%BE%9B%E5%BA%94%E9%93%BE%E5%AE%A1%E6%9F%A5",
+      "time": "08-15 17:09",
+      "src": "© 网络图片"
+    },
+    {
       "title": "特朗普称等击败伊朗后，将“宣布霍尔木兹海峡属于美国领土”",
       "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260814-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%AD%89%E5%87%BB%E8%B4%A5%E4%BC%8A%E6%9C%97%E5%90%8E%EF%BC%8C%E5%B0%86-%E5%AE%A3%E5%B8%83%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E5%B1%9E%E4%BA%8E%E7%BE%8E%E5%9B%BD%E9%A2%86%E5%9C%9F",
       "time": "08-15 07:06",
       "src": "© Emrah Gurel "
-    },
-    {
-      "title": "美国开征无人机关税 台湾积极应对",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260814-%E7%BE%8E%E5%9B%BD%E5%BC%80%E5%BE%81%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%85%B3%E7%A8%8E-%E5%8F%B0%E6%B9%BE%E7%A7%AF%E6%9E%81%E5%BA%94%E5%AF%B9",
-      "time": "08-15 04:54",
-      "src": "REUTERS - Chen"
-    },
-    {
-      "title": "对欧洲军事存在进行评估期间 特朗普政府向北约盟国发“忠诚度”效益主义问卷",
-      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260814-%E5%AF%B9%E6%AC%A7%E6%B4%B2%E5%86%9B%E4%BA%8B%E5%AD%98%E5%9C%A8%E8%BF%9B%E8%A1%8C%E8%AF%84%E4%BC%B0%E6%9C%9F%E9%97%B4-%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%90%91%E5%8C%97%E7%BA%A6%E7%9B%9F%E5%9B%BD%E5%8F%91-%E5%BF%A0%E8%AF%9A%E5%BA%A6-%E6%95%88%E7%9B%8A%E4%B8%BB%E4%B9%89%E9%97%AE%E5%8D%B7",
-      "time": "08-15 00:06",
-      "src": "© 网络图片"
-    },
-    {
-      "title": "美特种作战司令部司令到访：准备加强与菲律宾等亚洲国家特种部队的战备演习",
-      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260814-%E7%BE%8E%E7%89%B9%E7%A7%8D%E4%BD%9C%E6%88%98%E5%8F%B8%E4%BB%A4%E9%83%A8%E5%8F%B8%E4%BB%A4%E5%88%B0%E8%AE%BF-%E5%87%86%E5%A4%87%E5%8A%A0%E5%BC%BA%E4%B8%8E%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%AD%89%E4%BA%9A%E6%B4%B2%E5%9B%BD%E5%AE%B6%E7%89%B9%E7%A7%8D%E9%83%A8%E9%98%9F%E7%9A%84%E6%88%98%E5%A4%87%E6%BC%94%E4%B9%A0",
-      "time": "08-14 23:31",
-      "src": "© 美联社图片"
-    },
-    {
-      "title": "澳总理与特朗普通话谈关税等问题 并指中方导弹试射在太平洋引发极大担忧",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260814-%E6%BE%B3%E6%80%BB%E7%90%86%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D%E8%B0%88%E5%85%B3%E7%A8%8E%E7%AD%89%E9%97%AE%E9%A2%98-%E5%B9%B6%E6%8C%87%E4%B8%AD%E6%96%B9%E5%AF%BC%E5%BC%B9%E8%AF%95%E5%B0%84%E5%9C%A8%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%BC%95%E5%8F%91%E6%9E%81%E5%A4%A7%E6%8B%85%E5%BF%A7",
-      "time": "08-14 18:38",
-      "src": "© 网络图片"
     }
   ]
 }
