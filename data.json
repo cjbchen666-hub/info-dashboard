@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15 12:38",
+  "generated_at": "2026-08-15 14:49",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,15 +233,9 @@
     ],
     "news": [
       {
-        "title": "2026 E-Town机器人消费节在京启动 推出工业科技研学线路",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-15/10678102.shtml",
-        "time": "08-15 12:02",
-        "src": "中新网"
-      },
-      {
-        "title": "香港与内地企业共商农产品出海 预估意向成交额超18亿港元",
-        "link": "https://www.chinanews.com.cn/dwq/2026/08-15/10678097.shtml",
-        "time": "08-15 11:58",
+        "title": "北京举办消费节促“机器人买卖”",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-15/10678185.shtml",
+        "time": "08-15 14:10",
         "src": "中新网"
       },
       {
@@ -255,6 +249,12 @@
         "link": "https://www.cnbeta.com.tw/articles/tech/1573250.htm",
         "time": "08-14 21:53",
         "src": "cnBeta.COM"
+      },
+      {
+        "title": "视频|美国旧金山企业推出人形机器人保洁服务 每小时30美元",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-15/doc-ininkrwk3457356.shtml",
+        "time": "08-15 14:09",
+        "src": "环球市场播报"
       },
       {
         "title": "国产品牌涌入，手术机器人厂商如何摆脱单纯卷价格",
@@ -275,10 +275,10 @@
         "src": "环球市场播报"
       },
       {
-        "title": "直降6000元！机器人日租金“大跳水”！又一百亿赛道→",
-        "link": "https://finance.sina.com.cn/wm/2026-08-15/doc-ininiusy2177435.shtml",
-        "time": "08-15 06:10",
-        "src": "滚动播报"
+        "title": "视频|人形机器人上岗家政 一小时30刀进入普通家庭",
+        "link": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwp2185843.shtml",
+        "time": "08-15 14:11",
+        "src": "市场资讯"
       }
     ]
   },
@@ -477,7 +477,7 @@
         "id": 563745,
         "name": "鬼の花嫁",
         "name_cn": "鬼的新娘",
-        "score": 4.0,
+        "score": 3.9,
         "img": "http://lain.bgm.tv/pic/cover/c/b9/ac/563745_YI26V.jpg",
         "air_date": "2026-07-04",
         "rank": 9964
@@ -538,6 +538,24 @@
   "ai": {
     "news_zh": [
       {
+        "title": "全球首例：人类员工因 23 个班次迟到 17 次被“AI 老板”开除",
+        "link": "https://www.ithome.com/0/990/048.htm",
+        "time": "08-15 14:25",
+        "src": "IT之家"
+      },
+      {
+        "title": "腾讯 QQ Bot 官宣接入 DeepSeek Harness：支持单聊 / 群聊，接入仅需 3 步",
+        "link": "https://www.ithome.com/0/990/041.htm",
+        "time": "08-15 13:44",
+        "src": "IT之家"
+      },
+      {
+        "title": "追光 S 隧道 360° 大回环被疑 AI 造假，岚图汽车宣布发布会一镜到底回应质疑",
+        "link": "https://www.ithome.com/0/990/038.htm",
+        "time": "08-15 13:32",
+        "src": "IT之家"
+      },
+      {
         "title": "微软 Copilot Notebooks 扩展支持 Markdown，强化 AI 资料分析",
         "link": "https://www.ithome.com/0/990/013.htm",
         "time": "08-15 10:48",
@@ -562,64 +580,46 @@
         "src": "IT之家"
       },
       {
-        "title": "“虾虾大脑”升级：荣耀 YOYO Claw 官宣接入智谱最新发布的 GLM-5.3 大模型",
-        "link": "https://www.ithome.com/0/989/989.htm",
-        "time": "08-15 08:54",
-        "src": "IT之家"
-      },
-      {
-        "title": "IT早报 0815：曝苹果联合阿里自研中国专属大模型；追觅卖出首台超 3 万美元手机；微信称朋友圈坚守不可编辑原则；智谱发布 GLM-5.3 最强开源编程模型...",
-        "link": "https://www.ithome.com/0/989/979.htm",
-        "time": "08-15 07:40",
-        "src": "IT之家"
-      },
-      {
-        "title": "2026 E-Town机器人消费节在京启动 推出工业科技研学线路",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-15/10678102.shtml",
-        "time": "08-15 12:02",
+        "title": "北京举办消费节促“机器人买卖”",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-15/10678185.shtml",
+        "time": "08-15 14:10",
         "src": "中新网"
-      },
-      {
-        "title": "英伟达大幅收缩对OpenAI数据中心的融资担保",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1573306.htm",
-        "time": "08-15 09:33",
-        "src": "cnBeta.COM"
       }
     ],
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 9194,
+        "likes": 9284,
         "downloads": 2,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 1523,
+        "likes": 1525,
         "downloads": 165300,
         "pipeline": "image-text-to-text"
       },
       {
-        "id": "Qwen/Qwen3.8-2.4T-A95B",
-        "likes": 927,
-        "downloads": 3832,
-        "pipeline": "text-generation"
-      },
-      {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 889,
+        "likes": 923,
         "downloads": 0,
         "pipeline": ""
       },
       {
+        "id": "Qwen/Qwen3.8-2.4T-A95B",
+        "likes": 931,
+        "downloads": 3832,
+        "pipeline": "text-generation"
+      },
+      {
         "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3926,
+        "likes": 3933,
         "downloads": 1997541,
         "pipeline": "image-text-to-video"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 866,
+        "likes": 874,
         "downloads": 207830,
         "pipeline": "image-to-video"
       }
@@ -793,6 +793,18 @@
   ],
   "hw_news": [
     {
+      "title": "联想拯救者 Y700 无极平板参数曝光：骁龙 8 Elite Gen5 领先版、8.4 英寸 OLED 屏",
+      "link": "https://www.ithome.com/0/990/039.htm",
+      "time": "08-15 13:35",
+      "src": "IT之家"
+    },
+    {
+      "title": "消息称英特尔 Razor Lake-AX 处理器沿用 Nova Lake 核心组合，不支持超频",
+      "link": "https://www.ithome.com/0/990/031.htm",
+      "time": "08-15 12:54",
+      "src": "IT之家"
+    },
+    {
       "title": "iQOO X 概念机内部发布：骁龙 8 Elite Gen10 Pro 处理器、15000mAh 固态电池",
       "link": "https://www.ithome.com/0/990/000.htm",
       "time": "08-15 09:47",
@@ -810,12 +822,6 @@
       "time": "08-15 09:14",
       "src": "IT之家",
       "type": "不停机更新"
-    },
-    {
-      "title": "英特尔发布 32.0.101.8974 WHQL 显卡驱动：游戏性能最高提升 13%",
-      "link": "https://www.ithome.com/0/989/983.htm",
-      "time": "08-15 08:01",
-      "src": "IT之家"
     },
     {
       "title": "DDR5太贵逼退玩家 13、14代酷睿需求暴涨断货令英特尔感到意外",
@@ -856,12 +862,6 @@
     {
       "title": "AMD 发布 Ryzen 7 7700X3D(104MB缓存,$329) 与 Radeon RX 9070 GRE(12GB,$549), 强化 1440p 游戏市场",
       "link": "https://www.91mobiles.com/hub/computex-2026-amd-ryzen-x3d-cpus-radeon-9070-gre",
-      "time": "精选",
-      "src": "资讯整理"
-    },
-    {
-      "title": "Intel 预览 Nova Lake 桌面平台: 最高48核(16P+32E), 18A 工艺, LGA1954 新插槽, 预计2026年底上市",
-      "link": "https://www.160.com/article/12732.html",
       "time": "精选",
       "src": "资讯整理"
     }
@@ -1037,21 +1037,15 @@
   "anime_industry": {
     "news": [
       {
+        "title": "迪士尼动画《疯狂动物城 3》正式官宣，已开始制作",
+        "link": "https://www.ithome.com/0/990/036.htm",
+        "time": "08-15 13:25",
+        "src": "IT之家"
+      },
+      {
         "title": "迪士尼皮克斯动画《寻梦环游记 2》发布首张概念图，2029 年上映",
         "link": "https://www.ithome.com/0/990/026.htm",
         "time": "08-15 11:49",
-        "src": "IT之家"
-      },
-      {
-        "title": "蜘蛛侠动画电影三部曲终章《蜘蛛侠：超越宇宙》前 4 分钟高清画面流出",
-        "link": "https://www.ithome.com/0/989/987.htm",
-        "time": "08-15 08:43",
-        "src": "IT之家"
-      },
-      {
-        "title": "国产动画电影《八仙！》在北美首映，此前已进入中国影史国产动画片票房榜前七",
-        "link": "https://www.ithome.com/0/989/985.htm",
-        "time": "08-15 08:29",
         "src": "IT之家"
       },
       {
@@ -1067,16 +1061,10 @@
         "src": "机核"
       },
       {
-        "title": "国产动画电影《牛来》上映9天票房7169元 观众看完想哭",
-        "link": "https://www.cnbeta.com.tw/articles/movie/1573242.htm",
-        "time": "08-14 20:25",
-        "src": "cnBeta.COM"
-      },
-      {
         "title": "《宝可梦：波可比亚》销量突破500万 任天堂股价大涨7%",
-        "link": "https://www.cnbeta.com.tw/articles/game/1573228.htm",
-        "time": "08-14 20:11",
-        "src": "cnBeta.COM"
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhtfp9372044.shtml",
+        "time": "08-14 19:36",
+        "src": "环球市场播报"
       },
       {
         "title": "《动画产业报告2025》: 市场规模达 3.84 万亿日元创历史新高, 海外占比约 56.5%",
@@ -1095,10 +1083,46 @@
         "link": "https://www.info35.net/hotopics/44871.html",
         "time": "精选",
         "src": "资讯整理"
+      },
+      {
+        "title": "专家示警\"串流泡沫到顶\": KADOKAWA、TBS动画事业、Studio KAI 相继亏损或大幅减益",
+        "link": "https://www.ucmanga.com/a/ri-ben-dong-hua-ye-jing-bao-xiang-qi-da-han-jie-lian-yu-sun-zhuan-jia-shi-jing-chuan-liu-pao-mo-dao-ding-liao.html",
+        "time": "精选",
+        "src": "资讯整理"
       }
     ]
   },
   "intl_news": [
+    {
+      "title": "全球首例：人类员工因 23 个班次迟到 17 次被“AI 老板”开除",
+      "link": "https://www.ithome.com/0/990/048.htm",
+      "time": "08-15 14:25",
+      "src": "IT之家"
+    },
+    {
+      "title": "全球限 150 辆：阿斯顿 · 马丁展示最强前置 V12 超跑 Valen，零百加速 3.1 秒",
+      "link": "https://www.ithome.com/0/990/047.htm",
+      "time": "08-15 14:08",
+      "src": "IT之家"
+    },
+    {
+      "title": "X 战警官宣正式加入漫威电影宇宙：全新演员阵容公开，2028 年 5 月全球献映",
+      "link": "https://www.ithome.com/0/990/045.htm",
+      "time": "08-15 13:50",
+      "src": "IT之家"
+    },
+    {
+      "title": "限 1963 辆：兰博基尼全球首秀 V12 混动超跑 Revuelto SV，零百加速 2.4 秒、1065 马力",
+      "link": "https://www.ithome.com/0/990/033.htm",
+      "time": "08-15 13:09",
+      "src": "IT之家"
+    },
+    {
+      "title": "漫威《复仇者联盟 5：毁灭之日》全新预告发布，2026 年 12 月全球献映",
+      "link": "https://www.ithome.com/0/990/030.htm",
+      "time": "08-15 12:50",
+      "src": "IT之家"
+    },
     {
       "title": "全球首秀，奔驰官宣全新 GLE SUV 长轴距版亮相成都车展",
       "link": "https://www.ithome.com/0/990/018.htm",
@@ -1116,36 +1140,6 @@
       "link": "https://www.gcores.com/articles/218355",
       "time": "08-14 13:40",
       "src": "机核"
-    },
-    {
-      "title": "（经济观察）中国咖啡市场持续看涨 海南或成全球咖啡入华新通道",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-15/10678137.shtml",
-      "time": "08-15 12:29",
-      "src": "中新网"
-    },
-    {
-      "title": "企业级SSD消耗全球48%的NAND闪存供应",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1573268.htm",
-      "time": "08-15 08:53",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "从苹果到福特，中国科技为何越来越难以被全球企业忽视？",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1573234.htm",
-      "time": "08-14 20:20",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "《观点》周刊：中国发挥“贸易伪装”艺术至极致，特朗普的关税几同虚设",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260814-%E8%A7%82%E7%82%B9-%E5%91%A8%E5%88%8A-%E4%B8%AD%E5%9B%BD%E5%8F%91%E6%8C%A5-%E8%B4%B8%E6%98%93%E4%BC%AA%E8%A3%85-%E8%89%BA%E6%9C%AF%E8%87%B3%E6%9E%81%E8%87%B4%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E5%85%B3%E7%A8%8E%E5%87%A0%E5%90%8C%E8%99%9A%E8%AE%BE",
-      "time": "08-15 05:03",
-      "src": "AP - Hau Dinh"
-    },
-    {
-      "title": "特朗普称等击败伊朗后，将“宣布霍尔木兹海峡属于美国领土”",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260814-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%AD%89%E5%87%BB%E8%B4%A5%E4%BC%8A%E6%9C%97%E5%90%8E%EF%BC%8C%E5%B0%86-%E5%AE%A3%E5%B8%83%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E5%B1%9E%E4%BA%8E%E7%BE%8E%E5%9B%BD%E9%A2%86%E5%9C%9F",
-      "time": "08-15 07:06",
-      "src": "© Emrah Gurel "
     }
   ],
   "econ_news": [
@@ -1156,27 +1150,9 @@
       "src": "IT之家"
     },
     {
-      "title": "IT早报 0815：曝苹果联合阿里自研中国专属大模型；追觅卖出首台超 3 万美元手机；微信称朋友圈坚守不可编辑原则；智谱发布 GLM-5.3 最强开源编程模型...",
-      "link": "https://www.ithome.com/0/989/979.htm",
-      "time": "08-15 07:40",
-      "src": "IT之家"
-    },
-    {
-      "title": "（经济观察）中国咖啡市场持续看涨 海南或成全球咖啡入华新通道",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-15/10678137.shtml",
-      "time": "08-15 12:29",
-      "src": "中新网"
-    },
-    {
-      "title": "粤桂协作再落子 三江林下经济湾区觅商机",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-15/10678125.shtml",
-      "time": "08-15 12:27",
-      "src": "中新网"
-    },
-    {
-      "title": "2026 E-Town机器人消费节在京启动 推出工业科技研学线路",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-15/10678102.shtml",
-      "time": "08-15 12:02",
+      "title": "北京举办消费节促“机器人买卖”",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-15/10678185.shtml",
+      "time": "08-15 14:10",
       "src": "中新网"
     },
     {
@@ -1196,6 +1172,24 @@
       "link": "https://www.cnbeta.com.tw/articles/tech/1573278.htm",
       "time": "08-15 09:07",
       "src": "cnBeta.COM"
+    },
+    {
+      "title": "OpenAI首席财务官透露：企业级业务营收现已超越消费者业务",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1573276.htm",
+      "time": "08-15 09:06",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "《观点》周刊：中国发挥“贸易伪装”艺术至极致，特朗普的关税几同虚设",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260814-%E8%A7%82%E7%82%B9-%E5%91%A8%E5%88%8A-%E4%B8%AD%E5%9B%BD%E5%8F%91%E6%8C%A5-%E8%B4%B8%E6%98%93%E4%BC%AA%E8%A3%85-%E8%89%BA%E6%9C%AF%E8%87%B3%E6%9E%81%E8%87%B4%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E5%85%B3%E7%A8%8E%E5%87%A0%E5%90%8C%E8%99%9A%E8%AE%BE",
+      "time": "08-15 05:03",
+      "src": "AP - Hau Dinh"
+    },
+    {
+      "title": "美国开征无人机关税 台湾积极应对",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260814-%E7%BE%8E%E5%9B%BD%E5%BC%80%E5%BE%81%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%85%B3%E7%A8%8E-%E5%8F%B0%E6%B9%BE%E7%A7%AF%E6%9E%81%E5%BA%94%E5%AF%B9",
+      "time": "08-15 04:54",
+      "src": "REUTERS - Chen"
     }
   ],
   "game_news": [
@@ -1237,16 +1231,16 @@
       "type": "不停机更新"
     },
     {
-      "title": "英特尔发布 32.0.101.8974 WHQL 显卡驱动：游戏性能最高提升 13%",
-      "link": "https://www.ithome.com/0/989/983.htm",
-      "time": "08-15 08:01",
-      "src": "IT之家"
+      "title": "《主播女孩重度依赖》原班人马打造：暗黑视觉小说《妹妹、他人、妄想症》现已发售",
+      "link": "https://www.gcores.com/articles/218391",
+      "time": "08-15 12:24",
+      "src": "机核"
     },
     {
-      "title": "微软推送 Win11 26x00.9267 RP 预览版：自由指定任务栏停靠位置",
-      "link": "https://www.ithome.com/0/989/973.htm",
-      "time": "08-15 07:16",
-      "src": "IT之家"
+      "title": "Vol.22 人生游戏九宫格（上：主播篇）：那些最爱玩的、影响最深的、最有回忆的和最想推荐给大家的「游戏时差03」",
+      "link": "https://www.gcores.com/radios/218389",
+      "time": "08-14 18:30",
+      "src": "机核"
     }
   ],
   "game_update": [
@@ -1315,6 +1309,18 @@
       "src": "ISW"
     },
     {
+      "title": "边境林海虎啸鹿鸣 太平沟绘就跨境生态共生答卷",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-15/10678179.shtml",
+      "time": "08-15 14:07",
+      "src": "中新网"
+    },
+    {
+      "title": "铭记历史 民众参观侵华日军第七三一部队罪证陈列馆",
+      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/08-15/1201140.shtml",
+      "time": "08-15 14:07",
+      "src": "中新网"
+    },
+    {
       "title": "600亿美元科技收购落地 SpaceX正式杀入“Vibe Coding”战场",
       "link": "https://www.cnbeta.com.tw/articles/tech/1573302.htm",
       "time": "08-15 09:32",
@@ -1342,18 +1348,6 @@
       "title": "对欧洲军事存在进行评估期间 特朗普政府向北约盟国发“忠诚度”效益主义问卷",
       "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260814-%E5%AF%B9%E6%AC%A7%E6%B4%B2%E5%86%9B%E4%BA%8B%E5%AD%98%E5%9C%A8%E8%BF%9B%E8%A1%8C%E8%AF%84%E4%BC%B0%E6%9C%9F%E9%97%B4-%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%90%91%E5%8C%97%E7%BA%A6%E7%9B%9F%E5%9B%BD%E5%8F%91-%E5%BF%A0%E8%AF%9A%E5%BA%A6-%E6%95%88%E7%9B%8A%E4%B8%BB%E4%B9%89%E9%97%AE%E5%8D%B7",
       "time": "08-15 00:06",
-      "src": "© 网络图片"
-    },
-    {
-      "title": "美特种作战司令部司令到访：准备加强与菲律宾等亚洲国家特种部队的战备演习",
-      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260814-%E7%BE%8E%E7%89%B9%E7%A7%8D%E4%BD%9C%E6%88%98%E5%8F%B8%E4%BB%A4%E9%83%A8%E5%8F%B8%E4%BB%A4%E5%88%B0%E8%AE%BF-%E5%87%86%E5%A4%87%E5%8A%A0%E5%BC%BA%E4%B8%8E%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%AD%89%E4%BA%9A%E6%B4%B2%E5%9B%BD%E5%AE%B6%E7%89%B9%E7%A7%8D%E9%83%A8%E9%98%9F%E7%9A%84%E6%88%98%E5%A4%87%E6%BC%94%E4%B9%A0",
-      "time": "08-14 23:31",
-      "src": "© 美联社图片"
-    },
-    {
-      "title": "澳总理与特朗普通话谈关税等问题 并指中方导弹试射在太平洋引发极大担忧",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260814-%E6%BE%B3%E6%80%BB%E7%90%86%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D%E8%B0%88%E5%85%B3%E7%A8%8E%E7%AD%89%E9%97%AE%E9%A2%98-%E5%B9%B6%E6%8C%87%E4%B8%AD%E6%96%B9%E5%AF%BC%E5%BC%B9%E8%AF%95%E5%B0%84%E5%9C%A8%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%BC%95%E5%8F%91%E6%9E%81%E5%A4%A7%E6%8B%85%E5%BF%A7",
-      "time": "08-14 18:38",
       "src": "© 网络图片"
     }
   ]
