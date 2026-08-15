@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16 04:29",
+  "generated_at": "2026-08-16 06:29",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -336,7 +336,7 @@
         "score": 7.9,
         "img": "http://lain.bgm.tv/pic/cover/c/1f/9e/501963_bXlEP.jpg",
         "air_date": "2026-07-04",
-        "rank": 329
+        "rank": 335
       },
       {
         "id": 495291,
@@ -345,7 +345,7 @@
         "score": 7.6,
         "img": "http://lain.bgm.tv/pic/cover/c/18/af/495291_9WuBW.jpg",
         "air_date": "2026-07-05",
-        "rank": 685
+        "rank": 678
       },
       {
         "id": 638497,
@@ -354,7 +354,7 @@
         "score": 7.5,
         "img": "http://lain.bgm.tv/pic/cover/c/fa/9b/638497_85455.jpg",
         "air_date": "2026-07-05",
-        "rank": 884
+        "rank": 886
       },
       {
         "id": 598058,
@@ -372,7 +372,7 @@
         "score": 7.0,
         "img": "http://lain.bgm.tv/pic/cover/c/14/a1/545008_pNnzQ.jpg",
         "air_date": "2026-07-12",
-        "rank": 2736
+        "rank": 2729
       },
       {
         "id": 615835,
@@ -381,7 +381,7 @@
         "score": 7.0,
         "img": "http://lain.bgm.tv/pic/cover/c/27/b5/615835_IbNAh.jpg",
         "air_date": "2026-07-05",
-        "rank": 2399
+        "rank": 2416
       },
       {
         "id": 454083,
@@ -417,7 +417,7 @@
         "score": 6.2,
         "img": "http://lain.bgm.tv/pic/cover/c/b1/dd/577191_c7zCc.jpg",
         "air_date": "2026-07-05",
-        "rank": 6437
+        "rank": 6479
       },
       {
         "id": 668108,
@@ -426,7 +426,7 @@
         "score": 6.2,
         "img": "http://lain.bgm.tv/pic/cover/c/fe/47/668108_K7488.jpg",
         "air_date": "2026-07-12",
-        "rank": 4979
+        "rank": 4873
       },
       {
         "id": 595106,
@@ -435,7 +435,7 @@
         "score": 6.0,
         "img": "http://lain.bgm.tv/pic/cover/c/61/8d/595106_ll6Jj.jpg",
         "air_date": "2026-07-05",
-        "rank": 6036
+        "rank": 6025
       },
       {
         "id": 255209,
@@ -444,7 +444,7 @@
         "score": 5.6,
         "img": "http://lain.bgm.tv/pic/cover/c/ce/3a/255209_9w0tU.jpg",
         "air_date": "2026-07-05",
-        "rank": 9086
+        "rank": 9097
       },
       {
         "id": 619052,
@@ -462,7 +462,7 @@
         "score": 4.6,
         "img": "http://lain.bgm.tv/pic/cover/c/45/58/583862_6YGGE.jpg",
         "air_date": "2026-07-05",
-        "rank": 9602
+        "rank": 9606
       },
       {
         "id": 633354,
@@ -480,7 +480,7 @@
         "score": 3.9,
         "img": "http://lain.bgm.tv/pic/cover/c/07/0b/571896_fT9FA.jpg",
         "air_date": "2026-07-19",
-        "rank": 9554
+        "rank": 9587
       },
       {
         "id": 662006,
@@ -514,7 +514,7 @@
   "ukraine": {
     "title": "Russian Offensive Campaign Assessment",
     "summary": "ISW’s Russia and Ukraine team produces the maps and analysis of record of the war in Ukraine. The Russian Offensive Campaign Assessment provides a synthetic running intelligence estimate of Putin’s political and military objectives in Ukraine and the design, prosecution, and outcomes of Russia’s war effort. ISW has published this update daily since Russia’s full-scale invasion of Ukraine in February 2022. Each update includes an assessment of the latest battlefield changes at the operational and tactical levels of war as well as an updated strategic assessment and forecast of the war’s trajectory along with numer",
-    "map_url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-august-14-2026-at-130-pm-et/",
+    "map_url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-august-15-2026-at-130-pm-et/",
     "url": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment",
     "links": [
       {
@@ -523,7 +523,7 @@
       },
       {
         "name": "ISW 官方地图页",
-        "url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-august-14-2026-at-130-pm-et/"
+        "url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-august-15-2026-at-130-pm-et/"
       },
       {
         "name": "实时战线地图 Liveuamap",
@@ -589,39 +589,39 @@
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 9712,
+        "likes": 9752,
         "downloads": 91917,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 1569,
+        "likes": 1572,
         "downloads": 246454,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 1181,
+        "likes": 1200,
         "downloads": 867963,
         "pipeline": ""
       },
       {
         "id": "Qwen/Qwen3.8-2.4T-A95B",
-        "likes": 962,
+        "likes": 965,
         "downloads": 6381,
         "pipeline": "text-generation"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 932,
+        "likes": 936,
         "downloads": 378439,
         "pipeline": "image-to-video"
       },
       {
-        "id": "MiniMaxAI/MiniMax-H3",
-        "likes": 3968,
-        "downloads": 2212155,
-        "pipeline": "image-text-to-video"
+        "id": "MiniMaxAI/MiniMax-Music3",
+        "likes": 766,
+        "downloads": 5079,
+        "pipeline": "text-to-audio"
       }
     ],
     "models": [
