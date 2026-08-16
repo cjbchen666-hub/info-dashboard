@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17 00:33",
+  "generated_at": "2026-08-17 02:37",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -517,37 +517,37 @@
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 10135,
+        "likes": 10181,
         "downloads": 267725,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 1610,
+        "likes": 1617,
         "downloads": 292973,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 1386,
+        "likes": 1410,
         "downloads": 1945635,
         "pipeline": ""
       },
       {
         "id": "Qwen/Qwen3.8-2.4T-A95B",
-        "likes": 1000,
+        "likes": 1002,
         "downloads": 7932,
         "pipeline": "text-generation"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 991,
+        "likes": 1000,
         "downloads": 424099,
         "pipeline": "image-to-video"
       },
       {
         "id": "MiniMaxAI/MiniMax-Music3",
-        "likes": 807,
+        "likes": 813,
         "downloads": 8639,
         "pipeline": "text-to-audio"
       }
@@ -1253,28 +1253,28 @@
       "src": "中新网"
     },
     {
+      "title": "伊朗：悬赏3万美元奖励杀死或抓获美国士兵者，若是由“勇敢的伊朗女性完成”则奖金翻倍",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260816-%E4%BC%8A%E6%9C%97-%E6%82%AC%E8%B5%8F3%E4%B8%87%E7%BE%8E%E5%85%83%E5%A5%96%E5%8A%B1%E6%9D%80%E6%AD%BB%E6%88%96%E6%8A%93%E8%8E%B7%E7%BE%8E%E5%9B%BD%E5%A3%AB%E5%85%B5%E8%80%85%EF%BC%8C%E8%8B%A5%E6%98%AF%E7%94%B1-%E5%8B%87%E6%95%A2%E7%9A%84%E4%BC%8A%E6%9C%97%E5%A5%B3%E6%80%A7%E5%AE%8C%E6%88%90-%E5%88%99%E5%A5%96%E9%87%91%E7%BF%BB%E5%80%8D",
+      "time": "08-17 02:18",
+      "src": "via REUTERS - "
+    },
+    {
+      "title": "加沙和平计划推进受阻：美国特使库什纳赴埃及会见哈马斯代表团，随后将访问以色列",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260816-%E5%8A%A0%E6%B2%99%E5%92%8C%E5%B9%B3%E8%AE%A1%E5%88%92%E6%8E%A8%E8%BF%9B%E5%8F%97%E9%98%BB-%E7%BE%8E%E5%9B%BD%E7%89%B9%E4%BD%BF%E5%BA%93%E4%BB%80%E7%BA%B3%E8%B5%B4%E5%9F%83%E5%8F%8A%E4%BC%9A%E8%A7%81%E5%93%88%E9%A9%AC%E6%96%AF%EF%BC%8C%E9%9A%8F%E5%90%8E%E5%B0%86%E8%AE%BF%E9%97%AE%E4%BB%A5%E8%89%B2%E5%88%97",
+      "time": "08-17 02:05",
+      "src": "AP - Suzanne P"
+    },
+    {
+      "title": "特朗普民调跌至低点 经济与伊朗战事成共和党期中选举隐忧",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260816-%E7%89%B9%E6%9C%97%E6%99%AE%E6%B0%91%E8%B0%83%E8%B7%8C%E8%87%B3%E4%BD%8E%E7%82%B9-%E7%BB%8F%E6%B5%8E%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E6%88%90%E5%85%B1%E5%92%8C%E5%85%9A%E6%9C%9F%E4%B8%AD%E9%80%89%E4%B8%BE%E9%9A%90%E5%BF%A7",
+      "time": "08-17 01:21",
+      "src": "AP Photo/Mark "
+    },
+    {
       "title": "贝森特誓言对伊朗施加“极限”经济压力 实际剩余选项并不易",
       "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260816-%E8%B4%9D%E6%A3%AE%E7%89%B9%E8%AA%93%E8%A8%80%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%96%BD%E5%8A%A0-%E6%9E%81%E9%99%90-%E7%BB%8F%E6%B5%8E%E5%8E%8B%E5%8A%9B-%E5%AE%9E%E9%99%85%E5%89%A9%E4%BD%99%E9%80%89%E5%B9%B6%E4%B8%8D%E6%98%93",
       "time": "08-16 19:43",
       "src": "© 美联社图片"
-    },
-    {
-      "title": "朝鲜士兵越过东部战线韩朝军事分界线，韩军鸣枪警告",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260816-%E6%9C%9D%E9%B2%9C%E5%A3%AB%E5%85%B5%E8%B6%8A%E8%BF%87%E4%B8%9C%E9%83%A8%E6%88%98%E7%BA%BF%E9%9F%A9%E6%9C%9D%E5%86%9B%E4%BA%8B%E5%88%86%E7%95%8C%E7%BA%BF%EF%BC%8C%E9%9F%A9%E5%86%9B%E9%B8%A3%E6%9E%AA%E8%AD%A6%E5%91%8A",
-      "time": "08-16 18:49",
-      "src": "via REUTERS - "
-    },
-    {
-      "title": "伊朗军方要求派员入卡塔尔搜寻飞行员下落 指四革命卫队人员在科威特下落不明",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260816-%E4%BC%8A%E6%9C%97%E5%86%9B%E6%96%B9%E8%A6%81%E6%B1%82%E6%B4%BE%E5%91%98%E5%85%A5%E5%8D%A1%E5%A1%94%E5%B0%94%E6%90%9C%E5%AF%BB%E9%A3%9E%E8%A1%8C%E5%91%98%E4%B8%8B%E8%90%BD-%E6%8C%87%E5%9B%9B%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%E4%BA%BA%E5%91%98%E5%9C%A8%E7%A7%91%E5%A8%81%E7%89%B9%E4%B8%8B%E8%90%BD%E4%B8%8D%E6%98%8E",
-      "time": "08-16 17:57",
-      "src": "© 网络图片"
-    },
-    {
-      "title": "美国撤走亚洲最后一艘航母，重心转向伊朗与西半球，中国或成最大受益者？",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260815-%E7%BE%8E%E5%9B%BD%E6%92%A4%E8%B5%B0%E4%BA%9A%E6%B4%B2%E6%9C%80%E5%90%8E%E4%B8%80%E8%89%98%E8%88%AA%E6%AF%8D%EF%BC%8C%E9%87%8D%E5%BF%83%E8%BD%AC%E5%90%91%E4%BC%8A%E6%9C%97%E4%B8%8E%E8%A5%BF%E5%8D%8A%E7%90%83%EF%BC%8C%E4%B8%AD%E5%9B%BD%E6%88%96%E6%88%90%E6%9C%80%E5%A4%A7%E5%8F%97%E7%9B%8A%E8%80%85",
-      "time": "08-16 02:58",
-      "src": "AP"
     }
   ]
 }
