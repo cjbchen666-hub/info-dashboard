@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17 04:30",
+  "generated_at": "2026-08-17 06:28",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -327,7 +327,7 @@
         "score": 7.1,
         "img": "http://lain.bgm.tv/pic/cover/c/f1/bf/569116_n6dPq.jpg",
         "air_date": "2026-07-06",
-        "rank": 2326
+        "rank": 2278
       },
       {
         "id": 607340,
@@ -336,7 +336,7 @@
         "score": 7.0,
         "img": "http://lain.bgm.tv/pic/cover/c/71/44/607340_n8Rrl.jpg",
         "air_date": "2026-07-06",
-        "rank": 2735
+        "rank": 2699
       },
       {
         "id": 637339,
@@ -372,7 +372,7 @@
         "score": 5.6,
         "img": "http://lain.bgm.tv/pic/cover/c/2c/93/590786_48D8M.jpg",
         "air_date": "2026-07-06",
-        "rank": 8579
+        "rank": 8589
       },
       {
         "id": 528828,
@@ -381,7 +381,7 @@
         "score": 5.3,
         "img": "http://lain.bgm.tv/pic/cover/c/1d/71/528828_oQl2M.jpg",
         "air_date": "2026-07-06",
-        "rank": 8815
+        "rank": 8814
       },
       {
         "id": 636067,
@@ -390,7 +390,7 @@
         "score": 5.2,
         "img": "http://lain.bgm.tv/pic/cover/c/75/fd/636067_0uuym.jpg",
         "air_date": "2026-07-06",
-        "rank": 8385
+        "rank": 8383
       },
       {
         "id": 456080,
@@ -399,7 +399,7 @@
         "score": 5.1,
         "img": "http://lain.bgm.tv/pic/cover/c/ce/e2/456080_C4q4C.jpg",
         "air_date": "2026-07-06",
-        "rank": 9679
+        "rank": 9685
       },
       {
         "id": 579246,
@@ -408,7 +408,7 @@
         "score": 5.1,
         "img": "http://lain.bgm.tv/pic/cover/c/e2/dd/579246_61291.jpg",
         "air_date": "2026-07-06",
-        "rank": 9165
+        "rank": 9159
       },
       {
         "id": 456081,
@@ -417,7 +417,7 @@
         "score": 5.0,
         "img": "http://lain.bgm.tv/pic/cover/c/a7/a6/456081_Bs2nE.jpg",
         "air_date": "2026-07-06",
-        "rank": 9109
+        "rank": 9128
       },
       {
         "id": 607933,
@@ -442,7 +442,7 @@
   "ukraine": {
     "title": "Russian Offensive Campaign Assessment",
     "summary": "ISW’s Russia and Ukraine team produces the maps and analysis of record of the war in Ukraine. The Russian Offensive Campaign Assessment provides a synthetic running intelligence estimate of Putin’s political and military objectives in Ukraine and the design, prosecution, and outcomes of Russia’s war effort. ISW has published this update daily since Russia’s full-scale invasion of Ukraine in February 2022. Each update includes an assessment of the latest battlefield changes at the operational and tactical levels of war as well as an updated strategic assessment and forecast of the war’s trajectory along with numer",
-    "map_url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-august-15-2026-at-130-pm-et/",
+    "map_url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-august-16-2026-at-130-pm-et/",
     "url": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment",
     "links": [
       {
@@ -451,7 +451,7 @@
       },
       {
         "name": "ISW 官方地图页",
-        "url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-august-15-2026-at-130-pm-et/"
+        "url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-august-16-2026-at-130-pm-et/"
       },
       {
         "name": "实时战线地图 Liveuamap",
@@ -517,37 +517,37 @@
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 10222,
+        "likes": 10246,
         "downloads": 267725,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 1620,
+        "likes": 1624,
         "downloads": 292973,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 1425,
+        "likes": 1436,
         "downloads": 1945635,
         "pipeline": ""
       },
       {
         "id": "Qwen/Qwen3.8-2.4T-A95B",
-        "likes": 1003,
+        "likes": 1004,
         "downloads": 7932,
         "pipeline": "text-generation"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 1008,
+        "likes": 1018,
         "downloads": 424099,
         "pipeline": "image-to-video"
       },
       {
         "id": "MiniMaxAI/MiniMax-Music3",
-        "likes": 824,
+        "likes": 831,
         "downloads": 8639,
         "pipeline": "text-to-audio"
       }
@@ -1039,6 +1039,18 @@
       "src": "机核"
     },
     {
+      "title": "特朗普：已指示国防部“大幅缩减”与韩国联合军演规模",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-17/10678798.shtml",
+      "time": "08-17 06:16",
+      "src": "中新网"
+    },
+    {
+      "title": "德国企业上半年对美直接投资降至三年来新低",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-17/10678797.shtml",
+      "time": "08-17 06:12",
+      "src": "中新网"
+    },
+    {
       "title": "日政要参拜靖国神社遭国际社会强烈反对",
       "link": "https://www.chinanews.com.cn/gj/2026/08-16/10678786.shtml",
       "time": "08-16 21:09",
@@ -1054,18 +1066,6 @@
       "title": "国际锐评丨中国为什么值得“反复探索”？",
       "link": "https://www.chinanews.com.cn/gn/2026/08-16/10678781.shtml",
       "time": "08-16 21:05",
-      "src": "中新网"
-    },
-    {
-      "title": "伊朗称美军已被驱逐 不得进入霍尔木兹海峡",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-16/10678770.shtml",
-      "time": "08-16 20:52",
-      "src": "中新网"
-    },
-    {
-      "title": "特稿｜开放发展、可靠担当、魅力十足——国际人士眼里的中国",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-16/10678763.shtml",
-      "time": "08-16 20:42",
       "src": "中新网"
     }
   ],
@@ -1247,6 +1247,12 @@
       "src": "IT之家"
     },
     {
+      "title": "特朗普：已指示国防部“大幅缩减”与韩国联合军演规模",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-17/10678798.shtml",
+      "time": "08-17 06:16",
+      "src": "中新网"
+    },
+    {
       "title": "伊朗称美军已被驱逐 不得进入霍尔木兹海峡",
       "link": "https://www.chinanews.com.cn/gj/2026/08-16/10678770.shtml",
       "time": "08-16 20:52",
@@ -1269,12 +1275,6 @@
       "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260816-%E4%BC%8A%E6%9C%97-%E6%82%AC%E8%B5%8F3%E4%B8%87%E7%BE%8E%E5%85%83%E5%A5%96%E5%8A%B1%E6%9D%80%E6%AD%BB%E6%88%96%E6%8A%93%E8%8E%B7%E7%BE%8E%E5%9B%BD%E5%A3%AB%E5%85%B5%E8%80%85%EF%BC%8C%E8%8B%A5%E6%98%AF%E7%94%B1-%E5%8B%87%E6%95%A2%E7%9A%84%E4%BC%8A%E6%9C%97%E5%A5%B3%E6%80%A7%E5%AE%8C%E6%88%90-%E5%88%99%E5%A5%96%E9%87%91%E7%BF%BB%E5%80%8D",
       "time": "08-17 02:18",
       "src": "via REUTERS - "
-    },
-    {
-      "title": "加沙和平计划推进受阻：美国特使库什纳赴埃及会见哈马斯代表团，随后将访问以色列",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260816-%E5%8A%A0%E6%B2%99%E5%92%8C%E5%B9%B3%E8%AE%A1%E5%88%92%E6%8E%A8%E8%BF%9B%E5%8F%97%E9%98%BB-%E7%BE%8E%E5%9B%BD%E7%89%B9%E4%BD%BF%E5%BA%93%E4%BB%80%E7%BA%B3%E8%B5%B4%E5%9F%83%E5%8F%8A%E4%BC%9A%E8%A7%81%E5%93%88%E9%A9%AC%E6%96%AF%EF%BC%8C%E9%9A%8F%E5%90%8E%E5%B0%86%E8%AE%BF%E9%97%AE%E4%BB%A5%E8%89%B2%E5%88%97",
-      "time": "08-17 02:05",
-      "src": "AP - Suzanne P"
     }
   ]
 }
