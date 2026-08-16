@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17 02:37",
+  "generated_at": "2026-08-17 04:30",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -517,37 +517,37 @@
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 10181,
+        "likes": 10222,
         "downloads": 267725,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 1617,
+        "likes": 1620,
         "downloads": 292973,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 1410,
+        "likes": 1425,
         "downloads": 1945635,
         "pipeline": ""
       },
       {
         "id": "Qwen/Qwen3.8-2.4T-A95B",
-        "likes": 1002,
+        "likes": 1003,
         "downloads": 7932,
         "pipeline": "text-generation"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 1000,
+        "likes": 1008,
         "downloads": 424099,
         "pipeline": "image-to-video"
       },
       {
         "id": "MiniMaxAI/MiniMax-Music3",
-        "likes": 813,
+        "likes": 824,
         "downloads": 8639,
         "pipeline": "text-to-audio"
       }
@@ -1253,6 +1253,18 @@
       "src": "中新网"
     },
     {
+      "title": "特朗普民调跌至低点 经济与伊朗战事成共和党期中选举隐忧",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260816-%E7%89%B9%E6%9C%97%E6%99%AE%E6%B0%91%E8%B0%83%E8%B7%8C%E8%87%B3%E4%BD%8E%E7%82%B9-%E7%BB%8F%E6%B5%8E%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E6%88%90%E5%85%B1%E5%92%8C%E5%85%9A%E6%9C%9F%E4%B8%AD%E9%80%89%E4%B8%BE%E9%9A%90%E5%BF%A7",
+      "time": "08-17 01:21",
+      "src": "AP Photo/Mark "
+    },
+    {
+      "title": "伊朗国会立法：接受美以等敌国媒体采访为犯罪",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260816-%E4%BC%8A%E6%9C%97%E5%9B%BD%E4%BC%9A%E7%AB%8B%E6%B3%95-%E6%8E%A5%E5%8F%97%E7%BE%8E%E4%BB%A5%E7%AD%89%E6%95%8C%E5%9B%BD%E5%AA%92%E4%BD%93%E9%87%87%E8%AE%BF%E4%B8%BA%E7%8A%AF%E7%BD%AA",
+      "time": "08-17 04:29",
+      "src": "© Majid Asgari"
+    },
+    {
       "title": "伊朗：悬赏3万美元奖励杀死或抓获美国士兵者，若是由“勇敢的伊朗女性完成”则奖金翻倍",
       "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260816-%E4%BC%8A%E6%9C%97-%E6%82%AC%E8%B5%8F3%E4%B8%87%E7%BE%8E%E5%85%83%E5%A5%96%E5%8A%B1%E6%9D%80%E6%AD%BB%E6%88%96%E6%8A%93%E8%8E%B7%E7%BE%8E%E5%9B%BD%E5%A3%AB%E5%85%B5%E8%80%85%EF%BC%8C%E8%8B%A5%E6%98%AF%E7%94%B1-%E5%8B%87%E6%95%A2%E7%9A%84%E4%BC%8A%E6%9C%97%E5%A5%B3%E6%80%A7%E5%AE%8C%E6%88%90-%E5%88%99%E5%A5%96%E9%87%91%E7%BF%BB%E5%80%8D",
       "time": "08-17 02:18",
@@ -1263,18 +1275,6 @@
       "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260816-%E5%8A%A0%E6%B2%99%E5%92%8C%E5%B9%B3%E8%AE%A1%E5%88%92%E6%8E%A8%E8%BF%9B%E5%8F%97%E9%98%BB-%E7%BE%8E%E5%9B%BD%E7%89%B9%E4%BD%BF%E5%BA%93%E4%BB%80%E7%BA%B3%E8%B5%B4%E5%9F%83%E5%8F%8A%E4%BC%9A%E8%A7%81%E5%93%88%E9%A9%AC%E6%96%AF%EF%BC%8C%E9%9A%8F%E5%90%8E%E5%B0%86%E8%AE%BF%E9%97%AE%E4%BB%A5%E8%89%B2%E5%88%97",
       "time": "08-17 02:05",
       "src": "AP - Suzanne P"
-    },
-    {
-      "title": "特朗普民调跌至低点 经济与伊朗战事成共和党期中选举隐忧",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260816-%E7%89%B9%E6%9C%97%E6%99%AE%E6%B0%91%E8%B0%83%E8%B7%8C%E8%87%B3%E4%BD%8E%E7%82%B9-%E7%BB%8F%E6%B5%8E%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E6%88%90%E5%85%B1%E5%92%8C%E5%85%9A%E6%9C%9F%E4%B8%AD%E9%80%89%E4%B8%BE%E9%9A%90%E5%BF%A7",
-      "time": "08-17 01:21",
-      "src": "AP Photo/Mark "
-    },
-    {
-      "title": "贝森特誓言对伊朗施加“极限”经济压力 实际剩余选项并不易",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260816-%E8%B4%9D%E6%A3%AE%E7%89%B9%E8%AA%93%E8%A8%80%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%96%BD%E5%8A%A0-%E6%9E%81%E9%99%90-%E7%BB%8F%E6%B5%8E%E5%8E%8B%E5%8A%9B-%E5%AE%9E%E9%99%85%E5%89%A9%E4%BD%99%E9%80%89%E5%B9%B6%E4%B8%8D%E6%98%93",
-      "time": "08-16 19:43",
-      "src": "© 美联社图片"
     }
   ]
 }
