@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16 09:47",
+  "generated_at": "2026-08-16 11:06",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -245,10 +245,22 @@
         "src": "IT之家"
       },
       {
+        "title": "气田、大飞机、算力……本周一批重大工程迎来“高光时刻”",
+        "link": "https://www.chinanews.com.cn/gn/2026/08-16/10678525.shtml",
+        "time": "08-16 10:52",
+        "src": "中新网"
+      },
+      {
         "title": "美国旧金山企业推出人形机器人保洁服务 每小时30美元",
         "link": "https://www.cnbeta.com.tw/articles/tech/1573324.htm",
         "time": "08-15 14:49",
         "src": "cnBeta.COM"
+      },
+      {
+        "title": "英国7月通胀料回升至2.9% 英国央行警惕AI芯片与能源双重冲击",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnkfv8014779.shtml",
+        "time": "08-16 10:20",
+        "src": "环球市场播报"
       },
       {
         "title": "韩国家庭信贷料首次突破2000万亿韩元关口",
@@ -267,18 +279,6 @@
         "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-15/doc-ininmhua3292827.shtml",
         "time": "08-15 22:16",
         "src": "环球市场播报"
-      },
-      {
-        "title": "视频|美国旧金山企业推出人形机器人保洁服务 每小时30美元",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-15/doc-ininkrwk3457356.shtml",
-        "time": "08-15 14:09",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "视频|人形机器人上岗家政 一小时30刀进入普通家庭",
-        "link": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwp2185843.shtml",
-        "time": "08-15 14:11",
-        "src": "市场资讯"
       }
     ]
   },
@@ -538,6 +538,24 @@
   "ai": {
     "news_zh": [
       {
+        "title": "卢伟冰发文庆祝小米手机 15 周岁生日，称未来全面拥抱 AI",
+        "link": "https://www.ithome.com/0/990/250.htm",
+        "time": "08-16 10:36",
+        "src": "IT之家"
+      },
+      {
+        "title": "奕境曾清林谈岚图追光 S 隧道 360° 大回环：东风 57 年造车底蕴，绝不是靠 AI 堆出来的",
+        "link": "https://www.ithome.com/0/990/238.htm",
+        "time": "08-16 09:53",
+        "src": "IT之家"
+      },
+      {
+        "title": "消息称英伟达拟向软银旗下 SB Energy 投资 30 亿美元，助 OpenAI 建设数据中心",
+        "link": "https://www.ithome.com/0/990/237.htm",
+        "time": "08-16 09:48",
+        "src": "IT之家"
+      },
+      {
         "title": "第二届世界人形机器人运动会新增跳远、举重、拔河等项目，2056 台机器人同台竞技",
         "link": "https://www.ithome.com/0/990/230.htm",
         "time": "08-16 09:04",
@@ -566,60 +584,42 @@
         "link": "https://www.ithome.com/0/990/203.htm",
         "time": "08-16 07:20",
         "src": "IT之家"
-      },
-      {
-        "title": "Anthropic 发布 AI 风险报告：旗下智能体会攻击同类并隐藏自身违规痕迹",
-        "link": "https://www.ithome.com/0/990/201.htm",
-        "time": "08-16 07:09",
-        "src": "IT之家"
-      },
-      {
-        "title": "整活网页 Your AI Slop Bores Me 上线：真人扮演 AI 回答用户提问",
-        "link": "https://www.ithome.com/0/990/198.htm",
-        "time": "08-16 06:58",
-        "src": "IT之家"
-      },
-      {
-        "title": "AI 编曲控制台 Suno Studio 2.0 发布：新增 MIDI 支持、效果插件",
-        "link": "https://www.ithome.com/0/990/190.htm",
-        "time": "08-15 23:28",
-        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 9811,
+        "likes": 9834,
         "downloads": 91917,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 1581,
+        "likes": 1585,
         "downloads": 246454,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 1242,
+        "likes": 1249,
         "downloads": 867963,
         "pipeline": ""
       },
       {
         "id": "Qwen/Qwen3.8-2.4T-A95B",
-        "likes": 973,
+        "likes": 974,
         "downloads": 6381,
         "pipeline": "text-generation"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 948,
+        "likes": 951,
         "downloads": 378439,
         "pipeline": "image-to-video"
       },
       {
         "id": "MiniMaxAI/MiniMax-Music3",
-        "likes": 771,
+        "likes": 774,
         "downloads": 5079,
         "pipeline": "text-to-audio"
       }
@@ -823,18 +823,6 @@
       "src": "IT之家"
     },
     {
-      "title": "2019 款英特尔 MacBook Pro 运行 Windows 严重发热？苹果用户为其适配 48Hz 刷新率，让显卡功耗降低近八成同时大幅降温",
-      "link": "https://www.ithome.com/0/990/191.htm",
-      "time": "08-15 23:37",
-      "src": "IT之家"
-    },
-    {
-      "title": "柏能集团警告：AI 热潮加剧供应紧张，显卡短缺或推高 PC 价格",
-      "link": "https://www.ithome.com/0/990/189.htm",
-      "time": "08-15 23:23",
-      "src": "IT之家"
-    },
-    {
       "title": "仅使用三个月锐龙7 7800X3D烧毁 还损坏了主板插槽",
       "link": "https://www.cnbeta.com.tw/articles/tech/1573398.htm",
       "time": "08-16 09:12",
@@ -863,6 +851,18 @@
       "link": "https://www.cnbeta.com.tw/articles/tech/1573346.htm",
       "time": "08-15 20:42",
       "src": "cnBeta.COM"
+    },
+    {
+      "title": "最高溢价88% RTX 5060 Ti价格暴涨到6000元",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1573344.htm",
+      "time": "08-15 19:40",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "TDS REVIEW | 铁三角 ATH-SQ1TW2NC 降噪真无线耳机体验",
+      "link": "https://sspai.com/post/113338",
+      "time": "08-13 15:01",
+      "src": "少数派"
     }
   ],
   "kojima": {
@@ -1099,15 +1099,21 @@
   },
   "intl_news": [
     {
-      "title": "中国队在第 38 届国际信息学奥赛斩获 3 金 1 银，获团体第一名",
-      "link": "https://www.ithome.com/0/990/210.htm",
-      "time": "08-16 07:42",
+      "title": "广汽启境 GT7 今晚面向 L3 级架构全球首拆，华为靳玉志现场见证",
+      "link": "https://www.ithome.com/0/990/247.htm",
+      "time": "08-16 10:20",
       "src": "IT之家"
     },
     {
-      "title": "全球第一：阿里通义千问 AI 模型全球下载量破 30 亿，碾压 Meta 和谷歌",
-      "link": "https://www.ithome.com/0/990/187.htm",
-      "time": "08-15 23:10",
+      "title": "撤离冒险射击游戏《ARC Raiders》全球销量已达到 1630 万份，累计收入超过 880 亿日元",
+      "link": "https://www.ithome.com/0/990/242.htm",
+      "time": "08-16 10:07",
+      "src": "IT之家"
+    },
+    {
+      "title": "中国队在第 38 届国际信息学奥赛斩获 3 金 1 银，获团体第一名",
+      "link": "https://www.ithome.com/0/990/210.htm",
+      "time": "08-16 07:42",
       "src": "IT之家"
     },
     {
@@ -1117,37 +1123,43 @@
       "src": "机核"
     },
     {
-      "title": "拉美艺术家维加斯回顾展在穗开展 助推“全球南方”叙事",
-      "link": "https://www.chinanews.com.cn/cul/2026/08-16/10678461.shtml",
-      "time": "08-16 09:28",
+      "title": "“中国为全球防治荒漠化作出重要贡献”——访《联合国防治荒漠化公约》秘书处执行秘书福阿德",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-16/10678529.shtml",
+      "time": "08-16 10:59",
       "src": "中新网"
     },
     {
-      "title": "与法国青年在东京街头，呼吁日本承认南京大屠杀！中国青年钟灏松：这是良知！这是人的本性！",
-      "link": "http://www.chinanews.com.cn/sh/shipin/2026/08-16/news1065546.shtml",
-      "time": "08-16 08:54",
+      "title": "中国品牌汽车走进非洲千家万户",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-16/10678528.shtml",
+      "time": "08-16 10:58",
       "src": "中新网"
     },
     {
-      "title": "以色列空袭黎巴嫩 造成11人死亡",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-16/10678443.shtml",
-      "time": "08-16 06:40",
+      "title": "“中国游”圈粉全球 境外游客：中国，我还会再来！",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-16/10678511.shtml",
+      "time": "08-16 10:35",
       "src": "中新网"
     },
     {
-      "title": "中国队在第38届国际信息学奥赛斩获3金1银",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-16/10678442.shtml",
-      "time": "08-16 06:36",
+      "title": "WTT欧洲大满贯赛瑞典站：中国女单三人进四强",
+      "link": "https://www.chinanews.com.cn/ty/2026/08-16/10678483.shtml",
+      "time": "08-16 10:30",
       "src": "中新网"
-    },
-    {
-      "title": "美国海军据悉考虑应特朗普要求重新设计航空母舰",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1573380.htm",
-      "time": "08-16 08:03",
-      "src": "cnBeta.COM"
     }
   ],
   "econ_news": [
+    {
+      "title": "撤离冒险射击游戏《ARC Raiders》全球销量已达到 1630 万份，累计收入超过 880 亿日元",
+      "link": "https://www.ithome.com/0/990/242.htm",
+      "time": "08-16 10:07",
+      "src": "IT之家"
+    },
+    {
+      "title": "消息称英伟达拟向软银旗下 SB Energy 投资 30 亿美元，助 OpenAI 建设数据中心",
+      "link": "https://www.ithome.com/0/990/237.htm",
+      "time": "08-16 09:48",
+      "src": "IT之家"
+    },
     {
       "title": "iFixit 再次上调 Steam Deck LCD 版替换电池价格：至 180 美元，较原价高 125%",
       "link": "https://www.ithome.com/0/990/231.htm",
@@ -1183,21 +1195,39 @@
       "link": "https://www.ithome.com/0/990/203.htm",
       "time": "08-16 07:20",
       "src": "IT之家"
-    },
-    {
-      "title": "特斯拉在美国市场为 Model Y L 车型推出新款 2.4kW 外供电适配器，80 美元",
-      "link": "https://www.ithome.com/0/990/197.htm",
-      "time": "08-16 06:57",
-      "src": "IT之家"
-    },
-    {
-      "title": "餐馆废油“变身”后身价暴涨 出口订单排到明年→",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-16/10678452.shtml",
-      "time": "08-16 08:51",
-      "src": "中新网"
     }
   ],
   "game_news": [
+    {
+      "title": "游戏《全面战争: 战锤 3》DLC“终焉之主”9 月 24 日发售：4 名全新传奇领主登场",
+      "link": "https://www.ithome.com/0/990/252.htm",
+      "time": "08-16 10:38",
+      "src": "IT之家"
+    },
+    {
+      "title": "黑暗奇幻动作 RPG《黎明行者之血》开启预购：游戏国区 298 元起，9 月 3 日发售",
+      "link": "https://www.ithome.com/0/990/245.htm",
+      "time": "08-16 10:18",
+      "src": "IT之家"
+    },
+    {
+      "title": "iQOO Neo11 至尊版手机官宣搭载 5000 万像素索尼超防抖大底主摄",
+      "link": "https://www.ithome.com/0/990/243.htm",
+      "time": "08-16 10:12",
+      "src": "IT之家"
+    },
+    {
+      "title": "撤离冒险射击游戏《ARC Raiders》全球销量已达到 1630 万份，累计收入超过 880 亿日元",
+      "link": "https://www.ithome.com/0/990/242.htm",
+      "time": "08-16 10:07",
+      "src": "IT之家"
+    },
+    {
+      "title": "像素武侠游戏《大侠立志传：侠道相逢》延期至 12 月发售，原定 8 月 19 日发售",
+      "link": "https://www.ithome.com/0/990/240.htm",
+      "time": "08-16 09:57",
+      "src": "IT之家"
+    },
     {
       "title": "《塞尔达传说：旷野之息》BetterVR 模组将迎来 1.0 版：新增多人游戏支持、后续还将进行性能优化",
       "link": "https://www.ithome.com/0/990/236.htm",
@@ -1214,36 +1244,6 @@
       "title": "微软 Win11 全面视觉焕新将至，多数传统对话框将用 WinUI 重构",
       "link": "https://www.ithome.com/0/990/226.htm",
       "time": "08-16 08:46",
-      "src": "IT之家"
-    },
-    {
-      "title": "《人类：一败涂地》开发商全新 VR 解谜游戏《小小羊群》公布，年内登陆 SteamVR / Meta Quest 平台",
-      "link": "https://www.ithome.com/0/990/222.htm",
-      "time": "08-16 08:16",
-      "src": "IT之家"
-    },
-    {
-      "title": "迈从旗下全屏字幕音箱 K20 GT 新增“浪漫蓝”配色发售，首发价 319 元",
-      "link": "https://www.ithome.com/0/990/217.htm",
-      "time": "08-16 08:01",
-      "src": "IT之家"
-    },
-    {
-      "title": "迈从 Ace 75 磁轴键盘“黑金”配色版本发售：可选“宝马磁轴”“星环磁轴”版本，首发价 289 元起",
-      "link": "https://www.ithome.com/0/990/216.htm",
-      "time": "08-16 07:59",
-      "src": "IT之家"
-    },
-    {
-      "title": "酷比魔方掌玩 mini 4 标准版平板发售：8 英寸 1200P 面板，展锐 T7300 + 8G + 128G 售 999 元",
-      "link": "https://www.ithome.com/0/990/215.htm",
-      "time": "08-16 07:55",
-      "src": "IT之家"
-    },
-    {
-      "title": "LG UltraGear 25G590B 显示器发售：1080P 1100Hz，7999 元",
-      "link": "https://www.ithome.com/0/990/206.htm",
-      "time": "08-16 07:31",
       "src": "IT之家"
     }
   ],
@@ -1313,9 +1313,15 @@
       "src": "ISW"
     },
     {
-      "title": "以色列空袭黎巴嫩 造成11人死亡",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-16/10678443.shtml",
-      "time": "08-16 06:40",
+      "title": "游戏《全面战争: 战锤 3》DLC“终焉之主”9 月 24 日发售：4 名全新传奇领主登场",
+      "link": "https://www.ithome.com/0/990/252.htm",
+      "time": "08-16 10:38",
+      "src": "IT之家"
+    },
+    {
+      "title": "“中国为全球防治荒漠化作出重要贡献”——访《联合国防治荒漠化公约》秘书处执行秘书福阿德",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-16/10678529.shtml",
+      "time": "08-16 10:59",
       "src": "中新网"
     },
     {
@@ -1347,12 +1353,6 @@
       "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260815-%E9%9D%9E%E6%B3%95%E6%8B%8D%E6%91%84%E7%BE%8E%E6%80%80%E7%89%B9%E6%9B%BC%E7%A9%BA%E5%86%9B%E5%9F%BA%E5%9C%B0%E5%8F%8Ab-2%E8%BD%B0%E7%82%B8%E6%9C%BA%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E5%88%A4%E5%9B%9A%E5%85%AD%E4%B8%AA%E6%9C%88-%E5%B0%86%E8%A2%AB%E9%81%A3%E8%BF%94",
       "time": "08-15 23:24",
       "src": "© 美联社图片"
-    },
-    {
-      "title": "为遏制朝鲜核能力发展，韩国总统提议通过与朝鲜举行会谈正式结束朝鲜战争",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260815-%E4%B8%BA%E9%81%8F%E5%88%B6%E6%9C%9D%E9%B2%9C%E6%A0%B8%E8%83%BD%E5%8A%9B%E5%8F%91%E5%B1%95%EF%BC%8C%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%8F%90%E8%AE%AE%E9%80%9A%E8%BF%87%E4%B8%8E%E6%9C%9D%E9%B2%9C%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88%E6%AD%A3%E5%BC%8F%E7%BB%93%E6%9D%9F%E6%9C%9D%E9%B2%9C%E6%88%98%E4%BA%89",
-      "time": "08-15 17:33",
-      "src": "AFP - JUNG YEO"
     }
   ]
 }
