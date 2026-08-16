@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16 11:06",
+  "generated_at": "2026-08-16 12:41",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -538,6 +538,30 @@
   "ai": {
     "news_zh": [
       {
+        "title": "索尼 PlayStation 新专利公开：利用 AI 驱动账号模拟未成年人，主动识别潜在恶意用户",
+        "link": "https://www.ithome.com/0/990/270.htm",
+        "time": "08-16 12:30",
+        "src": "IT之家"
+      },
+      {
+        "title": "千问办公首发上线 GLM-5.3 和 DeepSeek V4 Pro 模型，可直接选用",
+        "link": "https://www.ithome.com/0/990/264.htm",
+        "time": "08-16 12:03",
+        "src": "IT之家"
+      },
+      {
+        "title": "美国加州货运抢劫案频发，AI 数据中心硬件成目标",
+        "link": "https://www.ithome.com/0/990/259.htm",
+        "time": "08-16 11:26",
+        "src": "IT之家"
+      },
+      {
+        "title": "华为官宣昇腾 0 Day 适配小红书最新开源大模型 dots3-note preview",
+        "link": "https://www.ithome.com/0/990/256.htm",
+        "time": "08-16 11:10",
+        "src": "IT之家"
+      },
+      {
         "title": "卢伟冰发文庆祝小米手机 15 周岁生日，称未来全面拥抱 AI",
         "link": "https://www.ithome.com/0/990/250.htm",
         "time": "08-16 10:36",
@@ -560,66 +584,42 @@
         "link": "https://www.ithome.com/0/990/230.htm",
         "time": "08-16 09:04",
         "src": "IT之家"
-      },
-      {
-        "title": "2026 世界机器人大会展位图揭晓：8 月 19 日开幕，宇树科技、优必选等参展",
-        "link": "https://www.ithome.com/0/990/220.htm",
-        "time": "08-16 08:11",
-        "src": "IT之家"
-      },
-      {
-        "title": "IT早报 0816：DeepSeek V4 Pro 正式版、Harness 上线国家超算互联网；番茄小说作者“去世”三年后“复活”；曝小米 18 手机标准版延至明年初发布...",
-        "link": "https://www.ithome.com/0/990/211.htm",
-        "time": "08-16 07:44",
-        "src": "IT之家"
-      },
-      {
-        "title": "从 2500 亿美元降至不足 1200 亿美元，消息称英伟达大幅收缩对 OpenAI 数据中心的融资担保",
-        "link": "https://www.ithome.com/0/990/207.htm",
-        "time": "08-16 07:32",
-        "src": "IT之家"
-      },
-      {
-        "title": "英伟达 Vera Rubin 平台产能拉升推高 TLC NAND 现货价格，512Gb 回升至 21 美元",
-        "link": "https://www.ithome.com/0/990/203.htm",
-        "time": "08-16 07:20",
-        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 9834,
+        "likes": 9867,
         "downloads": 91917,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 1585,
+        "likes": 1589,
         "downloads": 246454,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 1249,
+        "likes": 1262,
         "downloads": 867963,
         "pipeline": ""
       },
       {
         "id": "Qwen/Qwen3.8-2.4T-A95B",
-        "likes": 974,
+        "likes": 976,
         "downloads": 6381,
         "pipeline": "text-generation"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 951,
+        "likes": 953,
         "downloads": 378439,
         "pipeline": "image-to-video"
       },
       {
         "id": "MiniMaxAI/MiniMax-Music3",
-        "likes": 774,
+        "likes": 777,
         "downloads": 5079,
         "pipeline": "text-to-audio"
       }
@@ -793,33 +793,15 @@
   ],
   "hw_news": [
     {
+      "title": "联想拯救者 Y700 无极小平板真机曝光：能插卡用 5G、改用 OLED 屏",
+      "link": "https://www.ithome.com/0/990/258.htm",
+      "time": "08-16 11:21",
+      "src": "IT之家"
+    },
+    {
       "title": "迈从 Ace 75 磁轴键盘“黑金”配色版本发售：可选“宝马磁轴”“星环磁轴”版本，首发价 289 元起",
       "link": "https://www.ithome.com/0/990/216.htm",
       "time": "08-16 07:59",
-      "src": "IT之家"
-    },
-    {
-      "title": "漫步者 X Clip 耳夹式蓝牙耳机新增“流光紫”配色：12mm 动圈、32 小时续航，265 元",
-      "link": "https://www.ithome.com/0/990/212.htm",
-      "time": "08-16 07:47",
-      "src": "IT之家"
-    },
-    {
-      "title": "44.3 万块硬盘数据研究：HGST 可靠性最佳，东芝表现最差",
-      "link": "https://www.ithome.com/0/990/209.htm",
-      "time": "08-16 07:41",
-      "src": "IT之家"
-    },
-    {
-      "title": "LG UltraGear 25G590B 显示器发售：1080P 1100Hz，7999 元",
-      "link": "https://www.ithome.com/0/990/206.htm",
-      "time": "08-16 07:31",
-      "src": "IT之家"
-    },
-    {
-      "title": "玩家将桌面从木质换成金属后，笔记本电脑温度最多降低了 15 摄氏度",
-      "link": "https://www.ithome.com/0/990/204.htm",
-      "time": "08-16 07:24",
       "src": "IT之家"
     },
     {
@@ -863,6 +845,24 @@
       "link": "https://sspai.com/post/113338",
       "time": "08-13 15:01",
       "src": "少数派"
+    },
+    {
+      "title": "安全不是限制性能的枷锁：智界 RX 一键 BOOST 模式提升 10% 扭矩，动力底盘座舱三域联动",
+      "link": "https://finance.sina.com.cn/tech/digi/2026-08-14/doc-ininhnxp2828395.shtml",
+      "time": "08-14 15:07",
+      "src": "IT之家"
+    },
+    {
+      "title": "Computex 2026: NVIDIA 发布 ARM 架构 PC 芯片 RTX Spark, 集成 Blackwell GPU, 对标苹果 M5",
+      "link": "https://new.qq.com/rain/a/20260605A09PXY00",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "AMD 发布 Ryzen 7 7700X3D(104MB缓存,$329) 与 Radeon RX 9070 GRE(12GB,$549), 强化 1440p 游戏市场",
+      "link": "https://www.91mobiles.com/hub/computex-2026-amd-ryzen-x3d-cpus-radeon-9070-gre",
+      "time": "精选",
+      "src": "资讯整理"
     }
   ],
   "kojima": {
@@ -1036,6 +1036,12 @@
   "anime_industry": {
     "news": [
       {
+        "title": "动画电影《牛来》因制作粗糙“出圈”，导演信雨萌称已经完成最初的心愿",
+        "link": "https://www.ithome.com/0/990/261.htm",
+        "time": "08-16 11:37",
+        "src": "IT之家"
+      },
+      {
         "title": "800 万份销量背后：《生化危机：安魂曲》在部分市场的实体版销量占比最高达 55%",
         "link": "https://www.ithome.com/0/990/218.htm",
         "time": "08-16 08:02",
@@ -1088,16 +1094,16 @@
         "link": "https://www.info35.net/hotopics/44871.html",
         "time": "精选",
         "src": "资讯整理"
-      },
-      {
-        "title": "专家示警\"串流泡沫到顶\": KADOKAWA、TBS动画事业、Studio KAI 相继亏损或大幅减益",
-        "link": "https://www.ucmanga.com/a/ri-ben-dong-hua-ye-jing-bao-xiang-qi-da-han-jie-lian-yu-sun-zhuan-jia-shi-jing-chuan-liu-pao-mo-dao-ding-liao.html",
-        "time": "精选",
-        "src": "资讯整理"
       }
     ]
   },
   "intl_news": [
+    {
+      "title": "漫威索尼《蜘蛛侠：崭新之日》内地票房突破 14 亿，全球票房跻身影史前九",
+      "link": "https://www.ithome.com/0/990/265.htm",
+      "time": "08-16 12:10",
+      "src": "IT之家"
+    },
     {
       "title": "广汽启境 GT7 今晚面向 L3 级架构全球首拆，华为靳玉志现场见证",
       "link": "https://www.ithome.com/0/990/247.htm",
@@ -1111,39 +1117,33 @@
       "src": "IT之家"
     },
     {
-      "title": "中国队在第 38 届国际信息学奥赛斩获 3 金 1 银，获团体第一名",
-      "link": "https://www.ithome.com/0/990/210.htm",
-      "time": "08-16 07:42",
-      "src": "IT之家"
-    },
-    {
       "title": "《宝可梦Pokopia》全球累计销量突破500万份",
       "link": "https://www.gcores.com/articles/218355",
       "time": "08-14 13:40",
       "src": "机核"
     },
     {
+      "title": "（走进中国乡村）桑树育绿链 广西山村引来东盟取经客",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-16/10678548.shtml",
+      "time": "08-16 12:15",
+      "src": "中新网"
+    },
+    {
+      "title": "2026第二十届精功（国际）模特大赛总决赛在海口举行",
+      "link": "https://www.chinanews.com.cn/tp/2026/08-16/10678510.shtml",
+      "time": "08-16 11:31",
+      "src": "中新网"
+    },
+    {
+      "title": "全球顶级赛道设计师姚启明：极速背后的博弈",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-16/10678514.shtml",
+      "time": "08-16 11:00",
+      "src": "中新网"
+    },
+    {
       "title": "“中国为全球防治荒漠化作出重要贡献”——访《联合国防治荒漠化公约》秘书处执行秘书福阿德",
       "link": "https://www.chinanews.com.cn/gn/2026/08-16/10678529.shtml",
       "time": "08-16 10:59",
-      "src": "中新网"
-    },
-    {
-      "title": "中国品牌汽车走进非洲千家万户",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-16/10678528.shtml",
-      "time": "08-16 10:58",
-      "src": "中新网"
-    },
-    {
-      "title": "“中国游”圈粉全球 境外游客：中国，我还会再来！",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-16/10678511.shtml",
-      "time": "08-16 10:35",
-      "src": "中新网"
-    },
-    {
-      "title": "WTT欧洲大满贯赛瑞典站：中国女单三人进四强",
-      "link": "https://www.chinanews.com.cn/ty/2026/08-16/10678483.shtml",
-      "time": "08-16 10:30",
       "src": "中新网"
     }
   ],
@@ -1179,25 +1179,49 @@
       "src": "IT之家"
     },
     {
-      "title": "Photon Matrix 激光灭蚊设备已量产开售，售价 988 美元起",
-      "link": "https://www.ithome.com/0/990/213.htm",
-      "time": "08-16 07:51",
-      "src": "IT之家"
+      "title": "青岛西海岸新区以酒为媒拓展文旅场景 激活“节庆经济”撬动消费",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-16/10678535.shtml",
+      "time": "08-16 11:32",
+      "src": "中新网"
     },
     {
-      "title": "从 2500 亿美元降至不足 1200 亿美元，消息称英伟达大幅收缩对 OpenAI 数据中心的融资担保",
-      "link": "https://www.ithome.com/0/990/207.htm",
-      "time": "08-16 07:32",
-      "src": "IT之家"
+      "title": "英伟达披露第二季度末持有SpaceX股份210亿美元",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1573382.htm",
+      "time": "08-16 08:04",
+      "src": "cnBeta.COM"
     },
     {
-      "title": "英伟达 Vera Rubin 平台产能拉升推高 TLC NAND 现货价格，512Gb 回升至 21 美元",
-      "link": "https://www.ithome.com/0/990/203.htm",
-      "time": "08-16 07:20",
-      "src": "IT之家"
+      "title": "英伟达Vera Rubin平台量产推高需求 TLC NAND现货价格回升至21美元",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1573376.htm",
+      "time": "08-16 07:58",
+      "src": "cnBeta.COM"
     }
   ],
   "game_news": [
+    {
+      "title": "索尼 PlayStation 新专利公开：利用 AI 驱动账号模拟未成年人，主动识别潜在恶意用户",
+      "link": "https://www.ithome.com/0/990/270.htm",
+      "time": "08-16 12:30",
+      "src": "IT之家"
+    },
+    {
+      "title": "《帝国时代 3 : 决定版》大型 DLC”波罗的海诸国“开启预购，Steam 国区 74.8 元",
+      "link": "https://www.ithome.com/0/990/267.htm",
+      "time": "08-16 12:19",
+      "src": "IT之家"
+    },
+    {
+      "title": "漫威索尼《蜘蛛侠：崭新之日》内地票房突破 14 亿，全球票房跻身影史前九",
+      "link": "https://www.ithome.com/0/990/265.htm",
+      "time": "08-16 12:10",
+      "src": "IT之家"
+    },
+    {
+      "title": "索尼预告：《影之刃零》专场 State of Play 带来首次公开的游戏演示、PS5 版的独特性能等",
+      "link": "https://www.ithome.com/0/990/257.htm",
+      "time": "08-16 11:13",
+      "src": "IT之家"
+    },
     {
       "title": "游戏《全面战争: 战锤 3》DLC“终焉之主”9 月 24 日发售：4 名全新传奇领主登场",
       "link": "https://www.ithome.com/0/990/252.htm",
@@ -1220,30 +1244,6 @@
       "title": "撤离冒险射击游戏《ARC Raiders》全球销量已达到 1630 万份，累计收入超过 880 亿日元",
       "link": "https://www.ithome.com/0/990/242.htm",
       "time": "08-16 10:07",
-      "src": "IT之家"
-    },
-    {
-      "title": "像素武侠游戏《大侠立志传：侠道相逢》延期至 12 月发售，原定 8 月 19 日发售",
-      "link": "https://www.ithome.com/0/990/240.htm",
-      "time": "08-16 09:57",
-      "src": "IT之家"
-    },
-    {
-      "title": "《塞尔达传说：旷野之息》BetterVR 模组将迎来 1.0 版：新增多人游戏支持、后续还将进行性能优化",
-      "link": "https://www.ithome.com/0/990/236.htm",
-      "time": "08-16 09:44",
-      "src": "IT之家"
-    },
-    {
-      "title": "iFixit 再次上调 Steam Deck LCD 版替换电池价格：至 180 美元，较原价高 125%",
-      "link": "https://www.ithome.com/0/990/231.htm",
-      "time": "08-16 09:05",
-      "src": "IT之家"
-    },
-    {
-      "title": "微软 Win11 全面视觉焕新将至，多数传统对话框将用 WinUI 重构",
-      "link": "https://www.ithome.com/0/990/226.htm",
-      "time": "08-16 08:46",
       "src": "IT之家"
     }
   ],
