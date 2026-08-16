@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16 22:29",
+  "generated_at": "2026-08-17 00:33",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -129,9 +129,9 @@
       }
     ],
     "status": {
-      "state": "休市",
-      "label": "周末休市",
-      "date": "2026-08-16"
+      "state": "未开盘",
+      "label": "今日尚未开盘",
+      "date": "2026-08-17"
     },
     "watch": [
       {
@@ -233,7 +233,13 @@
     ],
     "news": [
       {
-        "title": "人形机器人运动会赛前冲刺备战“家政赛”：30 分钟内完成收纳叠衣，大模型助力持续学习",
+        "title": "段永平基金二季度持仓总市值 191 亿美元：大幅增持拼多多、减持苹果和英伟达，重新买入阿里",
+        "link": "https://www.ithome.com/0/990/395.htm",
+        "time": "08-16 22:55",
+        "src": "IT之家"
+      },
+      {
+        "title": "人形机器人运动会赛前冲刺备战“家政赛”：30 分钟内完成收纳叠衣等多项任务，AI 大模型助力持续学习",
         "link": "https://www.ithome.com/0/990/389.htm",
         "time": "08-16 21:52",
         "src": "IT之家"
@@ -273,12 +279,6 @@
         "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnuvp1470667.shtml",
         "time": "08-16 14:58",
         "src": "环球市场播报"
-      },
-      {
-        "title": "英国7月通胀料回升至2.9% 英国央行警惕AI芯片与能源双重冲击",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnkfv8014779.shtml",
-        "time": "08-16 10:20",
-        "src": "环球市场播报"
       }
     ]
   },
@@ -317,196 +317,124 @@
     }
   ],
   "anime": {
-    "date": "08-16",
-    "weekday": "日",
+    "date": "08-17",
+    "weekday": "月",
     "items": [
       {
-        "id": 642680,
-        "name": "天子传奇：洪武大帝",
-        "name_cn": "天子传奇：洪武大帝",
-        "score": 10.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/22/ca/642680_Qj5hu.jpg",
-        "air_date": "2026-07-26",
-        "rank": null
-      },
-      {
-        "id": 501963,
-        "name": "無職転生Ⅲ ～異世界行ったら本気だす～",
-        "name_cn": "无职转生 第三季 ～到了异世界就拿出真本事～",
-        "score": 7.9,
-        "img": "http://lain.bgm.tv/pic/cover/c/1f/9e/501963_bXlEP.jpg",
-        "air_date": "2026-07-04",
-        "rank": 335
-      },
-      {
-        "id": 495291,
-        "name": "さよならララ",
-        "name_cn": "再见菈菈",
-        "score": 7.6,
-        "img": "http://lain.bgm.tv/pic/cover/c/18/af/495291_9WuBW.jpg",
-        "air_date": "2026-07-05",
-        "rank": 678
-      },
-      {
-        "id": 638497,
-        "name": "正反対な君と僕 第2期",
-        "name_cn": "相反的你和我 第二季",
-        "score": 7.5,
-        "img": "http://lain.bgm.tv/pic/cover/c/fa/9b/638497_85455.jpg",
-        "air_date": "2026-07-05",
-        "rank": 886
-      },
-      {
-        "id": 598058,
-        "name": "君のことが大大大大大好きな100人の彼女 第3期",
-        "name_cn": "超超超超超喜欢你的100个女朋友 第三季",
-        "score": 7.4,
-        "img": "http://lain.bgm.tv/pic/cover/c/96/f8/598058_1RcCL.jpg",
-        "air_date": "2026-07-05",
-        "rank": 1296
-      },
-      {
-        "id": 615835,
-        "name": "鉄鍋のジャン",
-        "name_cn": "炒翻天",
+        "id": 569116,
+        "name": "ぐらんぶる Season 3",
+        "name_cn": "碧蓝之海 第三季",
         "score": 7.1,
-        "img": "http://lain.bgm.tv/pic/cover/c/27/b5/615835_IbNAh.jpg",
-        "air_date": "2026-07-05",
-        "rank": 2416
+        "img": "http://lain.bgm.tv/pic/cover/c/f1/bf/569116_n6dPq.jpg",
+        "air_date": "2026-07-06",
+        "rank": 2326
       },
       {
-        "id": 545008,
-        "name": "ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～",
-        "name_cn": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
+        "id": 607340,
+        "name": "透明な夜に駆ける君と、目に見えない恋をした。",
+        "name_cn": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
         "score": 7.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/14/a1/545008_pNnzQ.jpg",
-        "air_date": "2026-07-12",
-        "rank": 2729
+        "img": "http://lain.bgm.tv/pic/cover/c/71/44/607340_n8Rrl.jpg",
+        "air_date": "2026-07-06",
+        "rank": 2735
       },
       {
-        "id": 454083,
-        "name": "アズールレーン びそくぜんしんっ！にっ!!",
-        "name_cn": "碧蓝航线：微速前行！第二季",
-        "score": 6.6,
-        "img": "http://lain.bgm.tv/pic/cover/c/61/12/454083_DtM3t.jpg",
-        "air_date": "2026-07-05",
-        "rank": 4180
-      },
-      {
-        "id": 613039,
-        "name": "茶啊二中第六季",
-        "name_cn": "茶啊二中 第6季",
-        "score": 6.6,
-        "img": "http://lain.bgm.tv/pic/cover/c/a3/12/613039_Z6VM6.jpg",
-        "air_date": "2026-07-26",
+        "id": 637339,
+        "name": "北斗の拳 拳王軍ザコたちの挽歌 第2クール",
+        "name_cn": "北斗神拳 拳王军杂兵们的挽歌 第二季",
+        "score": 6.1,
+        "img": "http://lain.bgm.tv/pic/cover/c/d0/a9/637339_93zPo.jpg",
+        "air_date": "2026-07-06",
         "rank": null
       },
       {
-        "id": 574041,
-        "name": "President Curtis",
-        "name_cn": "柯蒂斯总统",
-        "score": 6.4,
-        "img": "http://lain.bgm.tv/pic/cover/c/8a/1a/574041_z5P0R.jpg",
-        "air_date": "2026-07-26",
-        "rank": null
-      },
-      {
-        "id": 577191,
-        "name": "ONE PIECE HEROINES",
-        "name_cn": "航海王 女英雄们的故事",
-        "score": 6.2,
-        "img": "http://lain.bgm.tv/pic/cover/c/b1/dd/577191_c7zCc.jpg",
-        "air_date": "2026-07-05",
-        "rank": 6479
-      },
-      {
-        "id": 668108,
-        "name": "『モブサイコ100』アニメ10周年記念特別映像",
-        "name_cn": "《灵能百分百》动画10周年纪念特别映像",
-        "score": 6.2,
-        "img": "http://lain.bgm.tv/pic/cover/c/fe/47/668108_K7488.jpg",
-        "air_date": "2026-07-12",
-        "rank": 4873
-      },
-      {
-        "id": 595106,
-        "name": "レッツゴー怪奇組",
-        "name_cn": "Let's Go 怪奇组",
+        "id": 569671,
+        "name": "炎の闘球女 ドッジ弾子",
+        "name_cn": "斗球女弹子",
         "score": 6.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/61/8d/595106_ll6Jj.jpg",
-        "air_date": "2026-07-05",
-        "rank": 6025
+        "img": "http://lain.bgm.tv/pic/cover/c/5a/fe/569671_0HZvf.jpg",
+        "air_date": "2026-07-06",
+        "rank": null
       },
       {
-        "id": 255209,
-        "name": "二十世紀電氣目録-ユーレカ・エヴリカ-",
-        "name_cn": "二十世纪电气目录",
+        "id": 663444,
+        "name": "King of the Hill Season 15",
+        "name_cn": "一家之主 第15季",
+        "score": 6.0,
+        "img": "http://lain.bgm.tv/pic/cover/c/1e/f8/663444_i2im9.jpg",
+        "air_date": "2026-07-20",
+        "rank": null
+      },
+      {
+        "id": 590786,
+        "name": "ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。",
+        "name_cn": "『你们先走我断后』，于是10年后我成为了传说",
         "score": 5.6,
-        "img": "http://lain.bgm.tv/pic/cover/c/ce/3a/255209_9w0tU.jpg",
-        "air_date": "2026-07-05",
-        "rank": 9097
+        "img": "http://lain.bgm.tv/pic/cover/c/2c/93/590786_48D8M.jpg",
+        "air_date": "2026-07-06",
+        "rank": 8579
       },
       {
-        "id": 619052,
-        "name": "あはれ！名作くん 完全新作",
-        "name_cn": "做得很好！名作君 完全新作",
-        "score": 5.5,
-        "img": "http://lain.bgm.tv/pic/cover/c/dd/82/619052_B0qAA.jpg",
-        "air_date": "2026-07-05",
-        "rank": null
+        "id": 528828,
+        "name": "骸骨騎士様、只今異世界へお出掛け中Ⅱ",
+        "name_cn": "骸骨骑士大人异世界冒险中 第二季",
+        "score": 5.3,
+        "img": "http://lain.bgm.tv/pic/cover/c/1d/71/528828_oQl2M.jpg",
+        "air_date": "2026-07-06",
+        "rank": 8815
       },
       {
-        "id": 583862,
-        "name": "世界最強の後衛 ～迷宮国の新人探索者～",
-        "name_cn": "世界最强的后卫 ～迷宫国的新人探索者～",
-        "score": 4.6,
-        "img": "http://lain.bgm.tv/pic/cover/c/45/58/583862_6YGGE.jpg",
-        "air_date": "2026-07-05",
-        "rank": 9606
+        "id": 636067,
+        "name": "捨てられ聖女の異世界ごはん旅 隠れスキルでキャンピングカーを召喚しました",
+        "name_cn": "无用圣女的异世界美食之旅 凭借隐藏技能召唤露营车",
+        "score": 5.2,
+        "img": "http://lain.bgm.tv/pic/cover/c/75/fd/636067_0uuym.jpg",
+        "air_date": "2026-07-06",
+        "rank": 8385
       },
       {
-        "id": 633354,
-        "name": "同じゼミの染谷さんがセクシー女優だった話。",
-        "name_cn": "同一个研讨会的染谷同学是AV女优的事",
-        "score": 4.6,
-        "img": "http://lain.bgm.tv/pic/cover/c/f3/66/633354_zm82g.jpg",
-        "air_date": "2026-07-05",
-        "rank": 8569
+        "id": 456080,
+        "name": "転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件",
+        "name_cn": "转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥们儿",
+        "score": 5.1,
+        "img": "http://lain.bgm.tv/pic/cover/c/ce/e2/456080_C4q4C.jpg",
+        "air_date": "2026-07-06",
+        "rank": 9679
       },
       {
-        "id": 571896,
-        "name": "サイボーグ009 ネメシス",
-        "name_cn": "人造人009 涅墨西斯",
-        "score": 3.9,
-        "img": "http://lain.bgm.tv/pic/cover/c/07/0b/571896_fT9FA.jpg",
-        "air_date": "2026-07-19",
-        "rank": 9587
+        "id": 579246,
+        "name": "ブチ切れ令嬢は報復を誓いました。～魔導書の力で祖国を叩き潰します～",
+        "name_cn": "暴怒千金发誓复仇。～凭借魔导书之力打垮祖国～",
+        "score": 5.1,
+        "img": "http://lain.bgm.tv/pic/cover/c/e2/dd/579246_61291.jpg",
+        "air_date": "2026-07-06",
+        "rank": 9165
       },
       {
-        "id": 662006,
-        "name": "闇芝居 十七期",
-        "name_cn": "暗芝居 第十七季",
-        "score": 3.5,
-        "img": "http://lain.bgm.tv/pic/cover/c/04/b0/662006_tnf6N.jpg",
-        "air_date": "2026-07-12",
-        "rank": null
+        "id": 456081,
+        "name": "最強出涸らし皇子の暗躍帝位争い",
+        "name_cn": "最强废渣皇子暗中活跃于帝位之争",
+        "score": 5.0,
+        "img": "http://lain.bgm.tv/pic/cover/c/a7/a6/456081_Bs2nE.jpg",
+        "air_date": "2026-07-06",
+        "rank": 9109
       },
       {
-        "id": 633711,
-        "name": "プラノサウルス ガチコセイブツ部",
+        "id": 607933,
+        "name": "万古至尊：李云霄传",
         "name_cn": "",
-        "score": 3.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/ea/4c/633711_V28UU.jpg",
-        "air_date": "2026-07-12",
+        "score": 2.0,
+        "img": "http://lain.bgm.tv/pic/cover/c/2f/c0/607933_uzVv6.jpg",
+        "air_date": "2026-07-20",
         "rank": null
       },
       {
-        "id": 659686,
-        "name": "トミカとトム シーズン2",
-        "name_cn": "",
-        "score": 1.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/67/28/659686_001De.jpg",
-        "air_date": "2026-07-05",
+        "id": 595884,
+        "name": "Marvel's Spidey and His Amazing Friends Season 5",
+        "name_cn": "蜘蛛侠与他的神奇朋友们 第五季",
+        "score": null,
+        "img": "http://lain.bgm.tv/pic/cover/c/b2/2b/595884_Qskw0.jpg",
+        "air_date": "2026-07-13",
         "rank": null
       }
     ]
@@ -538,7 +466,25 @@
   "ai": {
     "news_zh": [
       {
-        "title": "人形机器人运动会赛前冲刺备战“家政赛”：30 分钟内完成收纳叠衣，大模型助力持续学习",
+        "title": "斯坦福调查显示：84% 中国受访者对 AI 感到兴奋，美国比例仅为 38%",
+        "link": "https://www.ithome.com/0/990/398.htm",
+        "time": "08-16 23:22",
+        "src": "IT之家"
+      },
+      {
+        "title": "段永平基金二季度持仓总市值 191 亿美元：大幅增持拼多多、减持苹果和英伟达，重新买入阿里",
+        "link": "https://www.ithome.com/0/990/395.htm",
+        "time": "08-16 22:55",
+        "src": "IT之家"
+      },
+      {
+        "title": "中消协：近期 AI 客服相关投诉显著增多",
+        "link": "https://www.ithome.com/0/990/394.htm",
+        "time": "08-16 22:33",
+        "src": "IT之家"
+      },
+      {
+        "title": "人形机器人运动会赛前冲刺备战“家政赛”：30 分钟内完成收纳叠衣等多项任务，AI 大模型助力持续学习",
         "link": "https://www.ithome.com/0/990/389.htm",
         "time": "08-16 21:52",
         "src": "IT之家"
@@ -566,60 +512,42 @@
         "link": "https://www.ithome.com/0/990/372.htm",
         "time": "08-16 19:42",
         "src": "IT之家"
-      },
-      {
-        "title": "Anthropic 自曝安全漏洞：生物武器过滤器曾失效近一年，涉及 1.33 亿次对话",
-        "link": "https://www.ithome.com/0/990/371.htm",
-        "time": "08-16 19:37",
-        "src": "IT之家"
-      },
-      {
-        "title": "大学生用 AI 人脸伪造视频盗刷超 5 万元，最终获刑一年十个月",
-        "link": "https://www.ithome.com/0/990/369.htm",
-        "time": "08-16 19:14",
-        "src": "IT之家"
-      },
-      {
-        "title": "全球首个因反 AI 入狱者呼吁奥尔特曼、达里奥、扎克伯格“重新找回人性”，曾因封锁 OpenAI 总部而获刑 14 天",
-        "link": "https://www.ithome.com/0/990/368.htm",
-        "time": "08-16 19:05",
-        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 10074,
+        "likes": 10135,
         "downloads": 267725,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 1603,
+        "likes": 1610,
         "downloads": 292973,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 1361,
+        "likes": 1386,
         "downloads": 1945635,
         "pipeline": ""
       },
       {
         "id": "Qwen/Qwen3.8-2.4T-A95B",
-        "likes": 996,
+        "likes": 1000,
         "downloads": 7932,
         "pipeline": "text-generation"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 982,
+        "likes": 991,
         "downloads": 424099,
         "pipeline": "image-to-video"
       },
       {
         "id": "MiniMaxAI/MiniMax-Music3",
-        "likes": 802,
+        "likes": 807,
         "downloads": 8639,
         "pipeline": "text-to-audio"
       }
@@ -793,6 +721,12 @@
   ],
   "hw_news": [
     {
+      "title": "三星首款 24.5 英寸 OLED 高刷面板被曝 Q4 登场，360/560Hz 刷新率",
+      "link": "https://www.ithome.com/0/990/403.htm",
+      "time": "08-16 23:55",
+      "src": "IT之家"
+    },
+    {
       "title": "英特尔副总裁确认 Nova Lake 处理器平台率先登陆桌面端",
       "link": "https://www.ithome.com/0/990/388.htm",
       "time": "08-16 21:49",
@@ -835,16 +769,16 @@
       "src": "IT之家"
     },
     {
-      "title": "支持政府补贴：华为 FreeClip 2 耳夹耳机京东 1199 元，立减 100 元",
-      "link": "https://www.ithome.com/0/990/290.htm",
-      "time": "08-16 15:41",
-      "src": "IT之家"
+      "title": "ZOTAC母公司预警2026下半年入门级显卡将迎严重短缺与价格飙涨",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1573468.htm",
+      "time": "08-16 23:30",
+      "src": "cnBeta.COM"
     },
     {
-      "title": "内存短缺成本上涨，廉价智能手机正在美国消失",
-      "link": "https://www.ithome.com/0/990/282.htm",
-      "time": "08-16 14:54",
-      "src": "IT之家"
+      "title": "三星欲重返高端头戴式耳机市场 新品或于明年亮相",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1573460.htm",
+      "time": "08-16 23:24",
+      "src": "cnBeta.COM"
     },
     {
       "title": "仅使用三个月锐龙7 7800X3D烧毁 还损坏了主板插槽",
@@ -857,12 +791,6 @@
       "link": "https://sspai.com/post/113338",
       "time": "08-13 15:01",
       "src": "少数派"
-    },
-    {
-      "title": "安全不是限制性能的枷锁：智界 RX 一键 BOOST 模式提升 10% 扭矩，动力底盘座舱三域联动",
-      "link": "https://finance.sina.com.cn/tech/digi/2026-08-14/doc-ininhnxp2828395.shtml",
-      "time": "08-14 15:07",
-      "src": "IT之家"
     }
   ],
   "kojima": {
@@ -1060,18 +988,6 @@
         "src": "cnBeta.COM"
       },
       {
-        "title": "迪士尼动画电影《冰雪奇缘3》概念视觉图公开",
-        "link": "https://www.cnbeta.com.tw/articles/movie/1573388.htm",
-        "time": "08-16 08:06",
-        "src": "cnBeta.COM"
-      },
-      {
-        "title": "迪士尼动画电影《疯狂动物城3》官宣 正在制作中",
-        "link": "https://www.cnbeta.com.tw/articles/movie/1573386.htm",
-        "time": "08-16 08:06",
-        "src": "cnBeta.COM"
-      },
-      {
         "title": "《宝可梦：波可比亚》销量突破500万 任天堂股价大涨7%",
         "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhtfp9372044.shtml",
         "time": "08-14 19:36",
@@ -1094,6 +1010,12 @@
         "link": "https://www.info35.net/hotopics/44871.html",
         "time": "精选",
         "src": "资讯整理"
+      },
+      {
+        "title": "专家示警\"串流泡沫到顶\": KADOKAWA、TBS动画事业、Studio KAI 相继亏损或大幅减益",
+        "link": "https://www.ucmanga.com/a/ri-ben-dong-hua-ye-jing-bao-xiang-qi-da-han-jie-lian-yu-sun-zhuan-jia-shi-jing-chuan-liu-pao-mo-dao-ding-liao.html",
+        "time": "精选",
+        "src": "资讯整理"
       }
     ]
   },
@@ -1108,12 +1030,6 @@
       "title": "国内首次！全球极危物种蓝吻犁头鳐在我国海南三亚人工繁育成功",
       "link": "https://www.ithome.com/0/990/294.htm",
       "time": "08-16 15:54",
-      "src": "IT之家"
-    },
-    {
-      "title": "汽车厂商施压下，英国拟放宽电动汽车销售比例强制令",
-      "link": "https://www.ithome.com/0/990/286.htm",
-      "time": "08-16 15:17",
       "src": "IT之家"
     },
     {
@@ -1145,9 +1061,33 @@
       "link": "https://www.chinanews.com.cn/gj/2026/08-16/10678770.shtml",
       "time": "08-16 20:52",
       "src": "中新网"
+    },
+    {
+      "title": "特稿｜开放发展、可靠担当、魅力十足——国际人士眼里的中国",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-16/10678763.shtml",
+      "time": "08-16 20:42",
+      "src": "中新网"
     }
   ],
   "econ_news": [
+    {
+      "title": "美国建造时间最长的航母“肯尼迪”号完成验收海试：最快 2027 年交付，项目总投资超 130 亿美元",
+      "link": "https://www.ithome.com/0/990/402.htm",
+      "time": "08-16 23:45",
+      "src": "IT之家"
+    },
+    {
+      "title": "雷克沙 PexarBolt Ultra 扩展坞亮相：雷电 5、NVMe 插槽、5 寸触屏，479 美元",
+      "link": "https://www.ithome.com/0/990/397.htm",
+      "time": "08-16 23:17",
+      "src": "IT之家"
+    },
+    {
+      "title": "段永平基金二季度持仓总市值 191 亿美元：大幅增持拼多多、减持苹果和英伟达，重新买入阿里",
+      "link": "https://www.ithome.com/0/990/395.htm",
+      "time": "08-16 22:55",
+      "src": "IT之家"
+    },
     {
       "title": "特斯拉美国推出 Model Y 座椅下储物托盘：售价 40 美元，利用前排闲置空间存放小物品",
       "link": "https://www.ithome.com/0/990/393.htm",
@@ -1167,12 +1107,6 @@
       "src": "中新网"
     },
     {
-      "title": "不断攀升！多组数据透视中国出口含“新”量含“绿”量",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-16/10678761.shtml",
-      "time": "08-16 20:41",
-      "src": "中新网"
-    },
-    {
       "title": "PayPal洽谈出售：Stripe与私募巨头Advent联手出价 谈判报价已超530亿美元",
       "link": "https://www.cnbeta.com.tw/articles/tech/1573430.htm",
       "time": "08-16 14:49",
@@ -1183,21 +1117,15 @@
       "link": "https://www.cnbeta.com.tw/articles/tech/1573428.htm",
       "time": "08-16 14:45",
       "src": "cnBeta.COM"
-    },
-    {
-      "title": "比利时18岁学生打工挖到900万欧元金库 归属暂不确定",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1573420.htm",
-      "time": "08-16 14:33",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "A社营收暴涨1400% 最新季度入账115亿美元",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1573416.htm",
-      "time": "08-16 14:27",
-      "src": "cnBeta.COM"
     }
   ],
   "game_news": [
+    {
+      "title": "开罗游戏暑期捆绑包上线 Steam，国区 14.4 元起",
+      "link": "https://www.ithome.com/0/990/396.htm",
+      "time": "08-16 23:07",
+      "src": "IT之家"
+    },
     {
       "title": "联想来酷推出酷睿 5-320 商务小主机“酷 311”：6.7L 机身，售 3599 元",
       "link": "https://www.ithome.com/0/990/383.htm",
@@ -1238,12 +1166,6 @@
       "title": "《主播女孩重度依赖》原班人马打造：暗黑视觉小说《妹妹、他人、妄想症》现已发售",
       "link": "https://www.gcores.com/articles/218391",
       "time": "08-15 12:24",
-      "src": "机核"
-    },
-    {
-      "title": "Vol.22 人生游戏九宫格（上：主播篇）：那些最爱玩的、影响最深的、最有回忆的和最想推荐给大家的「游戏时差03」",
-      "link": "https://www.gcores.com/radios/218389",
-      "time": "08-14 18:30",
       "src": "机核"
     }
   ],
@@ -1313,6 +1235,12 @@
       "src": "ISW"
     },
     {
+      "title": "美国建造时间最长的航母“肯尼迪”号完成验收海试：最快 2027 年交付，项目总投资超 130 亿美元",
+      "link": "https://www.ithome.com/0/990/402.htm",
+      "time": "08-16 23:45",
+      "src": "IT之家"
+    },
+    {
       "title": "Anthropic 自曝安全漏洞：生物武器过滤器曾失效近一年，涉及 1.33 亿次对话",
       "link": "https://www.ithome.com/0/990/371.htm",
       "time": "08-16 19:37",
@@ -1347,12 +1275,6 @@
       "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260815-%E7%BE%8E%E5%9B%BD%E6%92%A4%E8%B5%B0%E4%BA%9A%E6%B4%B2%E6%9C%80%E5%90%8E%E4%B8%80%E8%89%98%E8%88%AA%E6%AF%8D%EF%BC%8C%E9%87%8D%E5%BF%83%E8%BD%AC%E5%90%91%E4%BC%8A%E6%9C%97%E4%B8%8E%E8%A5%BF%E5%8D%8A%E7%90%83%EF%BC%8C%E4%B8%AD%E5%9B%BD%E6%88%96%E6%88%90%E6%9C%80%E5%A4%A7%E5%8F%97%E7%9B%8A%E8%80%85",
       "time": "08-16 02:58",
       "src": "AP"
-    },
-    {
-      "title": "伊朗称卡塔尔扣押3名伊朗飞行员，遭卡方否认",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260815-%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%8D%A1%E5%A1%94%E5%B0%94%E6%89%A3%E6%8A%BC3%E5%90%8D%E4%BC%8A%E6%9C%97%E9%A3%9E%E8%A1%8C%E5%91%98%EF%BC%8C%E9%81%AD%E5%8D%A1%E6%96%B9%E5%90%A6%E8%AE%A4",
-      "time": "08-16 04:11",
-      "src": "REUTERS - Stri"
     }
   ]
 }
