@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18 02:49",
+  "generated_at": "2026-08-18 04:34",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 53506.49,
-      "pct": -0.42,
-      "chg": -225.92,
-      "amount": "1393244636亿"
+      "price": 53459.78,
+      "pct": -0.51,
+      "chg": -272.63,
+      "amount": "2334202895亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26665.6,
-      "pct": -0.24,
-      "chg": -63.56,
-      "amount": "12993069740亿"
+      "price": 26644.91,
+      "pct": -0.32,
+      "chg": -84.25,
+      "amount": "17955006381亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7758.07,
-      "pct": -0.36,
-      "chg": -27.69,
-      "amount": "1090787629亿"
+      "price": 7745.06,
+      "pct": -0.52,
+      "chg": -40.7,
+      "amount": "1938947863亿"
     }
   ],
   "anime": {
@@ -490,19 +490,19 @@
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 10634,
+        "likes": 10664,
         "downloads": 415039,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 1606,
+        "likes": 1615,
         "downloads": 2727609,
         "pipeline": ""
       },
       {
         "id": "Qwen/Qwen3.8-2.4T-A95B",
-        "likes": 1034,
+        "likes": 1040,
         "downloads": 9465,
         "pipeline": "text-generation"
       },
@@ -514,13 +514,13 @@
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 1085,
+        "likes": 1095,
         "downloads": 465529,
         "pipeline": "image-to-video"
       },
       {
         "id": "MiniMaxAI/MiniMax-Music3",
-        "likes": 892,
+        "likes": 896,
         "downloads": 10375,
         "pipeline": "text-to-audio"
       }
@@ -721,12 +721,6 @@
       "title": "Arm CFO最新访谈：内存是首要瓶颈 大型并购具备可行性",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininruye0020763.shtml",
       "time": "08-17 21:25",
-      "src": "环球市场播报"
-    },
-    {
-      "title": "阿里发布可在笔记本运行的全新大模型，正面迎战Meta的AI攻势",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininruye0019913.shtml",
-      "time": "08-17 21:23",
       "src": "环球市场播报"
     },
     {
