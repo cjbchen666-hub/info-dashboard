@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18 00:35",
+  "generated_at": "2026-08-18 02:49",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -269,15 +269,15 @@
         "src": "cnBeta.COM"
       },
       {
-        "title": "汇丰：美联储缩减持仓将使美国国债更依赖价格敏感型买家",
-        "link": "https://finance.sina.com.cn/world/2026-08-17/doc-ininrzfz9947773.shtml",
-        "time": "08-17 23:42",
+        "title": "城堡证券：美债收益率飙升反映美联储政策风险 下次利率会议结果难料",
+        "link": "https://finance.sina.com.cn/world/2026-08-18/doc-ininsfpz6633340.shtml",
+        "time": "08-18 01:59",
         "src": "环球市场播报"
       },
       {
-        "title": "法拉利首款纯电动车Luce拍卖成交价创纪录达4000万美元",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininrzhe8918535.shtml",
-        "time": "08-17 22:57",
+        "title": "塞勒旗下Strategy公司抛售普通股，用于回购优先股",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininrzhi7711548.shtml",
+        "time": "08-18 01:05",
         "src": "环球市场播报"
       }
     ]
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 53560.85,
-      "pct": -0.32,
-      "chg": -171.56,
-      "amount": "980225736亿"
+      "price": 53506.49,
+      "pct": -0.42,
+      "chg": -225.92,
+      "amount": "1393244636亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26731.28,
-      "pct": 0.01,
-      "chg": 2.12,
-      "amount": "9417707939亿"
+      "price": 26665.6,
+      "pct": -0.24,
+      "chg": -63.56,
+      "amount": "12993069740亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7771.69,
-      "pct": -0.18,
-      "chg": -14.07,
-      "amount": "745455688亿"
+      "price": 7758.07,
+      "pct": -0.36,
+      "chg": -27.69,
+      "amount": "1090787629亿"
     }
   ],
   "anime": {
@@ -330,15 +330,6 @@
         "rank": 915
       },
       {
-        "id": 541285,
-        "name": "きみが死ぬまで恋をしたい",
-        "name_cn": "与你相恋到生命尽头",
-        "score": 7.1,
-        "img": "http://lain.bgm.tv/pic/cover/c/b3/26/541285_CYBZc.jpg",
-        "air_date": "2026-07-07",
-        "rank": 2012
-      },
-      {
         "id": 325767,
         "name": "対ありでした。 ～お嬢さまは格闘ゲームなんてしない～",
         "name_cn": "感谢对战。 ～大小姐才不玩格斗游戏～",
@@ -346,6 +337,15 @@
         "img": "http://lain.bgm.tv/pic/cover/c/a1/d3/325767_u3pvR.jpg",
         "air_date": "2026-07-07",
         "rank": 2455
+      },
+      {
+        "id": 541285,
+        "name": "きみが死ぬまで恋をしたい",
+        "name_cn": "与你相恋到生命尽头",
+        "score": 7.0,
+        "img": "http://lain.bgm.tv/pic/cover/c/b3/26/541285_CYBZc.jpg",
+        "air_date": "2026-07-07",
+        "rank": 2012
       },
       {
         "id": 607929,
@@ -490,37 +490,37 @@
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 10599,
+        "likes": 10634,
         "downloads": 415039,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 1590,
+        "likes": 1606,
         "downloads": 2727609,
         "pipeline": ""
       },
       {
-        "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 1651,
-        "downloads": 334099,
-        "pipeline": "image-text-to-text"
-      },
-      {
         "id": "Qwen/Qwen3.8-2.4T-A95B",
-        "likes": 1030,
+        "likes": 1034,
         "downloads": 9465,
         "pipeline": "text-generation"
       },
       {
+        "id": "meta-models/Muse-Glimmer-30B",
+        "likes": 1655,
+        "downloads": 334099,
+        "pipeline": "image-text-to-text"
+      },
+      {
         "id": "Lightricks/LTX-2.5",
-        "likes": 1082,
+        "likes": 1085,
         "downloads": 465529,
         "pipeline": "image-to-video"
       },
       {
         "id": "MiniMaxAI/MiniMax-Music3",
-        "likes": 888,
+        "likes": 892,
         "downloads": 10375,
         "pipeline": "text-to-audio"
       }
@@ -988,12 +988,6 @@
       "src": "IT之家"
     },
     {
-      "title": "《蜘蛛侠：崭新之日》全球票房破 136.6 亿跻身影史第 8，登顶索尼影业影史单片票房冠军",
-      "link": "https://www.ithome.com/0/990/796.htm",
-      "time": "08-17 19:07",
-      "src": "IT之家"
-    },
-    {
       "title": "闲聊“法国豆瓣”用户票选世界最佳漫画 TOP50，对，只聊主播认识的",
       "link": "https://www.gcores.com/radios/218433",
       "time": "08-16 16:58",
@@ -1016,6 +1010,12 @@
       "link": "https://www.chinanews.com.cn/sh/2026/08-17/10679326.shtml",
       "time": "08-17 21:56",
       "src": "中新网"
+    },
+    {
+      "title": "全球首例AI老板炒员工真相：23个班次迟到17次不下手 人类催它才建议解雇",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1573558.htm",
+      "time": "08-17 14:07",
+      "src": "cnBeta.COM"
     }
   ],
   "econ_news": [
@@ -1035,12 +1035,6 @@
       "title": "海信家电 2026 年上半年归母净利润 16.58 亿元，同比下降 20.16%",
       "link": "https://www.ithome.com/0/990/797.htm",
       "time": "08-17 19:09",
-      "src": "IT之家"
-    },
-    {
-      "title": "复旦微电 2026 年上半年归母净利润 8.49 亿元，同比增长 338.58%",
-      "link": "https://www.ithome.com/0/990/779.htm",
-      "time": "08-17 18:49",
       "src": "IT之家"
     },
     {
@@ -1065,6 +1059,12 @@
       "title": "“老腔新调”燃秋夜 华阴非遗点亮夜经济",
       "link": "https://www.chinanews.com.cn/sh/2026/08-17/10679315.shtml",
       "time": "08-17 21:51",
+      "src": "中新网"
+    },
+    {
+      "title": "（经济观察）7月数据揭示中国经济结构之变",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-17/10679323.shtml",
+      "time": "08-17 21:46",
       "src": "中新网"
     }
   ],
@@ -1112,10 +1112,10 @@
       "src": "IT之家"
     },
     {
-      "title": "《蜘蛛侠：崭新之日》全球票房破 136.6 亿跻身影史第 8，登顶索尼影业影史单片票房冠军",
-      "link": "https://www.ithome.com/0/990/796.htm",
-      "time": "08-17 19:07",
-      "src": "IT之家"
+      "title": "第一人称PSX心理恐怖游戏《FEED IT》现已正式发售",
+      "link": "https://www.gcores.com/articles/218457",
+      "time": "08-17 22:00",
+      "src": "机核"
     }
   ],
   "game_update": [
@@ -1190,12 +1190,6 @@
       "src": "IT之家"
     },
     {
-      "title": "三星电子成为《使命召唤：现代战争 4》合作伙伴，游戏将支持 HDR10+ GAMING",
-      "link": "https://www.ithome.com/0/990/792.htm",
-      "time": "08-17 18:57",
-      "src": "IT之家"
-    },
-    {
       "title": "银河英雄到地上战争 Vol.5 德奥里亚星域的「信息战」",
       "link": "https://www.gcores.com/radios/211449",
       "time": "08-17 21:00",
@@ -1224,6 +1218,12 @@
       "link": "https://www.chinanews.com.cn/gj/2026/08-17/10679330.shtml",
       "time": "08-17 22:07",
       "src": "中新网"
+    },
+    {
+      "title": "瑞士科学家研发出完全由声音驱动的微型无人机和船只",
+      "link": "https://www.cnbeta.com.tw/articles/science/1573618.htm",
+      "time": "08-17 22:58",
+      "src": "cnBeta.COM"
     }
   ]
 }
