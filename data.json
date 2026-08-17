@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18 04:34",
+  "generated_at": "2026-08-18 06:30",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -269,15 +269,15 @@
         "src": "cnBeta.COM"
       },
       {
-        "title": "城堡证券：美债收益率飙升反映美联储政策风险 下次利率会议结果难料",
-        "link": "https://finance.sina.com.cn/world/2026-08-18/doc-ininsfpz6633340.shtml",
-        "time": "08-18 01:59",
+        "title": "8月18日美股成交额前20：美光涨超4% 马斯克明确看好美光闪迪等存储巨头",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsmwk0424456.shtml",
+        "time": "08-18 04:44",
         "src": "环球市场播报"
       },
       {
-        "title": "塞勒旗下Strategy公司抛售普通股，用于回购优先股",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininrzhi7711548.shtml",
-        "time": "08-18 01:05",
+        "title": "城堡证券：美债收益率飙升反映美联储政策风险 下次利率会议结果难料",
+        "link": "https://finance.sina.com.cn/world/2026-08-18/doc-ininsfpz6633340.shtml",
+        "time": "08-18 01:59",
         "src": "环球市场播报"
       }
     ]
@@ -297,7 +297,7 @@
       "price": 53459.78,
       "pct": -0.51,
       "chg": -272.63,
-      "amount": "2334202895亿"
+      "amount": "2336966520亿"
     },
     {
       "name": "纳斯达克",
@@ -305,7 +305,7 @@
       "price": 26644.91,
       "pct": -0.32,
       "chg": -84.25,
-      "amount": "17955006381亿"
+      "amount": "18237786971亿"
     },
     {
       "name": "标普500",
@@ -313,7 +313,7 @@
       "price": 7745.06,
       "pct": -0.52,
       "chg": -40.7,
-      "amount": "1938947863亿"
+      "amount": "1941297864亿"
     }
   ],
   "anime": {
@@ -327,7 +327,7 @@
         "score": 7.5,
         "img": "http://lain.bgm.tv/pic/cover/c/7e/10/496276_Qeu06.jpg",
         "air_date": "2026-07-07",
-        "rank": 915
+        "rank": 983
       },
       {
         "id": 325767,
@@ -336,7 +336,7 @@
         "score": 7.0,
         "img": "http://lain.bgm.tv/pic/cover/c/a1/d3/325767_u3pvR.jpg",
         "air_date": "2026-07-07",
-        "rank": 2455
+        "rank": 2451
       },
       {
         "id": 541285,
@@ -345,7 +345,7 @@
         "score": 7.0,
         "img": "http://lain.bgm.tv/pic/cover/c/b3/26/541285_CYBZc.jpg",
         "air_date": "2026-07-07",
-        "rank": 2012
+        "rank": 2409
       },
       {
         "id": 607929,
@@ -363,7 +363,7 @@
         "score": 6.1,
         "img": "http://lain.bgm.tv/pic/cover/c/04/5b/584641_150ne.jpg",
         "air_date": "2026-07-07",
-        "rank": 6402
+        "rank": 6382
       },
       {
         "id": 612697,
@@ -390,7 +390,7 @@
         "score": 4.3,
         "img": "http://lain.bgm.tv/pic/cover/c/11/b7/627648_V00Vh.jpg",
         "air_date": "2026-07-07",
-        "rank": 9487
+        "rank": 9488
       },
       {
         "id": 638995,
@@ -415,7 +415,7 @@
   "ukraine": {
     "title": "Russian Offensive Campaign Assessment",
     "summary": "ISW’s Russia and Ukraine team produces the maps and analysis of record of the war in Ukraine. The Russian Offensive Campaign Assessment provides a synthetic running intelligence estimate of Putin’s political and military objectives in Ukraine and the design, prosecution, and outcomes of Russia’s war effort. ISW has published this update daily since Russia’s full-scale invasion of Ukraine in February 2022. Each update includes an assessment of the latest battlefield changes at the operational and tactical levels of war as well as an updated strategic assessment and forecast of the war’s trajectory along with numer",
-    "map_url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-august-16-2026-at-130-pm-et/",
+    "map_url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-august-17-2026-at-130-pm-et/",
     "url": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment",
     "links": [
       {
@@ -424,7 +424,7 @@
       },
       {
         "name": "ISW 官方地图页",
-        "url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-august-16-2026-at-130-pm-et/"
+        "url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-august-17-2026-at-130-pm-et/"
       },
       {
         "name": "实时战线地图 Liveuamap",
@@ -490,37 +490,37 @@
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 10664,
+        "likes": 10692,
         "downloads": 415039,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 1615,
+        "likes": 1622,
         "downloads": 2727609,
         "pipeline": ""
       },
       {
         "id": "Qwen/Qwen3.8-2.4T-A95B",
-        "likes": 1040,
+        "likes": 1041,
         "downloads": 9465,
         "pipeline": "text-generation"
       },
       {
-        "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 1655,
-        "downloads": 334099,
-        "pipeline": "image-text-to-text"
-      },
-      {
         "id": "Lightricks/LTX-2.5",
-        "likes": 1095,
+        "likes": 1102,
         "downloads": 465529,
         "pipeline": "image-to-video"
       },
       {
+        "id": "meta-models/Muse-Glimmer-30B",
+        "likes": 1660,
+        "downloads": 334099,
+        "pipeline": "image-text-to-text"
+      },
+      {
         "id": "MiniMaxAI/MiniMax-Music3",
-        "likes": 896,
+        "likes": 900,
         "downloads": 10375,
         "pipeline": "text-to-audio"
       }
@@ -931,6 +931,12 @@
   "anime_industry": {
     "news": [
       {
+        "title": "苹果 iOS / iPadOS 27.0 开发者预览版 Beta 6 发布：更新弹窗通知动画效果",
+        "link": "https://www.ithome.com/0/990/861.htm",
+        "time": "08-18 01:49",
+        "src": "IT之家"
+      },
+      {
         "title": "闲聊“法国豆瓣”用户票选世界最佳漫画 TOP50，对，只聊主播认识的",
         "link": "https://www.gcores.com/radios/218433",
         "time": "08-16 16:58",
@@ -988,6 +994,12 @@
       "src": "机核"
     },
     {
+      "title": "特朗普称不寻求延长与伊朗的谅解备忘录",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-18/10679351.shtml",
+      "time": "08-18 06:23",
+      "src": "中新网"
+    },
+    {
       "title": "伊朗战事拖累选情 美总统被曝拨款支持共和党候选人",
       "link": "https://www.chinanews.com.cn/gj/2026/08-17/10679348.shtml",
       "time": "08-17 23:52",
@@ -1004,12 +1016,6 @@
       "link": "https://www.chinanews.com.cn/sh/2026/08-17/10679326.shtml",
       "time": "08-17 21:56",
       "src": "中新网"
-    },
-    {
-      "title": "全球首例AI老板炒员工真相：23个班次迟到17次不下手 人类催它才建议解雇",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1573558.htm",
-      "time": "08-17 14:07",
-      "src": "cnBeta.COM"
     }
   ],
   "econ_news": [
@@ -1190,6 +1196,12 @@
       "src": "机核"
     },
     {
+      "title": "特朗普称不寻求延长与伊朗的谅解备忘录",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-18/10679351.shtml",
+      "time": "08-18 06:23",
+      "src": "中新网"
+    },
+    {
       "title": "伊朗战事拖累选情 美总统被曝拨款支持共和党候选人",
       "link": "https://www.chinanews.com.cn/gj/2026/08-17/10679348.shtml",
       "time": "08-17 23:52",
@@ -1212,12 +1224,6 @@
       "link": "https://www.chinanews.com.cn/gj/2026/08-17/10679330.shtml",
       "time": "08-17 22:07",
       "src": "中新网"
-    },
-    {
-      "title": "瑞士科学家研发出完全由声音驱动的微型无人机和船只",
-      "link": "https://www.cnbeta.com.tw/articles/science/1573618.htm",
-      "time": "08-17 22:58",
-      "src": "cnBeta.COM"
     }
   ]
 }
