@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19 02:48",
+  "generated_at": "2026-08-19 04:31",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 53407.51,
-      "pct": -0.1,
-      "chg": -52.27,
-      "amount": "1347718884亿"
+      "price": 53343.4,
+      "pct": -0.22,
+      "chg": -116.38,
+      "amount": "2289740590亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26306.28,
-      "pct": -1.27,
-      "chg": -338.63,
-      "amount": "11599045786亿"
+      "price": 26289.71,
+      "pct": -1.33,
+      "chg": -355.2,
+      "amount": "16780069509亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7700.58,
-      "pct": -0.57,
-      "chg": -44.48,
-      "amount": "1146979061亿"
+      "price": 7691.76,
+      "pct": -0.69,
+      "chg": -53.3,
+      "amount": "2030704312亿"
     }
   ],
   "anime": {
@@ -580,39 +580,39 @@
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 11058,
+        "likes": 11077,
         "downloads": 665513,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 1789,
+        "likes": 1801,
         "downloads": 3561466,
         "pipeline": ""
       },
       {
         "id": "Qwen/Qwen3.8-2.4T-A95B",
-        "likes": 1061,
+        "likes": 1063,
         "downloads": 11212,
         "pipeline": "text-generation"
       },
       {
-        "id": "Lightricks/LTX-2.5",
-        "likes": 1203,
-        "downloads": 503632,
-        "pipeline": "image-to-video"
-      },
-      {
         "id": "MiniMaxAI/MiniMax-Music3",
-        "likes": 943,
+        "likes": 948,
         "downloads": 11745,
         "pipeline": "text-to-audio"
       },
       {
-        "id": "meta-models/Muse-Glimmer-30B",
-        "likes": 1674,
-        "downloads": 384097,
-        "pipeline": "image-text-to-text"
+        "id": "Lightricks/LTX-2.5",
+        "likes": 1207,
+        "downloads": 503632,
+        "pipeline": "image-to-video"
+      },
+      {
+        "id": "deepseek-ai/DeepSeek-V4-Pro-0813",
+        "likes": 598,
+        "downloads": 30985,
+        "pipeline": "text-generation"
       }
     ],
     "models": [
