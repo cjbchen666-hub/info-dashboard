@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19 00:38",
+  "generated_at": "2026-08-19 02:48",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -275,10 +275,10 @@
         "src": "一财网"
       },
       {
-        "title": "盘前：AI股票成重灾区 纳指期货跌1.06% 债市疯狂暴跌",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-inintxxm7331901.shtml",
-        "time": "08-18 20:32",
-        "src": "环球市场播报"
+        "title": "刘军：算力下半场拼Token效能，联想中国AI基础设施业务进入盈利通道",
+        "link": "https://finance.sina.com.cn/jjxw/2026-08-18/doc-ininttrk8671453.shtml",
+        "time": "08-18 19:04",
+        "src": "新浪科技"
       }
     ]
   },
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 53382.92,
-      "pct": -0.14,
-      "chg": -76.86,
-      "amount": "1005368439亿"
+      "price": 53407.51,
+      "pct": -0.1,
+      "chg": -52.27,
+      "amount": "1347718884亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26352.0,
-      "pct": -1.1,
-      "chg": -292.91,
-      "amount": "8520976405亿"
+      "price": 26306.28,
+      "pct": -1.27,
+      "chg": -338.63,
+      "amount": "11599045786亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7704.92,
-      "pct": -0.52,
-      "chg": -40.14,
-      "amount": "823795090亿"
+      "price": 7700.58,
+      "pct": -0.57,
+      "chg": -44.48,
+      "amount": "1146979061亿"
     }
   ],
   "anime": {
@@ -580,31 +580,31 @@
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 11018,
+        "likes": 11058,
         "downloads": 665513,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 1771,
+        "likes": 1789,
         "downloads": 3561466,
         "pipeline": ""
       },
       {
         "id": "Qwen/Qwen3.8-2.4T-A95B",
-        "likes": 1058,
+        "likes": 1061,
         "downloads": 11212,
         "pipeline": "text-generation"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 1192,
+        "likes": 1203,
         "downloads": 503632,
         "pipeline": "image-to-video"
       },
       {
         "id": "MiniMaxAI/MiniMax-Music3",
-        "likes": 936,
+        "likes": 943,
         "downloads": 11745,
         "pipeline": "text-to-audio"
       },
@@ -1078,6 +1078,24 @@
       "src": "IT之家"
     },
     {
+      "title": "伊朗举行已故最高领袖下葬四十日纪念仪式",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-19/10679975.shtml",
+      "time": "08-19 00:52",
+      "src": "中新网"
+    },
+    {
+      "title": "英国二季度劳动力市场进一步降温",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-19/10679972.shtml",
+      "time": "08-19 00:51",
+      "src": "中新网"
+    },
+    {
+      "title": "伊朗称美国曾考虑对伊使用“委内瑞拉”模式但未得逞",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-19/10679974.shtml",
+      "time": "08-19 00:51",
+      "src": "中新网"
+    },
+    {
       "title": "香港黄金交易所交易系统有限公司成立 将打造国际化黄金交易平台",
       "link": "https://www.chinanews.com.cn/dwq/2026/08-18/10679959.shtml",
       "time": "08-18 23:25",
@@ -1087,24 +1105,6 @@
       "title": "俄对英涉乌行动发警告 英首相表示坚定支持乌克兰",
       "link": "https://www.chinanews.com.cn/gj/2026/08-18/10679960.shtml",
       "time": "08-18 23:22",
-      "src": "中新网"
-    },
-    {
-      "title": "特朗普：未与伊朗进行任何会谈 未来也无相关计划",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-18/10679966.shtml",
-      "time": "08-18 23:03",
-      "src": "中新网"
-    },
-    {
-      "title": "伊朗最高领袖据称将在德黑兰主持活动",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-18/10679965.shtml",
-      "time": "08-18 23:00",
-      "src": "中新网"
-    },
-    {
-      "title": "欧盟提议将以色列国家安全部长列入制裁名单",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-18/10679962.shtml",
-      "time": "08-18 22:56",
       "src": "中新网"
     }
   ],
@@ -1280,6 +1280,18 @@
       "src": "机核"
     },
     {
+      "title": "伊朗举行已故最高领袖下葬四十日纪念仪式",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-19/10679975.shtml",
+      "time": "08-19 00:52",
+      "src": "中新网"
+    },
+    {
+      "title": "伊朗称美国曾考虑对伊使用“委内瑞拉”模式但未得逞",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-19/10679974.shtml",
+      "time": "08-19 00:51",
+      "src": "中新网"
+    },
+    {
       "title": "特朗普：未与伊朗进行任何会谈 未来也无相关计划",
       "link": "https://www.chinanews.com.cn/gj/2026/08-18/10679966.shtml",
       "time": "08-18 23:03",
@@ -1298,22 +1310,10 @@
       "src": "中新网"
     },
     {
-      "title": "特朗普：目前和未来不会与伊朗进行任何会谈或对话",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-18/10679945.shtml",
-      "time": "08-18 21:52",
-      "src": "中新网"
-    },
-    {
       "title": "俄军袭击乌克兰东北村镇至少10人遇难15人伤",
       "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260818-%E4%BF%84%E5%86%9B%E8%A2%AD%E5%87%BB%E4%B9%8C%E5%85%8B%E5%85%B0%E4%B8%9C%E5%8C%97%E6%9D%91%E9%95%87%E8%87%B3%E5%B0%9110%E4%BA%BA%E9%81%87%E9%9A%BE15%E4%BA%BA%E4%BC%A4",
       "time": "08-18 22:33",
       "src": "REUTERS - Sofi"
-    },
-    {
-      "title": "特朗普女婿兼特使库什纳结束中东行程，加沙和平方案进展有限",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260818-%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%A9%BF%E5%85%BC%E7%89%B9%E4%BD%BF%E5%BA%93%E4%BB%80%E7%BA%B3%E7%BB%93%E6%9D%9F%E4%B8%AD%E4%B8%9C%E8%A1%8C%E7%A8%8B%EF%BC%8C%E5%8A%A0%E6%B2%99%E5%92%8C%E5%B9%B3%E6%96%B9%E6%A1%88%E8%BF%9B%E5%B1%95%E6%9C%89%E9%99%90",
-      "time": "08-18 17:15",
-      "src": "via REUTERS - "
     }
   ]
 }
