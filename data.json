@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19 18:35",
+  "generated_at": "2026-08-19 20:59",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,6 +233,12 @@
     ],
     "news": [
       {
+        "title": "京东 WRC 2026 发布机器人战略：到 2028 年投入百亿级资源，助力 100 个品牌销售额破 10 亿元",
+        "link": "https://www.ithome.com/0/991/821.htm",
+        "time": "08-19 20:13",
+        "src": "IT之家"
+      },
+      {
         "title": "宇树科技王兴兴回应大学毕业后仅 2 个月就从大疆离职：热爱机器人 + 产业化机会出现",
         "link": "https://www.ithome.com/0/991/770.htm",
         "time": "08-19 17:48",
@@ -245,39 +251,33 @@
         "src": "IT之家"
       },
       {
-        "title": "皮克斯《机器人总动员》中国内地首次公映：奥斯卡最佳动画，豆瓣 9.3 分",
-        "link": "https://www.ithome.com/0/991/678.htm",
-        "time": "08-19 15:58",
-        "src": "IT之家"
+        "title": "中澳两国央行续签双边本币互换协议",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-19/10680599.shtml",
+        "time": "08-19 20:30",
+        "src": "中新网"
       },
       {
-        "title": "SK 海力士宣布 40 万亿韩元股份回购注销，创下韩国上市公司历史最高纪录",
-        "link": "https://www.ithome.com/0/991/672.htm",
-        "time": "08-19 15:53",
-        "src": "IT之家"
-      },
-      {
-        "title": "奇瑞旗下墨甲机器人筹划独立 IPO，同时瞄准海外警用、服务等市场",
-        "link": "https://www.ithome.com/0/991/667.htm",
-        "time": "08-19 15:51",
-        "src": "IT之家"
-      },
-      {
-        "title": "小米新一代人形机器人预览：双足、1.7 米左右、全身 66 个自由度",
-        "link": "https://www.ithome.com/0/991/662.htm",
-        "time": "08-19 15:47",
-        "src": "IT之家"
-      },
-      {
-        "title": "印尼央行连续两个月维持基准利率5.75%",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-19/10680516.shtml",
-        "time": "08-19 18:19",
+        "title": "“人形机器人第一股”宇树科技首日收涨超460% 机器人产品受关注",
+        "link": "https://www.chinanews.com.cn/tp/2026/08-19/10680565.shtml",
+        "time": "08-19 20:11",
         "src": "中新网"
       },
       {
         "title": "外媒：宇树IPO暴涨成中国机器人产业里程碑 拉开更多同行上市序幕",
         "link": "https://www.cnbeta.com.tw/articles/tech/1573958.htm",
         "time": "08-19 17:36",
+        "src": "cnBeta.COM"
+      },
+      {
+        "title": "北京中关村AI酒吧走红 进店能白嫖DeepSeek算力",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1573954.htm",
+        "time": "08-19 17:26",
+        "src": "cnBeta.COM"
+      },
+      {
+        "title": "蔡明同款仿生机器人亮相：五官自然精致 主打情感陪伴 9.9万起",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1573946.htm",
+        "time": "08-19 17:20",
         "src": "cnBeta.COM"
       }
     ]
@@ -360,18 +360,9 @@
         "id": 500458,
         "name": "胶囊计划·奇迹",
         "name_cn": "胶囊计划 奇迹",
-        "score": 6.2,
+        "score": 6.3,
         "img": "http://lain.bgm.tv/pic/cover/c/f5/23/500458_jXNh1.jpg",
         "air_date": "2026-07-08",
-        "rank": null
-      },
-      {
-        "id": 481295,
-        "name": "X-Men '97 Season 2",
-        "name_cn": "X战警97 第二季",
-        "score": 6.1,
-        "img": "http://lain.bgm.tv/pic/cover/c/48/4a/481295_Z8c8P.jpg",
-        "air_date": "2026-07-01",
         "rank": null
       },
       {
@@ -391,6 +382,15 @@
         "img": "http://lain.bgm.tv/pic/cover/c/04/7e/572613_v58Bn.jpg",
         "air_date": "2026-07-08",
         "rank": 7023
+      },
+      {
+        "id": 481295,
+        "name": "X-Men '97 Season 2",
+        "name_cn": "X战警97 第二季",
+        "score": 5.9,
+        "img": "http://lain.bgm.tv/pic/cover/c/48/4a/481295_Z8c8P.jpg",
+        "air_date": "2026-07-01",
+        "rank": null
       },
       {
         "id": 642666,
@@ -529,6 +529,24 @@
   "ai": {
     "news_zh": [
       {
+        "title": "Marvell 与谷歌签署定制芯片协议并授予其大额认股权证：行权价 206.58 美元，盘前涨超 10%",
+        "link": "https://www.ithome.com/0/991/834.htm",
+        "time": "08-19 20:51",
+        "src": "IT之家"
+      },
+      {
+        "title": "上任仅半年，微软 AI 部门首席营销官安德烈娅 · 马拉德被曝即将离职",
+        "link": "https://www.ithome.com/0/991/823.htm",
+        "time": "08-19 20:14",
+        "src": "IT之家"
+      },
+      {
+        "title": "京东 WRC 2026 发布机器人战略：到 2028 年投入百亿级资源，助力 100 个品牌销售额破 10 亿元",
+        "link": "https://www.ithome.com/0/991/821.htm",
+        "time": "08-19 20:13",
+        "src": "IT之家"
+      },
+      {
         "title": "宇树科技王兴兴回应大学毕业后仅 2 个月就从大疆离职：热爱机器人 + 产业化机会出现",
         "link": "https://www.ithome.com/0/991/770.htm",
         "time": "08-19 17:48",
@@ -553,64 +571,46 @@
         "src": "IT之家"
       },
       {
-        "title": "联想 AI 平板拯救者 Y700 无极专属配件公开，含专属手柄、街机底座、多功能保护壳等",
-        "link": "https://www.ithome.com/0/991/706.htm",
-        "time": "08-19 16:38",
-        "src": "IT之家"
-      },
-      {
-        "title": "小米新一代玄戒芯片即将发布，消息称 2025 年底回片、当天一次点亮成功",
-        "link": "https://www.ithome.com/0/991/685.htm",
-        "time": "08-19 16:11",
-        "src": "IT之家"
-      },
-      {
-        "title": "皮克斯《机器人总动员》中国内地首次公映：奥斯卡最佳动画，豆瓣 9.3 分",
-        "link": "https://www.ithome.com/0/991/678.htm",
-        "time": "08-19 15:58",
-        "src": "IT之家"
-      },
-      {
-        "title": "奇瑞旗下墨甲机器人筹划独立 IPO，同时瞄准海外警用、服务等市场",
-        "link": "https://www.ithome.com/0/991/667.htm",
-        "time": "08-19 15:51",
-        "src": "IT之家"
+        "title": "“人形机器人第一股”宇树科技首日收涨超460% 机器人产品受关注",
+        "link": "https://www.chinanews.com.cn/tp/2026/08-19/10680565.shtml",
+        "time": "08-19 20:11",
+        "src": "中新网"
       }
     ],
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 11292,
+        "likes": 11339,
         "downloads": 1006235,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 1877,
+        "likes": 1891,
         "downloads": 4318134,
         "pipeline": ""
       },
       {
         "id": "Qwen/Qwen3.8-2.4T-A95B",
-        "likes": 1076,
+        "likes": 1078,
         "downloads": 12699,
         "pipeline": "text-generation"
       },
       {
         "id": "MiniMaxAI/MiniMax-Music3",
-        "likes": 995,
+        "likes": 1006,
         "downloads": 13138,
         "pipeline": "text-to-audio"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 1266,
+        "likes": 1273,
         "downloads": 555993,
         "pipeline": "image-to-video"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4-Pro-0813",
-        "likes": 615,
+        "likes": 619,
         "downloads": 37583,
         "pipeline": "text-generation"
       }
@@ -784,6 +784,18 @@
   ],
   "hw_news": [
     {
+      "title": "8999 元起雷神黑武士猎刃 Pro 台式机新增酷睿 7 230H + RTX 5060 Ti 版本",
+      "link": "https://www.ithome.com/0/991/817.htm",
+      "time": "08-19 20:00",
+      "src": "IT之家"
+    },
+    {
+      "title": "龙芯胡伟武：3B6600 用 1Xnm 工艺追平 AMD 英特尔 7nm 性能",
+      "link": "https://www.ithome.com/0/991/811.htm",
+      "time": "08-19 19:22",
+      "src": "IT之家"
+    },
+    {
       "title": "AOC 爱攻 7 霸天 MAX AGP497UCZD 曲面带鱼屏显示器上市，6999 元",
       "link": "https://www.ithome.com/0/991/787.htm",
       "time": "08-19 18:35",
@@ -808,28 +820,10 @@
       "src": "IT之家"
     },
     {
-      "title": "机械师曙光 S 主机新品开启预约：酷睿 7 230H+RTX 5060 显卡，国补后到手 5949.15 元",
-      "link": "https://www.ithome.com/0/991/717.htm",
-      "time": "08-19 16:51",
-      "src": "IT之家"
-    },
-    {
-      "title": "飞利浦上架 27E2N6900RW 显示器：5K 75Hz，支持 4× 双模",
-      "link": "https://www.ithome.com/0/991/701.htm",
-      "time": "08-19 16:31",
-      "src": "IT之家"
-    },
-    {
       "title": "低价购入三块“32TB移动硬盘” 拆开后发现仅是一张粘在电路板上的microSD卡",
       "link": "https://www.cnbeta.com.tw/articles/tech/1573956.htm",
       "time": "08-19 17:33",
       "src": "cnBeta.COM"
-    },
-    {
-      "title": "智界产品总监详解 RX 轿跑 SUV 方向盘按键设计，采用鸿蒙智行家族 9 系及以上车型方案",
-      "link": "https://finance.sina.com.cn/tech/digi/2026-08-19/doc-ininuefp9896632.shtml",
-      "time": "08-18 21:53",
-      "src": "IT之家"
     },
     {
       "title": "Computex 2026: NVIDIA 发布 ARM 架构 PC 芯片 RTX Spark, 集成 Blackwell GPU, 对标苹果 M5",
@@ -851,6 +845,12 @@
     },
     {
       "title": "宏碁首发 1000Hz 电竞显示器; 微星 5K Mini-LED 双模电竞屏(5K@180Hz/2K@330Hz) 亮相 Computex 2026",
+      "link": "https://www.160.com/article/12732.html",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "微星 40 周年发布 RTX 5090 LIGHTNING Z 旗舰与内置 AI 代理的 OLED 电竞显示器",
       "link": "https://www.160.com/article/12732.html",
       "time": "精选",
       "src": "资讯整理"
@@ -1027,12 +1027,6 @@
   "anime_industry": {
     "news": [
       {
-        "title": "皮克斯《机器人总动员》中国内地首次公映：奥斯卡最佳动画，豆瓣 9.3 分",
-        "link": "https://www.ithome.com/0/991/678.htm",
-        "time": "08-19 15:58",
-        "src": "IT之家"
-      },
-      {
         "title": "线下活动 | 爵士律动唤醒动漫回忆：炒饭 Fried Rice 音乐分享签售会",
         "link": "https://sspai.com/post/113564",
         "time": "08-18 15:05",
@@ -1078,33 +1072,21 @@
       "src": "IT之家"
     },
     {
-      "title": "全球首项，我国牵头制定的钢铁行业智能制造国际标准发布",
-      "link": "https://www.ithome.com/0/991/676.htm",
-      "time": "08-19 15:55",
-      "src": "IT之家"
-    },
-    {
       "title": "舞狮BOSS惊艳全球！CGTN揭秘《影之刃零》中式武侠匠心",
       "link": "https://www.gcores.com/articles/218531",
       "time": "08-19 13:37",
       "src": "机核"
     },
     {
-      "title": "北京国际广播电影电视展览会在北京举行",
-      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/08-19/1201554.shtml",
-      "time": "08-19 18:18",
+      "title": "司法部新闻发言人就欧盟外国补贴调查相关做法构成不当域外管辖答记者问",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-19/10680616.shtml",
+      "time": "08-19 20:21",
       "src": "中新网"
     },
     {
-      "title": "英国7月消费者价格指数同比上涨2.9%",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-19/10680515.shtml",
-      "time": "08-19 18:06",
-      "src": "中新网"
-    },
-    {
-      "title": "旅埃侨胞参观《开罗宣言》纪念碑：重温国际法理 谴责歪曲侵略历史行径",
-      "link": "https://www.chinanews.com.cn/hr/2026/08-19/10680496.shtml",
-      "time": "08-19 17:55",
+      "title": "司法部发布公告 认定欧盟相关做法构成不当域外管辖",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-19/10680607.shtml",
+      "time": "08-19 20:17",
       "src": "中新网"
     },
     {
@@ -1112,9 +1094,45 @@
       "link": "https://www.cnbeta.com.tw/articles/tech/1573958.htm",
       "time": "08-19 17:36",
       "src": "cnBeta.COM"
+    },
+    {
+      "title": "超级厄尔尼诺步步逼近 为何威胁全球粮食与能源安全",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1573938.htm",
+      "time": "08-19 17:15",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "奇瑞将在英国设立研发中心",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1573936.htm",
+      "time": "08-19 17:14",
+      "src": "cnBeta.COM"
     }
   ],
   "econ_news": [
+    {
+      "title": "Marvell 与谷歌签署定制芯片协议并授予其大额认股权证：行权价 206.58 美元，盘前涨超 10%",
+      "link": "https://www.ithome.com/0/991/834.htm",
+      "time": "08-19 20:51",
+      "src": "IT之家"
+    },
+    {
+      "title": "分析师警告：若索尼 PS6 和微软 Xbox Helix 卖 1000 美元，恐致 5 年累计销量比前代低四成",
+      "link": "https://www.ithome.com/0/991/831.htm",
+      "time": "08-19 20:49",
+      "src": "IT之家"
+    },
+    {
+      "title": "亿纬锂能 2026 年半年度归母净利润 33.01 亿元，同比增长 105.66%",
+      "link": "https://www.ithome.com/0/991/815.htm",
+      "time": "08-19 19:54",
+      "src": "IT之家"
+    },
+    {
+      "title": "金山软件 2026 财年上半年归母净利润 16.39 亿元，同比增长 101%",
+      "link": "https://www.ithome.com/0/991/788.htm",
+      "time": "08-19 18:38",
+      "src": "IT之家"
+    },
     {
       "title": "圆通速递 2026 年上半年归母净利润 31.75 亿元，同比增长 73.44%",
       "link": "https://www.ithome.com/0/991/785.htm",
@@ -1138,33 +1156,27 @@
       "link": "https://www.ithome.com/0/991/748.htm",
       "time": "08-19 17:31",
       "src": "IT之家"
-    },
-    {
-      "title": "微博 2026 财年上半年归母净利润 1.02 亿美元，同比下降 56.12%",
-      "link": "https://www.ithome.com/0/991/741.htm",
-      "time": "08-19 17:23",
-      "src": "IT之家"
-    },
-    {
-      "title": "金山云：上半年营收 57.76 亿元，同比增长 33.7%",
-      "link": "https://www.ithome.com/0/991/744.htm",
-      "time": "08-19 17:27",
-      "src": "IT之家"
-    },
-    {
-      "title": "快手 2026 财年上半年归母净利润 60.49 亿元，同比下降 32%",
-      "link": "https://www.ithome.com/0/991/705.htm",
-      "time": "08-19 16:37",
-      "src": "IT之家"
-    },
-    {
-      "title": "国产卡牌肉鸽游戏《黄金星漩》定于9月10日正式发售",
-      "link": "https://www.gcores.com/articles/218545",
-      "time": "08-19 17:12",
-      "src": "机核"
     }
   ],
   "game_news": [
+    {
+      "title": "分析师警告：若索尼 PS6 和微软 Xbox Helix 卖 1000 美元，恐致 5 年累计销量比前代低四成",
+      "link": "https://www.ithome.com/0/991/831.htm",
+      "time": "08-19 20:49",
+      "src": "IT之家"
+    },
+    {
+      "title": "上任仅半年，微软 AI 部门首席营销官安德烈娅 · 马拉德被曝即将离职",
+      "link": "https://www.ithome.com/0/991/823.htm",
+      "time": "08-19 20:14",
+      "src": "IT之家"
+    },
+    {
+      "title": "《GTA 6》实机画面意外泄露，“停止扼杀游戏”组织呼吁玩家不要支持当事黑客",
+      "link": "https://www.ithome.com/0/991/814.htm",
+      "time": "08-19 19:48",
+      "src": "IT之家"
+    },
     {
       "title": "继冰箱、烤面包机后，微软 Xbox 将与宜家推出联名家具",
       "link": "https://www.ithome.com/0/991/775.htm",
@@ -1184,18 +1196,6 @@
       "src": "IT之家"
     },
     {
-      "title": "机械师曙光 S 主机新品开启预约：酷睿 7 230H+RTX 5060 显卡，国补后到手 5949.15 元",
-      "link": "https://www.ithome.com/0/991/717.htm",
-      "time": "08-19 16:51",
-      "src": "IT之家"
-    },
-    {
-      "title": "八位堂《战争机器：事变日》XBOX 手柄充电底座上架，首发 199 元",
-      "link": "https://www.ithome.com/0/991/686.htm",
-      "time": "08-19 16:18",
-      "src": "IT之家"
-    },
-    {
       "title": "国产卡牌肉鸽游戏《黄金星漩》定于9月10日正式发售",
       "link": "https://www.gcores.com/articles/218545",
       "time": "08-19 17:12",
@@ -1205,12 +1205,6 @@
       "title": "时间管理悬疑冒险游戏《铁道人》正式公布",
       "link": "https://www.gcores.com/articles/218538",
       "time": "08-19 14:34",
-      "src": "机核"
-    },
-    {
-      "title": "仓库竞拍“捡漏”模拟游戏《仓库猎人模拟器》将于年内登陆主机",
-      "link": "https://www.gcores.com/articles/218534",
-      "time": "08-19 13:22",
       "src": "机核"
     }
   ],
@@ -1286,10 +1280,16 @@
       "src": "IT之家"
     },
     {
-      "title": "八位堂《战争机器：事变日》XBOX 手柄充电底座上架，首发 199 元",
-      "link": "https://www.ithome.com/0/991/686.htm",
-      "time": "08-19 16:18",
-      "src": "IT之家"
+      "title": "南海热带低压生成 海南发布台风四级预警",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-19/10680625.shtml",
+      "time": "08-19 20:47",
+      "src": "中新网"
+    },
+    {
+      "title": "亚马逊Prime Air无人机配送年底将覆盖美国近500个城市和城镇",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1573974.htm",
+      "time": "08-19 20:14",
+      "src": "cnBeta.COM"
     },
     {
       "title": "美韩军演在特朗普压力下宣布提前结束 特朗普称金正恩回应了",
@@ -1313,12 +1313,6 @@
       "title": "韓國疏遠伊朗戰事 特朗普稱將縮減聯合軍演規模",
       "link": "https://www.bbc.com/zhongwen/articles/cj9dxjzgk92o/trad?at_medium=RSS&at_campaign=rss",
       "time": "08-17 16:02",
-      "src": "BBC中文"
-    },
-    {
-      "title": "特朗普暫停伊朗戰事，美國真面臨武器短缺？台海安全堪憂？",
-      "link": "https://www.bbc.com/zhongwen/articles/c05q7n6jn2lo/trad?at_medium=RSS&at_campaign=rss",
-      "time": "07-28 16:43",
       "src": "BBC中文"
     }
   ]
