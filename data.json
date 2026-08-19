@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20 04:35",
+  "generated_at": "2026-08-20 06:31",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -263,12 +263,6 @@
         "src": "IT之家"
       },
       {
-        "title": "上厅堂下厨房   中国机器人努力成为“生活搭子”",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-19/10680673.shtml",
-        "time": "08-19 21:56",
-        "src": "中新网"
-      },
-      {
         "title": "Moderna股价飙升150% 与默沙东合作的黑色素瘤疫苗在大规模试验中取得成功",
         "link": "https://www.cnbeta.com.tw/articles/tech/1573988.htm",
         "time": "08-19 22:37",
@@ -278,6 +272,12 @@
         "title": "外媒：宇树IPO暴涨成中国机器人产业里程碑 拉开更多同行上市序幕",
         "link": "https://www.cnbeta.com.tw/articles/tech/1573958.htm",
         "time": "08-19 17:36",
+        "src": "cnBeta.COM"
+      },
+      {
+        "title": "北京中关村AI酒吧走红 进店能白嫖DeepSeek算力",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1573954.htm",
+        "time": "08-19 17:26",
         "src": "cnBeta.COM"
       }
     ]
@@ -297,7 +297,7 @@
       "price": 53463.05,
       "pct": 0.22,
       "chg": 119.65,
-      "amount": "2412715847亿"
+      "amount": "2415468013亿"
     },
     {
       "name": "纳斯达克",
@@ -305,7 +305,7 @@
       "price": 26331.09,
       "pct": 0.16,
       "chg": 41.38,
-      "amount": "18161288362亿"
+      "amount": "18567406353亿"
     },
     {
       "name": "标普500",
@@ -313,7 +313,7 @@
       "price": 7707.98,
       "pct": 0.21,
       "chg": 16.22,
-      "amount": "2286077739亿"
+      "amount": "2297919379亿"
     }
   ],
   "anime": {
@@ -327,7 +327,7 @@
         "score": 7.2,
         "img": "http://lain.bgm.tv/pic/cover/c/6a/b3/622206_dpWcC.jpg",
         "air_date": "2026-07-02",
-        "rank": 1638
+        "rank": 1637
       },
       {
         "id": 571784,
@@ -336,7 +336,7 @@
         "score": 7.0,
         "img": "http://lain.bgm.tv/pic/cover/c/6f/42/571784_leRlL.jpg",
         "air_date": "2026-07-09",
-        "rank": 2508
+        "rank": 2516
       },
       {
         "id": 617123,
@@ -345,7 +345,7 @@
         "score": 6.5,
         "img": "http://lain.bgm.tv/pic/cover/c/e3/74/617123_PaMs9.jpg",
         "air_date": "2026-07-02",
-        "rank": 4944
+        "rank": 4949
       },
       {
         "id": 603352,
@@ -363,7 +363,7 @@
         "score": 6.0,
         "img": "http://lain.bgm.tv/pic/cover/c/1c/e4/583729_KxOZV.jpg",
         "air_date": "2026-07-02",
-        "rank": 7834
+        "rank": 7878
       },
       {
         "id": 614594,
@@ -372,7 +372,7 @@
         "score": 6.0,
         "img": "http://lain.bgm.tv/pic/cover/c/29/c5/614594_f5Szx.jpg",
         "air_date": "2026-07-02",
-        "rank": 7047
+        "rank": 7055
       },
       {
         "id": 449354,
@@ -399,7 +399,7 @@
         "score": 5.0,
         "img": "http://lain.bgm.tv/pic/cover/c/8f/47/511177_EP43p.jpg",
         "air_date": "2026-07-02",
-        "rank": 9726
+        "rank": 9732
       },
       {
         "id": 574794,
@@ -417,7 +417,7 @@
         "score": 4.1,
         "img": "http://lain.bgm.tv/pic/cover/c/cc/46/276787_4oO0A.jpg",
         "air_date": "2026-07-09",
-        "rank": 9962
+        "rank": 9963
       },
       {
         "id": 592111,
@@ -544,37 +544,37 @@
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 11442,
+        "likes": 11461,
         "downloads": 1006235,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 2021,
+        "likes": 2045,
         "downloads": 4318134,
         "pipeline": ""
       },
       {
         "id": "MiniMaxAI/MiniMax-Music3",
-        "likes": 1029,
+        "likes": 1032,
         "downloads": 13138,
         "pipeline": "text-to-audio"
       },
       {
         "id": "Qwen/Qwen3.8-2.4T-A95B",
-        "likes": 1094,
+        "likes": 1097,
         "downloads": 12699,
         "pipeline": "text-generation"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4-Pro-0813",
-        "likes": 627,
+        "likes": 631,
         "downloads": 37583,
         "pipeline": "text-generation"
       },
       {
         "id": "Qwen/Qwen3.8-27B-FP8",
-        "likes": 595,
+        "likes": 598,
         "downloads": 1063646,
         "pipeline": "image-text-to-text"
       }
@@ -1054,28 +1054,28 @@
       "src": "机核"
     },
     {
-      "title": "特朗普称可能在“某个时候”恢复与伊朗的谈判",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-19/10680712.shtml",
-      "time": "08-19 23:59",
+      "title": "特朗普提名奥弗顿出任美国食品和药物管理局局长",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-20/10680721.shtml",
+      "time": "08-20 06:08",
       "src": "中新网"
     },
     {
-      "title": "海口“十五五”构建六大教育体系 推进国际教育优质开放发展",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-19/10680678.shtml",
-      "time": "08-19 21:57",
+      "title": "英国刘易斯列车脱轨事故调查：轨道存异常",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-20/10680716.shtml",
+      "time": "08-20 06:07",
       "src": "中新网"
     },
     {
-      "title": "南宁加速打造面向东盟AI合作高地　产业集聚效应显现",
-      "link": "https://www.chinanews.com.cn/aseaninfo/2026/08-19/10680667.shtml",
-      "time": "08-19 21:45",
+      "title": "国际市场仍为中国航空货运重要增长点",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-20/10680715.shtml",
+      "time": "08-20 06:06",
       "src": "中新网"
     },
     {
-      "title": "OpenAI加速广告业务扩张 ChatGPT广告正式登陆31个欧洲市场",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1573984.htm",
-      "time": "08-19 22:17",
-      "src": "cnBeta.COM"
+      "title": "普京：乌军袭击俄境内目标造成损失但未产生严重后果",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-20/10680722.shtml",
+      "time": "08-20 06:05",
+      "src": "中新网"
     }
   ],
   "econ_news": [
@@ -1116,16 +1116,16 @@
       "src": "机核"
     },
     {
-      "title": "辽宁营口：力争2030年临港工业产值突破1500亿元",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-19/10680675.shtml",
-      "time": "08-19 21:56",
-      "src": "中新网"
+      "title": "哥斯达黎加深海发现“黄金树”珊瑚：独特基因与形态促成全新科属",
+      "link": "https://www.cnbeta.com.tw/articles/science/1573970.htm",
+      "time": "08-19 20:08",
+      "src": "cnBeta.COM"
     },
     {
-      "title": "“中国荔乡”广东茂名今年荔枝出口收官",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-19/10680668.shtml",
-      "time": "08-19 21:46",
-      "src": "中新网"
+      "title": "OpenAI二季度营收增长乏力 表现不及Anthropic",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1573940.htm",
+      "time": "08-19 17:17",
+      "src": "cnBeta.COM"
     }
   ],
   "game_news": [
@@ -1250,6 +1250,12 @@
       "src": "机核"
     },
     {
+      "title": "普京：乌军袭击俄境内目标造成损失但未产生严重后果",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-20/10680722.shtml",
+      "time": "08-20 06:05",
+      "src": "中新网"
+    },
+    {
       "title": "受南海热带低压影响 广西沿海多个海上项目停航",
       "link": "https://www.chinanews.com.cn/sh/2026/08-20/10680713.shtml",
       "time": "08-20 00:49",
@@ -1262,28 +1268,22 @@
       "src": "中新网"
     },
     {
-      "title": "南海热带低压生成 中国气象局启动暴雨四级应急响应",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-19/10680682.shtml",
-      "time": "08-19 21:55",
-      "src": "中新网"
-    },
-    {
       "title": "亚马逊Prime Air无人机配送年底将覆盖美国近500个城市和城镇",
       "link": "https://www.cnbeta.com.tw/articles/tech/1573974.htm",
       "time": "08-19 20:14",
       "src": "cnBeta.COM"
     },
     {
+      "title": "特朗普指美韩军演向朝鲜释放敌对信号 军演提前六天结束",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260819-%E7%89%B9%E6%9C%97%E6%99%AE%E6%8C%87%E7%BE%8E%E9%9F%A9%E5%86%9B%E6%BC%94%E5%90%91%E6%9C%9D%E9%B2%9C%E9%87%8A%E6%94%BE%E6%95%8C%E5%AF%B9%E4%BF%A1%E5%8F%B7-%E5%86%9B%E6%BC%94%E6%8F%90%E5%89%8D%E5%85%AD%E5%A4%A9%E7%BB%93%E6%9D%9F",
+      "time": "08-20 05:28",
+      "src": "REUTERS - Kim "
+    },
+    {
       "title": "印度执政党议员否认了关于中国军队入侵喜马拉雅边境争议地区的报道",
       "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260819-%E5%8D%B0%E5%BA%A6%E6%89%A7%E6%94%BF%E5%85%9A%E8%AE%AE%E5%91%98%E5%90%A6%E8%AE%A4%E4%BA%86%E5%85%B3%E4%BA%8E%E4%B8%AD%E5%9B%BD%E5%86%9B%E9%98%9F%E5%85%A5%E4%BE%B5%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E8%BE%B9%E5%A2%83%E4%BA%89%E8%AE%AE%E5%9C%B0%E5%8C%BA%E7%9A%84%E6%8A%A5%E9%81%93",
       "time": "08-20 04:02",
       "src": "AP - Mustafa Q"
-    },
-    {
-      "title": "伊朗警告海湾国家不得向美军提供任何帮助 阿联酋暂停与伊朗往来",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260819-%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E6%B5%B7%E6%B9%BE%E5%9B%BD%E5%AE%B6%E4%B8%8D%E5%BE%97%E5%90%91%E7%BE%8E%E5%86%9B%E6%8F%90%E4%BE%9B%E4%BB%BB%E4%BD%95%E5%B8%AE%E5%8A%A9-%E9%98%BF%E8%81%94%E9%85%8B%E6%9A%82%E5%81%9C%E4%B8%8E%E4%BC%8A%E6%9C%97%E5%BE%80%E6%9D%A5",
-      "time": "08-19 21:52",
-      "src": "© X"
     }
   ]
 }
