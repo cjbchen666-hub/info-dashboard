@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20 02:44",
+  "generated_at": "2026-08-20 04:35",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 53458.35,
+      "price": 53463.05,
       "pct": 0.22,
-      "chg": 114.95,
-      "amount": "1432790290亿"
+      "chg": 119.65,
+      "amount": "2412715847亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26345.75,
-      "pct": 0.21,
-      "chg": 56.04,
-      "amount": "12484344083亿"
+      "price": 26331.09,
+      "pct": 0.16,
+      "chg": 41.38,
+      "amount": "18161288362亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7716.99,
-      "pct": 0.33,
-      "chg": 25.23,
-      "amount": "1373383772亿"
+      "price": 7707.98,
+      "pct": 0.21,
+      "chg": 16.22,
+      "amount": "2286077739亿"
     }
   ],
   "anime": {
@@ -544,39 +544,39 @@
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 11417,
+        "likes": 11442,
         "downloads": 1006235,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 1985,
+        "likes": 2021,
         "downloads": 4318134,
         "pipeline": ""
       },
       {
         "id": "MiniMaxAI/MiniMax-Music3",
-        "likes": 1024,
+        "likes": 1029,
         "downloads": 13138,
         "pipeline": "text-to-audio"
       },
       {
         "id": "Qwen/Qwen3.8-2.4T-A95B",
-        "likes": 1092,
+        "likes": 1094,
         "downloads": 12699,
         "pipeline": "text-generation"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4-Pro-0813",
-        "likes": 624,
+        "likes": 627,
         "downloads": 37583,
         "pipeline": "text-generation"
       },
       {
-        "id": "Lightricks/LTX-2.5",
-        "likes": 1297,
-        "downloads": 555993,
-        "pipeline": "image-to-video"
+        "id": "Qwen/Qwen3.8-27B-FP8",
+        "likes": 595,
+        "downloads": 1063646,
+        "pipeline": "image-text-to-text"
       }
     ],
     "models": [
@@ -1274,16 +1274,16 @@
       "src": "cnBeta.COM"
     },
     {
+      "title": "印度执政党议员否认了关于中国军队入侵喜马拉雅边境争议地区的报道",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260819-%E5%8D%B0%E5%BA%A6%E6%89%A7%E6%94%BF%E5%85%9A%E8%AE%AE%E5%91%98%E5%90%A6%E8%AE%A4%E4%BA%86%E5%85%B3%E4%BA%8E%E4%B8%AD%E5%9B%BD%E5%86%9B%E9%98%9F%E5%85%A5%E4%BE%B5%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E8%BE%B9%E5%A2%83%E4%BA%89%E8%AE%AE%E5%9C%B0%E5%8C%BA%E7%9A%84%E6%8A%A5%E9%81%93",
+      "time": "08-20 04:02",
+      "src": "AP - Mustafa Q"
+    },
+    {
       "title": "伊朗警告海湾国家不得向美军提供任何帮助 阿联酋暂停与伊朗往来",
       "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260819-%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E6%B5%B7%E6%B9%BE%E5%9B%BD%E5%AE%B6%E4%B8%8D%E5%BE%97%E5%90%91%E7%BE%8E%E5%86%9B%E6%8F%90%E4%BE%9B%E4%BB%BB%E4%BD%95%E5%B8%AE%E5%8A%A9-%E9%98%BF%E8%81%94%E9%85%8B%E6%9A%82%E5%81%9C%E4%B8%8E%E4%BC%8A%E6%9C%97%E5%BE%80%E6%9D%A5",
       "time": "08-19 21:52",
       "src": "© X"
-    },
-    {
-      "title": "美韩军演在特朗普压力下宣布提前结束 特朗普称金正恩回应了",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260819-%E7%BE%8E%E9%9F%A9%E5%86%9B%E6%BC%94%E5%9C%A8%E7%89%B9%E6%9C%97%E6%99%AE%E5%8E%8B%E5%8A%9B%E4%B8%8B%E5%AE%A3%E5%B8%83%E6%8F%90%E5%89%8D%E7%BB%93%E6%9D%9F-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E9%87%91%E6%AD%A3%E6%81%A9%E5%9B%9E%E5%BA%94%E4%BA%86",
-      "time": "08-19 16:42",
-      "src": "AP Photo/Ahn Y"
     }
   ]
 }
