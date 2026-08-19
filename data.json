@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20 00:38",
+  "generated_at": "2026-08-20 02:44",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 53476.21,
-      "pct": 0.25,
-      "chg": 132.81,
-      "amount": "1099110268亿"
+      "price": 53458.35,
+      "pct": 0.22,
+      "chg": 114.95,
+      "amount": "1432790290亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26398.64,
-      "pct": 0.41,
-      "chg": 108.93,
-      "amount": "9409494368亿"
+      "price": 26345.75,
+      "pct": 0.21,
+      "chg": 56.04,
+      "amount": "12484344083亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7725.19,
-      "pct": 0.43,
-      "chg": 33.43,
-      "amount": "1020922498亿"
+      "price": 7716.99,
+      "pct": 0.33,
+      "chg": 25.23,
+      "amount": "1373383772亿"
     }
   ],
   "anime": {
@@ -544,37 +544,37 @@
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 11395,
+        "likes": 11417,
         "downloads": 1006235,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 1935,
+        "likes": 1985,
         "downloads": 4318134,
         "pipeline": ""
       },
       {
         "id": "MiniMaxAI/MiniMax-Music3",
-        "likes": 1018,
+        "likes": 1024,
         "downloads": 13138,
         "pipeline": "text-to-audio"
       },
       {
         "id": "Qwen/Qwen3.8-2.4T-A95B",
-        "likes": 1086,
+        "likes": 1092,
         "downloads": 12699,
         "pipeline": "text-generation"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4-Pro-0813",
-        "likes": 621,
+        "likes": 624,
         "downloads": 37583,
         "pipeline": "text-generation"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 1284,
+        "likes": 1297,
         "downloads": 555993,
         "pipeline": "image-to-video"
       }
@@ -1250,6 +1250,12 @@
       "src": "机核"
     },
     {
+      "title": "受南海热带低压影响 广西沿海多个海上项目停航",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-20/10680713.shtml",
+      "time": "08-20 00:49",
+      "src": "中新网"
+    },
+    {
       "title": "特朗普称可能在“某个时候”恢复与伊朗的谈判",
       "link": "https://www.chinanews.com.cn/gj/2026/08-19/10680712.shtml",
       "time": "08-19 23:59",
@@ -1278,12 +1284,6 @@
       "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260819-%E7%BE%8E%E9%9F%A9%E5%86%9B%E6%BC%94%E5%9C%A8%E7%89%B9%E6%9C%97%E6%99%AE%E5%8E%8B%E5%8A%9B%E4%B8%8B%E5%AE%A3%E5%B8%83%E6%8F%90%E5%89%8D%E7%BB%93%E6%9D%9F-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E9%87%91%E6%AD%A3%E6%81%A9%E5%9B%9E%E5%BA%94%E4%BA%86",
       "time": "08-19 16:42",
       "src": "AP Photo/Ahn Y"
-    },
-    {
-      "title": "法国将驱逐两名伊朗外交官 报复德黑兰对等措施",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260818-%E6%B3%95%E5%9B%BD%E5%B0%86%E9%A9%B1%E9%80%90%E4%B8%A4%E5%90%8D%E4%BC%8A%E6%9C%97%E5%A4%96%E4%BA%A4%E5%AE%98-%E6%8A%A5%E5%A4%8D%E5%BE%B7%E9%BB%91%E5%85%B0%E5%AF%B9%E7%AD%89%E6%8E%AA%E6%96%BD",
-      "time": "08-19 05:22",
-      "src": "REUTERS - Beno"
     }
   ]
 }
