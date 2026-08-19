@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19 20:59",
+  "generated_at": "2026-08-19 22:40",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,34 +233,40 @@
     ],
     "news": [
       {
+        "title": "小米新一代人形机器人与观众实时互动视频发布：由大模型驱动，自主理解、判断并完成动作",
+        "link": "https://www.ithome.com/0/991/848.htm",
+        "time": "08-19 22:23",
+        "src": "IT之家"
+      },
+      {
+        "title": "王力宏：演出前一晚机器人出现 Bug，宇树团队通宵写代码解决",
+        "link": "https://www.ithome.com/0/991/842.htm",
+        "time": "08-19 21:38",
+        "src": "IT之家"
+      },
+      {
+        "title": "荣耀自研机器人闪电和元气仔官宣参加第二届人形机器人运动会",
+        "link": "https://www.ithome.com/0/991/838.htm",
+        "time": "08-19 21:19",
+        "src": "IT之家"
+      },
+      {
         "title": "京东 WRC 2026 发布机器人战略：到 2028 年投入百亿级资源，助力 100 个品牌销售额破 10 亿元",
         "link": "https://www.ithome.com/0/991/821.htm",
         "time": "08-19 20:13",
         "src": "IT之家"
       },
       {
-        "title": "宇树科技王兴兴回应大学毕业后仅 2 个月就从大疆离职：热爱机器人 + 产业化机会出现",
-        "link": "https://www.ithome.com/0/991/770.htm",
-        "time": "08-19 17:48",
-        "src": "IT之家"
-      },
-      {
-        "title": "小米新一代人形机器人亮相 2026 世界机器人博览会，8 月 20 日起展台将对普通观众开放",
-        "link": "https://www.ithome.com/0/991/747.htm",
-        "time": "08-19 17:28",
-        "src": "IT之家"
-      },
-      {
-        "title": "中澳两国央行续签双边本币互换协议",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-19/10680599.shtml",
-        "time": "08-19 20:30",
+        "title": "上厅堂下厨房   中国机器人努力成为“生活搭子”",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-19/10680673.shtml",
+        "time": "08-19 21:56",
         "src": "中新网"
       },
       {
-        "title": "“人形机器人第一股”宇树科技首日收涨超460% 机器人产品受关注",
-        "link": "https://www.chinanews.com.cn/tp/2026/08-19/10680565.shtml",
-        "time": "08-19 20:11",
-        "src": "中新网"
+        "title": "Moderna股价飙升150% 与默沙东合作的黑色素瘤疫苗在大规模试验中取得成功",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1573988.htm",
+        "time": "08-19 22:37",
+        "src": "cnBeta.COM"
       },
       {
         "title": "外媒：宇树IPO暴涨成中国机器人产业里程碑 拉开更多同行上市序幕",
@@ -272,12 +278,6 @@
         "title": "北京中关村AI酒吧走红 进店能白嫖DeepSeek算力",
         "link": "https://www.cnbeta.com.tw/articles/tech/1573954.htm",
         "time": "08-19 17:26",
-        "src": "cnBeta.COM"
-      },
-      {
-        "title": "蔡明同款仿生机器人亮相：五官自然精致 主打情感陪伴 9.9万起",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1573946.htm",
-        "time": "08-19 17:20",
         "src": "cnBeta.COM"
       }
     ]
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 53343.4,
-      "pct": -0.22,
-      "chg": -116.38,
-      "amount": "2284415372亿"
+      "price": 53660.52,
+      "pct": 0.59,
+      "chg": 317.12,
+      "amount": "629772607亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26289.71,
-      "pct": -1.33,
-      "chg": -355.2,
-      "amount": "16985401995亿"
+      "price": 26341.17,
+      "pct": 0.2,
+      "chg": 51.46,
+      "amount": "5527103689亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7691.76,
-      "pct": -0.69,
-      "chg": -53.3,
-      "amount": "2038349595亿"
+      "price": 7730.96,
+      "pct": 0.51,
+      "chg": 39.2,
+      "amount": "579226882亿"
     }
   ],
   "anime": {
@@ -529,6 +529,36 @@
   "ai": {
     "news_zh": [
       {
+        "title": "索尼平价降噪耳机 WH-1000XM4C 更多信息曝光：砍掉 NFC、续航略降，保留 QN1 芯片与 40mm 动圈单元",
+        "link": "https://www.ithome.com/0/991/851.htm",
+        "time": "08-19 22:40",
+        "src": "IT之家"
+      },
+      {
+        "title": "小米新一代人形机器人与观众实时互动视频发布：由大模型驱动，自主理解、判断并完成动作",
+        "link": "https://www.ithome.com/0/991/848.htm",
+        "time": "08-19 22:23",
+        "src": "IT之家"
+      },
+      {
+        "title": "王力宏：演出前一晚机器人出现 Bug，宇树团队通宵写代码解决",
+        "link": "https://www.ithome.com/0/991/842.htm",
+        "time": "08-19 21:38",
+        "src": "IT之家"
+      },
+      {
+        "title": "“AI 教母”李飞飞：身为科技从业者，应把“AI 能带来什么好处”讲得更清楚",
+        "link": "https://www.ithome.com/0/991/841.htm",
+        "time": "08-19 21:35",
+        "src": "IT之家"
+      },
+      {
+        "title": "荣耀自研机器人闪电和元气仔官宣参加第二届人形机器人运动会",
+        "link": "https://www.ithome.com/0/991/838.htm",
+        "time": "08-19 21:19",
+        "src": "IT之家"
+      },
+      {
         "title": "Marvell 与谷歌签署定制芯片协议并授予其大额认股权证：行权价 206.58 美元，盘前涨超 10%",
         "link": "https://www.ithome.com/0/991/834.htm",
         "time": "08-19 20:51",
@@ -545,66 +575,36 @@
         "link": "https://www.ithome.com/0/991/821.htm",
         "time": "08-19 20:13",
         "src": "IT之家"
-      },
-      {
-        "title": "宇树科技王兴兴回应大学毕业后仅 2 个月就从大疆离职：热爱机器人 + 产业化机会出现",
-        "link": "https://www.ithome.com/0/991/770.htm",
-        "time": "08-19 17:48",
-        "src": "IT之家"
-      },
-      {
-        "title": "AI 芯片初创企业 Etched 估值飙升至 210 亿美元，首批机架出货",
-        "link": "https://www.ithome.com/0/991/748.htm",
-        "time": "08-19 17:31",
-        "src": "IT之家"
-      },
-      {
-        "title": "小米新一代人形机器人亮相 2026 世界机器人博览会，8 月 20 日起展台将对普通观众开放",
-        "link": "https://www.ithome.com/0/991/747.htm",
-        "time": "08-19 17:28",
-        "src": "IT之家"
-      },
-      {
-        "title": "AI 芯片需求激增，消息称三星部分先进制程代工最高涨价 15%",
-        "link": "https://www.ithome.com/0/991/736.htm",
-        "time": "08-19 17:18",
-        "src": "IT之家"
-      },
-      {
-        "title": "“人形机器人第一股”宇树科技首日收涨超460% 机器人产品受关注",
-        "link": "https://www.chinanews.com.cn/tp/2026/08-19/10680565.shtml",
-        "time": "08-19 20:11",
-        "src": "中新网"
       }
     ],
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 11339,
+        "likes": 11365,
         "downloads": 1006235,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 1891,
+        "likes": 1905,
         "downloads": 4318134,
         "pipeline": ""
       },
       {
         "id": "Qwen/Qwen3.8-2.4T-A95B",
-        "likes": 1078,
+        "likes": 1082,
         "downloads": 12699,
         "pipeline": "text-generation"
       },
       {
         "id": "MiniMaxAI/MiniMax-Music3",
-        "likes": 1006,
+        "likes": 1010,
         "downloads": 13138,
         "pipeline": "text-to-audio"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 1273,
+        "likes": 1281,
         "downloads": 555993,
         "pipeline": "image-to-video"
       },
@@ -784,7 +784,25 @@
   ],
   "hw_news": [
     {
-      "title": "8999 元起雷神黑武士猎刃 Pro 台式机新增酷睿 7 230H + RTX 5060 Ti 版本",
+      "title": "天马高端 OLED 天工屏 2.0 发布会定档 8 月 26 日",
+      "link": "https://www.ithome.com/0/991/852.htm",
+      "time": "08-19 22:40",
+      "src": "IT之家"
+    },
+    {
+      "title": "索尼平价降噪耳机 WH-1000XM4C 更多信息曝光：砍掉 NFC、续航略降，保留 QN1 芯片与 40mm 动圈单元",
+      "link": "https://www.ithome.com/0/991/851.htm",
+      "time": "08-19 22:40",
+      "src": "IT之家"
+    },
+    {
+      "title": "Win11 旧版 Media Player 再遭削弱：微软引导用户使用内存占用更高的新版应用",
+      "link": "https://www.ithome.com/0/991/845.htm",
+      "time": "08-19 22:02",
+      "src": "IT之家"
+    },
+    {
+      "title": "8999 元起雷神黑武士猎刃 Pro 新增酷睿 7 230H + RTX 5060 Ti 版本，台式机搭载 LPDDR5 内存",
       "link": "https://www.ithome.com/0/991/817.htm",
       "time": "08-19 20:00",
       "src": "IT之家"
@@ -805,18 +823,6 @@
       "title": "联想将推拯救者 R9 68 磁轴电竞键盘",
       "link": "https://www.ithome.com/0/991/774.htm",
       "time": "08-19 17:53",
-      "src": "IT之家"
-    },
-    {
-      "title": "重回四位数命名？英特尔酷睿 Ultra 9 4950K 处理器曝光，28 核型号预计 2027 年初首发",
-      "link": "https://www.ithome.com/0/991/768.htm",
-      "time": "08-19 17:42",
-      "src": "IT之家"
-    },
-    {
-      "title": "联想 ThinkBook Plus G7 翻转触控笔记本国行发售：酷睿 Ultra X7-358H 配电动转轴，首发 18999 元",
-      "link": "https://www.ithome.com/0/991/726.htm",
-      "time": "08-19 17:06",
       "src": "IT之家"
     },
     {
@@ -845,12 +851,6 @@
     },
     {
       "title": "宏碁首发 1000Hz 电竞显示器; 微星 5K Mini-LED 双模电竞屏(5K@180Hz/2K@330Hz) 亮相 Computex 2026",
-      "link": "https://www.160.com/article/12732.html",
-      "time": "精选",
-      "src": "资讯整理"
-    },
-    {
-      "title": "微星 40 周年发布 RTX 5090 LIGHTNING Z 旗舰与内置 AI 代理的 OLED 电竞显示器",
       "link": "https://www.160.com/article/12732.html",
       "time": "精选",
       "src": "资讯整理"
@@ -1027,6 +1027,12 @@
   "anime_industry": {
     "news": [
       {
+        "title": "国产动画电影《牛来》豆瓣开分 5.9：票房已破 2700 万，制作过于粗糙引发观看热潮",
+        "link": "https://www.ithome.com/0/991/850.htm",
+        "time": "08-19 22:34",
+        "src": "IT之家"
+      },
+      {
         "title": "线下活动 | 爵士律动唤醒动漫回忆：炒饭 Fried Rice 音乐分享签售会",
         "link": "https://sspai.com/post/113564",
         "time": "08-18 15:05",
@@ -1060,15 +1066,21 @@
   },
   "intl_news": [
     {
-      "title": "全球首个新能源飘移赛照培训落地，极氪、宁波国际赛道共同举办",
-      "link": "https://www.ithome.com/0/991/786.htm",
-      "time": "08-19 18:23",
+      "title": "英国车企 Voltempo 研发全自动驾驶重卡：砍掉驾驶室，一切为了载货",
+      "link": "https://www.ithome.com/0/991/844.htm",
+      "time": "08-19 22:01",
       "src": "IT之家"
     },
     {
-      "title": "联想 ThinkBook Plus G7 翻转触控笔记本国行发售：酷睿 Ultra X7-358H 配电动转轴，首发 18999 元",
-      "link": "https://www.ithome.com/0/991/726.htm",
-      "time": "08-19 17:06",
+      "title": "《异环》全球流水破 20 亿元：完美世界 2026 上半年由盈转亏 1.18 亿元，多款在研项目储备中",
+      "link": "https://www.ithome.com/0/991/835.htm",
+      "time": "08-19 21:10",
+      "src": "IT之家"
+    },
+    {
+      "title": "全球首个新能源飘移赛照培训落地，极氪、宁波国际赛道共同举办",
+      "link": "https://www.ithome.com/0/991/786.htm",
+      "time": "08-19 18:23",
       "src": "IT之家"
     },
     {
@@ -1078,33 +1090,27 @@
       "src": "机核"
     },
     {
-      "title": "司法部新闻发言人就欧盟外国补贴调查相关做法构成不当域外管辖答记者问",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-19/10680616.shtml",
-      "time": "08-19 20:21",
+      "title": "海口“十五五”构建六大教育体系 推进国际教育优质开放发展",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-19/10680678.shtml",
+      "time": "08-19 21:57",
       "src": "中新网"
     },
     {
-      "title": "司法部发布公告 认定欧盟相关做法构成不当域外管辖",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-19/10680607.shtml",
-      "time": "08-19 20:17",
+      "title": "南宁加速打造面向东盟AI合作高地　产业集聚效应显现",
+      "link": "https://www.chinanews.com.cn/aseaninfo/2026/08-19/10680667.shtml",
+      "time": "08-19 21:45",
       "src": "中新网"
     },
     {
-      "title": "外媒：宇树IPO暴涨成中国机器人产业里程碑 拉开更多同行上市序幕",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1573958.htm",
-      "time": "08-19 17:36",
-      "src": "cnBeta.COM"
+      "title": "上海欲推进6G商用 构建国际数据加工枢纽",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-19/10680662.shtml",
+      "time": "08-19 21:32",
+      "src": "中新网"
     },
     {
-      "title": "超级厄尔尼诺步步逼近 为何威胁全球粮食与能源安全",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1573938.htm",
-      "time": "08-19 17:15",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "奇瑞将在英国设立研发中心",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1573936.htm",
-      "time": "08-19 17:14",
+      "title": "OpenAI加速广告业务扩张 ChatGPT广告正式登陆31个欧洲市场",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1573984.htm",
+      "time": "08-19 22:17",
       "src": "cnBeta.COM"
     }
   ],
@@ -1152,13 +1158,37 @@
       "src": "IT之家"
     },
     {
-      "title": "AI 芯片初创企业 Etched 估值飙升至 210 亿美元，首批机架出货",
-      "link": "https://www.ithome.com/0/991/748.htm",
-      "time": "08-19 17:31",
-      "src": "IT之家"
+      "title": "国产卡牌肉鸽游戏《黄金星漩》定于9月10日正式发售",
+      "link": "https://www.gcores.com/articles/218545",
+      "time": "08-19 17:12",
+      "src": "机核"
     }
   ],
   "game_news": [
+    {
+      "title": "索尼平价降噪耳机 WH-1000XM4C 更多信息曝光：砍掉 NFC、续航略降，保留 QN1 芯片与 40mm 动圈单元",
+      "link": "https://www.ithome.com/0/991/851.htm",
+      "time": "08-19 22:40",
+      "src": "IT之家"
+    },
+    {
+      "title": "微软产品改名有多频繁？2023 年改了 18 款，有粉丝专门为此建站追踪",
+      "link": "https://www.ithome.com/0/991/846.htm",
+      "time": "08-19 22:12",
+      "src": "IT之家"
+    },
+    {
+      "title": "Win11 旧版 Media Player 再遭削弱：微软引导用户使用内存占用更高的新版应用",
+      "link": "https://www.ithome.com/0/991/845.htm",
+      "time": "08-19 22:02",
+      "src": "IT之家"
+    },
+    {
+      "title": "索尼 Guerrilla 被曝重启《地平线：猎人集结》项目，因玩家反馈不佳被迫转型",
+      "link": "https://www.ithome.com/0/991/839.htm",
+      "time": "08-19 21:29",
+      "src": "IT之家"
+    },
     {
       "title": "分析师警告：若索尼 PS6 和微软 Xbox Helix 卖 1000 美元，恐致 5 年累计销量比前代低四成",
       "link": "https://www.ithome.com/0/991/831.htm",
@@ -1172,7 +1202,7 @@
       "src": "IT之家"
     },
     {
-      "title": "《GTA 6》实机画面意外泄露，“停止扼杀游戏”组织呼吁玩家不要支持当事黑客",
+      "title": "《GTA 6》实机画面意外泄露，“停止扼杀游戏”组织呼吁玩家别给当事黑客送钱",
       "link": "https://www.ithome.com/0/991/814.htm",
       "time": "08-19 19:48",
       "src": "IT之家"
@@ -1182,30 +1212,6 @@
       "link": "https://www.ithome.com/0/991/775.htm",
       "time": "08-19 17:59",
       "src": "IT之家"
-    },
-    {
-      "title": "联想将推拯救者 R9 68 磁轴电竞键盘",
-      "link": "https://www.ithome.com/0/991/774.htm",
-      "time": "08-19 17:53",
-      "src": "IT之家"
-    },
-    {
-      "title": "联想 ThinkBook Plus G7 翻转触控笔记本国行发售：酷睿 Ultra X7-358H 配电动转轴，首发 18999 元",
-      "link": "https://www.ithome.com/0/991/726.htm",
-      "time": "08-19 17:06",
-      "src": "IT之家"
-    },
-    {
-      "title": "国产卡牌肉鸽游戏《黄金星漩》定于9月10日正式发售",
-      "link": "https://www.gcores.com/articles/218545",
-      "time": "08-19 17:12",
-      "src": "机核"
-    },
-    {
-      "title": "时间管理悬疑冒险游戏《铁道人》正式公布",
-      "link": "https://www.gcores.com/articles/218538",
-      "time": "08-19 14:34",
-      "src": "机核"
     }
   ],
   "game_update": [
@@ -1274,15 +1280,15 @@
       "src": "ISW"
     },
     {
-      "title": "禾赛科技告赢美国国防部：一审判决被推翻，回应称列入相关清单缺乏正当依据",
-      "link": "https://www.ithome.com/0/991/724.htm",
-      "time": "08-19 17:00",
-      "src": "IT之家"
+      "title": "手机战争 第六期丨百变魔盒",
+      "link": "https://www.gcores.com/radios/211471",
+      "time": "08-19 21:00",
+      "src": "机核"
     },
     {
-      "title": "南海热带低压生成 海南发布台风四级预警",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-19/10680625.shtml",
-      "time": "08-19 20:47",
+      "title": "南海热带低压生成 中国气象局启动暴雨四级应急响应",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-19/10680682.shtml",
+      "time": "08-19 21:55",
       "src": "中新网"
     },
     {
@@ -1290,6 +1296,12 @@
       "link": "https://www.cnbeta.com.tw/articles/tech/1573974.htm",
       "time": "08-19 20:14",
       "src": "cnBeta.COM"
+    },
+    {
+      "title": "伊朗警告海湾国家不得向美军提供任何帮助 阿联酋暂停与伊朗往来",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260819-%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E6%B5%B7%E6%B9%BE%E5%9B%BD%E5%AE%B6%E4%B8%8D%E5%BE%97%E5%90%91%E7%BE%8E%E5%86%9B%E6%8F%90%E4%BE%9B%E4%BB%BB%E4%BD%95%E5%B8%AE%E5%8A%A9-%E9%98%BF%E8%81%94%E9%85%8B%E6%9A%82%E5%81%9C%E4%B8%8E%E4%BC%8A%E6%9C%97%E5%BE%80%E6%9D%A5",
+      "time": "08-19 21:52",
+      "src": "© X"
     },
     {
       "title": "美韩军演在特朗普压力下宣布提前结束 特朗普称金正恩回应了",
@@ -1308,12 +1320,6 @@
       "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260818-%E7%BE%8E%E4%BC%8A%E5%AF%B9%E8%AF%9D%E9%99%B7%E5%85%A5%E5%81%9C%E6%91%86-%E9%98%BF%E8%81%94%E9%85%8B%E6%8C%87%E8%B4%A3%E4%BC%8A%E6%9C%97%E5%86%8D%E5%B0%84%E5%AF%BC%E5%BC%B9",
       "time": "08-19 05:31",
       "src": "via REUTERS - "
-    },
-    {
-      "title": "韓國疏遠伊朗戰事 特朗普稱將縮減聯合軍演規模",
-      "link": "https://www.bbc.com/zhongwen/articles/cj9dxjzgk92o/trad?at_medium=RSS&at_campaign=rss",
-      "time": "08-17 16:02",
-      "src": "BBC中文"
     }
   ]
 }
