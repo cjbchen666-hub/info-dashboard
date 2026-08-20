@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20 21:01",
+  "generated_at": "2026-08-20 22:42",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,22 +233,40 @@
     ],
     "news": [
       {
+        "title": "Meta 成微软最大 AI 客户之一：年采购额达数亿美元，每周消耗数万亿词元",
+        "link": "https://www.ithome.com/0/992/397.htm",
+        "time": "08-20 22:40",
+        "src": "IT之家"
+      },
+      {
+        "title": "荣耀机器人元气仔练成“凌波微步”，将参加第二届人形机器人运动会",
+        "link": "https://www.ithome.com/0/992/362.htm",
+        "time": "08-20 21:40",
+        "src": "IT之家"
+      },
+      {
         "title": "100% 控股 t9 产线：TCL 科技 93.25 亿元收购广州华星 45% 股权获证监会注册",
         "link": "https://www.ithome.com/0/992/304.htm",
         "time": "08-20 18:50",
         "src": "IT之家"
       },
       {
-        "title": "银河通用首款双足机器人 Galbot ET1“星仔”亮相，能跳街舞手撑地、倒立",
-        "link": "https://www.ithome.com/0/992/247.htm",
-        "time": "08-20 17:56",
-        "src": "IT之家"
+        "title": "FDA正式批准全自动采血机器人 有望缓解医疗人员短缺难题",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1574188.htm",
+        "time": "08-20 22:40",
+        "src": "cnBeta.COM"
       },
       {
-        "title": "近万平方米“机器人消费街”亮相2026世界机器人大会",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-20/10681310.shtml",
-        "time": "08-20 20:34",
-        "src": "中新网"
+        "title": "长鑫存储不再买单 韩系半导体设备商在华营收暴跌超40%",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1574174.htm",
+        "time": "08-20 21:31",
+        "src": "cnBeta.COM"
+      },
+      {
+        "title": "运动会名场面 一机器人高速过弯刹不住撞上配电箱 腰部火花四溅",
+        "link": "https://www.cnbeta.com.tw/articles/funny/1574172.htm",
+        "time": "08-20 21:30",
+        "src": "cnBeta.COM"
       },
       {
         "title": "Cerebras发布CS-4加速器：4万亿晶体管+90万核心 30倍速度碾压英伟达GPU",
@@ -257,28 +275,10 @@
         "src": "cnBeta.COM"
       },
       {
-        "title": "京东快递员转型机器人维修 未来5年将创造超10万个相关岗位",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1574106.htm",
-        "time": "08-20 12:37",
-        "src": "cnBeta.COM"
-      },
-      {
         "title": "当英伟达成为AI“央行”：从芯片到金融，AI繁荣背后的风险",
         "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260819-%E5%BD%93%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%88%90%E4%B8%BAai-%E5%A4%AE%E8%A1%8C-%E4%BB%8E%E8%8A%AF%E7%89%87%E5%88%B0%E9%87%91%E8%9E%8D%EF%BC%8Cai%E7%B9%81%E8%8D%A3%E8%83%8C%E5%90%8E%E7%9A%84%E9%A3%8E%E9%99%A9",
         "time": "08-19 22:00",
         "src": "法广RFI"
-      },
-      {
-        "title": "美国30年期国债回吐回购公告发布以来的全部涨幅",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininynci6713461.shtml",
-        "time": "08-20 20:48",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "比特币突破72000美元 美联储政策信号与美元走势成关键变量",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininyncp8704649.shtml",
-        "time": "08-20 20:39",
-        "src": "环球市场播报"
       }
     ]
   },
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 53463.05,
-      "pct": 0.22,
-      "chg": 119.65,
-      "amount": "2415468013亿"
+      "price": 53111.6,
+      "pct": -0.66,
+      "chg": -351.45,
+      "amount": "593351516亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26331.09,
-      "pct": 0.16,
-      "chg": 41.38,
-      "amount": "18567406353亿"
+      "price": 26182.66,
+      "pct": -0.56,
+      "chg": -148.43,
+      "amount": "7229706970亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7707.98,
-      "pct": 0.21,
-      "chg": 16.22,
-      "amount": "2297919379亿"
+      "price": 7688.21,
+      "pct": -0.26,
+      "chg": -19.77,
+      "amount": "477314187亿"
     }
   ],
   "anime": {
@@ -357,15 +357,6 @@
         "rank": null
       },
       {
-        "id": 583729,
-        "name": "BanG Dream! ゆめ∞みた",
-        "name_cn": "BanG Dream! YUME∞MITA",
-        "score": 6.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/1c/e4/583729_KxOZV.jpg",
-        "air_date": "2026-07-02",
-        "rank": 7878
-      },
-      {
         "id": 614594,
         "name": "令和のダラさん",
         "name_cn": "令和妖神斑小姐",
@@ -373,6 +364,15 @@
         "img": "http://lain.bgm.tv/pic/cover/c/29/c5/614594_f5Szx.jpg",
         "air_date": "2026-07-02",
         "rank": 7055
+      },
+      {
+        "id": 583729,
+        "name": "BanG Dream! ゆめ∞みた",
+        "name_cn": "BanG Dream! YUME∞MITA",
+        "score": 5.9,
+        "img": "http://lain.bgm.tv/pic/cover/c/1c/e4/583729_KxOZV.jpg",
+        "air_date": "2026-07-02",
+        "rank": 7878
       },
       {
         "id": 449354,
@@ -493,6 +493,30 @@
   "ai": {
     "news_zh": [
       {
+        "title": "Meta 成微软最大 AI 客户之一：年采购额达数亿美元，每周消耗数万亿词元",
+        "link": "https://www.ithome.com/0/992/397.htm",
+        "time": "08-20 22:40",
+        "src": "IT之家"
+      },
+      {
+        "title": "阿里 CEO 吴泳铭：平头哥二代芯片预计今年下半年流片、产出",
+        "link": "https://www.ithome.com/0/992/380.htm",
+        "time": "08-20 22:05",
+        "src": "IT之家"
+      },
+      {
+        "title": "荣耀机器人元气仔练成“凌波微步”，将参加第二届人形机器人运动会",
+        "link": "https://www.ithome.com/0/992/362.htm",
+        "time": "08-20 21:40",
+        "src": "IT之家"
+      },
+      {
+        "title": "美政府机构警告：黑客正利用 AI 攻击全美多地供水系统",
+        "link": "https://www.ithome.com/0/992/352.htm",
+        "time": "08-20 21:05",
+        "src": "IT之家"
+      },
+      {
         "title": "揭秘 OpenAI 的“终极野心”：让智能体像人类一样熟练操作电脑",
         "link": "https://www.ithome.com/0/992/339.htm",
         "time": "08-20 20:29",
@@ -505,76 +529,52 @@
         "src": "IT之家"
       },
       {
-        "title": "银河通用首款双足机器人 Galbot ET1“星仔”亮相，能跳街舞手撑地、倒立",
-        "link": "https://www.ithome.com/0/992/247.htm",
-        "time": "08-20 17:56",
-        "src": "IT之家"
-      },
-      {
-        "title": "阿里发布 Qwen-UI-Agent，主打让模型真正“会用”每一块屏幕",
-        "link": "https://www.ithome.com/0/992/239.htm",
-        "time": "08-20 17:45",
-        "src": "IT之家"
-      },
-      {
-        "title": "近万平方米“机器人消费街”亮相2026世界机器人大会",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-20/10681310.shtml",
-        "time": "08-20 20:34",
-        "src": "中新网"
-      },
-      {
-        "title": "国产芯片企业内斗：股东组织百人抢公章",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1574140.htm",
-        "time": "08-20 15:59",
+        "title": "FDA正式批准全自动采血机器人 有望缓解医疗人员短缺难题",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1574188.htm",
+        "time": "08-20 22:40",
         "src": "cnBeta.COM"
       },
       {
-        "title": "Cerebras发布CS-4加速器：4万亿晶体管+90万核心 30倍速度碾压英伟达GPU",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1574112.htm",
-        "time": "08-20 12:39",
-        "src": "cnBeta.COM"
-      },
-      {
-        "title": "“光进来，词元直接出去” 中国团队领衔成功研制新型智能视觉传感器芯片",
-        "link": "https://www.cnbeta.com.tw/articles/science/1574110.htm",
-        "time": "08-20 12:39",
+        "title": "CISA警报：黑客正利用人工智能瞄准存在漏洞的美国供水系统",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1574184.htm",
+        "time": "08-20 22:37",
         "src": "cnBeta.COM"
       }
     ],
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 11633,
+        "likes": 11659,
         "downloads": 1373584,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 2259,
+        "likes": 2276,
         "downloads": 5126652,
         "pipeline": ""
       },
       {
         "id": "MiniMaxAI/MiniMax-Music3",
-        "likes": 1075,
+        "likes": 1084,
         "downloads": 14471,
         "pipeline": "text-to-audio"
       },
       {
         "id": "Qwen/Qwen3.8-27B-FP8",
-        "likes": 618,
+        "likes": 622,
         "downloads": 1517643,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-        "likes": 651,
+        "likes": 656,
         "downloads": 76109,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-        "likes": 662,
+        "likes": 669,
         "downloads": 2628,
         "pipeline": "image-text-to-text"
       }
@@ -748,6 +748,24 @@
   ],
   "hw_news": [
     {
+      "title": "VGN 推出蜻蜓 F2 Turbo+ 三模轻量化鼠标：Nordic 54LM20 主控，419 元",
+      "link": "https://www.ithome.com/0/992/394.htm",
+      "time": "08-20 22:22",
+      "src": "IT之家"
+    },
+    {
+      "title": "SteamOS 3.9 适配英特尔 Arc B580 独显，可直接启动并运行多款游戏",
+      "link": "https://www.ithome.com/0/992/384.htm",
+      "time": "08-20 22:15",
+      "src": "IT之家"
+    },
+    {
+      "title": "微星暗黑骑士 MAG 主机新增酷睿 7 230H + RTX 5060 配置，16+512GB 存储 7799 元",
+      "link": "https://www.ithome.com/0/992/360.htm",
+      "time": "08-20 21:37",
+      "src": "IT之家"
+    },
+    {
       "title": "沙特 HUMAIN 预告 Horizon Ultra 笔电，搭载高通骁龙 X2 Elite 处理器",
       "link": "https://www.ithome.com/0/992/336.htm",
       "time": "08-20 20:24",
@@ -790,12 +808,6 @@
       "src": "IT之家"
     },
     {
-      "title": "索尼 Xperia 10 VIII 现身 Geekbench，仍搭载高通骁龙 6 Gen 3 处理器",
-      "link": "https://www.ithome.com/0/992/303.htm",
-      "time": "08-20 18:41",
-      "src": "IT之家"
-    },
-    {
       "title": "森海塞尔推出 Momentum True Wireless 5：耳机与充电盒电池均可自行更换",
       "link": "https://www.cnbeta.com.tw/articles/tech/1574162.htm",
       "time": "08-20 18:14",
@@ -806,18 +818,6 @@
       "link": "https://www.cnbeta.com.tw/articles/tech/1574158.htm",
       "time": "08-20 17:42",
       "src": "cnBeta.COM"
-    },
-    {
-      "title": "索尼WH-1000XM4C耳机渲染图与规格曝光：支持蓝牙6.0，续航略有缩水",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1574136.htm",
-      "time": "08-20 15:47",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本",
-      "link": "https://sspai.com/post/113638",
-      "time": "08-20 08:46",
-      "src": "少数派"
     }
   ],
   "kojima": {
@@ -997,6 +997,12 @@
         "src": "少数派"
       },
       {
+        "title": "泡泡玛特人气IP“星星人”新品上线秒罄，隐藏款溢价高达14倍",
+        "link": "https://finance.sina.com.cn/jjxw/2026-08-20/doc-ininysmk1859830.shtml",
+        "time": "08-20 22:27",
+        "src": "新浪科技"
+      },
+      {
         "title": "《动画产业报告2025》: 市场规模达 3.84 万亿日元创历史新高, 海外占比约 56.5%",
         "link": "https://www.info35.net/hotopics/44871.html",
         "time": "精选",
@@ -1036,33 +1042,27 @@
       "src": "IT之家"
     },
     {
-      "title": "塞尔维亚向俄罗斯寻求帮助以扑灭山火",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-20/10681314.shtml",
-      "time": "08-20 20:42",
+      "title": "“开放成都·链接全球”智能制造产业直通车搭起国际合作桥梁",
+      "link": "https://www.chinanews.com.cn/aseaninfo/2026/08-20/10681365.shtml",
+      "time": "08-20 21:56",
       "src": "中新网"
     },
     {
-      "title": "2026年世界清洁日全球主场活动将启幕 重点关注食物浪费",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-20/10681298.shtml",
-      "time": "08-20 20:33",
+      "title": "六国棋手“云端”对弈 2026重庆武隆“白马山杯”东南亚围棋邀请赛开幕",
+      "link": "https://www.chinanews.com.cn/ty/2026/08-20/10681346.shtml",
+      "time": "08-20 21:49",
       "src": "中新网"
     },
     {
-      "title": "越南外交部：欢迎中方将越南纳入过境免签政策范围",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-20/10681304.shtml",
-      "time": "08-20 20:26",
+      "title": "中法青年湖南芷江捐赠法国解密日本侵华档案",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-20/10681339.shtml",
+      "time": "08-20 21:46",
       "src": "中新网"
     },
     {
-      "title": "伊朗外长回应特朗普“毁灭性经济行动”：转移美国自身危机",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-20/10681303.shtml",
-      "time": "08-20 20:25",
-      "src": "中新网"
-    },
-    {
-      "title": "赋能上海国际金融中心建设 上海金融法院出台司法保障意见",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-20/10681259.shtml",
-      "time": "08-20 20:13",
+      "title": "联合国开发计划署“康养旅居可持续发展会议”在重庆江津举行",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-20/10681340.shtml",
+      "time": "08-20 21:46",
       "src": "中新网"
     },
     {
@@ -1070,9 +1070,21 @@
       "link": "https://www.cnbeta.com.tw/articles/tech/1574158.htm",
       "time": "08-20 17:42",
       "src": "cnBeta.COM"
+    },
+    {
+      "title": "比特币、以太币大涨 特朗普敦促国会通过加密货币《明晰法案》",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574144.htm",
+      "time": "08-20 17:16",
+      "src": "cnBeta.COM"
     }
   ],
   "econ_news": [
+    {
+      "title": "Meta 成微软最大 AI 客户之一：年采购额达数亿美元，每周消耗数万亿词元",
+      "link": "https://www.ithome.com/0/992/397.htm",
+      "time": "08-20 22:40",
+      "src": "IT之家"
+    },
     {
       "title": "斗鱼 2026 年第二季度财报发布：总收入 9.81 亿元，毛利润同比增长 12%",
       "link": "https://www.ithome.com/0/992/347.htm",
@@ -1092,94 +1104,81 @@
       "src": "IT之家"
     },
     {
-      "title": "阿里巴巴 2027 财年第一财季归母净利润 105.37 亿元，同比下降 76%",
-      "link": "https://www.ithome.com/0/992/241.htm",
-      "time": "08-20 17:50",
-      "src": "IT之家"
-    },
-    {
-      "title": "澳门经财司司长谈“三五”规划：确保经济适度多元取得实质性新进展",
-      "link": "https://www.chinanews.com.cn/dwq/2026/08-20/10681302.shtml",
-      "time": "08-20 20:35",
+      "title": "广西财政筹措资金超4亿元 支持受灾地区农业灾后恢复和水利工程修复",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-20/10681356.shtml",
+      "time": "08-20 21:51",
       "src": "中新网"
     },
     {
-      "title": "近万平方米“机器人消费街”亮相2026世界机器人大会",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-20/10681310.shtml",
-      "time": "08-20 20:34",
+      "title": "宁夏“举杯贺兰山·青年艺术季”收官 文旅消费持续升温",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-20/10681345.shtml",
+      "time": "08-20 21:47",
       "src": "中新网"
     },
     {
-      "title": "伊朗外长回应特朗普“毁灭性经济行动”：转移美国自身危机",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-20/10681303.shtml",
-      "time": "08-20 20:25",
+      "title": "汽车之家发布2026年二季度财报: 内容生态迭代创新，业务升级纵深推进",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-20/10681338.shtml",
+      "time": "08-20 21:46",
       "src": "中新网"
     },
     {
-      "title": "“开学经济”带动校服销售 浙江湖州童装小镇赶工忙",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-20/10681266.shtml",
-      "time": "08-20 20:13",
-      "src": "中新网"
+      "title": "长鑫存储不再买单 韩系半导体设备商在华营收暴跌超40%",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574174.htm",
+      "time": "08-20 21:31",
+      "src": "cnBeta.COM"
     }
   ],
   "game_news": [
+    {
+      "title": "Meta 成微软最大 AI 客户之一：年采购额达数亿美元，每周消耗数万亿词元",
+      "link": "https://www.ithome.com/0/992/397.htm",
+      "time": "08-20 22:40",
+      "src": "IT之家"
+    },
+    {
+      "title": "SteamOS 3.9 适配英特尔 Arc B580 独显，可直接启动并运行多款游戏",
+      "link": "https://www.ithome.com/0/992/384.htm",
+      "time": "08-20 22:15",
+      "src": "IT之家"
+    },
+    {
+      "title": "七彩虹 BOT7 PRO 迷你主机新增“i5-13500H + 16G + 512G”版本，3599 元",
+      "link": "https://www.ithome.com/0/992/366.htm",
+      "time": "08-20 21:48",
+      "src": "IT之家"
+    },
+    {
+      "title": "任天堂 Switch 2 销量同比腰斩，美国游戏机市场遭遇疫情后“最差 7 月”",
+      "link": "https://www.ithome.com/0/992/364.htm",
+      "time": "08-20 21:45",
+      "src": "IT之家"
+    },
+    {
+      "title": "山灵 EC Play 便携式 CD 播放器“复古蓝”配色发售：搭载 CS43198 DAC、支持蓝牙 6.0，998 元",
+      "link": "https://www.ithome.com/0/992/363.htm",
+      "time": "08-20 21:41",
+      "src": "IT之家"
+    },
+    {
+      "title": "微星暗黑骑士 MAG 主机新增酷睿 7 230H + RTX 5060 配置，16+512GB 存储 7799 元",
+      "link": "https://www.ithome.com/0/992/360.htm",
+      "time": "08-20 21:37",
+      "src": "IT之家"
+    },
+    {
+      "title": "179 元中兴 U25 5G RedCap 随身 WiFi 发售：内置双网流量 + 可选插卡版本",
+      "link": "https://www.ithome.com/0/992/358.htm",
+      "time": "08-20 21:28",
+      "src": "IT之家"
+    },
     {
       "title": "黑客组织 Cyberleek 疑似拿到可运行的《GTA 6》游戏副本，放出开飞机新实机视频",
       "link": "https://www.ithome.com/0/992/334.htm",
       "time": "08-20 20:13",
       "src": "IT之家"
-    },
-    {
-      "title": "微软重金招聘首席法律工程师，“懂 AI 的律师”最高可获近 28 万美元年薪",
-      "link": "https://www.ithome.com/0/992/317.htm",
-      "time": "08-20 19:06",
-      "src": "IT之家"
-    },
-    {
-      "title": "索尼 Xperia 10 VIII 现身 Geekbench，仍搭载高通骁龙 6 Gen 3 处理器",
-      "link": "https://www.ithome.com/0/992/303.htm",
-      "time": "08-20 18:41",
-      "src": "IT之家"
-    },
-    {
-      "title": "零刻 EQi13 迷你主机新增 i5-13420H 版本：提供双 2.5G 网口，准系统 1695 元",
-      "link": "https://www.ithome.com/0/992/254.htm",
-      "time": "08-20 18:09",
-      "src": "IT之家"
-    },
-    {
-      "title": "黑暗奇幻动作游戏《致命躯壳 II》发售，Steam 国区 198 元起",
-      "link": "https://www.ithome.com/0/992/248.htm",
-      "time": "08-20 17:57",
-      "src": "IT之家"
-    },
-    {
-      "title": "科幻视觉小说《命运石之门 Re:Boot》发售，Steam 国区首发价 178.2 元起",
-      "link": "https://www.ithome.com/0/992/237.htm",
-      "time": "08-20 17:44",
-      "src": "IT之家"
-    },
-    {
-      "title": "《巴士模拟器27》全新多人模式宣传片公开，9月8日正式发售",
-      "link": "https://www.gcores.com/articles/218606",
-      "time": "08-20 18:02",
-      "src": "机核"
-    },
-    {
-      "title": "SheNicest千人黑客松开设AI游戏创作赛道，开启极限共创",
-      "link": "https://www.gcores.com/articles/218589",
-      "time": "08-20 10:02",
-      "src": "机核"
     }
   ],
   "game_update": [
-    {
-      "title": "宁夏银川召开服务业大会 聚力推动服务业高质量发展",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-20/10681253.shtml",
-      "time": "08-20 20:12",
-      "src": "中新网",
-      "type": "不停机更新"
-    },
     {
       "title": "《PUBG》42.3版本 PC 8/12 维护(08:00-16:30): 时隔两年新增轻机枪 RPD, 轻机枪换弹-25%/后坐力调整, 主流玩法轮换开启",
       "link": "https://new.qq.com/rain/a/20260811A06SHD00",
@@ -1228,6 +1227,13 @@
       "time": "8-05",
       "type": "停机维护",
       "src": "腾讯官方"
+    },
+    {
+      "title": "《大话西游》手游 8/13 每周例行停机维护(8:00-10:00): 新神兽广陵+小西天副本上线, 周星驰合作宣传片8/15公开",
+      "link": "https://dhxy.163.com/news/update/20260812/19975_1310915.html",
+      "time": "8-13",
+      "type": "停机维护",
+      "src": "网易官网"
     }
   ],
   "mil_news": [
@@ -1238,28 +1244,16 @@
       "src": "ISW"
     },
     {
-      "title": "亚马逊在美国市场扩展 Prime Air 无人机配送服务，今年底将进驻当地 500 座城镇",
-      "link": "https://www.ithome.com/0/992/258.htm",
-      "time": "08-20 18:21",
-      "src": "IT之家"
-    },
-    {
       "title": "《坦克世界》国服周年庆开启，150百运领衔最强补给品阵容",
       "link": "https://www.gcores.com/articles/218574",
       "time": "08-20 10:03",
       "src": "机核"
     },
     {
-      "title": "伊朗外长回应特朗普“毁灭性经济行动”：转移美国自身危机",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-20/10681303.shtml",
-      "time": "08-20 20:25",
-      "src": "中新网"
-    },
-    {
-      "title": "《使命召唤：现代战争4》官方“以德报怨” 赠送喷子玩家测试资格",
-      "link": "https://www.cnbeta.com.tw/articles/game/1574100.htm",
-      "time": "08-20 11:31",
-      "src": "cnBeta.COM"
+      "title": "特朗普宣布今年将与金正恩会面后 朝鲜发射了10来枚短程导弹",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260820-%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E4%BB%8A%E5%B9%B4%E5%B0%86%E4%B8%8E%E9%87%91%E6%AD%A3%E6%81%A9%E4%BC%9A%E9%9D%A2%E5%90%8E-%E6%9C%9D%E9%B2%9C%E5%8F%91%E5%B0%84%E4%BA%8610%E6%9D%A5%E6%9E%9A%E7%9F%AD%E7%A8%8B%E5%AF%BC%E5%BC%B9",
+      "time": "08-20 19:57",
+      "src": "KCNA via KNS v"
     },
     {
       "title": "俄乌冲突升级  普京转向东望",
@@ -1278,6 +1272,18 @@
       "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260820-%E5%8F%B0%E6%B9%BE2027%E5%B9%B4%E5%BA%A6%E5%9B%BD%E9%98%B2%E9%A2%84%E7%AE%97%E9%A6%96%E7%A0%B41%E5%85%86%E6%96%B0%E5%8F%B0%E5%B8%81-%E5%8D%A0gdp%E9%80%BE3",
       "time": "08-20 17:23",
       "src": "© Cheng-Chia H"
+    },
+    {
+      "title": "特朗普指美韩军演向朝鲜释放敌对信号 军演提前六天结束",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260819-%E7%89%B9%E6%9C%97%E6%99%AE%E6%8C%87%E7%BE%8E%E9%9F%A9%E5%86%9B%E6%BC%94%E5%90%91%E6%9C%9D%E9%B2%9C%E9%87%8A%E6%94%BE%E6%95%8C%E5%AF%B9%E4%BF%A1%E5%8F%B7-%E5%86%9B%E6%BC%94%E6%8F%90%E5%89%8D%E5%85%AD%E5%A4%A9%E7%BB%93%E6%9D%9F",
+      "time": "08-20 05:28",
+      "src": "REUTERS - Kim "
+    },
+    {
+      "title": "印度执政党议员否认了关于中国军队入侵喜马拉雅边境争议地区的报道",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260819-%E5%8D%B0%E5%BA%A6%E6%89%A7%E6%94%BF%E5%85%9A%E8%AE%AE%E5%91%98%E5%90%A6%E8%AE%A4%E4%BA%86%E5%85%B3%E4%BA%8E%E4%B8%AD%E5%9B%BD%E5%86%9B%E9%98%9F%E5%85%A5%E4%BE%B5%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E8%BE%B9%E5%A2%83%E4%BA%89%E8%AE%AE%E5%9C%B0%E5%8C%BA%E7%9A%84%E6%8A%A5%E9%81%93",
+      "time": "08-20 04:02",
+      "src": "AP - Mustafa Q"
     }
   ]
 }
