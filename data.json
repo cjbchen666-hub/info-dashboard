@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21 02:50",
+  "generated_at": "2026-08-21 04:36",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -269,15 +269,15 @@
         "src": "法广RFI"
       },
       {
-        "title": "圣路易斯联储行长谈及债市动荡 称市场并未质疑美联储信誉",
-        "link": "https://finance.sina.com.cn/world/2026-08-21/doc-ininywtc6622227.shtml",
-        "time": "08-21 01:07",
+        "title": "8月21日美股收盘：长债收益率反弹抹去回购利好，沃尔玛暴跌近9%拖累道指重挫超700点",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-ininziia1604771.shtml",
+        "time": "08-21 04:34",
         "src": "环球市场播报"
       },
       {
-        "title": "贝森特称可能进一步加大美债回购力度 并将公布新的财政举措",
-        "link": "https://finance.sina.com.cn/world/2026-08-21/doc-ininywth1788602.shtml",
-        "time": "08-21 00:41",
+        "title": "圣路易斯联储行长谈及债市动荡 称市场并未质疑美联储信誉",
+        "link": "https://finance.sina.com.cn/world/2026-08-21/doc-ininywtc6622227.shtml",
+        "time": "08-21 01:07",
         "src": "环球市场播报"
       }
     ]
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 52850.77,
-      "pct": -1.15,
-      "chg": -612.28,
-      "amount": "1369533642亿"
+      "price": 52759.21,
+      "pct": -1.32,
+      "chg": -703.84,
+      "amount": "2300335084亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26063.59,
-      "pct": -1.02,
-      "chg": -267.5,
-      "amount": "13916134979亿"
+      "price": 26067.17,
+      "pct": -1.0,
+      "chg": -263.92,
+      "amount": "18588986809亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7655.44,
-      "pct": -0.68,
-      "chg": -52.54,
-      "amount": "1217001218亿"
+      "price": 7641.16,
+      "pct": -0.87,
+      "chg": -66.82,
+      "amount": "2056049241亿"
     }
   ],
   "anime": {
@@ -517,38 +517,38 @@
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 11695,
+        "likes": 11711,
         "downloads": 1373584,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 2320,
+        "likes": 2338,
         "downloads": 5126652,
         "pipeline": ""
       },
       {
         "id": "MiniMaxAI/MiniMax-Music3",
-        "likes": 1094,
+        "likes": 1097,
         "downloads": 14471,
         "pipeline": "text-to-audio"
       },
       {
         "id": "Qwen/Qwen3.8-27B-FP8",
-        "likes": 628,
+        "likes": 631,
         "downloads": 1517643,
         "pipeline": "image-text-to-text"
       },
       {
-        "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-        "likes": 668,
-        "downloads": 76109,
+        "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
+        "likes": 698,
+        "downloads": 2628,
         "pipeline": "image-text-to-text"
       },
       {
-        "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-        "likes": 690,
-        "downloads": 2628,
+        "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
+        "likes": 672,
+        "downloads": 76109,
         "pipeline": "image-text-to-text"
       }
     ],
