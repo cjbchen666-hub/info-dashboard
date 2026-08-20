@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21 00:41",
+  "generated_at": "2026-08-21 02:50",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -269,15 +269,15 @@
         "src": "法广RFI"
       },
       {
-        "title": "贝森特称可能进一步加大美债回购力度 并将公布新的财政举措",
-        "link": "https://finance.sina.com.cn/world/2026-08-21/doc-ininywth1788602.shtml",
-        "time": "08-21 00:41",
+        "title": "圣路易斯联储行长谈及债市动荡 称市场并未质疑美联储信誉",
+        "link": "https://finance.sina.com.cn/world/2026-08-21/doc-ininywtc6622227.shtml",
+        "time": "08-21 01:07",
         "src": "环球市场播报"
       },
       {
-        "title": "贝森特称财政部债券回购规模或将超过40亿美元",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-ininywtm1756196.shtml",
-        "time": "08-21 00:24",
+        "title": "贝森特称可能进一步加大美债回购力度 并将公布新的财政举措",
+        "link": "https://finance.sina.com.cn/world/2026-08-21/doc-ininywth1788602.shtml",
+        "time": "08-21 00:41",
         "src": "环球市场播报"
       }
     ]
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 53071.93,
-      "pct": -0.73,
-      "chg": -391.12,
-      "amount": "1017056379亿"
+      "price": 52850.77,
+      "pct": -1.15,
+      "chg": -612.28,
+      "amount": "1369533642亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26145.08,
-      "pct": -0.71,
-      "chg": -186.01,
-      "amount": "11019342900亿"
+      "price": 26063.59,
+      "pct": -1.02,
+      "chg": -267.5,
+      "amount": "13916134979亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7683.48,
-      "pct": -0.32,
-      "chg": -24.5,
-      "amount": "878849053亿"
+      "price": 7655.44,
+      "pct": -0.68,
+      "chg": -52.54,
+      "amount": "1217001218亿"
     }
   ],
   "anime": {
@@ -517,37 +517,37 @@
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 11678,
+        "likes": 11695,
         "downloads": 1373584,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 2294,
+        "likes": 2320,
         "downloads": 5126652,
         "pipeline": ""
       },
       {
         "id": "MiniMaxAI/MiniMax-Music3",
-        "likes": 1088,
+        "likes": 1094,
         "downloads": 14471,
         "pipeline": "text-to-audio"
       },
       {
         "id": "Qwen/Qwen3.8-27B-FP8",
-        "likes": 626,
+        "likes": 628,
         "downloads": 1517643,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-        "likes": 663,
+        "likes": 668,
         "downloads": 76109,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-        "likes": 686,
+        "likes": 690,
         "downloads": 2628,
         "pipeline": "image-text-to-text"
       }
@@ -787,9 +787,9 @@
       "src": "IT之家"
     },
     {
-      "title": "英特尔下一代28核酷睿Ultra 9 4950K跑分流出",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1574192.htm",
-      "time": "08-20 23:12",
+      "title": "芝奇因内存速度虚假宣传案达成240万美元和解 消费者本周起陆续获赔约20美元",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574196.htm",
+      "time": "08-21 00:56",
       "src": "cnBeta.COM"
     }
   ],
@@ -1015,6 +1015,30 @@
       "src": "IT之家"
     },
     {
+      "title": "特朗普称白宫立法事务主任布雷德将离职",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-21/10681384.shtml",
+      "time": "08-21 00:52",
+      "src": "中新网"
+    },
+    {
+      "title": "德国今年4月以来约有1.4万人因高温相关因素死亡",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-21/10681383.shtml",
+      "time": "08-21 00:51",
+      "src": "中新网"
+    },
+    {
+      "title": "伊朗外交部谴责美国对伊实施新一轮经济制裁",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-21/10681381.shtml",
+      "time": "08-21 00:44",
+      "src": "中新网"
+    },
+    {
+      "title": "胡塞武装称对沙特发动无人机袭击",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-21/10681379.shtml",
+      "time": "08-21 00:42",
+      "src": "中新网"
+    },
+    {
       "title": "香港举办“东盟电影节2026” 逾30部佳片促文化交流合作",
       "link": "https://www.chinanews.com.cn/dwq/2026/08-20/10681376.shtml",
       "time": "08-20 23:06",
@@ -1025,30 +1049,6 @@
       "link": "https://www.chinanews.com.cn/gj/2026/08-20/10681377.shtml",
       "time": "08-20 23:05",
       "src": "中新网"
-    },
-    {
-      "title": "“开放成都·链接全球”智能制造产业直通车搭起国际合作桥梁",
-      "link": "https://www.chinanews.com.cn/aseaninfo/2026/08-20/10681365.shtml",
-      "time": "08-20 21:56",
-      "src": "中新网"
-    },
-    {
-      "title": "六国棋手“云端”对弈 2026重庆武隆“白马山杯”东南亚围棋邀请赛开幕",
-      "link": "https://www.chinanews.com.cn/ty/2026/08-20/10681346.shtml",
-      "time": "08-20 21:49",
-      "src": "中新网"
-    },
-    {
-      "title": "中法青年湖南芷江捐赠法国解密日本侵华档案",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-20/10681339.shtml",
-      "time": "08-20 21:46",
-      "src": "中新网"
-    },
-    {
-      "title": "三星展示全球首款300Hz笔记本OLED屏 高刷QD-OLED同步亮相",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1574158.htm",
-      "time": "08-20 17:42",
-      "src": "cnBeta.COM"
     }
   ],
   "econ_news": [
@@ -1089,15 +1089,15 @@
       "src": "IT之家"
     },
     {
-      "title": "广西财政筹措资金超4亿元 支持受灾地区农业灾后恢复和水利工程修复",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-20/10681356.shtml",
-      "time": "08-20 21:51",
+      "title": "伊朗外交部谴责美国对伊实施新一轮经济制裁",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-21/10681381.shtml",
+      "time": "08-21 00:44",
       "src": "中新网"
     },
     {
-      "title": "宁夏“举杯贺兰山·青年艺术季”收官 文旅消费持续升温",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-20/10681345.shtml",
-      "time": "08-20 21:47",
+      "title": "广西财政筹措资金超4亿元 支持受灾地区农业灾后恢复和水利工程修复",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-20/10681356.shtml",
+      "time": "08-20 21:51",
       "src": "中新网"
     }
   ],
@@ -1223,6 +1223,18 @@
       "src": "机核"
     },
     {
+      "title": "伊朗外交部谴责美国对伊实施新一轮经济制裁",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-21/10681381.shtml",
+      "time": "08-21 00:44",
+      "src": "中新网"
+    },
+    {
+      "title": "胡塞武装称对沙特发动无人机袭击",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-21/10681379.shtml",
+      "time": "08-21 00:42",
+      "src": "中新网"
+    },
+    {
       "title": "美军中央司令部称“华盛顿”号航母已部署在中东",
       "link": "https://www.chinanews.com.cn/gj/2026/08-20/10681377.shtml",
       "time": "08-20 23:05",
@@ -1245,18 +1257,6 @@
       "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260820-%E4%BF%84%E5%86%9B%E5%A4%9C%E8%A2%AD%E5%9F%BA%E8%BE%8516%E4%BA%BA%E9%81%87%E9%9A%BE-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E8%B0%B4%E8%B4%A3%E8%8E%AB%E6%96%AF%E7%A7%91%E5%8D%87%E7%BA%A7%E5%86%B2%E7%AA%81",
       "time": "08-20 22:08",
       "src": "REUTERS - Vale"
-    },
-    {
-      "title": "特朗普宣布今年将与金正恩会面后 朝鲜发射了10来枚短程导弹",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260820-%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E4%BB%8A%E5%B9%B4%E5%B0%86%E4%B8%8E%E9%87%91%E6%AD%A3%E6%81%A9%E4%BC%9A%E9%9D%A2%E5%90%8E-%E6%9C%9D%E9%B2%9C%E5%8F%91%E5%B0%84%E4%BA%8610%E6%9D%A5%E6%9E%9A%E7%9F%AD%E7%A8%8B%E5%AF%BC%E5%BC%B9",
-      "time": "08-20 19:57",
-      "src": "KCNA via KNS v"
-    },
-    {
-      "title": "俄乌冲突升级  普京转向东望",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%9B%BC%E8%B0%B7%E4%B8%93%E6%A0%8F/20260820-%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%E5%8D%87%E7%BA%A7-%E6%99%AE%E4%BA%AC%E8%BD%AC%E5%90%91%E4%B8%9C%E6%9C%9B",
-      "time": "08-20 20:45",
-      "src": "法广RFI"
     }
   ]
 }
