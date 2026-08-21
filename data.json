@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21 22:41",
+  "generated_at": "2026-08-22 00:41",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -129,9 +129,9 @@
       }
     ],
     "status": {
-      "state": "已收盘",
-      "label": "今日已收盘",
-      "date": "2026-08-21"
+      "state": "休市",
+      "label": "周末休市",
+      "date": "2026-08-22"
     },
     "watch": [
       {
@@ -233,6 +233,12 @@
     ],
     "news": [
       {
+        "title": "美国硅谷大谈机器人未来，现场主角却来自中国",
+        "link": "https://www.ithome.com/0/992/883.htm",
+        "time": "08-21 23:34",
+        "src": "IT之家"
+      },
+      {
         "title": "国产 NAND 龙头长江存储冲刺科创板：IPO 审核状态变更为已受理，拟融资 330 亿元",
         "link": "https://www.ithome.com/0/992/843.htm",
         "time": "08-21 20:14",
@@ -257,28 +263,22 @@
         "src": "cnBeta.COM"
       },
       {
+        "title": "英伟达与华尔街六家机构筹建超5000亿美元AI算力融资平台，8月26日财报将成检验节点",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-inipazsm1539840.shtml",
+        "time": "08-21 23:04",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "三星电子公布2026年股东回报计划，规模预计达90万亿至110万亿韩元",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-inipazsm1529838.shtml",
+        "time": "08-21 22:49",
+        "src": "环球市场播报"
+      },
+      {
         "title": "机器人行业新一轮“军备竞赛”：谁能拍出最吸睛的造势宣传片？",
         "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-inipavkf6483426.shtml",
         "time": "08-21 22:25",
         "src": "环球市场播报"
-      },
-      {
-        "title": "汤姆李：标普 500 指数有望在本月底重返历史高位",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-inipavkm8101101.shtml",
-        "time": "08-21 22:19",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "纳指有望结束五连跌 比特币大涨之际Strategy股价上扬",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-inipavkp1625472.shtml",
-        "time": "08-21 22:05",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "严惩违规减持、退市两年追罚，证监会一日两罚释放强监管信号",
-        "link": "https://finance.sina.com.cn/china/2026-08-21/doc-inipavkp1580291.shtml",
-        "time": "08-21 21:06",
-        "src": "第一财经"
       }
     ]
   },
@@ -294,147 +294,219 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 53071.16,
-      "pct": 0.59,
-      "chg": 311.95,
-      "amount": "688516293亿"
+      "price": 53181.71,
+      "pct": 0.8,
+      "chg": 422.5,
+      "amount": "1118201867亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26077.61,
-      "pct": 0.04,
-      "chg": 10.44,
-      "amount": "5346677145亿"
+      "price": 26212.05,
+      "pct": 0.56,
+      "chg": 144.88,
+      "amount": "8903565163亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7661.21,
-      "pct": 0.26,
-      "chg": 20.05,
-      "amount": "534245321亿"
+      "price": 7683.3,
+      "pct": 0.55,
+      "chg": 42.14,
+      "amount": "934651333亿"
     }
   ],
   "anime": {
-    "date": "08-21",
-    "weekday": "金",
+    "date": "08-22",
+    "weekday": "土",
     "items": [
       {
-        "id": 545917,
-        "name": "これ描いて死ね",
-        "name_cn": "画完这个再去死",
+        "id": 552533,
+        "name": "天幕のジャードゥーガル",
+        "name_cn": "穹庐下的魔女",
+        "score": 8.0,
+        "img": "http://lain.bgm.tv/pic/cover/c/28/41/552533_E9DF9.jpg",
+        "air_date": "2026-07-04",
+        "rank": 260
+      },
+      {
+        "id": 679578,
+        "name": "喜羊羊与灰太狼之破界山海诀番外篇",
+        "name_cn": "喜羊羊与灰太狼之破界山海诀番外篇",
+        "score": 8.0,
+        "img": "http://lain.bgm.tv/pic/cover/c/70/6f/679578_82PoC.jpg",
+        "air_date": "2026-07-25",
+        "rank": null
+      },
+      {
+        "id": 530725,
+        "name": "BLEACH 千年血戦篇-禍進譚-",
+        "name_cn": "死神 千年血战篇-祸进谭-",
         "score": 7.8,
-        "img": "http://lain.bgm.tv/pic/cover/c/8b/c0/545917_GoNvI.jpg",
-        "air_date": "2026-07-03",
-        "rank": 418
+        "img": "http://lain.bgm.tv/pic/cover/c/ad/f9/530725_CAqWC.jpg",
+        "air_date": "2026-07-25",
+        "rank": 544
       },
       {
-        "id": 517106,
-        "name": "逃げ上手の若君 第二期",
-        "name_cn": "擅长逃跑的殿下 第二季",
-        "score": 6.8,
-        "img": "http://lain.bgm.tv/pic/cover/c/5d/00/517106_Il9mk.jpg",
-        "air_date": "2026-07-17",
-        "rank": 3275
+        "id": 899,
+        "name": "名探偵コナン",
+        "name_cn": "名侦探柯南",
+        "score": 7.5,
+        "img": "http://lain.bgm.tv/pic/cover/c/01/88/899_REwVW.jpg",
+        "air_date": "1996-01-08",
+        "rank": 888
       },
       {
-        "id": 624691,
-        "name": "喜羊羊与灰太狼之破界山海诀",
-        "name_cn": "喜羊羊与灰太狼之破界山海诀",
-        "score": 6.8,
-        "img": "http://lain.bgm.tv/pic/cover/c/6c/5c/624691_3u3s8.jpg",
-        "air_date": "2026-07-10",
+        "id": 570583,
+        "name": "グロウアップショウ ～ひまわりのサーカス団～",
+        "name_cn": "Grow Up Show ～向日葵马戏团～",
+        "score": 7.1,
+        "img": "http://lain.bgm.tv/pic/cover/c/0c/cf/570583_d3QZD.jpg",
+        "air_date": "2026-07-04",
+        "rank": 2115
+      },
+      {
+        "id": 587109,
+        "name": "花織さんは転生しても喧嘩がしたい",
+        "name_cn": "花织即使是转生也想打架",
+        "score": 6.9,
+        "img": "http://lain.bgm.tv/pic/cover/c/59/84/587109_q1iCs.jpg",
+        "air_date": "2026-07-11",
+        "rank": 3194
+      },
+      {
+        "id": 538760,
+        "name": "猫と竜",
+        "name_cn": "猫与龙",
+        "score": 6.7,
+        "img": "http://lain.bgm.tv/pic/cover/c/c5/16/538760_T0rxN.jpg",
+        "air_date": "2026-07-04",
+        "rank": 3890
+      },
+      {
+        "id": 549975,
+        "name": "Avatar Aang: The Last Airbender",
+        "name_cn": "神通安昂：最后的气宗",
+        "score": 6.6,
+        "img": "http://lain.bgm.tv/pic/cover/c/01/f8/549975_58HUD.jpg",
+        "air_date": "2026-07-25",
+        "rank": 3596
+      },
+      {
+        "id": 576780,
+        "name": "炼气十万年特别篇 阳极天下",
+        "name_cn": "炼气十万年特别篇 阳极天下",
+        "score": 6.3,
+        "img": "http://lain.bgm.tv/pic/cover/c/f3/54/576780_uGF28.jpg",
+        "air_date": "2026-07-18",
         "rank": null
       },
       {
-        "id": 638151,
-        "name": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 2nd Season",
-        "name_cn": "地狱模式～喜欢挑战特殊成就的玩家在废设定的异世界成为无双～第二季",
+        "id": 491578,
+        "name": "择日飞升",
+        "name_cn": "择日飞升",
         "score": 5.9,
-        "img": "http://lain.bgm.tv/pic/cover/c/fa/0b/638151_q95Ls.jpg",
-        "air_date": "2026-07-03",
-        "rank": 7446
+        "img": "http://lain.bgm.tv/pic/cover/c/ff/2f/491578_whDt3.jpg",
+        "air_date": "2026-07-18",
+        "rank": null
       },
       {
-        "id": 613438,
-        "name": "うちの弟どもがすみません",
-        "name_cn": "我家的弟弟们真是让您费心了",
+        "id": 602733,
+        "name": "才女のお世話 高嶺の花だらけな名門校で、学院一のお嬢様（生活能力皆無）を陰ながらお世話することになりました",
+        "name_cn": "才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐",
+        "score": 5.9,
+        "img": "http://lain.bgm.tv/pic/cover/c/bd/74/602733_X0NNo.jpg",
+        "air_date": "2026-07-04",
+        "rank": 7587
+      },
+      {
+        "id": 529723,
+        "name": "株式会社マジルミエ 第2期",
+        "name_cn": "魔法光源股份有限公司 第二季",
+        "score": 5.8,
+        "img": "http://lain.bgm.tv/pic/cover/c/28/ae/529723_9qSo4.jpg",
+        "air_date": "2026-07-04",
+        "rank": 6888
+      },
+      {
+        "id": 530729,
+        "name": "魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance",
+        "name_cn": "魔法少女奈叶 EXCEEDS Gun Blaze Vengeance",
+        "score": 5.7,
+        "img": "http://lain.bgm.tv/pic/cover/c/cf/0b/530729_82Fm9.jpg",
+        "air_date": "2026-07-04",
+        "rank": 8124
+      },
+      {
+        "id": 542603,
+        "name": "BLACK TORCH",
+        "name_cn": "暗黑灯火",
         "score": 5.6,
-        "img": "http://lain.bgm.tv/pic/cover/c/15/fb/613438_pJVpS.jpg",
-        "air_date": "2026-07-03",
-        "rank": 7450
+        "img": "http://lain.bgm.tv/pic/cover/c/1b/75/542603_KZT1m.jpg",
+        "air_date": "2026-07-04",
+        "rank": 8131
       },
       {
-        "id": 627136,
-        "name": "うしろの正面カムイさん",
-        "name_cn": "从后面来的神威先生",
-        "score": 5.6,
-        "img": "http://lain.bgm.tv/pic/cover/c/01/8f/627136_hb0Jd.jpg",
-        "air_date": "2026-07-03",
-        "rank": 8979
+        "id": 631018,
+        "name": "「きみを愛する気はない」と言った次期公爵様がなぜか溺愛してきます",
+        "name_cn": "说了不打算爱我的公爵继承人，不知为何对我宠爱有加",
+        "score": 5.4,
+        "img": "http://lain.bgm.tv/pic/cover/c/e9/a8/631018_i8egE.jpg",
+        "air_date": "2026-07-04",
+        "rank": 6944
       },
       {
-        "id": 571895,
-        "name": "領民0人スタートの辺境領主様",
-        "name_cn": "从0位居民开始的边境领主大人",
-        "score": 5.5,
-        "img": "http://lain.bgm.tv/pic/cover/c/a2/a1/571895_0KwUw.jpg",
-        "air_date": "2026-07-10",
-        "rank": 8629
+        "id": 589368,
+        "name": "如果历史是一群喵 大明皇朝篇",
+        "name_cn": "如果历史是一群喵 大明皇朝篇",
+        "score": 4.8,
+        "img": "http://lain.bgm.tv/pic/cover/c/66/56/589368_ze71z.jpg",
+        "air_date": "2026-07-11",
+        "rank": null
       },
       {
-        "id": 668586,
-        "name": "Dodgers x ONE PIECE | 特別アニメーション映像 2026",
+        "id": 641326,
+        "name": "妖神记 第十季",
+        "name_cn": "妖神记 第十季",
+        "score": 4.3,
+        "img": "http://lain.bgm.tv/pic/cover/c/49/e8/641326_FV9IJ.jpg",
+        "air_date": "2026-07-18",
+        "rank": null
+      },
+      {
+        "id": 563745,
+        "name": "鬼の花嫁",
+        "name_cn": "鬼的新娘",
+        "score": 3.9,
+        "img": "http://lain.bgm.tv/pic/cover/c/b9/ac/563745_YI26V.jpg",
+        "air_date": "2026-07-04",
+        "rank": 10003
+      },
+      {
+        "id": 665747,
+        "name": "『斬 -ZAN-』Pilot Film",
+        "name_cn": "「斩-ZAN-」试播片",
+        "score": 3.8,
+        "img": "http://lain.bgm.tv/pic/cover/c/a6/0d/665747_EYtyY.jpg",
+        "air_date": "2026-07-04",
+        "rank": null
+      },
+      {
+        "id": 621843,
+        "name": "岩元先輩ノ推薦",
+        "name_cn": "岩元前辈的推荐",
+        "score": 3.6,
+        "img": "http://lain.bgm.tv/pic/cover/c/a7/0a/621843_5tN5J.jpg",
+        "air_date": "2026-07-04",
+        "rank": 9627
+      },
+      {
+        "id": 651872,
+        "name": "パンの赤ちゃん",
         "name_cn": "",
-        "score": 5.3,
-        "img": "http://lain.bgm.tv/pic/cover/c/08/07/668586_5BB7m.jpg",
-        "air_date": "2026-07-03",
-        "rank": null
-      },
-      {
-        "id": 664856,
-        "name": "ばなにゃ あっとほーむぱーてぃー",
-        "name_cn": "香蕉喵10周年纪念特别篇",
-        "score": 5.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/ab/40/664856_1N98d.jpg",
-        "air_date": "2026-07-10",
-        "rank": null
-      },
-      {
-        "id": 662680,
-        "name": "死灵法师！我即是天灾",
-        "name_cn": "死灵法师！我即是天灾",
-        "score": 1.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/b3/da/662680_6P2P4.jpg",
-        "air_date": "2026-07-24",
-        "rank": null
-      },
-      {
-        "id": 542847,
-        "name": "怪物大师之穿越时空的怪物",
-        "name_cn": "怪物大师之穿越时空的怪物",
-        "score": null,
-        "img": "http://lain.bgm.tv/pic/cover/c/82/74/542847_F06co.jpg",
-        "air_date": "2026-07-24",
-        "rank": null
-      },
-      {
-        "id": 663695,
-        "name": "Breaking Bear",
-        "name_cn": "",
-        "score": null,
-        "img": "http://lain.bgm.tv/pic/cover/c/90/f6/663695_zWz4H.jpg",
-        "air_date": "2026-07-24",
-        "rank": null
-      },
-      {
-        "id": 679732,
-        "name": "SEALOOK 2nd season",
-        "name_cn": "",
-        "score": null,
-        "img": "http://lain.bgm.tv/pic/cover/c/18/b5/679732_fQ4Ii.jpg",
-        "air_date": "2026-07-24",
+        "score": 3.5,
+        "img": "http://lain.bgm.tv/pic/cover/c/bd/2d/651872_0FMCj.jpg",
+        "air_date": "2026-07-04",
         "rank": null
       }
     ]
@@ -466,6 +538,18 @@
   "ai": {
     "news_zh": [
       {
+        "title": "美国硅谷大谈机器人未来，现场主角却来自中国",
+        "link": "https://www.ithome.com/0/992/883.htm",
+        "time": "08-21 23:34",
+        "src": "IT之家"
+      },
+      {
+        "title": "对 AI 抵触情绪上升：美国年轻人越来越讨厌 AI，硅谷高管爆发公开分歧",
+        "link": "https://www.ithome.com/0/992/882.htm",
+        "time": "08-21 23:32",
+        "src": "IT之家"
+      },
+      {
         "title": "荣耀 Turbo 5G 手机海外发布，骁龙 6 Gen 4 芯片",
         "link": "https://www.ithome.com/0/992/867.htm",
         "time": "08-21 21:44",
@@ -490,12 +574,6 @@
         "src": "IT之家"
       },
       {
-        "title": "OpenAI 回应 Codex 使用限制：sub2api 转售共享会触发风控",
-        "link": "https://www.ithome.com/0/992/767.htm",
-        "time": "08-21 18:05",
-        "src": "IT之家"
-      },
-      {
         "title": "AT&amp;T正借助开源大模型 削减向Anthropic支付的账单",
         "link": "https://www.cnbeta.com.tw/articles/tech/1574384.htm",
         "time": "08-21 21:23",
@@ -506,50 +584,44 @@
         "link": "https://www.cnbeta.com.tw/articles/tech/1574374.htm",
         "time": "08-21 19:44",
         "src": "cnBeta.COM"
-      },
-      {
-        "title": "三星芯片代工涨价 任天堂Switch2也跟着遭殃？",
-        "link": "https://www.cnbeta.com.tw/articles/game/1574372.htm",
-        "time": "08-21 18:39",
-        "src": "cnBeta.COM"
       }
     ],
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 11867,
+        "likes": 11886,
         "downloads": 1726651,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 2450,
+        "likes": 2462,
         "downloads": 5804917,
         "pipeline": ""
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-        "likes": 781,
+        "likes": 786,
         "downloads": 18193,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-        "likes": 710,
+        "likes": 716,
         "downloads": 107520,
         "pipeline": "image-text-to-text"
       },
       {
-        "id": "Qwen/Qwen3.8-27B-FP8",
-        "likes": 646,
-        "downloads": 1939895,
-        "pipeline": "image-text-to-text"
-      },
-      {
         "id": "MiniMaxAI/MiniMax-Music3",
-        "likes": 1147,
+        "likes": 1150,
         "downloads": 15678,
         "pipeline": "text-to-audio"
+      },
+      {
+        "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+        "likes": 547,
+        "downloads": 1126222,
+        "pipeline": "text-generation"
       }
     ],
     "models": [
@@ -721,6 +793,12 @@
   ],
   "hw_news": [
     {
+      "title": "Mercury：AMD 客户端 CPU 份额首次突破 30%，英特尔优势进一步缩小",
+      "link": "https://www.ithome.com/0/992/881.htm",
+      "time": "08-21 23:25",
+      "src": "IT之家"
+    },
+    {
       "title": "SSD 与 HDD 价差创纪录，30TB 企业级固态硬盘飙至 22600 美元达机械硬盘 18.6 倍",
       "link": "https://www.ithome.com/0/992/868.htm",
       "time": "08-21 22:02",
@@ -784,12 +862,6 @@
       "title": "TDS REVIEW | Nothing Ear (3a) 降噪真无线耳机体验",
       "link": "https://sspai.com/post/113586",
       "time": "08-21 11:05",
-      "src": "少数派"
-    },
-    {
-      "title": "派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本",
-      "link": "https://sspai.com/post/113638",
-      "time": "08-20 08:46",
       "src": "少数派"
     }
   ],
@@ -1015,10 +1087,16 @@
       "src": "IT之家"
     },
     {
-      "title": "Counterpoint 预测 2026 年全球智能手机出货量下降 14.3%，三星、华为逆势增长",
+      "title": "Counterpoint 预测 2026 年全球智能手机出货量下降 14.3%，华为逆势增长、三星重回第一",
       "link": "https://www.ithome.com/0/992/838.htm",
       "time": "08-21 19:50",
       "src": "IT之家"
+    },
+    {
+      "title": "土耳其请求国际刑警组织对内塔尼亚胡发出红色通缉令",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-21/10682120.shtml",
+      "time": "08-21 23:06",
+      "src": "中新网"
     },
     {
       "title": "“全球新工业革命联盟”落地香港 助力可持续发展",
@@ -1030,12 +1108,6 @@
       "title": "海南洋浦港审批便利化新举措提升国际船舶进口岸效率",
       "link": "https://www.chinanews.com.cn/cj/2026/08-21/10682115.shtml",
       "time": "08-21 22:06",
-      "src": "中新网"
-    },
-    {
-      "title": "今年前7个月香港国际机场总客运量3840万人次 同比增11.2%",
-      "link": "https://www.chinanews.com.cn/dwq/2026/08-21/10682084.shtml",
-      "time": "08-21 21:34",
       "src": "中新网"
     },
     {
@@ -1109,6 +1181,12 @@
   ],
   "game_news": [
     {
+      "title": "R 星母公司 T2 出手追查《GTA6》泄密人大葱哥，向微软和 Discord 发传票",
+      "link": "https://www.ithome.com/0/992/884.htm",
+      "time": "08-21 23:39",
+      "src": "IT之家"
+    },
+    {
       "title": "微软为 Win10/Win11 新版 Outlook 添加经典主题，提升使用体验",
       "link": "https://www.ithome.com/0/992/860.htm",
       "time": "08-21 21:13",
@@ -1148,12 +1226,6 @@
       "title": "拳头游戏宣布旗下格斗游戏《2XKO》将于年底停止开发",
       "link": "https://www.gcores.com/articles/218634",
       "time": "08-21 16:23",
-      "src": "机核"
-    },
-    {
-      "title": "史上最大规模的收纳游戏《捡起你的玩具来！》正式公开",
-      "link": "https://www.gcores.com/articles/218630",
-      "time": "08-21 15:06",
       "src": "机核"
     }
   ],
