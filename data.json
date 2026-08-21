@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21 21:01",
+  "generated_at": "2026-08-21 22:41",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -239,28 +239,16 @@
         "src": "IT之家"
       },
       {
-        "title": "市场监管总局：将具身智能机器人、固态动力电池等纳入质量强链二期攻关方向",
-        "link": "https://www.ithome.com/0/992/759.htm",
-        "time": "08-21 17:44",
-        "src": "IT之家"
-      },
-      {
-        "title": "软银向 Gravis 投资 2 亿美元，创建筑机器人领域 A 轮纪录",
-        "link": "https://www.ithome.com/0/992/733.htm",
-        "time": "08-21 17:10",
-        "src": "IT之家"
-      },
-      {
-        "title": "今年上半年中国重点钢铁企业累计营收3.05万亿元",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-21/10682013.shtml",
-        "time": "08-21 20:53",
+        "title": "中国人民银行将在香港发行300亿元人民币央行票据",
+        "link": "https://www.chinanews.com.cn/dwq/2026/08-21/10682093.shtml",
+        "time": "08-21 21:53",
         "src": "中新网"
       },
       {
-        "title": "2026世界机器人大会具身智能产融实践暨“投创之星”路演举办",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-21/10682035.shtml",
-        "time": "08-21 20:50",
-        "src": "中新网"
+        "title": "三星电子宣布2026年至多110万亿韩元股东回报 创韩企历史新高",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1574382.htm",
+        "time": "08-21 21:22",
+        "src": "cnBeta.COM"
       },
       {
         "title": "美国机器人大会火了 中国机器人却成主角",
@@ -269,16 +257,28 @@
         "src": "cnBeta.COM"
       },
       {
-        "title": "贝森特扩大美债回购被指“玩火” 美国或重演日本式货币贬值",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-inipavkm8057440.shtml",
-        "time": "08-21 20:59",
+        "title": "机器人行业新一轮“军备竞赛”：谁能拍出最吸睛的造势宣传片？",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-inipavkf6483426.shtml",
+        "time": "08-21 22:25",
         "src": "环球市场播报"
       },
       {
-        "title": "盘前：纳指期货涨0.74% 美元直逼3个月低点 比特币和黄金涨疯了",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-inipavkm8044522.shtml",
-        "time": "08-21 20:30",
+        "title": "汤姆李：标普 500 指数有望在本月底重返历史高位",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-inipavkm8101101.shtml",
+        "time": "08-21 22:19",
         "src": "环球市场播报"
+      },
+      {
+        "title": "纳指有望结束五连跌 比特币大涨之际Strategy股价上扬",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-inipavkp1625472.shtml",
+        "time": "08-21 22:05",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "严惩违规减持、退市两年追罚，证监会一日两罚释放强监管信号",
+        "link": "https://finance.sina.com.cn/china/2026-08-21/doc-inipavkp1580291.shtml",
+        "time": "08-21 21:06",
+        "src": "第一财经"
       }
     ]
   },
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 52759.21,
-      "pct": -1.32,
-      "chg": -703.84,
-      "amount": "2357235533亿"
+      "price": 53071.16,
+      "pct": 0.59,
+      "chg": 311.95,
+      "amount": "688516293亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26067.17,
-      "pct": -1.0,
-      "chg": -263.92,
-      "amount": "18884717994亿"
+      "price": 26077.61,
+      "pct": 0.04,
+      "chg": 10.44,
+      "amount": "5346677145亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7641.16,
-      "pct": -0.87,
-      "chg": -66.82,
-      "amount": "2068142191亿"
+      "price": 7661.21,
+      "pct": 0.26,
+      "chg": 20.05,
+      "amount": "534245321亿"
     }
   ],
   "anime": {
@@ -466,6 +466,12 @@
   "ai": {
     "news_zh": [
       {
+        "title": "荣耀 Turbo 5G 手机海外发布，骁龙 6 Gen 4 芯片",
+        "link": "https://www.ithome.com/0/992/867.htm",
+        "time": "08-21 21:44",
+        "src": "IT之家"
+      },
+      {
         "title": "AGM 推出 PAD P3 Compact 三防小平板：8.68 英寸屏幕，联发科 Helio G99 芯片",
         "link": "https://www.ithome.com/0/992/833.htm",
         "time": "08-21 19:22",
@@ -490,64 +496,58 @@
         "src": "IT之家"
       },
       {
-        "title": "市场监管总局：将具身智能机器人、固态动力电池等纳入质量强链二期攻关方向",
-        "link": "https://www.ithome.com/0/992/759.htm",
-        "time": "08-21 17:44",
-        "src": "IT之家"
+        "title": "AT&amp;T正借助开源大模型 削减向Anthropic支付的账单",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1574384.htm",
+        "time": "08-21 21:23",
+        "src": "cnBeta.COM"
       },
       {
-        "title": "DeepSeek V4-Flash-Vision-Exp 上线：开启多模态 API 服务，Agent 能力接近 Opus-4.8",
-        "link": "https://www.ithome.com/0/992/755.htm",
-        "time": "08-21 17:21",
-        "src": "IT之家"
+        "title": "美国机器人大会火了 中国机器人却成主角",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1574374.htm",
+        "time": "08-21 19:44",
+        "src": "cnBeta.COM"
       },
       {
-        "title": "软银向 Gravis 投资 2 亿美元，创建筑机器人领域 A 轮纪录",
-        "link": "https://www.ithome.com/0/992/733.htm",
-        "time": "08-21 17:10",
-        "src": "IT之家"
-      },
-      {
-        "title": "2026世界机器人大会具身智能产融实践暨“投创之星”路演举办",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-21/10682035.shtml",
-        "time": "08-21 20:50",
-        "src": "中新网"
+        "title": "三星芯片代工涨价 任天堂Switch2也跟着遭殃？",
+        "link": "https://www.cnbeta.com.tw/articles/game/1574372.htm",
+        "time": "08-21 18:39",
+        "src": "cnBeta.COM"
       }
     ],
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 11852,
+        "likes": 11867,
         "downloads": 1726651,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 2442,
+        "likes": 2450,
         "downloads": 5804917,
         "pipeline": ""
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-        "likes": 774,
+        "likes": 781,
         "downloads": 18193,
         "pipeline": "image-text-to-text"
       },
       {
-        "id": "Qwen/Qwen3.8-27B-FP8",
-        "likes": 645,
-        "downloads": 1939895,
-        "pipeline": "image-text-to-text"
-      },
-      {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-        "likes": 701,
+        "likes": 710,
         "downloads": 107520,
         "pipeline": "image-text-to-text"
       },
       {
+        "id": "Qwen/Qwen3.8-27B-FP8",
+        "likes": 646,
+        "downloads": 1939895,
+        "pipeline": "image-text-to-text"
+      },
+      {
         "id": "MiniMaxAI/MiniMax-Music3",
-        "likes": 1144,
+        "likes": 1147,
         "downloads": 15678,
         "pipeline": "text-to-audio"
       }
@@ -721,6 +721,12 @@
   ],
   "hw_news": [
     {
+      "title": "SSD 与 HDD 价差创纪录，30TB 企业级固态硬盘飙至 22600 美元达机械硬盘 18.6 倍",
+      "link": "https://www.ithome.com/0/992/868.htm",
+      "time": "08-21 22:02",
+      "src": "IT之家"
+    },
+    {
       "title": "优派“VX27G60Z-2K-3”26.5 英寸显示器发售：2K 360Hz QD-OLED、内置电源，3499 元",
       "link": "https://www.ithome.com/0/992/834.htm",
       "time": "08-21 19:33",
@@ -733,28 +739,16 @@
       "src": "IT之家"
     },
     {
-      "title": "狼蛛推出 F87S 三模机械键盘：“双”8kHz 回报率，259~299 元",
-      "link": "https://www.ithome.com/0/992/757.htm",
-      "time": "08-21 17:30",
-      "src": "IT之家"
-    },
-    {
-      "title": "七彩虹 Colorfly“Lunar Roam 月球漫步”一圈六铁入耳式 Hi-Fi 耳机发售，2599 元",
-      "link": "https://www.ithome.com/0/992/745.htm",
-      "time": "08-21 17:15",
-      "src": "IT之家"
-    },
-    {
-      "title": "联想推出异能者 E14H 笔记本：i7-13620H + 16G + 1T 售 5999 元",
-      "link": "https://www.ithome.com/0/992/728.htm",
-      "time": "08-21 17:08",
-      "src": "IT之家"
-    },
-    {
       "title": "解锁开学新装备：神影16 魔龙姬限定款领衔微星笔记本晒单有礼",
       "link": "https://www.gcores.com/articles/218642",
       "time": "08-21 14:16",
       "src": "机核"
+    },
+    {
+      "title": "AMD x86电脑处理器市场份额首破30% 英特尔优势持续缩水",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574392.htm",
+      "time": "08-21 21:29",
+      "src": "cnBeta.COM"
     },
     {
       "title": "Google在Android 17中引入更严格的限制机制 应用吃太多内存将被杀掉进程",
@@ -790,6 +784,12 @@
       "title": "TDS REVIEW | Nothing Ear (3a) 降噪真无线耳机体验",
       "link": "https://sspai.com/post/113586",
       "time": "08-21 11:05",
+      "src": "少数派"
+    },
+    {
+      "title": "派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本",
+      "link": "https://sspai.com/post/113638",
+      "time": "08-20 08:46",
       "src": "少数派"
     }
   ],
@@ -1021,10 +1021,28 @@
       "src": "IT之家"
     },
     {
-      "title": "今年7月欧盟燃油和润滑油价格同比增长16.9%",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-21/10682005.shtml",
-      "time": "08-21 20:30",
+      "title": "“全球新工业革命联盟”落地香港 助力可持续发展",
+      "link": "https://www.chinanews.com.cn/dwq/2026/08-21/10682116.shtml",
+      "time": "08-21 22:07",
       "src": "中新网"
+    },
+    {
+      "title": "海南洋浦港审批便利化新举措提升国际船舶进口岸效率",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-21/10682115.shtml",
+      "time": "08-21 22:06",
+      "src": "中新网"
+    },
+    {
+      "title": "今年前7个月香港国际机场总客运量3840万人次 同比增11.2%",
+      "link": "https://www.chinanews.com.cn/dwq/2026/08-21/10682084.shtml",
+      "time": "08-21 21:34",
+      "src": "中新网"
+    },
+    {
+      "title": "全球智能手机销量下滑 唯独苹果逆势增长表现亮眼",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574394.htm",
+      "time": "08-21 22:17",
+      "src": "cnBeta.COM"
     },
     {
       "title": "Counterpoint报告：欧洲智能手机出货量跌至三年来新低",
@@ -1037,27 +1055,21 @@
       "link": "https://www.cnbeta.com.tw/articles/science/1574324.htm",
       "time": "08-21 10:57",
       "src": "cnBeta.COM"
-    },
-    {
-      "title": "美国点名中国：要求加入针对伊朗的大规模经济制裁行动，中方作出回应",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260821-%E7%BE%8E%E5%9B%BD%E7%82%B9%E5%90%8D%E4%B8%AD%E5%9B%BD-%E8%A6%81%E6%B1%82%E5%8A%A0%E5%85%A5%E9%92%88%E5%AF%B9%E4%BC%8A%E6%9C%97%E7%9A%84%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%BB%8F%E6%B5%8E%E5%88%B6%E8%A3%81%E8%A1%8C%E5%8A%A8%EF%BC%8C%E4%B8%AD%E6%96%B9%E4%BD%9C%E5%87%BA%E5%9B%9E%E5%BA%94",
-      "time": "08-21 16:20",
-      "src": "Getty Images v"
-    },
-    {
-      "title": "俄罗斯在争议岛屿附近进行导弹试射，日本提出抗议并称“不可接受”",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260821-%E4%BF%84%E7%BD%97%E6%96%AF%E8%AE%A1%E5%88%92%E5%9C%A8%E4%BA%89%E8%AE%AE%E5%B2%9B%E5%B1%BF%E9%99%84%E8%BF%91%E8%BF%9B%E8%A1%8C%E5%AF%BC%E5%BC%B9%E8%AF%95%E5%B0%84%EF%BC%8C%E6%97%A5%E6%9C%AC%E6%8F%90%E5%87%BA%E6%8A%97%E8%AE%AE%E5%B9%B6%E7%A7%B0-%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97",
-      "time": "08-21 17:03",
-      "src": "© Kyodo via Re"
-    },
-    {
-      "title": "台湾县市长选举倒数百日 台北市长候选人沈伯洋：100天足以改变一座城市",
-      "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260821-%E5%8F%B0%E6%B9%BE%E5%8E%BF%E5%B8%82%E9%95%BF%E9%80%89%E4%B8%BE%E5%80%92%E6%95%B0%E7%99%BE%E6%97%A5-%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%BF%E5%80%99%E9%80%89%E4%BA%BA%E6%B2%88%E4%BC%AF%E6%B4%8B-100%E5%A4%A9%E8%B6%B3%E4%BB%A5%E6%94%B9%E5%8F%98%E4%B8%80%E5%BA%A7%E5%9F%8E%E5%B8%82",
-      "time": "08-21 16:10",
-      "src": "© 中央社记者翁睿坤摄"
     }
   ],
   "econ_news": [
+    {
+      "title": "SSD 与 HDD 价差创纪录，30TB 企业级固态硬盘飙至 22600 美元达机械硬盘 18.6 倍",
+      "link": "https://www.ithome.com/0/992/868.htm",
+      "time": "08-21 22:02",
+      "src": "IT之家"
+    },
+    {
+      "title": "产品涨价最高 25%：美国政府退税后罗技没退，罗技被消费者集体起诉",
+      "link": "https://www.ithome.com/0/992/861.htm",
+      "time": "08-21 21:18",
+      "src": "IT之家"
+    },
     {
       "title": "长芯博创 2026 年半年度归母净利润 3.21 亿元，同比增长 91.08%",
       "link": "https://www.ithome.com/0/992/842.htm",
@@ -1093,21 +1105,15 @@
       "link": "https://www.ithome.com/0/992/819.htm",
       "time": "08-21 18:42",
       "src": "IT之家"
-    },
-    {
-      "title": "消息称微软 Xbox Series X 主机 25 周年纪念版 11 月上市，899 美元",
-      "link": "https://www.ithome.com/0/992/820.htm",
-      "time": "08-21 18:42",
-      "src": "IT之家"
-    },
-    {
-      "title": "车辆行驶中可能熄火，捷尼赛思召回 9 辆进口 G80 车型",
-      "link": "https://www.ithome.com/0/992/791.htm",
-      "time": "08-21 18:11",
-      "src": "IT之家"
     }
   ],
   "game_news": [
+    {
+      "title": "微软为 Win10/Win11 新版 Outlook 添加经典主题，提升使用体验",
+      "link": "https://www.ithome.com/0/992/860.htm",
+      "time": "08-21 21:13",
+      "src": "IT之家"
+    },
     {
       "title": "索尼 & 亚马逊《战神》剧集因主演受伤重新选角，《银河护卫队》“毁灭者”戴夫 · 巴蒂斯塔加盟饰演奎托斯",
       "link": "https://www.ithome.com/0/992/847.htm",
@@ -1139,12 +1145,6 @@
       "src": "IT之家"
     },
     {
-      "title": "七彩虹 Colorfly“Lunar Roam 月球漫步”一圈六铁入耳式 Hi-Fi 耳机发售，2599 元",
-      "link": "https://www.ithome.com/0/992/745.htm",
-      "time": "08-21 17:15",
-      "src": "IT之家"
-    },
-    {
       "title": "拳头游戏宣布旗下格斗游戏《2XKO》将于年底停止开发",
       "link": "https://www.gcores.com/articles/218634",
       "time": "08-21 16:23",
@@ -1158,6 +1158,13 @@
     }
   ],
   "game_update": [
+    {
+      "title": "微信新版本上线 “按住转文字” 新功能",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574388.htm",
+      "time": "08-21 21:25",
+      "src": "cnBeta.COM",
+      "type": "不停机更新"
+    },
     {
       "title": "《PUBG》42.3版本 PC 8/12 维护(08:00-16:30): 时隔两年新增轻机枪 RPD, 轻机枪换弹-25%/后坐力调整, 主流玩法轮换开启",
       "link": "https://new.qq.com/rain/a/20260811A06SHD00",
@@ -1206,13 +1213,6 @@
       "time": "8-05",
       "type": "停机维护",
       "src": "腾讯官方"
-    },
-    {
-      "title": "《大话西游》手游 8/13 每周例行停机维护(8:00-10:00): 新神兽广陵+小西天副本上线, 周星驰合作宣传片8/15公开",
-      "link": "https://dhxy.163.com/news/update/20260812/19975_1310915.html",
-      "time": "8-13",
-      "type": "停机维护",
-      "src": "网易官网"
     }
   ],
   "mil_news": [
@@ -1223,10 +1223,22 @@
       "src": "ISW"
     },
     {
-      "title": "两岸专家谈台海形势：警惕“敌意螺旋”",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-21/10682016.shtml",
-      "time": "08-21 20:45",
+      "title": "董军会见印度尼西亚国防部长",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-21/10682112.shtml",
+      "time": "08-21 21:58",
       "src": "中新网"
+    },
+    {
+      "title": "伊朗总统表示应结束战争，并认为伊朗现在“处于有利地位”",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260821-%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E8%A1%A8%E7%A4%BA%E5%BA%94%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89%EF%BC%8C%E5%B9%B6%E8%AE%A4%E4%B8%BA%E4%BC%8A%E6%9C%97%E7%8E%B0%E5%9C%A8-%E5%A4%84%E4%BA%8E%E6%9C%89%E5%88%A9%E5%9C%B0%E4%BD%8D",
+      "time": "08-21 22:26",
+      "src": "via REUTERS - "
+    },
+    {
+      "title": "特朗普祭“经济D日”　能否逼伊朗结束战争",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%BE%8E%E5%9B%BD%E4%B8%93%E6%A0%8F/20260821-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A5%AD-%E7%BB%8F%E6%B5%8Ed%E6%97%A5-%E8%83%BD%E5%90%A6%E9%80%BC%E4%BC%8A%E6%9C%97%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89",
+      "time": "08-21 21:17",
+      "src": "法广RFI"
     },
     {
       "title": "美国点名中国：要求加入针对伊朗的大规模经济制裁行动，中方作出回应",
@@ -1251,18 +1263,6 @@
       "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260820-%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%A9%BA%E8%A2%AD%E5%9F%BA%E8%BE%85%E8%87%B3%E5%B0%9116%E6%AD%BB-%E6%AC%A7%E7%9B%9F%E6%89%BF%E8%AF%BA%E5%BC%BA%E5%8C%96%E4%B9%8C%E5%85%8B%E5%85%B0%E9%98%B2%E7%A9%BA",
       "time": "08-21 05:33",
       "src": "REUTERS - Olek"
-    },
-    {
-      "title": "德英法意呼吁以色列停止扩建西岸定居点",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260820-%E5%BE%B7%E8%8B%B1%E6%B3%95%E6%84%8F%E5%91%BC%E5%90%81%E4%BB%A5%E8%89%B2%E5%88%97%E5%81%9C%E6%AD%A2%E6%89%A9%E5%BB%BA%E8%A5%BF%E5%B2%B8%E5%AE%9A%E5%B1%85%E7%82%B9-%E7%AB%8B%E5%8D%B3%E6%92%A4%E5%9B%9E%E5%AE%9A%E5%B1%85%E7%82%B9%E9%A1%B9%E7%9B%AE%E6%8B%9B%E6%A0%87",
-      "time": "08-21 05:37",
-      "src": "REUTERS - AYAL"
-    },
-    {
-      "title": "特朗普暫停伊朗戰事，美國真面臨武器短缺？台海安全堪憂？",
-      "link": "https://www.bbc.com/zhongwen/articles/c05q7n6jn2lo/trad?at_medium=RSS&at_campaign=rss",
-      "time": "07-28 16:43",
-      "src": "BBC中文"
     }
   ]
 }
