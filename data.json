@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21 16:49",
+  "generated_at": "2026-08-21 18:36",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,6 +233,24 @@
     ],
     "news": [
       {
+        "title": "市场监管总局：将具身智能机器人、固态动力电池等纳入质量强链二期攻关方向",
+        "link": "https://www.ithome.com/0/992/759.htm",
+        "time": "08-21 17:44",
+        "src": "IT之家"
+      },
+      {
+        "title": "软银向 Gravis 投资 2 亿美元，创建筑机器人领域 A 轮纪录",
+        "link": "https://www.ithome.com/0/992/733.htm",
+        "time": "08-21 17:10",
+        "src": "IT之家"
+      },
+      {
+        "title": "三星电子：预计 2026 年股东回报剩余资金达 90～110 万亿韩元",
+        "link": "https://www.ithome.com/0/992/725.htm",
+        "time": "08-21 16:58",
+        "src": "IT之家"
+      },
+      {
         "title": "直击 2026 成都国际车展：极氪展台多款车型及“机器人”亮相",
         "link": "https://www.ithome.com/0/992/714.htm",
         "time": "08-21 16:25",
@@ -245,27 +263,15 @@
         "src": "IT之家"
       },
       {
-        "title": "财政部：未来五年将持续加大科技领域投入力度，2025 年研发经费超 3.9 万亿",
-        "link": "https://www.ithome.com/0/992/633.htm",
-        "time": "08-21 14:30",
-        "src": "IT之家"
-      },
-      {
-        "title": "四川“十五五”城市更新：9800余个项目近万亿元投资惠民",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-21/10681822.shtml",
-        "time": "08-21 16:44",
+        "title": "A股周五延续涨势   贵金属板块走强",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-21/10681921.shtml",
+        "time": "08-21 18:26",
         "src": "中新网"
       },
       {
-        "title": "美债突破40万亿美元引发广泛担忧",
-        "link": "https://www.chinanews.com.cn/gj/2026/08-21/10681818.shtml",
-        "time": "08-21 16:36",
-        "src": "中新网"
-      },
-      {
-        "title": "全球媒体聚焦丨“中国正在成为人形机器人技术中心”",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-21/10681804.shtml",
-        "time": "08-21 16:17",
+        "title": "第34届广州博览会设3500平方米机器人表演专区",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-21/10681914.shtml",
+        "time": "08-21 18:21",
         "src": "中新网"
       },
       {
@@ -273,12 +279,6 @@
         "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260820-%E8%B4%B9%E5%8A%A0%E7%BD%97%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E5%80%9F%E5%8A%A9%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%9D%A5%E5%AE%9E%E7%8E%B0%E6%B0%91%E6%97%8F%E5%A4%8D",
         "time": "08-20 22:54",
         "src": "法广RFI"
-      },
-      {
-        "title": "000725，主力资金大举加仓！一周逾83亿元净流入！",
-        "link": "https://finance.sina.com.cn/stock/s/2026-08-21/doc-inipakuq1383755.shtml",
-        "time": "08-21 16:36",
-        "src": ""
       }
     ]
   },
@@ -466,6 +466,36 @@
   "ai": {
     "news_zh": [
       {
+        "title": "OpenAI 回应 Codex 使用限制：sub2api 转售共享会触发风控",
+        "link": "https://www.ithome.com/0/992/767.htm",
+        "time": "08-21 18:05",
+        "src": "IT之家"
+      },
+      {
+        "title": "市场监管总局：将具身智能机器人、固态动力电池等纳入质量强链二期攻关方向",
+        "link": "https://www.ithome.com/0/992/759.htm",
+        "time": "08-21 17:44",
+        "src": "IT之家"
+      },
+      {
+        "title": "DeepSeek V4-Flash-Vision-Exp 上线：开启多模态 API 服务，Agent 能力接近 Opus-4.8",
+        "link": "https://www.ithome.com/0/992/755.htm",
+        "time": "08-21 17:21",
+        "src": "IT之家"
+      },
+      {
+        "title": "软银向 Gravis 投资 2 亿美元，创建筑机器人领域 A 轮纪录",
+        "link": "https://www.ithome.com/0/992/733.htm",
+        "time": "08-21 17:10",
+        "src": "IT之家"
+      },
+      {
+        "title": "OpenAI 旗下 GPT-Image-2 模型现支持生成透明背景图像",
+        "link": "https://www.ithome.com/0/992/722.htm",
+        "time": "08-21 16:53",
+        "src": "IT之家"
+      },
+      {
         "title": "小米 Poco M8x 5G 手机海外发布：骁龙 4 Gen 5 芯片，6.9 寸 720P LCD 屏",
         "link": "https://www.ithome.com/0/992/719.htm",
         "time": "08-21 16:37",
@@ -482,74 +512,44 @@
         "link": "https://www.ithome.com/0/992/712.htm",
         "time": "08-21 16:18",
         "src": "IT之家"
-      },
-      {
-        "title": "消息称 NVIDIA 与韩国 AI 芯片企业 Rebellions 展开合作初步讨论",
-        "link": "https://www.ithome.com/0/992/711.htm",
-        "time": "08-21 16:13",
-        "src": "IT之家"
-      },
-      {
-        "title": "浙江杭州一男子轻信 AI 推荐的“散心路线”，独自攀登“浙西三尖”童公尖最终被困深山",
-        "link": "https://www.ithome.com/0/992/710.htm",
-        "time": "08-21 16:12",
-        "src": "IT之家"
-      },
-      {
-        "title": "雷鸟 iO AI 眼镜图赏：好看，也好戴",
-        "link": "https://www.ithome.com/0/992/690.htm",
-        "time": "08-21 15:55",
-        "src": "IT之家"
-      },
-      {
-        "title": "众擎 CEO 回应被机器人“一脚踹翻”：非摆拍，真进化到这个程度",
-        "link": "https://www.ithome.com/0/992/665.htm",
-        "time": "08-21 15:43",
-        "src": "IT之家"
-      },
-      {
-        "title": "OpenAI 全面开源 Codex Harness",
-        "link": "https://www.ithome.com/0/992/656.htm",
-        "time": "08-21 15:18",
-        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 11823,
+        "likes": 11841,
         "downloads": 1726651,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 2412,
+        "likes": 2428,
         "downloads": 5804917,
         "pipeline": ""
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-        "likes": 746,
+        "likes": 765,
         "downloads": 18193,
         "pipeline": "image-text-to-text"
       },
       {
-        "id": "MiniMaxAI/MiniMax-Music3",
-        "likes": 1139,
-        "downloads": 15678,
-        "pipeline": "text-to-audio"
-      },
-      {
         "id": "Qwen/Qwen3.8-27B-FP8",
-        "likes": 640,
+        "likes": 642,
         "downloads": 1939895,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-        "likes": 692,
+        "likes": 697,
         "downloads": 107520,
         "pipeline": "image-text-to-text"
+      },
+      {
+        "id": "MiniMaxAI/MiniMax-Music3",
+        "likes": 1144,
+        "downloads": 15678,
+        "pipeline": "text-to-audio"
       }
     ],
     "models": [
@@ -721,6 +721,24 @@
   ],
   "hw_news": [
     {
+      "title": "狼蛛推出 F87S 三模机械键盘：“双”8kHz 回报率，259~299 元",
+      "link": "https://www.ithome.com/0/992/757.htm",
+      "time": "08-21 17:30",
+      "src": "IT之家"
+    },
+    {
+      "title": "七彩虹 Colorfly“Lunar Roam 月球漫步”一圈六铁入耳式 Hi-Fi 耳机发售，2599 元",
+      "link": "https://www.ithome.com/0/992/745.htm",
+      "time": "08-21 17:15",
+      "src": "IT之家"
+    },
+    {
+      "title": "联想推出异能者 E14H 笔记本：i7-13620H + 16G + 1T 售 5999 元",
+      "link": "https://www.ithome.com/0/992/728.htm",
+      "time": "08-21 17:08",
+      "src": "IT之家"
+    },
+    {
       "title": "消息称 NVIDIA 与韩国 AI 芯片企业 Rebellions 展开合作初步讨论",
       "link": "https://www.ithome.com/0/992/711.htm",
       "time": "08-21 16:13",
@@ -739,46 +757,10 @@
       "src": "IT之家"
     },
     {
-      "title": "美光 CEO 桑杰 · 梅赫罗特拉：AI 已彻底改变内存行业周期性格局",
-      "link": "https://www.ithome.com/0/992/645.htm",
-      "time": "08-21 15:00",
-      "src": "IT之家"
-    },
-    {
-      "title": "技嘉正式发布 FO32U24G 显示器：首发指导价 5990 元，9 月中旬上市",
-      "link": "https://www.ithome.com/0/992/637.htm",
-      "time": "08-21 14:45",
-      "src": "IT之家"
-    },
-    {
-      "title": "小米 Poco F9 Ultra 手机现身 Geekbench，16GB 内存 + 骁龙 8 Elite Gen 5 芯片",
-      "link": "https://www.ithome.com/0/992/635.htm",
-      "time": "08-21 14:44",
-      "src": "IT之家"
-    },
-    {
-      "title": "华硕上架 2026 款 ProArt 创 16 笔记本：锐龙 AI 9 H 465 + 64G + 2T + RTX5070 售 22999 元",
-      "link": "https://www.ithome.com/0/992/634.htm",
-      "time": "08-21 14:42",
-      "src": "IT之家"
-    },
-    {
-      "title": "三星显示 IMID 2026 首展 16\" 2.5K 300Hz 笔电 OLED 显示面板",
-      "link": "https://www.ithome.com/0/992/627.htm",
-      "time": "08-21 14:12",
-      "src": "IT之家"
-    },
-    {
-      "title": "CMF by Nothing 发布 TWS 耳机 CMF Buds Neo，可选撞色设计",
-      "link": "https://www.ithome.com/0/992/609.htm",
-      "time": "08-21 13:51",
-      "src": "IT之家"
-    },
-    {
-      "title": "鸿蒙智行智界 RX 轿跑 SUV 实车亮相 2026 成都车展：随动中控屏、尊界同款双目后视镜等",
-      "link": "https://www.ithome.com/0/992/608.htm",
-      "time": "08-21 13:46",
-      "src": "IT之家"
+      "title": "解锁开学新装备：神影16 魔龙姬限定款领衔微星笔记本晒单有礼",
+      "link": "https://www.gcores.com/articles/218642",
+      "time": "08-21 14:16",
+      "src": "机核"
     },
     {
       "title": "Google在Android 17中引入更严格的限制机制 应用吃太多内存将被杀掉进程",
@@ -791,10 +773,34 @@
       "link": "https://www.cnbeta.com.tw/articles/tech/1574352.htm",
       "time": "08-21 16:24",
       "src": "cnBeta.COM"
+    },
+    {
+      "title": "导热垫保护膜没撕 RTX 3070风扇狂转近5年",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574350.htm",
+      "time": "08-21 16:24",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "大力没出奇迹！显卡DP线拔不出来硬拽 接头干断",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574348.htm",
+      "time": "08-21 16:23",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "价格暴涨劝退玩家 7月国内显卡出货量同比跌幅达17%",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574332.htm",
+      "time": "08-21 16:00",
+      "src": "cnBeta.COM"
     }
   ],
   "kojima": {
     "news": [
+      {
+        "title": "老蛇归来，值得期待：小评《合金装备 大师合集Vol.2》",
+        "link": "https://www.gcores.com/articles/218638",
+        "time": "08-21 18:20",
+        "src": "机核"
+      },
       {
         "title": "小岛秀夫客串日剧《VIVANT》第二季第11集, 饰演警视总监\"绵贯贤\", 摘眼镜剃胡造型大反转",
         "link": "https://dy.163.com/article/L2RI4BGS0526K1KN.html",
@@ -1021,49 +1027,85 @@
       "src": "IT之家"
     },
     {
-      "title": "全球首富马斯克：在 AI 领域，中国是迄今最强竞争对手",
-      "link": "https://www.ithome.com/0/992/654.htm",
-      "time": "08-21 15:15",
-      "src": "IT之家"
-    },
-    {
-      "title": "全球限 250 辆：特斯拉 Model S Plaid Signature #001 首车养护视频曝光",
-      "link": "https://www.ithome.com/0/992/644.htm",
-      "time": "08-21 14:58",
-      "src": "IT之家"
-    },
-    {
-      "title": "网易孵化的芯片公司谦合益邦：自研全球首款 4 层 3D DRAM 堆叠存算一体芯片成功回片并点亮",
-      "link": "https://www.ithome.com/0/992/626.htm",
-      "time": "08-21 14:12",
-      "src": "IT之家"
-    },
-    {
-      "title": "科威特外交大臣杰拉赫将访华",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-21/10681811.shtml",
-      "time": "08-21 16:28",
+      "title": "新疆苗木花卉受中亚客商青睐",
+      "link": "https://www.chinanews.com.cn/ydyl/2026/08-21/10681920.shtml",
+      "time": "08-21 18:26",
       "src": "中新网"
     },
     {
-      "title": "中国“人文圣山”庐山“悠”约全球客",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-21/10681790.shtml",
-      "time": "08-21 16:26",
-      "src": "中新网"
+      "title": "Counterpoint报告：欧洲智能手机出货量跌至三年来新低",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574356.htm",
+      "time": "08-21 16:37",
+      "src": "cnBeta.COM"
     },
     {
-      "title": "非洲青年门杜：中国告诉我“创新不止 没有句号”",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-21/10681807.shtml",
-      "time": "08-21 16:25",
-      "src": "中新网"
+      "title": "中国专利申请量领先全球 AI等核心专利位居第一",
+      "link": "https://www.cnbeta.com.tw/articles/science/1574324.htm",
+      "time": "08-21 10:57",
+      "src": "cnBeta.COM"
     },
     {
-      "title": "全球媒体聚焦丨“中国正在成为人形机器人技术中心”",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-21/10681804.shtml",
-      "time": "08-21 16:17",
-      "src": "中新网"
+      "title": "美国点名中国：要求加入针对伊朗的大规模经济制裁行动，中方作出回应",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260821-%E7%BE%8E%E5%9B%BD%E7%82%B9%E5%90%8D%E4%B8%AD%E5%9B%BD-%E8%A6%81%E6%B1%82%E5%8A%A0%E5%85%A5%E9%92%88%E5%AF%B9%E4%BC%8A%E6%9C%97%E7%9A%84%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%BB%8F%E6%B5%8E%E5%88%B6%E8%A3%81%E8%A1%8C%E5%8A%A8%EF%BC%8C%E4%B8%AD%E6%96%B9%E4%BD%9C%E5%87%BA%E5%9B%9E%E5%BA%94",
+      "time": "08-21 16:20",
+      "src": "Getty Images v"
+    },
+    {
+      "title": "俄罗斯计划在争议岛屿附近进行导弹试射，日本提出抗议并称“不可接受”",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260821-%E4%BF%84%E7%BD%97%E6%96%AF%E8%AE%A1%E5%88%92%E5%9C%A8%E4%BA%89%E8%AE%AE%E5%B2%9B%E5%B1%BF%E9%99%84%E8%BF%91%E8%BF%9B%E8%A1%8C%E5%AF%BC%E5%BC%B9%E8%AF%95%E5%B0%84%EF%BC%8C%E6%97%A5%E6%9C%AC%E6%8F%90%E5%87%BA%E6%8A%97%E8%AE%AE%E5%B9%B6%E7%A7%B0-%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97",
+      "time": "08-21 17:03",
+      "src": "© Kyodo via Re"
+    },
+    {
+      "title": "台湾县市长选举倒数百日 台北市长候选人沈伯洋：100天足以改变一座城市",
+      "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260821-%E5%8F%B0%E6%B9%BE%E5%8E%BF%E5%B8%82%E9%95%BF%E9%80%89%E4%B8%BE%E5%80%92%E6%95%B0%E7%99%BE%E6%97%A5-%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%BF%E5%80%99%E9%80%89%E4%BA%BA%E6%B2%88%E4%BC%AF%E6%B4%8B-100%E5%A4%A9%E8%B6%B3%E4%BB%A5%E6%94%B9%E5%8F%98%E4%B8%80%E5%BA%A7%E5%9F%8E%E5%B8%82",
+      "time": "08-21 16:10",
+      "src": "© 中央社记者翁睿坤摄"
+    },
+    {
+      "title": "联合国安理会再次就秘书长换届举行意向性投票，多国力推女性出任",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260821-%E8%81%94%E5%90%88%E5%9B%BD%E5%AE%89%E7%90%86%E4%BC%9A%E5%86%8D%E6%AC%A1%E5%B0%B1%E7%A7%98%E4%B9%A6%E9%95%BF%E6%8D%A2%E5%B1%8A%E4%B8%BE%E8%A1%8C%E6%84%8F%E5%90%91%E6%80%A7%E6%8A%95%E7%A5%A8%EF%BC%8C%E5%A4%9A%E5%9B%BD%E5%8A%9B%E6%8E%A8%E5%A5%B3%E6%80%A7%E5%87%BA%E4%BB%BB",
+      "time": "08-21 15:55",
+      "src": "AP - Ted Shaff"
     }
   ],
   "econ_news": [
+    {
+      "title": "车辆行驶中可能熄火，捷尼赛思召回 9 辆进口 G80 车型",
+      "link": "https://www.ithome.com/0/992/791.htm",
+      "time": "08-21 18:11",
+      "src": "IT之家"
+    },
+    {
+      "title": "起动机存在起火风险，丰田召回 18 辆进口 SUPRA 2.0T 汽车",
+      "link": "https://www.ithome.com/0/992/796.htm",
+      "time": "08-21 18:12",
+      "src": "IT之家"
+    },
+    {
+      "title": "贝壳 2026 财年第二财季归母净利润 26.23 亿元，同比增长 100.8%",
+      "link": "https://www.ithome.com/0/992/765.htm",
+      "time": "08-21 18:04",
+      "src": "IT之家"
+    },
+    {
+      "title": "中兴通讯 2026 年半年度归母净利润 27.53 亿元，同比下降 45.57%",
+      "link": "https://www.ithome.com/0/992/763.htm",
+      "time": "08-21 17:59",
+      "src": "IT之家"
+    },
+    {
+      "title": "消息称日本经产省将为支持 Rapidus 再编列 1500 亿日元预算",
+      "link": "https://www.ithome.com/0/992/760.htm",
+      "time": "08-21 17:44",
+      "src": "IT之家"
+    },
+    {
+      "title": "软银向 Gravis 投资 2 亿美元，创建筑机器人领域 A 轮纪录",
+      "link": "https://www.ithome.com/0/992/733.htm",
+      "time": "08-21 17:10",
+      "src": "IT之家"
+    },
     {
       "title": "末日丧尸生存游戏《DayZ》登陆任天堂 Switch2 平台：收录萨哈尔火山群岛深冬地图，首发价 59.49 美元",
       "link": "https://www.ithome.com/0/992/713.htm",
@@ -1075,45 +1117,15 @@
       "link": "https://www.ithome.com/0/992/707.htm",
       "time": "08-21 16:03",
       "src": "IT之家"
-    },
-    {
-      "title": "“僵尸卡”漏洞曝光：2 部安卓手机中继复活过期银行卡，演示成功支付 500 美元",
-      "link": "https://www.ithome.com/0/992/660.htm",
-      "time": "08-21 15:33",
-      "src": "IT之家"
-    },
-    {
-      "title": "财政部：未来五年将持续加大科技领域投入力度，2025 年研发经费超 3.9 万亿",
-      "link": "https://www.ithome.com/0/992/633.htm",
-      "time": "08-21 14:30",
-      "src": "IT之家"
-    },
-    {
-      "title": "加州通过美国首个替换轮胎能效标准，每套轮胎可省 179 美元燃油费",
-      "link": "https://www.ithome.com/0/992/612.htm",
-      "time": "08-21 14:00",
-      "src": "IT之家"
-    },
-    {
-      "title": "财政部：1—7月全国一般公共预算收入同比增长5.8%",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-21/10681820.shtml",
-      "time": "08-21 16:38",
-      "src": "中新网"
-    },
-    {
-      "title": "美债突破40万亿美元引发广泛担忧",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-21/10681818.shtml",
-      "time": "08-21 16:36",
-      "src": "中新网"
-    },
-    {
-      "title": "特斯拉停售太阳能屋顶瓦片 该产品已不具备经济可行性",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1574328.htm",
-      "time": "08-21 15:54",
-      "src": "cnBeta.COM"
     }
   ],
   "game_news": [
+    {
+      "title": "七彩虹 Colorfly“Lunar Roam 月球漫步”一圈六铁入耳式 Hi-Fi 耳机发售，2599 元",
+      "link": "https://www.ithome.com/0/992/745.htm",
+      "time": "08-21 17:15",
+      "src": "IT之家"
+    },
     {
       "title": "消息称《GTA 6》泄露源头为 R 星印度办公室，黑客组织 Cyberleek 已获得游戏 Xbox 开发副本",
       "link": "https://www.ithome.com/0/992/718.htm",
@@ -1154,12 +1166,6 @@
       "title": "【抽奖】怪诞肉鸽幸存者like游戏《废土幸存者：爆心英雄》现已登陆PC及主机平台",
       "link": "https://www.gcores.com/articles/218628",
       "time": "08-21 14:17",
-      "src": "机核"
-    },
-    {
-      "title": "《又一个僵尸幸存者》现已脱离抢先体验并正式发售",
-      "link": "https://www.gcores.com/articles/218627",
-      "time": "08-21 13:54",
       "src": "机核"
     }
   ],
@@ -1229,16 +1235,22 @@
       "src": "ISW"
     },
     {
-      "title": "南部战区回应菲方飞机非法侵入中国黄岩岛领空：依法依规跟踪监视、喊话警告",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-21/10681810.shtml",
-      "time": "08-21 16:26",
+      "title": "泰媒：泰国王后素提达参加“鹰狮”战机训练",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-21/10681910.shtml",
+      "time": "08-21 17:55",
       "src": "中新网"
     },
     {
-      "title": "南海热带低压影响广东 多地狂风暴雨",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-21/10681800.shtml",
-      "time": "08-21 16:19",
-      "src": "中新网"
+      "title": "美国点名中国：要求加入针对伊朗的大规模经济制裁行动，中方作出回应",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260821-%E7%BE%8E%E5%9B%BD%E7%82%B9%E5%90%8D%E4%B8%AD%E5%9B%BD-%E8%A6%81%E6%B1%82%E5%8A%A0%E5%85%A5%E9%92%88%E5%AF%B9%E4%BC%8A%E6%9C%97%E7%9A%84%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%BB%8F%E6%B5%8E%E5%88%B6%E8%A3%81%E8%A1%8C%E5%8A%A8%EF%BC%8C%E4%B8%AD%E6%96%B9%E4%BD%9C%E5%87%BA%E5%9B%9E%E5%BA%94",
+      "time": "08-21 16:20",
+      "src": "Getty Images v"
+    },
+    {
+      "title": "俄罗斯计划在争议岛屿附近进行导弹试射，日本提出抗议并称“不可接受”",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260821-%E4%BF%84%E7%BD%97%E6%96%AF%E8%AE%A1%E5%88%92%E5%9C%A8%E4%BA%89%E8%AE%AE%E5%B2%9B%E5%B1%BF%E9%99%84%E8%BF%91%E8%BF%9B%E8%A1%8C%E5%AF%BC%E5%BC%B9%E8%AF%95%E5%B0%84%EF%BC%8C%E6%97%A5%E6%9C%AC%E6%8F%90%E5%87%BA%E6%8A%97%E8%AE%AE%E5%B9%B6%E7%A7%B0-%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97",
+      "time": "08-21 17:03",
+      "src": "© Kyodo via Re"
     },
     {
       "title": "美国将对伊朗祭出史上最严厉制裁 贝森特敦促中国配合",
@@ -1263,12 +1275,6 @@
       "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260820-%E4%BF%84%E5%86%9B%E5%A4%9C%E8%A2%AD%E5%9F%BA%E8%BE%8516%E4%BA%BA%E9%81%87%E9%9A%BE-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E8%B0%B4%E8%B4%A3%E8%8E%AB%E6%96%AF%E7%A7%91%E5%8D%87%E7%BA%A7%E5%86%B2%E7%AA%81",
       "time": "08-20 22:08",
       "src": "REUTERS - Vale"
-    },
-    {
-      "title": "特朗普宣布今年将与金正恩会面后 朝鲜发射了10来枚短程导弹",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260820-%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E4%BB%8A%E5%B9%B4%E5%B0%86%E4%B8%8E%E9%87%91%E6%AD%A3%E6%81%A9%E4%BC%9A%E9%9D%A2%E5%90%8E-%E6%9C%9D%E9%B2%9C%E5%8F%91%E5%B0%84%E4%BA%8610%E6%9D%A5%E6%9E%9A%E7%9F%AD%E7%A8%8B%E5%AF%BC%E5%BC%B9",
-      "time": "08-20 19:57",
-      "src": "KCNA via KNS v"
     }
   ]
 }
