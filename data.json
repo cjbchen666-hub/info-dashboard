@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22 00:41",
+  "generated_at": "2026-08-22 02:47",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -245,9 +245,9 @@
         "src": "IT之家"
       },
       {
-        "title": "中国人民银行将在香港发行300亿元人民币央行票据",
-        "link": "https://www.chinanews.com.cn/dwq/2026/08-21/10682093.shtml",
-        "time": "08-21 21:53",
+        "title": "日本新财年预算申请额或超130万亿日元",
+        "link": "https://www.chinanews.com.cn/gj/2026/08-22/10682134.shtml",
+        "time": "08-22 01:11",
         "src": "中新网"
       },
       {
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 53181.71,
-      "pct": 0.8,
-      "chg": 422.5,
-      "amount": "1118201867亿"
+      "price": 53257.07,
+      "pct": 0.94,
+      "chg": 497.86,
+      "amount": "1452316055亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26212.05,
-      "pct": 0.56,
-      "chg": 144.88,
-      "amount": "8903565163亿"
+      "price": 26157.7,
+      "pct": 0.35,
+      "chg": 90.53,
+      "amount": "11720987946亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7683.3,
-      "pct": 0.55,
-      "chg": 42.14,
-      "amount": "934651333亿"
+      "price": 7672.81,
+      "pct": 0.41,
+      "chg": 31.65,
+      "amount": "1261900817亿"
     }
   ],
   "anime": {
@@ -402,6 +402,15 @@
         "rank": null
       },
       {
+        "id": 602733,
+        "name": "才女のお世話 高嶺の花だらけな名門校で、学院一のお嬢様（生活能力皆無）を陰ながらお世話することになりました",
+        "name_cn": "才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐",
+        "score": 6.0,
+        "img": "http://lain.bgm.tv/pic/cover/c/bd/74/602733_X0NNo.jpg",
+        "air_date": "2026-07-04",
+        "rank": 7587
+      },
+      {
         "id": 491578,
         "name": "择日飞升",
         "name_cn": "择日飞升",
@@ -409,15 +418,6 @@
         "img": "http://lain.bgm.tv/pic/cover/c/ff/2f/491578_whDt3.jpg",
         "air_date": "2026-07-18",
         "rank": null
-      },
-      {
-        "id": 602733,
-        "name": "才女のお世話 高嶺の花だらけな名門校で、学院一のお嬢様（生活能力皆無）を陰ながらお世話することになりました",
-        "name_cn": "才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐",
-        "score": 5.9,
-        "img": "http://lain.bgm.tv/pic/cover/c/bd/74/602733_X0NNo.jpg",
-        "air_date": "2026-07-04",
-        "rank": 7587
       },
       {
         "id": 529723,
@@ -589,37 +589,37 @@
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 11886,
+        "likes": 11909,
         "downloads": 1726651,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 2462,
+        "likes": 2473,
         "downloads": 5804917,
         "pipeline": ""
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-        "likes": 786,
+        "likes": 792,
         "downloads": 18193,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-        "likes": 716,
+        "likes": 720,
         "downloads": 107520,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "MiniMaxAI/MiniMax-Music3",
-        "likes": 1150,
+        "likes": 1151,
         "downloads": 15678,
         "pipeline": "text-to-audio"
       },
       {
         "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-        "likes": 547,
+        "likes": 552,
         "downloads": 1126222,
         "pipeline": "text-generation"
       }
@@ -1093,6 +1093,24 @@
       "src": "IT之家"
     },
     {
+      "title": "今年7月欧盟油价同比增长16.9%",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-22/10682131.shtml",
+      "time": "08-22 01:23",
+      "src": "中新网"
+    },
+    {
+      "title": "伊朗外长：美国对伊经济施压行动“注定失败”",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-22/10682136.shtml",
+      "time": "08-22 01:22",
+      "src": "中新网"
+    },
+    {
+      "title": "国际足联就世界杯期间多起事件对阿根廷足协作出处罚",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-22/10682133.shtml",
+      "time": "08-22 01:09",
+      "src": "中新网"
+    },
+    {
       "title": "土耳其请求国际刑警组织对内塔尼亚胡发出红色通缉令",
       "link": "https://www.chinanews.com.cn/gj/2026/08-21/10682120.shtml",
       "time": "08-21 23:06",
@@ -1109,24 +1127,6 @@
       "link": "https://www.chinanews.com.cn/cj/2026/08-21/10682115.shtml",
       "time": "08-21 22:06",
       "src": "中新网"
-    },
-    {
-      "title": "全球智能手机销量下滑 唯独苹果逆势增长表现亮眼",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1574394.htm",
-      "time": "08-21 22:17",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "Counterpoint报告：欧洲智能手机出货量跌至三年来新低",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1574356.htm",
-      "time": "08-21 16:37",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "中国专利申请量领先全球 AI等核心专利位居第一",
-      "link": "https://www.cnbeta.com.tw/articles/science/1574324.htm",
-      "time": "08-21 10:57",
-      "src": "cnBeta.COM"
     }
   ],
   "econ_news": [
@@ -1295,6 +1295,12 @@
       "src": "ISW"
     },
     {
+      "title": "伊朗外长：美国对伊经济施压行动“注定失败”",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-22/10682136.shtml",
+      "time": "08-22 01:22",
+      "src": "中新网"
+    },
+    {
       "title": "董军会见印度尼西亚国防部长",
       "link": "https://www.chinanews.com.cn/gn/2026/08-21/10682112.shtml",
       "time": "08-21 21:58",
@@ -1329,12 +1335,6 @@
       "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260820-%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%AF%B9%E4%BC%8A%E6%9C%97%E7%A5%AD%E5%87%BA%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%B8%A5%E5%8E%89%E5%88%B6%E8%A3%81-%E7%BE%8E%E8%B4%A2%E9%95%BF%E6%95%A6%E4%BF%83%E4%B8%AD%E5%9B%BD%E9%85%8D%E5%90%88",
       "time": "08-21 05:23",
       "src": "REUTERS - Kevi"
-    },
-    {
-      "title": "俄罗斯大规模空袭基辅至少16死 欧盟承诺强化乌克兰防空",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260820-%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%A9%BA%E8%A2%AD%E5%9F%BA%E8%BE%85%E8%87%B3%E5%B0%9116%E6%AD%BB-%E6%AC%A7%E7%9B%9F%E6%89%BF%E8%AF%BA%E5%BC%BA%E5%8C%96%E4%B9%8C%E5%85%8B%E5%85%B0%E9%98%B2%E7%A9%BA",
-      "time": "08-21 05:33",
-      "src": "REUTERS - Olek"
     }
   ]
 }
