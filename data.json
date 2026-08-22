@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22 12:40",
+  "generated_at": "2026-08-22 14:51",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,6 +233,18 @@
     ],
     "news": [
       {
+        "title": "新石器 CEO 余恩源：目标构建由 1000 万辆无人车和 1 亿个机器人组成的无人物流网络",
+        "link": "https://www.ithome.com/0/992/985.htm",
+        "time": "08-22 13:57",
+        "src": "IT之家"
+      },
+      {
+        "title": "荣耀机器人闪电百米跑出 9 秒 32，打破人类记录",
+        "link": "https://www.ithome.com/0/992/981.htm",
+        "time": "08-22 13:34",
+        "src": "IT之家"
+      },
+      {
         "title": "冲击全球最大 IPO：曝 Anthropic 招股书把美国公众对 AI 的抵制情绪列为关键风险",
         "link": "https://www.ithome.com/0/992/941.htm",
         "time": "08-22 11:35",
@@ -251,15 +263,9 @@
         "src": "IT之家"
       },
       {
-        "title": "下半年以来千亿元级资金借道股票型ETF布局A股",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-22/10682211.shtml",
-        "time": "08-22 11:08",
-        "src": "中新网"
-      },
-      {
-        "title": "首超三十万亿 今年财政支出预算更多“投资于人”",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-22/10682209.shtml",
-        "time": "08-22 11:02",
+        "title": "机器人下一步要学啥？工程师：学会听懂人的“弦外之音”",
+        "link": "http://www.chinanews.com.cn/cj/shipin/cns/2026/08-22/news1066174.shtml",
+        "time": "08-22 13:27",
         "src": "中新网"
       },
       {
@@ -272,12 +278,6 @@
         "title": "Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备",
         "link": "https://www.cnbeta.com.tw/articles/tech/1574428.htm",
         "time": "08-22 08:24",
-        "src": "cnBeta.COM"
-      },
-      {
-        "title": "英伟达提出分布式算力计划：16块顶级GPU免费上墙 让普通住宅变身微型数据中心",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1574420.htm",
-        "time": "08-22 07:55",
         "src": "cnBeta.COM"
       }
     ]
@@ -538,6 +538,18 @@
   "ai": {
     "news_zh": [
       {
+        "title": "新石器 CEO 余恩源：目标构建由 1000 万辆无人车和 1 亿个机器人组成的无人物流网络",
+        "link": "https://www.ithome.com/0/992/985.htm",
+        "time": "08-22 13:57",
+        "src": "IT之家"
+      },
+      {
+        "title": "荣耀机器人闪电百米跑出 9 秒 32，打破人类记录",
+        "link": "https://www.ithome.com/0/992/981.htm",
+        "time": "08-22 13:34",
+        "src": "IT之家"
+      },
+      {
         "title": "OpenAI 下调 GPT-5.6 Sol 模型价格，API 与 Credit 费用降幅超 20%",
         "link": "https://www.ithome.com/0/992/969.htm",
         "time": "08-22 12:01",
@@ -572,54 +584,42 @@
         "link": "https://www.ithome.com/0/992/909.htm",
         "time": "08-22 08:50",
         "src": "IT之家"
-      },
-      {
-        "title": "微软 Win11 将精细化管理统一内存，调控图形和 AI 预留容量",
-        "link": "https://www.ithome.com/0/992/904.htm",
-        "time": "08-22 08:21",
-        "src": "IT之家"
-      },
-      {
-        "title": "IT早报 0822：特斯拉、零跑、吉利等 9 大厂商因门把手隐患召回车辆；曝高通骁龙新款芯片命名为至尊 / 超级至尊版；1.48 万元“问界 M0.9”儿童车预售...",
-        "link": "https://www.ithome.com/0/992/899.htm",
-        "time": "08-22 07:55",
-        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 11986,
+        "likes": 11998,
         "downloads": 1726651,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 2524,
+        "likes": 2535,
         "downloads": 5804917,
         "pipeline": ""
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-        "likes": 848,
+        "likes": 872,
         "downloads": 107520,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-        "likes": 829,
+        "likes": 838,
         "downloads": 18193,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-        "likes": 576,
+        "likes": 579,
         "downloads": 1126222,
         "pipeline": "text-generation"
       },
       {
         "id": "MiniMaxAI/MiniMax-Music3",
-        "likes": 1166,
+        "likes": 1167,
         "downloads": 15678,
         "pipeline": "text-to-audio"
       }
@@ -793,15 +793,15 @@
   ],
   "hw_news": [
     {
-      "title": "微软 Win11 将精细化管理统一内存，调控图形和 AI 预留容量",
-      "link": "https://www.ithome.com/0/992/904.htm",
-      "time": "08-22 08:21",
+      "title": "惠普 OmniBook 3 笔记本海外发售：骁龙 X 处理器、8GB 内存，499 美元",
+      "link": "https://www.ithome.com/0/992/999.htm",
+      "time": "08-22 14:45",
       "src": "IT之家"
     },
     {
-      "title": "苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热",
-      "link": "https://www.ithome.com/0/992/892.htm",
-      "time": "08-22 07:24",
+      "title": "vivo V70 Lite 4G 手机规格曝光：展锐 T7300 处理器、配 8GB RAM",
+      "link": "https://www.ithome.com/0/992/997.htm",
+      "time": "08-22 14:37",
       "src": "IT之家"
     },
     {
@@ -1105,25 +1105,43 @@
       "src": "IT之家"
     },
     {
-      "title": "奇瑞全新艾瑞泽 7 全球首发亮相，提供电混、燃油版本",
-      "link": "https://www.ithome.com/0/992/905.htm",
-      "time": "08-22 08:23",
-      "src": "IT之家"
-    },
-    {
-      "title": "5G 商用网络实现十厘米级别定位精度，爱立信、联发科完成全球首例高精度户外定位端到端测试",
-      "link": "https://www.ithome.com/0/992/903.htm",
-      "time": "08-22 08:14",
-      "src": "IT之家"
-    },
-    {
-      "title": "特朗普称若输掉中期选举他将被弹劾",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-22/10682237.shtml",
-      "time": "08-22 12:12",
+      "title": "第十三届哈尔滨朝鲜族民俗文化展演举行",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-22/10682272.shtml",
+      "time": "08-22 14:26",
       "src": "中新网"
+    },
+    {
+      "title": "（活力中国调研行）多元业态助力平潭国际旅游岛建设",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-22/10682258.shtml",
+      "time": "08-22 13:25",
+      "src": "中新网"
+    },
+    {
+      "title": "全球智能手机销量下滑 唯独苹果逆势增长表现亮眼",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574394.htm",
+      "time": "08-21 22:17",
+      "src": "cnBeta.COM"
     }
   ],
   "econ_news": [
+    {
+      "title": "惠普 OmniBook 3 笔记本海外发售：骁龙 X 处理器、8GB 内存，499 美元",
+      "link": "https://www.ithome.com/0/992/999.htm",
+      "time": "08-22 14:45",
+      "src": "IT之家"
+    },
+    {
+      "title": "乘联分会崔东树：2026 年 1~7 月我国汽车出口 1108 亿美元，同比增 55%",
+      "link": "https://www.ithome.com/0/992/986.htm",
+      "time": "08-22 13:58",
+      "src": "IT之家"
+    },
+    {
+      "title": "乘联分会预估 8 月国内狭义乘用车零售 158.0 万辆环比增 8.1%，新能源渗透率 65.1%",
+      "link": "https://www.ithome.com/0/992/982.htm",
+      "time": "08-22 13:43",
+      "src": "IT之家"
+    },
     {
       "title": "爆料称索尼 PS6 游戏掌机售价恐超 600 美元",
       "link": "https://www.ithome.com/0/992/971.htm",
@@ -1137,43 +1155,31 @@
       "src": "IT之家"
     },
     {
-      "title": "通过自动化系统封禁司机账户，Uber 优步被荷兰罚款 8.25 亿欧元",
-      "link": "https://www.ithome.com/0/992/894.htm",
-      "time": "08-22 07:43",
-      "src": "IT之家"
-    },
-    {
-      "title": "未达贸易协议 美国将对部分加拿大商品征50%关税",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-22/10682244.shtml",
-      "time": "08-22 12:33",
-      "src": "中新网"
-    },
-    {
-      "title": "加拿大称暂停与美贸易谈判 将对美实施对等关税措施",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-22/10682227.shtml",
-      "time": "08-22 11:52",
-      "src": "中新网"
-    },
-    {
-      "title": "前7月湖南对东盟出口汽车63.5亿元 同比增长15%",
-      "link": "https://www.chinanews.com.cn/aseaninfo/2026/08-22/10682215.shtml",
-      "time": "08-22 11:38",
-      "src": "中新网"
-    },
-    {
-      "title": "首超三十万亿 今年财政支出预算更多“投资于人”",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-22/10682209.shtml",
-      "time": "08-22 11:02",
-      "src": "中新网"
-    },
-    {
       "title": "收到退税后不返现给用户 罗技被美国消费者集体起诉",
       "link": "https://www.cnbeta.com.tw/articles/tech/1574436.htm",
       "time": "08-22 09:27",
       "src": "cnBeta.COM"
+    },
+    {
+      "title": "Anthropic IPO融资额或超1000亿美元、估值2万亿美元",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574434.htm",
+      "time": "08-22 09:26",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574430.htm",
+      "time": "08-22 08:24",
+      "src": "cnBeta.COM"
     }
   ],
   "game_news": [
+    {
+      "title": "惠普 OmniBook 3 笔记本海外发售：骁龙 X 处理器、8GB 内存，499 美元",
+      "link": "https://www.ithome.com/0/992/999.htm",
+      "time": "08-22 14:45",
+      "src": "IT之家"
+    },
     {
       "title": "爆料称索尼 PS6 游戏掌机售价恐超 600 美元",
       "link": "https://www.ithome.com/0/992/971.htm",
@@ -1199,28 +1205,22 @@
       "src": "IT之家"
     },
     {
-      "title": "微软 Win11 将精细化管理统一内存，调控图形和 AI 预留容量",
-      "link": "https://www.ithome.com/0/992/904.htm",
-      "time": "08-22 08:21",
-      "src": "IT之家"
+      "title": "拳头游戏宣布旗下格斗游戏《2XKO》将于年底停止开发",
+      "link": "https://www.gcores.com/articles/218634",
+      "time": "08-21 16:23",
+      "src": "机核"
     },
     {
-      "title": "微软 Win11 26H2 将默认启用“时光机”：每隔 24 小时创建备份、最高占用 50GB 存储",
-      "link": "https://www.ithome.com/0/992/901.htm",
-      "time": "08-22 08:09",
-      "src": "IT之家"
+      "title": "史上最大规模的收纳游戏《捡起你的玩具来！》正式公开",
+      "link": "https://www.gcores.com/articles/218630",
+      "time": "08-21 15:06",
+      "src": "机核"
     },
     {
-      "title": "微软 Win11 版 OneDrive Photos 不再“露脸”，下月将支持独立卸载",
-      "link": "https://www.ithome.com/0/992/898.htm",
-      "time": "08-22 07:55",
-      "src": "IT之家"
-    },
-    {
-      "title": "微软应用引导 Chrome / Firefox 等浏览器设 Bing 为默认搜索引擎，相关扩展拥有 500 万用户",
-      "link": "https://www.ithome.com/0/992/895.htm",
-      "time": "08-22 07:43",
-      "src": "IT之家"
+      "title": "【抽奖】怪诞肉鸽幸存者like游戏《废土幸存者：爆心英雄》现已登陆PC及主机平台",
+      "link": "https://www.gcores.com/articles/218628",
+      "time": "08-21 14:17",
+      "src": "机核"
     }
   ],
   "game_update": [
@@ -1295,6 +1295,12 @@
       "src": "IT之家"
     },
     {
+      "title": "武警部队“英雄路·新长征”活动在四川雅安举行",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-22/10682282.shtml",
+      "time": "08-22 14:36",
+      "src": "中新网"
+    },
+    {
       "title": "从柏林近郊疑现俄秘密武器库 到德国军事基地和机场上空的无人机威胁",
       "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260821-%E4%BB%8E%E6%9F%8F%E6%9E%97%E8%BF%91%E9%83%8A%E7%96%91%E7%8E%B0%E4%BF%84%E7%A7%98%E5%AF%86%E6%AD%A6%E5%99%A8%E5%BA%93-%E5%88%B0%E5%BE%B7%E5%9B%BD%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0%E5%92%8C%E6%9C%BA%E5%9C%BA%E4%B8%8A%E7%A9%BA%E7%9A%84%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%A8%81%E8%83%81",
       "time": "08-22 04:26",
@@ -1323,12 +1329,6 @@
       "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%BE%8E%E5%9B%BD%E4%B8%93%E6%A0%8F/20260821-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A5%AD-%E7%BB%8F%E6%B5%8Ed%E6%97%A5-%E8%83%BD%E5%90%A6%E9%80%BC%E4%BC%8A%E6%9C%97%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89",
       "time": "08-21 21:17",
       "src": "法广RFI"
-    },
-    {
-      "title": "特朗普暫停伊朗戰事，美國真面臨武器短缺？台海安全堪憂？",
-      "link": "https://www.bbc.com/zhongwen/articles/c05q7n6jn2lo/trad?at_medium=RSS&at_campaign=rss",
-      "time": "07-28 16:43",
-      "src": "BBC中文"
     }
   ]
 }
