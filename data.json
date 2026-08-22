@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22 09:39",
+  "generated_at": "2026-08-22 11:00",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,6 +233,12 @@
     ],
     "news": [
       {
+        "title": "第二届世界人形机器人运动会今天开幕，新增拔河、乒乓球等项目",
+        "link": "https://www.ithome.com/0/992/928.htm",
+        "time": "08-22 10:29",
+        "src": "IT之家"
+      },
+      {
         "title": "冲击全球最大 IPO：曝 Anthropic 募资 1000 亿美元，目标估值 2 万亿美元",
         "link": "https://www.ithome.com/0/992/910.htm",
         "time": "08-22 08:59",
@@ -243,6 +249,18 @@
         "link": "https://www.ithome.com/0/992/883.htm",
         "time": "08-21 23:34",
         "src": "IT之家"
+      },
+      {
+        "title": "处暑首日 黑龙江正由北向南逐步开启入秋模式",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-22/10682207.shtml",
+        "time": "08-22 10:42",
+        "src": "中新网"
+      },
+      {
+        "title": "会抓豆腐、拥有电子皮肤 国产机器人感知能力加速迭代",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-22/10682185.shtml",
+        "time": "08-22 09:35",
+        "src": "中新网"
       },
       {
         "title": "Anthropic IPO融资额或超1000亿美元、估值2万亿美元",
@@ -261,24 +279,6 @@
         "link": "https://www.cnbeta.com.tw/articles/tech/1574420.htm",
         "time": "08-22 07:55",
         "src": "cnBeta.COM"
-      },
-      {
-        "title": "三星电子宣布2026年至多110万亿韩元股东回报 创韩企历史新高",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1574382.htm",
-        "time": "08-21 21:22",
-        "src": "cnBeta.COM"
-      },
-      {
-        "title": "美国机器人大会火了 中国机器人却成主角",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1574374.htm",
-        "time": "08-21 19:44",
-        "src": "cnBeta.COM"
-      },
-      {
-        "title": "日本下财年预算申请据悉将超130万亿日元",
-        "link": "https://finance.sina.com.cn/world/2026-08-22/doc-inipcwvx7640016.shtml",
-        "time": "08-22 07:39",
-        "src": "环球市场播报"
       }
     ]
   },
@@ -402,15 +402,6 @@
         "rank": null
       },
       {
-        "id": 602733,
-        "name": "才女のお世話 高嶺の花だらけな名門校で、学院一のお嬢様（生活能力皆無）を陰ながらお世話することになりました",
-        "name_cn": "才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐",
-        "score": 6.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/bd/74/602733_X0NNo.jpg",
-        "air_date": "2026-07-04",
-        "rank": 7614
-      },
-      {
         "id": 491578,
         "name": "择日飞升",
         "name_cn": "择日飞升",
@@ -418,6 +409,15 @@
         "img": "http://lain.bgm.tv/pic/cover/c/ff/2f/491578_whDt3.jpg",
         "air_date": "2026-07-18",
         "rank": null
+      },
+      {
+        "id": 602733,
+        "name": "才女のお世話 高嶺の花だらけな名門校で、学院一のお嬢様（生活能力皆無）を陰ながらお世話することになりました",
+        "name_cn": "才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐",
+        "score": 5.9,
+        "img": "http://lain.bgm.tv/pic/cover/c/bd/74/602733_X0NNo.jpg",
+        "air_date": "2026-07-04",
+        "rank": 7614
       },
       {
         "id": 529723,
@@ -538,6 +538,18 @@
   "ai": {
     "news_zh": [
       {
+        "title": "豆包输入法鸿蒙版上架尝鲜，版本号 0.9.1",
+        "link": "https://www.ithome.com/0/992/930.htm",
+        "time": "08-22 10:39",
+        "src": "IT之家"
+      },
+      {
+        "title": "第二届世界人形机器人运动会今天开幕，新增拔河、乒乓球等项目",
+        "link": "https://www.ithome.com/0/992/928.htm",
+        "time": "08-22 10:29",
+        "src": "IT之家"
+      },
+      {
         "title": "冲击全球最大 IPO：曝 Anthropic 募资 1000 亿美元，目标估值 2 万亿美元",
         "link": "https://www.ithome.com/0/992/910.htm",
         "time": "08-22 08:59",
@@ -572,54 +584,42 @@
         "link": "https://www.ithome.com/0/992/890.htm",
         "time": "08-22 07:11",
         "src": "IT之家"
-      },
-      {
-        "title": "美国硅谷大谈机器人未来，现场主角却来自中国",
-        "link": "https://www.ithome.com/0/992/883.htm",
-        "time": "08-21 23:34",
-        "src": "IT之家"
-      },
-      {
-        "title": "对 AI 抵触情绪上升：美国年轻人越来越讨厌 AI，硅谷高管爆发公开分歧",
-        "link": "https://www.ithome.com/0/992/882.htm",
-        "time": "08-21 23:32",
-        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 11969,
+        "likes": 11980,
         "downloads": 1726651,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 2511,
+        "likes": 2518,
         "downloads": 5804917,
         "pipeline": ""
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-        "likes": 822,
+        "likes": 833,
         "downloads": 107520,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-        "likes": 821,
+        "likes": 825,
         "downloads": 18193,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-        "likes": 571,
+        "likes": 572,
         "downloads": 1126222,
         "pipeline": "text-generation"
       },
       {
         "id": "MiniMaxAI/MiniMax-Music3",
-        "likes": 1163,
+        "likes": 1164,
         "downloads": 15678,
         "pipeline": "text-to-audio"
       }
@@ -811,12 +811,6 @@
       "src": "IT之家"
     },
     {
-      "title": "SSD 与 HDD 价差创纪录，30TB 企业级固态硬盘飙至 22600 美元达机械硬盘 18.6 倍",
-      "link": "https://www.ithome.com/0/992/868.htm",
-      "time": "08-21 22:02",
-      "src": "IT之家"
-    },
-    {
       "title": "解锁开学新装备：神影16 魔龙姬限定款领衔微星笔记本晒单有礼",
       "link": "https://www.gcores.com/articles/218642",
       "time": "08-21 14:16",
@@ -832,12 +826,6 @@
       "title": "AMD x86电脑处理器市场份额首破30% 英特尔优势持续缩水",
       "link": "https://www.cnbeta.com.tw/articles/tech/1574392.htm",
       "time": "08-21 21:29",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "Google在Android 17中引入更严格的限制机制 应用吃太多内存将被杀掉进程",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1574362.htm",
-      "time": "08-21 16:40",
       "src": "cnBeta.COM"
     },
     {
@@ -861,6 +849,18 @@
     {
       "title": "AMD 发布 Ryzen 7 7700X3D(104MB缓存,$329) 与 Radeon RX 9070 GRE(12GB,$549), 强化 1440p 游戏市场",
       "link": "https://www.91mobiles.com/hub/computex-2026-amd-ryzen-x3d-cpus-radeon-9070-gre",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "Intel 预览 Nova Lake 桌面平台: 最高48核(16P+32E), 18A 工艺, LGA1954 新插槽, 预计2026年底上市",
+      "link": "https://www.160.com/article/12732.html",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "宏碁首发 1000Hz 电竞显示器; 微星 5K Mini-LED 双模电竞屏(5K@180Hz/2K@330Hz) 亮相 Computex 2026",
+      "link": "https://www.160.com/article/12732.html",
       "time": "精选",
       "src": "资讯整理"
     }
@@ -1075,6 +1075,12 @@
   },
   "intl_news": [
     {
+      "title": "我国牵头，全球首项电动汽车驱动用固态电池国际标准成功立项",
+      "link": "https://www.ithome.com/0/992/933.htm",
+      "time": "08-22 10:54",
+      "src": "IT之家"
+    },
+    {
       "title": "冲击全球最大 IPO：曝 Anthropic 募资 1000 亿美元，目标估值 2 万亿美元",
       "link": "https://www.ithome.com/0/992/910.htm",
       "time": "08-22 08:59",
@@ -1099,28 +1105,22 @@
       "src": "IT之家"
     },
     {
-      "title": "订单排到第四季度！国产叉车 全球爆单→",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-22/10682173.shtml",
-      "time": "08-22 08:56",
+      "title": "（活力中国调研行）多元业态助力平潭国际旅游岛建设",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-22/10682205.shtml",
+      "time": "08-22 10:43",
       "src": "中新网"
     },
     {
-      "title": "国际足联重罚阿根廷队 阿根廷足协称将上诉",
-      "link": "https://www.chinanews.com.cn/ty/2026/08-22/10682170.shtml",
-      "time": "08-22 08:55",
+      "title": "国企建功自贸港：“助力海南特色农产品拓展国际市场”",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-22/10682188.shtml",
+      "time": "08-22 09:44",
       "src": "中新网"
     },
     {
-      "title": "特朗普再称霍尔木兹海峡为美国领土",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-22/10682165.shtml",
-      "time": "08-22 08:44",
-      "src": "中新网"
-    },
-    {
-      "title": "德国近四分之一企业面临技工短缺",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-22/10682158.shtml",
-      "time": "08-22 08:43",
-      "src": "中新网"
+      "title": "全球智能手机销量下滑 唯独苹果逆势增长表现亮眼",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574394.htm",
+      "time": "08-21 22:17",
+      "src": "cnBeta.COM"
     }
   ],
   "econ_news": [
@@ -1137,27 +1137,9 @@
       "src": "IT之家"
     },
     {
-      "title": "SSD 与 HDD 价差创纪录，30TB 企业级固态硬盘飙至 22600 美元达机械硬盘 18.6 倍",
-      "link": "https://www.ithome.com/0/992/868.htm",
-      "time": "08-21 22:02",
-      "src": "IT之家"
-    },
-    {
-      "title": "产品涨价最高 25%：美国政府退税后罗技没退，罗技被消费者集体起诉",
-      "link": "https://www.ithome.com/0/992/861.htm",
-      "time": "08-21 21:18",
-      "src": "IT之家"
-    },
-    {
       "title": "主播说联播丨老家消费大变样！活跃消费，“奔县”有力度",
       "link": "https://www.chinanews.com.cn/cj/2026/08-22/10682182.shtml",
       "time": "08-22 09:27",
-      "src": "中新网"
-    },
-    {
-      "title": "中国经济的韧性与活力",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-22/10682154.shtml",
-      "time": "08-22 08:21",
       "src": "中新网"
     },
     {
@@ -1171,9 +1153,33 @@
       "link": "https://www.cnbeta.com.tw/articles/tech/1574434.htm",
       "time": "08-22 09:26",
       "src": "cnBeta.COM"
+    },
+    {
+      "title": "英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574430.htm",
+      "time": "08-22 08:24",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "比特币本周大涨22% 空头被血洗27亿美元",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574426.htm",
+      "time": "08-22 08:20",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "TikTok就儿童隐私诉讼与美国司法部达成4亿美元和解协议",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574410.htm",
+      "time": "08-22 07:50",
+      "src": "cnBeta.COM"
     }
   ],
   "game_news": [
+    {
+      "title": "《漫威金刚狼》游戏已制作完成进厂压盘，9 月 15 日发行",
+      "link": "https://www.ithome.com/0/992/931.htm",
+      "time": "08-22 10:51",
+      "src": "IT之家"
+    },
     {
       "title": "开源兼容层 Wine 11.16 发布：新增 VA-API 硬件解码，修复 Steam 无法启动等 35 个 Bug",
       "link": "https://www.ithome.com/0/992/915.htm",
@@ -1214,12 +1220,6 @@
       "title": "《使命召唤：现代战争 4》试玩登陆 Steam，完整游戏 10 月 23 日发行",
       "link": "https://www.ithome.com/0/992/887.htm",
       "time": "08-22 02:11",
-      "src": "IT之家"
-    },
-    {
-      "title": "微软发布 Win11 Beta / Experimental 预览版：WinUI 重构 AutoPlay 对话框",
-      "link": "https://www.ithome.com/0/992/886.htm",
-      "time": "08-22 01:10",
       "src": "IT之家"
     }
   ],
@@ -1301,6 +1301,12 @@
       "src": "IT之家"
     },
     {
+      "title": "南海开渔 解锁各地“山海好丰景”",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-22/10682184.shtml",
+      "time": "08-22 09:32",
+      "src": "中新网"
+    },
+    {
       "title": "从柏林近郊疑现俄秘密武器库 到德国军事基地和机场上空的无人机威胁",
       "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260821-%E4%BB%8E%E6%9F%8F%E6%9E%97%E8%BF%91%E9%83%8A%E7%96%91%E7%8E%B0%E4%BF%84%E7%A7%98%E5%AF%86%E6%AD%A6%E5%99%A8%E5%BA%93-%E5%88%B0%E5%BE%B7%E5%9B%BD%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0%E5%92%8C%E6%9C%BA%E5%9C%BA%E4%B8%8A%E7%A9%BA%E7%9A%84%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%A8%81%E8%83%81",
       "time": "08-22 04:26",
@@ -1323,12 +1329,6 @@
       "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260821-%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E8%A1%A8%E7%A4%BA%E5%BA%94%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89%EF%BC%8C%E5%B9%B6%E8%AE%A4%E4%B8%BA%E4%BC%8A%E6%9C%97%E7%8E%B0%E5%9C%A8-%E5%A4%84%E4%BA%8E%E6%9C%89%E5%88%A9%E5%9C%B0%E4%BD%8D",
       "time": "08-21 22:26",
       "src": "via REUTERS - "
-    },
-    {
-      "title": "特朗普祭“经济D日”　能否逼伊朗结束战争",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%BE%8E%E5%9B%BD%E4%B8%93%E6%A0%8F/20260821-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A5%AD-%E7%BB%8F%E6%B5%8Ed%E6%97%A5-%E8%83%BD%E5%90%A6%E9%80%BC%E4%BC%8A%E6%9C%97%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89",
-      "time": "08-21 21:17",
-      "src": "法广RFI"
     }
   ]
 }
