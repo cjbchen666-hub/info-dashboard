@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23 00:32",
+  "generated_at": "2026-08-23 02:39",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -580,37 +580,37 @@
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 12088,
+        "likes": 12099,
         "downloads": 2090699,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 2589,
+        "likes": 2601,
         "downloads": 6320542,
         "pipeline": ""
       },
       {
-        "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-        "likes": 952,
-        "downloads": 142846,
-        "pipeline": "image-text-to-text"
-      },
-      {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-        "likes": 865,
+        "likes": 873,
         "downloads": 34909,
         "pipeline": "image-text-to-text"
       },
       {
+        "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
+        "likes": 967,
+        "downloads": 142846,
+        "pipeline": "image-text-to-text"
+      },
+      {
         "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-        "likes": 506,
+        "likes": 514,
         "downloads": 164950,
         "pipeline": "text-generation"
       },
       {
         "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-        "likes": 608,
+        "likes": 611,
         "downloads": 1223422,
         "pipeline": "text-generation"
       }
