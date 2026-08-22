@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22 18:30",
+  "generated_at": "2026-08-22 20:51",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,6 +233,12 @@
     ],
     "news": [
       {
+        "title": "宇树多款产品将参加第二届世界人形机器人运动会，因精力侧重量产缩减部分参赛项目",
+        "link": "https://www.ithome.com/0/993/083.htm",
+        "time": "08-22 19:27",
+        "src": "IT之家"
+      },
+      {
         "title": "宇树机器人“入职”理想汽车，担任讲解员等职位",
         "link": "https://www.ithome.com/0/993/022.htm",
         "time": "08-22 15:56",
@@ -251,33 +257,27 @@
         "src": "IT之家"
       },
       {
-        "title": "从建机房到做服务：绿色算力大会释放内蒙古算力全链条发展信号",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-22/10682381.shtml",
-        "time": "08-22 18:26",
-        "src": "中新网"
-      },
-      {
-        "title": "解读“机器人组装机器人”：从实验室走向真实工业部署的跨越",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-22/10682384.shtml",
-        "time": "08-22 18:25",
-        "src": "中新网"
-      },
-      {
-        "title": "人形机器人百米赛即将开跑 “博尔特”速度超越真人世界纪录",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-22/10682375.shtml",
-        "time": "08-22 18:18",
-        "src": "中新网"
-      },
-      {
-        "title": "2026绿色算力大会签约13个项目 总投资1361亿元",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-22/10682351.shtml",
-        "time": "08-22 17:37",
-        "src": "中新网"
-      },
-      {
         "title": "观众排队与机器人打乒乓球 感慨“玩了十年输给机器”",
         "link": "https://www.cnbeta.com.tw/articles/tech/1574450.htm",
         "time": "08-22 17:09",
+        "src": "cnBeta.COM"
+      },
+      {
+        "title": "Anthropic IPO融资额或超1000亿美元、估值2万亿美元",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1574434.htm",
+        "time": "08-22 09:26",
+        "src": "cnBeta.COM"
+      },
+      {
+        "title": "Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1574428.htm",
+        "time": "08-22 08:24",
+        "src": "cnBeta.COM"
+      },
+      {
+        "title": "英伟达提出分布式算力计划：16块顶级GPU免费上墙 让普通住宅变身微型数据中心",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1574420.htm",
+        "time": "08-22 07:55",
         "src": "cnBeta.COM"
       }
     ]
@@ -538,6 +538,18 @@
   "ai": {
     "news_zh": [
       {
+        "title": "DeepSeek 调整 API 周末计费：周六日全天统一按低谷价收费",
+        "link": "https://www.ithome.com/0/993/095.htm",
+        "time": "08-22 20:51",
+        "src": "IT之家"
+      },
+      {
+        "title": "宇树多款产品将参加第二届世界人形机器人运动会，因精力侧重量产缩减部分参赛项目",
+        "link": "https://www.ithome.com/0/993/083.htm",
+        "time": "08-22 19:27",
+        "src": "IT之家"
+      },
+      {
         "title": "雷鸟 iO AI 眼镜体验：全天智记是亮点，堪比随身助理",
         "link": "https://www.ithome.com/0/993/065.htm",
         "time": "08-22 18:20",
@@ -562,64 +574,52 @@
         "src": "IT之家"
       },
       {
-        "title": "广东市场监管召开平台企业行政指导会，点名“充电宝产品质量风险”“AI 生成虚假宣传”等",
-        "link": "https://www.ithome.com/0/993/004.htm",
-        "time": "08-22 15:00",
-        "src": "IT之家"
+        "title": "观众排队与机器人打乒乓球 感慨“玩了十年输给机器”",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1574450.htm",
+        "time": "08-22 17:09",
+        "src": "cnBeta.COM"
       },
       {
-        "title": "神秘 Ox Alpha AI 模型限免上架：DeepSWE 跑分碾压 Claude Fable 5，线索指向智谱",
-        "link": "https://www.ithome.com/0/993/003.htm",
-        "time": "08-22 14:54",
-        "src": "IT之家"
-      },
-      {
-        "title": "从建机房到做服务：绿色算力大会释放内蒙古算力全链条发展信号",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-22/10682381.shtml",
-        "time": "08-22 18:26",
-        "src": "中新网"
-      },
-      {
-        "title": "解读“机器人组装机器人”：从实验室走向真实工业部署的跨越",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-22/10682384.shtml",
-        "time": "08-22 18:25",
-        "src": "中新网"
+        "title": "美国初创企业创始人拼命追赶AI智能体的工作节奏",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1574448.htm",
+        "time": "08-22 17:08",
+        "src": "cnBeta.COM"
       }
     ],
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 12033,
+        "likes": 12057,
         "downloads": 2090699,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 2555,
+        "likes": 2573,
         "downloads": 6320542,
         "pipeline": ""
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-        "likes": 908,
+        "likes": 926,
         "downloads": 142846,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-        "likes": 848,
+        "likes": 851,
         "downloads": 34909,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-        "likes": 589,
+        "likes": 597,
         "downloads": 1223422,
         "pipeline": "text-generation"
       },
       {
         "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-        "likes": 480,
+        "likes": 488,
         "downloads": 164950,
         "pipeline": "text-generation"
       }
@@ -793,6 +793,36 @@
   ],
   "hw_news": [
     {
+      "title": "雷神 24.5 英寸 2K 360Hz 银翼 Pro 显示器上市：1349 元",
+      "link": "https://www.ithome.com/0/993/086.htm",
+      "time": "08-22 19:53",
+      "src": "IT之家"
+    },
+    {
+      "title": "联想 YOGA Air 14 2026 笔记本新增酷睿 Ultra7 266V 版本：重约 1.2kg，9999 元",
+      "link": "https://www.ithome.com/0/993/082.htm",
+      "time": "08-22 19:25",
+      "src": "IT之家"
+    },
+    {
+      "title": "七彩虹为隐星 G16 Pro 笔记本新增“i9-14900HX + 16G + 1T + RTX5090”版本，19899 元",
+      "link": "https://www.ithome.com/0/993/081.htm",
+      "time": "08-22 19:10",
+      "src": "IT之家"
+    },
+    {
+      "title": "技嘉显示器新品 AORUS FO27U24GP ICE 曝光：27 英寸双层 WOLED，4K 240Hz/1080P 480Hz 双模",
+      "link": "https://www.ithome.com/0/993/080.htm",
+      "time": "08-22 19:00",
+      "src": "IT之家"
+    },
+    {
+      "title": "机械师为曙光 15 笔记本带回“i5-13420H + 16G + 512G + RTX4050”规格，7599 元",
+      "link": "https://www.ithome.com/0/993/079.htm",
+      "time": "08-22 18:57",
+      "src": "IT之家"
+    },
+    {
       "title": "2026 名古屋亚运会电竞国家集训队在昆明成立：23 名运动员备战《王者荣耀》《永劫无间》等项目，表态坚决抵制“饭圈”乱象和不良文化侵蚀",
       "link": "https://www.ithome.com/0/993/047.htm",
       "time": "08-22 17:45",
@@ -809,18 +839,6 @@
       "title": "瓦尔基里“索珥”主题 VK87 MAX V2 THOR 机械键盘及 VK M5 Max THOR 电竞鼠标发售，325.55 元 / 299 元",
       "link": "https://www.ithome.com/0/993/044.htm",
       "time": "08-22 17:14",
-      "src": "IT之家"
-    },
-    {
-      "title": "惠普 OmniBook 3 笔记本海外发售：骁龙 X 处理器、8GB 内存，499 美元",
-      "link": "https://www.ithome.com/0/992/999.htm",
-      "time": "08-22 14:45",
-      "src": "IT之家"
-    },
-    {
-      "title": "vivo V70 Lite 4G 手机规格曝光：展锐 T7300 处理器、配 8GB RAM",
-      "link": "https://www.ithome.com/0/992/997.htm",
-      "time": "08-22 14:37",
       "src": "IT之家"
     },
     {
@@ -846,24 +864,6 @@
       "link": "https://sspai.com/post/113638",
       "time": "08-20 08:46",
       "src": "少数派"
-    },
-    {
-      "title": "Computex 2026: NVIDIA 发布 ARM 架构 PC 芯片 RTX Spark, 集成 Blackwell GPU, 对标苹果 M5",
-      "link": "https://new.qq.com/rain/a/20260605A09PXY00",
-      "time": "精选",
-      "src": "资讯整理"
-    },
-    {
-      "title": "AMD 发布 Ryzen 7 7700X3D(104MB缓存,$329) 与 Radeon RX 9070 GRE(12GB,$549), 强化 1440p 游戏市场",
-      "link": "https://www.91mobiles.com/hub/computex-2026-amd-ryzen-x3d-cpus-radeon-9070-gre",
-      "time": "精选",
-      "src": "资讯整理"
-    },
-    {
-      "title": "Intel 预览 Nova Lake 桌面平台: 最高48核(16P+32E), 18A 工艺, LGA1954 新插槽, 预计2026年底上市",
-      "link": "https://www.160.com/article/12732.html",
-      "time": "精选",
-      "src": "资讯整理"
     }
   ],
   "kojima": {
@@ -1076,21 +1076,15 @@
   },
   "intl_news": [
     {
-      "title": "平陆运河通江达海连接东盟 货从哪来？",
-      "link": "https://www.chinanews.com.cn/aseaninfo/2026/08-22/10682368.shtml",
-      "time": "08-22 18:02",
-      "src": "中新网"
+      "title": "米哈游 UE5 奇幻游戏新作《源初之结》开启全球测试招募，宣传海报曝光",
+      "link": "https://www.ithome.com/0/993/092.htm",
+      "time": "08-22 20:28",
+      "src": "IT之家"
     },
     {
-      "title": "新加坡队夺得2026重庆武隆“白马山杯”东南亚围棋邀请赛冠军",
-      "link": "https://www.chinanews.com.cn/tp/2026/08-22/10682358.shtml",
-      "time": "08-22 17:46",
-      "src": "中新网"
-    },
-    {
-      "title": "伊朗再批美对伊新制裁：比针对单个国家的“经济战”严重得多",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-22/10682309.shtml",
-      "time": "08-22 17:21",
+      "title": "2026科学智能大会在北京成功举办 为全球合作提供“中国方案”",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-22/10682449.shtml",
+      "time": "08-22 20:32",
       "src": "中新网"
     },
     {
@@ -1106,12 +1100,6 @@
       "src": "cnBeta.COM"
     },
     {
-      "title": "全球智能手机销量下滑 唯独苹果逆势增长表现亮眼",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1574394.htm",
-      "time": "08-21 22:17",
-      "src": "cnBeta.COM"
-    },
-    {
       "title": "继中国后 韩国首艘货轮试经北极航线驶往欧洲，一条亚欧海运新路线？",
       "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260822-%E7%BB%A7%E4%B8%AD%E5%9B%BD%E5%90%8E%EF%BC%8C%E9%9F%A9%E5%9B%BD%E9%A6%96%E8%89%98%E8%B4%A7%E8%BD%AE%E8%AF%95%E7%BB%8F%E5%8C%97%E6%9E%81%E8%88%AA%E7%BA%BF%E9%A9%B6%E5%BE%80%E6%AC%A7%E6%B4%B2",
       "time": "08-22 16:22",
@@ -1122,6 +1110,18 @@
       "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260822-%E4%BF%84%E7%BD%97%E6%96%AF%E7%A9%BA%E8%A2%AD%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%AE%B6%E4%B9%A1%E8%B4%AD%E7%89%A9%E4%B8%AD%E5%BF%83%EF%BC%8C%E8%B6%85%E7%99%BE%E4%BA%BA%E4%BC%A4%E4%BA%A1",
       "time": "08-22 17:19",
       "src": "Teresa Suarez/"
+    },
+    {
+      "title": "美国军机飞越台湾海峡 《环球时报》援引军方消息人士称“局势处于可控状态”",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260822-%E7%BE%8E%E5%9B%BD%E5%86%9B%E6%9C%BA%E9%A3%9E%E8%B6%8A%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1-%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E6%8F%B4%E5%BC%95%E5%86%9B%E6%96%B9%E6%B6%88%E6%81%AF%E4%BA%BA%E5%A3%AB%E7%A7%B0-%E5%B1%80%E5%8A%BF%E5%A4%84%E4%BA%8E%E5%8F%AF%E6%8E%A7%E7%8A%B6%E6%80%81",
+      "time": "08-22 16:22",
+      "src": "REUTERS - Chen"
+    },
+    {
+      "title": "支联会案：法律学者批法庭以言入罪 轻易令宪法适用於香港 将改变国际对港看法",
+      "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260821-%E6%94%AF%E8%81%94%E4%BC%9A%E6%A1%88-%E6%B3%95%E5%BE%8B%E5%AD%A6%E8%80%85%E6%89%B9%E6%B3%95%E5%BA%AD%E4%BB%A5%E8%A8%80%E5%85%A5%E7%BD%AA-%E8%BD%BB%E6%98%93%E4%BB%A4%E5%AE%AA%E6%B3%95%E9%80%82%E7%94%A8%E6%96%BC%E9%A6%99%E6%B8%AF-%E5%B0%86%E6%94%B9%E5%8F%98%E5%9B%BD%E9%99%85%E5%AF%B9%E6%B8%AF%E7%9C%8B%E6%B3%95",
+      "time": "08-22 02:34",
+      "src": "© RFI(麦燕庭提供)"
     }
   ],
   "econ_news": [
@@ -1156,25 +1156,43 @@
       "src": "IT之家"
     },
     {
-      "title": "GPD 解释 Win Max 3 掌机为何卖 1750 美元：我们没有大品牌的议价能力，这个价已经是最大诚意",
-      "link": "https://www.ithome.com/0/993/013.htm",
-      "time": "08-22 15:24",
-      "src": "IT之家"
+      "title": "多元业态升级！“电影+”延伸光影消费链条",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-22/10682445.shtml",
+      "time": "08-22 20:16",
+      "src": "中新网"
     },
     {
-      "title": "2026 年上半年国内工业级金属 3D 打印设备出口金额同比增长 76%",
-      "link": "https://www.ithome.com/0/993/006.htm",
-      "time": "08-22 15:04",
-      "src": "IT之家"
+      "title": "黄金有罪？笑话！",
+      "link": "https://www.chinanews.com.cn/txy/2026/08-22/10682437.shtml",
+      "time": "08-22 20:03",
+      "src": "中新网"
     },
     {
-      "title": "惠普 OmniBook 3 笔记本海外发售：骁龙 X 处理器、8GB 内存，499 美元",
-      "link": "https://www.ithome.com/0/992/999.htm",
-      "time": "08-22 14:45",
-      "src": "IT之家"
+      "title": "GTA6泄露者已获利6万美元 钱包仍存39万加密货币",
+      "link": "https://www.cnbeta.com.tw/articles/game/1574470.htm",
+      "time": "08-22 17:54",
+      "src": "cnBeta.COM"
     }
   ],
   "game_news": [
+    {
+      "title": "B 社员工：微软收购后，我们从不裁员变成每年裁员",
+      "link": "https://www.ithome.com/0/993/094.htm",
+      "time": "08-22 20:35",
+      "src": "IT之家"
+    },
+    {
+      "title": "米哈游 UE5 奇幻游戏新作《源初之结》开启全球测试招募，宣传海报曝光",
+      "link": "https://www.ithome.com/0/993/092.htm",
+      "time": "08-22 20:28",
+      "src": "IT之家"
+    },
+    {
+      "title": "微软谈老 Windows 自带游戏《三维弹球》为何删了：我们没法花好几天研究代码",
+      "link": "https://www.ithome.com/0/993/089.htm",
+      "time": "08-22 20:11",
+      "src": "IT之家"
+    },
     {
       "title": "2026 名古屋亚运会电竞国家集训队在昆明成立：23 名运动员备战《王者荣耀》《永劫无间》等项目，表态坚决抵制“饭圈”乱象和不良文化侵蚀",
       "link": "https://www.ithome.com/0/993/047.htm",
@@ -1204,24 +1222,6 @@
       "title": "育碧动作肉鸽游戏《波斯王子：Rogue》标准版永降，Steam 国区 118 元 → 80 元",
       "link": "https://www.ithome.com/0/993/035.htm",
       "time": "08-22 16:57",
-      "src": "IT之家"
-    },
-    {
-      "title": "《逃离塔科夫》开发者回应降低难度原因：吸引 Steam 新玩家",
-      "link": "https://www.ithome.com/0/993/030.htm",
-      "time": "08-22 16:46",
-      "src": "IT之家"
-    },
-    {
-      "title": "V社 Steam Frame 头显现已支持 89 款游戏，发售日仍未公布",
-      "link": "https://www.ithome.com/0/993/027.htm",
-      "time": "08-22 16:18",
-      "src": "IT之家"
-    },
-    {
-      "title": "百度地图与经典游戏 IP《仙剑奇侠传》开启联动，上线龙葵付费语音包 / 3D 导航车标",
-      "link": "https://www.ithome.com/0/993/026.htm",
-      "time": "08-22 16:17",
       "src": "IT之家"
     }
   ],
@@ -1291,12 +1291,6 @@
       "src": "ISW"
     },
     {
-      "title": "伊朗再批美对伊新制裁：比针对单个国家的“经济战”严重得多",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-22/10682309.shtml",
-      "time": "08-22 17:21",
-      "src": "中新网"
-    },
-    {
       "title": "从柏林近郊疑现俄秘密武器库 到德国军事基地和机场上空的无人机威胁",
       "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260821-%E4%BB%8E%E6%9F%8F%E6%9E%97%E8%BF%91%E9%83%8A%E7%96%91%E7%8E%B0%E4%BF%84%E7%A7%98%E5%AF%86%E6%AD%A6%E5%99%A8%E5%BA%93-%E5%88%B0%E5%BE%B7%E5%9B%BD%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0%E5%92%8C%E6%9C%BA%E5%9C%BA%E4%B8%8A%E7%A9%BA%E7%9A%84%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%A8%81%E8%83%81",
       "time": "08-22 04:26",
@@ -1307,12 +1301,6 @@
       "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260821-%E4%BF%84%E5%89%AF%E5%A4%96%E9%95%BF-%E6%84%BF%E5%80%BE%E5%90%AC%E8%A7%A3%E5%86%B3%E4%B8%8E%E4%B9%8C%E5%86%B2%E7%AA%81%E6%96%B0%E6%8F%90%E8%AE%AE%EF%BC%8C%E4%BD%86%E6%98%AF",
       "time": "08-22 04:53",
       "src": "AP - Pavel Bed"
-    },
-    {
-      "title": "英、加、澳抗议以色列停止调查车队袭击案",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260821-%E8%8B%B1-%E5%8A%A0-%E6%BE%B3%E6%8A%97%E8%AE%AE%E4%BB%A5%E8%89%B2%E5%88%97%E5%81%9C%E6%AD%A2%E8%B0%83%E6%9F%A5%E8%BD%A6%E9%98%9F%E8%A2%AD%E5%87%BB%E6%A1%88",
-      "time": "08-22 04:21",
-      "src": "AFP - NICOLAS "
     },
     {
       "title": "特朗普暫停伊朗戰事，美國真面臨武器短缺？台海安全堪憂？",
@@ -1331,6 +1319,18 @@
       "link": "https://finance.sina.com.cn/world/2026-08-22/doc-inipcwvz1327789.shtml",
       "time": "08-22 08:20",
       "src": "环球市场播报"
+    },
+    {
+      "title": "特朗普称对伊转向“经济战”不意味着美军事选项受限",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-22/doc-inipcspz7739127.shtml",
+      "time": "08-22 05:00",
+      "src": "央视"
+    },
+    {
+      "title": "集体拒签“最后通牒”，大批媒体撤离五角大楼",
+      "link": "https://news.sina.com.cn/w/2025-10-18/doc-infuhrzs7824610.shtml",
+      "time": "10-18 11:10",
+      "src": ""
     }
   ]
 }
