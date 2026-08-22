@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22 11:00",
+  "generated_at": "2026-08-22 12:40",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,6 +233,12 @@
     ],
     "news": [
       {
+        "title": "冲击全球最大 IPO：曝 Anthropic 招股书把美国公众对 AI 的抵制情绪列为关键风险",
+        "link": "https://www.ithome.com/0/992/941.htm",
+        "time": "08-22 11:35",
+        "src": "IT之家"
+      },
+      {
         "title": "第二届世界人形机器人运动会今天开幕，新增拔河、乒乓球等项目",
         "link": "https://www.ithome.com/0/992/928.htm",
         "time": "08-22 10:29",
@@ -245,21 +251,15 @@
         "src": "IT之家"
       },
       {
-        "title": "美国硅谷大谈机器人未来，现场主角却来自中国",
-        "link": "https://www.ithome.com/0/992/883.htm",
-        "time": "08-21 23:34",
-        "src": "IT之家"
-      },
-      {
-        "title": "处暑首日 黑龙江正由北向南逐步开启入秋模式",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-22/10682207.shtml",
-        "time": "08-22 10:42",
+        "title": "下半年以来千亿元级资金借道股票型ETF布局A股",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-22/10682211.shtml",
+        "time": "08-22 11:08",
         "src": "中新网"
       },
       {
-        "title": "会抓豆腐、拥有电子皮肤 国产机器人感知能力加速迭代",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-22/10682185.shtml",
-        "time": "08-22 09:35",
+        "title": "首超三十万亿 今年财政支出预算更多“投资于人”",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-22/10682209.shtml",
+        "time": "08-22 11:02",
         "src": "中新网"
       },
       {
@@ -538,7 +538,19 @@
   "ai": {
     "news_zh": [
       {
-        "title": "豆包输入法鸿蒙版上架尝鲜，版本号 0.9.1",
+        "title": "OpenAI 下调 GPT-5.6 Sol 模型价格，API 与 Credit 费用降幅超 20%",
+        "link": "https://www.ithome.com/0/992/969.htm",
+        "time": "08-22 12:01",
+        "src": "IT之家"
+      },
+      {
+        "title": "冲击全球最大 IPO：曝 Anthropic 招股书把美国公众对 AI 的抵制情绪列为关键风险",
+        "link": "https://www.ithome.com/0/992/941.htm",
+        "time": "08-22 11:35",
+        "src": "IT之家"
+      },
+      {
+        "title": "豆包输入法鸿蒙版 0.9.1 上架尝鲜，语音输入可精准识别快速 / 轻声说话",
         "link": "https://www.ithome.com/0/992/930.htm",
         "time": "08-22 10:39",
         "src": "IT之家"
@@ -572,54 +584,42 @@
         "link": "https://www.ithome.com/0/992/899.htm",
         "time": "08-22 07:55",
         "src": "IT之家"
-      },
-      {
-        "title": "苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热",
-        "link": "https://www.ithome.com/0/992/892.htm",
-        "time": "08-22 07:24",
-        "src": "IT之家"
-      },
-      {
-        "title": "消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品",
-        "link": "https://www.ithome.com/0/992/890.htm",
-        "time": "08-22 07:11",
-        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 11980,
+        "likes": 11986,
         "downloads": 1726651,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 2518,
+        "likes": 2524,
         "downloads": 5804917,
         "pipeline": ""
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-        "likes": 833,
+        "likes": 848,
         "downloads": 107520,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-        "likes": 825,
+        "likes": 829,
         "downloads": 18193,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-        "likes": 572,
+        "likes": 576,
         "downloads": 1126222,
         "pipeline": "text-generation"
       },
       {
         "id": "MiniMaxAI/MiniMax-Music3",
-        "likes": 1164,
+        "likes": 1166,
         "downloads": 15678,
         "pipeline": "text-to-audio"
       }
@@ -805,12 +805,6 @@
       "src": "IT之家"
     },
     {
-      "title": "Mercury：AMD 客户端 CPU 份额首次突破 30%，英特尔优势进一步缩小",
-      "link": "https://www.ithome.com/0/992/881.htm",
-      "time": "08-21 23:25",
-      "src": "IT之家"
-    },
-    {
       "title": "解锁开学新装备：神影16 魔龙姬限定款领衔微星笔记本晒单有礼",
       "link": "https://www.gcores.com/articles/218642",
       "time": "08-21 14:16",
@@ -860,6 +854,12 @@
     },
     {
       "title": "宏碁首发 1000Hz 电竞显示器; 微星 5K Mini-LED 双模电竞屏(5K@180Hz/2K@330Hz) 亮相 Computex 2026",
+      "link": "https://www.160.com/article/12732.html",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "微星 40 周年发布 RTX 5090 LIGHTNING Z 旗舰与内置 AI 代理的 OLED 电竞显示器",
       "link": "https://www.160.com/article/12732.html",
       "time": "精选",
       "src": "资讯整理"
@@ -1075,6 +1075,18 @@
   },
   "intl_news": [
     {
+      "title": "冲击全球最大 IPO：曝 Anthropic 招股书把美国公众对 AI 的抵制情绪列为关键风险",
+      "link": "https://www.ithome.com/0/992/941.htm",
+      "time": "08-22 11:35",
+      "src": "IT之家"
+    },
+    {
+      "title": "全球限 1963 辆：兰博基尼称 Revuelto SV 超跑短期内不会冲击纽北圈速纪录",
+      "link": "https://www.ithome.com/0/992/939.htm",
+      "time": "08-22 11:24",
+      "src": "IT之家"
+    },
+    {
       "title": "我国牵头，全球首项电动汽车驱动用固态电池国际标准成功立项",
       "link": "https://www.ithome.com/0/992/933.htm",
       "time": "08-22 10:54",
@@ -1105,25 +1117,19 @@
       "src": "IT之家"
     },
     {
-      "title": "（活力中国调研行）多元业态助力平潭国际旅游岛建设",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-22/10682205.shtml",
-      "time": "08-22 10:43",
+      "title": "特朗普称若输掉中期选举他将被弹劾",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-22/10682237.shtml",
+      "time": "08-22 12:12",
       "src": "中新网"
-    },
-    {
-      "title": "国企建功自贸港：“助力海南特色农产品拓展国际市场”",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-22/10682188.shtml",
-      "time": "08-22 09:44",
-      "src": "中新网"
-    },
-    {
-      "title": "全球智能手机销量下滑 唯独苹果逆势增长表现亮眼",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1574394.htm",
-      "time": "08-21 22:17",
-      "src": "cnBeta.COM"
     }
   ],
   "econ_news": [
+    {
+      "title": "爆料称索尼 PS6 游戏掌机售价恐超 600 美元",
+      "link": "https://www.ithome.com/0/992/971.htm",
+      "time": "08-22 12:11",
+      "src": "IT之家"
+    },
     {
       "title": "冲击全球最大 IPO：曝 Anthropic 募资 1000 亿美元，目标估值 2 万亿美元",
       "link": "https://www.ithome.com/0/992/910.htm",
@@ -1137,9 +1143,27 @@
       "src": "IT之家"
     },
     {
-      "title": "主播说联播丨老家消费大变样！活跃消费，“奔县”有力度",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-22/10682182.shtml",
-      "time": "08-22 09:27",
+      "title": "未达贸易协议 美国将对部分加拿大商品征50%关税",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-22/10682244.shtml",
+      "time": "08-22 12:33",
+      "src": "中新网"
+    },
+    {
+      "title": "加拿大称暂停与美贸易谈判 将对美实施对等关税措施",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-22/10682227.shtml",
+      "time": "08-22 11:52",
+      "src": "中新网"
+    },
+    {
+      "title": "前7月湖南对东盟出口汽车63.5亿元 同比增长15%",
+      "link": "https://www.chinanews.com.cn/aseaninfo/2026/08-22/10682215.shtml",
+      "time": "08-22 11:38",
+      "src": "中新网"
+    },
+    {
+      "title": "首超三十万亿 今年财政支出预算更多“投资于人”",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-22/10682209.shtml",
+      "time": "08-22 11:02",
       "src": "中新网"
     },
     {
@@ -1147,33 +1171,15 @@
       "link": "https://www.cnbeta.com.tw/articles/tech/1574436.htm",
       "time": "08-22 09:27",
       "src": "cnBeta.COM"
-    },
-    {
-      "title": "Anthropic IPO融资额或超1000亿美元、估值2万亿美元",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1574434.htm",
-      "time": "08-22 09:26",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1574430.htm",
-      "time": "08-22 08:24",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "比特币本周大涨22% 空头被血洗27亿美元",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1574426.htm",
-      "time": "08-22 08:20",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "TikTok就儿童隐私诉讼与美国司法部达成4亿美元和解协议",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1574410.htm",
-      "time": "08-22 07:50",
-      "src": "cnBeta.COM"
     }
   ],
   "game_news": [
+    {
+      "title": "爆料称索尼 PS6 游戏掌机售价恐超 600 美元",
+      "link": "https://www.ithome.com/0/992/971.htm",
+      "time": "08-22 12:11",
+      "src": "IT之家"
+    },
     {
       "title": "《漫威金刚狼》游戏已制作完成进厂压盘，9 月 15 日发行",
       "link": "https://www.ithome.com/0/992/931.htm",
@@ -1214,12 +1220,6 @@
       "title": "微软应用引导 Chrome / Firefox 等浏览器设 Bing 为默认搜索引擎，相关扩展拥有 500 万用户",
       "link": "https://www.ithome.com/0/992/895.htm",
       "time": "08-22 07:43",
-      "src": "IT之家"
-    },
-    {
-      "title": "《使命召唤：现代战争 4》试玩登陆 Steam，完整游戏 10 月 23 日发行",
-      "link": "https://www.ithome.com/0/992/887.htm",
-      "time": "08-22 02:11",
       "src": "IT之家"
     }
   ],
@@ -1295,18 +1295,6 @@
       "src": "IT之家"
     },
     {
-      "title": "《使命召唤：现代战争 4》试玩登陆 Steam，完整游戏 10 月 23 日发行",
-      "link": "https://www.ithome.com/0/992/887.htm",
-      "time": "08-22 02:11",
-      "src": "IT之家"
-    },
-    {
-      "title": "南海开渔 解锁各地“山海好丰景”",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-22/10682184.shtml",
-      "time": "08-22 09:32",
-      "src": "中新网"
-    },
-    {
       "title": "从柏林近郊疑现俄秘密武器库 到德国军事基地和机场上空的无人机威胁",
       "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260821-%E4%BB%8E%E6%9F%8F%E6%9E%97%E8%BF%91%E9%83%8A%E7%96%91%E7%8E%B0%E4%BF%84%E7%A7%98%E5%AF%86%E6%AD%A6%E5%99%A8%E5%BA%93-%E5%88%B0%E5%BE%B7%E5%9B%BD%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0%E5%92%8C%E6%9C%BA%E5%9C%BA%E4%B8%8A%E7%A9%BA%E7%9A%84%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%A8%81%E8%83%81",
       "time": "08-22 04:26",
@@ -1329,6 +1317,18 @@
       "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260821-%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E8%A1%A8%E7%A4%BA%E5%BA%94%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89%EF%BC%8C%E5%B9%B6%E8%AE%A4%E4%B8%BA%E4%BC%8A%E6%9C%97%E7%8E%B0%E5%9C%A8-%E5%A4%84%E4%BA%8E%E6%9C%89%E5%88%A9%E5%9C%B0%E4%BD%8D",
       "time": "08-21 22:26",
       "src": "via REUTERS - "
+    },
+    {
+      "title": "特朗普祭“经济D日”　能否逼伊朗结束战争",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%BE%8E%E5%9B%BD%E4%B8%93%E6%A0%8F/20260821-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A5%AD-%E7%BB%8F%E6%B5%8Ed%E6%97%A5-%E8%83%BD%E5%90%A6%E9%80%BC%E4%BC%8A%E6%9C%97%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89",
+      "time": "08-21 21:17",
+      "src": "法广RFI"
+    },
+    {
+      "title": "特朗普暫停伊朗戰事，美國真面臨武器短缺？台海安全堪憂？",
+      "link": "https://www.bbc.com/zhongwen/articles/c05q7n6jn2lo/trad?at_medium=RSS&at_campaign=rss",
+      "time": "07-28 16:43",
+      "src": "BBC中文"
     }
   ]
 }
