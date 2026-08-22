@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23 04:30",
+  "generated_at": "2026-08-23 06:29",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -327,7 +327,7 @@
         "score": 7.9,
         "img": "http://lain.bgm.tv/pic/cover/c/1f/9e/501963_bXlEP.jpg",
         "air_date": "2026-07-04",
-        "rank": 273
+        "rank": 279
       },
       {
         "id": 638497,
@@ -336,7 +336,7 @@
         "score": 7.7,
         "img": "http://lain.bgm.tv/pic/cover/c/fa/9b/638497_85455.jpg",
         "air_date": "2026-07-05",
-        "rank": 530
+        "rank": 531
       },
       {
         "id": 495291,
@@ -345,7 +345,7 @@
         "score": 7.6,
         "img": "http://lain.bgm.tv/pic/cover/c/18/af/495291_9WuBW.jpg",
         "air_date": "2026-07-05",
-        "rank": 758
+        "rank": 740
       },
       {
         "id": 598058,
@@ -354,7 +354,7 @@
         "score": 7.5,
         "img": "http://lain.bgm.tv/pic/cover/c/96/f8/598058_1RcCL.jpg",
         "air_date": "2026-07-05",
-        "rank": 923
+        "rank": 937
       },
       {
         "id": 615835,
@@ -363,7 +363,7 @@
         "score": 7.1,
         "img": "http://lain.bgm.tv/pic/cover/c/27/b5/615835_IbNAh.jpg",
         "air_date": "2026-07-05",
-        "rank": 2250
+        "rank": 2241
       },
       {
         "id": 545008,
@@ -372,7 +372,7 @@
         "score": 7.0,
         "img": "http://lain.bgm.tv/pic/cover/c/14/a1/545008_pNnzQ.jpg",
         "air_date": "2026-07-12",
-        "rank": 2704
+        "rank": 2709
       },
       {
         "id": 454083,
@@ -381,7 +381,7 @@
         "score": 6.6,
         "img": "http://lain.bgm.tv/pic/cover/c/61/12/454083_DtM3t.jpg",
         "air_date": "2026-07-05",
-        "rank": 4101
+        "rank": 4169
       },
       {
         "id": 574041,
@@ -417,7 +417,7 @@
         "score": 6.2,
         "img": "http://lain.bgm.tv/pic/cover/c/fe/47/668108_K7488.jpg",
         "air_date": "2026-07-12",
-        "rank": 4843
+        "rank": 4817
       },
       {
         "id": 595106,
@@ -426,7 +426,7 @@
         "score": 6.0,
         "img": "http://lain.bgm.tv/pic/cover/c/61/8d/595106_ll6Jj.jpg",
         "air_date": "2026-07-05",
-        "rank": 5884
+        "rank": 5886
       },
       {
         "id": 255209,
@@ -435,7 +435,7 @@
         "score": 5.5,
         "img": "http://lain.bgm.tv/pic/cover/c/ce/3a/255209_9w0tU.jpg",
         "air_date": "2026-07-05",
-        "rank": 9180
+        "rank": 9178
       },
       {
         "id": 619052,
@@ -453,7 +453,7 @@
         "score": 4.6,
         "img": "http://lain.bgm.tv/pic/cover/c/45/58/583862_6YGGE.jpg",
         "air_date": "2026-07-05",
-        "rank": 9692
+        "rank": 9694
       },
       {
         "id": 633354,
@@ -462,7 +462,7 @@
         "score": 4.5,
         "img": "http://lain.bgm.tv/pic/cover/c/f3/66/633354_zm82g.jpg",
         "air_date": "2026-07-05",
-        "rank": 8821
+        "rank": 8876
       },
       {
         "id": 571896,
@@ -471,7 +471,7 @@
         "score": 3.9,
         "img": "http://lain.bgm.tv/pic/cover/c/07/0b/571896_fT9FA.jpg",
         "air_date": "2026-07-19",
-        "rank": 9691
+        "rank": 9687
       },
       {
         "id": 662006,
@@ -580,37 +580,37 @@
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 12105,
+        "likes": 12120,
         "downloads": 2090699,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 2607,
+        "likes": 2617,
         "downloads": 6320542,
         "pipeline": ""
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-        "likes": 878,
+        "likes": 884,
         "downloads": 34909,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-        "likes": 975,
+        "likes": 986,
         "downloads": 142846,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-        "likes": 517,
+        "likes": 523,
         "downloads": 164950,
         "pipeline": "text-generation"
       },
       {
         "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-        "likes": 613,
+        "likes": 621,
         "downloads": 1223422,
         "pipeline": "text-generation"
       }
@@ -1287,6 +1287,24 @@
       "src": "中新网"
     },
     {
+      "title": "中国在伊朗问题上为何占据了优势？",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260822-%E4%B8%AD%E5%9B%BD%E5%9C%A8%E4%BC%8A%E6%9C%97%E9%97%AE%E9%A2%98%E4%B8%8A%E4%B8%BA%E4%BD%95%E5%8D%A0%E6%8D%AE%E4%BA%86%E4%BC%98%E5%8A%BF",
+      "time": "08-23 04:35",
+      "src": "© RFI"
+    },
+    {
+      "title": "法国承诺向乌克兰提供新型拦截导弹",
+      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260822-%E6%B3%95%E5%9B%BD%E6%89%BF%E8%AF%BA%E5%90%91%E4%B9%8C%E5%85%8B%E5%85%B0%E6%8F%90%E4%BE%9B%E6%96%B0%E5%9E%8B%E6%8B%A6%E6%88%AA%E5%AF%BC%E5%BC%B9",
+      "time": "08-23 04:27",
+      "src": "AFP - SERGEI S"
+    },
+    {
+      "title": "校园持剑袭击案让瑞典沉浸在悲痛中",
+      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260822-%E6%A0%A1%E5%9B%AD%E6%8C%81%E5%89%91%E8%A2%AD%E5%87%BB%E6%A1%88%E8%AE%A9%E7%91%9E%E5%85%B8%E6%B2%89%E6%B5%B8%E5%9C%A8%E6%82%B2%E7%97%9B%E4%B8%AD",
+      "time": "08-23 04:17",
+      "src": "© Fredrik Sand"
+    },
+    {
       "title": "朝鲜指责日本准备发动“侵略战争”",
       "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260822-%E6%9C%9D%E9%B2%9C%E6%8C%87%E8%B4%A3%E6%97%A5%E6%9C%AC%E5%87%86%E5%A4%87%E5%8F%91%E5%8A%A8-%E4%BE%B5%E7%95%A5%E6%88%98%E4%BA%89",
       "time": "08-22 22:04",
@@ -1299,28 +1317,10 @@
       "src": "AP - Hemmat Kh"
     },
     {
-      "title": "从柏林近郊疑现俄秘密武器库 到德国军事基地和机场上空的无人机威胁",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260821-%E4%BB%8E%E6%9F%8F%E6%9E%97%E8%BF%91%E9%83%8A%E7%96%91%E7%8E%B0%E4%BF%84%E7%A7%98%E5%AF%86%E6%AD%A6%E5%99%A8%E5%BA%93-%E5%88%B0%E5%BE%B7%E5%9B%BD%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0%E5%92%8C%E6%9C%BA%E5%9C%BA%E4%B8%8A%E7%A9%BA%E7%9A%84%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%A8%81%E8%83%81",
-      "time": "08-22 04:26",
-      "src": "法广RFI"
-    },
-    {
-      "title": "俄副外长：“愿倾听解决与乌冲突新提议，但是”",
-      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260821-%E4%BF%84%E5%89%AF%E5%A4%96%E9%95%BF-%E6%84%BF%E5%80%BE%E5%90%AC%E8%A7%A3%E5%86%B3%E4%B8%8E%E4%B9%8C%E5%86%B2%E7%AA%81%E6%96%B0%E6%8F%90%E8%AE%AE%EF%BC%8C%E4%BD%86%E6%98%AF",
-      "time": "08-22 04:53",
-      "src": "AP - Pavel Bed"
-    },
-    {
       "title": "特朗普暫停伊朗戰事，美國真面臨武器短缺？台海安全堪憂？",
       "link": "https://www.bbc.com/zhongwen/articles/c05q7n6jn2lo/trad?at_medium=RSS&at_campaign=rss",
       "time": "07-28 16:43",
       "src": "BBC中文"
-    },
-    {
-      "title": "特朗普：如有需要将出动美军干预债市",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-22/doc-inipeimt7514172.shtml",
-      "time": "08-22 12:11",
-      "src": "市场资讯"
     }
   ]
 }
