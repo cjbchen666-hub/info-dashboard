@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22 06:31",
+  "generated_at": "2026-08-22 09:39",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,22 +233,34 @@
     ],
     "news": [
       {
+        "title": "冲击全球最大 IPO：曝 Anthropic 募资 1000 亿美元，目标估值 2 万亿美元",
+        "link": "https://www.ithome.com/0/992/910.htm",
+        "time": "08-22 08:59",
+        "src": "IT之家"
+      },
+      {
         "title": "美国硅谷大谈机器人未来，现场主角却来自中国",
         "link": "https://www.ithome.com/0/992/883.htm",
         "time": "08-21 23:34",
         "src": "IT之家"
       },
       {
-        "title": "国产 NAND 龙头长江存储冲刺科创板：IPO 审核状态变更为已受理，拟融资 330 亿元",
-        "link": "https://www.ithome.com/0/992/843.htm",
-        "time": "08-21 20:14",
-        "src": "IT之家"
+        "title": "Anthropic IPO融资额或超1000亿美元、估值2万亿美元",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1574434.htm",
+        "time": "08-22 09:26",
+        "src": "cnBeta.COM"
       },
       {
-        "title": "日本新财年预算申请额或超130万亿日元",
-        "link": "https://www.chinanews.com.cn/gj/2026/08-22/10682134.shtml",
-        "time": "08-22 01:11",
-        "src": "中新网"
+        "title": "Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1574428.htm",
+        "time": "08-22 08:24",
+        "src": "cnBeta.COM"
+      },
+      {
+        "title": "英伟达提出分布式算力计划：16块顶级GPU免费上墙 让普通住宅变身微型数据中心",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1574420.htm",
+        "time": "08-22 07:55",
+        "src": "cnBeta.COM"
       },
       {
         "title": "三星电子宣布2026年至多110万亿韩元股东回报 创韩企历史新高",
@@ -263,21 +275,9 @@
         "src": "cnBeta.COM"
       },
       {
-        "title": "Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备",
-        "link": "https://finance.sina.com.cn/world/2026-08-22/doc-inipcnhf1486624.shtml",
-        "time": "08-22 04:53",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "8月22日收盘：道指飙升500点 长端美债收益率持续走高 三大指数周线均录得下跌",
-        "link": "https://finance.sina.com.cn/world/2026-08-22/doc-inipcnfx6326280.shtml",
-        "time": "08-22 04:29",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "纽约汇市：美元跌至三个月低点，美债回购计划引发结构性看空情绪",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipcnhc7821218.shtml",
-        "time": "08-22 03:00",
+        "title": "日本下财年预算申请据悉将超130万亿日元",
+        "link": "https://finance.sina.com.cn/world/2026-08-22/doc-inipcwvx7640016.shtml",
+        "time": "08-22 07:39",
         "src": "环球市场播报"
       }
     ]
@@ -514,7 +514,7 @@
   "ukraine": {
     "title": "Russian Offensive Campaign Assessment",
     "summary": "ISW’s Russia and Ukraine team produces the maps and analysis of record of the war in Ukraine. The Russian Offensive Campaign Assessment provides a synthetic running intelligence estimate of Putin’s political and military objectives in Ukraine and the design, prosecution, and outcomes of Russia’s war effort. ISW has published this update daily since Russia’s full-scale invasion of Ukraine in February 2022. Each update includes an assessment of the latest battlefield changes at the operational and tactical levels of war as well as an updated strategic assessment and forecast of the war’s trajectory along with numer",
-    "map_url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-august-20-2026-at-130-pm-et/",
+    "map_url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-august-21-2026-at-130-pm-et/",
     "url": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment",
     "links": [
       {
@@ -523,7 +523,7 @@
       },
       {
         "name": "ISW 官方地图页",
-        "url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-august-20-2026-at-130-pm-et/"
+        "url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-august-21-2026-at-130-pm-et/"
       },
       {
         "name": "实时战线地图 Liveuamap",
@@ -538,6 +538,42 @@
   "ai": {
     "news_zh": [
       {
+        "title": "冲击全球最大 IPO：曝 Anthropic 募资 1000 亿美元，目标估值 2 万亿美元",
+        "link": "https://www.ithome.com/0/992/910.htm",
+        "time": "08-22 08:59",
+        "src": "IT之家"
+      },
+      {
+        "title": "Anthropic 发力自研芯片，聘请前谷歌 TPU 负责人阿米尔 · 萨莱克",
+        "link": "https://www.ithome.com/0/992/909.htm",
+        "time": "08-22 08:50",
+        "src": "IT之家"
+      },
+      {
+        "title": "微软 Win11 将精细化管理统一内存，调控图形和 AI 预留容量",
+        "link": "https://www.ithome.com/0/992/904.htm",
+        "time": "08-22 08:21",
+        "src": "IT之家"
+      },
+      {
+        "title": "IT早报 0822：特斯拉、零跑、吉利等 9 大厂商因门把手隐患召回车辆；曝高通骁龙新款芯片命名为至尊 / 超级至尊版；1.48 万元“问界 M0.9”儿童车预售...",
+        "link": "https://www.ithome.com/0/992/899.htm",
+        "time": "08-22 07:55",
+        "src": "IT之家"
+      },
+      {
+        "title": "苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热",
+        "link": "https://www.ithome.com/0/992/892.htm",
+        "time": "08-22 07:24",
+        "src": "IT之家"
+      },
+      {
+        "title": "消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品",
+        "link": "https://www.ithome.com/0/992/890.htm",
+        "time": "08-22 07:11",
+        "src": "IT之家"
+      },
+      {
         "title": "美国硅谷大谈机器人未来，现场主角却来自中国",
         "link": "https://www.ithome.com/0/992/883.htm",
         "time": "08-21 23:34",
@@ -548,78 +584,42 @@
         "link": "https://www.ithome.com/0/992/882.htm",
         "time": "08-21 23:32",
         "src": "IT之家"
-      },
-      {
-        "title": "荣耀 Turbo 5G 手机海外发布，骁龙 6 Gen 4 芯片",
-        "link": "https://www.ithome.com/0/992/867.htm",
-        "time": "08-21 21:44",
-        "src": "IT之家"
-      },
-      {
-        "title": "AGM 推出 PAD P3 Compact 三防小平板：8.68 英寸屏幕，联发科 Helio G99 芯片",
-        "link": "https://www.ithome.com/0/992/833.htm",
-        "time": "08-21 19:22",
-        "src": "IT之家"
-      },
-      {
-        "title": "青少年开发者借助 Claude Code AI 编程工具，成功为惠普打印机冷门机型开发出苹果 macOS 原生驱动",
-        "link": "https://www.ithome.com/0/992/832.htm",
-        "time": "08-21 19:14",
-        "src": "IT之家"
-      },
-      {
-        "title": "代码显示三星正准备为 Galaxy Z Flip8/Fold8 手机引入 AI 小组件功能，基于谷歌“Create My Widget”技术",
-        "link": "https://www.ithome.com/0/992/821.htm",
-        "time": "08-21 18:43",
-        "src": "IT之家"
-      },
-      {
-        "title": "AT&amp;T正借助开源大模型 削减向Anthropic支付的账单",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1574384.htm",
-        "time": "08-21 21:23",
-        "src": "cnBeta.COM"
-      },
-      {
-        "title": "美国机器人大会火了 中国机器人却成主角",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1574374.htm",
-        "time": "08-21 19:44",
-        "src": "cnBeta.COM"
       }
     ],
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 11943,
+        "likes": 11969,
         "downloads": 1726651,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 2492,
+        "likes": 2511,
         "downloads": 5804917,
         "pipeline": ""
       },
       {
-        "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-        "likes": 813,
-        "downloads": 18193,
-        "pipeline": "image-text-to-text"
-      },
-      {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-        "likes": 774,
+        "likes": 822,
         "downloads": 107520,
         "pipeline": "image-text-to-text"
       },
       {
+        "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
+        "likes": 821,
+        "downloads": 18193,
+        "pipeline": "image-text-to-text"
+      },
+      {
         "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-        "likes": 560,
+        "likes": 571,
         "downloads": 1126222,
         "pipeline": "text-generation"
       },
       {
         "id": "MiniMaxAI/MiniMax-Music3",
-        "likes": 1157,
+        "likes": 1163,
         "downloads": 15678,
         "pipeline": "text-to-audio"
       }
@@ -793,6 +793,18 @@
   ],
   "hw_news": [
     {
+      "title": "微软 Win11 将精细化管理统一内存，调控图形和 AI 预留容量",
+      "link": "https://www.ithome.com/0/992/904.htm",
+      "time": "08-22 08:21",
+      "src": "IT之家"
+    },
+    {
+      "title": "苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热",
+      "link": "https://www.ithome.com/0/992/892.htm",
+      "time": "08-22 07:24",
+      "src": "IT之家"
+    },
+    {
       "title": "Mercury：AMD 客户端 CPU 份额首次突破 30%，英特尔优势进一步缩小",
       "link": "https://www.ithome.com/0/992/881.htm",
       "time": "08-21 23:25",
@@ -805,22 +817,16 @@
       "src": "IT之家"
     },
     {
-      "title": "优派“VX27G60Z-2K-3”26.5 英寸显示器发售：2K 360Hz QD-OLED、内置电源，3499 元",
-      "link": "https://www.ithome.com/0/992/834.htm",
-      "time": "08-21 19:33",
-      "src": "IT之家"
-    },
-    {
-      "title": "飞利浦推出 Evnia 27M2N3291PL 显示器，27 英寸 1080P 260Hz Fast IPS 面板",
-      "link": "https://www.ithome.com/0/992/826.htm",
-      "time": "08-21 18:58",
-      "src": "IT之家"
-    },
-    {
       "title": "解锁开学新装备：神影16 魔龙姬限定款领衔微星笔记本晒单有礼",
       "link": "https://www.gcores.com/articles/218642",
       "time": "08-21 14:16",
       "src": "机核"
+    },
+    {
+      "title": "森海塞尔发布Momentum True Wireless 5无线耳机 首度支持用户自行更换电池",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574414.htm",
+      "time": "08-22 07:53",
+      "src": "cnBeta.COM"
     },
     {
       "title": "AMD x86电脑处理器市场份额首破30% 英特尔优势持续缩水",
@@ -835,34 +841,28 @@
       "src": "cnBeta.COM"
     },
     {
-      "title": "买三套内存忘在别墅里：一年后翻了四倍 如今价值2万",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1574352.htm",
-      "time": "08-21 16:24",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "导热垫保护膜没撕 RTX 3070风扇狂转近5年",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1574350.htm",
-      "time": "08-21 16:24",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "大力没出奇迹！显卡DP线拔不出来硬拽 接头干断",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1574348.htm",
-      "time": "08-21 16:23",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "价格暴涨劝退玩家 7月国内显卡出货量同比跌幅达17%",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1574332.htm",
-      "time": "08-21 16:00",
-      "src": "cnBeta.COM"
-    },
-    {
       "title": "TDS REVIEW | Nothing Ear (3a) 降噪真无线耳机体验",
       "link": "https://sspai.com/post/113586",
       "time": "08-21 11:05",
       "src": "少数派"
+    },
+    {
+      "title": "派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本",
+      "link": "https://sspai.com/post/113638",
+      "time": "08-20 08:46",
+      "src": "少数派"
+    },
+    {
+      "title": "Computex 2026: NVIDIA 发布 ARM 架构 PC 芯片 RTX Spark, 集成 Blackwell GPU, 对标苹果 M5",
+      "link": "https://new.qq.com/rain/a/20260605A09PXY00",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "AMD 发布 Ryzen 7 7700X3D(104MB缓存,$329) 与 Radeon RX 9070 GRE(12GB,$549), 强化 1440p 游戏市场",
+      "link": "https://www.91mobiles.com/hub/computex-2026-amd-ryzen-x3d-cpus-radeon-9070-gre",
+      "time": "精选",
+      "src": "资讯整理"
     }
   ],
   "kojima": {
@@ -1048,18 +1048,6 @@
         "src": "AFP - LUDOVIC "
       },
       {
-        "title": "“烂到极致，反而成了神作”：被誉为“纯手搓”的中国动画《牛来》意外走红",
-        "link": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20260821-%E7%83%82%E5%88%B0%E6%9E%81%E8%87%B4%EF%BC%8C%E5%8F%8D%E8%80%8C%E6%88%90%E4%BA%86%E7%A5%9E%E4%BD%9C-%E8%A2%AB%E8%AA%89%E4%B8%BA-%E7%BA%AF%E6%89%8B%E6%90%93-%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8A%A8%E7%94%BB-%E7%89%9B%E6%9D%A5-%E6%84%8F%E5%A4%96%E8%B5%B0%E7%BA%A2",
-        "time": "08-21 19:57",
-        "src": "© Dalian Jingy"
-      },
-      {
-        "title": "三星拟宣布股东回报计划 规模或高达790亿美元",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-ininzpqz8314605.shtml",
-        "time": "08-21 07:52",
-        "src": "环球市场播报"
-      },
-      {
         "title": "《动画产业报告2025》: 市场规模达 3.84 万亿日元创历史新高, 海外占比约 56.5%",
         "link": "https://www.info35.net/hotopics/44871.html",
         "time": "精选",
@@ -1087,55 +1075,67 @@
   },
   "intl_news": [
     {
-      "title": "单天线覆盖八个频段：华为宣布联合沙特 stc 完成全球首个 MB² 微波方案商用部署",
-      "link": "https://www.ithome.com/0/992/848.htm",
-      "time": "08-21 20:46",
+      "title": "冲击全球最大 IPO：曝 Anthropic 募资 1000 亿美元，目标估值 2 万亿美元",
+      "link": "https://www.ithome.com/0/992/910.htm",
+      "time": "08-22 08:59",
       "src": "IT之家"
     },
     {
-      "title": "Counterpoint 预测 2026 年全球智能手机出货量下降 14.3%，华为逆势增长、三星重回第一",
-      "link": "https://www.ithome.com/0/992/838.htm",
-      "time": "08-21 19:50",
+      "title": "微软公布《漫威斗魂》等游戏不兼容 Win11 八月更新初步结果：RGB 灯效设备代码冲突",
+      "link": "https://www.ithome.com/0/992/907.htm",
+      "time": "08-22 08:41",
       "src": "IT之家"
     },
     {
-      "title": "今年7月欧盟油价同比增长16.9%",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-22/10682131.shtml",
-      "time": "08-22 01:23",
+      "title": "奇瑞全新艾瑞泽 7 全球首发亮相，提供电混、燃油版本",
+      "link": "https://www.ithome.com/0/992/905.htm",
+      "time": "08-22 08:23",
+      "src": "IT之家"
+    },
+    {
+      "title": "5G 商用网络实现十厘米级别定位精度，爱立信、联发科完成全球首例高精度户外定位端到端测试",
+      "link": "https://www.ithome.com/0/992/903.htm",
+      "time": "08-22 08:14",
+      "src": "IT之家"
+    },
+    {
+      "title": "订单排到第四季度！国产叉车 全球爆单→",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-22/10682173.shtml",
+      "time": "08-22 08:56",
       "src": "中新网"
     },
     {
-      "title": "伊朗外长：美国对伊经济施压行动“注定失败”",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-22/10682136.shtml",
-      "time": "08-22 01:22",
+      "title": "国际足联重罚阿根廷队 阿根廷足协称将上诉",
+      "link": "https://www.chinanews.com.cn/ty/2026/08-22/10682170.shtml",
+      "time": "08-22 08:55",
       "src": "中新网"
     },
     {
-      "title": "国际足联就世界杯期间多起事件对阿根廷足协作出处罚",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-22/10682133.shtml",
-      "time": "08-22 01:09",
+      "title": "特朗普再称霍尔木兹海峡为美国领土",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-22/10682165.shtml",
+      "time": "08-22 08:44",
       "src": "中新网"
     },
     {
-      "title": "土耳其请求国际刑警组织对内塔尼亚胡发出红色通缉令",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-21/10682120.shtml",
-      "time": "08-21 23:06",
-      "src": "中新网"
-    },
-    {
-      "title": "“全球新工业革命联盟”落地香港 助力可持续发展",
-      "link": "https://www.chinanews.com.cn/dwq/2026/08-21/10682116.shtml",
-      "time": "08-21 22:07",
-      "src": "中新网"
-    },
-    {
-      "title": "海南洋浦港审批便利化新举措提升国际船舶进口岸效率",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-21/10682115.shtml",
-      "time": "08-21 22:06",
+      "title": "德国近四分之一企业面临技工短缺",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-22/10682158.shtml",
+      "time": "08-22 08:43",
       "src": "中新网"
     }
   ],
   "econ_news": [
+    {
+      "title": "冲击全球最大 IPO：曝 Anthropic 募资 1000 亿美元，目标估值 2 万亿美元",
+      "link": "https://www.ithome.com/0/992/910.htm",
+      "time": "08-22 08:59",
+      "src": "IT之家"
+    },
+    {
+      "title": "通过自动化系统封禁司机账户，Uber 优步被荷兰罚款 8.25 亿欧元",
+      "link": "https://www.ithome.com/0/992/894.htm",
+      "time": "08-22 07:43",
+      "src": "IT之家"
+    },
     {
       "title": "SSD 与 HDD 价差创纪录，30TB 企业级固态硬盘飙至 22600 美元达机械硬盘 18.6 倍",
       "link": "https://www.ithome.com/0/992/868.htm",
@@ -1149,90 +1149,78 @@
       "src": "IT之家"
     },
     {
-      "title": "长芯博创 2026 年半年度归母净利润 3.21 亿元，同比增长 91.08%",
-      "link": "https://www.ithome.com/0/992/842.htm",
-      "time": "08-21 20:11",
-      "src": "IT之家"
+      "title": "主播说联播丨老家消费大变样！活跃消费，“奔县”有力度",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-22/10682182.shtml",
+      "time": "08-22 09:27",
+      "src": "中新网"
     },
     {
-      "title": "东方甄选 2026 财年年报归母净利润 5.44 亿元，同比增长 9377.8%",
-      "link": "https://www.ithome.com/0/992/839.htm",
-      "time": "08-21 19:54",
-      "src": "IT之家"
+      "title": "中国经济的韧性与活力",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-22/10682154.shtml",
+      "time": "08-22 08:21",
+      "src": "中新网"
     },
     {
-      "title": "科沃斯 2026 年半年度归母净利润 12.48 亿元，同比增长 27.4%",
-      "link": "https://www.ithome.com/0/992/831.htm",
-      "time": "08-21 19:09",
-      "src": "IT之家"
+      "title": "收到退税后不返现给用户 罗技被美国消费者集体起诉",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574436.htm",
+      "time": "08-22 09:27",
+      "src": "cnBeta.COM"
     },
     {
-      "title": "长飞光纤 2026 上半年归母净利润 29.25 亿元，同比增长 888.88%",
-      "link": "https://www.ithome.com/0/992/829.htm",
-      "time": "08-21 19:02",
-      "src": "IT之家"
-    },
-    {
-      "title": "蓝思科技 2026 上半年归母净利润 5.77 亿元，同比下降 49.52%",
-      "link": "https://www.ithome.com/0/992/813.htm",
-      "time": "08-21 18:37",
-      "src": "IT之家"
-    },
-    {
-      "title": "中际旭创 2026 上半年归母净利润 136.51 亿元，同比增长 241.7%",
-      "link": "https://www.ithome.com/0/992/819.htm",
-      "time": "08-21 18:42",
-      "src": "IT之家"
+      "title": "Anthropic IPO融资额或超1000亿美元、估值2万亿美元",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574434.htm",
+      "time": "08-22 09:26",
+      "src": "cnBeta.COM"
     }
   ],
   "game_news": [
     {
-      "title": "R 星母公司 T2 出手追查《GTA6》泄密人大葱哥，向微软和 Discord 发传票",
-      "link": "https://www.ithome.com/0/992/884.htm",
-      "time": "08-21 23:39",
+      "title": "开源兼容层 Wine 11.16 发布：新增 VA-API 硬件解码，修复 Steam 无法启动等 35 个 Bug",
+      "link": "https://www.ithome.com/0/992/915.htm",
+      "time": "08-22 09:22",
       "src": "IT之家"
     },
     {
-      "title": "微软为 Win10/Win11 新版 Outlook 添加经典主题，提升使用体验",
-      "link": "https://www.ithome.com/0/992/860.htm",
-      "time": "08-21 21:13",
+      "title": "微软公布《漫威斗魂》等游戏不兼容 Win11 八月更新初步结果：RGB 灯效设备代码冲突",
+      "link": "https://www.ithome.com/0/992/907.htm",
+      "time": "08-22 08:41",
       "src": "IT之家"
     },
     {
-      "title": "索尼 & 亚马逊《战神》剧集因主演受伤重新选角，《银河护卫队》“毁灭者”戴夫 · 巴蒂斯塔加盟饰演奎托斯",
-      "link": "https://www.ithome.com/0/992/847.htm",
-      "time": "08-21 20:41",
+      "title": "微软 Win11 将精细化管理统一内存，调控图形和 AI 预留容量",
+      "link": "https://www.ithome.com/0/992/904.htm",
+      "time": "08-22 08:21",
       "src": "IT之家"
     },
     {
-      "title": "《寂静岭：Townfall》在主机平台将由 PS5 独占至少半年，后续再登陆 XBOX",
-      "link": "https://www.ithome.com/0/992/840.htm",
-      "time": "08-21 20:07",
+      "title": "微软 Win11 26H2 将默认启用“时光机”：每隔 24 小时创建备份、最高占用 50GB 存储",
+      "link": "https://www.ithome.com/0/992/901.htm",
+      "time": "08-22 08:09",
       "src": "IT之家"
     },
     {
-      "title": "中国音数协游戏工委：7 月国内游戏市场实际销售收入同比增长 6.92%",
-      "link": "https://www.ithome.com/0/992/836.htm",
-      "time": "08-21 19:39",
+      "title": "微软 Win11 版 OneDrive Photos 不再“露脸”，下月将支持独立卸载",
+      "link": "https://www.ithome.com/0/992/898.htm",
+      "time": "08-22 07:55",
       "src": "IT之家"
     },
     {
-      "title": "优派“VX27G60Z-2K-3”26.5 英寸显示器发售：2K 360Hz QD-OLED、内置电源，3499 元",
-      "link": "https://www.ithome.com/0/992/834.htm",
-      "time": "08-21 19:33",
+      "title": "微软应用引导 Chrome / Firefox 等浏览器设 Bing 为默认搜索引擎，相关扩展拥有 500 万用户",
+      "link": "https://www.ithome.com/0/992/895.htm",
+      "time": "08-22 07:43",
       "src": "IT之家"
     },
     {
-      "title": "消息称微软 Xbox Series X 主机 25 周年纪念版 11 月上市，899 美元",
-      "link": "https://www.ithome.com/0/992/820.htm",
-      "time": "08-21 18:42",
+      "title": "《使命召唤：现代战争 4》试玩登陆 Steam，完整游戏 10 月 23 日发行",
+      "link": "https://www.ithome.com/0/992/887.htm",
+      "time": "08-22 02:11",
       "src": "IT之家"
     },
     {
-      "title": "拳头游戏宣布旗下格斗游戏《2XKO》将于年底停止开发",
-      "link": "https://www.gcores.com/articles/218634",
-      "time": "08-21 16:23",
-      "src": "机核"
+      "title": "微软发布 Win11 Beta / Experimental 预览版：WinUI 重构 AutoPlay 对话框",
+      "link": "https://www.ithome.com/0/992/886.htm",
+      "time": "08-22 01:10",
+      "src": "IT之家"
     }
   ],
   "game_update": [
@@ -1301,16 +1289,16 @@
       "src": "ISW"
     },
     {
-      "title": "伊朗外长：美国对伊经济施压行动“注定失败”",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-22/10682136.shtml",
-      "time": "08-22 01:22",
-      "src": "中新网"
+      "title": "微软公布《漫威斗魂》等游戏不兼容 Win11 八月更新初步结果：RGB 灯效设备代码冲突",
+      "link": "https://www.ithome.com/0/992/907.htm",
+      "time": "08-22 08:41",
+      "src": "IT之家"
     },
     {
-      "title": "董军会见印度尼西亚国防部长",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-21/10682112.shtml",
-      "time": "08-21 21:58",
-      "src": "中新网"
+      "title": "《使命召唤：现代战争 4》试玩登陆 Steam，完整游戏 10 月 23 日发行",
+      "link": "https://www.ithome.com/0/992/887.htm",
+      "time": "08-22 02:11",
+      "src": "IT之家"
     },
     {
       "title": "从柏林近郊疑现俄秘密武器库 到德国军事基地和机场上空的无人机威胁",
