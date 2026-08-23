@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23 12:44",
+  "generated_at": "2026-08-23 14:52",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -251,10 +251,10 @@
         "src": "IT之家"
       },
       {
-        "title": "航天自研半人马机器人首次公开亮相，未来甚至有望奔赴太空开展作业",
-        "link": "https://www.ithome.com/0/993/124.htm",
-        "time": "08-23 07:25",
-        "src": "IT之家"
+        "title": "全国各地18支炒菜机器人队伍齐聚东莞秀“锅气”",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682666.shtml",
+        "time": "08-23 14:04",
+        "src": "中新网"
       },
       {
         "title": "第二届世界人形机器人运动会开幕 666支队伍2056台机器人参赛",
@@ -263,21 +263,21 @@
         "src": "cnBeta.COM"
       },
       {
-        "title": "观众排队与机器人打乒乓球 感慨“玩了十年输给机器”",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1574450.htm",
-        "time": "08-22 17:09",
-        "src": "cnBeta.COM"
+        "title": "深演智能获纳入恒生指数系列的成份股",
+        "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-23/doc-iniphsst0550162.shtml",
+        "time": "08-23 13:12",
+        "src": "新浪港股"
       },
       {
-        "title": "Anthropic IPO融资额或超1000亿美元、估值2万亿美元",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1574434.htm",
-        "time": "08-22 09:26",
-        "src": "cnBeta.COM"
+        "title": "大摩：华润啤酒目标价下调至30港元 维持“增持”评级",
+        "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-23/doc-iniphnma3805528.shtml",
+        "time": "08-23 12:58",
+        "src": "新浪港股"
       },
       {
-        "title": "大摩：康龙化成给予“增持”评级 目标价升至35.60港元",
-        "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-23/doc-iniphnky7027400.shtml",
-        "time": "08-23 12:44",
+        "title": "大摩：太古地产维持“增持”评级 目标价降至28港元",
+        "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-23/doc-iniphnkw2619975.shtml",
+        "time": "08-23 12:50",
         "src": "新浪港股"
       }
     ]
@@ -529,6 +529,24 @@
   "ai": {
     "news_zh": [
       {
+        "title": "OpenAI 投资的美国 AI 公司转用中国开源模型，基于 Kimi K3 打造专属法律 AI 模型",
+        "link": "https://www.ithome.com/0/993/185.htm",
+        "time": "08-23 14:39",
+        "src": "IT之家"
+      },
+      {
+        "title": "阿里拟配售 800 亿港元新股，全部投入 AI 建设",
+        "link": "https://www.ithome.com/0/993/184.htm",
+        "time": "08-23 14:24",
+        "src": "IT之家"
+      },
+      {
+        "title": "小米玄戒芯片技术沟通会明天见，时隔 459 天再迎全新成员",
+        "link": "https://www.ithome.com/0/993/181.htm",
+        "time": "08-23 14:07",
+        "src": "IT之家"
+      },
+      {
         "title": "壹号掌机 X2 Mini Pro 国行开售：AMD 锐龙 AI Max+ 388，日常价 17,599 元起",
         "link": "https://www.ithome.com/0/993/161.htm",
         "time": "08-23 11:29",
@@ -557,42 +575,24 @@
         "link": "https://www.ithome.com/0/993/149.htm",
         "time": "08-23 10:14",
         "src": "IT之家"
-      },
-      {
-        "title": "OpenAI 一改此前立场，呼吁加州强化 AI 安全法案",
-        "link": "https://www.ithome.com/0/993/141.htm",
-        "time": "08-23 09:20",
-        "src": "IT之家"
-      },
-      {
-        "title": "荣耀机器人闪电 400 米跑出 40.6 秒成绩，打破该项人类世界纪录",
-        "link": "https://www.ithome.com/0/993/140.htm",
-        "time": "08-23 09:02",
-        "src": "IT之家"
-      },
-      {
-        "title": "内存成本飙升，消息称英伟达 AI 芯片服务器明年初起涨价最高超 15%",
-        "link": "https://www.ithome.com/0/993/136.htm",
-        "time": "08-23 08:52",
-        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 12174,
+        "likes": 12187,
         "downloads": 2090699,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 2644,
+        "likes": 2649,
         "downloads": 6320542,
         "pipeline": ""
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-        "likes": 889,
+        "likes": 894,
         "downloads": 34909,
         "pipeline": "image-text-to-text"
       },
@@ -604,13 +604,13 @@
       },
       {
         "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-        "likes": 550,
+        "likes": 560,
         "downloads": 164950,
         "pipeline": "text-generation"
       },
       {
         "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-        "likes": 492,
+        "likes": 498,
         "downloads": 486221,
         "pipeline": "image-text-to-text"
       }
@@ -1033,12 +1033,6 @@
   "anime_industry": {
     "news": [
       {
-        "title": "Xbox 25周年透明绿限量版主机被曝售价高达900美元",
-        "link": "https://www.cnbeta.com.tw/articles/game/1574458.htm",
-        "time": "08-22 17:15",
-        "src": "cnBeta.COM"
-      },
-      {
         "title": "中信证券：首次覆盖首钢朗泽给予“买入”评级 目标价高达44港元",
         "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-23/doc-iniphnkv0661847.shtml",
         "time": "08-23 12:38",
@@ -1072,27 +1066,39 @@
   },
   "intl_news": [
     {
-      "title": "（洋话香江）英国植物画家奔雅：钟情香港半世纪 山海草木皆是家",
-      "link": "https://www.chinanews.com.cn/dwq/2026/08-23/10682616.shtml",
-      "time": "08-23 12:03",
+      "title": "五支国际船队山东青岛起航竞逐“远东杯”国际帆船拉力赛",
+      "link": "https://www.chinanews.com.cn/ty/2026/08-23/10682671.shtml",
+      "time": "08-23 14:08",
       "src": "中新网"
+    },
+    {
+      "title": "美国共和党议员批评特朗普的牛肉进口计划",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-23/10682665.shtml",
+      "time": "08-23 13:58",
+      "src": "中新网"
+    },
+    {
+      "title": "英国一家发电厂遭伊朗黑客攻击 业务瘫痪长达四天",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574546.htm",
+      "time": "08-23 14:17",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "70亿美元买100多名人才 NVIDIA要搞全球最强开源模型",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574534.htm",
+      "time": "08-23 14:06",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "中国卖20万、德国卖47万 国产奥迪价格翻一倍卖还是比德国便宜",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574532.htm",
+      "time": "08-23 14:05",
+      "src": "cnBeta.COM"
     },
     {
       "title": "让老外吵翻天的b站国际版，到底啥成色？",
       "link": "https://www.cnbeta.com.tw/articles/movie/1574496.htm",
       "time": "08-23 08:39",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "英国一4.5米长巨蟒用人类疗法抗癌成功",
-      "link": "https://www.cnbeta.com.tw/articles/science/1574468.htm",
-      "time": "08-22 17:53",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "深圳华强北，成了欧洲人的快乐老家？",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1574466.htm",
-      "time": "08-22 17:52",
       "src": "cnBeta.COM"
     },
     {
@@ -1106,18 +1112,6 @@
       "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260822-ai%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E7%9A%84%E4%BA%89%E8%AE%BA%E6%88%90%E7%BE%8E%E5%9B%BD%E4%BB%8A%E5%B9%B4%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E7%84%A6%E7%82%B9%E4%B9%8B%E4%B8%80",
       "time": "08-23 04:09",
       "src": "© Kevin Lamarq"
-    },
-    {
-      "title": "特朗普再遭一击    法官推翻政府停发75国移民签证政策",
-      "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260822-%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E9%81%AD%E4%B8%80%E5%87%BB-%E6%B3%95%E5%AE%98%E6%8E%A8%E7%BF%BB%E6%94%BF%E5%BA%9C%E5%81%9C%E5%8F%9175%E5%9B%BD%E7%A7%BB%E6%B0%91%E7%AD%BE%E8%AF%81%E6%94%BF%E7%AD%96",
-      "time": "08-23 04:56",
-      "src": "REUTERS - Evan"
-    },
-    {
-      "title": "中国在伊朗问题上为何占据了优势？",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260822-%E4%B8%AD%E5%9B%BD%E5%9C%A8%E4%BC%8A%E6%9C%97%E9%97%AE%E9%A2%98%E4%B8%8A%E4%B8%BA%E4%BD%95%E5%8D%A0%E6%8D%AE%E4%BA%86%E4%BC%98%E5%8A%BF",
-      "time": "08-23 04:35",
-      "src": "© RFI"
     }
   ],
   "econ_news": [
@@ -1140,37 +1134,49 @@
       "src": "IT之家"
     },
     {
-      "title": "加拿大将对美国征收等额报复性关税",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-23/10682583.shtml",
-      "time": "08-23 11:24",
+      "title": "美国共和党议员批评特朗普的牛肉进口计划",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-23/10682665.shtml",
+      "time": "08-23 13:58",
       "src": "中新网"
     },
     {
-      "title": "爆料称索尼PS6掌机定价低于600美元“绝无可能”",
-      "link": "https://www.cnbeta.com.tw/articles/game/1574502.htm",
-      "time": "08-23 08:40",
-      "src": "cnBeta.COM"
+      "title": "（活力中国调研行）“闽超”掀观赛热潮 厦门借势促消费",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682656.shtml",
+      "time": "08-23 13:51",
+      "src": "中新网"
     },
     {
-      "title": "加拿大宣布9月8日起对美国商品征收报复性关税",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1574494.htm",
-      "time": "08-23 08:37",
-      "src": "cnBeta.COM"
+      "title": "香港财政司长：国家AI迅速发展对香港发挥显著助力",
+      "link": "https://www.chinanews.com.cn/dwq/2026/08-23/10682645.shtml",
+      "time": "08-23 13:30",
+      "src": "中新网"
     },
     {
-      "title": "300美元的智能戒指真能追踪睡眠？Oura因监测准确性面临集体诉讼",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1574486.htm",
-      "time": "08-23 08:21",
-      "src": "cnBeta.COM"
+      "title": "五大连池“冷矿泉”催生“热经济” 康养文旅吸引海外游客",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-23/10682640.shtml",
+      "time": "08-23 13:06",
+      "src": "中新网"
     },
     {
-      "title": "GTA6泄露者已获利6万美元 钱包仍存39万加密货币",
-      "link": "https://www.cnbeta.com.tw/articles/game/1574470.htm",
-      "time": "08-22 17:54",
+      "title": "70亿美元买100多名人才 NVIDIA要搞全球最强开源模型",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574534.htm",
+      "time": "08-23 14:06",
       "src": "cnBeta.COM"
     }
   ],
   "game_news": [
+    {
+      "title": "索尼宣布《绝地潜兵 2》游戏全平台玩家数超 2290 万人",
+      "link": "https://www.ithome.com/0/993/186.htm",
+      "time": "08-23 14:40",
+      "src": "IT之家"
+    },
+    {
+      "title": "索尼发邮件重申：PlayStation 数字游戏仅为授权许可，并非出售给玩家",
+      "link": "https://www.ithome.com/0/993/176.htm",
+      "time": "08-23 13:04",
+      "src": "IT之家"
+    },
     {
       "title": "网易《逆水寒：新世界》首次季中大更新： 4.1.3 版本预告片公布，首张新地图、全新种植玩法等",
       "link": "https://www.ithome.com/0/993/166.htm",
@@ -1206,18 +1212,6 @@
       "link": "https://www.ithome.com/0/993/134.htm",
       "time": "08-23 08:32",
       "src": "IT之家"
-    },
-    {
-      "title": "谨防中招：网传 113GB《GTA 6》泄露版本实为病毒文件",
-      "link": "https://www.ithome.com/0/993/127.htm",
-      "time": "08-23 07:44",
-      "src": "IT之家"
-    },
-    {
-      "title": "[281]游戏回_钟馗王者归来",
-      "link": "https://www.gcores.com/radios/218668",
-      "time": "08-22 23:37",
-      "src": "机核"
     }
   ],
   "game_update": [
@@ -1304,10 +1298,10 @@
       "src": "IT之家"
     },
     {
-      "title": "美国军事深陷AI迷局",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-23/10682607.shtml",
-      "time": "08-23 11:48",
-      "src": "中新网"
+      "title": "英国一家发电厂遭伊朗黑客攻击 业务瘫痪长达四天",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574546.htm",
+      "time": "08-23 14:17",
+      "src": "cnBeta.COM"
     },
     {
       "title": "《使命召唤：现代战争4》单人战役17分钟实机",
