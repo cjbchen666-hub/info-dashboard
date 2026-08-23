@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24 02:38",
+  "generated_at": "2026-08-24 04:30",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -517,37 +517,37 @@
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 12273,
+        "likes": 12296,
         "downloads": 2358347,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 2716,
+        "likes": 2722,
         "downloads": 6674515,
         "pipeline": ""
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-        "likes": 934,
+        "likes": 945,
         "downloads": 47098,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-        "likes": 1032,
+        "likes": 1038,
         "downloads": 190062,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-        "likes": 608,
+        "likes": 613,
         "downloads": 244834,
         "pipeline": "text-generation"
       },
       {
         "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-        "likes": 524,
+        "likes": 529,
         "downloads": 676697,
         "pipeline": "image-text-to-text"
       }
@@ -1241,16 +1241,16 @@
       "src": "AP Photo/Vahid"
     },
     {
-      "title": "中国在伊朗问题上为何占据了优势？",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260822-%E4%B8%AD%E5%9B%BD%E5%9C%A8%E4%BC%8A%E6%9C%97%E9%97%AE%E9%A2%98%E4%B8%8A%E4%B8%BA%E4%BD%95%E5%8D%A0%E6%8D%AE%E4%BA%86%E4%BC%98%E5%8A%BF",
-      "time": "08-23 04:35",
-      "src": "© RFI"
-    },
-    {
       "title": "集体拒签“最后通牒”，大批媒体撤离五角大楼",
       "link": "https://news.sina.com.cn/w/2025-10-18/doc-infuhrzs7824610.shtml",
       "time": "10-18 11:10",
       "src": ""
+    },
+    {
+      "title": "伊朗代理总统同俄罗斯总统通电话 讨论合作问题",
+      "link": "https://news.sina.com.cn/w/2024-06-27/doc-incaceev5723822.shtml",
+      "time": "06-27 03:10",
+      "src": "央视"
     }
   ]
 }
