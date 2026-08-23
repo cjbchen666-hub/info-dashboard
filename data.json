@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23 22:29",
+  "generated_at": "2026-08-24 00:33",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -129,9 +129,9 @@
       }
     ],
     "status": {
-      "state": "休市",
-      "label": "周末休市",
-      "date": "2026-08-23"
+      "state": "未开盘",
+      "label": "今日尚未开盘",
+      "date": "2026-08-24"
     },
     "watch": [
       {
@@ -233,6 +233,12 @@
     ],
     "news": [
       {
+        "title": "2 分 21 秒 63，天卓队使用天工 Ultra 夺得人形机器人 1500 米冠军",
+        "link": "https://www.ithome.com/0/993/310.htm",
+        "time": "08-23 22:38",
+        "src": "IT之家"
+      },
+      {
         "title": "荣耀晒“闪电”机器人最新战报：打破半马、峰值速度等 5 项人类世界纪录",
         "link": "https://www.ithome.com/0/993/297.htm",
         "time": "08-23 21:32",
@@ -273,12 +279,6 @@
         "link": "https://www.ithome.com/0/993/262.htm",
         "time": "08-23 19:44",
         "src": "IT之家"
-      },
-      {
-        "title": "诺亦腾机器人发布 HiPHI，开源 617.5 小时高精度人体运动数据",
-        "link": "https://www.ithome.com/0/993/258.htm",
-        "time": "08-23 19:18",
-        "src": "IT之家"
       }
     ]
   },
@@ -317,187 +317,124 @@
     }
   ],
   "anime": {
-    "date": "08-23",
-    "weekday": "日",
+    "date": "08-24",
+    "weekday": "月",
     "items": [
       {
-        "id": 501963,
-        "name": "無職転生Ⅲ ～異世界行ったら本気だす～",
-        "name_cn": "无职转生 第三季 ～到了异世界就拿出真本事～",
-        "score": 7.9,
-        "img": "http://lain.bgm.tv/pic/cover/c/1f/9e/501963_bXlEP.jpg",
-        "air_date": "2026-07-04",
-        "rank": 279
-      },
-      {
-        "id": 638497,
-        "name": "正反対な君と僕 第2期",
-        "name_cn": "相反的你和我 第二季",
-        "score": 7.7,
-        "img": "http://lain.bgm.tv/pic/cover/c/fa/9b/638497_85455.jpg",
-        "air_date": "2026-07-05",
-        "rank": 531
-      },
-      {
-        "id": 495291,
-        "name": "さよならララ",
-        "name_cn": "再见菈菈",
-        "score": 7.6,
-        "img": "http://lain.bgm.tv/pic/cover/c/18/af/495291_9WuBW.jpg",
-        "air_date": "2026-07-05",
-        "rank": 740
-      },
-      {
-        "id": 598058,
-        "name": "君のことが大大大大大好きな100人の彼女 第3期",
-        "name_cn": "超超超超超喜欢你的100个女朋友 第三季",
-        "score": 7.5,
-        "img": "http://lain.bgm.tv/pic/cover/c/96/f8/598058_1RcCL.jpg",
-        "air_date": "2026-07-05",
-        "rank": 937
-      },
-      {
-        "id": 615835,
-        "name": "鉄鍋のジャン",
-        "name_cn": "炒翻天",
+        "id": 569116,
+        "name": "ぐらんぶる Season 3",
+        "name_cn": "碧蓝之海 第三季",
         "score": 7.1,
-        "img": "http://lain.bgm.tv/pic/cover/c/27/b5/615835_IbNAh.jpg",
-        "air_date": "2026-07-05",
-        "rank": 2241
+        "img": "http://lain.bgm.tv/pic/cover/c/f1/bf/569116_n6dPq.jpg",
+        "air_date": "2026-07-06",
+        "rank": 2251
       },
       {
-        "id": 545008,
-        "name": "ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～",
-        "name_cn": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
+        "id": 607340,
+        "name": "透明な夜に駆ける君と、目に見えない恋をした。",
+        "name_cn": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
         "score": 7.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/14/a1/545008_pNnzQ.jpg",
-        "air_date": "2026-07-12",
-        "rank": 2709
+        "img": "http://lain.bgm.tv/pic/cover/c/71/44/607340_n8Rrl.jpg",
+        "air_date": "2026-07-06",
+        "rank": 2452
       },
       {
-        "id": 454083,
-        "name": "アズールレーン びそくぜんしんっ！にっ!!",
-        "name_cn": "碧蓝航线：微速前行！第二季",
-        "score": 6.6,
-        "img": "http://lain.bgm.tv/pic/cover/c/61/12/454083_DtM3t.jpg",
-        "air_date": "2026-07-05",
-        "rank": 4169
-      },
-      {
-        "id": 574041,
-        "name": "President Curtis",
-        "name_cn": "柯蒂斯总统",
-        "score": 6.6,
-        "img": "http://lain.bgm.tv/pic/cover/c/8a/1a/574041_z5P0R.jpg",
-        "air_date": "2026-07-26",
-        "rank": null
-      },
-      {
-        "id": 613039,
-        "name": "茶啊二中第六季",
-        "name_cn": "茶啊二中 第6季",
-        "score": 6.4,
-        "img": "http://lain.bgm.tv/pic/cover/c/a3/12/613039_Z6VM6.jpg",
-        "air_date": "2026-07-26",
-        "rank": null
-      },
-      {
-        "id": 577191,
-        "name": "ONE PIECE HEROINES",
-        "name_cn": "航海王 女英雄们的故事",
-        "score": 6.2,
-        "img": "http://lain.bgm.tv/pic/cover/c/b1/dd/577191_c7zCc.jpg",
-        "air_date": "2026-07-05",
-        "rank": 6545
-      },
-      {
-        "id": 668108,
-        "name": "『モブサイコ100』アニメ10周年記念特別映像",
-        "name_cn": "《灵能百分百》动画10周年纪念特别映像",
-        "score": 6.2,
-        "img": "http://lain.bgm.tv/pic/cover/c/fe/47/668108_K7488.jpg",
-        "air_date": "2026-07-12",
-        "rank": 4817
-      },
-      {
-        "id": 595106,
-        "name": "レッツゴー怪奇組",
-        "name_cn": "Let's Go 怪奇组",
+        "id": 569671,
+        "name": "炎の闘球女 ドッジ弾子",
+        "name_cn": "斗球女弹子",
         "score": 6.1,
-        "img": "http://lain.bgm.tv/pic/cover/c/61/8d/595106_ll6Jj.jpg",
-        "air_date": "2026-07-05",
-        "rank": 5886
-      },
-      {
-        "id": 255209,
-        "name": "二十世紀電氣目録-ユーレカ・エヴリカ-",
-        "name_cn": "二十世纪电气目录",
-        "score": 5.5,
-        "img": "http://lain.bgm.tv/pic/cover/c/ce/3a/255209_9w0tU.jpg",
-        "air_date": "2026-07-05",
-        "rank": 9178
-      },
-      {
-        "id": 619052,
-        "name": "あはれ！名作くん 完全新作",
-        "name_cn": "做得很好！名作君 完全新作",
-        "score": 5.5,
-        "img": "http://lain.bgm.tv/pic/cover/c/dd/82/619052_B0qAA.jpg",
-        "air_date": "2026-07-05",
+        "img": "http://lain.bgm.tv/pic/cover/c/5a/fe/569671_0HZvf.jpg",
+        "air_date": "2026-07-06",
         "rank": null
       },
       {
-        "id": 583862,
-        "name": "世界最強の後衛 ～迷宮国の新人探索者～",
-        "name_cn": "世界最强的后卫 ～迷宫国的新人探索者～",
-        "score": 4.6,
-        "img": "http://lain.bgm.tv/pic/cover/c/45/58/583862_6YGGE.jpg",
-        "air_date": "2026-07-05",
-        "rank": 9694
-      },
-      {
-        "id": 633354,
-        "name": "同じゼミの染谷さんがセクシー女優だった話。",
-        "name_cn": "同一个研讨会的染谷同学是AV女优的事",
-        "score": 4.5,
-        "img": "http://lain.bgm.tv/pic/cover/c/f3/66/633354_zm82g.jpg",
-        "air_date": "2026-07-05",
-        "rank": 8876
-      },
-      {
-        "id": 571896,
-        "name": "サイボーグ009 ネメシス",
-        "name_cn": "人造人009 涅墨西斯",
-        "score": 3.9,
-        "img": "http://lain.bgm.tv/pic/cover/c/07/0b/571896_fT9FA.jpg",
-        "air_date": "2026-07-19",
-        "rank": 9687
-      },
-      {
-        "id": 662006,
-        "name": "闇芝居 十七期",
-        "name_cn": "暗芝居 第十七季",
-        "score": 3.4,
-        "img": "http://lain.bgm.tv/pic/cover/c/04/b0/662006_tnf6N.jpg",
-        "air_date": "2026-07-12",
+        "id": 637339,
+        "name": "北斗の拳 拳王軍ザコたちの挽歌 第2クール",
+        "name_cn": "北斗神拳 拳王军杂兵们的挽歌 第二季",
+        "score": 6.1,
+        "img": "http://lain.bgm.tv/pic/cover/c/d0/a9/637339_93zPo.jpg",
+        "air_date": "2026-07-06",
         "rank": null
       },
       {
-        "id": 633711,
-        "name": "プラノサウルス ガチコセイブツ部",
+        "id": 663444,
+        "name": "King of the Hill Season 15",
+        "name_cn": "一家之主 第15季",
+        "score": 6.0,
+        "img": "http://lain.bgm.tv/pic/cover/c/1e/f8/663444_i2im9.jpg",
+        "air_date": "2026-07-20",
+        "rank": null
+      },
+      {
+        "id": 590786,
+        "name": "ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。",
+        "name_cn": "『你们先走我断后』，于是10年后我成为了传说",
+        "score": 5.6,
+        "img": "http://lain.bgm.tv/pic/cover/c/2c/93/590786_48D8M.jpg",
+        "air_date": "2026-07-06",
+        "rank": 8687
+      },
+      {
+        "id": 528828,
+        "name": "骸骨騎士様、只今異世界へお出掛け中Ⅱ",
+        "name_cn": "骸骨骑士大人异世界冒险中 第二季",
+        "score": 5.3,
+        "img": "http://lain.bgm.tv/pic/cover/c/1d/71/528828_oQl2M.jpg",
+        "air_date": "2026-07-06",
+        "rank": 8868
+      },
+      {
+        "id": 636067,
+        "name": "捨てられ聖女の異世界ごはん旅 隠れスキルでキャンピングカーを召喚しました",
+        "name_cn": "无用圣女的异世界美食之旅 凭借隐藏技能召唤露营车",
+        "score": 5.2,
+        "img": "http://lain.bgm.tv/pic/cover/c/75/fd/636067_0uuym.jpg",
+        "air_date": "2026-07-06",
+        "rank": 8560
+      },
+      {
+        "id": 456080,
+        "name": "転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件",
+        "name_cn": "转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥们儿",
+        "score": 5.0,
+        "img": "http://lain.bgm.tv/pic/cover/c/ce/e2/456080_C4q4C.jpg",
+        "air_date": "2026-07-06",
+        "rank": 9745
+      },
+      {
+        "id": 456081,
+        "name": "最強出涸らし皇子の暗躍帝位争い",
+        "name_cn": "最强废渣皇子暗中活跃于帝位之争",
+        "score": 5.0,
+        "img": "http://lain.bgm.tv/pic/cover/c/a7/a6/456081_Bs2nE.jpg",
+        "air_date": "2026-07-06",
+        "rank": 9110
+      },
+      {
+        "id": 579246,
+        "name": "ブチ切れ令嬢は報復を誓いました。～魔導書の力で祖国を叩き潰します～",
+        "name_cn": "暴怒千金发誓复仇。～凭借魔导书之力打垮祖国～",
+        "score": 5.0,
+        "img": "http://lain.bgm.tv/pic/cover/c/e2/dd/579246_61291.jpg",
+        "air_date": "2026-07-06",
+        "rank": 9303
+      },
+      {
+        "id": 607933,
+        "name": "万古至尊：李云霄传",
         "name_cn": "",
-        "score": 3.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/ea/4c/633711_V28UU.jpg",
-        "air_date": "2026-07-12",
+        "score": 2.0,
+        "img": "http://lain.bgm.tv/pic/cover/c/2f/c0/607933_uzVv6.jpg",
+        "air_date": "2026-07-20",
         "rank": null
       },
       {
-        "id": 659686,
-        "name": "トミカとトム シーズン2",
-        "name_cn": "",
-        "score": 1.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/67/28/659686_001De.jpg",
-        "air_date": "2026-07-05",
+        "id": 595884,
+        "name": "Marvel's Spidey and His Amazing Friends Season 5",
+        "name_cn": "蜘蛛侠与他的神奇朋友们 第五季",
+        "score": null,
+        "img": "http://lain.bgm.tv/pic/cover/c/b2/2b/595884_Qskw0.jpg",
+        "air_date": "2026-07-13",
         "rank": null
       }
     ]
@@ -529,6 +466,24 @@
   "ai": {
     "news_zh": [
       {
+        "title": "获英伟达投资，美国初创 Starcloud 研发 GPU 卫星欲建太空数据中心",
+        "link": "https://www.ithome.com/0/993/313.htm",
+        "time": "08-23 23:09",
+        "src": "IT之家"
+      },
+      {
+        "title": "2 分 21 秒 63，天卓队使用天工 Ultra 夺得人形机器人 1500 米冠军",
+        "link": "https://www.ithome.com/0/993/310.htm",
+        "time": "08-23 22:38",
+        "src": "IT之家"
+      },
+      {
+        "title": "加州伯克利数学教授撰文批评学生基础差，却被抓包“用 AI 写的”",
+        "link": "https://www.ithome.com/0/993/309.htm",
+        "time": "08-23 22:33",
+        "src": "IT之家"
+      },
+      {
         "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
         "link": "https://www.ithome.com/0/993/305.htm",
         "time": "08-23 22:13",
@@ -557,60 +512,42 @@
         "link": "https://www.ithome.com/0/993/294.htm",
         "time": "08-23 21:02",
         "src": "IT之家"
-      },
-      {
-        "title": "第二届世界人形机器人运动会：智元精灵 G2 成功摘取“消防应急场景”“图书场景”两枚金牌",
-        "link": "https://www.ithome.com/0/993/292.htm",
-        "time": "08-23 20:59",
-        "src": "IT之家"
-      },
-      {
-        "title": "能像“骑马”一样操控，大咖机器人 DaxAI 展示骐骥系列四足机器马",
-        "link": "https://www.ithome.com/0/993/291.htm",
-        "time": "08-23 20:54",
-        "src": "IT之家"
-      },
-      {
-        "title": "2027 北京亦庄人形机器人半程马拉松大赛开启全球邀请，赛事规格再升级",
-        "link": "https://www.ithome.com/0/993/288.htm",
-        "time": "08-23 20:49",
-        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 12242,
+        "likes": 12257,
         "downloads": 2358347,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 2683,
+        "likes": 2702,
         "downloads": 6674515,
         "pipeline": ""
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-        "likes": 915,
+        "likes": 926,
         "downloads": 47098,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-        "likes": 1019,
+        "likes": 1023,
         "downloads": 190062,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-        "likes": 594,
+        "likes": 603,
         "downloads": 244834,
         "pipeline": "text-generation"
       },
       {
         "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-        "likes": 514,
+        "likes": 520,
         "downloads": 676697,
         "pipeline": "image-text-to-text"
       }
@@ -783,12 +720,6 @@
     }
   ],
   "hw_news": [
-    {
-      "title": "联想推出 LOQ 15IPH11 游戏本：酷睿 Ultra 7 356H 处理器、RTX5050/5060 显卡",
-      "link": "https://www.ithome.com/0/993/223.htm",
-      "time": "08-23 15:45",
-      "src": "IT之家"
-    },
     {
       "title": "解锁开学新装备：神影16 魔龙姬限定款领衔微星笔记本晒单有礼",
       "link": "https://www.gcores.com/articles/218642",
@@ -1066,6 +997,12 @@
   },
   "intl_news": [
     {
+      "title": "联影医疗、天津大学发布全球首个磁共振脑机接口全栈式解决方案 uMR 神观",
+      "link": "https://www.ithome.com/0/993/315.htm",
+      "time": "08-23 23:18",
+      "src": "IT之家"
+    },
+    {
       "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
       "link": "https://www.ithome.com/0/993/305.htm",
       "time": "08-23 22:13",
@@ -1102,12 +1039,6 @@
       "src": "IT之家"
     },
     {
-      "title": "伊朗总统：伊朗已处于“全面战争”之中",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-23/10682819.shtml",
-      "time": "08-23 20:40",
-      "src": "中新网"
-    },
-    {
       "title": "研究发现英国市场所有受检植物基肉类及饮品均含霉菌毒素",
       "link": "https://www.cnbeta.com.tw/articles/science/1574560.htm",
       "time": "08-23 18:22",
@@ -1116,9 +1047,9 @@
   ],
   "econ_news": [
     {
-      "title": "英伟达砸 60 亿美元投资 Poolside，意图打造中国开源 AI 竞争对手",
-      "link": "https://www.ithome.com/0/993/226.htm",
-      "time": "08-23 16:05",
+      "title": "古尔曼：苹果今秋计划大幅调整零售店布局，或为带屏 HomePod 铺路",
+      "link": "https://www.ithome.com/0/993/317.htm",
+      "time": "08-23 23:24",
       "src": "IT之家"
     },
     {
@@ -1166,6 +1097,18 @@
   ],
   "game_news": [
     {
+      "title": "玩家抵制 PlayStation 行动升级：一周 → 无限期，直至索尼为取消实体光盘认错",
+      "link": "https://www.ithome.com/0/993/318.htm",
+      "time": "08-23 23:57",
+      "src": "IT之家"
+    },
+    {
+      "title": "前 R 星技术总监谈《GTA 6》画面泄露：实则“没什么大不了”",
+      "link": "https://www.ithome.com/0/993/314.htm",
+      "time": "08-23 23:14",
+      "src": "IT之家"
+    },
+    {
       "title": "宫崎英高确认《黄昏血族》游戏将包含匹配机制，保护新手免受高手虐菜",
       "link": "https://www.ithome.com/0/993/307.htm",
       "time": "08-23 22:27",
@@ -1196,21 +1139,9 @@
       "src": "IT之家"
     },
     {
-      "title": "联想推出 LOQ 15IPH11 游戏本：酷睿 Ultra 7 356H 处理器、RTX5050/5060 显卡",
-      "link": "https://www.ithome.com/0/993/223.htm",
-      "time": "08-23 15:45",
-      "src": "IT之家"
-    },
-    {
       "title": "\"我们从未想过成为下一个 E3\"——对话 科隆游戏展 主办方",
       "link": "https://www.gcores.com/articles/218682",
       "time": "08-23 21:00",
-      "src": "机核"
-    },
-    {
-      "title": "从夯到拉锐评今年玩到的各种游戏【视频播客音频版】",
-      "link": "https://www.gcores.com/radios/218633",
-      "time": "08-23 16:10",
       "src": "机核"
     }
   ],
@@ -1280,16 +1211,10 @@
       "src": "ISW"
     },
     {
-      "title": "LG 新能源：固态电池在装进汽车之前，可能会先进入手机、无人机",
-      "link": "https://www.ithome.com/0/993/222.htm",
-      "time": "08-23 15:44",
-      "src": "IT之家"
-    },
-    {
-      "title": "伊朗总统：伊朗已处于“全面战争”之中",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-23/10682819.shtml",
-      "time": "08-23 20:40",
-      "src": "中新网"
+      "title": "BLACKOUT：一场光盘战争的前夜",
+      "link": "https://www.gcores.com/radios/218374",
+      "time": "08-23 23:00",
+      "src": "机核"
     },
     {
       "title": "英国一家发电厂遭伊朗黑客攻击 业务瘫痪长达四天",
@@ -1320,6 +1245,12 @@
       "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260822-%E4%B8%AD%E5%9B%BD%E5%9C%A8%E4%BC%8A%E6%9C%97%E9%97%AE%E9%A2%98%E4%B8%8A%E4%B8%BA%E4%BD%95%E5%8D%A0%E6%8D%AE%E4%BA%86%E4%BC%98%E5%8A%BF",
       "time": "08-23 04:35",
       "src": "© RFI"
+    },
+    {
+      "title": "法国承诺向乌克兰提供新型拦截导弹",
+      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260822-%E6%B3%95%E5%9B%BD%E6%89%BF%E8%AF%BA%E5%90%91%E4%B9%8C%E5%85%8B%E5%85%B0%E6%8F%90%E4%BE%9B%E6%96%B0%E5%9E%8B%E6%8B%A6%E6%88%AA%E5%AF%BC%E5%BC%B9",
+      "time": "08-23 04:27",
+      "src": "AFP - SERGEI S"
     }
   ]
 }
