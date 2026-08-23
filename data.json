@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24 04:30",
+  "generated_at": "2026-08-24 06:29",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -327,7 +327,7 @@
         "score": 7.1,
         "img": "http://lain.bgm.tv/pic/cover/c/f1/bf/569116_n6dPq.jpg",
         "air_date": "2026-07-06",
-        "rank": 2251
+        "rank": 2218
       },
       {
         "id": 607340,
@@ -336,7 +336,7 @@
         "score": 7.0,
         "img": "http://lain.bgm.tv/pic/cover/c/71/44/607340_n8Rrl.jpg",
         "air_date": "2026-07-06",
-        "rank": 2452
+        "rank": 2480
       },
       {
         "id": 569671,
@@ -372,7 +372,7 @@
         "score": 5.6,
         "img": "http://lain.bgm.tv/pic/cover/c/2c/93/590786_48D8M.jpg",
         "air_date": "2026-07-06",
-        "rank": 8687
+        "rank": 8694
       },
       {
         "id": 528828,
@@ -381,7 +381,7 @@
         "score": 5.3,
         "img": "http://lain.bgm.tv/pic/cover/c/1d/71/528828_oQl2M.jpg",
         "air_date": "2026-07-06",
-        "rank": 8868
+        "rank": 8895
       },
       {
         "id": 636067,
@@ -390,7 +390,7 @@
         "score": 5.2,
         "img": "http://lain.bgm.tv/pic/cover/c/75/fd/636067_0uuym.jpg",
         "air_date": "2026-07-06",
-        "rank": 8560
+        "rank": 8559
       },
       {
         "id": 456080,
@@ -399,7 +399,7 @@
         "score": 5.0,
         "img": "http://lain.bgm.tv/pic/cover/c/ce/e2/456080_C4q4C.jpg",
         "air_date": "2026-07-06",
-        "rank": 9745
+        "rank": 9739
       },
       {
         "id": 456081,
@@ -408,7 +408,7 @@
         "score": 5.0,
         "img": "http://lain.bgm.tv/pic/cover/c/a7/a6/456081_Bs2nE.jpg",
         "air_date": "2026-07-06",
-        "rank": 9110
+        "rank": 9103
       },
       {
         "id": 579246,
@@ -417,7 +417,7 @@
         "score": 5.0,
         "img": "http://lain.bgm.tv/pic/cover/c/e2/dd/579246_61291.jpg",
         "air_date": "2026-07-06",
-        "rank": 9303
+        "rank": 9306
       },
       {
         "id": 607933,
@@ -517,37 +517,37 @@
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 12296,
+        "likes": 12304,
         "downloads": 2358347,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 2722,
+        "likes": 2732,
         "downloads": 6674515,
         "pipeline": ""
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-        "likes": 945,
+        "likes": 950,
         "downloads": 47098,
         "pipeline": "image-text-to-text"
       },
       {
-        "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-        "likes": 1038,
-        "downloads": 190062,
-        "pipeline": "image-text-to-text"
-      },
-      {
         "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-        "likes": 613,
+        "likes": 623,
         "downloads": 244834,
         "pipeline": "text-generation"
       },
       {
+        "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
+        "likes": 1044,
+        "downloads": 190062,
+        "pipeline": "image-text-to-text"
+      },
+      {
         "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-        "likes": 529,
+        "likes": 532,
         "downloads": 676697,
         "pipeline": "image-text-to-text"
       }
@@ -727,9 +727,9 @@
       "src": "机核"
     },
     {
-      "title": "微软持续推进Windows 11现代化改造 经典鼠标提示及多项界面迎全面升级",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1574490.htm",
-      "time": "08-23 08:30",
+      "title": "Linux 7.3整合DRM更新 全面提升从老旧显卡到下一代硬件的驱动体验",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574574.htm",
+      "time": "08-24 06:22",
       "src": "cnBeta.COM"
     },
     {
@@ -749,6 +749,12 @@
       "link": "https://sspai.com/post/113638",
       "time": "08-20 08:46",
       "src": "少数派"
+    },
+    {
+      "title": "中国电竞首次登顶EWC总冠军",
+      "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260823-%E4%B8%AD%E5%9B%BD%E7%94%B5%E7%AB%9E%E9%A6%96%E6%AC%A1%E7%99%BB%E9%A1%B6ewc%E6%80%BB%E5%86%A0%E5%86%9B",
+      "time": "08-24 04:45",
+      "src": "© l'équipe"
     },
     {
       "title": "Computex 2026: NVIDIA 发布 ARM 架构 PC 芯片 RTX Spark, 集成 Blackwell GPU, 对标苹果 M5",
@@ -1039,10 +1045,10 @@
       "src": "IT之家"
     },
     {
-      "title": "研究发现英国市场所有受检植物基肉类及饮品均含霉菌毒素",
-      "link": "https://www.cnbeta.com.tw/articles/science/1574560.htm",
-      "time": "08-23 18:22",
-      "src": "cnBeta.COM"
+      "title": "美军称对伊朗海上封锁以来已拦截75艘商船",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-24/10682877.shtml",
+      "time": "08-24 05:55",
+      "src": "中新网"
     }
   ],
   "econ_news": [
@@ -1053,16 +1059,22 @@
       "src": "IT之家"
     },
     {
+      "title": "伊朗官员：若美打经济战 霍尔木兹海峡和波斯湾将再无石油出口",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-24/10682874.shtml",
+      "time": "08-24 05:52",
+      "src": "中新网"
+    },
+    {
       "title": "现场直击：见到赛考斯，殷玉珍练了很久的英文，一句也没能说出口",
       "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682849.shtml",
       "time": "08-23 21:53",
       "src": "中新网"
     },
     {
-      "title": "沪港澳台侨青年相聚上海：玩转低空经济 迸发科创巧思",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682838.shtml",
-      "time": "08-23 21:15",
-      "src": "中新网"
+      "title": "苹果零售店重组内部布局 全面迎接全新智能家居产品上市",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574570.htm",
+      "time": "08-24 06:17",
+      "src": "cnBeta.COM"
     },
     {
       "title": "美政府或全面限制ASML对华出口DUV光刻机",
@@ -1083,16 +1095,10 @@
       "src": "cnBeta.COM"
     },
     {
-      "title": "爆料称索尼PS6掌机定价低于600美元“绝无可能”",
-      "link": "https://www.cnbeta.com.tw/articles/game/1574502.htm",
-      "time": "08-23 08:40",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "加拿大宣布9月8日起对美国商品征收报复性关税",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1574494.htm",
-      "time": "08-23 08:37",
-      "src": "cnBeta.COM"
+      "title": "中国汽车销量下滑20%    出口增长70%",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260823-%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E4%B8%8B%E6%BB%9120-%E5%87%BA%E5%8F%A3%E5%A2%9E%E9%95%BF70",
+      "time": "08-24 04:17",
+      "src": "© instagram"
     }
   ],
   "game_news": [
@@ -1217,40 +1223,40 @@
       "src": "机核"
     },
     {
+      "title": "美军称对伊朗海上封锁以来已拦截75艘商船",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-24/10682877.shtml",
+      "time": "08-24 05:55",
+      "src": "中新网"
+    },
+    {
+      "title": "俄国防部：击落269架乌克兰无人机",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-24/10682876.shtml",
+      "time": "08-24 05:55",
+      "src": "中新网"
+    },
+    {
+      "title": "伊朗官员：若美打经济战 霍尔木兹海峡和波斯湾将再无石油出口",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-24/10682874.shtml",
+      "time": "08-24 05:52",
+      "src": "中新网"
+    },
+    {
       "title": "英国一家发电厂遭伊朗黑客攻击 业务瘫痪长达四天",
       "link": "https://www.cnbeta.com.tw/articles/tech/1574546.htm",
       "time": "08-23 14:17",
       "src": "cnBeta.COM"
     },
     {
-      "title": "《使命召唤：现代战争4》单人战役17分钟实机",
-      "link": "https://www.cnbeta.com.tw/articles/game/1574500.htm",
-      "time": "08-23 08:40",
-      "src": "cnBeta.COM"
+      "title": "印尼总统会见中国外长防长 2+2会谈承诺扩大军队互动",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260823-%E5%8D%B0%E5%B0%BC%E6%80%BB%E7%BB%9F%E4%BC%9A%E8%A7%81%E4%B8%AD%E5%9B%BD%E5%A4%96%E9%95%BF%E9%98%B2%E9%95%BF-2-2%E4%BC%9A%E8%B0%88%E6%89%BF%E8%AF%BA%E6%89%A9%E5%A4%A7%E5%86%9B%E9%98%9F%E4%BA%92%E5%8A%A8",
+      "time": "08-24 04:54",
+      "src": "AFP - BAY ISMO"
     },
     {
-      "title": "伊朗总统承认伊朗社会正面临“许多困难”",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260823-%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E6%89%BF%E8%AE%A4%E4%BC%8A%E6%9C%97%E7%A4%BE%E4%BC%9A%E6%AD%A3%E9%9D%A2%E4%B8%B4-%E8%AE%B8%E5%A4%9A%E5%9B%B0%E9%9A%BE",
-      "time": "08-23 17:00",
-      "src": "AFP - -"
-    },
-    {
-      "title": "伊朗处决一名涉嫌参与反政府示威的男子，中东冲突以来伊朗处决人数有所增加",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260823-%E4%BC%8A%E6%9C%97%E5%A4%84%E5%86%B3%E4%B8%80%E5%90%8D%E6%B6%89%E5%AB%8C%E5%8F%82%E4%B8%8E%E5%8F%8D%E6%94%BF%E5%BA%9C%E7%A4%BA%E5%A8%81%E7%9A%84%E7%94%B7%E5%AD%90%EF%BC%8C%E4%B8%AD%E4%B8%9C%E5%86%B2%E7%AA%81%E4%BB%A5%E6%9D%A5%E4%BC%8A%E6%9C%97%E5%A4%84%E5%86%B3%E4%BA%BA%E6%95%B0%E6%9C%89%E6%89%80%E5%A2%9E%E5%8A%A0",
-      "time": "08-23 16:37",
-      "src": "AP Photo/Vahid"
-    },
-    {
-      "title": "集体拒签“最后通牒”，大批媒体撤离五角大楼",
-      "link": "https://news.sina.com.cn/w/2025-10-18/doc-infuhrzs7824610.shtml",
-      "time": "10-18 11:10",
-      "src": ""
-    },
-    {
-      "title": "伊朗代理总统同俄罗斯总统通电话 讨论合作问题",
-      "link": "https://news.sina.com.cn/w/2024-06-27/doc-incaceev5723822.shtml",
-      "time": "06-27 03:10",
-      "src": "央视"
+      "title": "伊朗宣布发现新的天然气田",
+      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260823-%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E5%8F%91%E7%8E%B0%E6%96%B0%E7%9A%84%E5%A4%A9%E7%84%B6%E6%B0%94%E7%94%B0",
+      "time": "08-24 04:28",
+      "src": "© French press"
     }
   ]
 }
