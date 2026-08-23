@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24 00:33",
+  "generated_at": "2026-08-24 02:38",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -517,37 +517,37 @@
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 12257,
+        "likes": 12273,
         "downloads": 2358347,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 2702,
+        "likes": 2716,
         "downloads": 6674515,
         "pipeline": ""
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-        "likes": 926,
+        "likes": 934,
         "downloads": 47098,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-        "likes": 1023,
+        "likes": 1032,
         "downloads": 190062,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-        "likes": 603,
+        "likes": 608,
         "downloads": 244834,
         "pipeline": "text-generation"
       },
       {
         "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-        "likes": 520,
+        "likes": 524,
         "downloads": 676697,
         "pipeline": "image-text-to-text"
       }
@@ -1247,10 +1247,10 @@
       "src": "© RFI"
     },
     {
-      "title": "法国承诺向乌克兰提供新型拦截导弹",
-      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260822-%E6%B3%95%E5%9B%BD%E6%89%BF%E8%AF%BA%E5%90%91%E4%B9%8C%E5%85%8B%E5%85%B0%E6%8F%90%E4%BE%9B%E6%96%B0%E5%9E%8B%E6%8B%A6%E6%88%AA%E5%AF%BC%E5%BC%B9",
-      "time": "08-23 04:27",
-      "src": "AFP - SERGEI S"
+      "title": "集体拒签“最后通牒”，大批媒体撤离五角大楼",
+      "link": "https://news.sina.com.cn/w/2025-10-18/doc-infuhrzs7824610.shtml",
+      "time": "10-18 11:10",
+      "src": ""
     }
   ]
 }
