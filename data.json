@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25 00:46",
+  "generated_at": "2026-08-25 02:50",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 53391.38,
-      "pct": 0.21,
-      "chg": 114.37,
-      "amount": "1014679519亿"
+      "price": 53444.93,
+      "pct": 0.32,
+      "chg": 167.92,
+      "amount": "1331313173亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26075.69,
-      "pct": -0.4,
-      "chg": -104.76,
-      "amount": "9101456572亿"
+      "price": 26051.78,
+      "pct": -0.49,
+      "chg": -128.67,
+      "amount": "12000176213亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7660.31,
-      "pct": -0.18,
-      "chg": -14.06,
-      "amount": "809119577亿"
+      "price": 7661.83,
+      "pct": -0.16,
+      "chg": -12.54,
+      "amount": "1114630853亿"
     }
   ],
   "anime": {
@@ -490,37 +490,37 @@
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 12463,
+        "likes": 12479,
         "downloads": 2645226,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 2797,
+        "likes": 2809,
         "downloads": 7009063,
         "pipeline": ""
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-        "likes": 1010,
+        "likes": 1016,
         "downloads": 57947,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-        "likes": 679,
+        "likes": 680,
         "downloads": 312627,
         "pipeline": "text-generation"
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-        "likes": 1077,
+        "likes": 1080,
         "downloads": 224114,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-        "likes": 567,
+        "likes": 572,
         "downloads": 761975,
         "pipeline": "image-text-to-text"
       }
@@ -1050,12 +1050,6 @@
       "src": "IT之家"
     },
     {
-      "title": "佰维存储 2026 年上半年归母净利润 71.66 亿元，同比扭亏转盈",
-      "link": "https://www.ithome.com/0/993/673.htm",
-      "time": "08-24 17:56",
-      "src": "IT之家"
-    },
-    {
       "title": "从暴雨中穿行归来 ｜ 「吉考斯工业 × 重返未来：1999 」联名系列Part 2 现已发售",
       "link": "https://www.gcores.com/articles/218694",
       "time": "08-24 10:00",
@@ -1072,6 +1066,12 @@
       "link": "https://www.chinanews.com.cn/gj/2026/08-24/10683477.shtml",
       "time": "08-24 21:50",
       "src": "中新网"
+    },
+    {
+      "title": "2026全球平板显示面板出货量预计下滑4.7% 存储涨价拖累消费电子需求",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574752.htm",
+      "time": "08-24 22:45",
+      "src": "cnBeta.COM"
     }
   ],
   "game_news": [
