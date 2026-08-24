@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25 04:38",
+  "generated_at": "2026-08-25 06:33",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -269,15 +269,15 @@
         "src": "cnBeta.COM"
       },
       {
-        "title": "8月25日收盘：科技板块承压，纳指收跌0.76% 市场关注英伟达财报",
-        "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inipnite5750416.shtml",
-        "time": "08-25 04:33",
+        "title": "8月25日美股成交额前20：存储板块再遭抛售 英伟达七连跌",
+        "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inipnpze2423338.shtml",
+        "time": "08-25 06:31",
         "src": "环球市场播报"
       },
       {
-        "title": "高盛和富国等华尔街机构称 财政部回购难以压低长期美债收益率",
-        "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inipncmh5866282.shtml",
-        "time": "08-25 03:29",
+        "title": "美国股市：标普500指数收低 芯片股再遭抛售 英伟达录得七连跌",
+        "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inipnith2528445.shtml",
+        "time": "08-25 04:55",
         "src": "环球市场播报"
       }
     ]
@@ -305,7 +305,7 @@
       "price": 25980.19,
       "pct": -0.76,
       "chg": -200.26,
-      "amount": "16435945025亿"
+      "amount": "16755511048亿"
     },
     {
       "name": "标普500",
@@ -327,7 +327,7 @@
         "score": 7.4,
         "img": "http://lain.bgm.tv/pic/cover/c/7e/10/496276_Qeu06.jpg",
         "air_date": "2026-07-07",
-        "rank": 1064
+        "rank": 1081
       },
       {
         "id": 325767,
@@ -336,7 +336,7 @@
         "score": 7.1,
         "img": "http://lain.bgm.tv/pic/cover/c/a1/d3/325767_u3pvR.jpg",
         "air_date": "2026-07-07",
-        "rank": 2290
+        "rank": 2273
       },
       {
         "id": 541285,
@@ -345,7 +345,7 @@
         "score": 7.0,
         "img": "http://lain.bgm.tv/pic/cover/c/b3/26/541285_CYBZc.jpg",
         "air_date": "2026-07-07",
-        "rank": 2416
+        "rank": 2510
       },
       {
         "id": 584641,
@@ -354,7 +354,7 @@
         "score": 6.1,
         "img": "http://lain.bgm.tv/pic/cover/c/04/5b/584641_150ne.jpg",
         "air_date": "2026-07-07",
-        "rank": 6648
+        "rank": 6669
       },
       {
         "id": 607929,
@@ -390,7 +390,7 @@
         "score": 4.3,
         "img": "http://lain.bgm.tv/pic/cover/c/11/b7/627648_V00Vh.jpg",
         "air_date": "2026-07-07",
-        "rank": 9517
+        "rank": 9519
       },
       {
         "id": 638995,
@@ -490,37 +490,37 @@
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 12491,
+        "likes": 12507,
         "downloads": 2645226,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 2821,
+        "likes": 2830,
         "downloads": 7009063,
         "pipeline": ""
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-        "likes": 1021,
+        "likes": 1026,
         "downloads": 57947,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-        "likes": 685,
+        "likes": 691,
         "downloads": 312627,
         "pipeline": "text-generation"
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-        "likes": 1089,
+        "likes": 1092,
         "downloads": 224114,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-        "likes": 574,
+        "likes": 576,
         "downloads": 761975,
         "pipeline": "image-text-to-text"
       }
@@ -736,18 +736,6 @@
       "src": "IT之家"
     },
     {
-      "title": "Counterpoint：内存持续短缺，全球平板显示器市场今年预计同比下降 4.7%",
-      "link": "https://www.ithome.com/0/993/694.htm",
-      "time": "08-24 18:43",
-      "src": "IT之家"
-    },
-    {
-      "title": "重庆“产业援藏”再拓新路 电竞嘉年华活动落地西藏昌都",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-24/10683464.shtml",
-      "time": "08-24 21:44",
-      "src": "中新网"
-    },
-    {
       "title": "AMD客户端CPU市场份额首次突破30% 英特尔优势持续收窄",
       "link": "https://www.cnbeta.com.tw/articles/tech/1574758.htm",
       "time": "08-25 03:52",
@@ -763,6 +751,18 @@
       "title": "Windows将很快允许用户自己分配内存给游戏和AI",
       "link": "https://www.cnbeta.com.tw/articles/tech/1574744.htm",
       "time": "08-24 22:38",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "AI基础设施持续投入 2027年内存收入将突破1万亿美元",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574724.htm",
+      "time": "08-24 16:08",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "调查显示10%玩家愿花上万买显卡 超半数接受4000+",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574690.htm",
+      "time": "08-24 12:21",
       "src": "cnBeta.COM"
     }
   ],
@@ -994,10 +994,16 @@
       "src": "IT之家"
     },
     {
-      "title": "Counterpoint：内存持续短缺，全球平板显示器市场今年预计同比下降 4.7%",
-      "link": "https://www.ithome.com/0/993/694.htm",
-      "time": "08-24 18:43",
-      "src": "IT之家"
+      "title": "以色列总理声称伊朗曾企图暗杀其子",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-25/10683504.shtml",
+      "time": "08-25 06:10",
+      "src": "中新网"
+    },
+    {
+      "title": "伊朗最高领袖顾问：回应美方威胁将比以往更加坚决",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-25/10683502.shtml",
+      "time": "08-25 05:59",
+      "src": "中新网"
     },
     {
       "title": "欧盟启动民防机制驰援塞尔维亚应对山火",
@@ -1021,12 +1027,6 @@
       "title": "2026全球平板显示面板出货量预计下滑4.7% 存储涨价拖累消费电子需求",
       "link": "https://www.cnbeta.com.tw/articles/tech/1574752.htm",
       "time": "08-24 22:45",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "IBM推出全球首款双架构CPU：2nm+11核 纳秒级切换ARM及Z指令集",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1574750.htm",
-      "time": "08-24 22:43",
       "src": "cnBeta.COM"
     }
   ],
@@ -1062,6 +1062,12 @@
       "src": "机核"
     },
     {
+      "title": "加拿大总理：若美国拿出“正确态度” 将重返贸易谈判",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-25/10683503.shtml",
+      "time": "08-25 06:00",
+      "src": "中新网"
+    },
+    {
       "title": "“史上最具毁灭性经济战”一触即发，不信邪的伊朗要在“在美国眼皮底下”继续做生意",
       "link": "https://www.chinanews.com.cn/gsztc/2026/08-24/10683485.shtml",
       "time": "08-24 22:16",
@@ -1072,12 +1078,6 @@
       "link": "https://www.chinanews.com.cn/gj/2026/08-24/10683477.shtml",
       "time": "08-24 21:50",
       "src": "中新网"
-    },
-    {
-      "title": "英伟达称Groq机架将在今年上线 此前以200亿美元完成收购",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1574760.htm",
-      "time": "08-25 03:57",
-      "src": "cnBeta.COM"
     }
   ],
   "game_news": [
@@ -1208,6 +1208,18 @@
       "src": "机核"
     },
     {
+      "title": "以色列总理声称伊朗曾企图暗杀其子",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-25/10683504.shtml",
+      "time": "08-25 06:10",
+      "src": "中新网"
+    },
+    {
+      "title": "伊朗最高领袖顾问：回应美方威胁将比以往更加坚决",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-25/10683502.shtml",
+      "time": "08-25 05:59",
+      "src": "中新网"
+    },
+    {
       "title": "“史上最具毁灭性经济战”一触即发，不信邪的伊朗要在“在美国眼皮底下”继续做生意",
       "link": "https://www.chinanews.com.cn/gsztc/2026/08-24/10683485.shtml",
       "time": "08-24 22:16",
@@ -1220,22 +1232,10 @@
       "src": "法广RFI"
     },
     {
-      "title": "中俄如何松解美国对伊朗的经济绞刑？",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260824-%E4%B8%AD%E4%BF%84%E5%A6%82%E4%BD%95%E6%9D%BE%E8%A7%A3%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E7%9A%84%E7%BB%8F%E6%B5%8E%E7%BB%9E%E5%88%91",
-      "time": "08-24 21:50",
-      "src": "法广RFI"
-    },
-    {
-      "title": "伊朗货币跌至历史新低，特朗普称“伊朗正在彻底崩溃”",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260824-%E4%BC%8A%E6%9C%97%E8%B4%A7%E5%B8%81%E8%B7%8C%E8%87%B3%E5%8E%86%E5%8F%B2%E6%96%B0%E4%BD%8E%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0-%E4%BC%8A%E6%9C%97%E6%AD%A3%E5%9C%A8%E5%BD%BB%E5%BA%95%E5%B4%A9%E6%BA%83",
-      "time": "08-24 21:51",
-      "src": "AP - Vahid Sal"
-    },
-    {
-      "title": "应对伊朗威胁：“爱国者”导弹系统被重新部署至克里特岛",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260824-%E5%BA%94%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%A8%81%E8%83%81-%E7%88%B1%E5%9B%BD%E8%80%85-%E5%AF%BC%E5%BC%B9%E7%B3%BB%E7%BB%9F%E8%A2%AB%E9%87%8D%E6%96%B0%E9%83%A8%E7%BD%B2%E8%87%B3%E5%85%8B%E9%87%8C%E7%89%B9%E5%B2%9B",
-      "time": "08-24 19:32",
-      "src": "AFP - JOHN MAC"
+      "title": "贝森特：美对伊朗正发动全面经济攻势",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260824-%E8%B4%9D%E6%A3%AE%E7%89%B9-%E7%BE%8E%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%AD%A3%E5%8F%91%E5%8A%A8%E5%85%A8%E9%9D%A2%E7%BB%8F%E6%B5%8E%E6%94%BB%E5%8A%BF",
+      "time": "08-25 04:55",
+      "src": "© ATTA KENARE/"
     }
   ]
 }
