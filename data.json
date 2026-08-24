@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24 22:49",
+  "generated_at": "2026-08-25 00:46",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -129,9 +129,9 @@
       }
     ],
     "status": {
-      "state": "已收盘",
-      "label": "今日已收盘",
-      "date": "2026-08-24"
+      "state": "未开盘",
+      "label": "今日尚未开盘",
+      "date": "2026-08-25"
     },
     "watch": [
       {
@@ -251,12 +251,6 @@
         "src": "中新网"
       },
       {
-        "title": "国产机器人出海加速跑 哈尔滨“智造”驶入快车道",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-24/10683459.shtml",
-        "time": "08-24 21:43",
-        "src": "中新网"
-      },
-      {
         "title": "AI基础设施持续投入 2027年内存收入将突破1万亿美元",
         "link": "https://www.cnbeta.com.tw/articles/tech/1574724.htm",
         "time": "08-24 16:08",
@@ -273,6 +267,12 @@
         "link": "https://www.cnbeta.com.tw/articles/tech/1574686.htm",
         "time": "08-24 12:18",
         "src": "cnBeta.COM"
+      },
+      {
+        "title": "城堡证券：财政部回购美债类似金融抑制 压力可能传导至美元和通胀",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-24/doc-inipmxcn2692061.shtml",
+        "time": "08-24 23:39",
+        "src": "环球市场播报"
       },
       {
         "title": "消息人士称：贝森特或动用近 1 万亿美元财政部一般账户，为债券回购提供资金",
@@ -294,147 +294,120 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 53431.99,
-      "pct": 0.29,
-      "chg": 154.98,
-      "amount": "597698871亿"
+      "price": 53391.38,
+      "pct": 0.21,
+      "chg": 114.37,
+      "amount": "1014679519亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26036.26,
-      "pct": -0.55,
-      "chg": -144.19,
-      "amount": "5723004512亿"
+      "price": 26075.69,
+      "pct": -0.4,
+      "chg": -104.76,
+      "amount": "9101456572亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7656.74,
-      "pct": -0.23,
-      "chg": -17.63,
-      "amount": "456159683亿"
+      "price": 7660.31,
+      "pct": -0.18,
+      "chg": -14.06,
+      "amount": "809119577亿"
     }
   ],
   "anime": {
-    "date": "08-24",
-    "weekday": "月",
+    "date": "08-25",
+    "weekday": "火",
     "items": [
       {
-        "id": 569116,
-        "name": "ぐらんぶる Season 3",
-        "name_cn": "碧蓝之海 第三季",
+        "id": 496276,
+        "name": "攻殻機動隊 THE GHOST IN THE SHELL",
+        "name_cn": "攻壳机动队 THE GHOST IN THE SHELL",
+        "score": 7.4,
+        "img": "http://lain.bgm.tv/pic/cover/c/7e/10/496276_Qeu06.jpg",
+        "air_date": "2026-07-07",
+        "rank": 1064
+      },
+      {
+        "id": 325767,
+        "name": "対ありでした。 ～お嬢さまは格闘ゲームなんてしない～",
+        "name_cn": "感谢对战。 ～大小姐才不玩格斗游戏～",
         "score": 7.1,
-        "img": "http://lain.bgm.tv/pic/cover/c/f1/bf/569116_n6dPq.jpg",
-        "air_date": "2026-07-06",
-        "rank": 2218
+        "img": "http://lain.bgm.tv/pic/cover/c/a1/d3/325767_u3pvR.jpg",
+        "air_date": "2026-07-07",
+        "rank": 2290
       },
       {
-        "id": 607340,
-        "name": "透明な夜に駆ける君と、目に見えない恋をした。",
-        "name_cn": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "id": 541285,
+        "name": "きみが死ぬまで恋をしたい",
+        "name_cn": "与你相恋到生命尽头",
         "score": 7.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/71/44/607340_n8Rrl.jpg",
-        "air_date": "2026-07-06",
-        "rank": 2480
+        "img": "http://lain.bgm.tv/pic/cover/c/b3/26/541285_CYBZc.jpg",
+        "air_date": "2026-07-07",
+        "rank": 2416
       },
       {
-        "id": 569671,
-        "name": "炎の闘球女 ドッジ弾子",
-        "name_cn": "斗球女弹子",
+        "id": 584641,
+        "name": "手札が多めのビクトリア",
+        "name_cn": "奇招百出的维多利亚",
         "score": 6.1,
-        "img": "http://lain.bgm.tv/pic/cover/c/5a/fe/569671_0HZvf.jpg",
-        "air_date": "2026-07-06",
-        "rank": null
+        "img": "http://lain.bgm.tv/pic/cover/c/04/5b/584641_150ne.jpg",
+        "air_date": "2026-07-07",
+        "rank": 6648
       },
       {
-        "id": 637339,
-        "name": "北斗の拳 拳王軍ザコたちの挽歌 第2クール",
-        "name_cn": "北斗神拳 拳王军杂兵们的挽歌 第二季",
+        "id": 607929,
+        "name": "百日成王",
+        "name_cn": "百日成王",
         "score": 6.1,
-        "img": "http://lain.bgm.tv/pic/cover/c/d0/a9/637339_93zPo.jpg",
-        "air_date": "2026-07-06",
+        "img": "http://lain.bgm.tv/pic/cover/c/1d/82/607929_2ffk5.jpg",
+        "air_date": "2026-07-03",
         "rank": null
       },
       {
-        "id": 663444,
-        "name": "King of the Hill Season 15",
-        "name_cn": "一家之主 第15季",
-        "score": 6.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/1e/f8/663444_i2im9.jpg",
-        "air_date": "2026-07-20",
-        "rank": null
-      },
-      {
-        "id": 590786,
-        "name": "ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。",
-        "name_cn": "『你们先走我断后』，于是10年后我成为了传说",
+        "id": 612697,
+        "name": "鎧真伝サムライトルーパー 第2クール",
+        "name_cn": "铠真传 武士军团 第2部分",
         "score": 5.6,
-        "img": "http://lain.bgm.tv/pic/cover/c/2c/93/590786_48D8M.jpg",
-        "air_date": "2026-07-06",
-        "rank": 8694
-      },
-      {
-        "id": 528828,
-        "name": "骸骨騎士様、只今異世界へお出掛け中Ⅱ",
-        "name_cn": "骸骨骑士大人异世界冒险中 第二季",
-        "score": 5.3,
-        "img": "http://lain.bgm.tv/pic/cover/c/1d/71/528828_oQl2M.jpg",
-        "air_date": "2026-07-06",
-        "rank": 8895
-      },
-      {
-        "id": 636067,
-        "name": "捨てられ聖女の異世界ごはん旅 隠れスキルでキャンピングカーを召喚しました",
-        "name_cn": "无用圣女的异世界美食之旅 凭借隐藏技能召唤露营车",
-        "score": 5.2,
-        "img": "http://lain.bgm.tv/pic/cover/c/75/fd/636067_0uuym.jpg",
-        "air_date": "2026-07-06",
-        "rank": 8559
-      },
-      {
-        "id": 456081,
-        "name": "最強出涸らし皇子の暗躍帝位争い",
-        "name_cn": "最强废渣皇子暗中活跃于帝位之争",
-        "score": 5.1,
-        "img": "http://lain.bgm.tv/pic/cover/c/a7/a6/456081_Bs2nE.jpg",
-        "air_date": "2026-07-06",
-        "rank": 9103
-      },
-      {
-        "id": 456080,
-        "name": "転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件",
-        "name_cn": "转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥们儿",
-        "score": 5.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/ce/e2/456080_C4q4C.jpg",
-        "air_date": "2026-07-06",
-        "rank": 9739
-      },
-      {
-        "id": 579246,
-        "name": "ブチ切れ令嬢は報復を誓いました。～魔導書の力で祖国を叩き潰します～",
-        "name_cn": "暴怒千金发誓复仇。～凭借魔导书之力打垮祖国～",
-        "score": 5.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/e2/dd/579246_61291.jpg",
-        "air_date": "2026-07-06",
-        "rank": 9306
-      },
-      {
-        "id": 607933,
-        "name": "万古至尊：李云霄传",
-        "name_cn": "",
-        "score": 2.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/2f/c0/607933_uzVv6.jpg",
-        "air_date": "2026-07-20",
+        "img": "http://lain.bgm.tv/pic/cover/c/c5/ce/612697_fvrFF.jpg",
+        "air_date": "2026-07-07",
         "rank": null
       },
       {
-        "id": 595884,
-        "name": "Marvel's Spidey and His Amazing Friends Season 5",
-        "name_cn": "蜘蛛侠与他的神奇朋友们 第五季",
-        "score": null,
-        "img": "http://lain.bgm.tv/pic/cover/c/b2/2b/595884_Qskw0.jpg",
-        "air_date": "2026-07-13",
+        "id": 516426,
+        "name": "一斩苍穹",
+        "name_cn": "一斩苍穹",
+        "score": 5.4,
+        "img": "http://lain.bgm.tv/pic/cover/c/ef/2e/516426_JJUoU.jpg",
+        "air_date": "2026-07-28",
+        "rank": null
+      },
+      {
+        "id": 627648,
+        "name": "天は赤い河のほとり",
+        "name_cn": "天是红河岸",
+        "score": 4.3,
+        "img": "http://lain.bgm.tv/pic/cover/c/11/b7/627648_V00Vh.jpg",
+        "air_date": "2026-07-07",
+        "rank": 9517
+      },
+      {
+        "id": 638995,
+        "name": "身代わり令嬢を救ったのは冷酷無慈悲な氷の王子の愛でした",
+        "name_cn": "拯救替身千金的是冷酷无情冰之王子的爱",
+        "score": 4.0,
+        "img": "http://lain.bgm.tv/pic/cover/c/96/aa/638995_mM0aJ.jpg",
+        "air_date": "2026-07-07",
+        "rank": null
+      },
+      {
+        "id": 662681,
+        "name": "万古神帝",
+        "name_cn": "万古神帝",
+        "score": 1.3,
+        "img": "http://lain.bgm.tv/pic/cover/c/29/37/662681_9996z.jpg",
+        "air_date": "2026-07-21",
         "rank": null
       }
     ]
@@ -466,6 +439,24 @@
   "ai": {
     "news_zh": [
       {
+        "title": "直接问你要钱还是坚持使命，Anthropic 面试流程曝光",
+        "link": "https://www.ithome.com/0/993/756.htm",
+        "time": "08-24 23:33",
+        "src": "IT之家"
+      },
+      {
+        "title": "小米集团副总裁朱丹：芯片研发投入是为下一个十年买“入场券”",
+        "link": "https://www.ithome.com/0/993/753.htm",
+        "time": "08-24 23:10",
+        "src": "IT之家"
+      },
+      {
+        "title": "Lava 推出 Virat V1 Pro 5G 手机：6.75 寸 720P LCD 屏幕、紫光展锐 T8200 芯片",
+        "link": "https://www.ithome.com/0/993/747.htm",
+        "time": "08-24 22:56",
+        "src": "IT之家"
+      },
+      {
         "title": "美国音乐人 Dr. Dre 公开支持 AI 音乐，将其类比鼓机、合成器",
         "link": "https://www.ithome.com/0/993/745.htm",
         "time": "08-24 22:34",
@@ -494,60 +485,42 @@
         "link": "https://www.ithome.com/0/993/738.htm",
         "time": "08-24 21:57",
         "src": "IT之家"
-      },
-      {
-        "title": "荣耀 Play 20A 手机海外发布：搭载背屏、联发科 Helio G81 芯片",
-        "link": "https://www.ithome.com/0/993/731.htm",
-        "time": "08-24 21:14",
-        "src": "IT之家"
-      },
-      {
-        "title": "零跑汽车：已在具身智能机器人领域有所规划",
-        "link": "https://www.ithome.com/0/993/725.htm",
-        "time": "08-24 20:46",
-        "src": "IT之家"
-      },
-      {
-        "title": "“国产 GPU 四小龙”之一，燧原科技 9 月 2 日申购",
-        "link": "https://www.ithome.com/0/993/711.htm",
-        "time": "08-24 19:33",
-        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 12441,
+        "likes": 12463,
         "downloads": 2645226,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 2789,
+        "likes": 2797,
         "downloads": 7009063,
         "pipeline": ""
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-        "likes": 1004,
+        "likes": 1010,
         "downloads": 57947,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-        "likes": 676,
+        "likes": 679,
         "downloads": 312627,
         "pipeline": "text-generation"
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-        "likes": 1074,
+        "likes": 1077,
         "downloads": 224114,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-        "likes": 563,
+        "likes": 567,
         "downloads": 761975,
         "pipeline": "image-text-to-text"
       }
@@ -721,6 +694,12 @@
   ],
   "hw_news": [
     {
+      "title": "ACEMAGIC 推出 F2A 迷你主机：酷睿 Ultra X7 358H 处理器、32GB 内存",
+      "link": "https://www.ithome.com/0/993/758.htm",
+      "time": "08-24 23:41",
+      "src": "IT之家"
+    },
+    {
       "title": "小米玄戒 O3 行业首发支持 LPDDR6 内存，消息称长鑫存储是核心合作伙伴",
       "link": "https://www.ithome.com/0/993/733.htm",
       "time": "08-24 21:23",
@@ -784,12 +763,6 @@
       "title": "AI基础设施持续投入 2027年内存收入将突破1万亿美元",
       "link": "https://www.cnbeta.com.tw/articles/tech/1574724.htm",
       "time": "08-24 16:08",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "调查显示10%玩家愿花上万买显卡 超半数接受4000+",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1574690.htm",
-      "time": "08-24 12:21",
       "src": "cnBeta.COM"
     }
   ],
@@ -976,12 +949,6 @@
   "anime_industry": {
     "news": [
       {
-        "title": "通化东宝：公司将于9月3日召开2026年半年度业绩说明会",
-        "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-24/doc-inipmsvn5998108.shtml",
-        "time": "08-24 21:31",
-        "src": "证券日报网"
-      },
-      {
         "title": "《动画产业报告2025》: 市场规模达 3.84 万亿日元创历史新高, 海外占比约 56.5%",
         "link": "https://www.info35.net/hotopics/44871.html",
         "time": "精选",
@@ -1027,6 +994,12 @@
       "src": "IT之家"
     },
     {
+      "title": "欧盟启动民防机制驰援塞尔维亚应对山火",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-24/10683493.shtml",
+      "time": "08-24 23:29",
+      "src": "中新网"
+    },
+    {
       "title": "“史上最具毁灭性经济战”一触即发，不信邪的伊朗要在“在美国眼皮底下”继续做生意",
       "link": "https://www.chinanews.com.cn/gsztc/2026/08-24/10683485.shtml",
       "time": "08-24 22:16",
@@ -1048,12 +1021,6 @@
       "title": "IBM推出全球首款双架构CPU：2nm+11核 纳秒级切换ARM及Z指令集",
       "link": "https://www.cnbeta.com.tw/articles/tech/1574750.htm",
       "time": "08-24 22:43",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "全球手机市场遇冷：国产头部厂商承压 华为逆势增长8%",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1574726.htm",
-      "time": "08-24 16:09",
       "src": "cnBeta.COM"
     }
   ],
@@ -1089,25 +1056,31 @@
       "src": "IT之家"
     },
     {
-      "title": "豪威集团 2026 年上半年归母净利润 12.2 亿元，同比下降 39.85%",
-      "link": "https://www.ithome.com/0/993/693.htm",
-      "time": "08-24 18:41",
-      "src": "IT之家"
+      "title": "从暴雨中穿行归来 ｜ 「吉考斯工业 × 重返未来：1999 」联名系列Part 2 现已发售",
+      "link": "https://www.gcores.com/articles/218694",
+      "time": "08-24 10:00",
+      "src": "机核"
     },
     {
-      "title": "拼多多 2026 财年上半年归母净利润 397.29 亿元，同比下降 12.68%",
-      "link": "https://www.ithome.com/0/993/690.htm",
-      "time": "08-24 18:33",
-      "src": "IT之家"
+      "title": "“史上最具毁灭性经济战”一触即发，不信邪的伊朗要在“在美国眼皮底下”继续做生意",
+      "link": "https://www.chinanews.com.cn/gsztc/2026/08-24/10683485.shtml",
+      "time": "08-24 22:16",
+      "src": "中新网"
     },
     {
-      "title": "零跑汽车 2026 年上半年归母净利润 2.08 亿元，同比增长 530.97%",
-      "link": "https://www.ithome.com/0/993/680.htm",
-      "time": "08-24 18:00",
-      "src": "IT之家"
+      "title": "特朗普：明年起将加拿大汽车、零部件和钢铁关税提高至50%",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-24/10683477.shtml",
+      "time": "08-24 21:50",
+      "src": "中新网"
     }
   ],
   "game_news": [
+    {
+      "title": "ACEMAGIC 推出 F2A 迷你主机：酷睿 Ultra X7 358H 处理器、32GB 内存",
+      "link": "https://www.ithome.com/0/993/758.htm",
+      "time": "08-24 23:41",
+      "src": "IT之家"
+    },
     {
       "title": "消息称《使命召唤：现代战争 4》Switch 2 实体版仅含下载码",
       "link": "https://www.ithome.com/0/993/727.htm",
@@ -1127,18 +1100,6 @@
       "src": "IT之家"
     },
     {
-      "title": "玩家吐槽后，《黎明行者之血》游戏主机版将追加 60 帧模式",
-      "link": "https://www.ithome.com/0/993/688.htm",
-      "time": "08-24 18:31",
-      "src": "IT之家"
-    },
-    {
-      "title": "281 匹马力，标致将携 E-208 GTi“纯电小钢炮”参加科隆游戏展",
-      "link": "https://www.ithome.com/0/993/687.htm",
-      "time": "08-24 18:12",
-      "src": "IT之家"
-    },
-    {
       "title": "支持中文配音：温馨治愈系拼图游戏《木木屋》将于9月17日发售",
       "link": "https://www.gcores.com/articles/218711",
       "time": "08-24 12:34",
@@ -1154,6 +1115,12 @@
       "title": "《吸血鬼幸存者》血月DLC将于8月28日发售",
       "link": "https://www.gcores.com/articles/218693",
       "time": "08-24 09:00",
+      "src": "机核"
+    },
+    {
+      "title": "\"我们从未想过成为下一个 E3\"——对话 科隆游戏展 主办方",
+      "link": "https://www.gcores.com/articles/218682",
+      "time": "08-23 21:00",
       "src": "机核"
     }
   ],
