@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24 16:56",
+  "generated_at": "2026-08-24 18:43",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,6 +233,24 @@
     ],
     "news": [
       {
+        "title": "何小鹏：不远的将来，会努力将第一个高阶人形机器人带入真正的现实",
+        "link": "https://www.ithome.com/0/993/681.htm",
+        "time": "08-24 18:01",
+        "src": "IT之家"
+      },
+      {
+        "title": "配售 800 亿后，蔡崇信、吴泳铭再出手增持 1.2 亿港元阿里股票",
+        "link": "https://www.ithome.com/0/993/677.htm",
+        "time": "08-24 17:59",
+        "src": "IT之家"
+      },
+      {
+        "title": "刷新中国机器人私募融资纪录：小鹏机器人业务完成首轮超 9 亿美元融资，IRON 计划年底进入量产阶段",
+        "link": "https://www.ithome.com/0/993/649.htm",
+        "time": "08-24 17:14",
+        "src": "IT之家"
+      },
+      {
         "title": "宇树科技股价收跌 10.31%：总市值 2439 亿元，跌至全球人形机器人市值榜第二",
         "link": "https://www.ithome.com/0/993/591.htm",
         "time": "08-24 15:49",
@@ -243,18 +261,6 @@
         "link": "https://www.ithome.com/0/993/589.htm",
         "time": "08-24 15:47",
         "src": "IT之家"
-      },
-      {
-        "title": "拓竹科技回应 2027 年 IPO 传闻：消息不实",
-        "link": "https://www.ithome.com/0/993/575.htm",
-        "time": "08-24 15:17",
-        "src": "IT之家"
-      },
-      {
-        "title": "全球媒体聚焦丨中国机器人跑出“中国制造”加速度",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-24/10683247.shtml",
-        "time": "08-24 16:28",
-        "src": "中新网"
       },
       {
         "title": "AI基础设施持续投入 2027年内存收入将突破1万亿美元",
@@ -273,12 +279,6 @@
         "link": "https://www.cnbeta.com.tw/articles/tech/1574686.htm",
         "time": "08-24 12:18",
         "src": "cnBeta.COM"
-      },
-      {
-        "title": "分析师调查：美联储与英央行今年大概率维持利率不变，欧央行与日央行有加息预期",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-24/doc-inipmhfs6045514.shtml",
-        "time": "08-24 16:33",
-        "src": "环球市场播报"
       }
     ]
   },
@@ -466,6 +466,18 @@
   "ai": {
     "news_zh": [
       {
+        "title": "何小鹏：不远的将来，会努力将第一个高阶人形机器人带入真正的现实",
+        "link": "https://www.ithome.com/0/993/681.htm",
+        "time": "08-24 18:01",
+        "src": "IT之家"
+      },
+      {
+        "title": "刷新中国机器人私募融资纪录：小鹏机器人业务完成首轮超 9 亿美元融资，IRON 计划年底进入量产阶段",
+        "link": "https://www.ithome.com/0/993/649.htm",
+        "time": "08-24 17:14",
+        "src": "IT之家"
+      },
+      {
         "title": "飞傲推出 QX11 解码耳放：双 ES9069Q DAC 芯片、提供 HiFi / 游戏模式，999 元",
         "link": "https://www.ithome.com/0/993/626.htm",
         "time": "08-24 16:30",
@@ -500,55 +512,43 @@
         "link": "https://www.ithome.com/0/993/595.htm",
         "time": "08-24 15:59",
         "src": "IT之家"
-      },
-      {
-        "title": "宇树科技股价收跌 10.31%：总市值 2439 亿元，跌至全球人形机器人市值榜第二",
-        "link": "https://www.ithome.com/0/993/591.htm",
-        "time": "08-24 15:49",
-        "src": "IT之家"
-      },
-      {
-        "title": "2026 世界机器人大会在京闭幕：首发新品 311 件，下一届官宣 2027 年 8 月 18 日开幕",
-        "link": "https://www.ithome.com/0/993/589.htm",
-        "time": "08-24 15:47",
-        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 12383,
-        "downloads": 2358347,
+        "likes": 12408,
+        "downloads": 2645226,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 2763,
-        "downloads": 6674515,
+        "likes": 2768,
+        "downloads": 7009063,
         "pipeline": ""
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-        "likes": 986,
-        "downloads": 47098,
+        "likes": 992,
+        "downloads": 57947,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-        "likes": 655,
-        "downloads": 244834,
+        "likes": 662,
+        "downloads": 312627,
         "pipeline": "text-generation"
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-        "likes": 1061,
-        "downloads": 190062,
+        "likes": 1068,
+        "downloads": 224114,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-        "likes": 551,
-        "downloads": 676697,
+        "likes": 554,
+        "downloads": 761975,
         "pipeline": "image-text-to-text"
       }
     ],
@@ -721,6 +721,18 @@
   ],
   "hw_news": [
     {
+      "title": "华硕天选 TX75 有线版磁轴游戏键盘上市，到手价低至 424.15 元",
+      "link": "https://www.ithome.com/0/993/676.htm",
+      "time": "08-24 17:59",
+      "src": "IT之家"
+    },
+    {
+      "title": "飞利浦推出 22E2N1100LS 显示器：21.5 英寸 1080P 120Hz，449 元",
+      "link": "https://www.ithome.com/0/993/647.htm",
+      "time": "08-24 17:04",
+      "src": "IT之家"
+    },
+    {
       "title": "七彩虹 iGame X870E VULCAN W OC 主板预约开启，3999 元",
       "link": "https://www.ithome.com/0/993/635.htm",
       "time": "08-24 16:48",
@@ -730,42 +742,6 @@
       "title": "三星新愿景：让 HBM 不只是内存",
       "link": "https://www.ithome.com/0/993/592.htm",
       "time": "08-24 15:50",
-      "src": "IT之家"
-    },
-    {
-      "title": "Fostex 发布首款平板振膜无线耳机 T50RP-BT，支持系列高通音频技术",
-      "link": "https://www.ithome.com/0/993/577.htm",
-      "time": "08-24 15:29",
-      "src": "IT之家"
-    },
-    {
-      "title": "小米 18 Fold 全新折叠旗舰机开启预约，首发搭载自研玄戒 O3 AI 处理器",
-      "link": "https://www.ithome.com/0/993/576.htm",
-      "time": "08-24 15:23",
-      "src": "IT之家"
-    },
-    {
-      "title": "韶音 OpenFit 2 AI 耳机开售：基于千问大模型、48 小时续航，首发价 1398 元",
-      "link": "https://www.ithome.com/0/993/557.htm",
-      "time": "08-24 14:57",
-      "src": "IT之家"
-    },
-    {
-      "title": "优派推出小尺寸游戏显示器 VX24G81-2K-9：23.8\" QHD，超频 260Hz",
-      "link": "https://www.ithome.com/0/993/539.htm",
-      "time": "08-24 14:44",
-      "src": "IT之家"
-    },
-    {
-      "title": "首个突破 500 万分的旗舰 SoC！小米玄戒 O3 正式发布，CPU 采用十核全大核设计",
-      "link": "https://www.ithome.com/0/993/519.htm",
-      "time": "08-24 14:34",
-      "src": "IT之家"
-    },
-    {
-      "title": "小米玄戒 O3 官宣十核全大核 CPU 性能提升 60%，GPU 首发 G2-Ultra NX 性能提升 85%",
-      "link": "https://www.ithome.com/0/993/505.htm",
-      "time": "08-24 14:22",
       "src": "IT之家"
     },
     {
@@ -791,16 +767,34 @@
       "link": "https://www.cnbeta.com.tw/articles/tech/1574682.htm",
       "time": "08-24 12:17",
       "src": "cnBeta.COM"
+    },
+    {
+      "title": "AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本",
+      "link": "https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard",
+      "time": "08-23 15:25",
+      "src": "少数派"
+    },
+    {
+      "title": "TDS REVIEW | Nothing Ear (3a) 降噪真无线耳机体验",
+      "link": "https://sspai.com/post/113586",
+      "time": "08-21 11:05",
+      "src": "少数派"
+    },
+    {
+      "title": "中国电竞首次登顶EWC总冠军",
+      "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260823-%E4%B8%AD%E5%9B%BD%E7%94%B5%E7%AB%9E%E9%A6%96%E6%AC%A1%E7%99%BB%E9%A1%B6ewc%E6%80%BB%E5%86%A0%E5%86%9B",
+      "time": "08-24 04:45",
+      "src": "© l'équipe"
+    },
+    {
+      "title": "小米新一代自研处理器玄戒O3亮相：采用3nm工艺，集成240亿晶体管，安兔兔跑分超522万",
+      "link": "https://finance.sina.com.cn/roll/2026-08-24/doc-inipkzxu6089646.shtml",
+      "time": "08-24 14:10",
+      "src": "新浪科技"
     }
   ],
   "kojima": {
     "news": [
-      {
-        "title": "老蛇归来，值得期待：小评《合金装备 大师合集Vol.2》",
-        "link": "https://www.gcores.com/articles/218638",
-        "time": "08-21 18:20",
-        "src": "机核"
-      },
       {
         "title": "小岛秀夫客串日剧《VIVANT》第二季第11集, 饰演警视总监\"绵贯贤\", 摘眼镜剃胡造型大反转",
         "link": "https://dy.163.com/article/L2RI4BGS0526K1KN.html",
@@ -997,6 +991,12 @@
   },
   "intl_news": [
     {
+      "title": "奇瑞捷途环游者 SUV 开启盲订，定位“全球都市纯电新方盒”",
+      "link": "https://www.ithome.com/0/993/652.htm",
+      "time": "08-24 17:19",
+      "src": "IT之家"
+    },
+    {
       "title": "宇树科技股价收跌 10.31%：总市值 2439 亿元，跌至全球人形机器人市值榜第二",
       "link": "https://www.ithome.com/0/993/591.htm",
       "time": "08-24 15:49",
@@ -1009,43 +1009,73 @@
       "src": "IT之家"
     },
     {
-      "title": "韩正会见科威特外交大臣杰拉赫",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-24/10683253.shtml",
-      "time": "08-24 16:51",
+      "title": "哈萨克斯坦首届一院制议会选举初步结果公布",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-24/10683310.shtml",
+      "time": "08-24 18:18",
       "src": "中新网"
     },
     {
-      "title": "中方：中印尼合作的成功也是全球南方国家的成功",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-24/10683268.shtml",
-      "time": "08-24 16:50",
+      "title": "中欧班列（西安）今年已向欧洲输送制冷家电超3.4万台",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-24/10683308.shtml",
+      "time": "08-24 18:17",
       "src": "中新网"
     },
     {
-      "title": "哈萨克斯坦库鲁尔泰选举顺利举行 中方回应",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-24/10683266.shtml",
-      "time": "08-24 16:40",
+      "title": "第五届数贸会国际采购需求攀升 AI赛道成主力",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-24/10683296.shtml",
+      "time": "08-24 18:14",
       "src": "中新网"
     },
     {
-      "title": "中文热持续升温，见证中阿友好交往：走近“中东瑰宝”约旦",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-24/10683205.shtml",
-      "time": "08-24 16:38",
+      "title": "香港三支球队出征2026新民晚报国际中学生足球赛",
+      "link": "https://www.chinanews.com.cn/dwq/2026/08-24/10683297.shtml",
+      "time": "08-24 18:14",
       "src": "中新网"
     },
     {
-      "title": "全球媒体聚焦丨拉美学者驳斥“中国冲击2.0”论调",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-24/10683256.shtml",
-      "time": "08-24 16:36",
-      "src": "中新网"
-    },
-    {
-      "title": "外交部：愿继续同联合国和世界各国一道，不断推动人工智能开放、包容、普惠、向善发展",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-24/10683254.shtml",
-      "time": "08-24 16:33",
-      "src": "中新网"
+      "title": "全球手机市场遇冷：国产头部厂商承压 华为逆势增长8%",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574726.htm",
+      "time": "08-24 16:09",
+      "src": "cnBeta.COM"
     }
   ],
   "econ_news": [
+    {
+      "title": "豪威集团 2026 年上半年归母净利润 12.2 亿元，同比下降 39.85%",
+      "link": "https://www.ithome.com/0/993/693.htm",
+      "time": "08-24 18:41",
+      "src": "IT之家"
+    },
+    {
+      "title": "拼多多 2026 财年上半年归母净利润 397.29 亿元，同比下降 12.68%",
+      "link": "https://www.ithome.com/0/993/690.htm",
+      "time": "08-24 18:33",
+      "src": "IT之家"
+    },
+    {
+      "title": "零跑汽车 2026 年上半年归母净利润 2.08 亿元，同比增长 530.97%",
+      "link": "https://www.ithome.com/0/993/680.htm",
+      "time": "08-24 18:00",
+      "src": "IT之家"
+    },
+    {
+      "title": "爱玛科技 2026 年上半年归母净利润 6.65 亿元，同比下降 45.15%",
+      "link": "https://www.ithome.com/0/993/685.htm",
+      "time": "08-24 18:09",
+      "src": "IT之家"
+    },
+    {
+      "title": "石头科技 2026 年上半年归母净利润 9.86 亿元，同比增长 45.6%",
+      "link": "https://www.ithome.com/0/993/651.htm",
+      "time": "08-24 17:15",
+      "src": "IT之家"
+    },
+    {
+      "title": "刷新中国机器人私募融资纪录：小鹏机器人业务完成首轮超 9 亿美元融资，IRON 计划年底进入量产阶段",
+      "link": "https://www.ithome.com/0/993/649.htm",
+      "time": "08-24 17:14",
+      "src": "IT之家"
+    },
     {
       "title": "高油价、政府补贴、平价车型加持，7 月欧洲多地电动汽车销量持续增长",
       "link": "https://www.ithome.com/0/993/588.htm",
@@ -1057,45 +1087,33 @@
       "link": "https://www.gcores.com/articles/218694",
       "time": "08-24 10:00",
       "src": "机核"
-    },
-    {
-      "title": "山西临汾瞄准“传统、新兴、未来”构建新型工业体系",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-24/10683240.shtml",
-      "time": "08-24 16:47",
-      "src": "中新网"
-    },
-    {
-      "title": "山西襄垣：浊漳河畔“清凉经济”催生乡村振兴新景",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-24/10683233.shtml",
-      "time": "08-24 16:35",
-      "src": "中新网"
-    },
-    {
-      "title": "AI基础设施持续投入 2027年内存收入将突破1万亿美元",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1574724.htm",
-      "time": "08-24 16:08",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "新加坡斥资重奖生育 每孩补贴逾5.5万美元应对人口老龄化",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1574718.htm",
-      "time": "08-24 15:17",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "传Hugging Face评估潜在买家兴趣 估值至少130亿美元",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1574672.htm",
-      "time": "08-24 12:13",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "欧盟再援乌61亿欧元，多国领导人周一会盟商讨援乌方案",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260824-%E6%AC%A7%E7%9B%9F%E5%86%8D%E6%8F%B4%E4%B9%8C61%E4%BA%BF%E6%AC%A7%E5%85%83%EF%BC%8C%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%91%A8%E4%B8%80%E4%BC%9A%E7%9B%9F%E5%95%86%E8%AE%A8%E6%8F%B4%E4%B9%8C%E6%96%B9%E6%A1%88",
-      "time": "08-24 16:08",
-      "src": "AFP - LUDOVIC "
     }
   ],
   "game_news": [
+    {
+      "title": "玩家吐槽后，《黎明行者之血》游戏主机版将追加 60 帧模式",
+      "link": "https://www.ithome.com/0/993/688.htm",
+      "time": "08-24 18:31",
+      "src": "IT之家"
+    },
+    {
+      "title": "281 匹马力，标致将携 E-208 GTi“纯电小钢炮”参加科隆游戏展",
+      "link": "https://www.ithome.com/0/993/687.htm",
+      "time": "08-24 18:12",
+      "src": "IT之家"
+    },
+    {
+      "title": "华硕天选 TX75 有线版磁轴游戏键盘上市，到手价低至 424.15 元",
+      "link": "https://www.ithome.com/0/993/676.htm",
+      "time": "08-24 17:59",
+      "src": "IT之家"
+    },
+    {
+      "title": "雷蛇键匠键帽 - 三头蛇版发售：手工小批量制作，699 元",
+      "link": "https://www.ithome.com/0/993/646.htm",
+      "time": "08-24 17:03",
+      "src": "IT之家"
+    },
     {
       "title": "《剑星》Switch2 版游戏新预告发布，支持体感操控",
       "link": "https://www.ithome.com/0/993/627.htm",
@@ -1115,33 +1133,9 @@
       "src": "IT之家"
     },
     {
-      "title": "小米 AI Cube 工程版迷你主机官宣：玄戒 O3+O100+D100 三芯阵容，150W 持续性能释放",
-      "link": "https://www.ithome.com/0/993/546.htm",
-      "time": "08-24 14:46",
-      "src": "IT之家"
-    },
-    {
-      "title": "优派推出小尺寸游戏显示器 VX24G81-2K-9：23.8\" QHD，超频 260Hz",
-      "link": "https://www.ithome.com/0/993/539.htm",
-      "time": "08-24 14:44",
-      "src": "IT之家"
-    },
-    {
-      "title": "改变 PC 游戏行业的 Valve，今天三十岁了",
-      "link": "https://www.ithome.com/0/993/506.htm",
-      "time": "08-24 14:24",
-      "src": "IT之家"
-    },
-    {
       "title": "支持中文配音：温馨治愈系拼图游戏《木木屋》将于9月17日发售",
       "link": "https://www.gcores.com/articles/218711",
       "time": "08-24 12:34",
-      "src": "机核"
-    },
-    {
-      "title": "从暴雨中穿行归来 ｜ 「吉考斯工业 × 重返未来：1999 」联名系列Part 2 现已发售",
-      "link": "https://www.gcores.com/articles/218694",
-      "time": "08-24 10:00",
       "src": "机核"
     }
   ],
@@ -1217,6 +1211,12 @@
       "src": "机核"
     },
     {
+      "title": "韩国军方：伊朗战争导致美军兵力调配受限，美韩下月联合军演被迫取消",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260824-%E9%9F%A9%E5%9B%BD%E5%86%9B%E6%96%B9-%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E5%AF%BC%E8%87%B4%E7%BE%8E%E5%86%9B%E5%85%B5%E5%8A%9B%E8%B0%83%E9%85%8D%E5%8F%97%E9%99%90%EF%BC%8C%E4%B8%8B%E6%9C%88%E7%BE%8E%E9%9F%A9%E8%81%94%E5%90%88%E5%86%9B%E6%BC%94%E8%A2%AB%E8%BF%AB%E5%8F%96%E6%B6%88",
+      "time": "08-24 17:58",
+      "src": "© Greg Baker /"
+    },
+    {
       "title": "美国公布制裁伊朗方案前，中国警告将“采取必要措施维护自身合法权益”",
       "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260824-%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%B8%83%E5%88%B6%E8%A3%81%E4%BC%8A%E6%9C%97%E6%96%B9%E6%A1%88%E5%89%8D%EF%BC%8C%E4%B8%AD%E5%9B%BD%E8%AD%A6%E5%91%8A%E5%B0%86-%E9%87%87%E5%8F%96%E5%BF%85%E8%A6%81%E6%8E%AA%E6%96%BD%E7%BB%B4%E6%8A%A4%E8%87%AA%E8%BA%AB%E5%90%88%E6%B3%95%E6%9D%83%E7%9B%8A",
       "time": "08-24 16:53",
@@ -1235,21 +1235,15 @@
       "src": "© French press"
     },
     {
+      "title": "加拿大预判将与美国爆发长期贸易战，冲突或延续至中期选举之后",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-24/doc-inipmhfp0029070.shtml",
+      "time": "08-24 17:39",
+      "src": "环球市场播报"
+    },
+    {
       "title": "沙特推进国家支持的战争风险保险机制，护航石油出口通道",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-24/doc-inipkzxu6166362.shtml",
       "time": "08-24 16:17",
-      "src": "环球市场播报"
-    },
-    {
-      "title": "沙特阿拉伯就政府支持的战争保险展开谈判，相关保险成本大幅飙升",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-24/doc-inipkzxr0076350.shtml",
-      "time": "08-24 15:57",
-      "src": "环球市场播报"
-    },
-    {
-      "title": "伊朗称将把他国支持美国经济施压视为战争行为",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-24/doc-inipkzxu6130042.shtml",
-      "time": "08-24 15:20",
       "src": "环球市场播报"
     }
   ]
