@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26 04:36",
+  "generated_at": "2026-08-26 06:34",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,6 +233,12 @@
     ],
     "news": [
       {
+        "title": "法国光学巨头依视路陆逊梯卡大量增持尼康股份，逼近 20% 法律上限",
+        "link": "https://www.ithome.com/0/994/287.htm",
+        "time": "08-26 04:51",
+        "src": "IT之家"
+      },
+      {
         "title": "苹果发布M5 Ultra芯片：首次采用四芯粒架构 AI算力最高提升4.3倍",
         "link": "https://www.cnbeta.com.tw/articles/tech/1574924.htm",
         "time": "08-25 22:34",
@@ -243,6 +249,12 @@
         "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260825-%E5%BD%93%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8A%A0%E9%80%9F%E8%BF%9B%E5%8C%96-%E7%AC%AC%E4%BA%8C%E5%B1%8A%E4%B8%96%E7%95%8C%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E5%8A%A8%E4%BC%9A%E8%90%BD%E5%B9%95",
         "time": "08-25 19:56",
         "src": "© AP Photo/Ach"
+      },
+      {
+        "title": "8月26日美股成交额前20：Moderna大涨14% 获多家大行上调目标价",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipqsyf6375485.shtml",
+        "time": "08-26 05:03",
+        "src": "环球市场播报"
       },
       {
         "title": "IMF总裁呼吁各国应对财政风险 央行继续专注抗通胀",
@@ -267,18 +279,6 @@
         "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipqaan2352976.shtml",
         "time": "08-26 00:10",
         "src": "环球市场播报"
-      },
-      {
-        "title": "摩根士丹利：五大云巨头与英伟达等AI相关表外承诺超过3.1万亿美元",
-        "link": "https://finance.sina.com.cn/world/2026-08-26/doc-inipqaah1501649.shtml",
-        "time": "08-26 00:08",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "摩根资管：美联储9月不应加息",
-        "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inippvuq2321474.shtml",
-        "time": "08-25 21:20",
-        "src": "环球市场播报"
       }
     ]
   },
@@ -297,7 +297,7 @@
       "price": 53577.4,
       "pct": 0.3,
       "chg": 160.24,
-      "amount": "2103137462亿"
+      "amount": "2142803705亿"
     },
     {
       "name": "纳斯达克",
@@ -305,7 +305,7 @@
       "price": 26151.3,
       "pct": 0.66,
       "chg": 171.11,
-      "amount": "17091292664亿"
+      "amount": "17310511045亿"
     },
     {
       "name": "标普500",
@@ -313,7 +313,7 @@
       "price": 7677.28,
       "pct": 0.32,
       "chg": 24.42,
-      "amount": "1796484663亿"
+      "amount": "1824122195亿"
     }
   ],
   "anime": {
@@ -336,7 +336,7 @@
         "score": 7.2,
         "img": "http://lain.bgm.tv/pic/cover/c/45/a6/339515_OTG2O.jpg",
         "air_date": "2026-07-08",
-        "rank": 1865
+        "rank": 1858
       },
       {
         "id": 572768,
@@ -354,7 +354,7 @@
         "score": 6.9,
         "img": "http://lain.bgm.tv/pic/cover/c/1a/a0/585820_NpfLN.jpg",
         "air_date": "2026-07-08",
-        "rank": 3143
+        "rank": 3162
       },
       {
         "id": 558064,
@@ -363,7 +363,7 @@
         "score": 6.1,
         "img": "http://lain.bgm.tv/pic/cover/c/04/e4/558064_Q15R6.jpg",
         "air_date": "2026-07-01",
-        "rank": 6854
+        "rank": 6858
       },
       {
         "id": 500458,
@@ -381,7 +381,7 @@
         "score": 6.0,
         "img": "http://lain.bgm.tv/pic/cover/c/04/7e/572613_v58Bn.jpg",
         "air_date": "2026-07-08",
-        "rank": 7088
+        "rank": 7143
       },
       {
         "id": 642666,
@@ -417,7 +417,7 @@
         "score": 5.8,
         "img": "http://lain.bgm.tv/pic/cover/c/85/7f/565701_JKCaL.jpg",
         "air_date": "2026-07-08",
-        "rank": 7780
+        "rank": 7785
       },
       {
         "id": 625215,
@@ -426,7 +426,7 @@
         "score": 5.1,
         "img": "http://lain.bgm.tv/pic/cover/c/7f/48/625215_xb611.jpg",
         "air_date": "2026-07-08",
-        "rank": 9407
+        "rank": 9425
       },
       {
         "id": 658254,
@@ -444,7 +444,7 @@
         "score": 4.8,
         "img": "http://lain.bgm.tv/pic/cover/c/16/a8/412144_39HJH.jpg",
         "air_date": "2026-07-08",
-        "rank": 9682
+        "rank": 9687
       },
       {
         "id": 579787,
@@ -453,7 +453,7 @@
         "score": 4.8,
         "img": "http://lain.bgm.tv/pic/cover/c/e4/57/579787_9aHqE.jpg",
         "air_date": "2026-07-01",
-        "rank": 9804
+        "rank": 9798
       },
       {
         "id": 621835,
@@ -462,7 +462,7 @@
         "score": 4.5,
         "img": "http://lain.bgm.tv/pic/cover/c/7a/d3/621835_IFhDH.jpg",
         "air_date": "2026-07-08",
-        "rank": 9830
+        "rank": 9835
       },
       {
         "id": 630163,
@@ -471,7 +471,7 @@
         "score": 4.1,
         "img": "http://lain.bgm.tv/pic/cover/c/fd/f7/630163_yyAc7.jpg",
         "air_date": "2026-07-01",
-        "rank": 10118
+        "rank": 10123
       },
       {
         "id": 630164,
@@ -580,37 +580,37 @@
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 12688,
+        "likes": 12696,
         "downloads": 2945415,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 2901,
+        "likes": 2906,
         "downloads": 7334695,
         "pipeline": ""
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-        "likes": 1090,
+        "likes": 1093,
         "downloads": 68855,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-        "likes": 742,
+        "likes": 747,
         "downloads": 389747,
         "pipeline": "text-generation"
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-        "likes": 1140,
+        "likes": 1146,
         "downloads": 249744,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "ornith-ai/Ornith-1.5-35B-A3B",
-        "likes": 417,
+        "likes": 418,
         "downloads": 70158,
         "pipeline": "text-generation"
       }
@@ -838,12 +838,6 @@
       "src": "IT之家"
     },
     {
-      "title": "华硕 ROG 公布 Gladius IV Ace、Spatha X 65K 鼠标，搭载 65000dpi 传感器",
-      "link": "https://www.ithome.com/0/994/222.htm",
-      "time": "08-25 21:51",
-      "src": "IT之家"
-    },
-    {
       "title": "英伟达DLSS 4.5光线重建开放早期体验 全系RTX显卡可用",
       "link": "https://www.cnbeta.com.tw/articles/tech/1574954.htm",
       "time": "08-26 02:12",
@@ -853,6 +847,12 @@
       "title": "苹果悄然更新妙控键盘 多个按键改用符号标识",
       "link": "https://www.cnbeta.com.tw/articles/tech/1574948.htm",
       "time": "08-25 23:14",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "英伟达GeForce RTX 5060现身第三方AIB设计 罕见搭载GB205核心",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574932.htm",
+      "time": "08-25 22:45",
       "src": "cnBeta.COM"
     }
   ],
@@ -1078,6 +1078,12 @@
   },
   "intl_news": [
     {
+      "title": "法国光学巨头依视路陆逊梯卡大量增持尼康股份，逼近 20% 法律上限",
+      "link": "https://www.ithome.com/0/994/287.htm",
+      "time": "08-26 04:51",
+      "src": "IT之家"
+    },
+    {
       "title": "网易二次元都市冒险游戏《无限大》官宣 2027 年 1 月 15 日全球上线",
       "link": "https://www.ithome.com/0/994/268.htm",
       "time": "08-26 02:26",
@@ -1118,12 +1124,6 @@
       "link": "https://www.cnbeta.com.tw/articles/tech/1574952.htm",
       "time": "08-26 02:11",
       "src": "cnBeta.COM"
-    },
-    {
-      "title": "OpenAI封禁涉嫌参与秘密舆论行动的俄罗斯ChatGPT账号",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1574940.htm",
-      "time": "08-25 22:51",
-      "src": "cnBeta.COM"
     }
   ],
   "econ_news": [
@@ -1144,6 +1144,12 @@
       "link": "https://www.ithome.com/0/994/223.htm",
       "time": "08-25 21:54",
       "src": "IT之家"
+    },
+    {
+      "title": "古巴谴责美国延长对古实施经济封锁",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-26/10684219.shtml",
+      "time": "08-26 05:56",
+      "src": "中新网"
     },
     {
       "title": "美国8月消费者信心指数降至7个月来最低值",
@@ -1168,12 +1174,6 @@
       "link": "https://www.cnbeta.com.tw/articles/tech/1574944.htm",
       "time": "08-25 23:11",
       "src": "cnBeta.COM"
-    },
-    {
-      "title": "加宣布对美实施15%至50%报复性关税",
-      "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260825-%E5%8A%A0%E5%AE%A3%E5%B8%83%E5%AF%B9%E7%BE%8E%E5%AE%9E%E6%96%BD15-%E8%87%B350-%E6%8A%A5%E5%A4%8D%E6%80%A7%E5%85%B3%E7%A8%8E",
-      "time": "08-26 02:04",
-      "src": "REUTERS - Chri"
     }
   ],
   "game_news": [
@@ -1305,10 +1305,16 @@
       "src": "中新网"
     },
     {
-      "title": "中越边境广西宁明爱店口岸恢复通关",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-25/10684182.shtml",
-      "time": "08-25 21:55",
-      "src": "中新网"
+      "title": "伊朗首都加油站排起长龙",
+      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260825-%E4%BC%8A%E6%9C%97%E9%A6%96%E9%83%BD%E5%8A%A0%E6%B2%B9%E7%AB%99%E6%8E%92%E8%B5%B7%E9%95%BF%E9%BE%99",
+      "time": "08-26 05:11",
+      "src": "© AFP"
+    },
+    {
+      "title": "霍尔木兹：阿曼和伊朗讨论“临时航道”、扫雷事宜",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260825-%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9-%E9%98%BF%E6%9B%BC%E5%92%8C%E4%BC%8A%E6%9C%97%E8%AE%A8%E8%AE%BA-%E4%B8%B4%E6%97%B6%E8%88%AA%E9%81%93-%E6%89%AB%E9%9B%B7%E4%BA%8B%E5%AE%9C",
+      "time": "08-26 05:19",
+      "src": "REUTERS - Stri"
     },
     {
       "title": "比亚迪为何押注“轻型純电海獭”抢滩日本市场？中国导弹加入后，高超音速威慑即将到来？",
@@ -1327,12 +1333,6 @@
       "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260825-%E8%B7%AF%E9%80%8F%E5%8D%AB%E6%98%9F%E5%9B%BE%E5%83%8F%E5%88%86%E6%9E%90-%E5%8D%97%E6%B5%B7%E5%B2%9B%E7%A4%81%E5%87%BA%E7%8E%B0%E6%96%B0%E5%BB%BA%E7%AD%91%EF%BC%8C%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%8A%A0%E9%80%9F%E6%89%A9%E5%BB%BA%E5%8D%97%E6%B5%B7%E5%86%9B%E4%BA%8B%E8%AE%BE%E6%96%BD",
       "time": "08-25 18:30",
       "src": "AP - Bullit Ma"
-    },
-    {
-      "title": "特朗普在社媒连发三张与金正恩合影，分析指或急于和朝鲜恢复对话以抵消伊朗战争的压力",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260825-%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%A4%BE%E5%AA%92%E8%BF%9E%E5%8F%91%E4%B8%89%E5%BC%A0%E4%B8%8E%E9%87%91%E6%AD%A3%E6%81%A9%E5%90%88%E5%BD%B1%EF%BC%8C%E5%88%86%E6%9E%90%E6%8C%87%E6%88%96%E6%80%A5%E4%BA%8E%E5%92%8C%E6%9C%9D%E9%B2%9C%E6%81%A2%E5%A4%8D%E5%AF%B9%E8%AF%9D%E4%BB%A5%E6%8A%B5%E6%B6%88%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E7%9A%84%E5%8E%8B%E5%8A%9B",
-      "time": "08-25 16:57",
-      "src": "© 截图"
     }
   ]
 }
