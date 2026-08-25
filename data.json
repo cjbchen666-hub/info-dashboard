@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25 20:59",
+  "generated_at": "2026-08-25 22:52",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -251,16 +251,16 @@
         "src": "IT之家"
       },
       {
-        "title": "消息称马云出手增持，已连日买入阿里港股超 6 亿港元",
-        "link": "https://www.ithome.com/0/994/159.htm",
-        "time": "08-25 18:52",
-        "src": "IT之家"
+        "title": "天工机器人百米竞速跑出8.86秒 再创纪录",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-25/10684177.shtml",
+        "time": "08-25 21:40",
+        "src": "中新网"
       },
       {
-        "title": "工信部：今年上半年数字产业收入超 20 万亿元，同比增长 13.6%",
-        "link": "https://www.ithome.com/0/994/133.htm",
-        "time": "08-25 17:59",
-        "src": "IT之家"
+        "title": "苹果发布M5 Ultra芯片：首次采用四芯粒架构 AI算力最高提升4.3倍",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1574924.htm",
+        "time": "08-25 22:34",
+        "src": "cnBeta.COM"
       },
       {
         "title": "当中国机器人加速进化：第二届世界人形机器人运动会落幕",
@@ -269,16 +269,16 @@
         "src": "© AP Photo/Ach"
       },
       {
-        "title": "美国联邦政府债务突破40万亿美元 财政可持续性引关注",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inippvuh9597158.shtml",
-        "time": "08-25 20:49",
+        "title": "摩根资管：美联储9月不应加息",
+        "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inippvuq2321474.shtml",
+        "time": "08-25 21:20",
         "src": "环球市场播报"
       },
       {
-        "title": "盘前：纳指期货涨0.95% 布伦特跌破90美元",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inippvuk1543421.shtml",
-        "time": "08-25 20:30",
-        "src": "环球市场播报"
+        "title": "利好！688308，净利大增超47700%，更有多家A股龙头，业绩翻倍！",
+        "link": "https://finance.sina.com.cn/stock/s/2026-08-25/doc-inippvun5546744.shtml",
+        "time": "08-25 21:15",
+        "src": "证券时报"
       }
     ]
   },
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 53417.16,
-      "pct": 0.26,
-      "chg": 140.15,
-      "amount": "2222028683亿"
+      "price": 53424.9,
+      "pct": 0.01,
+      "chg": 7.74,
+      "amount": "607544527亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 25980.19,
-      "pct": -0.76,
-      "chg": -200.26,
-      "amount": "16755511048亿"
+      "price": 26103.87,
+      "pct": 0.48,
+      "chg": 123.68,
+      "amount": "6383637342亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7652.86,
-      "pct": -0.28,
-      "chg": -21.51,
-      "amount": "1904246335亿"
+      "price": 7663.63,
+      "pct": 0.14,
+      "chg": 10.77,
+      "amount": "431301318亿"
     }
   ],
   "anime": {
@@ -439,88 +439,88 @@
   "ai": {
     "news_zh": [
       {
+        "title": "基于下一代 Qwen4 架构所构建的多模态 MoE 模型，阿里千问预告明晚开源 Qwen3.8-Flash-Next",
+        "link": "https://www.ithome.com/0/994/252.htm",
+        "time": "08-25 22:51",
+        "src": "IT之家"
+      },
+      {
+        "title": "华为 MatePad Pro 13.2 英寸 2023 款等平板推送 HarmonyOS 6.1.0.135 升级，AI 修图沾色功能增强",
+        "link": "https://www.ithome.com/0/994/250.htm",
+        "time": "08-25 22:44",
+        "src": "IT之家"
+      },
+      {
+        "title": "腾讯相关人士回应“IEG 重组 AI 游戏部门”：报道内容存在大量失实，所谓“成立新部门”系误读",
+        "link": "https://www.ithome.com/0/994/229.htm",
+        "time": "08-25 22:04",
+        "src": "IT之家"
+      },
+      {
+        "title": "苹果全新 Mac mini 搭载 Apple N1 无线网络芯片，支持 Wi-Fi 7、蓝牙 6、Thread 网络技术",
+        "link": "https://www.ithome.com/0/994/228.htm",
+        "time": "08-25 22:04",
+        "src": "IT之家"
+      },
+      {
+        "title": "苹果正式推出 M5 Ultra 芯片，最高 36 核 CPU/80 核 GPU，1.2 TB/s 统一内存带宽",
+        "link": "https://www.ithome.com/0/994/220.htm",
+        "time": "08-25 21:46",
+        "src": "IT之家"
+      },
+      {
+        "title": "苹果正式推出 M6 芯片：12 核 CPU，单线程性能全球领先",
+        "link": "https://www.ithome.com/0/994/219.htm",
+        "time": "08-25 21:43",
+        "src": "IT之家"
+      },
+      {
+        "title": "苹果全新 Mac mini 发布：可选 M6 或 M5 Pro 芯片，6999 元起售",
+        "link": "https://www.ithome.com/0/994/211.htm",
+        "time": "08-25 21:27",
+        "src": "IT之家"
+      },
+      {
         "title": "荣耀晒人形机器人运动会百米战果：“元气仔”预赛夺冠，“闪电”再破人类纪录",
         "link": "https://www.ithome.com/0/994/197.htm",
         "time": "08-25 20:51",
-        "src": "IT之家"
-      },
-      {
-        "title": "8.86 秒，人形机器人百米竞速再次刷新纪录",
-        "link": "https://www.ithome.com/0/994/182.htm",
-        "time": "08-25 20:24",
-        "src": "IT之家"
-      },
-      {
-        "title": "联想 AI 平板拯救者 Y700 无极街机底座发布：即插即用、八方向机械微动开关，首发价 399 元",
-        "link": "https://www.ithome.com/0/994/181.htm",
-        "time": "08-25 20:15",
-        "src": "IT之家"
-      },
-      {
-        "title": "应对安保人员罢工传闻，Anthropic 要求旧金山员工居家工作",
-        "link": "https://www.ithome.com/0/994/166.htm",
-        "time": "08-25 19:30",
-        "src": "IT之家"
-      },
-      {
-        "title": "苹果 iOS 27 正式版发布在即，Siri AI 预计将采用候补名单机制",
-        "link": "https://www.ithome.com/0/994/165.htm",
-        "time": "08-25 19:17",
-        "src": "IT之家"
-      },
-      {
-        "title": "消息称美国向韩国施压，要求其在美大规模投资存储芯片工厂",
-        "link": "https://www.ithome.com/0/994/155.htm",
-        "time": "08-25 18:37",
-        "src": "IT之家"
-      },
-      {
-        "title": "PocketBook Q 迷你电纸书阅读器发布：5.84 英寸 E-ink 屏幕，RK3566 芯片",
-        "link": "https://www.ithome.com/0/994/147.htm",
-        "time": "08-25 18:17",
-        "src": "IT之家"
-      },
-      {
-        "title": "小米公司发言人：近期，多起使用 AI 技术造谣我司的案件被警方侦破",
-        "link": "https://www.ithome.com/0/994/126.htm",
-        "time": "08-25 17:56",
         "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 12617,
+        "likes": 12641,
         "downloads": 2945415,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 2881,
+        "likes": 2884,
         "downloads": 7334695,
         "pipeline": ""
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-        "likes": 1065,
+        "likes": 1071,
         "downloads": 68855,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-        "likes": 722,
+        "likes": 728,
         "downloads": 389747,
         "pipeline": "text-generation"
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-        "likes": 1123,
+        "likes": 1131,
         "downloads": 249744,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-        "likes": 604,
+        "likes": 611,
         "downloads": 832185,
         "pipeline": "image-text-to-text"
       }
@@ -694,76 +694,76 @@
   ],
   "hw_news": [
     {
-      "title": "仁魔公布魔鲸 V4 GT 鼠标：光-磁微动，PAW3950 + nRF54L，54g",
-      "link": "https://www.ithome.com/0/994/199.htm",
-      "time": "08-25 20:53",
+      "title": "苹果全新 Mac mini 首次支持 Genlock，通过 USB-C 实现显示器、摄像头精准同步",
+      "link": "https://www.ithome.com/0/994/248.htm",
+      "time": "08-25 22:32",
       "src": "IT之家"
     },
     {
-      "title": "首发 4999 元起：联想拯救者 Y700 无极小平板发布，8.4 寸 OLED 屏幕、第五代骁龙 8 至尊领先版",
-      "link": "https://www.ithome.com/0/994/175.htm",
-      "time": "08-25 19:58",
+      "title": "联想拯救者 Y700 无极小平板发布，天马宣布独供柔性 OLED 屏",
+      "link": "https://www.ithome.com/0/994/247.htm",
+      "time": "08-25 22:32",
       "src": "IT之家"
     },
     {
-      "title": "AKKO 疾风 TAN7 Master 鼠标亮相：PAW3955 满血旗舰传感器，补贴价 299 元",
-      "link": "https://www.ithome.com/0/994/160.htm",
-      "time": "08-25 18:54",
+      "title": "华硕公布 XG27ACNS 三模显示器，支持 HD 920Hz 模式",
+      "link": "https://www.ithome.com/0/994/246.htm",
+      "time": "08-25 22:30",
       "src": "IT之家"
     },
     {
-      "title": "七彩虹 iGame Z890M ULTRA W 主板发售：白化设计，1599 元",
-      "link": "https://www.ithome.com/0/994/146.htm",
-      "time": "08-25 18:15",
+      "title": "华硕 ROG 丰富 24.5\" FHD OLED 显示器阵容，三款新品至高 720Hz",
+      "link": "https://www.ithome.com/0/994/245.htm",
+      "time": "08-25 22:21",
       "src": "IT之家"
     },
     {
-      "title": "RTX 5090又烧接口：原装转接线+ATX 3.1电源也没用",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1574900.htm",
-      "time": "08-25 19:07",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "英特尔拿下SK海力士：EMIB先进封装有望导入下一代HBM产品",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1574894.htm",
-      "time": "08-25 16:49",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "市场供应极其混乱 RTX 5090整机竟比单卡还便宜800块",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1574886.htm",
-      "time": "08-25 14:29",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本",
-      "link": "https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard",
-      "time": "08-23 15:25",
-      "src": "少数派"
-    },
-    {
-      "title": "消息称华为 Pura X View 阔直板手机搭载麒麟 9030S 处理器，现阶段全系采用 12GB 运存",
-      "link": "https://finance.sina.com.cn/tech/digi/2026-08-25/doc-inippmes5545942.shtml",
-      "time": "08-25 16:49",
+      "title": "XMG 推出 NEO 16（M26）游戏本：可选 OLED 屏幕、酷睿 Ultra 9 290HX Plus 处理器",
+      "link": "https://www.ithome.com/0/994/240.htm",
+      "time": "08-25 22:07",
       "src": "IT之家"
     },
     {
-      "title": "古尔曼：新一代苹果 iPad mini 最晚 10 月下旬发布，带来 OLED 屏幕、防水等升级",
-      "link": "https://finance.sina.com.cn/tech/digi/2026-08-25/doc-inippmes5473080.shtml",
-      "time": "08-25 15:21",
+      "title": "华硕公布 TUF Gaming K4 Magnetic 磁轴键盘：天选 TX75 兄弟型号",
+      "link": "https://www.ithome.com/0/994/230.htm",
+      "time": "08-25 22:05",
       "src": "IT之家"
     },
     {
-      "title": "古尔曼：苹果 AirPods 5 耳机下月发布，提供普通版和主动降噪版",
-      "link": "https://finance.sina.com.cn/tech/digi/2026-08-25/doc-inipnyqw5575718.shtml",
-      "time": "08-25 11:27",
+      "title": "华硕 ROG 公布 Gladius IV Ace、Spatha X 65K 鼠标，搭载 65000dpi 传感器",
+      "link": "https://www.ithome.com/0/994/222.htm",
+      "time": "08-25 21:51",
       "src": "IT之家"
     },
     {
-      "title": "Computex 2026: NVIDIA 发布 ARM 架构 PC 芯片 RTX Spark, 集成 Blackwell GPU, 对标苹果 M5",
-      "link": "https://new.qq.com/rain/a/20260605A09PXY00",
-      "time": "精选",
-      "src": "资讯整理"
+      "title": "苹果正式推出 M5 Ultra 芯片，最高 36 核 CPU/80 核 GPU，1.2 TB/s 统一内存带宽",
+      "link": "https://www.ithome.com/0/994/220.htm",
+      "time": "08-25 21:46",
+      "src": "IT之家"
+    },
+    {
+      "title": "苹果正式推出 M6 芯片：12 核 CPU，单线程性能全球领先",
+      "link": "https://www.ithome.com/0/994/219.htm",
+      "time": "08-25 21:43",
+      "src": "IT之家"
+    },
+    {
+      "title": "苹果推出全新 Mac Studio，可选 M5 Max 或 M5 Ultra 处理器，19999 元起售",
+      "link": "https://www.ithome.com/0/994/215.htm",
+      "time": "08-25 21:35",
+      "src": "IT之家"
+    },
+    {
+      "title": "华硕 ROG Xbox Ally X20 掌机价格公布：1299 美元起，升级 7.4 寸 OLED 屏",
+      "link": "https://www.ithome.com/0/994/212.htm",
+      "time": "08-25 21:27",
+      "src": "IT之家"
+    },
+    {
+      "title": "威联通推出 TVS-hx77AX 系列 NAS：AMD 锐龙 5 PRO 7645，ZFS 文件系统",
+      "link": "https://www.ithome.com/0/994/208.htm",
+      "time": "08-25 21:13",
+      "src": "IT之家"
     }
   ],
   "kojima": {
@@ -976,34 +976,40 @@
   },
   "intl_news": [
     {
-      "title": "绿联科技递表港交所，2025 年拿下泛拓展类科技消费电子产品出货全球第一",
-      "link": "https://www.ithome.com/0/994/153.htm",
-      "time": "08-25 18:29",
+      "title": "苹果正式推出 M6 芯片：12 核 CPU，单线程性能全球领先",
+      "link": "https://www.ithome.com/0/994/219.htm",
+      "time": "08-25 21:43",
       "src": "IT之家"
     },
     {
-      "title": "漫威索尼《蜘蛛侠：崭新之日》内地票房突破 15 亿，全球票房跃居影史前三",
-      "link": "https://www.ithome.com/0/994/151.htm",
-      "time": "08-25 18:23",
+      "title": "Global Mobility：预计中国汽车品牌 2030 年在欧洲年产量将达百万辆",
+      "link": "https://www.ithome.com/0/994/209.htm",
+      "time": "08-25 21:15",
       "src": "IT之家"
     },
     {
-      "title": "大众 CEO 奥博穆称下一轮裁员半数在德国发生，劳资关系紧张加剧",
-      "link": "https://www.ithome.com/0/994/122.htm",
-      "time": "08-25 17:54",
+      "title": "最高主频 5GHz 全球移动端最快，高通下一代骁龙旗舰平台 CPU 技术公开",
+      "link": "https://www.ithome.com/0/994/203.htm",
+      "time": "08-25 21:10",
       "src": "IT之家"
     },
     {
-      "title": "广州国际商业港首开区北地块挂牌",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-25/10684082.shtml",
-      "time": "08-25 20:31",
+      "title": "湖北形成“海陆空多向联动”的国际物流格局",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-25/10684189.shtml",
+      "time": "08-25 22:01",
       "src": "中新网"
     },
     {
-      "title": "上海有个来去丝滑的“国际会客厅”",
-      "link": "https://www.chinanews.com.cn/fz/2026/08-25/10684074.shtml",
-      "time": "08-25 20:30",
+      "title": "多国科创企业共聚香港  聚焦AI向善推动全球合作",
+      "link": "https://www.chinanews.com.cn/dwq/2026/08-25/10684186.shtml",
+      "time": "08-25 21:58",
       "src": "中新网"
+    },
+    {
+      "title": "OpenAI封禁涉嫌参与秘密舆论行动的俄罗斯ChatGPT账号",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574940.htm",
+      "time": "08-25 22:51",
+      "src": "cnBeta.COM"
     },
     {
       "title": "特朗普向阿尔忒弥斯二号全体宇航员颁授国会太空荣誉勋章",
@@ -1016,43 +1022,31 @@
       "link": "https://www.cnbeta.com.tw/articles/tech/1574880.htm",
       "time": "08-25 14:19",
       "src": "cnBeta.COM"
-    },
-    {
-      "title": "石破茂前首相参加的议员联盟发表声明 要求政府以最强硬的言辞谴责特朗普政权",
-      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260825-%E7%9F%B3%E7%A0%B4%E8%8C%82%E5%89%8D%E9%A6%96%E7%9B%B8%E5%8F%82%E5%8A%A0%E7%9A%84%E8%AE%AE%E5%91%98%E8%81%94%E7%9B%9F%E5%8F%91%E8%A1%A8%E5%A3%B0%E6%98%8E-%E8%A6%81%E6%B1%82%E6%94%BF%E5%BA%9C%E4%BB%A5%E6%9C%80%E5%BC%BA%E7%A1%AC%E7%9A%84%E8%A8%80%E8%BE%9E%E8%B0%B4%E8%B4%A3%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E6%9D%83",
-      "time": "08-25 16:18",
-      "src": "REUTERS - Kevi"
     }
   ],
   "econ_news": [
     {
-      "title": "BOSS直聘 2026 财年半年报归母净利润 31.02 亿元，同比增长 150.8%",
+      "title": "中科曙光 2026 年上半年归母净利润 9.71 亿元，同比增长 33.31%",
+      "link": "https://www.ithome.com/0/994/224.htm",
+      "time": "08-25 21:56",
+      "src": "IT之家"
+    },
+    {
+      "title": "江苏常州通报：星宇股份已对人力资源总监作停职处理，不存在违规享受就业和人才类政府补贴行为",
+      "link": "https://www.ithome.com/0/994/223.htm",
+      "time": "08-25 21:54",
+      "src": "IT之家"
+    },
+    {
+      "title": "华硕 ROG Xbox Ally X20 掌机价格公布：1299 美元起，升级 7.4 寸 OLED 屏",
+      "link": "https://www.ithome.com/0/994/212.htm",
+      "time": "08-25 21:27",
+      "src": "IT之家"
+    },
+    {
+      "title": "BOSS 直聘 2026 财年上半年归母净利润 31.02 亿元，同比增长 150.8%",
       "link": "https://www.ithome.com/0/994/173.htm",
       "time": "08-25 19:51",
-      "src": "IT之家"
-    },
-    {
-      "title": "BOSS直聘 2026 财年第二财季归母净利润 19.45 亿元，同比增长 173.1%",
-      "link": "https://www.ithome.com/0/994/171.htm",
-      "time": "08-25 19:43",
-      "src": "IT之家"
-    },
-    {
-      "title": "韵达股份 2026 年上半年归母净利润 9.98 亿元，同比增长 88.82%",
-      "link": "https://www.ithome.com/0/994/157.htm",
-      "time": "08-25 18:48",
-      "src": "IT之家"
-    },
-    {
-      "title": "绿联科技递表港交所，2025 年拿下泛拓展类科技消费电子产品出货全球第一",
-      "link": "https://www.ithome.com/0/994/153.htm",
-      "time": "08-25 18:29",
-      "src": "IT之家"
-    },
-    {
-      "title": "华为余承东：智界 V9 汽车 7 月高端 MPV 市场零售占有率达到 68%",
-      "link": "https://www.ithome.com/0/994/145.htm",
-      "time": "08-25 18:12",
       "src": "IT之家"
     },
     {
@@ -1062,19 +1056,49 @@
       "src": "机核"
     },
     {
-      "title": "中国经济怎么看、怎么干？人民日报连发4篇钟才文文章",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-25/10684129.shtml",
-      "time": "08-25 20:53",
+      "title": "浙江制造业深度拥抱人工智能 加快推进体系化落地",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-25/10684180.shtml",
+      "time": "08-25 21:48",
       "src": "中新网"
     },
     {
-      "title": "呼和浩特市本级财政科技投入拟2年增至4倍",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-25/10684116.shtml",
-      "time": "08-25 20:49",
-      "src": "中新网"
+      "title": "Shein上市募资18亿美元 却需补偿投资人最高35亿美元",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574872.htm",
+      "time": "08-25 14:16",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "英伟达股价七连跌 财报前市场在担心什么？",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574870.htm",
+      "time": "08-25 14:15",
+      "src": "cnBeta.COM"
     }
   ],
   "game_news": [
+    {
+      "title": "XMG 推出 NEO 16（M26）游戏本：可选 OLED 屏幕、酷睿 Ultra 9 290HX Plus 处理器",
+      "link": "https://www.ithome.com/0/994/240.htm",
+      "time": "08-25 22:07",
+      "src": "IT之家"
+    },
+    {
+      "title": "腾讯相关人士回应“IEG 重组 AI 游戏部门”：报道内容存在大量失实，所谓“成立新部门”系误读",
+      "link": "https://www.ithome.com/0/994/229.htm",
+      "time": "08-25 22:04",
+      "src": "IT之家"
+    },
+    {
+      "title": "华硕 ROG Xbox Ally X20 掌机价格公布：1299 美元起，升级 7.4 寸 OLED 屏",
+      "link": "https://www.ithome.com/0/994/212.htm",
+      "time": "08-25 21:27",
+      "src": "IT之家"
+    },
+    {
+      "title": "联想拯救者超神散热器 CR7 套装、游戏手柄 G9 无极发布，首发 499 元",
+      "link": "https://www.ithome.com/0/994/202.htm",
+      "time": "08-25 21:10",
+      "src": "IT之家"
+    },
     {
       "title": "联想拯救者云游戏掌机 C700 发布：支持腾讯 START，首发 1999 元",
       "link": "https://www.ithome.com/0/994/177.htm",
@@ -1082,46 +1106,22 @@
       "src": "IT之家"
     },
     {
-      "title": "世嘉日本确认：《女神异闻录 6》仅 PS5 提供实体版",
-      "link": "https://www.ithome.com/0/994/170.htm",
-      "time": "08-25 19:40",
-      "src": "IT之家"
+      "title": "ROG XBOX掌机 X 20周年版正式亮相科隆游戏展2026",
+      "link": "https://www.gcores.com/articles/218766",
+      "time": "08-25 21:15",
+      "src": "机核"
     },
     {
-      "title": "苹果 iOS 27 正式版发布在即，Siri AI 预计将采用候补名单机制",
-      "link": "https://www.ithome.com/0/994/165.htm",
-      "time": "08-25 19:17",
-      "src": "IT之家"
+      "title": "2026，我在知乎度过中国游戏的盛夏",
+      "link": "https://www.gcores.com/articles/218733",
+      "time": "08-25 19:30",
+      "src": "机核"
     },
     {
-      "title": "漫威索尼《蜘蛛侠：崭新之日》内地票房突破 15 亿，全球票房跃居影史前三",
-      "link": "https://www.ithome.com/0/994/151.htm",
-      "time": "08-25 18:23",
-      "src": "IT之家"
-    },
-    {
-      "title": "七彩虹 iGame Z890M ULTRA W 主板发售：白化设计，1599 元",
-      "link": "https://www.ithome.com/0/994/146.htm",
-      "time": "08-25 18:15",
-      "src": "IT之家"
-    },
-    {
-      "title": "文档基金会再度抨击微软 Microsoft 365：功能区没有最佳，只有最合适",
-      "link": "https://www.ithome.com/0/994/142.htm",
-      "time": "08-25 18:07",
-      "src": "IT之家"
-    },
-    {
-      "title": "宏碁暗影骑士 · 擎 8 游戏本上市：14650HX + 5060 配置国补后 8999 元",
-      "link": "https://www.ithome.com/0/994/127.htm",
-      "time": "08-25 17:56",
-      "src": "IT之家"
-    },
-    {
-      "title": "被投诉“没穿衣服”：发布 31 周年之际，微软分享 Win95 更换全息防伪标签背后故事",
-      "link": "https://www.ithome.com/0/994/119.htm",
-      "time": "08-25 17:50",
-      "src": "IT之家"
+      "title": "Pearl Abyss《红色沙漠》入围科隆游戏展2026“最具史诗感游戏”与“最佳PC游戏”奖项",
+      "link": "https://www.gcores.com/articles/218747",
+      "time": "08-25 11:41",
+      "src": "机核"
     }
   ],
   "game_update": [
@@ -1190,10 +1190,16 @@
       "src": "ISW"
     },
     {
-      "title": "曝《使命召唤：现代战争4》预购40万套 已赚1.5亿",
-      "link": "https://www.cnbeta.com.tw/articles/game/1574850.htm",
-      "time": "08-25 10:49",
-      "src": "cnBeta.COM"
+      "title": "南宁海事局使用重载无人机成功救助3艘遇险船舶",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-25/10684193.shtml",
+      "time": "08-25 22:08",
+      "src": "中新网"
+    },
+    {
+      "title": "中越边境广西宁明爱店口岸恢复通关",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-25/10684182.shtml",
+      "time": "08-25 21:55",
+      "src": "中新网"
     },
     {
       "title": "比亚迪为何押注“轻型純电海獭”抢滩日本市场？中国导弹加入后，高超音速威慑即将到来？",
@@ -1224,12 +1230,6 @@
       "link": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260824-rfi%E6%B3%95%E5%B9%BF-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E4%B9%8D%E5%BE%97%E6%8C%87%E6%8E%A7%E8%8B%8F%E4%B8%B9%E5%86%9B%E9%98%9F%E4%B8%80%E5%86%8D%E5%85%A5%E4%BE%B5",
       "time": "08-25 07:15",
       "src": "© Studio graph"
-    },
-    {
-      "title": "贝森特：美对伊朗正发动全面经济攻势",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260824-%E8%B4%9D%E6%A3%AE%E7%89%B9-%E7%BE%8E%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%AD%A3%E5%8F%91%E5%8A%A8%E5%85%A8%E9%9D%A2%E7%BB%8F%E6%B5%8E%E6%94%BB%E5%8A%BF",
-      "time": "08-25 04:55",
-      "src": "© ATTA KENARE/"
     }
   ]
 }
