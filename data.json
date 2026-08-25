@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26 00:45",
+  "generated_at": "2026-08-26 02:48",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,18 +233,6 @@
     ],
     "news": [
       {
-        "title": "荣耀晒人形机器人运动会百米战果：“元气仔”预赛夺冠，“闪电”再破人类纪录",
-        "link": "https://www.ithome.com/0/994/197.htm",
-        "time": "08-25 20:51",
-        "src": "IT之家"
-      },
-      {
-        "title": "Gartner 预测：2026 年存储器市场规模 ＞ 2025 年半导体整体收入",
-        "link": "https://www.ithome.com/0/994/193.htm",
-        "time": "08-25 20:40",
-        "src": "IT之家"
-      },
-      {
         "title": "苹果发布M5 Ultra芯片：首次采用四芯粒架构 AI算力最高提升4.3倍",
         "link": "https://www.cnbeta.com.tw/articles/tech/1574924.htm",
         "time": "08-25 22:34",
@@ -279,6 +267,18 @@
         "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inippvuq2321474.shtml",
         "time": "08-25 21:20",
         "src": "环球市场播报"
+      },
+      {
+        "title": "利好！688308，净利大增超47700%，更有多家A股龙头，业绩翻倍！",
+        "link": "https://finance.sina.com.cn/stock/s/2026-08-25/doc-inippvun5546744.shtml",
+        "time": "08-25 21:15",
+        "src": "证券时报"
+      },
+      {
+        "title": "美国联邦政府债务突破40万亿美元 财政可持续性引关注",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inippvuh9597158.shtml",
+        "time": "08-25 20:49",
+        "src": "环球市场播报"
       }
     ]
   },
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 53513.22,
-      "pct": 0.18,
-      "chg": 96.06,
-      "amount": "938147688亿"
+      "price": 53567.57,
+      "pct": 0.28,
+      "chg": 150.41,
+      "amount": "1246467766亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26131.76,
-      "pct": 0.58,
-      "chg": 151.57,
-      "amount": "10054759678亿"
+      "price": 26135.02,
+      "pct": 0.6,
+      "chg": 154.83,
+      "amount": "12624266757亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7674.77,
-      "pct": 0.29,
-      "chg": 21.91,
-      "amount": "737193185亿"
+      "price": 7675.73,
+      "pct": 0.3,
+      "chg": 22.87,
+      "amount": "1027949211亿"
     }
   ],
   "anime": {
@@ -580,37 +580,37 @@
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 12656,
+        "likes": 12677,
         "downloads": 2945415,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 2890,
+        "likes": 2895,
         "downloads": 7334695,
         "pipeline": ""
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-        "likes": 1078,
+        "likes": 1085,
         "downloads": 68855,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-        "likes": 737,
+        "likes": 739,
         "downloads": 389747,
         "pipeline": "text-generation"
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-        "likes": 1134,
+        "likes": 1139,
         "downloads": 249744,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "ornith-ai/Ornith-1.5-35B-A3B",
-        "likes": 413,
+        "likes": 415,
         "downloads": 70158,
         "pipeline": "text-generation"
       }
@@ -1027,16 +1027,16 @@
   "anime_industry": {
     "news": [
       {
+        "title": "网易二次元都市冒险游戏《无限大》官宣 2027 年 1 月 15 日全球上线",
+        "link": "https://www.ithome.com/0/994/268.htm",
+        "time": "08-26 02:26",
+        "src": "IT之家"
+      },
+      {
         "title": "庆祝宝可梦系列诞生 30 周年，闪迪推出纪念款 U 盘和便携 SSD",
         "link": "https://www.ithome.com/0/994/259.htm",
         "time": "08-25 23:26",
         "src": "IT之家"
-      },
-      {
-        "title": "60 亿投资    数千个工作岗位   沙特在巴黎近郊打造《龙珠》主题乐园",
-        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260824-60-%E4%BA%BF%E6%8A%95%E8%B5%84-%E6%95%B0%E5%8D%83%E4%B8%AA%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D-%E6%B2%99%E7%89%B9%E5%9C%A8%E5%B7%B4%E9%BB%8E%E8%BF%91%E9%83%8A%E6%89%93%E9%80%A0-%E9%BE%99%E7%8F%A0-%E4%B8%BB%E9%A2%98%E4%B9%90%E5%9B%AD",
-        "time": "08-25 04:21",
-        "src": "© Lou Benoist "
       },
       {
         "title": "《动画产业报告2025》: 市场规模达 3.84 万亿日元创历史新高, 海外占比约 56.5%",
@@ -1065,6 +1065,12 @@
     ]
   },
   "intl_news": [
+    {
+      "title": "网易二次元都市冒险游戏《无限大》官宣 2027 年 1 月 15 日全球上线",
+      "link": "https://www.ithome.com/0/994/268.htm",
+      "time": "08-26 02:26",
+      "src": "IT之家"
+    },
     {
       "title": "苹果正式推出 M6 芯片：12 核 CPU，单线程性能全球领先",
       "link": "https://www.ithome.com/0/994/219.htm",
@@ -1106,12 +1112,6 @@
       "link": "https://www.chinanews.com.cn/dwq/2026/08-25/10684186.shtml",
       "time": "08-25 21:58",
       "src": "中新网"
-    },
-    {
-      "title": "OpenAI封禁涉嫌参与秘密舆论行动的俄罗斯ChatGPT账号",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1574940.htm",
-      "time": "08-25 22:51",
-      "src": "cnBeta.COM"
     }
   ],
   "econ_news": [
@@ -1140,12 +1140,6 @@
       "src": "IT之家"
     },
     {
-      "title": "从暴雨中穿行归来 ｜ 「吉考斯工业 × 重返未来：1999 」联名系列Part 2 现已发售",
-      "link": "https://www.gcores.com/articles/218694",
-      "time": "08-24 10:00",
-      "src": "机核"
-    },
-    {
       "title": "加拿大宣布对美国商品征收报复性关税",
       "link": "https://www.chinanews.com.cn/gj/2026/08-25/10684208.shtml",
       "time": "08-25 23:26",
@@ -1158,6 +1152,12 @@
       "src": "中新网"
     },
     {
+      "title": "SpaceX拟在路易斯安那州斥资千亿美元建设第二座“星际基地”",
+      "link": "https://www.cnbeta.com.tw/articles/science/1574958.htm",
+      "time": "08-26 02:37",
+      "src": "cnBeta.COM"
+    },
+    {
       "title": "苹果新款擦布悄然降价10美元 产品本身与旧款并无差异",
       "link": "https://www.cnbeta.com.tw/articles/tech/1574944.htm",
       "time": "08-25 23:11",
@@ -1165,6 +1165,30 @@
     }
   ],
   "game_news": [
+    {
+      "title": "卡普空《洛克人：Dual Override》游戏亮相科隆游戏展，2027 年发售",
+      "link": "https://www.ithome.com/0/994/270.htm",
+      "time": "08-26 02:46",
+      "src": "IT之家"
+    },
+    {
+      "title": "育碧新游《彩虹六号：战术行动》公布：纯单人游戏，预计 2027 年登陆 PC、PS5 和 Xbox",
+      "link": "https://www.ithome.com/0/994/269.htm",
+      "time": "08-26 02:29",
+      "src": "IT之家"
+    },
+    {
+      "title": "网易二次元都市冒险游戏《无限大》官宣 2027 年 1 月 15 日全球上线",
+      "link": "https://www.ithome.com/0/994/268.htm",
+      "time": "08-26 02:26",
+      "src": "IT之家"
+    },
+    {
+      "title": "2026 科隆游戏展开场首秀：米哈游全新游戏《源初之结》首支预告公开",
+      "link": "https://www.ithome.com/0/994/267.htm",
+      "time": "08-26 02:18",
+      "src": "IT之家"
+    },
     {
       "title": "任天堂《马力欧卡丁车世界》Switch 2 套装海外回归：549.99 美元，贵了 50 美元",
       "link": "https://www.ithome.com/0/994/265.htm",
@@ -1188,30 +1212,6 @@
       "link": "https://www.ithome.com/0/994/240.htm",
       "time": "08-25 22:07",
       "src": "IT之家"
-    },
-    {
-      "title": "腾讯相关人士回应“IEG 重组 AI 游戏部门”：报道内容存在大量失实，所谓“成立新部门”系误读",
-      "link": "https://www.ithome.com/0/994/229.htm",
-      "time": "08-25 22:04",
-      "src": "IT之家"
-    },
-    {
-      "title": "华硕 ROG Xbox Ally X20 掌机价格公布：1299 美元起，升级 7.4 寸 OLED 屏",
-      "link": "https://www.ithome.com/0/994/212.htm",
-      "time": "08-25 21:27",
-      "src": "IT之家"
-    },
-    {
-      "title": "联想拯救者超神散热器 CR7 套装、游戏手柄 G9 无极发布，首发 499 元",
-      "link": "https://www.ithome.com/0/994/202.htm",
-      "time": "08-25 21:10",
-      "src": "IT之家"
-    },
-    {
-      "title": "ROG XBOX掌机 X 20周年版正式亮相科隆游戏展2026",
-      "link": "https://www.gcores.com/articles/218766",
-      "time": "08-25 21:15",
-      "src": "机核"
     }
   ],
   "game_update": [
@@ -1298,16 +1298,16 @@
       "src": "中新网"
     },
     {
-      "title": "联合国警告缅甸人权状况恶化，稀土非法开采助推冲突加剧",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260825-%E8%81%94%E5%90%88%E5%9B%BD%E8%AD%A6%E5%91%8A%E7%BC%85%E7%94%B8%E4%BA%BA%E6%9D%83%E7%8A%B6%E5%86%B5%E6%81%B6%E5%8C%96%EF%BC%8C%E7%A8%80%E5%9C%9F%E9%9D%9E%E6%B3%95%E5%BC%80%E9%87%87%E5%8A%A9%E6%8E%A8%E5%86%B2%E7%AA%81%E5%8A%A0%E5%89%A7",
-      "time": "08-25 22:52",
-      "src": "© PALAUNG LAND"
-    },
-    {
       "title": "比亚迪为何押注“轻型純电海獭”抢滩日本市场？中国导弹加入后，高超音速威慑即将到来？",
       "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260825-%E6%AF%94%E4%BA%9A%E8%BF%AA%E4%B8%BA%E4%BD%95%E6%8A%BC%E6%B3%A8-%E8%BD%BB%E5%9E%8B%E7%B4%94%E7%94%B5%E6%B5%B7%E7%8D%AD-%E6%8A%A2%E6%BB%A9%E6%97%A5%E6%9C%AC%E5%B8%82%E5%9C%BA-%E4%B8%AD%E5%9B%BD%E5%AF%BC%E5%BC%B9%E5%8A%A0%E5%85%A5%E5%90%8E-%E9%AB%98%E8%B6%85%E9%9F%B3%E9%80%9F%E5%A8%81%E6%85%91%E5%8D%B3%E5%B0%86%E5%88%B0%E6%9D%A5",
       "time": "08-25 18:51",
       "src": "法广RFI"
+    },
+    {
+      "title": "联合国警告缅甸人权状况恶化，稀土非法开采助推冲突加剧",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260825-%E8%81%94%E5%90%88%E5%9B%BD%E8%AD%A6%E5%91%8A%E7%BC%85%E7%94%B8%E4%BA%BA%E6%9D%83%E7%8A%B6%E5%86%B5%E6%81%B6%E5%8C%96%EF%BC%8C%E7%A8%80%E5%9C%9F%E9%9D%9E%E6%B3%95%E5%BC%80%E9%87%87%E5%8A%A9%E6%8E%A8%E5%86%B2%E7%AA%81%E5%8A%A0%E5%89%A7",
+      "time": "08-25 22:52",
+      "src": "© PALAUNG LAND"
     },
     {
       "title": "路透卫星图像分析：南海岛礁出现新建筑，中国正加速扩建南海军事设施",
