@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26 02:48",
+  "generated_at": "2026-08-26 04:36",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -245,6 +245,18 @@
         "src": "© AP Photo/Ach"
       },
       {
+        "title": "IMF总裁呼吁各国应对财政风险 央行继续专注抗通胀",
+        "link": "https://finance.sina.com.cn/world/2026-08-26/doc-inipqnsh2232524.shtml",
+        "time": "08-26 03:14",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "质疑之声不消反涨 贝森特加码长债回购招致市场五大批评",
+        "link": "https://finance.sina.com.cn/world/2026-08-26/doc-inipqnsh2256809.shtml",
+        "time": "08-26 03:00",
+        "src": "环球市场播报"
+      },
+      {
         "title": "Anthropic或将向投资者披露，潜在市场收入规模超30万亿美元",
         "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipqhkk2252724.shtml",
         "time": "08-26 00:42",
@@ -267,18 +279,6 @@
         "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inippvuq2321474.shtml",
         "time": "08-25 21:20",
         "src": "环球市场播报"
-      },
-      {
-        "title": "利好！688308，净利大增超47700%，更有多家A股龙头，业绩翻倍！",
-        "link": "https://finance.sina.com.cn/stock/s/2026-08-25/doc-inippvun5546744.shtml",
-        "time": "08-25 21:15",
-        "src": "证券时报"
-      },
-      {
-        "title": "美国联邦政府债务突破40万亿美元 财政可持续性引关注",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inippvuh9597158.shtml",
-        "time": "08-25 20:49",
-        "src": "环球市场播报"
       }
     ]
   },
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 53567.57,
-      "pct": 0.28,
-      "chg": 150.41,
-      "amount": "1246467766亿"
+      "price": 53577.4,
+      "pct": 0.3,
+      "chg": 160.24,
+      "amount": "2103137462亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26135.02,
-      "pct": 0.6,
-      "chg": 154.83,
-      "amount": "12624266757亿"
+      "price": 26151.3,
+      "pct": 0.66,
+      "chg": 171.11,
+      "amount": "17091292664亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7675.73,
-      "pct": 0.3,
-      "chg": 22.87,
-      "amount": "1027949211亿"
+      "price": 7677.28,
+      "pct": 0.32,
+      "chg": 24.42,
+      "amount": "1796484663亿"
     }
   ],
   "anime": {
@@ -571,46 +571,46 @@
         "src": "IT之家"
       },
       {
-        "title": "苹果正式推出 M5 Ultra 芯片，最高 36 核 CPU/80 核 GPU，1.2 TB/s 统一内存带宽",
-        "link": "https://www.ithome.com/0/994/220.htm",
-        "time": "08-25 21:46",
-        "src": "IT之家"
+        "title": "苹果推出搭载M6和M5 Ultra芯片的Mac Studio及Mac mini",
+        "link": "https://www.gcores.com/articles/218773",
+        "time": "08-25 22:22",
+        "src": "机核"
       }
     ],
     "hf": [
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 12677,
+        "likes": 12688,
         "downloads": 2945415,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 2895,
+        "likes": 2901,
         "downloads": 7334695,
         "pipeline": ""
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-        "likes": 1085,
+        "likes": 1090,
         "downloads": 68855,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-        "likes": 739,
+        "likes": 742,
         "downloads": 389747,
         "pipeline": "text-generation"
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-        "likes": 1139,
+        "likes": 1140,
         "downloads": 249744,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "ornith-ai/Ornith-1.5-35B-A3B",
-        "likes": 415,
+        "likes": 417,
         "downloads": 70158,
         "pipeline": "text-generation"
       }
@@ -844,16 +844,16 @@
       "src": "IT之家"
     },
     {
-      "title": "苹果正式推出 M5 Ultra 芯片，最高 36 核 CPU/80 核 GPU，1.2 TB/s 统一内存带宽",
-      "link": "https://www.ithome.com/0/994/220.htm",
-      "time": "08-25 21:46",
-      "src": "IT之家"
+      "title": "英伟达DLSS 4.5光线重建开放早期体验 全系RTX显卡可用",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574954.htm",
+      "time": "08-26 02:12",
+      "src": "cnBeta.COM"
     },
     {
-      "title": "苹果正式推出 M6 芯片：12 核 CPU，单线程性能全球领先",
-      "link": "https://www.ithome.com/0/994/219.htm",
-      "time": "08-25 21:43",
-      "src": "IT之家"
+      "title": "苹果悄然更新妙控键盘 多个按键改用符号标识",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574948.htm",
+      "time": "08-25 23:14",
+      "src": "cnBeta.COM"
     }
   ],
   "kojima": {
@@ -1027,6 +1027,18 @@
   "anime_industry": {
     "news": [
       {
+        "title": "国产单机动作游戏《湮灭之潮》新预告，《生化危机：安魂曲》格蕾丝声优安杰拉加盟",
+        "link": "https://www.ithome.com/0/994/276.htm",
+        "time": "08-26 03:33",
+        "src": "IT之家"
+      },
+      {
+        "title": "《红色沙漠：增强版》游戏公布：增加剧情过场动画和 5 种语音，现有玩家可免费更新",
+        "link": "https://www.ithome.com/0/994/271.htm",
+        "time": "08-26 02:58",
+        "src": "IT之家"
+      },
+      {
         "title": "网易二次元都市冒险游戏《无限大》官宣 2027 年 1 月 15 日全球上线",
         "link": "https://www.ithome.com/0/994/268.htm",
         "time": "08-26 02:26",
@@ -1072,24 +1084,6 @@
       "src": "IT之家"
     },
     {
-      "title": "苹果正式推出 M6 芯片：12 核 CPU，单线程性能全球领先",
-      "link": "https://www.ithome.com/0/994/219.htm",
-      "time": "08-25 21:43",
-      "src": "IT之家"
-    },
-    {
-      "title": "Global Mobility：预计中国汽车品牌 2030 年在欧洲年产量将达百万辆",
-      "link": "https://www.ithome.com/0/994/209.htm",
-      "time": "08-25 21:15",
-      "src": "IT之家"
-    },
-    {
-      "title": "最高主频 5GHz 全球移动端最快，高通下一代骁龙旗舰平台 CPU 技术公开",
-      "link": "https://www.ithome.com/0/994/203.htm",
-      "time": "08-25 21:10",
-      "src": "IT之家"
-    },
-    {
       "title": "2026年度电影总票房突破275亿！《欢迎来龙餐馆》公布全球上映计划",
       "link": "https://www.chinanews.com.cn/cul/2026/08-25/10684206.shtml",
       "time": "08-25 23:08",
@@ -1112,6 +1106,24 @@
       "link": "https://www.chinanews.com.cn/dwq/2026/08-25/10684186.shtml",
       "time": "08-25 21:58",
       "src": "中新网"
+    },
+    {
+      "title": "德国自动驾驶出租车市场再迎新玩家 Waymo计划进军慕尼黑",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574956.htm",
+      "time": "08-26 02:14",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "苹果40W动态电源适配器登陆欧洲更多市场 支持最高60W短时充电功率",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574952.htm",
+      "time": "08-26 02:11",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "OpenAI封禁涉嫌参与秘密舆论行动的俄罗斯ChatGPT账号",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1574940.htm",
+      "time": "08-25 22:51",
+      "src": "cnBeta.COM"
     }
   ],
   "econ_news": [
@@ -1134,21 +1146,15 @@
       "src": "IT之家"
     },
     {
-      "title": "华硕 ROG Xbox Ally X20 掌机价格公布：1299 美元起，升级 7.4 寸 OLED 屏",
-      "link": "https://www.ithome.com/0/994/212.htm",
-      "time": "08-25 21:27",
-      "src": "IT之家"
+      "title": "美国8月消费者信心指数降至7个月来最低值",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-26/10684215.shtml",
+      "time": "08-26 04:07",
+      "src": "中新网"
     },
     {
       "title": "加拿大宣布对美国商品征收报复性关税",
       "link": "https://www.chinanews.com.cn/gj/2026/08-25/10684208.shtml",
       "time": "08-25 23:26",
-      "src": "中新网"
-    },
-    {
-      "title": "浙江制造业深度拥抱人工智能 加快推进体系化落地",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-25/10684180.shtml",
-      "time": "08-25 21:48",
       "src": "中新网"
     },
     {
@@ -1162,59 +1168,73 @@
       "link": "https://www.cnbeta.com.tw/articles/tech/1574944.htm",
       "time": "08-25 23:11",
       "src": "cnBeta.COM"
+    },
+    {
+      "title": "加宣布对美实施15%至50%报复性关税",
+      "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260825-%E5%8A%A0%E5%AE%A3%E5%B8%83%E5%AF%B9%E7%BE%8E%E5%AE%9E%E6%96%BD15-%E8%87%B350-%E6%8A%A5%E5%A4%8D%E6%80%A7%E5%85%B3%E7%A8%8E",
+      "time": "08-26 02:04",
+      "src": "REUTERS - Chri"
     }
   ],
   "game_news": [
     {
-      "title": "卡普空《洛克人：Dual Override》游戏亮相科隆游戏展，2027 年发售",
-      "link": "https://www.ithome.com/0/994/270.htm",
-      "time": "08-26 02:46",
+      "title": "《最终幻想 7：启示录》游戏第二支预告公布，2027 年春季发售",
+      "link": "https://www.ithome.com/0/994/286.htm",
+      "time": "08-26 04:35",
       "src": "IT之家"
     },
     {
-      "title": "育碧新游《彩虹六号：战术行动》公布：纯单人游戏，预计 2027 年登陆 PC、PS5 和 Xbox",
-      "link": "https://www.ithome.com/0/994/269.htm",
-      "time": "08-26 02:29",
+      "title": "城市模拟游戏《乐高：天际线》亮相 2026 科隆游戏展",
+      "link": "https://www.ithome.com/0/994/285.htm",
+      "time": "08-26 04:25",
       "src": "IT之家"
     },
     {
-      "title": "网易二次元都市冒险游戏《无限大》官宣 2027 年 1 月 15 日全球上线",
-      "link": "https://www.ithome.com/0/994/268.htm",
-      "time": "08-26 02:26",
+      "title": "国产抗日 FPS 游戏《抵抗者》2026 科隆游戏展最新实机演示公布",
+      "link": "https://www.ithome.com/0/994/283.htm",
+      "time": "08-26 04:15",
       "src": "IT之家"
     },
     {
-      "title": "2026 科隆游戏展开场首秀：米哈游全新游戏《源初之结》首支预告公开",
-      "link": "https://www.ithome.com/0/994/267.htm",
-      "time": "08-26 02:18",
+      "title": "《寂静岭：Townfall》亮相科隆游戏展，新预告出现巨型怪物",
+      "link": "https://www.ithome.com/0/994/281.htm",
+      "time": "08-26 04:02",
       "src": "IT之家"
     },
     {
-      "title": "任天堂《马力欧卡丁车世界》Switch 2 套装海外回归：549.99 美元，贵了 50 美元",
-      "link": "https://www.ithome.com/0/994/265.htm",
-      "time": "08-25 23:49",
+      "title": "《暗影火炬城》原班团队打造：国产游戏《动物朋克》公布全新实机演示",
+      "link": "https://www.ithome.com/0/994/280.htm",
+      "time": "08-26 03:55",
       "src": "IT之家"
     },
     {
-      "title": "NVIDIA DLSS 4.5 光线重建更新实测：提升游戏画面质感的“大杀器”",
-      "link": "https://www.ithome.com/0/994/261.htm",
-      "time": "08-25 23:30",
+      "title": "《昭和米国物语》游戏新实机预告片公开，日笠阳子为主角千草蝶子配音",
+      "link": "https://www.ithome.com/0/994/279.htm",
+      "time": "08-26 03:51",
       "src": "IT之家"
     },
     {
-      "title": "庆祝宝可梦系列诞生 30 周年，闪迪推出纪念款 U 盘和便携 SSD",
-      "link": "https://www.ithome.com/0/994/259.htm",
-      "time": "08-25 23:26",
+      "title": "育碧《魔法门之英雄无敌 3 重制版》游戏《上古起源》官宣，已上架 Steam",
+      "link": "https://www.ithome.com/0/994/278.htm",
+      "time": "08-26 03:49",
       "src": "IT之家"
     },
     {
-      "title": "XMG 推出 NEO 16（M26）游戏本：可选 OLED 屏幕、酷睿 Ultra 9 290HX Plus 处理器",
-      "link": "https://www.ithome.com/0/994/240.htm",
-      "time": "08-25 22:07",
-      "src": "IT之家"
+      "title": "吃鸡 + Roguelite 多人游戏《PUBG: DED.NET》亮相 2026 科隆游戏展",
+      "link": "https://www.ithome.com/0/994/277.htm",
+      "time": "08-26 03:39",
+      "src": "IT之家",
+      "type": "不停机更新"
     }
   ],
   "game_update": [
+    {
+      "title": "吃鸡 + Roguelite 多人游戏《PUBG: DED.NET》亮相 2026 科隆游戏展",
+      "link": "https://www.ithome.com/0/994/277.htm",
+      "time": "08-26 03:39",
+      "src": "IT之家",
+      "type": "不停机更新"
+    },
     {
       "title": "《PUBG》42.3版本 PC 8/12 维护(08:00-16:30): 时隔两年新增轻机枪 RPD, 轻机枪换弹-25%/后坐力调整, 主流玩法轮换开启",
       "link": "https://new.qq.com/rain/a/20260811A06SHD00",
@@ -1263,13 +1283,6 @@
       "time": "8-05",
       "type": "停机维护",
       "src": "腾讯官方"
-    },
-    {
-      "title": "《大话西游》手游 8/13 每周例行停机维护(8:00-10:00): 新神兽广陵+小西天副本上线, 周星驰合作宣传片8/15公开",
-      "link": "https://dhxy.163.com/news/update/20260812/19975_1310915.html",
-      "time": "8-13",
-      "type": "停机维护",
-      "src": "网易官网"
     }
   ],
   "mil_news": [
