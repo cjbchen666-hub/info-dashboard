@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27 00:52",
+  "generated_at": "2026-08-27 03:55",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -269,15 +269,15 @@
         "src": "cnBeta.COM"
       },
       {
-        "title": "我们真能靠“经济增长化解”40万亿美元国债吗？一位经济学家直言：“美国毫无机会”",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipsmie0727697.shtml",
-        "time": "08-27 00:45",
+        "title": "Anthropic将向Nscale支付450亿美元租用人工智能算力",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipsrri9111404.shtml",
+        "time": "08-27 02:23",
         "src": "环球市场播报"
       },
       {
-        "title": "欧洲债市：欧债追随美债下跌 交易员加大对欧洲央行加息的押注",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipsmim5868707.shtml",
-        "time": "08-27 00:00",
+        "title": "PCE通胀呈现黏性，美联储内部分歧加剧，杰克逊霍尔年会临近",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipsmie0734571.shtml",
+        "time": "08-27 01:02",
         "src": "环球市场播报"
       }
     ]
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 53385.28,
-      "pct": -0.36,
-      "chg": -192.12,
-      "amount": "929432992亿"
+      "price": 53483.18,
+      "pct": -0.18,
+      "chg": -94.22,
+      "amount": "1576268598亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26028.92,
-      "pct": -0.47,
-      "chg": -122.38,
-      "amount": "9737658868亿"
+      "price": 26137.93,
+      "pct": -0.05,
+      "chg": -13.37,
+      "amount": "13960298373亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7658.79,
-      "pct": -0.24,
-      "chg": -18.49,
-      "amount": "754877491亿"
+      "price": 7679.77,
+      "pct": 0.03,
+      "chg": 2.49,
+      "amount": "1319012781亿"
     }
   ],
   "anime": {
@@ -544,37 +544,37 @@
     "hf": [
       {
         "id": "Qwen/Qwen3.8-Flash-Next",
-        "likes": 3425,
+        "likes": 3520,
         "downloads": 2551,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 12851,
+        "likes": 12871,
         "downloads": 3298569,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 2972,
+        "likes": 2988,
         "downloads": 7638591,
         "pipeline": ""
       },
       {
         "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-        "likes": 792,
+        "likes": 799,
         "downloads": 468746,
         "pipeline": "text-generation"
       },
       {
         "id": "zai-org/GLM-5.3-Flash",
-        "likes": 555,
+        "likes": 702,
         "downloads": 0,
         "pipeline": "text-generation"
       },
       {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-        "likes": 1132,
+        "likes": 1134,
         "downloads": 79395,
         "pipeline": "image-text-to-text"
       }
@@ -790,6 +790,12 @@
       "src": "IT之家"
     },
     {
+      "title": "AMD确认“Olympic Ridge”Zen 6桌面处理器将继续兼容AM5平台",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1575122.htm",
+      "time": "08-27 02:48",
+      "src": "cnBeta.COM"
+    },
+    {
       "title": "英特尔18A-P工艺量产硅片实测：0.5V电压下频率提升30%",
       "link": "https://www.cnbeta.com.tw/articles/tech/1575106.htm",
       "time": "08-26 23:01",
@@ -812,12 +818,6 @@
       "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%BB%8A%E6%97%A5%E4%BD%93%E8%82%B2/20260826-%E4%BB%8E%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%AC%A1%E5%A4%BA%E5%86%A0%E7%94%B5%E7%AB%9E%E4%B8%96%E4%BF%B1%E6%9D%AF%E7%9C%8B%E6%BF%80%E5%8A%B1%E4%B8%8E%E6%8E%A7%E5%88%B6%E5%B9%B6%E8%A1%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%BC%8F",
       "time": "08-26 21:36",
       "src": "法广RFI"
-    },
-    {
-      "title": "鸿蒙智行智界 RX 首发华为智擎新一代高性能电驱，后驱 CLTC 工况效率 93%+",
-      "link": "https://finance.sina.com.cn/tech/digi/2026-08-26/doc-iniprumn0931004.shtml",
-      "time": "08-26 17:28",
-      "src": "IT之家"
     }
   ],
   "kojima": {
@@ -1066,16 +1066,16 @@
       "src": "cnBeta.COM"
     },
     {
-      "title": "小米汽车海外官网正式上线 全球化进一步提速",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1575050.htm",
-      "time": "08-26 19:10",
-      "src": "cnBeta.COM"
+      "title": "法国媒体多聚焦德国汽车压力",
+      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260826-%E6%B3%95%E5%9B%BD%E5%AA%92%E4%BD%93%E5%A4%9A%E8%81%9A%E7%84%A6%E5%BE%B7%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%8E%8B%E5%8A%9B",
+      "time": "08-26 23:05",
+      "src": "AP - Nam Y. Hu"
     },
     {
-      "title": "2026年Q2全球手机畅销榜公布：苹果霸榜 iPhone 17稳居第一",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1575046.htm",
-      "time": "08-26 16:44",
-      "src": "cnBeta.COM"
+      "title": "美国升级对伊朗经济制裁，伊朗普通商家怎样感受？",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260826-%E7%BE%8E%E5%9B%BD%E5%8D%87%E7%BA%A7%E5%AF%B9%E4%BC%8A%E6%9C%97%E7%BB%8F%E6%B5%8E%E5%88%B6%E8%A3%81%EF%BC%8C%E4%BC%8A%E6%9C%97%E6%99%AE%E9%80%9A%E5%95%86%E5%AE%B6%E6%80%8E%E4%B9%88%E7%9C%8B",
+      "time": "08-26 22:33",
+      "src": "via REUTERS - "
     }
   ],
   "econ_news": [
