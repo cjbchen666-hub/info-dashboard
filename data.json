@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27 03:55",
+  "generated_at": "2026-08-27 07:15",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -257,9 +257,9 @@
         "src": "IT之家"
       },
       {
-        "title": "天工Ultra机器人再创纪录 百米跑出8.64秒",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-26/10684850.shtml",
-        "time": "08-26 21:35",
+        "title": "赛场淬能，人形机器人“加速进化”",
+        "link": "https://www.chinanews.com.cn/gn/2026/08-27/10684891.shtml",
+        "time": "08-27 05:56",
         "src": "中新网"
       },
       {
@@ -269,15 +269,15 @@
         "src": "cnBeta.COM"
       },
       {
-        "title": "Anthropic将向Nscale支付450亿美元租用人工智能算力",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipsrri9111404.shtml",
-        "time": "08-27 02:23",
+        "title": "美联储理事库克否认存在不当行为 特朗普再度推动将其解职",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-iniptaew0457707.shtml",
+        "time": "08-27 07:08",
         "src": "环球市场播报"
       },
       {
-        "title": "PCE通胀呈现黏性，美联储内部分歧加剧，杰克逊霍尔年会临近",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipsmie0734571.shtml",
-        "time": "08-27 01:02",
+        "title": "巴克莱：美国国库券市场可以消化更大规模的国债回购",
+        "link": "https://finance.sina.com.cn/world/2026-08-27/doc-inipsvxf5696354.shtml",
+        "time": "08-27 04:31",
         "src": "环球市场播报"
       }
     ]
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 53483.18,
-      "pct": -0.18,
-      "chg": -94.22,
-      "amount": "1576268598亿"
+      "price": 53463.88,
+      "pct": -0.21,
+      "chg": -113.52,
+      "amount": "2279065949亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26137.93,
-      "pct": -0.05,
-      "chg": -13.37,
-      "amount": "13960298373亿"
+      "price": 26130.2,
+      "pct": -0.08,
+      "chg": -21.1,
+      "amount": "16442209795亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7679.77,
-      "pct": 0.03,
-      "chg": 2.49,
-      "amount": "1319012781亿"
+      "price": 7675.7,
+      "pct": -0.02,
+      "chg": -1.58,
+      "amount": "1826265524亿"
     }
   ],
   "anime": {
@@ -345,7 +345,7 @@
         "score": 6.5,
         "img": "http://lain.bgm.tv/pic/cover/c/e3/74/617123_PaMs9.jpg",
         "air_date": "2026-07-02",
-        "rank": 5003
+        "rank": 5000
       },
       {
         "id": 603352,
@@ -363,16 +363,7 @@
         "score": 6.1,
         "img": "http://lain.bgm.tv/pic/cover/c/29/c5/614594_f5Szx.jpg",
         "air_date": "2026-07-02",
-        "rank": 6950
-      },
-      {
-        "id": 583729,
-        "name": "BanG Dream! ゆめ∞みた",
-        "name_cn": "BanG Dream! YUME∞MITA",
-        "score": 5.7,
-        "img": "http://lain.bgm.tv/pic/cover/c/1c/e4/583729_KxOZV.jpg",
-        "air_date": "2026-07-02",
-        "rank": 8936
+        "rank": 6964
       },
       {
         "id": 449354,
@@ -384,13 +375,22 @@
         "rank": null
       },
       {
+        "id": 583729,
+        "name": "BanG Dream! ゆめ∞みた",
+        "name_cn": "BanG Dream! YUME∞MITA",
+        "score": 5.6,
+        "img": "http://lain.bgm.tv/pic/cover/c/1c/e4/583729_KxOZV.jpg",
+        "air_date": "2026-07-02",
+        "rank": 8976
+      },
+      {
         "id": 622633,
         "name": "ワールド イズ ダンシング",
         "name_cn": "THE WORLD IS DANCING 世界在起舞",
         "score": 5.5,
         "img": "http://lain.bgm.tv/pic/cover/c/e5/4e/622633_JNfJt.jpg",
         "air_date": "2026-07-02",
-        "rank": 9166
+        "rank": 9169
       },
       {
         "id": 574794,
@@ -408,7 +408,7 @@
         "score": 4.9,
         "img": "http://lain.bgm.tv/pic/cover/c/8f/47/511177_EP43p.jpg",
         "air_date": "2026-07-02",
-        "rank": 9780
+        "rank": 9785
       },
       {
         "id": 276787,
@@ -417,7 +417,7 @@
         "score": 4.1,
         "img": "http://lain.bgm.tv/pic/cover/c/cc/46/276787_4oO0A.jpg",
         "air_date": "2026-07-09",
-        "rank": 9984
+        "rank": 9985
       },
       {
         "id": 592111,
@@ -469,7 +469,7 @@
   "ukraine": {
     "title": "Russian Offensive Campaign Assessment",
     "summary": "ISW’s Russia and Ukraine team produces the maps and analysis of record of the war in Ukraine. The Russian Offensive Campaign Assessment provides a synthetic running intelligence estimate of Putin’s political and military objectives in Ukraine and the design, prosecution, and outcomes of Russia’s war effort. ISW has published this update daily since Russia’s full-scale invasion of Ukraine in February 2022. Each update includes an assessment of the latest battlefield changes at the operational and tactical levels of war as well as an updated strategic assessment and forecast of the war’s trajectory along with numer",
-    "map_url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-august-25-2026-at-130-pm-et/",
+    "map_url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-august-26-2026-at-130-pm-et/",
     "url": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment",
     "links": [
       {
@@ -478,7 +478,7 @@
       },
       {
         "name": "ISW 官方地图页",
-        "url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-august-25-2026-at-130-pm-et/"
+        "url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-august-26-2026-at-130-pm-et/"
       },
       {
         "name": "实时战线地图 Liveuamap",
@@ -492,6 +492,18 @@
   },
   "ai": {
     "news_zh": [
+      {
+        "title": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
+        "link": "https://www.ithome.com/0/994/791.htm",
+        "time": "08-27 04:25",
+        "src": "IT之家"
+      },
+      {
+        "title": "英伟达黄仁勋：AI 已迈过商业化拐点，全球产业进入 AI 变现时代",
+        "link": "https://www.ithome.com/0/994/795.htm",
+        "time": "08-27 06:36",
+        "src": "IT之家"
+      },
       {
         "title": "第二届世界人形机器人运动会闭幕：智元首次参赛斩获 18 金 16 银 12 铜登顶双榜第一，超 2500 小时真实数据免费开放",
         "link": "https://www.ithome.com/0/994/778.htm",
@@ -527,54 +539,42 @@
         "link": "https://www.ithome.com/0/994/758.htm",
         "time": "08-26 21:46",
         "src": "IT之家"
-      },
-      {
-        "title": "8.64 秒！天工 Ultra 机器人再破人类百米世界纪录",
-        "link": "https://www.ithome.com/0/994/751.htm",
-        "time": "08-26 21:25",
-        "src": "IT之家"
-      },
-      {
-        "title": "阿里通义 Qwen3.8-Flash（Next）发布开源：125B 参数 MoE 模型，训练成本仅为前代 1/9",
-        "link": "https://www.ithome.com/0/994/735.htm",
-        "time": "08-26 20:39",
-        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "Qwen/Qwen3.8-Flash-Next",
-        "likes": 3520,
+        "likes": 3594,
         "downloads": 2551,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 12871,
+        "likes": 12893,
         "downloads": 3298569,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 2988,
+        "likes": 2993,
         "downloads": 7638591,
         "pipeline": ""
       },
       {
-        "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-        "likes": 799,
-        "downloads": 468746,
-        "pipeline": "text-generation"
-      },
-      {
         "id": "zai-org/GLM-5.3-Flash",
-        "likes": 702,
+        "likes": 779,
         "downloads": 0,
         "pipeline": "text-generation"
       },
       {
+        "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+        "likes": 810,
+        "downloads": 468746,
+        "pipeline": "text-generation"
+      },
+      {
         "id": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-        "likes": 1134,
+        "likes": 1139,
         "downloads": 79395,
         "pipeline": "image-text-to-text"
       }
@@ -778,18 +778,6 @@
       "src": "IT之家"
     },
     {
-      "title": "英伟达 RTX 3060 12GB 复产后价格暴涨 45%，比性能更强的 RTX 5050 8GB 还贵 60%",
-      "link": "https://www.ithome.com/0/994/728.htm",
-      "time": "08-26 20:14",
-      "src": "IT之家"
-    },
-    {
-      "title": "AMD 确认两款 Zen 6 处理器沿用 AM5 插槽：Olympic Ridge 与 Medusa1 亮相官网",
-      "link": "https://www.ithome.com/0/994/725.htm",
-      "time": "08-26 20:05",
-      "src": "IT之家"
-    },
-    {
       "title": "AMD确认“Olympic Ridge”Zen 6桌面处理器将继续兼容AM5平台",
       "link": "https://www.cnbeta.com.tw/articles/tech/1575122.htm",
       "time": "08-27 02:48",
@@ -818,6 +806,18 @@
       "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%BB%8A%E6%97%A5%E4%BD%93%E8%82%B2/20260826-%E4%BB%8E%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%AC%A1%E5%A4%BA%E5%86%A0%E7%94%B5%E7%AB%9E%E4%B8%96%E4%BF%B1%E6%9D%AF%E7%9C%8B%E6%BF%80%E5%8A%B1%E4%B8%8E%E6%8E%A7%E5%88%B6%E5%B9%B6%E8%A1%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%BC%8F",
       "time": "08-26 21:36",
       "src": "法广RFI"
+    },
+    {
+      "title": "鸿蒙智行智界 RX 首发华为智擎新一代高性能电驱，后驱 CLTC 工况效率 93%+",
+      "link": "https://finance.sina.com.cn/tech/digi/2026-08-26/doc-iniprumn0931004.shtml",
+      "time": "08-26 17:28",
+      "src": "IT之家"
+    },
+    {
+      "title": "Computex 2026: NVIDIA 发布 ARM 架构 PC 芯片 RTX Spark, 集成 Blackwell GPU, 对标苹果 M5",
+      "link": "https://new.qq.com/rain/a/20260605A09PXY00",
+      "time": "精选",
+      "src": "资讯整理"
     }
   ],
   "kojima": {
@@ -1030,10 +1030,34 @@
   },
   "intl_news": [
     {
+      "title": "英伟达黄仁勋：AI 已迈过商业化拐点，全球产业进入 AI 变现时代",
+      "link": "https://www.ithome.com/0/994/795.htm",
+      "time": "08-27 06:36",
+      "src": "IT之家"
+    },
+    {
       "title": "莲花科技 100% 收购 Lotus UK 股权，莲花英国业务并入“吉利系”",
       "link": "https://www.ithome.com/0/994/776.htm",
       "time": "08-26 23:07",
       "src": "IT之家"
+    },
+    {
+      "title": "伊朗外长谴责美国对伊朗实施“经济恐怖主义行动”",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-27/10684900.shtml",
+      "time": "08-27 06:41",
+      "src": "中新网"
+    },
+    {
+      "title": "特朗普证实美国中情局局长访俄",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-27/10684899.shtml",
+      "time": "08-27 06:32",
+      "src": "中新网"
+    },
+    {
+      "title": "特朗普：对于伊朗何时重返谈判“没有时间表”",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-27/10684895.shtml",
+      "time": "08-27 05:58",
+      "src": "中新网"
     },
     {
       "title": "国际人士析多国对华好感度攀升",
@@ -1052,33 +1076,27 @@
       "link": "https://www.chinanews.com.cn/gj/2026/08-27/10684887.shtml",
       "time": "08-27 00:08",
       "src": "中新网"
-    },
-    {
-      "title": "iPhone 17系列蝉联全球季度最畅销机型 苹果三星共同占据全球手机销量25%以上",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1575110.htm",
-      "time": "08-26 23:04",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "全球海洋表面温度创历史新高 厄尔尼诺或继续推升热度",
-      "link": "https://www.cnbeta.com.tw/articles/science/1575064.htm",
-      "time": "08-26 19:56",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "法国媒体多聚焦德国汽车压力",
-      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260826-%E6%B3%95%E5%9B%BD%E5%AA%92%E4%BD%93%E5%A4%9A%E8%81%9A%E7%84%A6%E5%BE%B7%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%8E%8B%E5%8A%9B",
-      "time": "08-26 23:05",
-      "src": "AP - Nam Y. Hu"
-    },
-    {
-      "title": "美国升级对伊朗经济制裁，伊朗普通商家怎样感受？",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260826-%E7%BE%8E%E5%9B%BD%E5%8D%87%E7%BA%A7%E5%AF%B9%E4%BC%8A%E6%9C%97%E7%BB%8F%E6%B5%8E%E5%88%B6%E8%A3%81%EF%BC%8C%E4%BC%8A%E6%9C%97%E6%99%AE%E9%80%9A%E5%95%86%E5%AE%B6%E6%80%8E%E4%B9%88%E7%9C%8B",
-      "time": "08-26 22:33",
-      "src": "via REUTERS - "
     }
   ],
   "econ_news": [
+    {
+      "title": "新思科技 2026 财年第三财季归母净利润 5.46 亿美元，同比增长 125.06%",
+      "link": "https://www.ithome.com/0/994/790.htm",
+      "time": "08-27 04:25",
+      "src": "IT之家"
+    },
+    {
+      "title": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
+      "link": "https://www.ithome.com/0/994/791.htm",
+      "time": "08-27 04:25",
+      "src": "IT之家"
+    },
+    {
+      "title": "惠普 2026 财年第三财季归母净利润 6.61 亿美元，同比下降 13%",
+      "link": "https://www.ithome.com/0/994/789.htm",
+      "time": "08-27 04:22",
+      "src": "IT之家"
+    },
     {
       "title": "森海塞尔联合梅赛德斯-AMG 推出 HD 620S 特别版游戏耳机，399 欧元 11 月发售",
       "link": "https://www.ithome.com/0/994/773.htm",
@@ -1108,24 +1126,6 @@
       "link": "https://www.ithome.com/0/994/750.htm",
       "time": "08-26 21:21",
       "src": "IT之家"
-    },
-    {
-      "title": "商汤 2026 年上半年首次盈利：归母净利润 6.07 亿元同比扭亏转盈",
-      "link": "https://www.ithome.com/0/994/744.htm",
-      "time": "08-26 20:55",
-      "src": "IT之家"
-    },
-    {
-      "title": "国内首套拥有完全自主知识产权的 EMA 工业化装置成功建成",
-      "link": "https://www.ithome.com/0/994/746.htm",
-      "time": "08-26 20:59",
-      "src": "IT之家"
-    },
-    {
-      "title": "格力电器 2026 年上半年营收 893.98 亿元同比下降 8.15%，归母净利润 132.78 亿元下降 7.87%",
-      "link": "https://www.ithome.com/0/994/738.htm",
-      "time": "08-26 20:43",
-      "src": "IT之家"
     }
   ],
   "game_news": [
@@ -1154,12 +1154,6 @@
       "src": "IT之家"
     },
     {
-      "title": "R 星回应《GTA 6》画面泄露事件：团队感受远超心碎，希望大家耐心等待",
-      "link": "https://www.ithome.com/0/994/724.htm",
-      "time": "08-26 20:03",
-      "src": "IT之家"
-    },
-    {
       "title": "中元已近，黑暗降临。卡牌战斗游戏《恶魔召唤》正式加入机核发行，开启全新篇章",
       "link": "https://www.gcores.com/articles/218818",
       "time": "08-26 18:00",
@@ -1175,6 +1169,12 @@
       "title": "科幻恐怖新作《ONTOS》科隆实机预告发布，2027年发售",
       "link": "https://www.gcores.com/articles/218829",
       "time": "08-26 17:30",
+      "src": "机核"
+    },
+    {
+      "title": "请关注神秘b站女子游戏实况账号……游戏酒桌会8，录音笔VOL.772",
+      "link": "https://www.gcores.com/radios/218828",
+      "time": "08-26 17:10",
       "src": "机核"
     }
   ],
@@ -1256,6 +1256,24 @@
       "src": "机核"
     },
     {
+      "title": "伊朗外长谴责美国对伊朗实施“经济恐怖主义行动”",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-27/10684900.shtml",
+      "time": "08-27 06:41",
+      "src": "中新网"
+    },
+    {
+      "title": "特朗普：对于伊朗何时重返谈判“没有时间表”",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-27/10684895.shtml",
+      "time": "08-27 05:58",
+      "src": "中新网"
+    },
+    {
+      "title": "尼泊尔与西藏边境洪灾死亡人数升至160人 数百人失踪",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260826-%E5%B0%BC%E6%B3%8A%E5%B0%94%E4%B8%8E%E8%A5%BF%E8%97%8F%E8%BE%B9%E5%A2%83%E6%B4%AA%E7%81%BE%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B3160%E4%BA%BA-%E6%95%B0%E7%99%BE%E4%BA%BA%E5%A4%B1%E8%B8%AA",
+      "time": "08-27 05:24",
+      "src": "REUTERS - Nave"
+    },
+    {
       "title": "尼泊尔与西藏边境遭毁灭性洪灾 数百人失踪 遇难人数急剧上升 已发现95具遗体",
       "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260826-%E5%B0%BC%E6%B3%8A%E5%B0%94%E4%B8%8E%E8%A5%BF%E8%97%8F%E8%BE%B9%E5%A2%83%E9%81%AD%E6%AF%81%E7%81%AD%E6%80%A7%E6%B4%AA%E7%81%BE-%E6%95%B0%E7%99%BE%E4%BA%BA%E5%A4%B1%E8%B8%AA-%E9%81%87%E9%9A%BE%E4%BA%BA%E6%95%B0%E6%80%A5%E5%89%A7%E4%B8%8A%E5%8D%87-%E5%B7%B2%E5%8F%91%E7%8E%B095%E5%85%B7%E9%81%97%E4%BD%93",
       "time": "08-26 22:53",
@@ -1266,24 +1284,6 @@
       "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260826-%E7%BE%8E%E5%9B%BD%E5%8D%87%E7%BA%A7%E5%AF%B9%E4%BC%8A%E6%9C%97%E7%BB%8F%E6%B5%8E%E5%88%B6%E8%A3%81%EF%BC%8C%E4%BC%8A%E6%9C%97%E6%99%AE%E9%80%9A%E5%95%86%E5%AE%B6%E6%80%8E%E4%B9%88%E7%9C%8B",
       "time": "08-26 22:33",
       "src": "via REUTERS - "
-    },
-    {
-      "title": "俄罗斯电商巨头仓库再遭袭 无人机坠毁致两人死",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260826-%E4%BF%84%E6%96%AF%E7%94%B5%E5%95%86%E5%B7%A8%E5%A4%B4%E4%BB%93%E5%BA%93%E5%86%8D%E9%81%AD%E8%A2%AD-%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%9D%A0%E6%AF%81%E8%87%B4%E4%B8%A4%E4%BA%BA%E6%AD%BB",
-      "time": "08-26 22:13",
-      "src": "SOCIAL MEDIA v"
-    },
-    {
-      "title": "伊朗: 已修复战争中受损武器系统并从国外进口了新武器",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260826-%E4%BC%8A%E6%9C%97-%E5%B7%B2%E4%BF%AE%E5%A4%8D%E6%88%98%E4%BA%89%E4%B8%AD%E5%8F%97%E6%8D%9F%E6%AD%A6%E5%99%A8%E7%B3%BB%E7%BB%9F%E5%B9%B6%E4%BB%8E%E5%9B%BD%E5%A4%96%E8%BF%9B%E5%8F%A3%E4%BA%86%E6%96%B0%E6%AD%A6%E5%99%A8",
-      "time": "08-26 21:33",
-      "src": "© AP Photo/Vah"
-    },
-    {
-      "title": "阿曼和伊朗继续协商“临时航道” 特朗普称已清除国际水域所有水雷",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260826-%E9%98%BF%E6%9B%BC%E5%92%8C%E4%BC%8A%E6%9C%97%E7%BB%A7%E7%BB%AD%E5%8D%8F%E5%95%86-%E4%B8%B4%E6%97%B6%E8%88%AA%E9%81%93-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B7%B2%E6%B8%85%E9%99%A4%E5%9B%BD%E9%99%85%E6%B0%B4%E5%9F%9F%E6%89%80%E6%9C%89%E6%B0%B4%E9%9B%B7",
-      "time": "08-26 20:00",
-      "src": "© AP/Amirhosei"
     }
   ]
 }
