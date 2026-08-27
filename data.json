@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27 16:50",
+  "generated_at": "2026-08-28 04:15",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -129,9 +129,9 @@
       }
     ],
     "status": {
-      "state": "已收盘",
-      "label": "今日已收盘",
-      "date": "2026-08-27"
+      "state": "未开盘",
+      "label": "今日尚未开盘",
+      "date": "2026-08-28"
     },
     "watch": [
       {
@@ -233,52 +233,52 @@
     ],
     "news": [
       {
-        "title": "车位变“机位”记者探访机器人“运动员村”",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1575184.htm",
-        "time": "08-27 10:53",
+        "title": "Hugging Face 推出新款鸭形机器人：能捡东西、拥有独特音色，399 美元",
+        "link": "https://www.ithome.com/0/995/306.htm",
+        "time": "08-27 22:01",
+        "src": "IT之家"
+      },
+      {
+        "title": "中国官方：力争“十五五”时期地理信息产业年均总产值突破万亿元大关",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-27/10685520.shtml",
+        "time": "08-27 22:59",
+        "src": "中新网"
+      },
+      {
+        "title": "山西广灵打造绿电算力“双引擎” 加速融入环京津冀算力走廊",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-27/10685513.shtml",
+        "time": "08-27 22:09",
+        "src": "中新网"
+      },
+      {
+        "title": "现代汽车拟借经销商网络销售机器人和机器狗 或同时提供融资服务",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1575270.htm",
+        "time": "08-27 23:38",
         "src": "cnBeta.COM"
       },
       {
-        "title": "第二届世界人形机器人运动会奖牌榜出炉 捂脸跑的天工机器人赛队第一",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1575178.htm",
-        "time": "08-27 10:50",
+        "title": "Hugging Face推出399美元开源鸭形机器人Microduck 可在家训练新技能",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1575264.htm",
+        "time": "08-27 23:09",
         "src": "cnBeta.COM"
       },
       {
-        "title": "贾跃亭：FF机器人工厂年内运营 发布两款机器人新品",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1575168.htm",
-        "time": "08-27 10:34",
-        "src": "cnBeta.COM"
-      },
-      {
-        "title": "菲律宾央行连续第三次加息 基准利率上调至5.00%",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-iniptxkv5836328.shtml",
-        "time": "08-27 15:55",
+        "title": "沃什料继续惜字如金 美联储理事沃勒的讲话或更具交易价值",
+        "link": "https://finance.sina.com.cn/world/2026-08-28/doc-inipuywi5824050.shtml",
+        "time": "08-28 03:58",
         "src": "环球市场播报"
       },
       {
-        "title": "黄金牛市即将重启？道富银行：初冬重回“5000大关”，1万美元不是梦！",
-        "link": "https://finance.sina.com.cn/roll/2026-08-27/doc-iniptxkt5335723.shtml",
-        "time": "08-27 15:35",
-        "src": "市场资讯"
-      },
-      {
-        "title": "日本央行副总裁冰见野良三：须比以往更关注物价上行风险，适时加息",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-iniptxkt8998728.shtml",
-        "time": "08-27 15:02",
+        "title": "Citrini：“财政部-美联储协议”或为30年期美债上涨创造条件",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-28/doc-inipuywi5797929.shtml",
+        "time": "08-28 02:55",
         "src": "环球市场播报"
       },
       {
-        "title": "软银洽谈收购人形机器人厂商1X的多数股权，企业估值达60亿美元",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipttav9123460.shtml",
-        "time": "08-27 14:57",
+        "title": "会唱歌、能轮滑 Hugging Face推出售价400美元的小鸭机器人",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-28/doc-inipuuqq0586032.shtml",
+        "time": "08-28 01:26",
         "src": "环球市场播报"
-      },
-      {
-        "title": "老铺黄金董事长徐高明谈增持回购：“我不做，我就把产品做好”",
-        "link": "https://finance.sina.com.cn/tech/shenji/2026-08-27/doc-iniptnux9002030.shtml",
-        "time": "08-27 10:49",
-        "src": "新浪科技"
       }
     ]
   },
@@ -294,174 +294,147 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 53463.88,
-      "pct": -0.21,
-      "chg": -113.52,
-      "amount": "2279065949亿"
+      "price": 53569.44,
+      "pct": 0.2,
+      "chg": 105.56,
+      "amount": "3428965920亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26130.2,
-      "pct": -0.08,
-      "chg": -21.1,
-      "amount": "16442209795亿"
+      "price": 26541.35,
+      "pct": 1.57,
+      "chg": 411.15,
+      "amount": "16453985588亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7675.7,
-      "pct": -0.02,
-      "chg": -1.58,
-      "amount": "1826265524亿"
+      "price": 7730.99,
+      "pct": 0.72,
+      "chg": 55.29,
+      "amount": "2150744655亿"
     }
   ],
   "anime": {
-    "date": "08-27",
-    "weekday": "木",
+    "date": "08-28",
+    "weekday": "金",
     "items": [
       {
-        "id": 622206,
-        "name": "ヤニねこ",
-        "name_cn": "尼古喵喵",
-        "score": 7.3,
-        "img": "http://lain.bgm.tv/pic/cover/c/6a/b3/622206_dpWcC.jpg",
-        "air_date": "2026-07-02",
-        "rank": 1541
+        "id": 545917,
+        "name": "これ描いて死ね",
+        "name_cn": "画完这个再去死",
+        "score": 7.8,
+        "img": "http://lain.bgm.tv/pic/cover/c/8b/c0/545917_GoNvI.jpg",
+        "air_date": "2026-07-03",
+        "rank": 417
       },
       {
-        "id": 571784,
-        "name": "スーパーの裏でヤニ吸うふたり",
-        "name_cn": "在超市后门吸烟的二人",
-        "score": 7.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/6f/42/571784_leRlL.jpg",
-        "air_date": "2026-07-09",
-        "rank": 2549
+        "id": 517106,
+        "name": "逃げ上手の若君 第二期",
+        "name_cn": "擅长逃跑的殿下 第二季",
+        "score": 6.8,
+        "img": "http://lain.bgm.tv/pic/cover/c/5d/00/517106_kDd70.jpg",
+        "air_date": "2026-07-17",
+        "rank": 3320
       },
       {
-        "id": 617123,
-        "name": "乙女怪獣キャラメリゼ",
-        "name_cn": "少女怪兽焦糖味",
-        "score": 6.5,
-        "img": "http://lain.bgm.tv/pic/cover/c/e3/74/617123_PaMs9.jpg",
-        "air_date": "2026-07-02",
-        "rank": 5000
-      },
-      {
-        "id": 603352,
-        "name": "文豪ストレイドッグス わん！２",
-        "name_cn": "文豪野犬 汪！第二季",
-        "score": 6.4,
-        "img": "http://lain.bgm.tv/pic/cover/c/c2/c8/603352_n5RgE.jpg",
-        "air_date": "2026-07-02",
+        "id": 624691,
+        "name": "喜羊羊与灰太狼之破界山海诀",
+        "name_cn": "喜羊羊与灰太狼之破界山海诀",
+        "score": 6.8,
+        "img": "http://lain.bgm.tv/pic/cover/c/6c/5c/624691_3u3s8.jpg",
+        "air_date": "2026-07-10",
         "rank": null
       },
       {
-        "id": 614594,
-        "name": "令和のダラさん",
-        "name_cn": "令和妖神斑小姐",
-        "score": 6.1,
-        "img": "http://lain.bgm.tv/pic/cover/c/29/c5/614594_f5Szx.jpg",
-        "air_date": "2026-07-02",
-        "rank": 6964
+        "id": 638151,
+        "name": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 2nd Season",
+        "name_cn": "地狱模式～喜欢挑战特殊成就的玩家在废设定的异世界成为无双～第二季",
+        "score": 5.9,
+        "img": "http://lain.bgm.tv/pic/cover/c/fa/0b/638151_q95Ls.jpg",
+        "air_date": "2026-07-03",
+        "rank": 7601
       },
       {
-        "id": 449354,
-        "name": "花仙子之魔法香对论",
-        "name_cn": "花仙子之魔法香对论",
+        "id": 613438,
+        "name": "うちの弟どもがすみません",
+        "name_cn": "我家的弟弟们真是让您费心了",
         "score": 5.6,
-        "img": "http://lain.bgm.tv/pic/cover/c/45/0b/449354_gs8Rj.jpg",
-        "air_date": "2026-07-04",
-        "rank": null
+        "img": "http://lain.bgm.tv/pic/cover/c/15/fb/613438_pJVpS.jpg",
+        "air_date": "2026-07-03",
+        "rank": 7548
       },
       {
-        "id": 583729,
-        "name": "BanG Dream! ゆめ∞みた",
-        "name_cn": "BanG Dream! YUME∞MITA",
+        "id": 627136,
+        "name": "うしろの正面カムイさん",
+        "name_cn": "从后面来的神威先生",
         "score": 5.6,
-        "img": "http://lain.bgm.tv/pic/cover/c/1c/e4/583729_KxOZV.jpg",
-        "air_date": "2026-07-02",
-        "rank": 8976
+        "img": "http://lain.bgm.tv/pic/cover/c/01/8f/627136_hb0Jd.jpg",
+        "air_date": "2026-07-03",
+        "rank": 8983
       },
       {
-        "id": 622633,
-        "name": "ワールド イズ ダンシング",
-        "name_cn": "THE WORLD IS DANCING 世界在起舞",
+        "id": 571895,
+        "name": "領民0人スタートの辺境領主様",
+        "name_cn": "从0位居民开始的边境领主大人",
         "score": 5.5,
-        "img": "http://lain.bgm.tv/pic/cover/c/e5/4e/622633_JNfJt.jpg",
-        "air_date": "2026-07-02",
-        "rank": 9169
+        "img": "http://lain.bgm.tv/pic/cover/c/a2/a1/571895_0KwUw.jpg",
+        "air_date": "2026-07-10",
+        "rank": 8670
       },
       {
-        "id": 574794,
-        "name": "是王者啊？ 第六季",
-        "name_cn": "是王者啊？ 第6季",
+        "id": 668586,
+        "name": "Dodgers x ONE PIECE | 特別アニメーション映像 2026",
+        "name_cn": "",
+        "score": 5.3,
+        "img": "http://lain.bgm.tv/pic/cover/c/08/07/668586_5BB7m.jpg",
+        "air_date": "2026-07-03",
+        "rank": null
+      },
+      {
+        "id": 664856,
+        "name": "ばなにゃ あっとほーむぱーてぃー",
+        "name_cn": "香蕉喵10周年纪念特别篇",
         "score": 5.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/53/ba/574794_Trtz9.jpg",
-        "air_date": "2026-07-23",
+        "img": "http://lain.bgm.tv/pic/cover/c/ab/40/664856_1N98d.jpg",
+        "air_date": "2026-07-10",
         "rank": null
       },
       {
-        "id": 511177,
-        "name": "追放された転生重騎士はゲーム知識で無双する",
-        "name_cn": "遭到流放的转生重骑士凭借游戏知识大开无双",
-        "score": 4.9,
-        "img": "http://lain.bgm.tv/pic/cover/c/8f/47/511177_EP43p.jpg",
-        "air_date": "2026-07-02",
-        "rank": 9785
-      },
-      {
-        "id": 276787,
-        "name": "メビウス・ダスト",
-        "name_cn": "梅比乌斯之尘",
-        "score": 4.1,
-        "img": "http://lain.bgm.tv/pic/cover/c/cc/46/276787_4oO0A.jpg",
-        "air_date": "2026-07-09",
-        "rank": 9985
-      },
-      {
-        "id": 592111,
-        "name": "东大高武学院",
-        "name_cn": "东大高武学院",
-        "score": 3.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/8a/19/592111_Xv8VC.jpg",
-        "air_date": "2026-07-16",
-        "rank": null
-      },
-      {
-        "id": 466759,
-        "name": "太古神尊",
-        "name_cn": "太古神尊",
-        "score": 2.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/d0/dd/466759_0rFPR.jpg",
-        "air_date": "2026-07-30",
-        "rank": null
-      },
-      {
-        "id": 668407,
-        "name": "つかめ！理科ダマン",
-        "name_cn": "",
+        "id": 662680,
+        "name": "死灵法师！我即是天灾",
+        "name_cn": "死灵法师！我即是天灾",
         "score": 1.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/8e/9a/668407_9Z6qP.jpg",
-        "air_date": "2026-07-16",
+        "img": "http://lain.bgm.tv/pic/cover/c/b3/da/662680_6P2P4.jpg",
+        "air_date": "2026-07-24",
         "rank": null
       },
       {
-        "id": 663982,
-        "name": "精灵梦叶罗丽 第11季 下",
-        "name_cn": "精灵梦叶罗丽 第十一季 下",
+        "id": 542847,
+        "name": "怪物大师之穿越时空的怪物",
+        "name_cn": "怪物大师之穿越时空的怪物",
         "score": null,
-        "img": "http://lain.bgm.tv/pic/cover/c/66/a5/663982_3B5Ok.jpg",
-        "air_date": "2026-07-16",
+        "img": "http://lain.bgm.tv/pic/cover/c/82/74/542847_F06co.jpg",
+        "air_date": "2026-07-24",
         "rank": null
       },
       {
-        "id": 688623,
-        "name": "Mickey Mouse Clubhouse+: Mickey's Country Farm",
+        "id": 663695,
+        "name": "Breaking Bear",
         "name_cn": "",
         "score": null,
-        "img": "http://lain.bgm.tv/pic/cover/c/4f/82/688623_wOvZ3.jpg",
-        "air_date": "2026-07-30",
+        "img": "http://lain.bgm.tv/pic/cover/c/90/f6/663695_zWz4H.jpg",
+        "air_date": "2026-07-24",
+        "rank": null
+      },
+      {
+        "id": 679732,
+        "name": "SEALOOK 2nd season",
+        "name_cn": "",
+        "score": null,
+        "img": "http://lain.bgm.tv/pic/cover/c/18/b5/679732_fQ4Ii.jpg",
+        "air_date": "2026-07-24",
         "rank": null
       }
     ]
@@ -493,90 +466,89 @@
   "ai": {
     "news_zh": [
       {
-        "title": "比尔 · 盖茨：我好像是第一个站出来说“AI 太疯狂了”的人，为此感到震惊",
-        "link": "https://www.ithome.com/0/995/125.htm",
-        "time": "08-27 16:39",
+        "title": "谷歌出手应对 AI“吃内存”，将为安卓 App 内存占用等指标设立新门槛",
+        "link": "https://www.ithome.com/0/995/320.htm",
+        "time": "08-27 22:46",
         "src": "IT之家"
       },
       {
-        "title": "狼蛛推出 A7Max 头戴式耳机：搭 50mm 动圈、C-Media CM2206 芯片，229 元",
-        "link": "https://www.ithome.com/0/995/124.htm",
-        "time": "08-27 16:38",
+        "title": "雷鸟 iO 智能眼镜官宣搭载恒玄科技 BES2800 芯片：6nm 工艺，集成双模蓝牙和低功耗 Wi-Fi 6",
+        "link": "https://www.ithome.com/0/995/309.htm",
+        "time": "08-27 22:04",
         "src": "IT之家"
       },
       {
-        "title": "小鹏第二代 VLA Lite 蒸馏版 9 月面向单图灵芯片 Max 车型推送，G9L Max 版首发搭载",
-        "link": "https://www.ithome.com/0/995/108.htm",
-        "time": "08-27 16:00",
+        "title": "Hugging Face 推出新款鸭形机器人：能捡东西、拥有独特音色，399 美元",
+        "link": "https://www.ithome.com/0/995/306.htm",
+        "time": "08-27 22:01",
         "src": "IT之家"
       },
       {
-        "title": "小鹏 Master Agent 超级智能体上车：第二代 VLA 全新版本升级，可语音控制靠边停车",
-        "link": "https://www.ithome.com/0/995/040.htm",
-        "time": "08-27 15:39",
-        "src": "IT之家",
-        "type": "不停机更新"
-      },
-      {
-        "title": "Synopsys 完成全球首例 3D IC PCIe Gen 6 测试芯片信号验证",
-        "link": "https://www.ithome.com/0/995/008.htm",
-        "time": "08-27 15:14",
+        "title": "Adobe Photoshop 推出“AI 辅助编辑器”测试版：基于提示词的全新图像编辑模式",
+        "link": "https://www.ithome.com/0/995/305.htm",
+        "time": "08-27 22:01",
         "src": "IT之家"
       },
       {
-        "title": "Claude 桌面端 Cowork 新增内置浏览器，可独立完成网页操作",
-        "link": "https://www.ithome.com/0/995/007.htm",
-        "time": "08-27 15:14",
+        "title": "OpenAI 将向印度 ChatGPT 免费及 Go 套餐用户投放广告",
+        "link": "https://www.ithome.com/0/995/296.htm",
+        "time": "08-27 21:19",
         "src": "IT之家"
       },
       {
-        "title": "谷歌搜索结果链接新增 goto 跳转参数，旨在反制爬虫与 AI 抓取",
-        "link": "https://www.ithome.com/0/994/995.htm",
-        "time": "08-27 14:54",
+        "title": "谷歌推出全球首个双盲 AI 评估技术，基于加密环境保障基准测试公正性",
+        "link": "https://www.ithome.com/0/995/289.htm",
+        "time": "08-27 21:01",
         "src": "IT之家"
       },
       {
-        "title": "谷歌 Gemini Live 大升级，整合 Spark 智能体、Gmail 等提升生产力",
-        "link": "https://www.ithome.com/0/994/993.htm",
-        "time": "08-27 14:52",
-        "src": "IT之家"
+        "title": "山西广灵打造绿电算力“双引擎” 加速融入环京津冀算力走廊",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-27/10685513.shtml",
+        "time": "08-27 22:09",
+        "src": "中新网"
+      },
+      {
+        "title": "英伟达拟成立员工出资支持的政治行动委员会 加大政策影响力",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1575294.htm",
+        "time": "08-28 03:03",
+        "src": "cnBeta.COM"
       }
     ],
     "hf": [
       {
         "id": "Qwen/Qwen3.8-Flash-Next",
-        "likes": 3787,
-        "downloads": 2551,
+        "likes": 3919,
+        "downloads": 4810,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "zai-org/GLM-5.3-Flash",
-        "likes": 1124,
-        "downloads": 0,
+        "likes": 1291,
+        "downloads": 34,
         "pipeline": "text-generation"
       },
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 12952,
-        "downloads": 3298569,
+        "likes": 13022,
+        "downloads": 3457687,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 3021,
-        "downloads": 7638591,
+        "likes": 3065,
+        "downloads": 7758790,
         "pipeline": ""
       },
       {
         "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-        "likes": 824,
-        "downloads": 468746,
+        "likes": 842,
+        "downloads": 509270,
         "pipeline": "text-generation"
       },
       {
-        "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-        "likes": 1188,
-        "downloads": 269805,
+        "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
+        "likes": 441,
+        "downloads": 4354,
         "pipeline": "image-text-to-text"
       }
     ],
@@ -749,57 +721,39 @@
   ],
   "hw_news": [
     {
-      "title": "狼蛛推出 A7Max 头戴式耳机：搭 50mm 动圈、C-Media CM2206 芯片，229 元",
-      "link": "https://www.ithome.com/0/995/124.htm",
-      "time": "08-27 16:38",
+      "title": "谷歌出手应对 AI“吃内存”，将为安卓 App 内存占用等指标设立新门槛",
+      "link": "https://www.ithome.com/0/995/320.htm",
+      "time": "08-27 22:46",
       "src": "IT之家"
     },
     {
-      "title": "韶音推出 OpenRun Air 2 骨传导运动耳机：10 小时续航、双音圈设计，798 元",
-      "link": "https://www.ithome.com/0/995/117.htm",
-      "time": "08-27 16:21",
+      "title": "华为 MateBook Pro / 14 鸿蒙笔记本通过 OpenHarmony 7.0 Release 认证",
+      "link": "https://www.ithome.com/0/995/315.htm",
+      "time": "08-27 22:30",
       "src": "IT之家"
     },
     {
-      "title": "狼蛛推出昆仑 X5 电磁微动鼠标：搭 PAW3955 EVO 传感器、支持双 8KHz 回报率，399.5 元起",
-      "link": "https://www.ithome.com/0/995/115.htm",
-      "time": "08-27 16:12",
+      "title": "英特尔：14A 缺陷密度曲线是 22nm 以来最佳表现，2027 下半年风险试产",
+      "link": "https://www.ithome.com/0/995/300.htm",
+      "time": "08-27 21:39",
       "src": "IT之家"
     },
     {
-      "title": "JBL 游戏耳机 Quantum 850 / 520 / 520X / 120 同步上线，配备 50mm 单元",
-      "link": "https://www.ithome.com/0/995/112.htm",
-      "time": "08-27 16:06",
+      "title": "三星 Galaxy S26 FE 手机发布：Exynos 2500 处理器、4900mAh 电池，699.99 美元起",
+      "link": "https://www.ithome.com/0/995/281.htm",
+      "time": "08-27 20:35",
       "src": "IT之家"
     },
     {
-      "title": "CHERRY XTRFY 推出 M42V2 鼠标：45g，原相 PAW3327 传感器",
-      "link": "https://www.ithome.com/0/995/034.htm",
-      "time": "08-27 15:32",
+      "title": "荣耀 HONOR Life FlyClip 3i 耳夹耳机发售：10.8mm 双磁动圈、48 小时综合续航，235 元",
+      "link": "https://www.ithome.com/0/995/278.htm",
+      "time": "08-27 20:22",
       "src": "IT之家"
     },
     {
-      "title": "韶音推出 OpenRun Pro 2S 骨传导运动耳机：支持杜比音效、配备运动节拍器功能，1298 元",
-      "link": "https://www.ithome.com/0/995/001.htm",
-      "time": "08-27 15:03",
-      "src": "IT之家"
-    },
-    {
-      "title": "雷克萨斯 RX Morizo RR 原型车曝光，上市后预估和宝马 X5 M 竞争",
-      "link": "https://www.ithome.com/0/994/997.htm",
-      "time": "08-27 14:56",
-      "src": "IT之家"
-    },
-    {
-      "title": "PNY 推出 CS2341 固态硬盘：蓝色 PS5 兼容散热马甲，7100MB/s 顺序读取",
-      "link": "https://www.ithome.com/0/994/996.htm",
-      "time": "08-27 14:56",
-      "src": "IT之家"
-    },
-    {
-      "title": "机械革命无界 14S 2026 轻薄本发售：酷睿 5 315 + 12G + 500G，首发价 3899 元（国补后 3314.15 元）",
-      "link": "https://www.ithome.com/0/994/994.htm",
-      "time": "08-27 14:53",
+      "title": "神舟推出战神 mini R78D 迷你主机：搭锐龙 7 8745HS 处理器，准系统 1999 元",
+      "link": "https://www.ithome.com/0/995/271.htm",
+      "time": "08-27 20:06",
       "src": "IT之家"
     },
     {
@@ -819,6 +773,24 @@
       "link": "https://sspai.com/post/113222",
       "time": "08-27 11:01",
       "src": "少数派"
+    },
+    {
+      "title": "派早报：Apple 调整妙控键盘的键帽符号、闪迪推出宝可梦纪念款产品等",
+      "link": "https://sspai.com/post/113873",
+      "time": "08-27 07:33",
+      "src": "少数派"
+    },
+    {
+      "title": "TCL 华星面板显示器微星 PRO MAX OLED 271UPJW12 欧洲定价 699 欧元",
+      "link": "https://finance.sina.com.cn/tech/digi/2026-08-27/doc-inipucst5936955.shtml",
+      "time": "08-27 19:05",
+      "src": "IT之家"
+    },
+    {
+      "title": "华为耳机在中国高端市场份额第一：把苹果甩在身后",
+      "link": "https://finance.sina.com.cn/tech/discovery/2026-08-27/doc-iniptnux5472729.shtml",
+      "time": "08-27 10:57",
+      "src": "快科技"
     }
   ],
   "kojima": {
@@ -1025,28 +997,33 @@
   },
   "intl_news": [
     {
-      "title": "vivo X500 Pro 系列手机官宣全球首发蓝晶 × 天玑 2nm 旗舰芯",
-      "link": "https://www.ithome.com/0/995/123.htm",
-      "time": "08-27 16:30",
+      "title": "豆瓣 IMDb 双榜第一：影史经典《肖申克的救赎》4K 修复版首次登陆中国内地院线，IMAX 版本系全球首度呈现",
+      "link": "https://www.ithome.com/0/995/326.htm",
+      "time": "08-28 00:00",
       "src": "IT之家"
     },
     {
-      "title": "《英雄联盟》2026 德玛西亚杯升级国际邀请赛，未晋级 S16 总决赛队伍参与",
-      "link": "https://www.ithome.com/0/995/079.htm",
-      "time": "08-27 15:50",
-      "src": "IT之家",
-      "type": "不停机更新"
-    },
-    {
-      "title": "Meta 在美出台未成年人防沉迷措施，韩国有关部门呼吁全球推广",
-      "link": "https://www.ithome.com/0/995/063.htm",
-      "time": "08-27 15:45",
+      "title": "意大利为对抗入侵蓝蟹向亚得里亚海投放 15 万只章鱼，为欧洲首批海洋生物防治试点",
+      "link": "https://www.ithome.com/0/995/313.htm",
+      "time": "08-27 22:24",
       "src": "IT之家"
     },
     {
-      "title": "Synopsys 完成全球首例 3D IC PCIe Gen 6 测试芯片信号验证",
-      "link": "https://www.ithome.com/0/995/008.htm",
-      "time": "08-27 15:14",
+      "title": "曝马斯克、黄仁勋、奥尔特曼将共同出席下周 G20 科技部长级会议",
+      "link": "https://www.ithome.com/0/995/301.htm",
+      "time": "08-27 21:46",
+      "src": "IT之家"
+    },
+    {
+      "title": "谷歌推出全球首个双盲 AI 评估技术，基于加密环境保障基准测试公正性",
+      "link": "https://www.ithome.com/0/995/289.htm",
+      "time": "08-27 21:01",
+      "src": "IT之家"
+    },
+    {
+      "title": "全球最快四缸跑车再进化：莲花 Emira 420 Sport 官宣 8 月 31 日登陆中国市场，420 马力、3.9 秒破百",
+      "link": "https://www.ithome.com/0/995/275.htm",
+      "time": "08-27 20:17",
       "src": "IT之家"
     },
     {
@@ -1062,137 +1039,124 @@
       "src": "机核"
     },
     {
-      "title": "以文明底色超越“丛林法则”：国际学者解析多极化进程中的中国担当",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-27/10685293.shtml",
-      "time": "08-27 16:46",
-      "src": "中新网"
-    },
-    {
-      "title": "HICOOL全球创业者峰会在北京火热进行",
-      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/08-27/1202289.shtml",
-      "time": "08-27 16:45",
+      "title": "伊朗军方情报部门称已做好反渗透准备",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-27/10685533.shtml",
+      "time": "08-27 23:40",
       "src": "中新网"
     }
   ],
   "econ_news": [
     {
-      "title": "“人生第一辆”豪车：兰博基尼推出 4999 美元限量版婴儿车，用料看齐超跑",
-      "link": "https://www.ithome.com/0/995/118.htm",
-      "time": "08-27 16:21",
+      "title": "Hugging Face 推出新款鸭形机器人：能捡东西、拥有独特音色，399 美元",
+      "link": "https://www.ithome.com/0/995/306.htm",
+      "time": "08-27 22:01",
       "src": "IT之家"
     },
     {
-      "title": "特斯拉：中国智造的 Model Y 成为日本上半年进口车单一车型新车销量第一",
-      "link": "https://www.ithome.com/0/995/116.htm",
-      "time": "08-27 16:15",
+      "title": "三星 Galaxy S26 FE 手机发布：Exynos 2500 处理器、4900mAh 电池，699.99 美元起",
+      "link": "https://www.ithome.com/0/995/281.htm",
+      "time": "08-27 20:35",
       "src": "IT之家"
     },
     {
-      "title": "公牛集团 2026 年上半年归母净利润 21.51 亿元，同比增长 4.44%",
-      "link": "https://www.ithome.com/0/995/110.htm",
-      "time": "08-27 16:04",
+      "title": "德明利 2026 年上半年归母净利润 60.17 亿元，同比增长 5201.6%",
+      "link": "https://www.ithome.com/0/995/276.htm",
+      "time": "08-27 20:18",
       "src": "IT之家"
     },
     {
-      "title": "小米首款 10,000mAh 级大电池手机 REDMI Note 17 Pro Max 日本发布，早鸟价 69,980 日元起",
-      "link": "https://www.ithome.com/0/995/005.htm",
-      "time": "08-27 15:11",
+      "title": "同比暴增 318054.9%：天齐锂业 2026 上半年扣非净利润 42 亿元",
+      "link": "https://www.ithome.com/0/995/269.htm",
+      "time": "08-27 20:05",
       "src": "IT之家"
     },
     {
-      "title": "2025年中国经济发展新动能指数比上年增长12.5%",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-27/10685286.shtml",
-      "time": "08-27 16:41",
+      "title": "海尔智家 2026 年上半年归母净利润 103.16 亿元，同比下降 14.27%",
+      "link": "https://www.ithome.com/0/995/265.htm",
+      "time": "08-27 19:52",
+      "src": "IT之家"
+    },
+    {
+      "title": "（活力中国调研行）“工厂”变“景区”　山东探索工业旅游新路径",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-27/10685519.shtml",
+      "time": "08-27 22:59",
       "src": "中新网"
     },
     {
-      "title": "今年前7月中国机械工业生产实现较快增长",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-27/10685285.shtml",
-      "time": "08-27 16:38",
-      "src": "中新网"
-    },
-    {
-      "title": "传DeepSeek寻求74亿美元融资 估值740亿美元",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1575246.htm",
-      "time": "08-27 16:43",
+      "title": "SK海力士在印第安纳州投资逾40亿美元的存储芯片封装厂正式动工",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1575274.htm",
+      "time": "08-28 02:44",
       "src": "cnBeta.COM"
     },
     {
-      "title": "中手游财报显示《仙剑奇侠传四：重制版》预计2027年上半年发售",
-      "link": "https://www.cnbeta.com.tw/articles/game/1575244.htm",
-      "time": "08-27 16:42",
+      "title": "电加热过热蒸汽有望革新工业干燥技术 能耗最高可降80%",
+      "link": "https://www.cnbeta.com.tw/articles/science/1575266.htm",
+      "time": "08-27 23:34",
       "src": "cnBeta.COM"
     }
   ],
   "game_news": [
     {
-      "title": "JBL 游戏耳机 Quantum 850 / 520 / 520X / 120 同步上线，配备 50mm 单元",
-      "link": "https://www.ithome.com/0/995/112.htm",
-      "time": "08-27 16:06",
+      "title": "Epic 喜加二：《Breathedge》《Rival Stars Horse Racing》",
+      "link": "https://www.ithome.com/0/995/321.htm",
+      "time": "08-27 23:05",
       "src": "IT之家"
     },
     {
-      "title": "小米米家立式学习灯 2C 发售：11000lm 高光通量、双光源设计，1199 元",
-      "link": "https://www.ithome.com/0/995/003.htm",
-      "time": "08-27 15:09",
+      "title": "网易《七日世界》主机版海外上线：PS5/Xbox 免费开玩，支持跨平台联机并新增第一人称",
+      "link": "https://www.ithome.com/0/995/319.htm",
+      "time": "08-27 22:40",
       "src": "IT之家"
     },
     {
-      "title": "PNY 推出 CS2341 固态硬盘：蓝色 PS5 兼容散热马甲，7100MB/s 顺序读取",
-      "link": "https://www.ithome.com/0/994/996.htm",
-      "time": "08-27 14:56",
+      "title": "Netflix：《GTA 6：分量十足的一瞥》前瞻预告片完全由 PS5 实机画面录制",
+      "link": "https://www.ithome.com/0/995/312.htm",
+      "time": "08-27 22:17",
       "src": "IT之家"
     },
     {
-      "title": "机械革命无界 14S 2026 轻薄本发售：酷睿 5 315 + 12G + 500G，首发价 3899 元（国补后 3314.15 元）",
-      "link": "https://www.ithome.com/0/994/994.htm",
-      "time": "08-27 14:53",
+      "title": "曝《极限竞速：地平线 6》PS5 版已推迟，2026 年内无望发售",
+      "link": "https://www.ithome.com/0/995/311.htm",
+      "time": "08-27 22:17",
       "src": "IT之家"
     },
     {
-      "title": "《守墓人2》定档，2026年9月22日全球发售",
-      "link": "https://www.gcores.com/articles/218897",
-      "time": "08-27 16:47",
-      "src": "机核"
+      "title": "Epic 喜加一：原价 9 元恐怖游戏《Together After Dark》再度限免",
+      "link": "https://www.ithome.com/0/995/294.htm",
+      "time": "08-27 21:05",
+      "src": "IT之家"
     },
     {
-      "title": "【抽奖】国产本格推理游戏《山河旅探》现已登陆主机平台",
-      "link": "https://www.gcores.com/articles/218885",
-      "time": "08-27 15:24",
-      "src": "机核"
+      "title": "模拟经营游戏《狂热运输 3》9 月 30 日发售，Steam 国区 198 元起",
+      "link": "https://www.ithome.com/0/995/288.htm",
+      "time": "08-27 20:50",
+      "src": "IT之家"
     },
     {
-      "title": "温馨探索冒险游戏《卢湖采风》现已发售",
-      "link": "https://www.gcores.com/articles/218887",
-      "time": "08-27 15:23",
-      "src": "机核"
+      "title": "中世纪墓园恶搞模拟经营游戏《守墓人 2》开启预购，Steam 国区首发 68 元",
+      "link": "https://www.ithome.com/0/995/286.htm",
+      "time": "08-27 20:43",
+      "src": "IT之家"
     },
     {
-      "title": "2026《影之刃零》微星游戏本选购攻略， RTX50显卡+分辨率+帧数全覆盖",
-      "link": "https://www.gcores.com/articles/218891",
-      "time": "08-27 14:11",
-      "src": "机核"
+      "title": "荣耀 HONOR Life FlyClip 3i 耳夹耳机发售：10.8mm 双磁动圈、48 小时综合续航，235 元",
+      "link": "https://www.ithome.com/0/995/278.htm",
+      "time": "08-27 20:22",
+      "src": "IT之家"
     }
   ],
   "game_update": [
     {
-      "title": "小鹏第二代 VLA 全新版本 9 月推送，面向所有 Ultra / Ultra SE 车型",
-      "link": "https://www.ithome.com/0/995/109.htm",
-      "time": "08-27 16:03",
+      "title": "腾讯《王者万象棋》定档 9 月 10 日上线，《王者荣耀》推出万象棋 · 迷你战联动玩法",
+      "link": "https://www.ithome.com/0/995/302.htm",
+      "time": "08-27 21:48",
       "src": "IT之家",
       "type": "不停机更新"
     },
     {
-      "title": "《英雄联盟》2026 德玛西亚杯升级国际邀请赛，未晋级 S16 总决赛队伍参与",
-      "link": "https://www.ithome.com/0/995/079.htm",
-      "time": "08-27 15:50",
-      "src": "IT之家",
-      "type": "不停机更新"
-    },
-    {
-      "title": "小鹏 Master Agent 超级智能体上车：第二代 VLA 全新版本升级，可语音控制靠边停车",
-      "link": "https://www.ithome.com/0/995/040.htm",
-      "time": "08-27 15:39",
+      "title": "网易《逆水寒：新世界》4.1.3 版本更新：全新场景【兰沧寨】、玩法【菠萝农场】上线",
+      "link": "https://www.ithome.com/0/995/299.htm",
+      "time": "08-27 21:29",
       "src": "IT之家",
       "type": "不停机更新"
     },
@@ -1230,6 +1194,13 @@
       "time": "8-06",
       "type": "不停机更新",
       "src": "腾讯官方"
+    },
+    {
+      "title": "《龙族幻想》8/13 凌晨3:00-08:00 停机版本更新: 卡塞尔之辉规则调整/极道巅峰优化, 维护后发放更新奖励",
+      "link": "https://dna.qq.com/webplat/info/news_version3/37362/61695/61696/m22835/202608/989696.shtml",
+      "time": "8-13",
+      "type": "停机维护",
+      "src": "腾讯官方"
     }
   ],
   "mil_news": [
@@ -1240,46 +1211,46 @@
       "src": "ISW"
     },
     {
-      "title": "国防部：菲方应尽快拖走非法“坐滩”的57号舰",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-27/10685277.shtml",
-      "time": "08-27 16:15",
+      "title": "伊朗军方情报部门称已做好反渗透准备",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-27/10685533.shtml",
+      "time": "08-27 23:40",
       "src": "中新网"
     },
     {
-      "title": "国防部：国际社会应切实认清日本右翼势力危险图谋",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-27/10685276.shtml",
-      "time": "08-27 16:10",
+      "title": "卡塔尔首相访伊斡旋 伊朗总统呼吁伊斯兰国家保持团结",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-27/10685479.shtml",
+      "time": "08-27 22:04",
       "src": "中新网"
     },
     {
-      "title": "朝鲜谴责美国向韩国军售导弹及相关装备 誓言将强力回应",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260827-%E6%9C%9D%E9%B2%9C%E8%B0%B4%E8%B4%A3%E7%BE%8E%E5%9B%BD%E5%90%91%E9%9F%A9%E5%9B%BD%E5%86%9B%E5%94%AE%E5%AF%BC%E5%BC%B9%E5%8F%8A%E7%9B%B8%E5%85%B3%E8%A3%85%E5%A4%87-%E8%AA%93%E8%A8%80%E5%B0%86%E5%BC%BA%E5%8A%9B%E5%9B%9E%E5%BA%94",
-      "time": "08-27 16:16",
-      "src": "Reuters/路透社"
+      "title": "尼泊尔与西藏边境洪灾死亡人数升至362人 “毁灭性”灾难何以发生？",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260827-%E5%B0%BC%E6%B3%8A%E5%B0%94%E8%A5%BF%E8%97%8F%E8%BE%B9%E5%A2%83-%E6%AF%81%E7%81%AD%E6%80%A7-%E6%B4%AA%E7%81%BE-%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B3362%E4%BA%BA-%E7%BA%A61400%E4%BA%BA%E5%A4%B1%E8%81%94",
+      "time": "08-27 22:07",
+      "src": "法广RFI"
     },
     {
-      "title": "中尼边境洪水中五名日本人失联 高市首相对中国受灾惨重表示心痛",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260827-%E4%B8%AD%E5%B0%BC%E8%BE%B9%E5%A2%83%E6%B4%AA%E6%B0%B4%E4%B8%AD%E4%BA%94%E5%90%8D%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%A4%B1%E8%81%94-%E9%AB%98%E5%B8%82%E9%A6%96%E7%9B%B8%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%8F%97%E7%81%BE%E6%83%A8%E9%87%8D%E8%A1%A8%E7%A4%BA%E5%BF%83%E7%97%9B",
-      "time": "08-27 16:07",
-      "src": "© Niranjan Shr"
+      "title": "休达移民危机:摩洛哥遭骇客袭击",
+      "link": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260827-rfi%E6%B3%95%E5%B9%BF-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E4%BC%91%E8%BE%BE%E7%A7%BB%E6%B0%91%E5%8D%B1%E6%9C%BA-%E6%91%A9%E6%B4%9B%E5%93%A5%E9%81%AD%E9%AA%87%E5%AE%A2%E8%A2%AD%E5%87%BB",
+      "time": "08-28 01:04",
+      "src": "© RFI/Anne Can"
     },
     {
-      "title": "美国中央情报局局长访问莫斯科属于“半例行性”， 特朗普暗示说为的是讨论乌克兰战争",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260826-%E7%BE%8E%E5%9B%BD%E4%B8%AD%E5%A4%AE%E6%83%85%E6%8A%A5%E5%B1%80%E5%B1%80%E9%95%BF%E8%AE%BF%E9%97%AE%E8%8E%AB%E6%96%AF%E7%A7%91%E5%B1%9E%E4%BA%8E-%E5%8D%8A%E4%BE%8B%E8%A1%8C%E6%80%A7-%EF%BC%8C-%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%97%E7%A4%BA%E8%AF%B4%E4%B8%BA%E7%9A%84%E6%98%AF%E8%AE%A8%E8%AE%BA%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89",
-      "time": "08-27 04:59",
-      "src": "REUTERS - Evan"
+      "title": "台湾立法院批准“在野版”76亿美元军用无人机预算案",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260827-%E5%8F%B0%E6%B9%BE%E7%AB%8B%E6%B3%95%E9%99%A2%E6%89%B9%E5%87%86-%E5%9C%A8%E9%87%8E%E7%89%88-76%E4%BA%BF%E7%BE%8E%E5%85%83%E5%86%9B%E7%94%A8%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%A2%84%E7%AE%97%E6%A1%88",
+      "time": "08-27 21:10",
+      "src": "REUTERS - Dado"
     },
     {
-      "title": "尼泊尔与西藏边境洪灾死亡人数升至160人 数百人失踪",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260826-%E5%B0%BC%E6%B3%8A%E5%B0%94%E4%B8%8E%E8%A5%BF%E8%97%8F%E8%BE%B9%E5%A2%83%E6%B4%AA%E7%81%BE%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B3160%E4%BA%BA-%E6%95%B0%E7%99%BE%E4%BA%BA%E5%A4%B1%E8%B8%AA",
-      "time": "08-27 05:24",
-      "src": "REUTERS - Nave"
+      "title": "尼泊尔与西藏边境洪灾死亡人数升至 273人，1300人失踪 涵30多国游客",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260827-%E5%B0%BC%E6%B3%8A%E5%B0%94%E4%B8%8E%E8%A5%BF%E8%97%8F%E8%BE%B9%E5%A2%83%E6%B4%AA%E7%81%BE%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B3-273%E4%BA%BA%EF%BC%8C1300%E4%BA%BA%E5%A4%B1%E8%B8%AA-%E6%B6%B530%E5%A4%9A%E5%9B%BD%E6%B8%B8%E5%AE%A2",
+      "time": "08-27 20:01",
+      "src": "© Navesh Chitr"
     },
     {
-      "title": "尼泊尔与西藏边境遭毁灭性洪灾 数百人失踪 遇难人数急剧上升 已发现95具遗体",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260826-%E5%B0%BC%E6%B3%8A%E5%B0%94%E4%B8%8E%E8%A5%BF%E8%97%8F%E8%BE%B9%E5%A2%83%E9%81%AD%E6%AF%81%E7%81%AD%E6%80%A7%E6%B4%AA%E7%81%BE-%E6%95%B0%E7%99%BE%E4%BA%BA%E5%A4%B1%E8%B8%AA-%E9%81%87%E9%9A%BE%E4%BA%BA%E6%95%B0%E6%80%A5%E5%89%A7%E4%B8%8A%E5%8D%87-%E5%B7%B2%E5%8F%91%E7%8E%B095%E5%85%B7%E9%81%97%E4%BD%93",
-      "time": "08-26 22:53",
-      "src": "SOCIAL MEDIA v"
+      "title": "伊朗称美军的海上封锁阻碍了德黑兰的汽油进口",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260827-%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E5%86%9B%E7%9A%84%E6%B5%B7%E4%B8%8A%E5%B0%81%E9%94%81%E9%98%BB%E7%A2%8D%E4%BA%86%E5%BE%B7%E9%BB%91%E5%85%B0%E7%9A%84%E6%B1%BD%E6%B2%B9%E8%BF%9B%E5%8F%A3",
+      "time": "08-27 19:05",
+      "src": "AFP - -"
     }
   ]
 }
