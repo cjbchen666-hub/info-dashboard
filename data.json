@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29 11:36",
+  "generated_at": "2026-08-29 18:58",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,9 +233,15 @@
     ],
     "news": [
       {
-        "title": "开源鸿蒙机器人操作系统 M-Robots OS 3.0 Beta 版发布，重心从“单机能力”转向“群体智能”",
-        "link": "https://www.ithome.com/0/995/865.htm",
-        "time": "08-29 09:55",
+        "title": "OpenAI 宣布将断供 Cursor 后，Anthropic 称继续增加算力支持 Cursor",
+        "link": "https://www.ithome.com/0/995/913.htm",
+        "time": "08-29 14:48",
+        "src": "IT之家"
+      },
+      {
+        "title": "AI 算力拉动铜需求激增，2026 年 AI 服务器专用高端铜箔需求预计增 260%",
+        "link": "https://www.ithome.com/0/995/891.htm",
+        "time": "08-29 11:40",
         "src": "IT之家"
       },
       {
@@ -272,12 +278,6 @@
         "title": "美国股市：科技股抛售拖累标普500指数走低 沃什鹰派讲话推升加息预期",
         "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipxqmc5589630.shtml",
         "time": "08-29 06:34",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "8月29日外盘头条：特朗普签署行政令设立“太空学院” 美联储沃什讲话后加息概率上升 贝森特为日元干预辩护",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipxkcf5687976.shtml",
-        "time": "08-29 05:28",
         "src": "环球市场播报"
       }
     ]
@@ -538,91 +538,90 @@
   "ai": {
     "news_zh": [
       {
-        "title": "国产 GPU 厂商壁仞科技上半年收入 12.36 亿元，同比增长 1997.6%",
-        "link": "https://www.ithome.com/0/995/887.htm",
-        "time": "08-29 11:08",
+        "title": "推广 Claude 遭网友狂喷，加拿大博主称使用 AI 正成为社交禁忌",
+        "link": "https://www.ithome.com/0/995/969.htm",
+        "time": "08-29 17:35",
         "src": "IT之家"
       },
       {
-        "title": "OpenAI：因 Cursor 被 SpaceX 收购，将停止向 Cursor 提供 AI 模型",
-        "link": "https://www.ithome.com/0/995/874.htm",
-        "time": "08-29 10:21",
+        "title": "微软 XBOX CEO 夏尔马：次世代游戏主机需应对 AI 引发的“内存末日”问题",
+        "link": "https://www.ithome.com/0/995/966.htm",
+        "time": "08-29 17:17",
         "src": "IT之家"
       },
       {
-        "title": "山灵 Q2 便携播放器新增“香槟金”配色：四颗 CS43131 DAC 芯片、厚度 13.5mm，1398 元",
-        "link": "https://www.ithome.com/0/995/868.htm",
-        "time": "08-29 10:03",
+        "title": "马斯克炮轰 OpenAI 断供 Cursor：我才不在乎，奥尔特曼、布罗克曼就是小偷",
+        "link": "https://www.ithome.com/0/995/961.htm",
+        "time": "08-29 16:44",
         "src": "IT之家"
       },
       {
-        "title": "开源鸿蒙机器人操作系统 M-Robots OS 3.0 Beta 版发布，重心从“单机能力”转向“群体智能”",
-        "link": "https://www.ithome.com/0/995/865.htm",
-        "time": "08-29 09:55",
+        "title": "2025 年我国智能体专利授权量超过 3400 件，增速是上一年两倍以上",
+        "link": "https://www.ithome.com/0/995/928.htm",
+        "time": "08-29 15:57",
         "src": "IT之家"
       },
       {
-        "title": "Meta 为 Quest 头显推出 XR Operator 开发者工具，利用 AI 智能体快速测试 VR 游戏",
-        "link": "https://www.ithome.com/0/995/854.htm",
-        "time": "08-29 08:39",
+        "title": "蓝狐 Aura A1 小屏手机发布：联发科 G100 芯片，首发 1399 元起",
+        "link": "https://www.ithome.com/0/995/920.htm",
+        "time": "08-29 15:28",
         "src": "IT之家"
       },
       {
-        "title": "长鑫科技：自研 LPDDR6 芯片性能较上一代 LPDDR5X 实现全面跃升，已向关键客户送样验证、正加速推进量产",
-        "link": "https://www.ithome.com/0/995/852.htm",
-        "time": "08-29 08:33",
+        "title": "行业首个量子增强型大模型“玄幂 Xenomi”发布：深度融合 AI 与量子计算",
+        "link": "https://www.ithome.com/0/995/921.htm",
+        "time": "08-29 15:37",
         "src": "IT之家"
       },
       {
-        "title": "阿里云巴西节点开服，Qwen 系列开源模型全球下载量突破 30 亿次",
-        "link": "https://www.ithome.com/0/995/847.htm",
-        "time": "08-29 08:11",
-        "src": "IT之家",
-        "type": "不停机更新"
+        "title": "Anthropic 官宣 Claude Code 打通桌面端与终端",
+        "link": "https://www.ithome.com/0/995/917.htm",
+        "time": "08-29 15:13",
+        "src": "IT之家"
       },
       {
-        "title": "华为何庭波入选AI百大 《Time》称她芯片女王",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1575430.htm",
-        "time": "08-28 23:24",
-        "src": "cnBeta.COM"
+        "title": "适用于 Win10 的最后一版英伟达 GeForce Game Ready 显卡驱动将于 10 月发布",
+        "link": "https://www.ithome.com/0/995/915.htm",
+        "time": "08-29 15:03",
+        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "Qwen/Qwen3.8-Flash-Next",
-        "likes": 4175,
-        "downloads": 4810,
+        "likes": 4208,
+        "downloads": 52341,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "zai-org/GLM-5.3-Flash",
-        "likes": 1520,
-        "downloads": 34,
+        "likes": 1553,
+        "downloads": 189793,
         "pipeline": "text-generation"
       },
       {
         "id": "zai-org/GLM-5.3",
-        "likes": 1142,
-        "downloads": 0,
+        "likes": 1203,
+        "downloads": 8804,
         "pipeline": "text-generation"
       },
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 13157,
-        "downloads": 3457687,
+        "likes": 13180,
+        "downloads": 4028839,
+        "pipeline": "image-text-to-text"
+      },
+      {
+        "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
+        "likes": 538,
+        "downloads": 188061,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 3150,
-        "downloads": 7758790,
+        "likes": 3161,
+        "downloads": 8363481,
         "pipeline": ""
-      },
-      {
-        "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
-        "likes": 529,
-        "downloads": 4354,
-        "pipeline": "image-text-to-text"
       }
     ],
     "models": [
@@ -794,46 +793,58 @@
   ],
   "hw_news": [
     {
+      "title": "微软 XBOX CEO 夏尔马：次世代游戏主机需应对 AI 引发的“内存末日”问题",
+      "link": "https://www.ithome.com/0/995/966.htm",
+      "time": "08-29 17:17",
+      "src": "IT之家"
+    },
+    {
+      "title": "Cloudflare 为 1.1.1.1 瘦身：不换硬件省下 100TB 内存，DNS 查询延迟降低 19%",
+      "link": "https://www.ithome.com/0/995/963.htm",
+      "time": "08-29 16:57",
+      "src": "IT之家"
+    },
+    {
+      "title": "MOREFINE 魔方推出 IPC-200 无风扇迷你主机：英特尔 N100 处理器，准系统 289 美元",
+      "link": "https://www.ithome.com/0/995/918.htm",
+      "time": "08-29 15:14",
+      "src": "IT之家"
+    },
+    {
+      "title": "适用于 Win10 的最后一版英伟达 GeForce Game Ready 显卡驱动将于 10 月发布",
+      "link": "https://www.ithome.com/0/995/915.htm",
+      "time": "08-29 15:03",
+      "src": "IT之家"
+    },
+    {
+      "title": "华硕 ROG 旗下 RGB 条纹子像素 OLED 显示器“PG27UCWM”国行上架：4K 240Hz / FHD 480Hz 双模，7499 元",
+      "link": "https://www.ithome.com/0/995/904.htm",
+      "time": "08-29 14:09",
+      "src": "IT之家"
+    },
+    {
+      "title": "ATK 推出梵塔 NOTHING68 磁轴键盘：空气悬挂 GASKET 结构、8KHz 回报率，798.15 元起",
+      "link": "https://www.ithome.com/0/995/899.htm",
+      "time": "08-29 12:46",
+      "src": "IT之家"
+    },
+    {
+      "title": "科大讯飞推出学生耳机 Pro 头戴式产品：30 小时续航、支持“实时耳返与跟读”功能，399 元",
+      "link": "https://www.ithome.com/0/995/897.htm",
+      "time": "08-29 12:35",
+      "src": "IT之家"
+    },
+    {
       "title": "QCY 预热 H6 Ultra 旗舰头戴式耳机：10 颗麦克风阵列、60dB 降噪",
       "link": "https://www.ithome.com/0/995/884.htm",
       "time": "08-29 10:55",
       "src": "IT之家"
     },
     {
-      "title": "迈从预热 R9 头戴式电竞耳机 9 月 1 日上市：分压式双头梁结构、236g 重量",
-      "link": "https://www.ithome.com/0/995/876.htm",
-      "time": "08-29 10:26",
-      "src": "IT之家"
-    },
-    {
-      "title": "迈从 G87 V2 键盘新增“白折影”配色：支持双 8KHz 回报率、配“快金轴”，首发价 279.65 元",
-      "link": "https://www.ithome.com/0/995/875.htm",
-      "time": "08-29 10:22",
-      "src": "IT之家"
-    },
-    {
-      "title": "小米 18 Fold 手机全球首发长鑫 LPDDR6 内存，9 月见",
-      "link": "https://www.ithome.com/0/995/869.htm",
-      "time": "08-29 10:04",
-      "src": "IT之家"
-    },
-    {
-      "title": "AKKO 疾风 TAN7 Master 鼠标开售：PAW3955，售价 299 元",
-      "link": "https://www.ithome.com/0/995/863.htm",
-      "time": "08-29 09:34",
-      "src": "IT之家"
-    },
-    {
-      "title": "索尼 PlayStation 27\" 游戏显示器带 DualSense 充电挂钩海外发售，349 美元",
-      "link": "https://www.ithome.com/0/995/848.htm",
-      "time": "08-29 08:14",
-      "src": "IT之家"
-    },
-    {
-      "title": "IT早报 0829：滴滴称绝不存在“大数据杀熟”；小米澎程汽车座椅滑轨拉矿卡挑战成功；网友晒图退回 299 元摩拜单车押金；曝内存成手机 BOM 成本第一大户...",
-      "link": "https://www.ithome.com/0/995/841.htm",
-      "time": "08-29 07:49",
-      "src": "IT之家"
+      "title": "长鑫将为小米即将发布的折叠旗舰手机供应LPDDR6内存",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1575460.htm",
+      "time": "08-29 13:55",
+      "src": "cnBeta.COM"
     },
     {
       "title": "硬件玩家尝试将线缆直接焊接到RTX 5090 GPU上 避免接口熔化",
@@ -842,27 +853,15 @@
       "src": "cnBeta.COM"
     },
     {
-      "title": "英特尔高端U价格腰斩 270K Plus性价比反超i9",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1575386.htm",
-      "time": "08-28 13:52",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "12+256GB手机内存组合采购价2200元 成本超越旗舰SoC",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1575376.htm",
-      "time": "08-28 13:49",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "Windows 11可选更新KB5120998被曝引发鼠标指针异常、壁纸重置等问题",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1575372.htm",
-      "time": "08-28 13:47",
-      "src": "cnBeta.COM"
-    },
-    {
       "title": "来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记",
       "link": "https://sspai.com/post/113222",
       "time": "08-27 11:01",
+      "src": "少数派"
+    },
+    {
+      "title": "派早报：Apple 调整妙控键盘的键帽符号、闪迪推出宝可梦纪念款产品等",
+      "link": "https://sspai.com/post/113873",
+      "time": "08-27 07:33",
       "src": "少数派"
     }
   ],
@@ -1037,21 +1036,9 @@
   "anime_industry": {
     "news": [
       {
-        "title": "消息称 R 星组建专项团队负责《GTA 6》NPC 设计，游戏拥有超过 60 万套动画",
-        "link": "https://www.ithome.com/0/995/846.htm",
-        "time": "08-29 08:10",
-        "src": "IT之家"
-      },
-      {
-        "title": "消息称 R 星聘请外部动画工作室，为《GTA 6》游戏内电视打造大量节目",
-        "link": "https://www.ithome.com/0/995/836.htm",
-        "time": "08-29 07:28",
-        "src": "IT之家"
-      },
-      {
-        "title": "《机动战士高达》游戏迎来诞生40周年 专设纪念网站开启",
-        "link": "https://www.cnbeta.com.tw/articles/game/1575410.htm",
-        "time": "08-28 18:46",
+        "title": "前宝可梦世界冠军插队周边店被禁赛 称处罚极不公",
+        "link": "https://www.cnbeta.com.tw/articles/game/1575488.htm",
+        "time": "08-29 14:20",
         "src": "cnBeta.COM"
       },
       {
@@ -1094,106 +1081,135 @@
   },
   "intl_news": [
     {
-      "title": "全球首款升降立标 MPV，岚图梦想家 9 预热",
-      "link": "https://www.ithome.com/0/995/872.htm",
-      "time": "08-29 10:16",
+      "title": "消息称空客有意出售美国航天业务：聚焦欧洲卫星制造，应对 SpaceX 与中国对手竞争",
+      "link": "https://www.ithome.com/0/995/927.htm",
+      "time": "08-29 15:57",
       "src": "IT之家"
     },
     {
-      "title": "全球首例：武汉大学人民医院实现眼球植入半侵入式视网膜脑机接口，患者重见光明",
-      "link": "https://www.ithome.com/0/995/870.htm",
-      "time": "08-29 10:09",
+      "title": "国际刑警组织披露“Jackal IV”全球反诈行动成果：逮捕 58 人、确认 263 名涉案者",
+      "link": "https://www.ithome.com/0/995/903.htm",
+      "time": "08-29 13:56",
       "src": "IT之家"
     },
     {
-      "title": "小米 18 Fold 手机全球首发长鑫 LPDDR6 内存，9 月见",
-      "link": "https://www.ithome.com/0/995/869.htm",
-      "time": "08-29 10:04",
-      "src": "IT之家"
-    },
-    {
-      "title": "英国一名 68 岁男子运营非法 IPTV 服务获利 98.1 万英镑，被判处超过 6 年监禁",
-      "link": "https://www.ithome.com/0/995/851.htm",
-      "time": "08-29 08:29",
-      "src": "IT之家"
-    },
-    {
-      "title": "阿里云巴西节点开服，Qwen 系列开源模型全球下载量突破 30 亿次",
-      "link": "https://www.ithome.com/0/995/847.htm",
-      "time": "08-29 08:11",
-      "src": "IT之家",
-      "type": "不停机更新"
-    },
-    {
-      "title": "华为徐直军谈鸿蒙生态全球发展：新生态真正成功的标志，必然是能够走出国门、在全球市场占有一席之地",
-      "link": "https://www.ithome.com/0/995/844.htm",
-      "time": "08-29 07:57",
-      "src": "IT之家"
-    },
-    {
-      "title": "《联合国防治荒漠化公约》COP17通过《乌兰巴托宣言》",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-29/10686315.shtml",
-      "time": "08-29 11:27",
+      "title": "南丹试验区设立一周年：矿权整合进度加快 打造中国—东盟矿业合作枢纽",
+      "link": "https://www.chinanews.com.cn/aseaninfo/2026/08-29/10686481.shtml",
+      "time": "08-29 18:53",
       "src": "中新网"
     },
     {
-      "title": "特朗普：美获逾650亿桶委石油储量“多数控制权”",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-29/10686297.shtml",
-      "time": "08-29 11:25",
+      "title": "应急管理部紧急调派隧道专家赴尼泊尔实施国际救援行动",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-29/10686492.shtml",
+      "time": "08-29 18:36",
       "src": "中新网"
+    },
+    {
+      "title": "HICOOL 2026全球创业者峰会：一棵树看见AI“热带雨林”生态",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-29/10686456.shtml",
+      "time": "08-29 17:34",
+      "src": "中新网"
+    },
+    {
+      "title": "伊朗战事半年矣，鹿死谁手犹未知",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-29/10686468.shtml",
+      "time": "08-29 17:24",
+      "src": "中新网"
+    },
+    {
+      "title": "空客拟出售美国航天业务 转向欧洲制造卫星",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1575468.htm",
+      "time": "08-29 14:06",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "特朗普签署行政令设立“太空学院” 旨在培养航天人才",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1575446.htm",
+      "time": "08-29 05:19",
+      "src": "cnBeta.COM"
     }
   ],
   "econ_news": [
     {
-      "title": "极米科技：2026 年上半年净利润约 8319 万元同比下降 6.18%，海外收入占比提升至 46.58%",
-      "link": "https://www.ithome.com/0/995/857.htm",
-      "time": "08-29 09:06",
+      "title": "苹果 iPhone Ultra 折叠屏手机维修费用曝光：更换内屏费用或超 1 千美元",
+      "link": "https://www.ithome.com/0/996/012.htm",
+      "time": "08-29 18:48",
       "src": "IT之家"
     },
     {
-      "title": "索尼 PlayStation 27\" 游戏显示器带 DualSense 充电挂钩海外发售，349 美元",
-      "link": "https://www.ithome.com/0/995/848.htm",
-      "time": "08-29 08:14",
+      "title": "《GTA 6》预告片引爆主机市场，美国第三方零售商 PS5 Pro 纷纷加价出售",
+      "link": "https://www.ithome.com/0/996/008.htm",
+      "time": "08-29 18:23",
       "src": "IT之家"
     },
     {
-      "title": "我国全国产化高端重型燃机首次整机出口海外，核心工作温度超 1300 摄氏度",
-      "link": "https://www.ithome.com/0/995/839.htm",
-      "time": "08-29 07:39",
+      "title": "美移民与海关执法局拟斥资 200 万美元，采购机器狗用于执法",
+      "link": "https://www.ithome.com/0/995/967.htm",
+      "time": "08-29 17:25",
       "src": "IT之家"
     },
     {
-      "title": "众泰汽车上半年营收 1.90 亿同比降 32.08%，新车型完成造型冻结",
-      "link": "https://www.ithome.com/0/995/837.htm",
-      "time": "08-29 07:37",
+      "title": "MOREFINE 魔方推出 IPC-200 无风扇迷你主机：英特尔 N100 处理器，准系统 289 美元",
+      "link": "https://www.ithome.com/0/995/918.htm",
+      "time": "08-29 15:14",
       "src": "IT之家"
     },
     {
-      "title": "改写消费市场格局！如何接住下沉市场的长期红利",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-29/10686311.shtml",
-      "time": "08-29 10:38",
+      "title": "国内首部 AIGC 长剧《后西游记》定档 8 月 31 日开播，登陆湖南卫视黄金档",
+      "link": "https://www.ithome.com/0/995/901.htm",
+      "time": "08-29 13:36",
+      "src": "IT之家"
+    },
+    {
+      "title": "（经济观察）中国四大行净利润同比上涨  贷款降速提质或成新常态",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-29/10686477.shtml",
+      "time": "08-29 18:07",
       "src": "中新网"
     },
     {
-      "title": "史蒂夫·乔布斯八年级科学项目拍卖成交价34375美元",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1575442.htm",
-      "time": "08-29 04:21",
-      "src": "cnBeta.COM"
+      "title": "房地产相关融资管理办法落地，带来哪些新变化",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-29/10686454.shtml",
+      "time": "08-29 16:42",
+      "src": "中新网"
     },
     {
-      "title": "滴滴寻求扩大拉美业务 拟向阿根廷投资超2亿美元",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1575432.htm",
-      "time": "08-28 23:24",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "新一轮美国关税或再次推高个人电脑、游戏机和数据中心成本",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1575418.htm",
-      "time": "08-28 22:26",
+      "title": "399美元的小黄鸭，藏着Hugging Face最大的野心",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1575474.htm",
+      "time": "08-29 14:08",
       "src": "cnBeta.COM"
     }
   ],
   "game_news": [
+    {
+      "title": "《上古卷轴 6》独占与否成谜，XBOX CEO 夏尔马“避而不答”",
+      "link": "https://www.ithome.com/0/996/011.htm",
+      "time": "08-29 18:44",
+      "src": "IT之家"
+    },
+    {
+      "title": "《GTA 6》预告片引爆主机市场，美国第三方零售商 PS5 Pro 纷纷加价出售",
+      "link": "https://www.ithome.com/0/996/008.htm",
+      "time": "08-29 18:23",
+      "src": "IT之家"
+    },
+    {
+      "title": "开放世界黑暗奇幻 RPG 游戏《黎明行者之血》全新实机演示公开，9 月 3 日发售",
+      "link": "https://www.ithome.com/0/995/997.htm",
+      "time": "08-29 18:17",
+      "src": "IT之家"
+    },
+    {
+      "title": "微软 XBOX CEO 夏尔马：次世代游戏主机需应对 AI 引发的“内存末日”问题",
+      "link": "https://www.ithome.com/0/995/966.htm",
+      "time": "08-29 17:17",
+      "src": "IT之家"
+    },
+    {
+      "title": "MOREFINE 魔方推出 IPC-200 无风扇迷你主机：英特尔 N100 处理器，准系统 289 美元",
+      "link": "https://www.ithome.com/0/995/918.htm",
+      "time": "08-29 15:14",
+      "src": "IT之家"
+    },
     {
       "title": "赛车竞速游戏《极限竞速：地平线 6》迎首次打折，Steam 国区 8.5 折后到手价 253.3 元起",
       "link": "https://www.ithome.com/0/995/886.htm",
@@ -1201,56 +1217,19 @@
       "src": "IT之家"
     },
     {
-      "title": "迈从预热 R9 头戴式电竞耳机 9 月 1 日上市：分压式双头梁结构、236g 重量",
-      "link": "https://www.ithome.com/0/995/876.htm",
-      "time": "08-29 10:26",
-      "src": "IT之家"
+      "title": "游戏拉近你我｜机事本8.22~8.28",
+      "link": "https://www.gcores.com/articles/218991",
+      "time": "08-28 23:02",
+      "src": "机核"
     },
     {
-      "title": "雷神猎刃 60 游戏手柄发售：8KHz 回报率、可调力 TMR 摇杆，399 元",
-      "link": "https://www.ithome.com/0/995/866.htm",
-      "time": "08-29 09:58",
-      "src": "IT之家"
-    },
-    {
-      "title": "开源鸿蒙机器人操作系统 M-Robots OS 3.0 Beta 版发布，重心从“单机能力”转向“群体智能”",
-      "link": "https://www.ithome.com/0/995/865.htm",
-      "time": "08-29 09:55",
-      "src": "IT之家"
-    },
-    {
-      "title": "Meta 为 Quest 头显推出 XR Operator 开发者工具，利用 AI 智能体快速测试 VR 游戏",
-      "link": "https://www.ithome.com/0/995/854.htm",
-      "time": "08-29 08:39",
-      "src": "IT之家"
-    },
-    {
-      "title": "动视暴雪打击《使命召唤》外挂，律师上门拍“击杀回放”视频",
-      "link": "https://www.ithome.com/0/995/849.htm",
-      "time": "08-29 08:18",
-      "src": "IT之家"
-    },
-    {
-      "title": "索尼 PlayStation 27\" 游戏显示器带 DualSense 充电挂钩海外发售，349 美元",
-      "link": "https://www.ithome.com/0/995/848.htm",
-      "time": "08-29 08:14",
-      "src": "IT之家"
-    },
-    {
-      "title": "消息称 R 星组建专项团队负责《GTA 6》NPC 设计，游戏拥有超过 60 万套动画",
-      "link": "https://www.ithome.com/0/995/846.htm",
-      "time": "08-29 08:10",
-      "src": "IT之家"
+      "title": "《湮灭之潮》斩获科隆游戏展「最具史诗感」大奖：国产单机游戏惊艳世界舞台",
+      "link": "https://www.gcores.com/articles/218977",
+      "time": "08-28 21:52",
+      "src": "机核"
     }
   ],
   "game_update": [
-    {
-      "title": "阿里云巴西节点开服，Qwen 系列开源模型全球下载量突破 30 亿次",
-      "link": "https://www.ithome.com/0/995/847.htm",
-      "time": "08-29 08:11",
-      "src": "IT之家",
-      "type": "不停机更新"
-    },
     {
       "title": "《PUBG》42.3版本 PC 8/12 维护(08:00-16:30): 时隔两年新增轻机枪 RPD, 轻机枪换弹-25%/后坐力调整, 主流玩法轮换开启",
       "link": "https://new.qq.com/rain/a/20260811A06SHD00",
@@ -1299,6 +1278,13 @@
       "time": "8-05",
       "type": "停机维护",
       "src": "腾讯官方"
+    },
+    {
+      "title": "《大话西游》手游 8/13 每周例行停机维护(8:00-10:00): 新神兽广陵+小西天副本上线, 周星驰合作宣传片8/15公开",
+      "link": "https://dhxy.163.com/news/update/20260812/19975_1310915.html",
+      "time": "8-13",
+      "type": "停机维护",
+      "src": "网易官网"
     }
   ],
   "mil_news": [
@@ -1309,10 +1295,28 @@
       "src": "ISW"
     },
     {
-      "title": "《联合国防治荒漠化公约》COP17通过《乌兰巴托宣言》",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-29/10686315.shtml",
-      "time": "08-29 11:27",
+      "title": "应急管理部调派“雨燕应急”无人机组，持续支持西藏吉隆泥石流灾害救援",
+      "link": "https://www.ithome.com/0/995/965.htm",
+      "time": "08-29 17:04",
+      "src": "IT之家"
+    },
+    {
+      "title": "长鑫存储起诉美国国防部，要求移出“涉军企业”黑名单",
+      "link": "https://www.ithome.com/0/995/964.htm",
+      "time": "08-29 16:58",
+      "src": "IT之家"
+    },
+    {
+      "title": "伊朗战事半年矣，鹿死谁手犹未知",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-29/10686468.shtml",
+      "time": "08-29 17:24",
       "src": "中新网"
+    },
+    {
+      "title": "长鑫起诉美国国防部 要求撤销“中国军方企业”认定",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1575462.htm",
+      "time": "08-29 13:56",
+      "src": "cnBeta.COM"
     },
     {
       "title": "伊朗：美国加大制裁压力，中国对美表现强硬，但是……",
@@ -1331,24 +1335,6 @@
       "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260828-%E5%90%84%E5%9B%BD%E7%BB%A7%E7%BB%AD%E6%96%A1%E6%97%8B%E9%87%8D%E5%BC%80%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1-%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%BC%80%E6%88%98%E5%8D%8A%E5%B9%B4%E5%90%8E%E4%BB%8D%E6%84%BF%E5%A4%96%E4%BA%A4%E8%A7%A3%E5%86%B3%E4%BA%89%E7%AB%AF",
       "time": "08-29 05:27",
       "src": "REUTERS - Stri"
-    },
-    {
-      "title": "北约对中国涉嫌间谍活动产生警觉的更多细节曝光",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260828-%E5%8C%97%E7%BA%A6%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%B6%89%E5%AB%8C%E9%97%B4%E8%B0%8D%E6%B4%BB%E5%8A%A8%E4%BA%A7%E7%94%9F%E8%AD%A6%E8%A7%89%E7%9A%84%E6%9B%B4%E5%A4%9A%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89",
-      "time": "08-29 02:02",
-      "src": "© AP Photo/Vir"
-    },
-    {
-      "title": "伊朗战事满半年  美国陷入新泥淖",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260828-%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E6%BB%A1%E5%8D%8A%E5%B9%B4-%E7%BE%8E%E5%9B%BD%E9%99%B7%E5%85%A5%E6%96%B0%E6%B3%A5%E6%B7%96",
-      "time": "08-29 00:39",
-      "src": "REUTERS - Evan"
-    },
-    {
-      "title": "中尼边境灾难：已知近590人遇难  堰塞湖风险  冰川崩塌是主因？",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260828-%E4%B8%AD%E5%B0%BC%E8%BE%B9%E5%A2%83%E7%81%BE%E9%9A%BE-%E5%B7%B2%E7%9F%A5%E8%BF%91590%E4%BA%BA%E9%81%87%E9%9A%BE-%E5%A0%B0%E5%A1%9E%E6%B9%96%E9%A3%8E%E9%99%A9-%E5%86%B0%E5%B7%9D%E5%B4%A9%E5%A1%8C%E6%98%AF%E4%B8%BB%E5%9B%A0",
-      "time": "08-28 22:47",
-      "src": "法广RFI"
     }
   ]
 }
