@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30 00:36",
+  "generated_at": "2026-08-30 04:49",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -239,16 +239,16 @@
         "src": "中新网"
       },
       {
-        "title": "史蒂夫·乔布斯八年级科学项目拍卖成交价34375美元",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1575442.htm",
-        "time": "08-29 04:21",
-        "src": "cnBeta.COM"
-      },
-      {
         "title": "美联储主席沃什强调遏制通胀 市场对美联储加息预期升温",
         "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260828-%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E6%B2%83%E4%BB%80%E5%BC%BA%E8%B0%83%E9%81%8F%E5%88%B6%E9%80%9A%E8%83%80-%E5%B8%82%E5%9C%BA%E5%AF%B9%E7%BE%8E%E8%81%94%E5%82%A8%E5%8A%A0%E6%81%AF%E9%A2%84%E6%9C%9F%E5%8D%87%E6%B8%A9",
         "time": "08-29 05:36",
         "src": "REUTERS - Evel"
+      },
+      {
+        "title": "美联储杰克逊霍尔年度会议核心要点",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-inipzpai8746852.shtml",
+        "time": "08-30 02:41",
+        "src": "环球市场播报"
       },
       {
         "title": "沃什对通胀展现强硬立场 美联储9月会议或迎关键一役",
@@ -580,37 +580,37 @@
     "hf": [
       {
         "id": "Qwen/Qwen3.8-Flash-Next",
-        "likes": 4249,
+        "likes": 4277,
         "downloads": 52341,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "zai-org/GLM-5.3-Flash",
-        "likes": 1582,
+        "likes": 1607,
         "downloads": 189793,
         "pipeline": "text-generation"
       },
       {
         "id": "zai-org/GLM-5.3",
-        "likes": 1238,
+        "likes": 1259,
         "downloads": 8804,
         "pipeline": "text-generation"
       },
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 13217,
+        "likes": 13244,
         "downloads": 4028839,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
-        "likes": 543,
+        "likes": 556,
         "downloads": 188061,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 3171,
+        "likes": 3178,
         "downloads": 8363481,
         "pipeline": ""
       }
@@ -808,6 +808,18 @@
       "src": "IT之家"
     },
     {
+      "title": "Cloudflare通过五项Rust代码优化释放约100TB内存 未增一台服务器",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1575522.htm",
+      "time": "08-30 02:55",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "东芝S300 AI系列硬盘开售  8TB 2949元起",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1575510.htm",
+      "time": "08-30 00:38",
+      "src": "cnBeta.COM"
+    },
+    {
       "title": "长鑫将为小米即将发布的折叠旗舰手机供应LPDDR6内存",
       "link": "https://www.cnbeta.com.tw/articles/tech/1575460.htm",
       "time": "08-29 13:55",
@@ -840,18 +852,6 @@
     {
       "title": "Computex 2026: NVIDIA 发布 ARM 架构 PC 芯片 RTX Spark, 集成 Blackwell GPU, 对标苹果 M5",
       "link": "https://new.qq.com/rain/a/20260605A09PXY00",
-      "time": "精选",
-      "src": "资讯整理"
-    },
-    {
-      "title": "AMD 发布 Ryzen 7 7700X3D(104MB缓存,$329) 与 Radeon RX 9070 GRE(12GB,$549), 强化 1440p 游戏市场",
-      "link": "https://www.91mobiles.com/hub/computex-2026-amd-ryzen-x3d-cpus-radeon-9070-gre",
-      "time": "精选",
-      "src": "资讯整理"
-    },
-    {
-      "title": "Intel 预览 Nova Lake 桌面平台: 最高48核(16P+32E), 18A 工艺, LGA1954 新插槽, 预计2026年底上市",
-      "link": "https://www.160.com/article/12732.html",
       "time": "精选",
       "src": "资讯整理"
     }
@@ -1114,6 +1114,12 @@
       "src": "少数派"
     },
     {
+      "title": "中国记忆体大厂长鑫存储起诉五角大楼　要求撤销“中国军事公司”认定",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260829-%E4%B8%AD%E5%9B%BD%E8%AE%B0%E5%BF%86%E4%BD%93%E5%A4%A7%E5%8E%82%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8%E8%B5%B7%E8%AF%89%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC-%E8%A6%81%E6%B1%82%E6%92%A4%E9%94%80-%E4%B8%AD%E5%9B%BD%E5%86%9B%E4%BA%8B%E5%85%AC%E5%8F%B8-%E8%AE%A4%E5%AE%9A",
+      "time": "08-30 01:32",
+      "src": "© Reuters/Dado"
+    },
+    {
       "title": "地缘政治紧张背景下 普京和习近平及佩泽什基安赴中亚参加区域峰会",
       "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260829-%E5%9C%B0%E7%BC%98%E6%94%BF%E6%B2%BB%E7%B4%A7%E5%BC%A0%E8%83%8C%E6%99%AF%E4%B8%8B-%E6%99%AE%E4%BA%AC%E5%92%8C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8F%8A%E4%BD%A9%E6%B3%BD%E4%BB%80%E5%9F%BA%E5%AE%89%E8%B5%B4%E4%B8%AD%E4%BA%9A%E5%8F%82%E5%8A%A0%E5%8C%BA%E5%9F%9F%E5%B3%B0%E4%BC%9A",
       "time": "08-30 00:30",
@@ -1124,12 +1130,6 @@
       "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260829-%E4%BF%84%E7%BD%97%E6%96%AF%E5%AF%B9%E5%9F%BA%E8%BE%85%E9%99%84%E8%BF%91%E4%B8%80%E5%A4%84%E5%BC%B9%E8%8D%AF%E5%BA%93%E5%8F%91%E5%8A%A8%E7%A9%BA%E8%A2%AD%EF%BC%8C%E9%80%A0%E6%88%90%E8%87%B3%E5%B0%9137%E4%BA%BA%E6%AD%BB%E4%BA%A1",
       "time": "08-29 22:58",
       "src": "©  ДСНС Україн"
-    },
-    {
-      "title": "美中太空竞赛差距缩小：特朗普绝不当“老二”筹建太空学院，谁先“驻月”或揭胜负",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260829-%E7%BE%8E%E4%B8%AD%E5%A4%AA%E7%A9%BA%E7%AB%9E%E8%B5%9B%E5%B7%AE%E8%B7%9D%E7%BC%A9%E5%B0%8F-%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%9D%E4%B8%8D%E5%BD%93-%E8%80%81%E4%BA%8C-%E7%AD%B9%E5%BB%BA%E5%A4%AA%E7%A9%BA%E5%AD%A6%E9%99%A2%EF%BC%8C%E8%B0%81%E5%85%88-%E9%A9%BB%E6%9C%88-%E6%88%96%E6%8F%AD%E8%83%9C%E8%B4%9F",
-      "time": "08-29 18:46",
-      "src": "法广RFI"
     }
   ],
   "econ_news": [
@@ -1176,9 +1176,9 @@
       "src": "中新网"
     },
     {
-      "title": "GTA6实机演示公布后PS5 Pro缺货 现货最高炒至1300美元",
-      "link": "https://www.cnbeta.com.tw/articles/game/1575504.htm",
-      "time": "08-29 19:40",
+      "title": "索尼音乐与华纳音乐出版起诉Anthropic 索赔金额或达数十亿美元",
+      "link": "https://www.cnbeta.com.tw/articles/music/1575518.htm",
+      "time": "08-30 02:52",
       "src": "cnBeta.COM"
     }
   ],
@@ -1316,6 +1316,12 @@
       "src": "cnBeta.COM"
     },
     {
+      "title": "中国记忆体大厂长鑫存储起诉五角大楼　要求撤销“中国军事公司”认定",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260829-%E4%B8%AD%E5%9B%BD%E8%AE%B0%E5%BF%86%E4%BD%93%E5%A4%A7%E5%8E%82%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8%E8%B5%B7%E8%AF%89%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC-%E8%A6%81%E6%B1%82%E6%92%A4%E9%94%80-%E4%B8%AD%E5%9B%BD%E5%86%9B%E4%BA%8B%E5%85%AC%E5%8F%B8-%E8%AE%A4%E5%AE%9A",
+      "time": "08-30 01:32",
+      "src": "© Reuters/Dado"
+    },
+    {
       "title": "伊朗：美国加大制裁压力，中国对美表现强硬，但是……",
       "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20260828-%E4%BC%8A%E6%9C%97-%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%A4%A7%E5%88%B6%E8%A3%81%E5%8E%8B%E5%8A%9B%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%AF%B9%E7%BE%8E%E8%A1%A8%E7%8E%B0%E5%BC%BA%E7%A1%AC%EF%BC%8C%E4%BD%86%E6%98%AF",
       "time": "08-29 07:44",
@@ -1332,12 +1338,6 @@
       "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260828-%E5%90%84%E5%9B%BD%E7%BB%A7%E7%BB%AD%E6%96%A1%E6%97%8B%E9%87%8D%E5%BC%80%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1-%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%BC%80%E6%88%98%E5%8D%8A%E5%B9%B4%E5%90%8E%E4%BB%8D%E6%84%BF%E5%A4%96%E4%BA%A4%E8%A7%A3%E5%86%B3%E4%BA%89%E7%AB%AF",
       "time": "08-29 05:27",
       "src": "REUTERS - Stri"
-    },
-    {
-      "title": "北约对中国涉嫌间谍活动产生警觉的更多细节曝光",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260828-%E5%8C%97%E7%BA%A6%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%B6%89%E5%AB%8C%E9%97%B4%E8%B0%8D%E6%B4%BB%E5%8A%A8%E4%BA%A7%E7%94%9F%E8%AD%A6%E8%A7%89%E7%9A%84%E6%9B%B4%E5%A4%9A%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89",
-      "time": "08-29 02:02",
-      "src": "© AP Photo/Vir"
     }
   ]
 }
