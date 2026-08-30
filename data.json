@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31 03:15",
+  "generated_at": "2026-08-31 06:37",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -275,10 +275,10 @@
         "src": "市场资讯"
       },
       {
-        "title": "投资12亿元！又一家A股公司，加码智能机器人！",
-        "link": "https://finance.sina.com.cn/stock/2026-08-30/doc-iniqakfv5056766.shtml",
-        "time": "08-30 12:11",
-        "src": "e公司"
+        "title": "绿源上半年实现收入24.63亿元，业务拓展至具身智能机器人领域",
+        "link": "https://finance.sina.com.cn/roll/2026-08-29/doc-inipyrwr5433761.shtml",
+        "time": "08-29 17:11",
+        "src": "新浪科技"
       }
     ]
   },
@@ -327,7 +327,7 @@
         "score": 7.1,
         "img": "http://lain.bgm.tv/pic/cover/c/f1/bf/569116_n6dPq.jpg",
         "air_date": "2026-07-06",
-        "rank": 2233
+        "rank": 2217
       },
       {
         "id": 607340,
@@ -336,7 +336,7 @@
         "score": 7.0,
         "img": "http://lain.bgm.tv/pic/cover/c/71/44/607340_n8Rrl.jpg",
         "air_date": "2026-07-06",
-        "rank": 2664
+        "rank": 2707
       },
       {
         "id": 569671,
@@ -372,7 +372,7 @@
         "score": 5.6,
         "img": "http://lain.bgm.tv/pic/cover/c/2c/93/590786_48D8M.jpg",
         "air_date": "2026-07-06",
-        "rank": 8751
+        "rank": 8761
       },
       {
         "id": 528828,
@@ -381,7 +381,7 @@
         "score": 5.3,
         "img": "http://lain.bgm.tv/pic/cover/c/1d/71/528828_oQl2M.jpg",
         "air_date": "2026-07-06",
-        "rank": 8955
+        "rank": 8986
       },
       {
         "id": 456081,
@@ -390,7 +390,7 @@
         "score": 5.2,
         "img": "http://lain.bgm.tv/pic/cover/c/a7/a6/456081_Bs2nE.jpg",
         "air_date": "2026-07-06",
-        "rank": 8984
+        "rank": 8999
       },
       {
         "id": 636067,
@@ -399,7 +399,7 @@
         "score": 5.2,
         "img": "http://lain.bgm.tv/pic/cover/c/75/fd/636067_0uuym.jpg",
         "air_date": "2026-07-06",
-        "rank": 8551
+        "rank": 8607
       },
       {
         "id": 456080,
@@ -408,7 +408,7 @@
         "score": 5.0,
         "img": "http://lain.bgm.tv/pic/cover/c/ce/e2/456080_C4q4C.jpg",
         "air_date": "2026-07-06",
-        "rank": 9766
+        "rank": 9767
       },
       {
         "id": 579246,
@@ -417,7 +417,7 @@
         "score": 4.7,
         "img": "http://lain.bgm.tv/pic/cover/c/e2/dd/579246_61291.jpg",
         "air_date": "2026-07-06",
-        "rank": 9730
+        "rank": 9784
       },
       {
         "id": 607933,
@@ -442,7 +442,7 @@
   "ukraine": {
     "title": "Russian Offensive Campaign Assessment",
     "summary": "ISW’s Russia and Ukraine team produces the maps and analysis of record of the war in Ukraine. The Russian Offensive Campaign Assessment provides a synthetic running intelligence estimate of Putin’s political and military objectives in Ukraine and the design, prosecution, and outcomes of Russia’s war effort. ISW has published this update daily since Russia’s full-scale invasion of Ukraine in February 2022. Each update includes an assessment of the latest battlefield changes at the operational and tactical levels of war as well as an updated strategic assessment and forecast of the war’s trajectory along with numer",
-    "map_url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-august-29-2026-at-130-pm-et/",
+    "map_url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-august-30-2026-at-130-pm-et/",
     "url": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment",
     "links": [
       {
@@ -451,7 +451,7 @@
       },
       {
         "name": "ISW 官方地图页",
-        "url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-august-29-2026-at-130-pm-et/"
+        "url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-august-30-2026-at-130-pm-et/"
       },
       {
         "name": "实时战线地图 Liveuamap",
@@ -517,37 +517,37 @@
     "hf": [
       {
         "id": "Qwen/Qwen3.8-Flash-Next",
-        "likes": 4368,
+        "likes": 4376,
         "downloads": 121976,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "zai-org/GLM-5.3-Flash",
-        "likes": 1692,
+        "likes": 1705,
         "downloads": 346516,
         "pipeline": "text-generation"
       },
       {
         "id": "zai-org/GLM-5.3",
-        "likes": 1331,
+        "likes": 1334,
         "downloads": 50116,
         "pipeline": "text-generation"
       },
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 13328,
+        "likes": 13343,
         "downloads": 4511348,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
-        "likes": 596,
+        "likes": 601,
         "downloads": 328195,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 3224,
+        "likes": 3237,
         "downloads": 8839153,
         "pipeline": ""
       }
@@ -757,6 +757,12 @@
       "src": "IT之家"
     },
     {
+      "title": "SK海力士CEO：内存短缺或将持续至2030年",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1575612.htm",
+      "time": "08-31 03:52",
+      "src": "cnBeta.COM"
+    },
+    {
       "title": "科隆展回应笔记本被盗 竟要求参展商自己小心一点",
       "link": "https://www.cnbeta.com.tw/articles/game/1575580.htm",
       "time": "08-30 14:25",
@@ -783,12 +789,6 @@
     {
       "title": "Computex 2026: NVIDIA 发布 ARM 架构 PC 芯片 RTX Spark, 集成 Blackwell GPU, 对标苹果 M5",
       "link": "https://new.qq.com/rain/a/20260605A09PXY00",
-      "time": "精选",
-      "src": "资讯整理"
-    },
-    {
-      "title": "AMD 发布 Ryzen 7 7700X3D(104MB缓存,$329) 与 Radeon RX 9070 GRE(12GB,$549), 强化 1440p 游戏市场",
-      "link": "https://www.91mobiles.com/hub/computex-2026-amd-ryzen-x3d-cpus-radeon-9070-gre",
       "time": "精选",
       "src": "资讯整理"
     }
@@ -1003,6 +1003,12 @@
       "src": "IT之家"
     },
     {
+      "title": "美伊再度交火：美军袭击伊朗导弹阵地，伊朗回击",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-31/10686968.shtml",
+      "time": "08-31 06:28",
+      "src": "中新网"
+    },
+    {
       "title": "河北工业企业兴起直播热 产品“云上”销全球",
       "link": "https://www.chinanews.com.cn/cj/2026/08-30/10686947.shtml",
       "time": "08-30 21:41",
@@ -1033,16 +1039,10 @@
       "src": "少数派"
     },
     {
-      "title": "俄罗斯称正准备对乌克兰“能源领域”发动“大规模打击”",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260830-%E4%BF%84%E7%BD%97%E6%96%AF%E7%A7%B0%E6%AD%A3%E5%87%86%E5%A4%87%E5%AF%B9%E4%B9%8C%E5%85%8B%E5%85%B0-%E8%83%BD%E6%BA%90%E9%A2%86%E5%9F%9F-%E5%8F%91%E5%8A%A8-%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%89%93%E5%87%BB",
-      "time": "08-31 01:01",
-      "src": "AFP - SERHII O"
-    },
-    {
-      "title": "冰岛公投结果出炉：拒绝重启加入欧盟谈判",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260830-%E5%86%B0%E5%B2%9B%E5%85%AC%E6%8A%95%E7%BB%93%E6%9E%9C%E5%87%BA%E7%82%89-%E6%8B%92%E7%BB%9D%E9%87%8D%E5%90%AF%E5%8A%A0%E5%85%A5%E6%AC%A7%E7%9B%9F%E8%B0%88%E5%88%A4",
-      "time": "08-31 00:33",
-      "src": "AP Photo/Marco"
+      "title": "冰岛拒绝重启入盟谈判 欧盟尊重选择 扩大进程受阻",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260830-%E5%86%B0%E5%B2%9B%E6%8B%92%E7%BB%9D%E9%87%8D%E5%90%AF%E5%85%A5%E7%9B%9F%E8%B0%88%E5%88%A4-%E6%AC%A7%E7%9B%9F%E5%B0%8A%E9%87%8D%E9%80%89%E6%8B%A9%E4%BD%86%E6%89%A9%E5%A4%A7%E8%BF%9B%E7%A8%8B%E5%8F%97%E9%98%BB",
+      "time": "08-31 05:32",
+      "src": "REUTERS - Leon"
     }
   ],
   "econ_news": [
@@ -1083,15 +1083,15 @@
       "src": "via REUTERS - "
     },
     {
-      "title": "沃什表态助长加息预期后，债券投资者持谨慎态度",
-      "link": "https://finance.sina.com.cn/7x24/2026-08-31/doc-iniqcrzf4842813.shtml",
-      "time": "08-31 03:00",
+      "title": "8月31日周末要闻：美军打击伊朗两处武器装置 伊朗向美军基地发射导弹 油价走高",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqeaqz4683896.shtml",
+      "time": "08-31 06:24",
       "src": "环球市场播报"
     },
     {
-      "title": "美军高层警告伊朗战事不可持续，五角大楼面临资源枯竭与财政压力",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqcfmp8050759.shtml",
-      "time": "08-30 21:16",
+      "title": "周一早盘，油价走高，美国国债期货走弱",
+      "link": "https://finance.sina.com.cn/7x24/2026-08-31/doc-iniqeaqx7902409.shtml",
+      "time": "08-31 06:07",
       "src": "环球市场播报"
     }
   ],
@@ -1211,6 +1211,12 @@
       "src": "ISW"
     },
     {
+      "title": "美伊再度交火：美军袭击伊朗导弹阵地，伊朗回击",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-31/10686968.shtml",
+      "time": "08-31 06:28",
+      "src": "中新网"
+    },
+    {
       "title": "朝鲜军方高层大改组，国防部长努光铁遭解职降级",
       "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260830-%E6%9C%9D%E9%B2%9C%E5%86%9B%E6%96%B9%E9%AB%98%E5%B1%82%E5%A4%A7%E6%94%B9%E7%BB%84%EF%BC%8C%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%E5%8A%AA%E5%85%89%E9%93%81%E9%81%AD%E8%A7%A3%E8%81%8C%E9%99%8D%E7%BA%A7",
       "time": "08-30 17:09",
@@ -1229,28 +1235,22 @@
       "src": "© Reuters/Dado"
     },
     {
-      "title": "伊朗借助小艇监控霍尔木兹海峡过往船只",
-      "link": "https://finance.sina.com.cn/7x24/2026-08-31/doc-iniqcrzc8064172.shtml",
-      "time": "08-31 02:48",
+      "title": "8月31日周末要闻：美军打击伊朗两处武器装置 伊朗向美军基地发射导弹 油价走高",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqeaqz4683896.shtml",
+      "time": "08-31 06:24",
       "src": "环球市场播报"
     },
     {
-      "title": "美军高层警告伊朗战事不可持续，五角大楼面临资源枯竭与财政压力",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqcfmp8050759.shtml",
-      "time": "08-30 21:16",
-      "src": "环球市场播报"
+      "title": "伊朗革命卫队：伊朗向美军基地发射导弹",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-31/doc-iniqeaqz4675988.shtml",
+      "time": "08-31 05:54",
+      "src": "央视"
     },
     {
-      "title": "伊朗总统：外贸萎缩25%至35%，霍尔木兹重开与美方履约挂钩",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpr8235768.shtml",
-      "time": "08-30 14:06",
-      "src": "环球市场播报"
-    },
-    {
-      "title": "集体拒签“最后通牒”，大批媒体撤离五角大楼",
-      "link": "https://news.sina.com.cn/w/2025-10-18/doc-infuhrzs7824610.shtml",
-      "time": "10-18 11:10",
-      "src": ""
+      "title": "美军中央司令部：已改变83艘商船航行路线",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-31/doc-iniqearc7671330.shtml",
+      "time": "08-31 05:15",
+      "src": "央视"
     }
   ]
 }
