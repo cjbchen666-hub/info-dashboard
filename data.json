@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01 03:54",
+  "generated_at": "2026-09-01 07:42",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -239,10 +239,10 @@
         "src": "IT之家"
       },
       {
-        "title": "“国产 GPU 四小龙”之一：燧原科技科创板 IPO 发行价格定为 142.18 元 / 股",
-        "link": "https://www.ithome.com/0/996/634.htm",
-        "time": "08-31 19:18",
-        "src": "IT之家"
+        "title": "算力，靠抢！百万级产能缺口，订单排到三年后",
+        "link": "https://www.chinanews.com.cn/cj/2026/09-01/10687595.shtml",
+        "time": "09-01 07:33",
+        "src": "中新网"
       },
       {
         "title": "英国央行行长向G20集团发出警告：AI可能引发全球经济衰退",
@@ -275,10 +275,10 @@
         "src": "© instagram"
       },
       {
-        "title": "日防卫省2027财年预算申请创新高达8.89万亿日元 年底或进一步增加",
-        "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260831-%E6%97%A5%E9%98%B2%E5%8D%AB%E7%9C%812027%E8%B4%A2%E5%B9%B4%E9%A2%84%E7%AE%97%E7%94%B3%E8%AF%B7%E5%88%9B%E6%96%B0%E9%AB%98%E8%BE%BE8-89%E4%B8%87%E4%BA%BF%E6%97%A5%E5%85%83-%E5%B9%B4%E5%BA%95%E6%88%96%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%A2%9E%E5%8A%A0",
-        "time": "08-31 18:26",
-        "src": "© 美联社图片"
+        "title": "特朗普称美国经济可能实现20%增长，即便如此美联储也不应加息",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqhmwc8394684.shtml",
+        "time": "09-01 07:28",
+        "src": "环球市场播报"
       }
     ]
   },
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 53244.89,
-      "pct": -0.59,
-      "chg": -315.1,
-      "amount": "1513614907亿"
+      "price": 53185.9,
+      "pct": -0.7,
+      "chg": -374.09,
+      "amount": "2699843815亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26382.07,
-      "pct": -0.08,
-      "chg": -20.35,
-      "amount": "13587468276亿"
+      "price": 26370.89,
+      "pct": -0.12,
+      "chg": -31.53,
+      "amount": "18102482094亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7691.13,
-      "pct": -0.27,
-      "chg": -20.63,
-      "amount": "1457153523亿"
+      "price": 7686.14,
+      "pct": -0.33,
+      "chg": -25.62,
+      "amount": "2640895180亿"
     }
   ],
   "anime": {
@@ -327,7 +327,7 @@
         "score": 7.4,
         "img": "http://lain.bgm.tv/pic/cover/c/7e/10/496276_Qeu06.jpg",
         "air_date": "2026-07-07",
-        "rank": 1091
+        "rank": 1097
       },
       {
         "id": 325767,
@@ -336,7 +336,7 @@
         "score": 7.1,
         "img": "http://lain.bgm.tv/pic/cover/c/a1/d3/325767_u3pvR.jpg",
         "air_date": "2026-07-07",
-        "rank": 2135
+        "rank": 2128
       },
       {
         "id": 541285,
@@ -345,7 +345,7 @@
         "score": 7.0,
         "img": "http://lain.bgm.tv/pic/cover/c/b3/26/541285_CYBZc.jpg",
         "air_date": "2026-07-07",
-        "rank": 2498
+        "rank": 2493
       },
       {
         "id": 607929,
@@ -363,7 +363,7 @@
         "score": 6.0,
         "img": "http://lain.bgm.tv/pic/cover/c/04/5b/584641_150ne.jpg",
         "air_date": "2026-07-07",
-        "rank": 6745
+        "rank": 6796
       },
       {
         "id": 516426,
@@ -390,7 +390,7 @@
         "score": 4.2,
         "img": "http://lain.bgm.tv/pic/cover/c/11/b7/627648_V00Vh.jpg",
         "air_date": "2026-07-07",
-        "rank": 9628
+        "rank": 9651
       },
       {
         "id": 638995,
@@ -439,6 +439,12 @@
   "ai": {
     "news_zh": [
       {
+        "title": "苹果披露“惊人证据”：前员工已将机密文件用于 OpenAI，且知情者众多",
+        "link": "https://www.ithome.com/0/996/702.htm",
+        "time": "09-01 07:07",
+        "src": "IT之家"
+      },
+      {
         "title": "博通推出 VMware AI 工厂，简化企业私有云 AI 部署",
         "link": "https://www.ithome.com/0/996/680.htm",
         "time": "08-31 23:33",
@@ -479,48 +485,42 @@
         "link": "https://www.ithome.com/0/996/645.htm",
         "time": "08-31 20:34",
         "src": "IT之家"
-      },
-      {
-        "title": "智谱披露下一代大模型规划：采用大基座路线，目标发布首日即可支持满规模业务调用",
-        "link": "https://www.ithome.com/0/996/649.htm",
-        "time": "08-31 20:47",
-        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "Qwen/Qwen3.8-Flash-Next",
-        "likes": 4505,
+        "likes": 4515,
         "downloads": 158598,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "zai-org/GLM-5.3-Flash",
-        "likes": 1802,
+        "likes": 1807,
         "downloads": 379271,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "zai-org/GLM-5.3",
-        "likes": 1409,
+        "likes": 1412,
         "downloads": 66195,
         "pipeline": "text-generation"
       },
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 13459,
+        "likes": 13470,
         "downloads": 4720763,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
-        "likes": 630,
+        "likes": 635,
         "downloads": 373029,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-27B-GGUF",
-        "likes": 3280,
+        "likes": 3284,
         "downloads": 9059937,
         "pipeline": ""
       }
@@ -748,12 +748,6 @@
       "src": "IT之家"
     },
     {
-      "title": "维咖推出 NUT87 - 双 8K 机械键盘：全铝机身，首发到手价 499 元起",
-      "link": "https://www.ithome.com/0/996/642.htm",
-      "time": "08-31 20:03",
-      "src": "IT之家"
-    },
-    {
       "title": "MacBook Neo SSD 写入寿命消耗速度惊人 8GB内存或成长期使用隐患",
       "link": "https://www.cnbeta.com.tw/articles/tech/1575778.htm",
       "time": "09-01 01:09",
@@ -763,6 +757,12 @@
       "title": "长鑫存储已开始小批量生产HBM3E内存",
       "link": "https://www.cnbeta.com.tw/articles/tech/1575764.htm",
       "time": "08-31 22:41",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "SK海力士考虑采用英特尔晶圆代工生产HBM4E基础裸片",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1575754.htm",
+      "time": "08-31 22:21",
       "src": "cnBeta.COM"
     }
   ],
@@ -937,22 +937,10 @@
   "anime_industry": {
     "news": [
       {
-        "title": "聚焦 PTCG 卡牌游戏：宝可梦近年首部动画长片电影《Pokémon: Wild Card》确认",
-        "link": "https://www.ithome.com/0/996/639.htm",
-        "time": "08-31 19:51",
-        "src": "IT之家"
-      },
-      {
         "title": "波士顿动力Spot机器狗或将参与美国移民与海关执法局行动 合同金额最高达200万美元",
         "link": "https://www.cnbeta.com.tw/articles/tech/1575760.htm",
         "time": "08-31 22:39",
         "src": "cnBeta.COM"
-      },
-      {
-        "title": "日防卫省2027财年预算申请创新高达8.89万亿日元 年底或进一步增加",
-        "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260831-%E6%97%A5%E9%98%B2%E5%8D%AB%E7%9C%812027%E8%B4%A2%E5%B9%B4%E9%A2%84%E7%AE%97%E7%94%B3%E8%AF%B7%E5%88%9B%E6%96%B0%E9%AB%98%E8%BE%BE8-89%E4%B8%87%E4%BA%BF%E6%97%A5%E5%85%83-%E5%B9%B4%E5%BA%95%E6%88%96%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%A2%9E%E5%8A%A0",
-        "time": "08-31 18:26",
-        "src": "© 美联社图片"
       },
       {
         "title": "《动画产业报告2025》: 市场规模达 3.84 万亿日元创历史新高, 海外占比约 56.5%",
@@ -982,6 +970,12 @@
   },
   "intl_news": [
     {
+      "title": "奕境曾清林：中国新能源车能领跑全球除了“换道”巧劲，更离不开“直道”上攒下的硬实力",
+      "link": "https://www.ithome.com/0/996/707.htm",
+      "time": "09-01 07:30",
+      "src": "IT之家"
+    },
+    {
       "title": "2026 年 8 月全球桌面浏览器排行：Chrome 73.28%、Edge 10.46%、Firefox 5.31%",
       "link": "https://www.ithome.com/0/996/687.htm",
       "time": "09-01 01:13",
@@ -1006,28 +1000,22 @@
       "src": "机核"
     },
     {
-      "title": "习近平会见俄罗斯总统普京",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-31/10687564.shtml",
-      "time": "08-31 22:46",
+      "title": "美防长被爆考虑参加2028年总统竞选 特朗普最新回应",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-01/10687586.shtml",
+      "time": "09-01 06:45",
       "src": "中新网"
     },
     {
-      "title": "新华图讯丨习近平会见俄罗斯总统普京",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-31/10687559.shtml",
-      "time": "08-31 22:32",
+      "title": "美媒：美国陆军部长向特朗普递交辞呈",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-01/10687584.shtml",
+      "time": "09-01 06:32",
       "src": "中新网"
     },
     {
-      "title": "特朗普称反对数据中心的社区将“落后且贫穷”",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1575792.htm",
-      "time": "09-01 03:08",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "ChatGPT被纳入“超大型在线服务”范畴 将面临欧盟更严格监管",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1575756.htm",
-      "time": "08-31 22:22",
-      "src": "cnBeta.COM"
+      "title": "法国总统马克龙访问瑞典 推进法瑞军事合作",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-01/10687582.shtml",
+      "time": "09-01 06:29",
+      "src": "中新网"
     }
   ],
   "econ_news": [
@@ -1050,18 +1038,6 @@
       "src": "IT之家"
     },
     {
-      "title": "工业巨头卡特彼勒将 AI 推向真实作业现场，未来五年投入 1 亿美元培训员工",
-      "link": "https://www.ithome.com/0/996/633.htm",
-      "time": "08-31 19:16",
-      "src": "IT之家"
-    },
-    {
-      "title": "2026 年 8 月国产 / 进口游戏版号出炉",
-      "link": "https://www.ithome.com/0/996/630.htm",
-      "time": "08-31 19:15",
-      "src": "IT之家"
-    },
-    {
       "title": "佐治亚州两名女子因诈骗亚马逊近1000万美元获刑16年",
       "link": "https://www.cnbeta.com.tw/articles/tech/1575780.htm",
       "time": "09-01 01:11",
@@ -1078,9 +1054,33 @@
       "link": "https://www.cnbeta.com.tw/articles/tech/1575760.htm",
       "time": "08-31 22:39",
       "src": "cnBeta.COM"
+    },
+    {
+      "title": "ChatGPT广告业务年化营收破10亿美元 OpenAI再添变现引擎",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1575750.htm",
+      "time": "08-31 22:19",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "英国央行行长向G20集团发出警告：AI可能引发全球经济衰退",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1575744.htm",
+      "time": "08-31 21:01",
+      "src": "cnBeta.COM"
     }
   ],
   "game_news": [
+    {
+      "title": "Steam PvE 生存建造节开启：《幻兽帕鲁》七折 75.6 元、《雾锁王国》新史低，持续至 9 月 8 日",
+      "link": "https://www.ithome.com/0/996/688.htm",
+      "time": "09-01 01:20",
+      "src": "IT之家"
+    },
+    {
+      "title": "微软更新 Win11 26H1 预览版 28020.2818/28120.2824：升级 WinRE 联网，修复壁纸变黑 Bug 等",
+      "link": "https://www.ithome.com/0/996/695.htm",
+      "time": "09-01 05:01",
+      "src": "IT之家"
+    },
     {
       "title": "七彩虹 iGame X870E VULCAN W OC 主板发售：超频旗舰，3999 元",
       "link": "https://www.ithome.com/0/996/683.htm",
@@ -1115,18 +1115,6 @@
       "title": "索尼 PlayStation 官宣 State of Play 游戏发布会定档 9 月 3 日",
       "link": "https://www.ithome.com/0/996/647.htm",
       "time": "08-31 20:42",
-      "src": "IT之家"
-    },
-    {
-      "title": "聚焦 PTCG 卡牌游戏：宝可梦近年首部动画长片电影《Pokémon: Wild Card》确认",
-      "link": "https://www.ithome.com/0/996/639.htm",
-      "time": "08-31 19:51",
-      "src": "IT之家"
-    },
-    {
-      "title": "2026 年 8 月国产 / 进口游戏版号出炉",
-      "link": "https://www.ithome.com/0/996/630.htm",
-      "time": "08-31 19:15",
       "src": "IT之家"
     }
   ],
@@ -1196,10 +1184,34 @@
       "src": "ISW"
     },
     {
-      "title": "甘肃肃北边境消防队的“戍边感言”",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-31/10687522.shtml",
-      "time": "08-31 22:25",
+      "title": "法国总统马克龙访问瑞典 推进法瑞军事合作",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-01/10687582.shtml",
+      "time": "09-01 06:29",
       "src": "中新网"
+    },
+    {
+      "title": "中国男篮险胜黎巴嫩队 世预赛第二阶段收获两连胜",
+      "link": "https://www.chinanews.com.cn/ty/2026/09-01/10687581.shtml",
+      "time": "09-01 06:27",
+      "src": "中新网"
+    },
+    {
+      "title": "五角大楼推出军用版ChatGPT和Grok 覆盖约300万名军政人员",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1575800.htm",
+      "time": "09-01 06:04",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "霍尔木兹海峡：美国军事金融双施压逼伊朗重回谈判桌",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260831-%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1-%E7%BE%8E%E5%9B%BD%E5%86%9B%E4%BA%8B%E9%87%91%E8%9E%8D%E5%8F%8C%E6%96%BD%E5%8E%8B%E9%80%BC%E4%BC%8A%E6%9C%97%E9%87%8D%E5%9B%9E%E8%B0%88%E5%88%A4%E6%A1%8C",
+      "time": "09-01 04:24",
+      "src": "法广RFI"
+    },
+    {
+      "title": "伊朗因2026年抗议活动判处两名女性死刑",
+      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260831-%E4%BC%8A%E6%9C%97%E5%9B%A02026%E5%B9%B4%E6%8A%97%E8%AE%AE%E6%B4%BB%E5%8A%A8%E5%88%A4%E5%A4%84%E4%B8%A4%E5%90%8D%E5%A5%B3%E6%80%A7%E6%AD%BB%E5%88%91",
+      "time": "09-01 04:18",
+      "src": "© Wana News Ag"
     },
     {
       "title": "芬兰总统：王毅告诉我中方绝不会允许俄罗斯使用核武器",
@@ -1208,33 +1220,9 @@
       "src": "© 网络图片"
     },
     {
-      "title": "贝森特否认特朗普政府不愿就伊朗问题与中国对抗 称“所有选项都在桌上”",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260831-%E8%B4%9D%E6%A3%AE%E7%89%B9%E5%90%A6%E8%AE%A4%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E4%B8%8D%E6%84%BF%E5%B0%B1%E4%BC%8A%E6%9C%97%E9%97%AE%E9%A2%98%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%AF%B9%E6%8A%97-%E7%A7%B0-%E6%89%80%E6%9C%89%E9%80%89%E9%A1%B9%E9%83%BD%E5%9C%A8%E6%A1%8C%E4%B8%8A",
-      "time": "08-31 19:48",
-      "src": "© 路透社图片"
-    },
-    {
-      "title": "中国修订《国防动员法》加入平战快速转换 为台海冲突进行法律铺路？",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260831-%E4%B8%AD%E5%9B%BD%E4%BF%AE%E8%AE%A2-%E5%9B%BD%E9%98%B2%E5%8A%A8%E5%91%98%E6%B3%95-%E5%8A%A0%E5%85%A5%E5%B9%B3%E6%88%98%E5%BF%AB%E9%80%9F%E8%BD%AC%E6%8D%A2-%E4%B8%BA%E5%8F%B0%E6%B5%B7%E5%86%B2%E7%AA%81%E8%BF%9B%E8%A1%8C%E6%B3%95%E5%BE%8B%E9%93%BA%E8%B7%AF",
-      "time": "08-31 16:29",
-      "src": "© AP - Li Gang"
-    },
-    {
-      "title": "伊朗称美国必须重返谅解备忘录才能摆脱现在局面",
-      "link": "https://finance.sina.com.cn/world/2026-09-01/doc-iniqfzhf6975182.shtml",
-      "time": "09-01 02:51",
-      "src": "环球市场播报"
-    },
-    {
-      "title": "美伊约一个月来首次交火，布伦特原油突破90美元",
-      "link": "https://finance.sina.com.cn/world/2026-08-31/doc-iniqfqsq4983606.shtml",
-      "time": "08-31 22:59",
-      "src": "环球市场播报"
-    },
-    {
-      "title": "美国财长贝森特G20双线推进议程：化解美债担忧、推动伊朗经济施压",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqfqsm7160287.shtml",
-      "time": "08-31 22:46",
+      "title": "五角大楼向美国铝业在澳大利亚的镓项目提供融资",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqhmwe4749512.shtml",
+      "time": "09-01 07:37",
       "src": "环球市场播报"
     }
   ]
