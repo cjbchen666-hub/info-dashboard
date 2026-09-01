@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02 00:27",
+  "generated_at": "2026-09-02 04:55",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -239,10 +239,34 @@
         "src": "IT之家"
       },
       {
-        "title": "赖清德：台湾的半导体实力建立在民主与法治之上，正在世界各地形成新的产业连结",
-        "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260901-%E8%B5%96%E6%B8%85%E5%BE%B7-%E5%8F%B0%E6%B9%BE%E7%9A%84%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%AE%9E%E5%8A%9B%E5%BB%BA%E7%AB%8B%E5%9C%A8%E6%B0%91%E4%B8%BB%E4%B8%8E%E6%B3%95%E6%B2%BB%E4%B9%8B%E4%B8%8A%EF%BC%8C%E6%AD%A3%E5%9C%A8%E4%B8%96%E7%95%8C%E5%90%84%E5%9C%B0%E5%BD%A2%E6%88%90%E6%96%B0%E7%9A%84%E4%BA%A7%E4%B8%9A%E8%BF%9E%E7%BB%93",
-        "time": "09-01 16:16",
-        "src": "REUTERS - Ann "
+        "title": "9月2日美股收盘：道指跌逾400点，油价突破90美元，美联储加息概率升至68%",
+        "link": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkkpn8079520.shtml",
+        "time": "09-02 04:30",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "美国公布贝森特与植田和男会谈纪录 美方暗示支持央行出手撑日元",
+        "link": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkkpk1404563.shtml",
+        "time": "09-02 04:07",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "欧洲央行管委：核心通胀放缓是好消息",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkefk4667611.shtml",
+        "time": "09-02 01:07",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "全球债券收益率升至2008年来最高 对美联储升息的预期增强",
+        "link": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkkph4635296.shtml",
+        "time": "09-02 01:00",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "美敦力上调业绩展望，逾7亿美元布局心脏技术与外科机器人",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkefq8143640.shtml",
+        "time": "09-02 00:56",
+        "src": "环球市场播报"
       },
       {
         "title": "派珀‑桑德勒上调阿卡迈评级，算力业务增长有望提速",
@@ -254,30 +278,6 @@
         "title": "欧洲央行管委：9月加息一次恐怕还不够",
         "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqixxs3416895.shtml",
         "time": "09-01 23:20",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "道明证券：美财政部加码长债回购料使10年期期限溢价下降约5个基点",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqixxs3415071.shtml",
-        "time": "09-01 23:14",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "美联储理事巴尔：若通胀不降温，将支持加息",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqixxs8239012.shtml",
-        "time": "09-01 23:04",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "美联储理事巴尔：若通胀未见缓和，将支持加息",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqitru8342314.shtml",
-        "time": "09-01 21:55",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "奥特曼在儿童聊天机器人法案过关前致电加州州长，议会已通过、待签署",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqitru8339828.shtml",
-        "time": "09-01 21:50",
         "src": "环球市场播报"
       }
     ]
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 52825.46,
-      "pct": -0.68,
-      "chg": -360.44,
-      "amount": "934398585亿"
+      "price": 52766.88,
+      "pct": -0.79,
+      "chg": -419.02,
+      "amount": "2135114786亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26150.39,
-      "pct": -0.84,
-      "chg": -220.5,
-      "amount": "7849261636亿"
+      "price": 26099.77,
+      "pct": -1.03,
+      "chg": -271.12,
+      "amount": "14985501548亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7640.49,
-      "pct": -0.59,
-      "chg": -45.65,
-      "amount": "799261479亿"
+      "price": 7631.47,
+      "pct": -0.71,
+      "chg": -54.67,
+      "amount": "2092764047亿"
     }
   ],
   "anime": {
@@ -384,15 +384,6 @@
         "rank": null
       },
       {
-        "id": 500458,
-        "name": "胶囊计划·奇迹",
-        "name_cn": "胶囊计划 奇迹",
-        "score": 5.9,
-        "img": "http://lain.bgm.tv/pic/cover/c/f5/23/500458_jXNh1.jpg",
-        "air_date": "2026-07-08",
-        "rank": null
-      },
-      {
         "id": 637124,
         "name": "花ざかりの君たちへ 第2期",
         "name_cn": "花样少年少女 第二季",
@@ -408,6 +399,15 @@
         "score": 5.8,
         "img": "http://lain.bgm.tv/pic/cover/c/48/4a/481295_Z8c8P.jpg",
         "air_date": "2026-07-01",
+        "rank": null
+      },
+      {
+        "id": 500458,
+        "name": "胶囊计划·奇迹",
+        "name_cn": "胶囊计划 奇迹",
+        "score": 5.8,
+        "img": "http://lain.bgm.tv/pic/cover/c/f5/23/500458_jXNh1.jpg",
+        "air_date": "2026-07-08",
         "rank": null
       },
       {
@@ -580,37 +580,37 @@
     "hf": [
       {
         "id": "Qwen/Qwen3.8-Flash-Next",
-        "likes": 4609,
+        "likes": 4627,
         "downloads": 207941,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "zai-org/GLM-5.3-Flash",
-        "likes": 1860,
+        "likes": 1871,
         "downloads": 441348,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "zai-org/GLM-5.3",
-        "likes": 1460,
+        "likes": 1465,
         "downloads": 94403,
         "pipeline": "text-generation"
       },
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 13548,
+        "likes": 13571,
         "downloads": 4960483,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
-        "likes": 660,
+        "likes": 665,
         "downloads": 431339,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-        "likes": 432,
+        "likes": 443,
         "downloads": 17893,
         "pipeline": "image-text-to-text"
       }
@@ -832,6 +832,12 @@
       "src": "IT之家"
     },
     {
+      "title": "三星公布新一代内存路线图：HBM5性能目标翻倍 zHBM最高提升八倍",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1575972.htm",
+      "time": "09-02 03:32",
+      "src": "cnBeta.COM"
+    },
+    {
       "title": "英伟达据报重启“Rubin CPX”AI加速器项目 改用168GB HBM4内存",
       "link": "https://www.cnbeta.com.tw/articles/tech/1575942.htm",
       "time": "09-01 21:18",
@@ -847,12 +853,6 @@
       "title": "NVIDIA GPU帧插值功能正式加入FFmpeg 可将视频帧率提升一倍",
       "link": "https://www.cnbeta.com.tw/articles/tech/1575902.htm",
       "time": "09-01 16:30",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "诈骗新套路：网购RTX 5080赠品先到 承诺显卡7天后发",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1575886.htm",
-      "time": "09-01 13:09",
       "src": "cnBeta.COM"
     }
   ],
@@ -1084,10 +1084,16 @@
       "src": "IT之家"
     },
     {
-      "title": "现代汽车 8 月全球销量 288574 辆同比下降 14.2%，韩国销量暴跌 41.1%",
-      "link": "https://www.ithome.com/0/997/127.htm",
-      "time": "09-01 19:33",
-      "src": "IT之家"
+      "title": "习近平抵达埃及开罗国际机场发表书面讲话",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-02/10688354.shtml",
+      "time": "09-02 01:27",
+      "src": "中新网"
+    },
+    {
+      "title": "外媒关注2026年上合组织峰会：凸显“上海精神”持久意义",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-02/10688352.shtml",
+      "time": "09-02 01:17",
+      "src": "中新网"
     },
     {
       "title": "英国加速警务改革打击性暴力犯罪",
@@ -1100,15 +1106,15 @@
       "link": "https://www.cnbeta.com.tw/articles/tech/1575906.htm",
       "time": "09-01 16:37",
       "src": "cnBeta.COM"
-    },
-    {
-      "title": "最没意义的显卡 外媒怒批RTX 5080性价比太低",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1575874.htm",
-      "time": "09-01 13:04",
-      "src": "cnBeta.COM"
     }
   ],
   "econ_news": [
+    {
+      "title": "戴尔 2027 财年半年报归母净利润 75.71 亿美元，同比增长 256%",
+      "link": "https://www.ithome.com/0/997/191.htm",
+      "time": "09-02 04:15",
+      "src": "IT之家"
+    },
     {
       "title": "马斯克：预计 AI 将令全球经济规模增加约 20%-30%",
       "link": "https://www.ithome.com/0/997/186.htm",
@@ -1120,12 +1126,6 @@
       "link": "https://www.ithome.com/0/997/185.htm",
       "time": "09-01 23:25",
       "src": "IT之家"
-    },
-    {
-      "title": "开局起步“十五五”：海口发力现代服务业与开放型经济",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-01/10688314.shtml",
-      "time": "09-01 22:36",
-      "src": "中新网"
     },
     {
       "title": "GoPro将以2.85亿美元被收购 股东保留合并后公司约10%股份",
@@ -1224,6 +1224,13 @@
       "type": "不停机更新"
     },
     {
+      "title": "Anthropic将推出人工智能模型Fable新版本 收费更便宜而编程能力更强",
+      "link": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkkpk1423231.shtml",
+      "time": "09-02 04:45",
+      "src": "环球市场播报",
+      "type": "不停机更新"
+    },
+    {
       "title": "《PUBG》42.3版本 PC 8/12 维护(08:00-16:30): 时隔两年新增轻机枪 RPD, 轻机枪换弹-25%/后坐力调整, 主流玩法轮换开启",
       "link": "https://new.qq.com/rain/a/20260811A06SHD00",
       "time": "8-12",
@@ -1257,13 +1264,6 @@
       "time": "8-06",
       "type": "不停机更新",
       "src": "腾讯官方"
-    },
-    {
-      "title": "《龙族幻想》8/13 凌晨3:00-08:00 停机版本更新: 卡塞尔之辉规则调整/极道巅峰优化, 维护后发放更新奖励",
-      "link": "https://dna.qq.com/webplat/info/news_version3/37362/61695/61696/m22835/202608/989696.shtml",
-      "time": "8-13",
-      "type": "停机维护",
-      "src": "腾讯官方"
     }
   ],
   "mil_news": [
@@ -1274,16 +1274,28 @@
       "src": "ISW"
     },
     {
-      "title": "美国陆军计划在本土军事基地部署20座核微型反应堆",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1575894.htm",
-      "time": "09-01 16:23",
-      "src": "cnBeta.COM"
-    },
-    {
       "title": "贝森特：在伊朗问题上与中方的共同点多于分歧，双方并就相关目标进行了私下探讨",
       "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260901-%E8%B4%9D%E6%A3%AE%E7%89%B9-%E5%9C%A8%E4%BC%8A%E6%9C%97%E9%97%AE%E9%A2%98%E4%B8%8A%E4%B8%8E%E4%B8%AD%E6%96%B9%E7%9A%84%E5%85%B1%E5%90%8C%E7%82%B9%E5%A4%9A%E4%BA%8E%E5%88%86%E6%AD%A7%EF%BC%8C%E5%8F%8C%E6%96%B9%E5%B9%B6%E5%B0%B1%E7%9B%B8%E5%85%B3%E7%9B%AE%E6%A0%87%E8%BF%9B%E8%A1%8C%E4%BA%86%E7%A7%81%E4%B8%8B%E6%8E%A2%E8%AE%A8",
       "time": "09-01 23:41",
       "src": "© 路透社图片"
+    },
+    {
+      "title": "伊攻击中东地区的美国目标后    美军再次还击",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260901-%E4%BC%8A%E6%94%BB%E5%87%BB%E4%B8%AD%E4%B8%9C%E5%9C%B0%E5%8C%BA%E7%9A%84%E7%BE%8E%E5%9B%BD%E7%9B%AE%E6%A0%87%E5%90%8E-%E7%BE%8E%E5%86%9B%E5%86%8D%E6%AC%A1%E8%BF%98%E5%87%BB",
+      "time": "09-02 04:42",
+      "src": "© The Associat"
+    },
+    {
+      "title": "伊朗呼吁其公民减少汽油消耗",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260901-%E4%BC%8A%E6%9C%97%E5%91%BC%E5%90%81%E5%85%B6%E5%85%AC%E6%B0%91%E5%87%8F%E5%B0%91%E6%B1%BD%E6%B2%B9%E6%B6%88%E8%80%97",
+      "time": "09-02 04:35",
+      "src": "© Qassem Al-Ka"
+    },
+    {
+      "title": "马克·吕特：北约将捍卫其成员国免受“任何威胁”",
+      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260901-%E9%A9%AC%E5%85%8B%C2%B7%E5%90%95%E7%89%B9-%E5%8C%97%E7%BA%A6%E5%B0%86%E6%8D%8D%E5%8D%AB%E5%85%B6%E6%88%90%E5%91%98%E5%9B%BD%E5%85%8D%E5%8F%97-%E4%BB%BB%E4%BD%95%E5%A8%81%E8%83%81",
+      "time": "09-02 00:50",
+      "src": "© Stoyan Nenov"
     },
     {
       "title": "尼泊尔冰岩崩搜救：当人无法进入时，无人机能做什么？",
@@ -1292,28 +1304,16 @@
       "src": "法广RFI"
     },
     {
-      "title": "中俄首脑会谈 日本官房长官对中俄联合军事行动深表担忧",
-      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260901-%E4%B8%AD%E4%BF%84%E9%A6%96%E8%84%91%E4%BC%9A%E8%B0%88-%E6%97%A5%E6%9C%AC%E5%AE%98%E6%88%BF%E9%95%BF%E5%AE%98%E5%AF%B9%E4%B8%AD%E4%BF%84%E8%81%94%E5%90%88%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E6%B7%B1%E8%A1%A8%E6%8B%85%E5%BF%A7",
-      "time": "09-01 18:41",
-      "src": "via REUTERS - "
+      "title": "上合組織25週年：中國舞台、伊朗考驗，還是「清談場所」？",
+      "link": "https://www.bbc.com/zhongwen/articles/c8d39n7m2g8o/trad?at_medium=RSS&at_campaign=rss",
+      "time": "09-01 22:11",
+      "src": "BBC中文"
     },
     {
-      "title": "芬兰总统称王毅告诉他中方不会允许俄罗斯使用核武器 中国外交部回应",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260901-%E8%8A%AC%E5%85%B0%E6%80%BB%E7%BB%9F%E7%A7%B0%E7%8E%8B%E6%AF%85%E5%91%8A%E8%AF%89%E4%BB%96%E4%B8%AD%E6%96%B9%E4%B8%8D%E4%BC%9A%E5%85%81%E8%AE%B8%E4%BF%84%E7%BD%97%E6%96%AF%E4%BD%BF%E7%94%A8%E6%A0%B8%E6%AD%A6%E5%99%A8-%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94",
-      "time": "09-01 17:53",
-      "src": "© 网络图片"
-    },
-    {
-      "title": "俄日再起争端：俄抗议美澳日军演，称日本部署美“堤丰”导弹“绝不可接受”",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260901-%E4%BF%84%E6%97%A5%E5%86%8D%E8%B5%B7%E4%BA%89%E7%AB%AF-%E4%BF%84%E6%8A%97%E8%AE%AE%E7%BE%8E%E6%BE%B3%E6%97%A5%E5%86%9B%E6%BC%94%EF%BC%8C%E7%A7%B0%E6%97%A5%E6%9C%AC%E9%83%A8%E7%BD%B2%E7%BE%8E-%E5%8F%B0%E9%A3%8E-%E5%AF%BC%E5%BC%B9-%E7%BB%9D%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97",
-      "time": "09-01 17:41",
-      "src": "© defence.gov."
-    },
-    {
-      "title": "涉嫌在北约从事间谍活动的加拿大华裔女子被拒绝保释",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260901-%E6%B6%89%E5%AB%8C%E5%9C%A8%E5%8C%97%E7%BA%A6%E4%BB%8E%E4%BA%8B%E9%97%B4%E8%B0%8D%E6%B4%BB%E5%8A%A8%E7%9A%84%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%8D%8E%E8%A3%94%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%8B%92%E7%BB%9D%E4%BF%9D%E9%87%8A",
-      "time": "09-01 18:20",
-      "src": "© 网络图片"
+      "title": "伊朗官媒称美军袭击造成两名平民死亡",
+      "link": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkkpn8068603.shtml",
+      "time": "09-02 03:54",
+      "src": "环球市场播报"
     }
   ]
 }
