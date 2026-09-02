@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03 00:25",
+  "generated_at": "2026-09-03 04:54",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -257,27 +257,27 @@
         "src": "cnBeta.COM"
       },
       {
-        "title": "宇树科技股价坐上“过山车”，人形机器人泡沫破了？",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1576056.htm",
-        "time": "09-02 15:00",
-        "src": "cnBeta.COM"
-      },
-      {
         "title": "美商务部长证实准备对半导体加征新关税：所有相关企业都知道即将到来",
         "link": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20260902-%E7%BE%8E%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF%E8%AF%81%E5%AE%9E%E5%87%86%E5%A4%87%E5%AF%B9%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%8A%A0%E5%BE%81%E6%96%B0%E5%85%B3%E7%A8%8E-%E6%89%80%E6%9C%89%E7%9B%B8%E5%85%B3%E4%BC%81%E4%B8%9A%E9%83%BD%E7%9F%A5%E9%81%93%E5%8D%B3%E5%B0%86%E5%88%B0%E6%9D%A5",
         "time": "09-02 22:33",
         "src": "© 法新社图片"
       },
       {
-        "title": "涉嫌欺诈发行！这家A股公司及相关高管被刑事追责",
-        "link": "https://finance.sina.com.cn/stock/s/2026-09-02/doc-iniqnaws7531105.shtml",
-        "time": "09-02 22:39",
-        "src": "中国证券网"
+        "title": "美联储褐皮书显示经济活动和缓增长 整体就业略有增加",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqnpnn7355353.shtml",
+        "time": "09-03 02:31",
+        "src": "环球市场播报"
       },
       {
-        "title": "卢特尼克：在美国建半导体厂免税，不建厂就额外交税",
-        "link": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqmwqu7619386.shtml",
-        "time": "09-02 20:59",
+        "title": "美国财长贝森特：长债回购旨在让银行业有更多空间购买高流动性债券",
+        "link": "https://finance.sina.com.cn/world/2026-09-03/doc-iniqnpnk1174338.shtml",
+        "time": "09-03 02:16",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "宏观视野：美国财政部俨然影子央行 谁在真正主导利率",
+        "link": "https://finance.sina.com.cn/world/2026-09-03/doc-iniqnieq2625685.shtml",
+        "time": "09-03 01:38",
         "src": "环球市场播报"
       }
     ]
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 52978.37,
-      "pct": 0.4,
-      "chg": 211.49,
-      "amount": "1014576652亿"
+      "price": 53061.95,
+      "pct": 0.56,
+      "chg": 295.07,
+      "amount": "2199039763亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26209.45,
-      "pct": 0.42,
-      "chg": 109.68,
-      "amount": "9094000961亿"
+      "price": 26217.83,
+      "pct": 0.45,
+      "chg": 118.06,
+      "amount": "17169446703亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7667.1,
-      "pct": 0.47,
-      "chg": 35.63,
-      "amount": "824662412亿"
+      "price": 7666.6,
+      "pct": 0.46,
+      "chg": 35.13,
+      "amount": "2085345127亿"
     }
   ],
   "anime": {
@@ -544,37 +544,37 @@
     "hf": [
       {
         "id": "zai-org/GLM-5.3",
-        "likes": 1496,
+        "likes": 1511,
         "downloads": 94403,
         "pipeline": "text-generation"
       },
       {
         "id": "zai-org/GLM-5.3-Flash",
-        "likes": 1936,
+        "likes": 1953,
         "downloads": 441348,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "Qwen/Qwen3.8-Flash-Next",
-        "likes": 4708,
+        "likes": 4725,
         "downloads": 207941,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 13662,
+        "likes": 13679,
         "downloads": 4960483,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-        "likes": 486,
+        "likes": 496,
         "downloads": 17893,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
-        "likes": 713,
+        "likes": 722,
         "downloads": 431339,
         "pipeline": "image-text-to-text"
       }
@@ -790,10 +790,10 @@
       "src": "IT之家"
     },
     {
-      "title": "宏碁推出 SFF RTX Spark 迷你主机，最高 128GB 内存",
-      "link": "https://www.ithome.com/0/997/643.htm",
-      "time": "09-02 19:44",
-      "src": "IT之家"
+      "title": "AMD RDNA 5 GPU IP首次现身 三星2纳米Exynos 2700 SoC搭载Xclipse 970",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1576116.htm",
+      "time": "09-03 00:26",
+      "src": "cnBeta.COM"
     },
     {
       "title": "Google被迫拆解退役服务器并重新利用回收的DDR4内存",
@@ -1074,6 +1074,18 @@
   ],
   "econ_news": [
     {
+      "title": "博通 2026 财年第三财季归母净利润 130.88 亿美元，同比增长 216%",
+      "link": "https://www.ithome.com/0/997/713.htm",
+      "time": "09-03 04:30",
+      "src": "IT之家"
+    },
+    {
+      "title": "慧与 2026 财年半年报归母净利润 25.29 亿美元",
+      "link": "https://www.ithome.com/0/997/712.htm",
+      "time": "09-03 04:11",
+      "src": "IT之家"
+    },
+    {
       "title": "沃兹尼亚克、乔布斯签名的苹果 Apple I 电脑，有望拍出 50 万美元高价",
       "link": "https://www.ithome.com/0/997/674.htm",
       "time": "09-02 22:09",
@@ -1108,18 +1120,6 @@
       "link": "https://www.chinanews.com.cn/gj/2026/09-02/10689150.shtml",
       "time": "09-02 22:49",
       "src": "中新网"
-    },
-    {
-      "title": "外交部副部长马朝旭会见美中贸易全国委员会董事会代表团",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-02/10689145.shtml",
-      "time": "09-02 22:40",
-      "src": "中新网"
-    },
-    {
-      "title": "车田正美疑被坑惨 起诉前经纪人索赔高达28.9亿日元",
-      "link": "https://www.cnbeta.com.tw/articles/comic/1576070.htm",
-      "time": "09-02 17:18",
-      "src": "cnBeta.COM"
     }
   ],
   "game_news": [
@@ -1160,15 +1160,15 @@
       "src": "IT之家"
     },
     {
-      "title": "宏碁推出 SFF RTX Spark 迷你主机，最高 128GB 内存",
-      "link": "https://www.ithome.com/0/997/643.htm",
-      "time": "09-02 19:44",
-      "src": "IT之家"
-    },
-    {
       "title": "WonderCores幕后秘辛，游戏地牢会，录音笔VOL.777",
       "link": "https://www.gcores.com/radios/219128",
       "time": "09-02 17:00",
+      "src": "机核"
+    },
+    {
+      "title": "复古美学 lo-fi 风格第一人称叙事探索游戏《永泉》将于11月发售",
+      "link": "https://www.gcores.com/articles/219136",
+      "time": "09-02 16:19",
       "src": "机核"
     }
   ],
@@ -1250,10 +1250,22 @@
       "src": "机核"
     },
     {
-      "title": "南海之滨的“上合回响” 海南自贸港拓宽互利共赢新空间",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-02/10689130.shtml",
-      "time": "09-02 22:24",
-      "src": "中新网"
+      "title": "19款热门Chrome扩展被黑客武器化 8万用户面临加密货币被盗风险",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1576132.htm",
+      "time": "09-03 03:13",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "彭博：美国固然削弱伊朗军力 但未能实现战略目标",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260902-%E5%BD%AD%E5%8D%9A-%E7%BE%8E%E5%9B%BD%E5%9B%BA%E7%84%B6%E5%89%8A%E5%BC%B1%E4%BC%8A%E6%9C%97%E5%86%9B%E5%8A%9B-%E4%BD%86%E6%9C%AA%E8%83%BD%E5%AE%9E%E7%8E%B0%E6%88%98%E7%95%A5%E7%9B%AE%E6%A0%87",
+      "time": "09-03 03:51",
+      "src": "法广RFI"
+    },
+    {
+      "title": "美伊新一轮战火蔓延波斯湾盟友军事基地和商业船只",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260902-%E7%BE%8E%E4%BC%8A%E6%96%B0%E4%B8%80%E8%BD%AE%E6%88%98%E7%81%AB%E8%94%93%E5%BB%B6%E6%B3%A2%E6%96%AF%E6%B9%BE%E7%9B%9F%E5%8F%8B%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0%E5%92%8C%E5%95%86%E4%B8%9A%E8%88%B9%E5%8F%AA",
+      "time": "09-03 03:30",
+      "src": "© Stringer / R"
     },
     {
       "title": "尼泊尔着手重建尼中边境预警系统 安装地震传感器、卫星系统等",
@@ -1262,21 +1274,9 @@
       "src": "© 路透社图片"
     },
     {
-      "title": "阿波罗全球管理：伊朗战争和关税料推动美国国债收益率上升",
-      "link": "https://finance.sina.com.cn/world/2026-09-03/doc-iniqnieq2597692.shtml",
-      "time": "09-03 00:01",
-      "src": "环球市场播报"
-    },
-    {
-      "title": "伊朗敦促地区国家阻止美国借其领土对伊朗发动袭击",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqnawq1298039.shtml",
-      "time": "09-02 22:00",
-      "src": "环球市场播报"
-    },
-    {
-      "title": "美国柴油价格飙升至4月以来最高，战争致全球供应紧张",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqmwqs1335435.shtml",
-      "time": "09-02 19:53",
+      "title": "特朗普称对伊朗打击不会持续太久 重申控制霍尔木兹海峡",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqntuk7235360.shtml",
+      "time": "09-03 04:04",
       "src": "环球市场播报"
     }
   ]
