@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04 00:15",
+  "generated_at": "2026-09-04 04:52",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -245,10 +245,28 @@
         "src": "cnBeta.COM"
       },
       {
-        "title": "英伟达市值超越标普500五大板块总和 相当于美国GDP的16.3%",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1576232.htm",
-        "time": "09-03 14:34",
-        "src": "cnBeta.COM"
+        "title": "美国债市：国债上涨 美联储理事沃勒的讲话打压了加息预期",
+        "link": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqqwth0931767.shtml",
+        "time": "09-04 04:17",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "美联储理事沃勒称如果通胀形势改善 倾向于维持利率不变",
+        "link": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqqwth0919739.shtml",
+        "time": "09-04 03:51",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "美联储理事沃勒释放支持按兵不动的信号 美债市场“松了口气”",
+        "link": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqqwth0914264.shtml",
+        "time": "09-04 02:00",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "欧洲股市上涨 市场对美联储加息押注降温",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqqsmk0961087.shtml",
+        "time": "09-04 00:46",
+        "src": "环球市场播报"
       },
       {
         "title": "美联储理事沃勒表示，将支持9月议息会议维持利率不变",
@@ -261,24 +279,6 @@
         "link": "https://finance.sina.com.cn/stock/s/2026-09-03/doc-iniqqnck4252529.shtml",
         "time": "09-03 22:49",
         "src": "市场资讯"
-      },
-      {
-        "title": "美联储沃勒释放支持不加息的信号之后，美债收益率出现下行",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqqncn1003681.shtml",
-        "time": "09-03 22:32",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "机构：美联储加息预期抬升，MBS迎来有利市场环境",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqqncq1856694.shtml",
-        "time": "09-03 22:20",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "美联储沃勒：8月通胀数据将主导利率决策 通胀超热则支持加息",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqqncq1855050.shtml",
-        "time": "09-03 22:17",
-        "src": "环球市场播报"
       }
     ]
   },
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 53644.86,
-      "pct": 1.1,
-      "chg": 582.91,
-      "amount": "904135532亿"
+      "price": 53686.11,
+      "pct": 1.18,
+      "chg": 624.16,
+      "amount": "2198910282亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26579.25,
-      "pct": 1.38,
-      "chg": 361.42,
-      "amount": "8874010845亿"
+      "price": 26584.06,
+      "pct": 1.4,
+      "chg": 366.23,
+      "amount": "17151467294亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7743.85,
-      "pct": 1.01,
-      "chg": 77.25,
-      "amount": "818249564亿"
+      "price": 7747.71,
+      "pct": 1.06,
+      "chg": 81.11,
+      "amount": "2088064344亿"
     }
   ],
   "anime": {
@@ -478,7 +478,7 @@
         "src": "IT之家"
       },
       {
-        "title": "ChatGPT、Grok、Claude、Cursor 集体突发故障",
+        "title": "（更新：已恢复正常）ChatGPT、Grok、Claude、Cursor 集体突发故障",
         "link": "https://www.ithome.com/0/998/195.htm",
         "time": "09-03 23:07",
         "src": "IT之家"
@@ -517,37 +517,37 @@
     "hf": [
       {
         "id": "zai-org/GLM-5.3",
-        "likes": 1578,
+        "likes": 1600,
         "downloads": 151021,
         "pipeline": "text-generation"
       },
       {
         "id": "Qwen/Qwen3.8-Flash-Next",
-        "likes": 4782,
+        "likes": 4793,
         "downloads": 263287,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "zai-org/GLM-5.3-Flash",
-        "likes": 2000,
+        "likes": 2008,
         "downloads": 517902,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 13785,
+        "likes": 13809,
         "downloads": 5254882,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-        "likes": 529,
+        "likes": 537,
         "downloads": 54571,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "tencent/Hy4-preview",
-        "likes": 410,
+        "likes": 411,
         "downloads": 4449,
         "pipeline": "text-generation"
       }
@@ -1217,22 +1217,22 @@
       "src": "ISW"
     },
     {
+      "title": "叙开始销毁阿萨德时代的化学武器",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260903-%E5%8F%99%E5%BC%80%E5%A7%8B%E9%94%80%E6%AF%81%E9%98%BF%E8%90%A8%E5%BE%B7%E6%97%B6%E4%BB%A3%E7%9A%84%E5%8C%96%E5%AD%A6%E6%AD%A6%E5%99%A8",
+      "time": "09-04 04:16",
+      "src": "© Jeenah Moon "
+    },
+    {
+      "title": "联合国呼吁伊朗撤回 \"反外国影响\"法案",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260903-%E8%81%94%E5%90%88%E5%9B%BD%E5%91%BC%E5%90%81%E4%BC%8A%E6%9C%97%E6%92%A4%E5%9B%9E-%E5%8F%8D%E5%A4%96%E5%9B%BD%E5%BD%B1%E5%93%8D-%E6%B3%95%E6%A1%88",
+      "time": "09-04 04:33",
+      "src": "AP Photo/Altaf"
+    },
+    {
       "title": "法学者：欧洲认为军事优势在于武器的精密性，中国则认为军事优势在于武器的数量！",
       "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260903-%E6%B3%95%E5%AD%A6%E8%80%85-%E6%AC%A7%E6%B4%B2%E8%AE%A4%E4%B8%BA%E5%86%9B%E4%BA%8B%E4%BC%98%E5%8A%BF%E5%9C%A8%E4%BA%8E%E6%AD%A6%E5%99%A8%E7%9A%84%E7%B2%BE%E5%AF%86%E6%80%A7%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%88%99%E8%AE%A4%E4%B8%BA%E5%86%9B%E4%BA%8B%E4%BC%98%E5%8A%BF%E5%9C%A8%E4%BA%8E%E6%AD%A6%E5%99%A8%E7%9A%84%E6%95%B0%E9%87%8F",
       "time": "09-03 22:00",
       "src": "AFP - GREG BAK"
-    },
-    {
-      "title": "美国对进口无人机及无人机零部件加征关税措施今起生效",
-      "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260903-%E7%BE%8E%E5%9B%BD%E5%AF%B9%E8%BF%9B%E5%8F%A3%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%8F%8A%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%9B%B6%E9%83%A8%E4%BB%B6%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E%E6%8E%AA%E6%96%BD%E4%BB%8A%E8%B5%B7%E7%94%9F%E6%95%88",
-      "time": "09-03 17:38",
-      "src": "© Ted Shaffrey"
-    },
-    {
-      "title": "彭博：美国固然削弱伊朗军力 但未能实现战略目标",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260902-%E5%BD%AD%E5%8D%9A-%E7%BE%8E%E5%9B%BD%E5%9B%BA%E7%84%B6%E5%89%8A%E5%BC%B1%E4%BC%8A%E6%9C%97%E5%86%9B%E5%8A%9B-%E4%BD%86%E6%9C%AA%E8%83%BD%E5%AE%9E%E7%8E%B0%E6%88%98%E7%95%A5%E7%9B%AE%E6%A0%87",
-      "time": "09-03 03:51",
-      "src": "法广RFI"
     },
     {
       "title": "美國航母「林肯號」航行250天終抵泰國，這是我們目前知道的情況",
@@ -1241,22 +1241,22 @@
       "src": "BBC中文"
     },
     {
-      "title": "卢特尼克承认误称伊朗战争无美军死亡：当时想的是委内瑞拉",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqqncn1068584.shtml",
-      "time": "09-04 00:06",
+      "title": "美国副总统万斯淡化伊朗冲突规模 称不会称其为战争",
+      "link": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqqwte4165732.shtml",
+      "time": "09-04 04:34",
       "src": "环球市场播报"
     },
     {
-      "title": "伊朗向科威特发射导弹，布伦特原油突破每桶96美元",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqqfvn4339886.shtml",
-      "time": "09-03 22:01",
+      "title": "原油：WTI小幅上涨 伊朗声称打击地区美军基地",
+      "link": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqqwte4159563.shtml",
+      "time": "09-04 04:18",
       "src": "环球市场播报"
     },
     {
-      "title": "集体拒签“最后通牒”，大批媒体撤离五角大楼",
-      "link": "https://news.sina.com.cn/w/2025-10-18/doc-infuhrzs7824610.shtml",
-      "time": "10-18 11:10",
-      "src": ""
+      "title": "美国副总统万斯：伊朗若不停止袭击商船 华盛顿政府不会与其谈判",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqqsmn1825076.shtml",
+      "time": "09-04 02:32",
+      "src": "环球市场播报"
     }
   ]
 }
