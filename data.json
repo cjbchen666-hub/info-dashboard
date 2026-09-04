@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05 04:39",
+  "generated_at": "2026-09-05 07:53",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,9 +233,9 @@
     ],
     "news": [
       {
-        "title": "消息称月之暗面最早今年年内赴港 IPO，剑指最高 50 亿美元融资",
-        "link": "https://www.ithome.com/0/998/580.htm",
-        "time": "09-04 19:49",
+        "title": "Anthropic IPO 推迟至中期选举前：最早 10 月中旬启动路演，目标估值 2 万亿美元",
+        "link": "https://www.ithome.com/0/998/630.htm",
+        "time": "09-05 06:52",
         "src": "IT之家"
       },
       {
@@ -251,6 +251,24 @@
         "src": "cnBeta.COM"
       },
       {
+        "title": "Bloom Energy、因美纳和爱惠浦将被纳入标普500指数",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtfyh5646095.shtml",
+        "time": "09-05 05:34",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "9月5日美股成交前20：美光计划年内大幅扩产HBM，英伟达拟向多个公司投资",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtfyh0811441.shtml",
+        "time": "09-05 04:51",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "9月5日外盘头条：特朗普称可能很快打击镐山 大众汽车力图重振美国业务 花旗推后预期的美联储降息时间",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtfya3833099.shtml",
+        "time": "09-05 03:47",
+        "src": "环球市场播报"
+      },
+      {
         "title": "花旗推后预期的美联储降息时间 目前认为2027年降息三次",
         "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqszse3953310.shtml",
         "time": "09-05 03:24",
@@ -260,24 +278,6 @@
         "title": "美联储官员哈马克：现在是时候采取行动降低通胀了",
         "link": "https://finance.sina.com.cn/world/2026-09-05/doc-iniqszsh0698077.shtml",
         "time": "09-05 02:26",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "非农虽为鹰派增添筹码 但美联储加息与否还得通胀报告拍板",
-        "link": "https://finance.sina.com.cn/world/2026-09-05/doc-iniqsvkk0778784.shtml",
-        "time": "09-05 00:45",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "特朗普突然向沃什发难 威胁美联储不降息就切断和对美顺差国的贸易",
-        "link": "https://finance.sina.com.cn/world/2026-09-05/doc-iniqsvkh3988311.shtml",
-        "time": "09-05 00:09",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "强劲就业数据推高美联储加息押注 比特币跌破8万美元",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsran0852018.shtml",
-        "time": "09-04 22:55",
         "src": "环球市场播报"
       }
     ]
@@ -305,7 +305,7 @@
       "price": 26506.99,
       "pct": -0.29,
       "chg": -77.07,
-      "amount": "14683642501亿"
+      "amount": "14855556114亿"
     },
     {
       "name": "标普500",
@@ -354,7 +354,7 @@
         "score": 7.5,
         "img": "http://lain.bgm.tv/pic/cover/c/01/88/899_REwVW.jpg",
         "air_date": "1996-01-08",
-        "rank": 898
+        "rank": 900
       },
       {
         "id": 570583,
@@ -363,7 +363,7 @@
         "score": 7.2,
         "img": "http://lain.bgm.tv/pic/cover/c/0c/cf/570583_d3QZD.jpg",
         "air_date": "2026-07-04",
-        "rank": 2010
+        "rank": 1987
       },
       {
         "id": 587109,
@@ -372,7 +372,7 @@
         "score": 6.8,
         "img": "http://lain.bgm.tv/pic/cover/c/59/84/587109_q1iCs.jpg",
         "air_date": "2026-07-11",
-        "rank": 3254
+        "rank": 3261
       },
       {
         "id": 538760,
@@ -381,7 +381,7 @@
         "score": 6.7,
         "img": "http://lain.bgm.tv/pic/cover/c/c5/16/538760_T0rxN.jpg",
         "air_date": "2026-07-04",
-        "rank": 3761
+        "rank": 3760
       },
       {
         "id": 549975,
@@ -390,7 +390,7 @@
         "score": 6.6,
         "img": "http://lain.bgm.tv/pic/cover/c/01/f8/549975_58HUD.jpg",
         "air_date": "2026-07-25",
-        "rank": 3610
+        "rank": 3611
       },
       {
         "id": 576780,
@@ -417,7 +417,7 @@
         "score": 5.9,
         "img": "http://lain.bgm.tv/pic/cover/c/bd/74/602733_X0NNo.jpg",
         "air_date": "2026-07-04",
-        "rank": 7722
+        "rank": 7723
       },
       {
         "id": 529723,
@@ -435,7 +435,7 @@
         "score": 5.7,
         "img": "http://lain.bgm.tv/pic/cover/c/cf/0b/530729_82Fm9.jpg",
         "air_date": "2026-07-04",
-        "rank": 8298
+        "rank": 8330
       },
       {
         "id": 542603,
@@ -444,7 +444,7 @@
         "score": 5.5,
         "img": "http://lain.bgm.tv/pic/cover/c/1b/75/542603_KZT1m.jpg",
         "air_date": "2026-07-04",
-        "rank": 8441
+        "rank": 8443
       },
       {
         "id": 631018,
@@ -453,7 +453,7 @@
         "score": 5.5,
         "img": "http://lain.bgm.tv/pic/cover/c/e9/a8/631018_i8egE.jpg",
         "air_date": "2026-07-04",
-        "rank": 6940
+        "rank": 6928
       },
       {
         "id": 589368,
@@ -480,7 +480,7 @@
         "score": 3.9,
         "img": "http://lain.bgm.tv/pic/cover/c/b9/ac/563745_YI26V.jpg",
         "air_date": "2026-07-04",
-        "rank": 10084
+        "rank": 10085
       },
       {
         "id": 665747,
@@ -498,7 +498,7 @@
         "score": 3.6,
         "img": "http://lain.bgm.tv/pic/cover/c/a7/0a/621843_5tN5J.jpg",
         "air_date": "2026-07-04",
-        "rank": 9637
+        "rank": 9638
       },
       {
         "id": 651872,
@@ -514,7 +514,7 @@
   "ukraine": {
     "title": "Russian Offensive Campaign Assessment",
     "summary": "ISW’s Russia and Ukraine team produces the maps and analysis of record of the war in Ukraine. The Russian Offensive Campaign Assessment provides a synthetic running intelligence estimate of Putin’s political and military objectives in Ukraine and the design, prosecution, and outcomes of Russia’s war effort. ISW has published this update daily since Russia’s full-scale invasion of Ukraine in February 2022. Each update includes an assessment of the latest battlefield changes at the operational and tactical levels of war as well as an updated strategic assessment and forecast of the war’s trajectory along with numer",
-    "map_url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-september-3-2026-at-130-pm-et/",
+    "map_url": "https://understandingwar.org/map/assessed-control-of-terrain-in-northern-kharkiv-oblast-september-4-2026-at-130-pm-et/",
     "url": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment",
     "links": [
       {
@@ -523,7 +523,7 @@
       },
       {
         "name": "ISW 官方地图页",
-        "url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-september-3-2026-at-130-pm-et/"
+        "url": "https://understandingwar.org/map/assessed-control-of-terrain-in-northern-kharkiv-oblast-september-4-2026-at-130-pm-et/"
       },
       {
         "name": "实时战线地图 Liveuamap",
@@ -538,90 +538,90 @@
   "ai": {
     "news_zh": [
       {
-        "title": "仅用两年时间，英伟达从零建起近千亿美元股权投资组合",
-        "link": "https://www.ithome.com/0/998/620.htm",
-        "time": "09-04 22:59",
+        "title": "谷歌最强音乐 AI Lyria 3.5 塞进 Gemini：一键生成 3 分钟完整歌曲",
+        "link": "https://www.ithome.com/0/998/647.htm",
+        "time": "09-05 07:53",
         "src": "IT之家"
       },
       {
-        "title": "广电总局召开 AI 微短剧“融像”“融声”座谈会，爱奇艺、红果等参会",
-        "link": "https://www.ithome.com/0/998/610.htm",
-        "time": "09-04 22:27",
+        "title": "消息称苹果计划明年上线全新“家庭安全监控服务”，将 AI 引入家庭安防",
+        "link": "https://www.ithome.com/0/998/642.htm",
+        "time": "09-05 07:31",
         "src": "IT之家"
       },
       {
-        "title": "微信开源通用多模态嵌入模型 WeMM-Embedding，已大规模部署在微信推荐与搜索系统中",
-        "link": "https://www.ithome.com/0/998/599.htm",
-        "time": "09-04 21:21",
+        "title": "匿名 AI 模型再现：又一 Alpha 上线 OpenCode，线索指向智谱",
+        "link": "https://www.ithome.com/0/998/641.htm",
+        "time": "09-05 07:30",
         "src": "IT之家"
       },
       {
-        "title": "麒麟 2026 芯片晶体管密度暴涨 55%，华为何庭波更新韬定律论文",
-        "link": "https://www.ithome.com/0/998/598.htm",
-        "time": "09-04 21:09",
+        "title": "Anthropic：Claude 仅用 11 天完成费马大定理首个完整计算机验证证明",
+        "link": "https://www.ithome.com/0/998/638.htm",
+        "time": "09-05 07:20",
         "src": "IT之家"
       },
       {
-        "title": "OpenAI 奥尔特曼：AI 若要赢得怀疑论者的支持，“能治愈癌症”还不够",
-        "link": "https://www.ithome.com/0/998/595.htm",
-        "time": "09-04 20:55",
+        "title": "策略游戏《人类 2》预告片被质疑“AI 生成”：开发商 Amplitude 发布幕后视频，证明由真人团队制作",
+        "link": "https://www.ithome.com/0/998/637.htm",
+        "time": "09-05 07:20",
         "src": "IT之家"
       },
       {
-        "title": "曝 OpenAI 智能体今年 5 月就已“失控”，曾主动劫持德国一网站",
-        "link": "https://www.ithome.com/0/998/593.htm",
-        "time": "09-04 20:41",
+        "title": "谷歌 Gemini Spark 新增 Google Photos 照片库管理能力，用户可通过自然语言编辑照片 / 整理相册",
+        "link": "https://www.ithome.com/0/998/635.htm",
+        "time": "09-05 07:14",
         "src": "IT之家"
       },
       {
-        "title": "问界：网传 M6 车型“预制车”铭牌系 P 图 / AI 修改生成，已就谣言报案",
-        "link": "https://www.ithome.com/0/998/592.htm",
-        "time": "09-04 20:34",
+        "title": "主打隐私保护：消息称苹果首款 AI 家用安防摄像头瞄准 2027 年发布",
+        "link": "https://www.ithome.com/0/998/631.htm",
+        "time": "09-05 06:58",
         "src": "IT之家"
       },
       {
-        "title": "仅为原价的 1.3-8%，Meta 为 Muse Spark AI 模型推出数据共享折扣计划",
-        "link": "https://www.ithome.com/0/998/591.htm",
-        "time": "09-04 20:31",
+        "title": "Anthropic IPO 推迟至中期选举前：最早 10 月中旬启动路演，目标估值 2 万亿美元",
+        "link": "https://www.ithome.com/0/998/630.htm",
+        "time": "09-05 06:52",
         "src": "IT之家"
       }
     ],
     "hf": [
       {
-        "id": "Qwen/Qwen3.8-Flash-Next",
-        "likes": 4865,
-        "downloads": 351374,
-        "pipeline": "image-text-to-text"
-      },
-      {
-        "id": "Qwen/Qwen3.8-27B",
-        "likes": 13935,
-        "downloads": 5739341,
-        "pipeline": "image-text-to-text"
-      },
-      {
         "id": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-        "likes": 588,
+        "likes": 594,
         "downloads": 133024,
         "pipeline": "image-text-to-text"
       },
       {
+        "id": "Qwen/Qwen3.8-27B",
+        "likes": 13942,
+        "downloads": 5739341,
+        "pipeline": "image-text-to-text"
+      },
+      {
+        "id": "Qwen/Qwen3.8-Flash-Next",
+        "likes": 4870,
+        "downloads": 351374,
+        "pipeline": "image-text-to-text"
+      },
+      {
         "id": "zai-org/GLM-5.3",
-        "likes": 1689,
+        "likes": 1695,
         "downloads": 303534,
         "pipeline": "text-generation"
       },
       {
         "id": "zai-org/GLM-5.3-Flash",
-        "likes": 2041,
+        "likes": 2043,
         "downloads": 654957,
         "pipeline": "image-text-to-text"
       },
       {
-        "id": "Lightricks/LTX-2.5",
-        "likes": 2765,
-        "downloads": 1399511,
-        "pipeline": "image-to-video"
+        "id": "google/timesfm-3.0-pytorch",
+        "likes": 423,
+        "downloads": 105304,
+        "pipeline": "time-series-forecasting"
       }
     ],
     "models": [
@@ -793,15 +793,15 @@
   ],
   "hw_news": [
     {
-      "title": "华硕 PG27UCWM 显示器发售：Tandem RGB OLED，UHD 240Hz 双模，7499 元",
-      "link": "https://www.ithome.com/0/998/583.htm",
-      "time": "09-04 19:59",
+      "title": "传音 MegaBook T15 360 系列笔记本发布：搭触控屏支持手写笔、至高搭载酷睿 Ultra 9 185H 处理器",
+      "link": "https://www.ithome.com/0/998/646.htm",
+      "time": "09-05 07:48",
       "src": "IT之家"
     },
     {
-      "title": "AMD 公布 Threadripper Halo Station 工作站，支持 T 级模型本地运行",
-      "link": "https://www.ithome.com/0/998/560.htm",
-      "time": "09-04 18:29",
+      "title": "AMD 锐龙 5 7500 处理器曝光，6 核 12 线程规格与 7500F 看齐",
+      "link": "https://www.ithome.com/0/998/645.htm",
+      "time": "09-05 07:46",
       "src": "IT之家"
     },
     {
@@ -1057,6 +1057,18 @@
   },
   "intl_news": [
     {
+      "title": "影响课堂地图到航海工具：联合国推动淘汰沿用 457 年的墨卡托投影法世界地图",
+      "link": "https://www.ithome.com/0/998/636.htm",
+      "time": "09-05 07:14",
+      "src": "IT之家"
+    },
+    {
+      "title": "Anthropic IPO 推迟至中期选举前：最早 10 月中旬启动路演，目标估值 2 万亿美元",
+      "link": "https://www.ithome.com/0/998/630.htm",
+      "time": "09-05 06:52",
+      "src": "IT之家"
+    },
+    {
       "title": "张雪机车 2026 WSBK 法国站排位赛包揽前二",
       "link": "https://www.ithome.com/0/998/619.htm",
       "time": "09-04 22:54",
@@ -1069,43 +1081,37 @@
       "src": "IT之家"
     },
     {
-      "title": "我国启动国际地月立方星座大科学计划，填补全球地月空间系统性观测空白",
-      "link": "https://www.ithome.com/0/998/561.htm",
-      "time": "09-04 18:32",
-      "src": "IT之家"
-    },
-    {
       "title": "白宫推出五款像素游戏，宣传驱逐移民等特朗普政策",
       "link": "https://www.gcores.com/articles/219251",
       "time": "09-04 19:44",
       "src": "机核"
     },
     {
-      "title": "2026年“一带一路”脑健康与脑器交互科技国际会议在成都开幕",
-      "link": "https://www.chinanews.com.cn/sh/2026/09-04/10690738.shtml",
-      "time": "09-04 22:58",
+      "title": "英国建筑业持续收缩拖累经济复苏",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-05/10690753.shtml",
+      "time": "09-05 07:27",
       "src": "中新网"
     },
     {
-      "title": "“张雪机车”德比斯法国站夺杆位 队友排第二",
-      "link": "https://www.chinanews.com.cn/ty/2026/09-04/10690732.shtml",
-      "time": "09-04 22:53",
+      "title": "2026年柏林国际消费电子展开幕",
+      "link": "https://www.chinanews.com.cn/cj/2026/09-05/10690751.shtml",
+      "time": "09-05 07:27",
       "src": "中新网"
     },
     {
-      "title": "白宫推出“MAGA”主题复古网页游戏引发知识产权侵权质疑",
-      "link": "https://www.cnbeta.com.tw/articles/game/1576502.htm",
-      "time": "09-05 03:49",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "北方华创公布3D DRAM两步刻蚀突破性进展 或助长鑫存储绕过EUV制裁",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1576492.htm",
-      "time": "09-05 03:20",
-      "src": "cnBeta.COM"
+      "title": "特朗普：美特使将向俄罗斯提交结束俄乌冲突的方案",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-05/10690747.shtml",
+      "time": "09-05 06:45",
+      "src": "中新网"
     }
   ],
   "econ_news": [
+    {
+      "title": "Anthropic IPO 推迟至中期选举前：最早 10 月中旬启动路演，目标估值 2 万亿美元",
+      "link": "https://www.ithome.com/0/998/630.htm",
+      "time": "09-05 06:52",
+      "src": "IT之家"
+    },
     {
       "title": "仅用两年时间，英伟达从零建起近千亿美元股权投资组合",
       "link": "https://www.ithome.com/0/998/620.htm",
@@ -1113,10 +1119,22 @@
       "src": "IT之家"
     },
     {
-      "title": "消息称月之暗面最早今年年内赴港 IPO，剑指最高 50 亿美元融资",
-      "link": "https://www.ithome.com/0/998/580.htm",
-      "time": "09-04 19:49",
-      "src": "IT之家"
+      "title": "美国8月非农就业增加16.2万 失业率4.1%",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-05/10690752.shtml",
+      "time": "09-05 07:28",
+      "src": "中新网"
+    },
+    {
+      "title": "英国建筑业持续收缩拖累经济复苏",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-05/10690753.shtml",
+      "time": "09-05 07:27",
+      "src": "中新网"
+    },
+    {
+      "title": "2026年柏林国际消费电子展开幕",
+      "link": "https://www.chinanews.com.cn/cj/2026/09-05/10690751.shtml",
+      "time": "09-05 07:27",
+      "src": "中新网"
     },
     {
       "title": "广东数字化赋能就业服务 打通求职服务“最后一公里”",
@@ -1125,37 +1143,43 @@
       "src": "中新网"
     },
     {
+      "title": "“以热制冷”的固态冷却系统问世 工业废热与阳光可直接化为冷气",
+      "link": "https://www.cnbeta.com.tw/articles/science/1576508.htm",
+      "time": "09-05 06:29",
+      "src": "cnBeta.COM"
+    },
+    {
       "title": "特朗普要求美联储大幅降息 否则将终止与对美贸易顺差国的贸易往来",
       "link": "https://www.cnbeta.com.tw/articles/tech/1576476.htm",
       "time": "09-04 22:55",
       "src": "cnBeta.COM"
-    },
-    {
-      "title": "美财长促G20检视对中贸易条件　19国挺处理“廉价出口”中国成唯一异议者",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%BE%8E%E5%9B%BD%E4%B8%93%E6%A0%8F/20260904-%E7%BE%8E%E8%B4%A2%E9%95%BF%E4%BF%83g20%E6%A3%80%E8%A7%86%E5%AF%B9%E4%B8%AD%E8%B4%B8%E6%98%93%E6%9D%A1%E4%BB%B6-19%E5%9B%BD%E6%8C%BA%E5%A4%84%E7%90%86-%E5%BB%89%E4%BB%B7%E5%87%BA%E5%8F%A3-%E4%B8%AD%E5%9B%BD%E6%88%90%E5%94%AF%E4%B8%80%E5%BC%82%E8%AE%AE%E8%80%85",
-      "time": "09-04 20:12",
-      "src": "法广RFI"
-    },
-    {
-      "title": "不管官方统计怎么说，中国的就业问题是实实在在的",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20260903-%E4%B8%8D%E7%AE%A1%E5%AE%98%E6%96%B9%E7%BB%9F%E8%AE%A1%E6%80%8E%E4%B9%88%E8%AF%B4%EF%BC%8C%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%B0%B1%E4%B8%9A%E9%97%AE%E9%A2%98%E6%98%AF%E5%AE%9E%E5%AE%9E%E5%9C%A8%E5%9C%A8%E7%9A%84",
-      "time": "09-04 07:46",
-      "src": "法广RFI"
-    },
-    {
-      "title": "原油：油价企稳 市场在美国长周末前交投清淡",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtfya3852296.shtml",
-      "time": "09-05 04:32",
-      "src": "环球市场播报"
-    },
-    {
-      "title": "9月5日美股收盘：三大指数全线收跌，就业数据公布后美债收益率上行",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtfyh5631672.shtml",
-      "time": "09-05 04:25",
-      "src": "环球市场播报"
     }
   ],
   "game_news": [
+    {
+      "title": "10 年了还在更：Hello Games 预热《无人深空》游戏十周年纪念神秘更新“Cosmos”即将上线",
+      "link": "https://www.ithome.com/0/998/640.htm",
+      "time": "09-05 07:27",
+      "src": "IT之家"
+    },
+    {
+      "title": "策略游戏《人类 2》预告片被质疑“AI 生成”：开发商 Amplitude 发布幕后视频，证明由真人团队制作",
+      "link": "https://www.ithome.com/0/998/637.htm",
+      "time": "09-05 07:20",
+      "src": "IT之家"
+    },
+    {
+      "title": "苹果加码游戏生态，macOS 26.7 RC 曝光 2 款自研游戏手柄",
+      "link": "https://www.ithome.com/0/998/628.htm",
+      "time": "09-05 06:48",
+      "src": "IT之家"
+    },
+    {
+      "title": "微软公布 Zenith 计划，面向专业开发者打造“开箱即用”Win11 PC",
+      "link": "https://www.ithome.com/0/998/625.htm",
+      "time": "09-05 06:38",
+      "src": "IT之家"
+    },
     {
       "title": "微软推出 Project Zenith，为 Win11 开发者提供开箱即用开发环境",
       "link": "https://www.ithome.com/0/998/611.htm",
@@ -1175,30 +1199,6 @@
       "src": "IT之家"
     },
     {
-      "title": "《GTA 6》要在迈阿密开展大规模营销？当地警长、专员公开反对",
-      "link": "https://www.ithome.com/0/998/587.htm",
-      "time": "09-04 20:21",
-      "src": "IT之家"
-    },
-    {
-      "title": "2026 科隆游戏展多家独立开发商设备失窃，主办方连发两次声明回应",
-      "link": "https://www.ithome.com/0/998/585.htm",
-      "time": "09-04 20:08",
-      "src": "IT之家"
-    },
-    {
-      "title": "华硕 PG27UCWM 显示器发售：Tandem RGB OLED，UHD 240Hz 双模，7499 元",
-      "link": "https://www.ithome.com/0/998/583.htm",
-      "time": "09-04 19:59",
-      "src": "IT之家"
-    },
-    {
-      "title": "《最终幻想 7：启示录》将提供实体版，但玩家还要额外下载数据",
-      "link": "https://www.ithome.com/0/998/579.htm",
-      "time": "09-04 19:38",
-      "src": "IT之家"
-    },
-    {
       "title": "回归回合制，旧瓶装新酒：《最终幻想：共鸣》试玩报告",
       "link": "https://www.gcores.com/articles/219247",
       "time": "09-04 23:43",
@@ -1206,13 +1206,6 @@
     }
   ],
   "game_update": [
-    {
-      "title": "《王者荣耀》高校认证被高价倒卖 腾讯客服：相关功能暂时下线",
-      "link": "https://www.cnbeta.com.tw/articles/game/1576426.htm",
-      "time": "09-04 14:50",
-      "src": "cnBeta.COM",
-      "type": "不停机更新"
-    },
     {
       "title": "《PUBG》42.3版本 PC 8/12 维护(08:00-16:30): 时隔两年新增轻机枪 RPD, 轻机枪换弹-25%/后坐力调整, 主流玩法轮换开启",
       "link": "https://new.qq.com/rain/a/20260811A06SHD00",
@@ -1261,6 +1254,13 @@
       "time": "8-05",
       "type": "停机维护",
       "src": "腾讯官方"
+    },
+    {
+      "title": "《大话西游》手游 8/13 每周例行停机维护(8:00-10:00): 新神兽广陵+小西天副本上线, 周星驰合作宣传片8/15公开",
+      "link": "https://dhxy.163.com/news/update/20260812/19975_1310915.html",
+      "time": "8-13",
+      "type": "停机维护",
+      "src": "网易官网"
     }
   ],
   "mil_news": [
@@ -1269,6 +1269,18 @@
       "link": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment",
       "time": "ISW每日评估",
       "src": "ISW"
+    },
+    {
+      "title": "特朗普：美特使将向俄罗斯提交结束俄乌冲突的方案",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-05/10690747.shtml",
+      "time": "09-05 06:45",
+      "src": "中新网"
+    },
+    {
+      "title": "美总统称可能很快会打击伊朗“镐山”核设施",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-05/10690746.shtml",
+      "time": "09-05 06:42",
+      "src": "中新网"
     },
     {
       "title": "英国军方测试脚踏式动力滑翔伞 探索隐蔽投送部队的新方式",
@@ -1283,34 +1295,22 @@
       "src": "cnBeta.COM"
     },
     {
-      "title": "中国将尼泊尔边境樟木口岸过境点迁址",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260904-%E4%B8%AD%E5%9B%BD%E5%B0%86%E5%B0%BC%E6%B3%8A%E5%B0%94%E8%BE%B9%E5%A2%83%E6%A8%9F%E6%9C%A8%E5%8F%A3%E5%B2%B8%E8%BF%87%E5%A2%83%E7%82%B9%E8%BF%81%E5%9D%80",
-      "time": "09-04 23:02",
-      "src": "© 谷歌地图"
+      "title": "特朗普派特使赴莫斯科和基辅 推动结束俄乌战争方案",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260904-%E7%89%B9%E6%9C%97%E6%99%AE%E6%B4%BE%E7%89%B9%E4%BD%BF%E8%B5%B4%E8%8E%AB%E6%96%AF%E7%A7%91%E5%92%8C%E5%9F%BA%E8%BE%85-%E6%8E%A8%E5%8A%A8%E7%BB%93%E6%9D%9F%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%89%E6%96%B9%E6%A1%88",
+      "time": "09-05 05:42",
+      "src": "REUTERS - Evel"
     },
     {
-      "title": "万斯称与伊朗的冲突不算“战争”：中期选举前，特朗普政府如何重塑伊朗战争叙事？",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260904-%E4%B8%87%E6%96%AF%E7%A7%B0%E4%B8%8E%E4%BC%8A%E6%9C%97%E7%9A%84%E5%86%B2%E7%AA%81%E4%B8%8D%E7%AE%97-%E6%88%98%E4%BA%89-%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%89%8D%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E5%8F%99%E4%BA%8B",
-      "time": "09-04 20:11",
-      "src": "法广RFI"
+      "title": "俄无人机袭击乌克兰安全局总部 基辅称局长办公室成为目标",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260904-%E4%BF%84%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A2%AD%E5%87%BB%E4%B9%8C%E5%85%8B%E5%85%B0%E5%AE%89%E5%85%A8%E5%B1%80%E6%80%BB%E9%83%A8-%E5%9F%BA%E8%BE%85%E7%A7%B0%E5%B1%80%E9%95%BF%E5%8A%9E%E5%85%AC%E5%AE%A4%E6%88%90%E4%B8%BA%E7%9B%AE%E6%A0%87",
+      "time": "09-05 05:45",
+      "src": "REUTERS - Alin"
     },
     {
-      "title": "瑙鲁反对 太平洋岛国论坛峰会未对中国导弹试验达成一致谴责",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260904-%E7%91%99%E9%B2%81%E5%8F%8D%E5%AF%B9-%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%B2%9B%E5%9B%BD%E8%AE%BA%E5%9D%9B%E5%B3%B0%E4%BC%9A%E6%9C%AA%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%AF%BC%E5%BC%B9%E8%AF%95%E9%AA%8C%E8%BE%BE%E6%88%90%E4%B8%80%E8%87%B4%E8%B0%B4%E8%B4%A3",
-      "time": "09-04 17:27",
-      "src": "© AP Photo/Cha"
-    },
-    {
-      "title": "俄罗斯：一名人道工作者因批评俄军被起诉",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260903-%E4%BF%84%E7%BD%97%E6%96%AF-%E4%B8%80%E5%90%8D%E4%BA%BA%E9%81%93%E5%B7%A5%E4%BD%9C%E8%80%85%E5%9B%A0%E6%89%B9%E8%AF%84%E4%BF%84%E5%86%9B%E8%A2%AB%E8%B5%B7%E8%AF%89",
-      "time": "09-04 05:54",
-      "src": "© Скриншот ава"
-    },
-    {
-      "title": "美國航母「林肯號」航行250天終抵泰國，這是我們目前知道的情況",
-      "link": "https://www.bbc.com/zhongwen/articles/cwyzg4en4k3o/trad?at_medium=RSS&at_campaign=rss",
-      "time": "09-03 14:01",
-      "src": "BBC中文"
+      "title": "联合国粮农组织：干旱与战争推升8月食品价格",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260904-%E8%81%94%E5%90%88%E5%9B%BD%E7%B2%AE%E5%86%9C%E7%BB%84%E7%BB%87-%E5%B9%B2%E6%97%B1%E4%B8%8E%E6%88%98%E4%BA%89%E6%8E%A8%E5%8D%878%E6%9C%88%E9%A3%9F%E5%93%81%E4%BB%B7%E6%A0%BC",
+      "time": "09-05 05:48",
+      "src": "REUTERS - Bern"
     }
   ]
 }
