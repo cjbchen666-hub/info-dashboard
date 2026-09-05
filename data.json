@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06 02:05",
+  "generated_at": "2026-09-06 06:00",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -406,7 +406,7 @@
         "name": "ONE PIECE HEROINES",
         "name_cn": "航海王 女英雄们的故事",
         "score": 6.2,
-        "img": "http://lain.bgm.tv/pic/cover/c/b1/dd/577191_c7zCc.jpg",
+        "img": "http://lain.bgm.tv/pic/cover/c/b1/dd/577191_5RoIl.jpg",
         "air_date": "2026-07-05",
         "rank": 6775
       },
@@ -505,7 +505,7 @@
   "ukraine": {
     "title": "Russian Offensive Campaign Assessment",
     "summary": "ISW’s Russia and Ukraine team produces the maps and analysis of record of the war in Ukraine. The Russian Offensive Campaign Assessment provides a synthetic running intelligence estimate of Putin’s political and military objectives in Ukraine and the design, prosecution, and outcomes of Russia’s war effort. ISW has published this update daily since Russia’s full-scale invasion of Ukraine in February 2022. Each update includes an assessment of the latest battlefield changes at the operational and tactical levels of war as well as an updated strategic assessment and forecast of the war’s trajectory along with numer",
-    "map_url": "https://understandingwar.org/map/assessed-control-of-terrain-in-northern-kharkiv-oblast-september-4-2026-at-130-pm-et/",
+    "map_url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-september-5-2026-at-130-pm-et/",
     "url": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment",
     "links": [
       {
@@ -514,7 +514,7 @@
       },
       {
         "name": "ISW 官方地图页",
-        "url": "https://understandingwar.org/map/assessed-control-of-terrain-in-northern-kharkiv-oblast-september-4-2026-at-130-pm-et/"
+        "url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-september-5-2026-at-130-pm-et/"
       },
       {
         "name": "实时战线地图 Liveuamap",
@@ -580,39 +580,39 @@
     "hf": [
       {
         "id": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-        "likes": 662,
+        "likes": 674,
         "downloads": 184542,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 14016,
+        "likes": 14033,
         "downloads": 6024467,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "Qwen/Qwen3.8-Flash-Next",
-        "likes": 4906,
+        "likes": 4913,
         "downloads": 401327,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "XHToken/Spark-X2.5-4B",
-        "likes": 522,
+        "likes": 534,
         "downloads": 4755,
         "pipeline": "text-generation"
       },
       {
-        "id": "zai-org/GLM-5.3-Flash",
-        "likes": 2076,
-        "downloads": 727610,
-        "pipeline": "image-text-to-text"
-      },
-      {
         "id": "google/timesfm-3.0-pytorch",
-        "likes": 446,
+        "likes": 453,
         "downloads": 123025,
         "pipeline": "time-series-forecasting"
+      },
+      {
+        "id": "zai-org/GLM-5.3-Flash",
+        "likes": 2077,
+        "downloads": 727610,
+        "pipeline": "image-text-to-text"
       }
     ],
     "models": [
@@ -820,6 +820,12 @@
       "src": "IT之家"
     },
     {
+      "title": "英伟达在PAX West游戏展现场原价直供公版显卡 RTX 5090售1999美元",
+      "link": "https://www.cnbeta.com.tw/articles/game/1576578.htm",
+      "time": "09-06 03:06",
+      "src": "cnBeta.COM"
+    },
+    {
       "title": "DLSS5增加显卡功耗：显卡越强功耗越高 RTX 5090最明显",
       "link": "https://www.cnbeta.com.tw/articles/tech/1576562.htm",
       "time": "09-05 14:38",
@@ -848,12 +854,6 @@
       "link": "https://sspai.com/post/113998",
       "time": "09-03 15:00",
       "src": "少数派"
-    },
-    {
-      "title": "联想集团携手英伟达，将千亿参数大模型装进笔记本",
-      "link": "https://finance.sina.com.cn/tech/shenji/2026-09-05/doc-iniquccw0449078.shtml",
-      "time": "09-05 14:21",
-      "src": "新浪科技"
     }
   ],
   "kojima": {
@@ -1128,6 +1128,12 @@
       "src": "中新网"
     },
     {
+      "title": "英伟达在PAX West游戏展现场原价直供公版显卡 RTX 5090售1999美元",
+      "link": "https://www.cnbeta.com.tw/articles/game/1576578.htm",
+      "time": "09-06 03:06",
+      "src": "cnBeta.COM"
+    },
+    {
       "title": "法国零售商疑似泄露《塞尔达时之笛》重制版Switch2主机配件",
       "link": "https://www.cnbeta.com.tw/articles/game/1576564.htm",
       "time": "09-05 16:40",
@@ -1150,12 +1156,6 @@
       "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260904-%E6%AC%A7%E7%9B%9F%E5%B8%8C%E6%9C%9B%E7%A6%81%E6%AD%A2%E5%90%91%E7%BB%8F%E5%90%88%E7%BB%84%E7%BB%87%E4%BB%A5%E5%A4%96%E7%9A%84%E5%9B%BD%E5%AE%B6%E5%87%BA%E5%8F%A3%E9%93%9D%E5%BA%9F%E6%96%99",
       "time": "09-05 05:51",
       "src": "© France 24"
-    },
-    {
-      "title": "英国海上贸易行动办公室：海湾多艘船只遭致失能火力打击",
-      "link": "https://finance.sina.com.cn/7x24/2026-09-05/doc-iniquyis7327769.shtml",
-      "time": "09-05 23:36",
-      "src": "环球市场播报"
     }
   ],
   "game_news": [
@@ -1286,6 +1286,18 @@
       "src": "中新网"
     },
     {
+      "title": "约旦河西岸以色列定居者打死巴勒斯坦裔美国人，美大使谴责“恐怖行径”",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260905-%E7%BA%A6%E6%97%A6%E6%B2%B3%E8%A5%BF%E5%B2%B8%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%9A%E5%B1%85%E8%80%85%E6%89%93%E6%AD%BB%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E8%A3%94%E7%BE%8E%E5%9B%BD%E4%BA%BA%EF%BC%8C%E7%BE%8E%E5%A4%A7%E4%BD%BF%E8%B0%B4%E8%B4%A3-%E6%81%90%E6%80%96%E8%A1%8C%E5%BE%84",
+      "time": "09-06 05:26",
+      "src": "© AP - Mark Sc"
+    },
+    {
+      "title": "美军打击三艘伊朗油轮 伊朗警告将对美国军舰发动更猛烈打击",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260905-%E7%BE%8E%E5%86%9B%E6%89%93%E5%87%BB%E4%B8%89%E8%89%98%E4%BC%8A%E6%9C%97%E6%B2%B9%E8%BD%AE-%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E5%B0%86%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%86%9B%E8%88%B0%E5%8F%91%E5%8A%A8%E6%9B%B4%E7%8C%9B%E7%83%88%E6%89%93%E5%87%BB",
+      "time": "09-06 05:17",
+      "src": "via REUTERS - "
+    },
+    {
       "title": "柬埔寨军队将于明年恢复与美国联合军演",
       "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260905-%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%86%9B%E9%98%9F%E5%B0%86%E4%BA%8E%E6%98%8E%E5%B9%B4%E6%81%A2%E5%A4%8D%E4%B8%8E%E7%BE%8E%E5%9B%BD%E8%81%94%E5%90%88%E5%86%9B%E6%BC%94",
       "time": "09-06 00:06",
@@ -1302,18 +1314,6 @@
       "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260905-%E6%B3%A2%E6%96%AF%E6%B9%BE%E5%93%88%E5%B0%94%E6%A0%BC%E5%B2%9B%E9%99%84%E8%BF%91%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8-%E7%BE%8E%E5%86%9B%E7%A7%B0%E8%A2%AD%E5%87%BB%E4%BA%863%E8%89%98%E4%BC%8A%E6%9C%97%E6%B2%B9%E8%BD%AE",
       "time": "09-05 22:24",
       "src": "© U.S. Central"
-    },
-    {
-      "title": "以色列空袭黎巴嫩 至少3人死亡23人受伤",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260905-%E4%BB%A5%E8%89%B2%E5%88%97%E7%A9%BA%E8%A2%AD%E9%BB%8E%E5%B7%B4%E5%AB%A9-%E8%87%B3%E5%B0%913%E4%BA%BA%E6%AD%BB%E4%BA%A123%E4%BA%BA%E5%8F%97%E4%BC%A4",
-      "time": "09-05 16:34",
-      "src": "AP Photo/Moham"
-    },
-    {
-      "title": "特朗普派特使赴莫斯科和基辅 推动结束俄乌战争方案",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260904-%E7%89%B9%E6%9C%97%E6%99%AE%E6%B4%BE%E7%89%B9%E4%BD%BF%E8%B5%B4%E8%8E%AB%E6%96%AF%E7%A7%91%E5%92%8C%E5%9F%BA%E8%BE%85-%E6%8E%A8%E5%8A%A8%E7%BB%93%E6%9D%9F%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%89%E6%96%B9%E6%A1%88",
-      "time": "09-05 05:42",
-      "src": "REUTERS - Evel"
     }
   ]
 }
