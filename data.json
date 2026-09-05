@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05 22:59",
+  "generated_at": "2026-09-06 02:05",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -131,7 +131,7 @@
     "status": {
       "state": "休市",
       "label": "周末休市",
-      "date": "2026-09-05"
+      "date": "2026-09-06"
     },
     "watch": [
       {
@@ -245,18 +245,6 @@
         "src": "IT之家"
       },
       {
-        "title": "远山智行发布国内首款轮足式导盲机器人，室外避障成功率不低于 96%",
-        "link": "https://www.ithome.com/0/998/765.htm",
-        "time": "09-05 16:00",
-        "src": "IT之家"
-      },
-      {
-        "title": "中外嘉宾深圳探讨共建人形机器人产业链",
-        "link": "https://www.chinanews.com.cn/cj/2026/09-05/10691145.shtml",
-        "time": "09-05 22:09",
-        "src": "中新网"
-      },
-      {
         "title": "Anthropic 2万亿美元IPO生变：招股书推迟公布 中期选举前上市",
         "link": "https://www.cnbeta.com.tw/articles/tech/1576538.htm",
         "time": "09-05 14:28",
@@ -278,6 +266,18 @@
         "title": "9月5日美股成交前20：美光计划年内大幅扩产HBM，英伟达拟向多个公司投资",
         "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtfyh0811441.shtml",
         "time": "09-05 04:51",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "9月5日外盘头条：特朗普称可能很快打击镐山 大众汽车力图重振美国业务 花旗推后预期的美联储降息时间",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtfya3833099.shtml",
+        "time": "09-05 03:47",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "花旗推后预期的美联储降息时间 目前认为2027年降息三次",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqszse3953310.shtml",
+        "time": "09-05 03:24",
         "src": "环球市场播报"
       }
     ]
@@ -529,6 +529,30 @@
   "ai": {
     "news_zh": [
       {
+        "title": "极摩客展出 EVO-X5 Pro 迷你主机：锐龙 AI Max+ PRO 495 处理器，192GB 内存",
+        "link": "https://www.ithome.com/0/998/840.htm",
+        "time": "09-05 23:53",
+        "src": "IT之家"
+      },
+      {
+        "title": "合成器大厂罗兰 Roland 进军 AI 生成音乐领域，主打“旋律创作”",
+        "link": "https://www.ithome.com/0/998/837.htm",
+        "time": "09-05 23:19",
+        "src": "IT之家"
+      },
+      {
+        "title": "Epic CEO 斯威尼：AI 导致内存、存储价格暴涨，游戏行业正遭遇第二次崩盘",
+        "link": "https://www.ithome.com/0/998/836.htm",
+        "time": "09-05 23:14",
+        "src": "IT之家"
+      },
+      {
+        "title": "AI 热潮下的韩国：真人秀为三星、SK 海力士员工配对，首尔大学 10 人有 9 人选择计科相关专业",
+        "link": "https://www.ithome.com/0/998/835.htm",
+        "time": "09-05 23:06",
+        "src": "IT之家"
+      },
+      {
         "title": "GPT-6 Astra 模型发布，OpenAI 总裁布罗克曼自信放话“欢迎来到 AGI 时代”",
         "link": "https://www.ithome.com/0/998/833.htm",
         "time": "09-05 22:46",
@@ -551,66 +575,42 @@
         "link": "https://www.ithome.com/0/998/822.htm",
         "time": "09-05 20:52",
         "src": "IT之家"
-      },
-      {
-        "title": "比亚迪：超级智能体迪迪虾暨腾势 N8L 纯电上市发布会定档 9 月 14 日",
-        "link": "https://www.ithome.com/0/998/815.htm",
-        "time": "09-05 19:45",
-        "src": "IT之家"
-      },
-      {
-        "title": "OpenAI 回应旗下智能体攻进德国网站：将彻底改革“AI 模型攻击”事件披露机制",
-        "link": "https://www.ithome.com/0/998/814.htm",
-        "time": "09-05 19:43",
-        "src": "IT之家"
-      },
-      {
-        "title": "塔塔咨询将在印度海得拉巴建设 1GW AI 数据中心，预计投资 7000 亿卢比",
-        "link": "https://www.ithome.com/0/998/810.htm",
-        "time": "09-05 19:07",
-        "src": "IT之家"
-      },
-      {
-        "title": "两家美国媒体起诉 OpenAI 和微软，指控其 AI 训练侵犯版权",
-        "link": "https://www.ithome.com/0/998/805.htm",
-        "time": "09-05 18:11",
-        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-        "likes": 645,
+        "likes": 662,
         "downloads": 184542,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 13999,
+        "likes": 14016,
         "downloads": 6024467,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "Qwen/Qwen3.8-Flash-Next",
-        "likes": 4899,
+        "likes": 4906,
         "downloads": 401327,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "XHToken/Spark-X2.5-4B",
-        "likes": 511,
+        "likes": 522,
         "downloads": 4755,
         "pipeline": "text-generation"
       },
       {
         "id": "zai-org/GLM-5.3-Flash",
-        "likes": 2069,
+        "likes": 2076,
         "downloads": 727610,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "google/timesfm-3.0-pytorch",
-        "likes": 442,
+        "likes": 446,
         "downloads": 123025,
         "pipeline": "time-series-forecasting"
       }
@@ -784,6 +784,18 @@
   ],
   "hw_news": [
     {
+      "title": "极摩客展出 EVO-X5 Pro 迷你主机：锐龙 AI Max+ PRO 495 处理器，192GB 内存",
+      "link": "https://www.ithome.com/0/998/840.htm",
+      "time": "09-05 23:53",
+      "src": "IT之家"
+    },
+    {
+      "title": "Epic CEO 斯威尼：AI 导致内存、存储价格暴涨，游戏行业正遭遇第二次崩盘",
+      "link": "https://www.ithome.com/0/998/836.htm",
+      "time": "09-05 23:14",
+      "src": "IT之家"
+    },
+    {
       "title": "联想推出 EY130 头戴式电竞耳机：7.1 虚拟环绕音效，到手价 99 元",
       "link": "https://www.ithome.com/0/998/827.htm",
       "time": "09-05 21:41",
@@ -842,18 +854,6 @@
       "link": "https://finance.sina.com.cn/tech/shenji/2026-09-05/doc-iniquccw0449078.shtml",
       "time": "09-05 14:21",
       "src": "新浪科技"
-    },
-    {
-      "title": "Computex 2026: NVIDIA 发布 ARM 架构 PC 芯片 RTX Spark, 集成 Blackwell GPU, 对标苹果 M5",
-      "link": "https://new.qq.com/rain/a/20260605A09PXY00",
-      "time": "精选",
-      "src": "资讯整理"
-    },
-    {
-      "title": "AMD 发布 Ryzen 7 7700X3D(104MB缓存,$329) 与 Radeon RX 9070 GRE(12GB,$549), 强化 1440p 游戏市场",
-      "link": "https://www.91mobiles.com/hub/computex-2026-amd-ryzen-x3d-cpus-radeon-9070-gre",
-      "time": "精选",
-      "src": "资讯整理"
     }
   ],
   "kojima": {
@@ -1102,9 +1102,9 @@
       "src": "机核"
     },
     {
-      "title": "云南计划新建临普铁路 串联滇西南联通东南亚",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-05/10691157.shtml",
-      "time": "09-05 22:51",
+      "title": "世界超级摩托车锦标赛法国站：“张雪机车”获第一回合季军",
+      "link": "https://www.chinanews.com.cn/ty/2026/09-06/10691224.shtml",
+      "time": "09-06 00:09",
       "src": "中新网"
     }
   ],
@@ -1120,6 +1120,12 @@
       "link": "https://www.ithome.com/0/998/773.htm",
       "time": "09-05 16:20",
       "src": "IT之家"
+    },
+    {
+      "title": "海南省首批出口车型公开道路测试牌照落地 服务全国车企出海验证",
+      "link": "https://www.chinanews.com.cn/sh/2026/09-05/10691191.shtml",
+      "time": "09-05 23:30",
+      "src": "中新网"
     },
     {
       "title": "法国零售商疑似泄露《塞尔达时之笛》重制版Switch2主机配件",
@@ -1146,19 +1152,31 @@
       "src": "© France 24"
     },
     {
-      "title": "美财长促G20检视对中贸易条件　19国挺处理“廉价出口”中国成唯一异议者",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%BE%8E%E5%9B%BD%E4%B8%93%E6%A0%8F/20260904-%E7%BE%8E%E8%B4%A2%E9%95%BF%E4%BF%83g20%E6%A3%80%E8%A7%86%E5%AF%B9%E4%B8%AD%E8%B4%B8%E6%98%93%E6%9D%A1%E4%BB%B6-19%E5%9B%BD%E6%8C%BA%E5%A4%84%E7%90%86-%E5%BB%89%E4%BB%B7%E5%87%BA%E5%8F%A3-%E4%B8%AD%E5%9B%BD%E6%88%90%E5%94%AF%E4%B8%80%E5%BC%82%E8%AE%AE%E8%80%85",
-      "time": "09-04 20:12",
-      "src": "法广RFI"
-    },
-    {
-      "title": "韩国今年迄今出口额7094亿美元打破年度纪录，预计12月初将达1万亿美元",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniquimu0349943.shtml",
-      "time": "09-05 16:06",
+      "title": "英国海上贸易行动办公室：海湾多艘船只遭致失能火力打击",
+      "link": "https://finance.sina.com.cn/7x24/2026-09-05/doc-iniquyis7327769.shtml",
+      "time": "09-05 23:36",
       "src": "环球市场播报"
     }
   ],
   "game_news": [
+    {
+      "title": "极摩客展出 EVO-X5 Pro 迷你主机：锐龙 AI Max+ PRO 495 处理器，192GB 内存",
+      "link": "https://www.ithome.com/0/998/840.htm",
+      "time": "09-05 23:53",
+      "src": "IT之家"
+    },
+    {
+      "title": "索尼澄清 2028 年 PlayStation 光盘产量相比目前下降 10%，而非降至 10%",
+      "link": "https://www.ithome.com/0/998/839.htm",
+      "time": "09-05 23:46",
+      "src": "IT之家"
+    },
+    {
+      "title": "Epic CEO 斯威尼：AI 导致内存、存储价格暴涨，游戏行业正遭遇第二次崩盘",
+      "link": "https://www.ithome.com/0/998/836.htm",
+      "time": "09-05 23:14",
+      "src": "IT之家"
+    },
     {
       "title": "联想推出 EY130 头戴式电竞耳机：7.1 虚拟环绕音效，到手价 99 元",
       "link": "https://www.ithome.com/0/998/827.htm",
@@ -1169,12 +1187,6 @@
       "title": "索尼 FE 8-14mm F3.5 Fisheye G 全画幅鱼眼相机镜头谍照曝光，支持自动对焦",
       "link": "https://www.ithome.com/0/998/821.htm",
       "time": "09-05 20:51",
-      "src": "IT之家"
-    },
-    {
-      "title": "R 星北方工作室负责人尼尔森：《GTA 6》驾驶体验吸收了《GTA 4》和《GTA 5》各自的优点",
-      "link": "https://www.ithome.com/0/998/820.htm",
-      "time": "09-05 20:46",
       "src": "IT之家"
     },
     {
@@ -1193,18 +1205,6 @@
       "title": "回归回合制，旧瓶装新酒：《最终幻想：共鸣》试玩报告",
       "link": "https://www.gcores.com/articles/219247",
       "time": "09-04 23:43",
-      "src": "机核"
-    },
-    {
-      "title": "《鬼武者》来了，二十年前的“荣光”还能续上吗？游戏茶话会Vol.131",
-      "link": "https://www.gcores.com/radios/218979",
-      "time": "09-04 23:00",
-      "src": "机核"
-    },
-    {
-      "title": "任天堂常规直面会及塞尔达40周年特别直面会将于下周举行",
-      "link": "https://www.gcores.com/articles/219256",
-      "time": "09-04 21:56",
       "src": "机核"
     }
   ],
@@ -1280,10 +1280,16 @@
       "src": "IT之家"
     },
     {
-      "title": "中外专家批驳“南海仲裁案”非法裁决 倡导务实海洋合作",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-05/10691140.shtml",
-      "time": "09-05 22:06",
+      "title": "美军称打击伊朗三艘油轮",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-05/10691194.shtml",
+      "time": "09-05 23:33",
       "src": "中新网"
+    },
+    {
+      "title": "柬埔寨军队将于明年恢复与美国联合军演",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260905-%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%86%9B%E9%98%9F%E5%B0%86%E4%BA%8E%E6%98%8E%E5%B9%B4%E6%81%A2%E5%A4%8D%E4%B8%8E%E7%BE%8E%E5%9B%BD%E8%81%94%E5%90%88%E5%86%9B%E6%BC%94",
+      "time": "09-06 00:06",
+      "src": "AFP - TANG CHH"
     },
     {
       "title": "特朗普特使到访前 基辅机场遭莫斯科轰炸",
@@ -1308,12 +1314,6 @@
       "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260904-%E7%89%B9%E6%9C%97%E6%99%AE%E6%B4%BE%E7%89%B9%E4%BD%BF%E8%B5%B4%E8%8E%AB%E6%96%AF%E7%A7%91%E5%92%8C%E5%9F%BA%E8%BE%85-%E6%8E%A8%E5%8A%A8%E7%BB%93%E6%9D%9F%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%89%E6%96%B9%E6%A1%88",
       "time": "09-05 05:42",
       "src": "REUTERS - Evel"
-    },
-    {
-      "title": "俄无人机袭击乌克兰安全局总部 基辅称局长办公室成为目标",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260904-%E4%BF%84%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A2%AD%E5%87%BB%E4%B9%8C%E5%85%8B%E5%85%B0%E5%AE%89%E5%85%A8%E5%B1%80%E6%80%BB%E9%83%A8-%E5%9F%BA%E8%BE%85%E7%A7%B0%E5%B1%80%E9%95%BF%E5%8A%9E%E5%85%AC%E5%AE%A4%E6%88%90%E4%B8%BA%E7%9B%AE%E6%A0%87",
-      "time": "09-05 05:45",
-      "src": "REUTERS - Alin"
     }
   ]
 }
