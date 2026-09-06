@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07 02:11",
+  "generated_at": "2026-09-07 06:03",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -442,7 +442,7 @@
   "ukraine": {
     "title": "Russian Offensive Campaign Assessment",
     "summary": "ISW’s Russia and Ukraine team produces the maps and analysis of record of the war in Ukraine. The Russian Offensive Campaign Assessment provides a synthetic running intelligence estimate of Putin’s political and military objectives in Ukraine and the design, prosecution, and outcomes of Russia’s war effort. ISW has published this update daily since Russia’s full-scale invasion of Ukraine in February 2022. Each update includes an assessment of the latest battlefield changes at the operational and tactical levels of war as well as an updated strategic assessment and forecast of the war’s trajectory along with numer",
-    "map_url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-september-5-2026-at-130-pm-et/",
+    "map_url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-september-6-2026-at-130-pm-et/",
     "url": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment",
     "links": [
       {
@@ -451,7 +451,7 @@
       },
       {
         "name": "ISW 官方地图页",
-        "url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-september-5-2026-at-130-pm-et/"
+        "url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-september-6-2026-at-130-pm-et/"
       },
       {
         "name": "实时战线地图 Liveuamap",
@@ -517,37 +517,37 @@
     "hf": [
       {
         "id": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-        "likes": 726,
+        "likes": 737,
         "downloads": 209191,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 14107,
+        "likes": 14121,
         "downloads": 6190807,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "XHToken/Spark-X2.5-4B",
-        "likes": 587,
+        "likes": 597,
         "downloads": 5477,
         "pipeline": "text-generation"
       },
       {
         "id": "google/timesfm-3.0-pytorch",
-        "likes": 491,
+        "likes": 499,
         "downloads": 144455,
         "pipeline": "time-series-forecasting"
       },
       {
         "id": "Qwen/Qwen3.8-Flash-Next",
-        "likes": 4938,
+        "likes": 4941,
         "downloads": 432966,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-        "likes": 459,
+        "likes": 465,
         "downloads": 348389,
         "pipeline": "image-text-to-text"
       }
@@ -1218,6 +1218,12 @@
       "src": "cnBeta.COM"
     },
     {
+      "title": "伊朗拟在霍尔木兹海峡附近划设“禁区” 警告将加大对美反击",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260906-%E4%BC%8A%E6%9C%97%E6%8B%9F%E5%9C%A8%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E9%99%84%E8%BF%91%E5%88%92%E8%AE%BE-%E7%A6%81%E5%8C%BA-%E8%AD%A6%E5%91%8A%E5%B0%86%E5%8A%A0%E5%A4%A7%E5%AF%B9%E7%BE%8E%E5%8F%8D%E5%87%BB",
+      "time": "09-07 05:23",
+      "src": "REUTERS - Stri"
+    },
+    {
       "title": "德黑兰在美军袭三艘伊朗油轮后宣布袭击了一艘美国海军无人艇",
       "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260906-%E5%BE%B7%E9%BB%91%E5%85%B0%E5%9C%A8%E7%BE%8E%E5%86%9B%E8%A2%AD%E4%B8%89%E8%89%98%E4%BC%8A%E6%9C%97%E6%B2%B9%E8%BD%AE%E5%90%8E%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BA%86%E4%B8%80%E8%89%98%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%86%9B%E6%97%A0%E4%BA%BA%E8%89%87",
       "time": "09-06 20:15",
@@ -1234,12 +1240,6 @@
       "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260905-%E7%BE%8E%E5%86%9B%E6%89%93%E5%87%BB%E4%B8%89%E8%89%98%E4%BC%8A%E6%9C%97%E6%B2%B9%E8%BD%AE-%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E5%B0%86%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%86%9B%E8%88%B0%E5%8F%91%E5%8A%A8%E6%9B%B4%E7%8C%9B%E7%83%88%E6%89%93%E5%87%BB",
       "time": "09-06 05:17",
       "src": "via REUTERS - "
-    },
-    {
-      "title": "柬埔寨军队将于明年恢复与美国联合军演",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260905-%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%86%9B%E9%98%9F%E5%B0%86%E4%BA%8E%E6%98%8E%E5%B9%B4%E6%81%A2%E5%A4%8D%E4%B8%8E%E7%BE%8E%E5%9B%BD%E8%81%94%E5%90%88%E5%86%9B%E6%BC%94",
-      "time": "09-06 00:06",
-      "src": "AFP - TANG CHH"
     },
     {
       "title": "美國航母「林肯號」航行250天終抵泰國，這是我們目前知道的情況",
