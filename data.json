@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06 12:12",
+  "generated_at": "2026-09-06 18:43",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,52 +233,52 @@
     ],
     "news": [
       {
-        "title": "Anthropic 2万亿美元IPO生变：招股书推迟公布 中期选举前上市",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1576538.htm",
-        "time": "09-05 14:28",
+        "title": "能识别花蕊、授粉、采集，我国智能育种机器人“吉儿”发布具身智能版本",
+        "link": "https://www.ithome.com/0/999/001.htm",
+        "time": "09-06 17:30",
+        "src": "IT之家"
+      },
+      {
+        "title": "SEMI：2026 年第二季度全球半导体设备出货金额 405.3 亿美元同比增长 23%，连续两季度创新高",
+        "link": "https://www.ithome.com/0/998/992.htm",
+        "time": "09-06 16:41",
+        "src": "IT之家"
+      },
+      {
+        "title": "全球首款 AI 智能体手机努比亚 NaviX Ultra 合作商公布：长鑫存储、三星半导体等",
+        "link": "https://www.ithome.com/0/998/949.htm",
+        "time": "09-06 16:09",
+        "src": "IT之家"
+      },
+      {
+        "title": "国内首款 AI 辅助创新药艾普司韦获批上市",
+        "link": "https://www.ithome.com/0/998/936.htm",
+        "time": "09-06 15:14",
+        "src": "IT之家"
+      },
+      {
+        "title": "孙宇晨曾劝雷军别造车 去卷机器人",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1576630.htm",
+        "time": "09-06 16:06",
         "src": "cnBeta.COM"
       },
       {
-        "title": "对话无界动力张玉峰：机器人咖啡场景计划于10月底常态化运营",
-        "link": "https://finance.sina.com.cn/tech/2026-09-06/doc-iniqvzux9576161.shtml",
-        "time": "09-06 09:43",
-        "src": "新浪科技"
+        "title": "马斯克变性女儿床上大战机器人引热议",
+        "link": "https://www.cnbeta.com.tw/articles/movie/1576608.htm",
+        "time": "09-06 15:44",
+        "src": "cnBeta.COM"
       },
       {
-        "title": "国内首款！长沙造具身智能机器人拿下欧盟CE“护照”",
-        "link": "https://finance.sina.com.cn/wm/2026-09-06/doc-iniqvzvc0174277.shtml",
-        "time": "09-06 09:08",
-        "src": "滚动播报"
+        "title": "触及规范类退市！一A股公司将终止上市",
+        "link": "https://finance.sina.com.cn/stock/s/2026-09-06/doc-iniqwsss4159324.shtml",
+        "time": "09-06 17:59",
+        "src": "市场资讯"
       },
       {
-        "title": "视频丨独家对话姚劲波：投了七八家机器人，不知它何时进家庭，但肯定会来",
-        "link": "https://finance.sina.com.cn/roll/2026-09-05/doc-iniqutzq4998839.shtml",
-        "time": "09-05 20:37",
-        "src": "新浪科技"
-      },
-      {
-        "title": "TCL陪育机器人亮相IFA：造型呆萌，可自主移动、智能交互",
-        "link": "https://finance.sina.com.cn/roll/2026-09-05/doc-iniqupts5094989.shtml",
-        "time": "09-05 18:33",
-        "src": "新浪科技"
-      },
-      {
-        "title": "普渡机器人全产品矩阵亮相IFA，PUDU D7欧洲首发",
-        "link": "https://finance.sina.com.cn/roll/2026-09-05/doc-iniquimu0369094.shtml",
-        "time": "09-05 17:07",
-        "src": "新浪科技"
-      },
-      {
-        "title": "涂鸦智能携Doova机器人亮相IFA，聚焦老年群体独居场景",
-        "link": "https://finance.sina.com.cn/tech/shenji/2026-09-05/doc-iniquimu0333183.shtml",
-        "time": "09-05 15:12",
-        "src": "新浪科技"
-      },
-      {
-        "title": "追觅携百余款产品亮相IFA，爬楼机、服务机器人都来了",
-        "link": "https://finance.sina.com.cn/tech/shenji/2026-09-05/doc-iniquccu0438422.shtml",
-        "time": "09-05 14:07",
-        "src": "新浪科技"
+        "title": "韩国央行研究：美元稳定币需求或推动本币贬值",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqwnky6879162.shtml",
+        "time": "09-06 14:49",
+        "src": "环球市场播报"
       }
     ]
   },
@@ -396,7 +396,7 @@
         "id": 613039,
         "name": "茶啊二中第六季",
         "name_cn": "茶啊二中 第6季",
-        "score": 6.4,
+        "score": 6.3,
         "img": "http://lain.bgm.tv/pic/cover/c/a3/12/613039_Z6VM6.jpg",
         "air_date": "2026-07-26",
         "rank": null
@@ -529,89 +529,89 @@
   "ai": {
     "news_zh": [
       {
-        "title": "开源安卓应用商店 F-Droid 考虑效仿 Debian AI 政策：允许使用 AI，最终责任由贡献者承担",
-        "link": "https://www.ithome.com/0/998/895.htm",
-        "time": "09-06 10:31",
+        "title": "能识别花蕊、授粉、采集，我国智能育种机器人“吉儿”发布具身智能版本",
+        "link": "https://www.ithome.com/0/999/001.htm",
+        "time": "09-06 17:30",
         "src": "IT之家"
       },
       {
-        "title": "联通反诈大模型揪出涉诈 VOIP 黑盒，如有可疑人员不请自来“维修网络”要警惕",
-        "link": "https://www.ithome.com/0/998/877.htm",
-        "time": "09-06 09:03",
+        "title": "加南科技预告新款屏显 AI 眼镜：整机 26g、无边框设计，计划 2027 年春季发布",
+        "link": "https://www.ithome.com/0/998/995.htm",
+        "time": "09-06 16:57",
         "src": "IT之家"
       },
       {
-        "title": "IT早报 0906：苹果 iPhone 18 Pro / Ultra 机模再曝光；曝华为新机防窥屏为独立像素驱动；Kimi、MiniMax 将天猫开店；全球首款家用 Wi-Fi8 路由器上市...",
-        "link": "https://www.ithome.com/0/998/861.htm",
-        "time": "09-06 07:46",
+        "title": "全球首款 AI 智能体手机努比亚 NaviX Ultra 合作商公布：长鑫存储、三星半导体等",
+        "link": "https://www.ithome.com/0/998/949.htm",
+        "time": "09-06 16:09",
         "src": "IT之家"
       },
       {
-        "title": "OpenAI 将建立全新框架，承诺未来将更加透明地披露 AI 智能体失控情况",
-        "link": "https://www.ithome.com/0/998/859.htm",
-        "time": "09-06 07:43",
+        "title": "AI 短剧制作价格大跳水：部分报价逼近成本线，行业竞争转向拼内容、拼市场",
+        "link": "https://www.ithome.com/0/998/943.htm",
+        "time": "09-06 15:44",
         "src": "IT之家"
       },
       {
-        "title": "英伟达在PAX West游戏展现场原价直供公版显卡 RTX 5090售1999美元",
-        "link": "https://www.cnbeta.com.tw/articles/game/1576578.htm",
-        "time": "09-06 03:06",
-        "src": "cnBeta.COM"
+        "title": "国内首款 AI 辅助创新药艾普司韦获批上市",
+        "link": "https://www.ithome.com/0/998/936.htm",
+        "time": "09-06 15:14",
+        "src": "IT之家"
       },
       {
-        "title": "OpenAI强力新模型 GPT-6一天攻破5道至今未解数学难题",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1576556.htm",
-        "time": "09-05 14:37",
-        "src": "cnBeta.COM"
+        "title": "OpenAI 应用研究主管谈空间推理，称 Astra 模型已补上人类少数优势",
+        "link": "https://www.ithome.com/0/998/935.htm",
+        "time": "09-06 15:12",
+        "src": "IT之家"
       },
       {
-        "title": "GPT-6 Astra还没正式开放 大家怎么把庆功宴都办完了",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1576550.htm",
-        "time": "09-05 14:33",
-        "src": "cnBeta.COM"
+        "title": "58 同城姚劲波：企业家必须亲自驾驭 AI，转型不能假手他人",
+        "link": "https://www.ithome.com/0/998/930.htm",
+        "time": "09-06 14:53",
+        "src": "IT之家"
       },
       {
-        "title": "Anthropic 2万亿美元IPO生变：招股书推迟公布 中期选举前上市",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1576538.htm",
-        "time": "09-05 14:28",
-        "src": "cnBeta.COM"
+        "title": "OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩一度大幅变化",
+        "link": "https://www.ithome.com/0/998/927.htm",
+        "time": "09-06 14:46",
+        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-        "likes": 684,
-        "downloads": 184542,
+        "likes": 702,
+        "downloads": 209191,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 14045,
-        "downloads": 6024467,
-        "pipeline": "image-text-to-text"
-      },
-      {
-        "id": "Qwen/Qwen3.8-Flash-Next",
-        "likes": 4918,
-        "downloads": 401327,
+        "likes": 14067,
+        "downloads": 6190807,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "XHToken/Spark-X2.5-4B",
-        "likes": 551,
-        "downloads": 4755,
+        "likes": 572,
+        "downloads": 5477,
         "pipeline": "text-generation"
       },
       {
+        "id": "Qwen/Qwen3.8-Flash-Next",
+        "likes": 4930,
+        "downloads": 432966,
+        "pipeline": "image-text-to-text"
+      },
+      {
         "id": "google/timesfm-3.0-pytorch",
-        "likes": 460,
-        "downloads": 123025,
+        "likes": 474,
+        "downloads": 144455,
         "pipeline": "time-series-forecasting"
       },
       {
-        "id": "zai-org/GLM-5.3-Flash",
-        "likes": 2080,
-        "downloads": 727610,
+        "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "likes": 437,
+        "downloads": 348389,
         "pipeline": "image-text-to-text"
       }
     ],
@@ -790,46 +790,10 @@
       "src": "IT之家"
     },
     {
-      "title": "联想 2026 款扬天 V14 笔记本新增“锐龙 5 40U + 8G + 512G”版本，4799 元",
-      "link": "https://www.ithome.com/0/998/894.htm",
-      "time": "09-06 10:25",
-      "src": "IT之家"
-    },
-    {
-      "title": "vivo X500 系列手机开启预约：Pro Max 机型首发 2nm 天玑 9600 Pro 处理器、支持原子工作台功能",
-      "link": "https://www.ithome.com/0/998/893.htm",
-      "time": "09-06 10:19",
-      "src": "IT之家"
-    },
-    {
-      "title": "狼蛛 NOVA98 系列机械键盘新增“桃雾粉”“尘雾白”配色上市，409 元起",
-      "link": "https://www.ithome.com/0/998/889.htm",
-      "time": "09-06 10:07",
-      "src": "IT之家"
-    },
-    {
-      "title": "TCL 华星展示全球首款 IJP OLED 可折叠便携显示器：三折叠设计，16~28\" 变化",
-      "link": "https://www.ithome.com/0/998/885.htm",
-      "time": "09-06 09:50",
-      "src": "IT之家"
-    },
-    {
-      "title": "晶存科技发布 96GB 9600MT/s 规格 LPDDR5X LPCAMM2 内存模组",
-      "link": "https://www.ithome.com/0/998/883.htm",
-      "time": "09-06 09:37",
-      "src": "IT之家"
-    },
-    {
-      "title": "SoundPEATS 泥炭 GoFree 2s 开放式耳机发售：15.4 mm 动圈双磁声学单元、30 小时续航，389 元",
-      "link": "https://www.ithome.com/0/998/873.htm",
-      "time": "09-06 08:37",
-      "src": "IT之家"
-    },
-    {
-      "title": "蚂蚁电竞推出“ANT27DZQE Pro”27 英寸显示器：2K 480Hz、DP 2.1 接口，4979 元",
-      "link": "https://www.ithome.com/0/998/871.htm",
-      "time": "09-06 08:29",
-      "src": "IT之家"
+      "title": "中科曙光预告全球首款64线程移动工作站笔记本",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1576590.htm",
+      "time": "09-06 14:55",
+      "src": "cnBeta.COM"
     },
     {
       "title": "英伟达在PAX West游戏展现场原价直供公版显卡 RTX 5090售1999美元",
@@ -844,16 +808,52 @@
       "src": "cnBeta.COM"
     },
     {
-      "title": "厂商推出0GB假内存 插满插槽还能亮RGB",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1576548.htm",
-      "time": "09-05 14:31",
-      "src": "cnBeta.COM"
+      "title": "TDS REVIEW | 无印良品 MUJI 头戴式蓝牙降噪耳机体验",
+      "link": "https://sspai.com/post/113998",
+      "time": "09-03 15:00",
+      "src": "少数派"
     },
     {
-      "title": "NVIDIA DLSS 5未来将支持RTX 40系列 但玩家无法获得完整控制权限",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1576530.htm",
+      "title": "联想集团携手英伟达，将千亿参数大模型装进笔记本",
+      "link": "https://finance.sina.com.cn/tech/shenji/2026-09-05/doc-iniquccw0449078.shtml",
       "time": "09-05 14:21",
-      "src": "cnBeta.COM"
+      "src": "新浪科技"
+    },
+    {
+      "title": "Computex 2026: NVIDIA 发布 ARM 架构 PC 芯片 RTX Spark, 集成 Blackwell GPU, 对标苹果 M5",
+      "link": "https://new.qq.com/rain/a/20260605A09PXY00",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "AMD 发布 Ryzen 7 7700X3D(104MB缓存,$329) 与 Radeon RX 9070 GRE(12GB,$549), 强化 1440p 游戏市场",
+      "link": "https://www.91mobiles.com/hub/computex-2026-amd-ryzen-x3d-cpus-radeon-9070-gre",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "Intel 预览 Nova Lake 桌面平台: 最高48核(16P+32E), 18A 工艺, LGA1954 新插槽, 预计2026年底上市",
+      "link": "https://www.160.com/article/12732.html",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "宏碁首发 1000Hz 电竞显示器; 微星 5K Mini-LED 双模电竞屏(5K@180Hz/2K@330Hz) 亮相 Computex 2026",
+      "link": "https://www.160.com/article/12732.html",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "微星 40 周年发布 RTX 5090 LIGHTNING Z 旗舰与内置 AI 代理的 OLED 电竞显示器",
+      "link": "https://www.160.com/article/12732.html",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "AMD 锐龙 AI Max 400 系列: 192GB 统一内存, 宣称本地可运行 300B 参数大模型",
+      "link": "https://www.160.com/article/12732.html",
+      "time": "精选",
+      "src": "资讯整理"
     }
   ],
   "kojima": {
@@ -1054,27 +1054,21 @@
   },
   "intl_news": [
     {
-      "title": "飞傲预热全球首款便携安卓数字转盘 DT11，零售价预计 2000 元左右",
-      "link": "https://www.ithome.com/0/998/906.htm",
-      "time": "09-06 11:12",
+      "title": "复古硬件玩出新花样：任天堂 NES 红白机实现全球航班实时监控",
+      "link": "https://www.ithome.com/0/999/003.htm",
+      "time": "09-06 17:39",
       "src": "IT之家"
     },
     {
-      "title": "TCL 华星展示全球首款 IJP OLED 可折叠便携显示器：三折叠设计，16~28\" 变化",
-      "link": "https://www.ithome.com/0/998/885.htm",
-      "time": "09-06 09:50",
+      "title": "SEMI：2026 年第二季度全球半导体设备出货金额 405.3 亿美元同比增长 23%，连续两季度创新高",
+      "link": "https://www.ithome.com/0/998/992.htm",
+      "time": "09-06 16:41",
       "src": "IT之家"
     },
     {
-      "title": "欧洲商业航天取得突破：德国伊萨尔“光谱”运载火箭首次成功入轨",
-      "link": "https://www.ithome.com/0/998/882.htm",
-      "time": "09-06 09:35",
-      "src": "IT之家"
-    },
-    {
-      "title": "IT早报 0906：苹果 iPhone 18 Pro / Ultra 机模再曝光；曝华为新机防窥屏为独立像素驱动；Kimi、MiniMax 将天猫开店；全球首款家用 Wi-Fi8 路由器上市...",
-      "link": "https://www.ithome.com/0/998/861.htm",
-      "time": "09-06 07:46",
+      "title": "全球首款 AI 智能体手机努比亚 NaviX Ultra 合作商公布：长鑫存储、三星半导体等",
+      "link": "https://www.ithome.com/0/998/949.htm",
+      "time": "09-06 16:09",
       "src": "IT之家"
     },
     {
@@ -1084,54 +1078,60 @@
       "src": "机核"
     },
     {
-      "title": "亚太媒体高端论坛嘉宾参访广州、佛山——“中国智造动能澎湃、享誉全球”",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-06/10691323.shtml",
-      "time": "09-06 12:06",
+      "title": "第73届世界小姐全球总决赛在越南芽庄落幕",
+      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/09-06/1203345.shtml",
+      "time": "09-06 17:59",
       "src": "中新网"
     },
     {
-      "title": "福建首条直飞英国客运航线在厦门开通",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-06/10691302.shtml",
-      "time": "09-06 11:47",
+      "title": "“亚太发展故事”全球多媒体传播计划启动",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-06/10691485.shtml",
+      "time": "09-06 17:42",
       "src": "中新网"
     },
     {
-      "title": "云南怒江咖啡数字科创技术首次反向落地非洲咖啡核心产区",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-06/10691285.shtml",
-      "time": "09-06 11:46",
-      "src": "中新网"
+      "title": "张雪机车德比斯WSBK法国站首回合获季军：发车就被撞",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1576640.htm",
+      "time": "09-06 16:34",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "国际象棋网站实习生在线霸凌马斯克 百万网友围观",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1576598.htm",
+      "time": "09-06 15:02",
+      "src": "cnBeta.COM"
     }
   ],
   "econ_news": [
     {
-      "title": "飞傲预热全球首款便携安卓数字转盘 DT11，零售价预计 2000 元左右",
-      "link": "https://www.ithome.com/0/998/906.htm",
-      "time": "09-06 11:12",
+      "title": "央视解码手机回收：一台现代手机黄金含量仅 0.02—0.03 克",
+      "link": "https://www.ithome.com/0/998/993.htm",
+      "time": "09-06 16:56",
       "src": "IT之家"
     },
     {
-      "title": "铭凡预热 MS-S1 MAX-P495：价格达 7000 美元",
-      "link": "https://www.ithome.com/0/998/876.htm",
-      "time": "09-06 08:55",
+      "title": "SEMI：2026 年第二季度全球半导体设备出货金额 405.3 亿美元同比增长 23%，连续两季度创新高",
+      "link": "https://www.ithome.com/0/998/992.htm",
+      "time": "09-06 16:41",
       "src": "IT之家"
     },
     {
-      "title": "消息称奥之心 PEN 复古无反相机定价 1000 美元，9 月 9 日登场",
-      "link": "https://www.ithome.com/0/998/868.htm",
-      "time": "09-06 08:18",
+      "title": "商家隐瞒关键信息致消费者错失购车补贴，法院判赔 1.3 万元",
+      "link": "https://www.ithome.com/0/998/941.htm",
+      "time": "09-06 15:33",
       "src": "IT之家"
     },
     {
-      "title": "前7个月我国服务贸易保持较快增长",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-06/10691306.shtml",
-      "time": "09-06 11:28",
+      "title": "古城西安胶片消费掀新风 青年以实体影像“定格”时光",
+      "link": "https://www.chinanews.com.cn/sh/2026/09-06/10691489.shtml",
+      "time": "09-06 18:17",
       "src": "中新网"
     },
     {
-      "title": "购买消暑、智能产品，游览“宝藏小城” 暑期入境消费为啥这么火？",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-06/10691301.shtml",
-      "time": "09-06 11:09",
-      "src": "中新网"
+      "title": "数据中心成了美国最重要的就业制造机之一",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1576610.htm",
+      "time": "09-06 15:45",
+      "src": "cnBeta.COM"
     },
     {
       "title": "英伟达在PAX West游戏展现场原价直供公版显卡 RTX 5090售1999美元",
@@ -1146,13 +1146,44 @@
       "src": "cnBeta.COM"
     },
     {
-      "title": "Anthropic 2万亿美元IPO生变：招股书推迟公布 中期选举前上市",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1576538.htm",
-      "time": "09-05 14:28",
-      "src": "cnBeta.COM"
+      "title": "欧盟希望禁止向经合组织以外的国家出口铝废料",
+      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260904-%E6%AC%A7%E7%9B%9F%E5%B8%8C%E6%9C%9B%E7%A6%81%E6%AD%A2%E5%90%91%E7%BB%8F%E5%90%88%E7%BB%84%E7%BB%87%E4%BB%A5%E5%A4%96%E7%9A%84%E5%9B%BD%E5%AE%B6%E5%87%BA%E5%8F%A3%E9%93%9D%E5%BA%9F%E6%96%99",
+      "time": "09-05 05:51",
+      "src": "© France 24"
     }
   ],
   "game_news": [
+    {
+      "title": "复古硬件玩出新花样：任天堂 NES 红白机实现全球航班实时监控",
+      "link": "https://www.ithome.com/0/999/003.htm",
+      "time": "09-06 17:39",
+      "src": "IT之家"
+    },
+    {
+      "title": "OPPO A7 Pro 真机亮相：8000mAh 电池，9 月 11 日发售",
+      "link": "https://www.ithome.com/0/998/999.htm",
+      "time": "09-06 17:17",
+      "src": "IT之家"
+    },
+    {
+      "title": "微软 10 月终止 Office 2021 支持，第三方推出付费非官方续命补丁",
+      "link": "https://www.ithome.com/0/998/998.htm",
+      "time": "09-06 17:15",
+      "src": "IT之家",
+      "type": "不停机更新"
+    },
+    {
+      "title": "马斯克：特斯拉 Cybercab 未来可连接 PlayStation / Xbox",
+      "link": "https://www.ithome.com/0/998/940.htm",
+      "time": "09-06 15:31",
+      "src": "IT之家"
+    },
+    {
+      "title": "PS5 游戏机模拟器 KyTyPS5 新进展：可运行《GTA5》北扬克顿序章任务",
+      "link": "https://www.ithome.com/0/998/924.htm",
+      "time": "09-06 14:27",
+      "src": "IT之家"
+    },
     {
       "title": "ACEMAGIC F7A 迷你主机亮相：机箱比 F2A 更大，至高 64GB 内存",
       "link": "https://www.ithome.com/0/998/913.htm",
@@ -1160,49 +1191,26 @@
       "src": "IT之家"
     },
     {
-      "title": "发售仅 3 天，Rebel Wolves 处女作《黎明行者之血》销量突破 100 万份",
-      "link": "https://www.ithome.com/0/998/909.htm",
-      "time": "09-06 11:27",
-      "src": "IT之家"
+      "title": "回归回合制，旧瓶装新酒：《最终幻想：共鸣》试玩报告",
+      "link": "https://www.gcores.com/articles/219247",
+      "time": "09-04 23:43",
+      "src": "机核"
     },
     {
-      "title": "HORI 公布《赛博朋克 2077》主题 Switch 2 手柄与斜挎单肩包",
-      "link": "https://www.ithome.com/0/998/905.htm",
-      "time": "09-06 11:09",
-      "src": "IT之家"
-    },
-    {
-      "title": "V 社有望为 Steam Frame 头显引入彩色透视模块，作为升级套件单独发售",
-      "link": "https://www.ithome.com/0/998/904.htm",
-      "time": "09-06 11:05",
-      "src": "IT之家"
-    },
-    {
-      "title": "V社为 Meta Quest 头显 Steam Link 串流应用带来 2.17.8 公测版更新，新增 USB 有线串流功能",
-      "link": "https://www.ithome.com/0/998/898.htm",
-      "time": "09-06 10:42",
-      "src": "IT之家"
-    },
-    {
-      "title": "可换电池版的欧版任天堂 Switch 2 游戏机悄然现身，重量、续航变了",
-      "link": "https://www.ithome.com/0/998/891.htm",
-      "time": "09-06 10:08",
-      "src": "IT之家"
-    },
-    {
-      "title": "策略游戏《席德 · 梅尔的文明 VII》在 Steam 平台开启限时免费试玩活动，持续至 9 月 11 日",
-      "link": "https://www.ithome.com/0/998/888.htm",
-      "time": "09-06 09:59",
-      "src": "IT之家"
-    },
-    {
-      "title": "前V社编剧自曝：《求生之路 2》游戏预告片是官方故意泄露的",
-      "link": "https://www.ithome.com/0/998/874.htm",
-      "time": "09-06 08:43",
-      "src": "IT之家"
+      "title": "《鬼武者》来了，二十年前的“荣光”还能续上吗？游戏茶话会Vol.131",
+      "link": "https://www.gcores.com/radios/218979",
+      "time": "09-04 23:00",
+      "src": "机核"
     }
   ],
   "game_update": [
+    {
+      "title": "微软 10 月终止 Office 2021 支持，第三方推出付费非官方续命补丁",
+      "link": "https://www.ithome.com/0/998/998.htm",
+      "time": "09-06 17:15",
+      "src": "IT之家",
+      "type": "不停机更新"
+    },
     {
       "title": "《PUBG》42.3版本 PC 8/12 维护(08:00-16:30): 时隔两年新增轻机枪 RPD, 轻机枪换弹-25%/后坐力调整, 主流玩法轮换开启",
       "link": "https://new.qq.com/rain/a/20260811A06SHD00",
@@ -1251,13 +1259,6 @@
       "time": "8-05",
       "type": "停机维护",
       "src": "腾讯官方"
-    },
-    {
-      "title": "《大话西游》手游 8/13 每周例行停机维护(8:00-10:00): 新神兽广陵+小西天副本上线, 周星驰合作宣传片8/15公开",
-      "link": "https://dhxy.163.com/news/update/20260812/19975_1310915.html",
-      "time": "8-13",
-      "type": "停机维护",
-      "src": "网易官网"
     }
   ],
   "mil_news": [
@@ -1268,16 +1269,10 @@
       "src": "ISW"
     },
     {
-      "title": "全民叙事+沉浸展演 “全民国防教育月”融媒体节目《同心筑国防》实现国防教育传播多维创新",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-06/10691313.shtml",
-      "time": "09-06 11:42",
-      "src": "中新网"
-    },
-    {
-      "title": "伊朗称打击3艘美国船只和3艘油轮",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-06/10691309.shtml",
-      "time": "09-06 11:33",
-      "src": "中新网"
+      "title": "马斯克变性女儿床上大战机器人引热议",
+      "link": "https://www.cnbeta.com.tw/articles/movie/1576608.htm",
+      "time": "09-06 15:44",
+      "src": "cnBeta.COM"
     },
     {
       "title": "约旦河西岸以色列定居者打死巴勒斯坦裔美国人，美大使谴责“恐怖行径”",
@@ -1308,6 +1303,12 @@
       "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260905-%E6%B3%A2%E6%96%AF%E6%B9%BE%E5%93%88%E5%B0%94%E6%A0%BC%E5%B2%9B%E9%99%84%E8%BF%91%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8-%E7%BE%8E%E5%86%9B%E7%A7%B0%E8%A2%AD%E5%87%BB%E4%BA%863%E8%89%98%E4%BC%8A%E6%9C%97%E6%B2%B9%E8%BD%AE",
       "time": "09-05 22:24",
       "src": "© U.S. Central"
+    },
+    {
+      "title": "以色列空袭黎巴嫩 至少3人死亡23人受伤",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260905-%E4%BB%A5%E8%89%B2%E5%88%97%E7%A9%BA%E8%A2%AD%E9%BB%8E%E5%B7%B4%E5%AB%A9-%E8%87%B3%E5%B0%913%E4%BA%BA%E6%AD%BB%E4%BA%A123%E4%BA%BA%E5%8F%97%E4%BC%A4",
+      "time": "09-05 16:34",
+      "src": "AP Photo/Moham"
     }
   ]
 }
