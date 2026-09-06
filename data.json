@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06 23:20",
+  "generated_at": "2026-09-07 02:11",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -129,9 +129,9 @@
       }
     ],
     "status": {
-      "state": "休市",
-      "label": "周末休市",
-      "date": "2026-09-06"
+      "state": "未开盘",
+      "label": "今日尚未开盘",
+      "date": "2026-09-07"
     },
     "watch": [
       {
@@ -517,37 +517,37 @@
     "hf": [
       {
         "id": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-        "likes": 716,
+        "likes": 726,
         "downloads": 209191,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 14086,
+        "likes": 14107,
         "downloads": 6190807,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "XHToken/Spark-X2.5-4B",
-        "likes": 579,
+        "likes": 587,
         "downloads": 5477,
         "pipeline": "text-generation"
       },
       {
-        "id": "Qwen/Qwen3.8-Flash-Next",
-        "likes": 4937,
-        "downloads": 432966,
-        "pipeline": "image-text-to-text"
-      },
-      {
         "id": "google/timesfm-3.0-pytorch",
-        "likes": 482,
+        "likes": 491,
         "downloads": 144455,
         "pipeline": "time-series-forecasting"
       },
       {
+        "id": "Qwen/Qwen3.8-Flash-Next",
+        "likes": 4938,
+        "downloads": 432966,
+        "pipeline": "image-text-to-text"
+      },
+      {
         "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-        "likes": 449,
+        "likes": 459,
         "downloads": 348389,
         "pipeline": "image-text-to-text"
       }
@@ -720,6 +720,12 @@
     }
   ],
   "hw_news": [
+    {
+      "title": "联想 ThinkPad E16 2026 笔记本新增酷睿 5 320 版本，7299 元",
+      "link": "https://www.ithome.com/0/999/047.htm",
+      "time": "09-06 23:52",
+      "src": "IT之家"
+    },
     {
       "title": "联想来酷 Air 16 酷睿版笔记本开启预约，国补到手价 3314.15 元起",
       "link": "https://www.ithome.com/0/999/039.htm",
@@ -1021,15 +1027,15 @@
       "src": "机核"
     },
     {
-      "title": "习近平主席中亚、中东之旅难忘瞬间",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-06/10691569.shtml",
-      "time": "09-06 20:37",
+      "title": "2026FIBA三人篮球女子系列赛全球总决赛落幕 法国队夺冠",
+      "link": "https://www.chinanews.com.cn/ty/2026/09-06/10691620.shtml",
+      "time": "09-06 23:57",
       "src": "中新网"
     },
     {
-      "title": "中德跨境电商峰会暨中国品牌之夜在柏林举办",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-06/10691558.shtml",
-      "time": "09-06 19:58",
+      "title": "俄外交部发言人驳斥日方要求拆除纪念碑",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-06/10691616.shtml",
+      "time": "09-06 23:55",
       "src": "中新网"
     }
   ],
@@ -1053,10 +1059,16 @@
       "src": "IT之家"
     },
     {
-      "title": "商家隐瞒关键信息致消费者错失购车补贴，法院判赔 1.3 万元",
-      "link": "https://www.ithome.com/0/998/941.htm",
-      "time": "09-06 15:33",
-      "src": "IT之家"
+      "title": "（财经天下）多国国债遇“抛售潮” 债市高波动或成常态",
+      "link": "https://www.chinanews.com.cn/cj/2026/09-06/10691611.shtml",
+      "time": "09-06 23:53",
+      "src": "中新网"
+    },
+    {
+      "title": "（经济观察）中国财政部密集注资 加厚金融机构“安全垫”",
+      "link": "https://www.chinanews.com.cn/cj/2026/09-06/10691609.shtml",
+      "time": "09-06 23:46",
+      "src": "中新网"
     },
     {
       "title": "《反恐精英2》脏话追踪排行榜反而刺激玩家使用脏话",
@@ -1075,12 +1087,6 @@
       "link": "https://www.cnbeta.com.tw/articles/tech/1576610.htm",
       "time": "09-06 15:45",
       "src": "cnBeta.COM"
-    },
-    {
-      "title": "特朗普对沃什施压，美联储加息在即",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqxchv1072002.shtml",
-      "time": "09-06 22:13",
-      "src": "环球市场播报"
     }
   ],
   "game_news": [
@@ -1122,15 +1128,15 @@
       "type": "不停机更新"
     },
     {
-      "title": "马斯克：特斯拉 Cybercab 未来可连接 PlayStation / Xbox",
-      "link": "https://www.ithome.com/0/998/940.htm",
-      "time": "09-06 15:31",
-      "src": "IT之家"
-    },
-    {
       "title": "回归回合制，旧瓶装新酒：《最终幻想：共鸣》试玩报告",
       "link": "https://www.gcores.com/articles/219247",
       "time": "09-04 23:43",
+      "src": "机核"
+    },
+    {
+      "title": "《鬼武者》来了，二十年前的“荣光”还能续上吗？游戏茶话会Vol.131",
+      "link": "https://www.gcores.com/radios/218979",
+      "time": "09-04 23:00",
       "src": "机核"
     }
   ],
@@ -1236,10 +1242,10 @@
       "src": "AFP - TANG CHH"
     },
     {
-      "title": "特朗普特使到访前 基辅机场遭莫斯科轰炸",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260905-%E5%9C%A8%E7%89%B9%E6%9C%97%E6%99%AE%E7%89%B9%E4%BD%BF%E5%88%B0%E8%AE%BF%E5%89%8D%EF%BC%8C%E5%9F%BA%E8%BE%85%E6%9C%BA%E5%9C%BA%E9%81%AD%E8%8E%AB%E6%96%AF%E7%A7%91%E8%BD%B0%E7%82%B8",
-      "time": "09-05 22:57",
-      "src": "REUTERS - Alin"
+      "title": "美國航母「林肯號」航行250天終抵泰國，這是我們目前知道的情況",
+      "link": "https://www.bbc.com/zhongwen/articles/cwyzg4en4k3o/trad?at_medium=RSS&at_campaign=rss",
+      "time": "09-03 14:01",
+      "src": "BBC中文"
     }
   ]
 }
