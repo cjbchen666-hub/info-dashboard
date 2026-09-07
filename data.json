@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08 02:40",
+  "generated_at": "2026-09-08 06:43",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -257,28 +257,28 @@
         "src": "中新网"
       },
       {
-        "title": "比利时拘留一名涉半导体间谍活动的中国男",
-        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260907-%E6%AF%94%E5%88%A9%E6%97%B6%E6%8B%98%E7%95%99%E4%B8%80%E5%90%8D%E6%B6%89%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%97%B4%E8%B0%8D%E6%B4%BB%E5%8A%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90",
-        "time": "09-08 01:02",
-        "src": "REUTERS - Ann "
+        "title": "台电将对AI半导体及数据中心等耗电大户涨价",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1576800.htm",
+        "time": "09-07 22:36",
+        "src": "cnBeta.COM"
       },
       {
-        "title": "德意志银行策略师称交易员错估了美欧央行加息的力度",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-08/doc-iniqzsvq5204901.shtml",
-        "time": "09-08 01:57",
-        "src": "环球市场播报"
+        "title": "韩国券商警告：三星电子和SK海力士内存库存降至不足10天供应量",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1576786.htm",
+        "time": "09-07 16:50",
+        "src": "cnBeta.COM"
       },
       {
-        "title": "美国大型高校捐赠基金跑赢标普500指数",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqznpt0121117.shtml",
-        "time": "09-07 22:54",
-        "src": "环球市场播报"
+        "title": "长江存储IPO火速进入已问询状态 市值冲击3万亿",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1576774.htm",
+        "time": "09-07 15:27",
+        "src": "cnBeta.COM"
       },
       {
-        "title": "20cm跌停，市值腰斩！谁在抛售“中国版英伟达”？还有更大压力！",
-        "link": "https://finance.sina.com.cn/stock/s/2026-09-07/doc-iniqznpq6291635.shtml",
-        "time": "09-07 22:50",
-        "src": "市场资讯"
+        "title": "路透：中国军方加速研究人形机器人 探索未来战场应用",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260907-%E8%B7%AF%E9%80%8F-%E4%B8%AD%E5%9B%BD%E5%86%9B%E6%96%B9%E5%8A%A0%E9%80%9F%E7%A0%94%E7%A9%B6%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA-%E6%8E%A2%E7%B4%A2%E6%9C%AA%E6%9D%A5%E6%88%98%E5%9C%BA%E5%BA%94%E7%94%A8",
+        "time": "09-08 05:27",
+        "src": "REUTERS - Flor"
       }
     ]
   },
@@ -327,7 +327,7 @@
         "score": 7.4,
         "img": "http://lain.bgm.tv/pic/cover/c/7e/10/496276_Qeu06.jpg",
         "air_date": "2026-07-07",
-        "rank": 1130
+        "rank": 1128
       },
       {
         "id": 325767,
@@ -336,7 +336,7 @@
         "score": 7.1,
         "img": "http://lain.bgm.tv/pic/cover/c/a1/d3/325767_u3pvR.jpg",
         "air_date": "2026-07-07",
-        "rank": 2069
+        "rank": 2062
       },
       {
         "id": 541285,
@@ -345,7 +345,7 @@
         "score": 7.0,
         "img": "http://lain.bgm.tv/pic/cover/c/b3/26/541285_CYBZc.jpg",
         "air_date": "2026-07-07",
-        "rank": 2500
+        "rank": 2506
       },
       {
         "id": 607929,
@@ -390,7 +390,7 @@
         "score": 4.1,
         "img": "http://lain.bgm.tv/pic/cover/c/11/b7/627648_V00Vh.jpg",
         "air_date": "2026-07-07",
-        "rank": 9766
+        "rank": 9769
       },
       {
         "id": 638995,
@@ -481,37 +481,37 @@
     "hf": [
       {
         "id": "XHToken/Spark-X2.5-4B",
-        "likes": 693,
+        "likes": 717,
         "downloads": 7216,
         "pipeline": "text-generation"
       },
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 14227,
+        "likes": 14254,
         "downloads": 6416358,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "google/timesfm-3.0-pytorch",
-        "likes": 563,
+        "likes": 571,
         "downloads": 271713,
         "pipeline": "time-series-forecasting"
       },
       {
         "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-        "likes": 523,
+        "likes": 549,
         "downloads": 403292,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-        "likes": 788,
+        "likes": 796,
         "downloads": 251611,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 3055,
+        "likes": 3073,
         "downloads": 1584382,
         "pipeline": "image-to-video"
       }
@@ -697,6 +697,36 @@
       "src": "IT之家"
     },
     {
+      "title": "索尼发布复刻版WH-1000XM4C头戴式降噪耳机",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1576820.htm",
+      "time": "09-08 00:58",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "8月Steam硬件调查：当前一代游戏显卡占比突破20%",
+      "link": "https://www.cnbeta.com.tw/articles/game/1576812.htm",
+      "time": "09-07 22:42",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "RTX 5090在测试DLSS 5时 发生接口烧毁现象",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1576810.htm",
+      "time": "09-07 22:42",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "华为Pura X View阔直板手机发布：搭载麒麟9030S处理器 5999元起",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1576788.htm",
+      "time": "09-07 16:50",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "韩国券商警告：三星电子和SK海力士内存库存降至不足10天供应量",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1576786.htm",
+      "time": "09-07 16:50",
+      "src": "cnBeta.COM"
+    },
+    {
       "title": "5999 元起华为 Pura X View 阔直板手机正式上市：16:9.5 比例面板、麒麟 9030S 处理器",
       "link": "https://finance.sina.com.cn/tech/digi/2026-09-07/doc-iniqyvrw6407615.shtml",
       "time": "09-07 16:36",
@@ -722,24 +752,6 @@
     },
     {
       "title": "Intel 预览 Nova Lake 桌面平台: 最高48核(16P+32E), 18A 工艺, LGA1954 新插槽, 预计2026年底上市",
-      "link": "https://www.160.com/article/12732.html",
-      "time": "精选",
-      "src": "资讯整理"
-    },
-    {
-      "title": "宏碁首发 1000Hz 电竞显示器; 微星 5K Mini-LED 双模电竞屏(5K@180Hz/2K@330Hz) 亮相 Computex 2026",
-      "link": "https://www.160.com/article/12732.html",
-      "time": "精选",
-      "src": "资讯整理"
-    },
-    {
-      "title": "微星 40 周年发布 RTX 5090 LIGHTNING Z 旗舰与内置 AI 代理的 OLED 电竞显示器",
-      "link": "https://www.160.com/article/12732.html",
-      "time": "精选",
-      "src": "资讯整理"
-    },
-    {
-      "title": "AMD 锐龙 AI Max 400 系列: 192GB 统一内存, 宣称本地可运行 300B 参数大模型",
       "link": "https://www.160.com/article/12732.html",
       "time": "精选",
       "src": "资讯整理"
@@ -985,9 +997,9 @@
       "src": "机核"
     },
     {
-      "title": "定动力、装“耳朵”、防风险 我国牵头制定多项汽车国际标准",
-      "link": "https://www.chinanews.com.cn/sh/2026/09-07/10692296.shtml",
-      "time": "09-07 23:58",
+      "title": "特朗普发文威胁：禁止加拿大飞机制造商庞巴迪在美销售",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-08/10692301.shtml",
+      "time": "09-08 06:35",
       "src": "中新网"
     }
   ],
@@ -1023,25 +1035,31 @@
       "src": "中新网"
     },
     {
-      "title": "卢米埃尔峰会 ：法、韩宣布投10亿欧元支持全球电影业",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260907-%E5%8D%A2%E7%B1%B3%E5%9F%83%E5%B0%94%E5%B3%B0%E4%BC%9A-%E6%B3%95-%E9%9F%A9%E6%8A%95%E5%85%A510%E4%BA%BF%E6%AC%A7%E5%85%83%E6%94%AF%E6%8C%81%E7%94%B5%E5%BD%B1%E4%B8%9A%E5%8F%91%E5%B1%95",
-      "time": "09-07 22:11",
-      "src": "法广RFI"
+      "title": "美加贸易冲突升级 特朗普威胁要禁售庞巴迪飞机",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1576834.htm",
+      "time": "09-08 03:52",
+      "src": "cnBeta.COM"
     },
     {
-      "title": "日本10年期国债收益率猛涨为什么引起日美异常紧张？",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%B8%9C%E4%BA%AC%E4%B8%93%E6%A0%8F/20260907-%E6%97%A5%E6%9C%AC10%E5%B9%B4%E6%9C%9F%E5%9B%BD%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87%E7%8C%9B%E6%B6%A8%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BC%95%E8%B5%B7%E6%97%A5%E7%BE%8E%E5%BC%82%E5%B8%B8%E7%B4%A7%E5%BC%A0",
-      "time": "09-07 18:12",
-      "src": "法广RFI"
+      "title": "美加贸易争端升级 特朗普威胁封杀庞巴迪飞机在美销售",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260907-%E7%BE%8E%E5%8A%A0%E8%B4%B8%E6%98%93%E4%BA%89%E7%AB%AF%E5%8D%87%E7%BA%A7-%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E5%B0%81%E6%9D%80%E5%BA%9E%E5%B7%B4%E8%BF%AA%E9%A3%9E%E6%9C%BA%E5%9C%A8%E7%BE%8E%E9%94%80%E5%94%AE",
+      "time": "09-08 05:24",
+      "src": "REUTERS - Evel"
     },
     {
-      "title": "欧洲思想文化长廊：希腊：欧洲文化永不磨灭的光辉第7：雅典的黄金时代之2：戏剧的繁盛",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%AC%A7%E6%B4%B2%E6%80%9D%E6%83%B3%E6%96%87%E5%8C%96%E9%95%BF%E5%BB%8A/20260907-%E6%AC%A7%E6%B4%B2%E6%80%9D%E6%83%B3%E6%96%87%E5%8C%96%E9%95%BF%E5%BB%8A-%E5%B8%8C%E8%85%8A-%E6%AC%A7%E6%B4%B2%E6%96%87%E5%8C%96%E6%B0%B8%E4%B8%8D%E7%A3%A8%E7%81%AD%E7%9A%84%E5%85%89%E8%BE%89%E7%AC%AC7-%E9%9B%85%E5%85%B8%E7%9A%84%E9%BB%84%E9%87%91%E6%97%B6%E4%BB%A3%E4%B9%8B2-%E6%88%8F%E5%89%A7%E7%9A%84%E7%B9%81%E7%9B%9B",
-      "time": "09-07 16:11",
-      "src": "法广RFI"
+      "title": "冯德莱恩结束格陵兰之行 宣布提供2亿欧元资金",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260907-%E5%86%AF%E5%BE%B7%E8%8E%B1%E6%81%A9%E7%BB%93%E6%9D%9F%E6%A0%BC%E9%99%B5%E5%85%B0%E4%B9%8B%E8%A1%8C-%E5%AE%A3%E5%B8%83%E6%8F%90%E4%BE%9B2%E4%BA%BF%E6%AC%A7%E5%85%83%E8%B5%84%E9%87%91",
+      "time": "09-08 05:20",
+      "src": "via REUTERS - "
     }
   ],
   "game_news": [
+    {
+      "title": "微软为 Win11 开发全新电池状态小组件，支持查看本机及外设电量",
+      "link": "https://www.ithome.com/0/999/496.htm",
+      "time": "09-08 06:18",
+      "src": "IT之家"
+    },
     {
       "title": "Steam 今年已为 Valve 带来 150 亿美元收入，《极限竞速：地平线 6》领跑新作",
       "link": "https://www.ithome.com/0/999/491.htm",
@@ -1081,12 +1099,6 @@
     {
       "title": "参演阵容介绍 Part 2 | 2026 GGG游戏节奏联欢夜",
       "link": "https://www.gcores.com/articles/219352",
-      "time": "09-07 17:00",
-      "src": "机核"
-    },
-    {
-      "title": "一座连结游戏的中转站：科隆 Gamescom 2026 游记",
-      "link": "https://www.gcores.com/articles/219348",
       "time": "09-07 17:00",
       "src": "机核"
     }
@@ -1175,28 +1187,28 @@
       "src": "中新网"
     },
     {
-      "title": "伊朗警告韩国勿介入霍尔木兹海峡 首尔宣布放缓派兵筹备",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260907-%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E9%9F%A9%E5%9B%BD%E5%8B%BF%E4%BB%8B%E5%85%A5%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1-%E9%A6%96%E5%B0%94%E5%AE%A3%E5%B8%83%E6%94%BE%E7%BC%93%E6%B4%BE%E5%85%B5%E7%AD%B9%E5%A4%87",
-      "time": "09-07 21:42",
-      "src": "AP"
+      "title": "美加贸易冲突升级 特朗普威胁要禁售庞巴迪飞机",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1576834.htm",
+      "time": "09-08 03:52",
+      "src": "cnBeta.COM"
     },
     {
-      "title": "地区冲突不断 粮食价格升至三年来最高水平",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%BB%8A%E6%97%A5%E7%BB%8F%E6%B5%8E/20260907-%E5%9C%B0%E5%8C%BA%E5%86%B2%E7%AA%81%E4%B8%8D%E6%96%AD-%E7%B2%AE%E9%A3%9F%E4%BB%B7%E6%A0%BC%E5%8D%87%E8%87%B3%E4%B8%89%E5%B9%B4%E6%9D%A5%E6%9C%80%E9%AB%98%E6%B0%B4%E5%B9%B3",
-      "time": "09-07 21:29",
-      "src": "法广RFI"
+      "title": "英国AI政策核心奠基人Matt Clifford因利益冲突争议从Anthropic离职",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1576830.htm",
+      "time": "09-08 03:49",
+      "src": "cnBeta.COM"
     },
     {
-      "title": "菲律宾防长 : 美韩军演减少 中国或将伺机而动",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260907-%E8%8F%B2%E5%BE%8B%E5%AE%BE%E9%98%B2%E9%95%BF-%E7%BE%8E%E9%9F%A9%E5%86%9B%E6%BC%94%E5%87%8F%E5%B0%91-%E4%B8%AD%E5%9B%BD%E6%88%96%E5%B0%86%E4%BC%BA%E6%9C%BA%E8%80%8C%E5%8A%A8",
-      "time": "09-07 21:24",
-      "src": "REUTERS - Caro"
+      "title": "大众汽车达成协议：工厂将由造车转为生产防空装备",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1576792.htm",
+      "time": "09-07 22:24",
+      "src": "cnBeta.COM"
     },
     {
-      "title": "日本战机紧急起飞对应中俄军机",
-      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260907-%E6%97%A5%E6%9C%AC%E6%88%98%E6%9C%BA%E7%B4%A7%E6%80%A5%E8%B5%B7%E9%A3%9E%E5%AF%B9%E5%BA%94%E4%B8%AD%E4%BF%84%E5%86%9B%E6%9C%BA",
-      "time": "09-07 17:10",
-      "src": "© Par Bourrich"
+      "title": "路透：中国军方加速研究人形机器人 探索未来战场应用",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260907-%E8%B7%AF%E9%80%8F-%E4%B8%AD%E5%9B%BD%E5%86%9B%E6%96%B9%E5%8A%A0%E9%80%9F%E7%A0%94%E7%A9%B6%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA-%E6%8E%A2%E7%B4%A2%E6%9C%AA%E6%9D%A5%E6%88%98%E5%9C%BA%E5%BA%94%E7%94%A8",
+      "time": "09-08 05:27",
+      "src": "REUTERS - Flor"
     }
   ]
 }
