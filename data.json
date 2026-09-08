@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09 00:28",
+  "generated_at": "2026-09-09 05:00",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -239,9 +239,9 @@
         "src": "IT之家"
       },
       {
-        "title": "三星将与阿斯麦合作开发下一代半导体制造技术",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1576926.htm",
-        "time": "09-08 16:04",
+        "title": "可伸缩仿生机器人鱼ScaFi亮相：靠身体摆动静默前行 适配不同水域探索需求",
+        "link": "https://www.cnbeta.com.tw/articles/science/1577020.htm",
+        "time": "09-09 03:07",
         "src": "cnBeta.COM"
       },
       {
@@ -251,33 +251,33 @@
         "src": "© AFP TV"
       },
       {
-        "title": "路透：中国军方加速研究人形机器人 探索未来战场应用",
-        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260907-%E8%B7%AF%E9%80%8F-%E4%B8%AD%E5%9B%BD%E5%86%9B%E6%96%B9%E5%8A%A0%E9%80%9F%E7%A0%94%E7%A9%B6%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA-%E6%8E%A2%E7%B4%A2%E6%9C%AA%E6%9D%A5%E6%88%98%E5%9C%BA%E5%BA%94%E7%94%A8",
-        "time": "09-08 05:27",
-        "src": "REUTERS - Flor"
+        "title": "9月9日美股成交额前20：英特尔涨超9% 10月或针对消费级处理器产品线推出新一轮调价",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirehke9035040.shtml",
+        "time": "09-09 04:45",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "9月9日美股收盘：三大股指普跌 道指跌超600点 美军对哈尔克岛附近目标实施打击",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirehkh5798821.shtml",
+        "time": "09-09 04:14",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "美国财政部扩大国债回购在即 华尔街料单次规模最高100亿美元",
+        "link": "https://finance.sina.com.cn/world/2026-09-09/doc-inireaak5897498.shtml",
+        "time": "09-09 02:59",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "贝森特称回购旨在给债市的“发热”降温 否认美债下跌源于信用担忧",
+        "link": "https://finance.sina.com.cn/world/2026-09-09/doc-inircvuk9199910.shtml",
+        "time": "09-09 00:59",
+        "src": "环球市场播报"
       },
       {
         "title": "贝森特：回购消息公布前 债券市场的“发热”程度正在加剧",
         "link": "https://finance.sina.com.cn/world/2026-09-09/doc-inircvuq4376061.shtml",
         "time": "09-09 00:06",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "Wrightson：本周美债回购料高于最低规模 不排除提高至原先的四或五倍",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-08/doc-inircrnn9262970.shtml",
-        "time": "09-08 22:37",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "一只关键科技ETF或将预示本轮牛市能否持续上行",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-08/doc-inircrns4474527.shtml",
-        "time": "09-08 22:13",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "SpaceX占纳指权重料获提升 或迎来逾百亿美元被动净买盘",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-08/doc-inircrnn9245833.shtml",
-        "time": "09-08 22:08",
         "src": "环球市场播报"
       }
     ]
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 52847.06,
-      "pct": -1.06,
-      "chg": -567.19,
-      "amount": "940848536亿"
+      "price": 52786.07,
+      "pct": -1.18,
+      "chg": -628.18,
+      "amount": "2208806306亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26449.61,
-      "pct": -0.22,
-      "chg": -57.38,
-      "amount": "9408512678亿"
+      "price": 26421.41,
+      "pct": -0.32,
+      "chg": -85.58,
+      "amount": "17846674077亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7688.09,
-      "pct": -0.4,
-      "chg": -30.51,
-      "amount": "889365746亿"
+      "price": 7673.52,
+      "pct": -0.58,
+      "chg": -45.08,
+      "amount": "2242697070亿"
     }
   ],
   "anime": {
@@ -580,39 +580,39 @@
     "hf": [
       {
         "id": "XHToken/Spark-X2.5-4B",
-        "likes": 818,
+        "likes": 837,
         "downloads": 10661,
         "pipeline": "text-generation"
       },
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 14356,
+        "likes": 14378,
         "downloads": 6712160,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-        "likes": 628,
+        "likes": 647,
         "downloads": 479597,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "openbmb/MiniCPM5-2B",
-        "likes": 592,
+        "likes": 629,
         "downloads": 2879,
         "pipeline": "text-generation"
       },
       {
         "id": "google/timesfm-3.0-pytorch",
-        "likes": 616,
+        "likes": 627,
         "downloads": 444052,
         "pipeline": "time-series-forecasting"
       },
       {
-        "id": "Lightricks/LTX-2.5",
-        "likes": 3146,
-        "downloads": 1644796,
-        "pipeline": "image-to-video"
+        "id": "kuben-developer/tiktok-videos-4b",
+        "likes": 275,
+        "downloads": 8167,
+        "pipeline": ""
       }
     ],
     "models": [
@@ -808,6 +808,18 @@
       "src": "IT之家"
     },
     {
+      "title": "澳洲玩家车库里意外翻出近2TB DDR4内存 估算价值或超1.2万美元",
+      "link": "https://www.cnbeta.com.tw/articles/science/1577034.htm",
+      "time": "09-09 04:28",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "苹果可能在本月正式发布 Beats 360 耳机",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1577030.htm",
+      "time": "09-09 04:25",
+      "src": "cnBeta.COM"
+    },
+    {
       "title": "官方售后开出800美元主板维修天价 第三方仅用一根细铜线成功修复笔记本黑屏",
       "link": "https://www.cnbeta.com.tw/articles/tech/1577000.htm",
       "time": "09-09 00:24",
@@ -820,28 +832,16 @@
       "src": "cnBeta.COM"
     },
     {
-      "title": "英特尔高数值孔径EUV晶圆处理量突破百万片 先进制程量产能力再获验证",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1576956.htm",
-      "time": "09-08 19:56",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "NVIDIA或为RTX 5070引入全新核心版本 GB203芯片有望下放至主流市场",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1576954.htm",
-      "time": "09-08 19:56",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "iPhone Ultra引入三家内存供应商：苹果议价失灵 自行消化部分成本",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1576942.htm",
-      "time": "09-08 18:18",
-      "src": "cnBeta.COM"
-    },
-    {
       "title": "社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源",
       "link": "https://sspai.com/post/114327",
       "time": "09-08 17:00",
       "src": "少数派"
+    },
+    {
+      "title": "9月9日美股成交额前20：英特尔涨超9% 10月或针对消费级处理器产品线推出新一轮调价",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirehke9035040.shtml",
+      "time": "09-09 04:45",
+      "src": "环球市场播报"
     },
     {
       "title": "Northland资本市场将英特尔评级上调至跑赢大盘",
@@ -1292,10 +1292,22 @@
       "src": "中新网"
     },
     {
-      "title": "路透：中国军方加速研究人形机器人 探索未来战场应用",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260907-%E8%B7%AF%E9%80%8F-%E4%B8%AD%E5%9B%BD%E5%86%9B%E6%96%B9%E5%8A%A0%E9%80%9F%E7%A0%94%E7%A9%B6%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA-%E6%8E%A2%E7%B4%A2%E6%9C%AA%E6%9D%A5%E6%88%98%E5%9C%BA%E5%BA%94%E7%94%A8",
-      "time": "09-08 05:27",
-      "src": "REUTERS - Flor"
+      "title": "英法加制裁以色列定居点商贸，约10国拟跟进，以关闭英领馆、禁英政要入境",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260908-%E8%8B%B1%E6%B3%95%E5%8A%A0%E5%88%B6%E8%A3%81%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%9A%E5%B1%85%E7%82%B9%E5%95%86%E8%B4%B8%EF%BC%8C10%E5%9B%BD%E8%B7%9F%E8%BF%9B%EF%BC%8C%E4%BB%A5%E5%85%B3%E9%97%AD%E8%8B%B1%E9%A2%86%E9%A6%86-%E7%A6%81%E8%8B%B1%E6%94%BF%E8%A6%81%E5%85%A5%E5%A2%83",
+      "time": "09-09 04:22",
+      "src": "法广RFI"
+    },
+    {
+      "title": "特习会可能影响美国大豆销售和中国无人机关税",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260908-%E7%89%B9%E4%B9%A0%E4%BC%9A%E5%8F%AF%E8%83%BD%E5%BD%B1%E5%93%8D%E7%BE%8E%E5%9B%BD%E5%A4%A7%E8%B1%86%E9%94%80%E5%94%AE%E5%92%8C%E4%B8%AD%E5%9B%BD%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%85%B3%E7%A8%8E",
+      "time": "09-09 03:09",
+      "src": "© Evan Vucci/ "
+    },
+    {
+      "title": "俄军恢复空袭基辅　和平谈判前景再添变数",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260908-%E4%BF%84%E5%86%9B%E6%81%A2%E5%A4%8D%E7%A9%BA%E8%A2%AD%E5%9F%BA%E8%BE%85-%E5%92%8C%E5%B9%B3%E8%B0%88%E5%88%A4%E5%89%8D%E6%99%AF%E5%86%8D%E6%B7%BB%E5%8F%98%E6%95%B0",
+      "time": "09-08 20:05",
+      "src": "法广RFI"
     },
     {
       "title": "美軍航母全數撤離印太：台灣該擔心「空窗期」嗎？",
@@ -1304,21 +1316,9 @@
       "src": "BBC中文"
     },
     {
-      "title": "伊朗胡塞盟友袭击沙特多处能源设施，布伦特原油触及98美元",
-      "link": "https://finance.sina.com.cn/world/2026-09-08/doc-inircvuq4369177.shtml",
-      "time": "09-08 23:45",
-      "src": "环球市场播报"
-    },
-    {
-      "title": "战争外溢、油价上涨，美国制裁伊朗航空公司加大经济施压力度",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-08/doc-inircvuq4360243.shtml",
-      "time": "09-08 23:11",
-      "src": "环球市场播报"
-    },
-    {
-      "title": "胡塞武装袭击沙特多处能源设施 布伦特原油价格触及98美元",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-08/doc-inircrnq6025338.shtml",
-      "time": "09-08 22:19",
+      "title": "美军在贾斯克附近袭击第二艘伊朗油轮",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirehkk4179121.shtml",
+      "time": "09-09 04:50",
       "src": "环球市场播报"
     }
   ]
