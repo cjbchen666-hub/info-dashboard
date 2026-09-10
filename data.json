@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11 01:37",
+  "generated_at": "2026-09-11 04:44",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -239,6 +239,24 @@
         "src": "IT之家"
       },
       {
+        "title": "特朗普承诺若中期选举获胜每人发5000美元，总计超1.3万亿美元，钱从哪儿来？",
+        "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260910-%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AF%BA%E8%8B%A5%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E8%8E%B7%E8%83%9C%E6%AF%8F%E4%BA%BA%E5%8F%915000%E7%BE%8E%E5%85%83%EF%BC%8C%E6%80%BB%E8%AE%A1%E8%B6%851-3%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E9%92%B1%E4%BB%8E%E5%93%AA%E5%84%BF%E6%9D%A5",
+        "time": "09-11 03:02",
+        "src": "AFP - RONALDO "
+      },
+      {
+        "title": "美国债市：国债大跌 油价上涨以及回购结果带来沉重压力",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkuqp2241429.shtml",
+        "time": "09-11 03:58",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "美国财政部长债实际回购规模低于上限 10年期收益率进一步走高",
+        "link": "https://finance.sina.com.cn/world/2026-09-11/doc-inirkqhk2541058.shtml",
+        "time": "09-11 02:40",
+        "src": "环球市场播报"
+      },
+      {
         "title": "关税、能源与AI热潮推高物价，美联储加息难解近忧",
         "link": "https://finance.sina.com.cn/world/2026-09-11/doc-inirkqhr2303972.shtml",
         "time": "09-11 01:18",
@@ -261,24 +279,6 @@
         "link": "https://finance.sina.com.cn/world/2026-09-10/doc-inirkiyn7462795.shtml",
         "time": "09-10 23:49",
         "src": "环球市场播报"
-      },
-      {
-        "title": "拉加德称欧洲央行此次加息“顺理成章” 市场预计还有更多紧缩行动",
-        "link": "https://finance.sina.com.cn/world/2026-09-10/doc-inirkiyn7460906.shtml",
-        "time": "09-10 23:42",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "欧洲央行官员据悉倾向进一步收紧政策 最快10月份再次加息",
-        "link": "https://finance.sina.com.cn/world/2026-09-10/doc-inirkiyn7457025.shtml",
-        "time": "09-10 23:28",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "美债收益率全线上扬并创多年新高 聚焦30年期标售和财政部回购",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirkiyr5585962.shtml",
-        "time": "09-10 22:37",
-        "src": "环球市场播报"
       }
     ]
   },
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 52053.65,
-      "pct": -0.62,
-      "chg": -327.01,
-      "amount": "1133610588亿"
+      "price": 52064.1,
+      "pct": -0.6,
+      "chg": -316.56,
+      "amount": "2072926679亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26132.03,
-      "pct": -0.46,
-      "chg": -121.31,
-      "amount": "10285743459亿"
+      "price": 26081.72,
+      "pct": -0.65,
+      "chg": -171.62,
+      "amount": "16310250992亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7597.4,
-      "pct": -0.51,
-      "chg": -38.96,
-      "amount": "1028397185亿"
+      "price": 7591.7,
+      "pct": -0.58,
+      "chg": -44.66,
+      "amount": "2082197724亿"
     }
   ],
   "anime": {
@@ -508,37 +508,37 @@
     "hf": [
       {
         "id": "deepseek-ai/DeepSeek-V4.1-Flash",
-        "likes": 1148,
+        "likes": 1255,
         "downloads": 6,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "openbmb/MiniCPM5-2B",
-        "likes": 1076,
+        "likes": 1097,
         "downloads": 42289,
         "pipeline": "text-generation"
       },
       {
         "id": "XHToken/Spark-X2.5-4B",
-        "likes": 1050,
+        "likes": 1058,
         "downloads": 15930,
         "pipeline": "text-generation"
       },
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 14614,
+        "likes": 14631,
         "downloads": 7322476,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-        "likes": 776,
+        "likes": 787,
         "downloads": 614850,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "nex-agi/Nex-N2.5-mini",
-        "likes": 638,
+        "likes": 647,
         "downloads": 2444,
         "pipeline": "text-generation"
       }
@@ -718,6 +718,18 @@
       "src": "IT之家"
     },
     {
+      "title": "NVIDIA App终于为统计浮层加入CPU温度和功耗监控",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1577332.htm",
+      "time": "09-10 20:06",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "单月狂卖7800颗！英特尔桌面CPU份额重回21% 酷睿Ultra销量翻倍",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1577292.htm",
+      "time": "09-10 16:01",
+      "src": "cnBeta.COM"
+    },
+    {
       "title": "社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源",
       "link": "https://sspai.com/post/114327",
       "time": "09-08 17:00",
@@ -767,6 +779,12 @@
         "link": "https://www.gcores.com/articles/219505",
         "time": "09-10 10:39",
         "src": "机核"
+      },
+      {
+        "title": "小岛秀夫证实PlayStation已取消有关次世代潜行动作大作《Physint》的合作",
+        "link": "https://www.cnbeta.com.tw/articles/game/1577322.htm",
+        "time": "09-10 19:37",
+        "src": "cnBeta.COM"
       },
       {
         "title": "小岛秀夫客串日剧《VIVANT》第二季第11集, 饰演警视总监\"绵贯贤\", 摘眼镜剃胡造型大反转",
@@ -1020,6 +1038,12 @@
   ],
   "econ_news": [
     {
+      "title": "甲骨文 2027 财年第一财季归母净利润 46.79 亿美元，同比增长 60%",
+      "link": "https://www.ithome.com/1/001/052.htm",
+      "time": "09-11 04:20",
+      "src": "IT之家"
+    },
+    {
       "title": "OpenAI 将为美国政府机构提供 AI 模型五折优惠，终止每年 1 美元试点项目",
       "link": "https://www.ithome.com/1/001/015.htm",
       "time": "09-10 22:25",
@@ -1059,12 +1083,6 @@
       "title": "纽约原油期价突破100美元",
       "link": "https://www.chinanews.com.cn/gj/2026/09-10/10694357.shtml",
       "time": "09-10 23:17",
-      "src": "中新网"
-    },
-    {
-      "title": "2026全球工业互联网大会在沈阳闭幕",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-10/10694354.shtml",
-      "time": "09-10 23:04",
       "src": "中新网"
     }
   ],
@@ -1220,10 +1238,10 @@
       "src": "Jeff McIntosh/"
     },
     {
-      "title": "特朗普：美伊战争将在中期选举后“立即结束”，油价也会大幅下跌",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260909-%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E4%BC%8A%E6%88%98%E4%BA%89%E5%B0%86%E5%9C%A8%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%90%8E-%E7%AB%8B%E5%8D%B3%E7%BB%93%E6%9D%9F-%EF%BC%8C%E6%B2%B9%E4%BB%B7%E4%B9%9F%E4%BC%9A%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B7%8C",
-      "time": "09-10 05:31",
-      "src": "© Jacquelyn Ma"
+      "title": "英國制裁約旦河西岸：對以色列關係跌至數十年谷底",
+      "link": "https://www.bbc.com/zhongwen/articles/c804dd0de8no/trad?at_medium=RSS&at_campaign=rss",
+      "time": "09-09 20:15",
+      "src": "BBC中文"
     }
   ]
 }
