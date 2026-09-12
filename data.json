@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12 04:50",
+  "generated_at": "2026-09-12 08:03",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,6 +233,12 @@
     ],
     "news": [
       {
+        "title": "冲刺史上最大 IPO：英伟达正洽谈为 Anthropic 投资至多 100 亿美元",
+        "link": "https://www.ithome.com/1/001/488.htm",
+        "time": "09-12 07:22",
+        "src": "IT之家"
+      },
+      {
         "title": "SpaceX与神秘客户签下每月11亿美元AI算力订单 年化合同金额超过130亿美元",
         "link": "https://www.cnbeta.com.tw/articles/tech/1577522.htm",
         "time": "09-11 20:45",
@@ -245,39 +251,33 @@
         "src": "cnBeta.COM"
       },
       {
-        "title": "9月12日美股收盘：三大指数集体上涨，油价回落，美联储下周加息押注升至87%",
-        "link": "https://finance.sina.com.cn/world/2026-09-12/doc-inirpcvs6982371.shtml",
-        "time": "09-12 04:35",
+        "title": "俄罗斯议会选举前一周，俄罗斯央行维持基准利率在14%不变",
+        "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260911-%E4%BF%84%E7%BD%97%E6%96%AF%E8%AE%AE%E4%BC%9A%E9%80%89%E4%B8%BE%E5%89%8D%E4%B8%80%E5%91%A8%EF%BC%8C%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%AE%E8%A1%8C%E7%BB%B4%E6%8C%81%E5%9F%BA%E5%87%86%E5%88%A9%E7%8E%87%E5%9C%A814-%E4%B8%8D%E5%8F%98",
+        "time": "09-12 05:13",
+        "src": "AP - Alexander"
+      },
+      {
+        "title": "高盛调整预期：美联储9月加息，此前预计维持利率不变",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-12/doc-inirpkck8602482.shtml",
+        "time": "09-12 07:32",
         "src": "环球市场播报"
       },
       {
-        "title": "摩根大通改弦更张 现预计美联储9月和12月加息",
-        "link": "https://finance.sina.com.cn/world/2026-09-12/doc-inirnxpq8776172.shtml",
-        "time": "09-12 03:48",
+        "title": "9月12日美股成交前20：甲骨文涨超8%后转跌 AI数据中心建设支出利好 戴尔大涨近12%",
+        "link": "https://finance.sina.com.cn/world/2026-09-12/doc-inirpkci1715681.shtml",
+        "time": "09-12 06:42",
         "src": "环球市场播报"
       },
       {
-        "title": "花旗预测美联储9月加息 然后在2027年降息",
-        "link": "https://finance.sina.com.cn/world/2026-09-12/doc-inirnxps5548355.shtml",
-        "time": "09-12 03:47",
-        "src": "环球市场播报"
+        "title": "星宇股份年报写出2.44万亿外包费：一个“万”字，差了多远？",
+        "link": "https://finance.sina.com.cn/stock/s/2026-09-12/doc-inirpkcq6889794.shtml",
+        "time": "09-12 06:05",
+        "src": "市场资讯"
       },
       {
-        "title": "美联储面临巨大加息压力 沃什到了必须“拿出行动的”时候",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-12/doc-inirnxpq8745173.shtml",
-        "time": "09-12 02:29",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "美国2026财年前11个月预算赤字达到1.97万亿美元",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-12/doc-inirnxpp1924428.shtml",
-        "time": "09-12 02:16",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "三菱日联预计美联储本月加息25基点 10月将按兵不动",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-12/doc-inirntfu5632028.shtml",
-        "time": "09-12 01:49",
+        "title": "9月12日外盘头条：沙特关闭东西向原油管道 美联储下周加息几成定局 对冲基金已大幅削减日元空头仓位",
+        "link": "https://finance.sina.com.cn/world/2026-09-12/doc-inirpcvm1830237.shtml",
+        "time": "09-12 05:30",
         "src": "环球市场播报"
       }
     ]
@@ -305,7 +305,7 @@
       "price": 26333.04,
       "pct": 0.96,
       "chg": 251.32,
-      "amount": "14763997504亿"
+      "amount": "14912361490亿"
     },
     {
       "name": "标普500",
@@ -327,7 +327,7 @@
         "score": 8.2,
         "img": "http://lain.bgm.tv/pic/cover/c/ad/f9/530725_CAqWC.jpg",
         "air_date": "2026-07-25",
-        "rank": 170
+        "rank": 171
       },
       {
         "id": 552533,
@@ -336,7 +336,7 @@
         "score": 8.0,
         "img": "http://lain.bgm.tv/pic/cover/c/28/41/552533_E9DF9.jpg",
         "air_date": "2026-07-04",
-        "rank": 248
+        "rank": 249
       },
       {
         "id": 679578,
@@ -354,7 +354,7 @@
         "score": 7.5,
         "img": "http://lain.bgm.tv/pic/cover/c/01/88/899_REwVW.jpg",
         "air_date": "1996-01-08",
-        "rank": 902
+        "rank": 901
       },
       {
         "id": 570583,
@@ -363,7 +363,7 @@
         "score": 7.2,
         "img": "http://lain.bgm.tv/pic/cover/c/0c/cf/570583_d3QZD.jpg",
         "air_date": "2026-07-04",
-        "rank": 1961
+        "rank": 1953
       },
       {
         "id": 538760,
@@ -372,7 +372,7 @@
         "score": 6.8,
         "img": "http://lain.bgm.tv/pic/cover/c/c5/16/538760_T0rxN.jpg",
         "air_date": "2026-07-04",
-        "rank": 3663
+        "rank": 3662
       },
       {
         "id": 587109,
@@ -381,7 +381,7 @@
         "score": 6.8,
         "img": "http://lain.bgm.tv/pic/cover/c/59/84/587109_q1iCs.jpg",
         "air_date": "2026-07-11",
-        "rank": 3271
+        "rank": 3281
       },
       {
         "id": 549975,
@@ -390,7 +390,7 @@
         "score": 6.6,
         "img": "http://lain.bgm.tv/pic/cover/c/01/f8/549975_swmz7.jpg",
         "air_date": "2026-07-25",
-        "rank": 3611
+        "rank": 3613
       },
       {
         "id": 576780,
@@ -426,7 +426,7 @@
         "score": 5.8,
         "img": "http://lain.bgm.tv/pic/cover/c/28/ae/529723_9qSo4.jpg",
         "air_date": "2026-07-04",
-        "rank": 7185
+        "rank": 7218
       },
       {
         "id": 530729,
@@ -435,7 +435,7 @@
         "score": 5.6,
         "img": "http://lain.bgm.tv/pic/cover/c/cf/0b/530729_82Fm9.jpg",
         "air_date": "2026-07-04",
-        "rank": 8500
+        "rank": 8501
       },
       {
         "id": 542603,
@@ -444,7 +444,7 @@
         "score": 5.5,
         "img": "http://lain.bgm.tv/pic/cover/c/1b/75/542603_KZT1m.jpg",
         "air_date": "2026-07-04",
-        "rank": 8552
+        "rank": 8551
       },
       {
         "id": 631018,
@@ -453,7 +453,7 @@
         "score": 5.5,
         "img": "http://lain.bgm.tv/pic/cover/c/e9/a8/631018_i8egE.jpg",
         "air_date": "2026-07-04",
-        "rank": 7036
+        "rank": 7035
       },
       {
         "id": 589368,
@@ -480,7 +480,7 @@
         "score": 3.9,
         "img": "http://lain.bgm.tv/pic/cover/c/b9/ac/563745_YI26V.jpg",
         "air_date": "2026-07-04",
-        "rank": 10097
+        "rank": 10100
       },
       {
         "id": 621843,
@@ -489,7 +489,7 @@
         "score": 3.6,
         "img": "http://lain.bgm.tv/pic/cover/c/a7/0a/621843_5tN5J.jpg",
         "air_date": "2026-07-04",
-        "rank": 9640
+        "rank": 9642
       },
       {
         "id": 651872,
@@ -538,6 +538,42 @@
   "ai": {
     "news_zh": [
       {
+        "title": "IT早报 0912：央视曝光 AI 中转站低价灰产；新版充电宝 3C 认证标准落地；36.9 万起特斯拉 Model Y 高性能版上市；哪吒汽车拟获 30 亿元偿债重整...",
+        "link": "https://www.ithome.com/1/001/495.htm",
+        "time": "09-12 07:50",
+        "src": "IT之家"
+      },
+      {
+        "title": "OpenAI 承认其 AI 智能体曾对 Ruby 语言包管理器 RubyGems 发起网络攻击",
+        "link": "https://www.ithome.com/1/001/492.htm",
+        "time": "09-12 07:36",
+        "src": "IT之家"
+      },
+      {
+        "title": "冲刺史上最大 IPO：英伟达正洽谈为 Anthropic 投资至多 100 亿美元",
+        "link": "https://www.ithome.com/1/001/488.htm",
+        "time": "09-12 07:22",
+        "src": "IT之家"
+      },
+      {
+        "title": "OpenAI 进一步完善 ChatGPT Sites：响应速度提升、新增协作功能、可绑定自定义域名",
+        "link": "https://www.ithome.com/1/001/485.htm",
+        "time": "09-12 07:10",
+        "src": "IT之家"
+      },
+      {
+        "title": "2026 年度《时代》杂志全球最佳企业榜单公布：英伟达位居第一、苹果重返排名前三",
+        "link": "https://www.ithome.com/1/001/483.htm",
+        "time": "09-12 07:02",
+        "src": "IT之家"
+      },
+      {
+        "title": "消息称高通原计划采用三星 2nm 制程打造新一代移动平台芯片，但因价格未谈拢导致量产推迟至 2027 年",
+        "link": "https://www.ithome.com/1/001/479.htm",
+        "time": "09-12 06:48",
+        "src": "IT之家"
+      },
+      {
         "title": "高盛：总是盯着“AI 泡沫会不会破”不放，反而可能会低估 AI 创造的价值",
         "link": "https://www.ithome.com/1/001/474.htm",
         "time": "09-11 23:48",
@@ -548,78 +584,42 @@
         "link": "https://www.ithome.com/1/001/459.htm",
         "time": "09-11 21:55",
         "src": "IT之家"
-      },
-      {
-        "title": "美国一律师用 ChatGPT 生成诉讼文书却出现伪造警察证词，被罚款 5000 美元",
-        "link": "https://www.ithome.com/1/001/451.htm",
-        "time": "09-11 21:06",
-        "src": "IT之家"
-      },
-      {
-        "title": "DeepSeek 将继续提供 V4 Pro API 调用服务：原定 9 月 14 日下线，计费方式保持不变",
-        "link": "https://www.ithome.com/1/001/443.htm",
-        "time": "09-11 20:25",
-        "src": "IT之家"
-      },
-      {
-        "title": "智能体时代的移动计算，Arm 通过一场大会给出自己的答案",
-        "link": "https://www.ithome.com/1/001/434.htm",
-        "time": "09-11 19:08",
-        "src": "IT之家"
-      },
-      {
-        "title": "Kimi K3 模型“突破性”成功，消息称月之暗面瞄准今年年底 20 亿美元年化收入",
-        "link": "https://www.ithome.com/1/001/411.htm",
-        "time": "09-11 18:03",
-        "src": "IT之家"
-      },
-      {
-        "title": "拒绝技术独占 模型排他 推动人工智能公平普惠发展",
-        "link": "https://www.chinanews.com.cn/cj/2026/09-11/10695028.shtml",
-        "time": "09-11 22:03",
-        "src": "中新网"
-      },
-      {
-        "title": "英伟达RTX 5090在德国市场遭遇空前涨价狂潮 八个月暴涨73%突破5000欧元大关",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1577546.htm",
-        "time": "09-12 02:27",
-        "src": "cnBeta.COM"
       }
     ],
     "hf": [
       {
         "id": "deepseek-ai/DeepSeek-V4.1-Flash",
-        "likes": 1761,
+        "likes": 1783,
         "downloads": 75774,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "openbmb/MiniCPM5-2B",
-        "likes": 1189,
+        "likes": 1193,
         "downloads": 67550,
         "pipeline": "text-generation"
       },
       {
         "id": "XHToken/Spark-X2.5-4B",
-        "likes": 1097,
+        "likes": 1102,
         "downloads": 17712,
         "pipeline": "text-generation"
       },
       {
-        "id": "nex-agi/Nex-N2.5-mini",
-        "likes": 685,
-        "downloads": 3121,
-        "pipeline": "text-generation"
-      },
-      {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 14745,
+        "likes": 14758,
         "downloads": 7563763,
         "pipeline": "image-text-to-text"
       },
       {
+        "id": "nex-agi/Nex-N2.5-mini",
+        "likes": 690,
+        "downloads": 3121,
+        "pipeline": "text-generation"
+      },
+      {
         "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-        "likes": 831,
+        "likes": 835,
         "downloads": 682187,
         "pipeline": "image-text-to-text"
       }
@@ -793,6 +793,24 @@
   ],
   "hw_news": [
     {
+      "title": "因采购到低价内存模块，Framework 宣布为笔记本产品降价并向消费者提供差价退款",
+      "link": "https://www.ithome.com/1/001/489.htm",
+      "time": "09-12 07:23",
+      "src": "IT之家"
+    },
+    {
+      "title": "Fairphone 旗下 Fairbuds 2 耳机外观谍照曝光：可选黑 / 绿双色，今年第四季度上市",
+      "link": "https://www.ithome.com/1/001/481.htm",
+      "time": "09-12 06:55",
+      "src": "IT之家"
+    },
+    {
+      "title": "联想 Googlebook 15 笔记本完整规格曝光：Ultra 5 325 处理器、15.3 英寸 120Hz OLED 面板",
+      "link": "https://www.ithome.com/1/001/477.htm",
+      "time": "09-12 06:40",
+      "src": "IT之家"
+    },
+    {
       "title": "飞牛四盘位万兆 NAS EVO4 PRO 英特尔版开售：i5-13500H，4499 元起",
       "link": "https://www.ithome.com/1/001/464.htm",
       "time": "09-11 22:31",
@@ -802,12 +820,6 @@
       "title": "机械革命无界 14S 2026 笔记本锐龙版上架：R7 H 255 处理器，24GB+512GB 售价 4699 元（国补后 3994.15 元）",
       "link": "https://www.ithome.com/1/001/454.htm",
       "time": "09-11 21:28",
-      "src": "IT之家"
-    },
-    {
-      "title": "雷柏推出 VT2 V2 / VT2s V2 鼠标：PAW3950 + nRF54L15，229 元",
-      "link": "https://www.ithome.com/1/001/406.htm",
-      "time": "09-11 17:59",
       "src": "IT之家"
     },
     {
@@ -848,18 +860,6 @@
     },
     {
       "title": "Intel 预览 Nova Lake 桌面平台: 最高48核(16P+32E), 18A 工艺, LGA1954 新插槽, 预计2026年底上市",
-      "link": "https://www.160.com/article/12732.html",
-      "time": "精选",
-      "src": "资讯整理"
-    },
-    {
-      "title": "宏碁首发 1000Hz 电竞显示器; 微星 5K Mini-LED 双模电竞屏(5K@180Hz/2K@330Hz) 亮相 Computex 2026",
-      "link": "https://www.160.com/article/12732.html",
-      "time": "精选",
-      "src": "资讯整理"
-    },
-    {
-      "title": "微星 40 周年发布 RTX 5090 LIGHTNING Z 旗舰与内置 AI 代理的 OLED 电竞显示器",
       "link": "https://www.160.com/article/12732.html",
       "time": "精选",
       "src": "资讯整理"
@@ -1042,12 +1042,6 @@
   "anime_industry": {
     "news": [
       {
-        "title": "国产动画电影《八仙！》二轮密钥延期至 10 月 17 日，票房破 19 亿",
-        "link": "https://www.ithome.com/1/001/405.htm",
-        "time": "09-11 17:57",
-        "src": "IT之家"
-      },
-      {
         "title": "Q萌二次元音游《白金档案PLATiNA :: LAB》正式发售",
         "link": "https://www.gcores.com/articles/219577",
         "time": "09-11 14:02",
@@ -1087,6 +1081,18 @@
   },
   "intl_news": [
     {
+      "title": "俄罗斯正式启动 5G 商用服务，首批覆盖莫斯科、圣彼得堡、叶卡捷琳堡等 16 个城市",
+      "link": "https://www.ithome.com/1/001/493.htm",
+      "time": "09-12 07:39",
+      "src": "IT之家"
+    },
+    {
+      "title": "2026 年度《时代》杂志全球最佳企业榜单公布：英伟达位居第一、苹果重返排名前三",
+      "link": "https://www.ithome.com/1/001/483.htm",
+      "time": "09-12 07:02",
+      "src": "IT之家"
+    },
+    {
       "title": "全球首款 AI 智能体手机，努比亚 NaviX Ultra 将搭载 2 亿像素主摄",
       "link": "https://www.ithome.com/1/001/459.htm",
       "time": "09-11 21:55",
@@ -1099,43 +1105,49 @@
       "src": "IT之家"
     },
     {
-      "title": "2026中国（广西）—东盟青少年无人机足球邀请赛开赛",
-      "link": "https://www.chinanews.com.cn/tp/2026/09-11/10694950.shtml",
-      "time": "09-11 22:37",
+      "title": "中国代表团参加联合国粮农组织渔业委员会第37届会议",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-12/10695100.shtml",
+      "time": "09-12 07:09",
       "src": "中新网"
     },
     {
-      "title": "2026广东旅博会开幕 首次设立国际医疗旅游展区",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-11/10695027.shtml",
-      "time": "09-11 22:05",
+      "title": "特朗普在五角大楼纪念“9·11”事件25周年",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-12/10695101.shtml",
+      "time": "09-12 07:09",
       "src": "中新网"
     },
     {
-      "title": "澳门服贸发展指数居全球第六",
-      "link": "https://www.chinanews.com.cn/dwq/2026/09-11/10695024.shtml",
-      "time": "09-11 22:05",
+      "title": "胡塞武装锁喉曼德海峡 沙特输油管道多次遇袭 全球能源承压",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-12/10695097.shtml",
+      "time": "09-12 06:45",
       "src": "中新网"
     },
     {
-      "title": "全球首创智能封闭式海洋养殖网箱在广东建成出口挪威",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-11/10695046.shtml",
-      "time": "09-11 22:04",
+      "title": "英国议会否决“安乐死”合法化法案",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-12/10695093.shtml",
+      "time": "09-12 06:34",
       "src": "中新网"
-    },
-    {
-      "title": "英伟达RTX 5090在德国市场遭遇空前涨价狂潮 八个月暴涨73%突破5000欧元大关",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1577546.htm",
-      "time": "09-12 02:27",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "中芯国际单季营收突破30亿美元 全球晶圆代工市场份额持续扩大",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1577538.htm",
-      "time": "09-12 00:16",
-      "src": "cnBeta.COM"
     }
   ],
   "econ_news": [
+    {
+      "title": "因采购到低价内存模块，Framework 宣布为笔记本产品降价并向消费者提供差价退款",
+      "link": "https://www.ithome.com/1/001/489.htm",
+      "time": "09-12 07:23",
+      "src": "IT之家"
+    },
+    {
+      "title": "冲刺史上最大 IPO：英伟达正洽谈为 Anthropic 投资至多 100 亿美元",
+      "link": "https://www.ithome.com/1/001/488.htm",
+      "time": "09-12 07:22",
+      "src": "IT之家"
+    },
+    {
+      "title": "火箭实验室抗议 NASA 将 7 亿美元火星通信合同授予蓝色起源，称其采购违反国会资格标准",
+      "link": "https://www.ithome.com/1/001/482.htm",
+      "time": "09-12 06:57",
+      "src": "IT之家"
+    },
     {
       "title": "2027 款雷克萨斯 LS 登陆日本老家：全系 3.5L V6 混动，1414 万日元起",
       "link": "https://www.ithome.com/1/001/471.htm",
@@ -1149,43 +1161,55 @@
       "src": "IT之家"
     },
     {
-      "title": "Alpina 创始人“复活”宝马 Z4：性能超过此前任何一代，11.55 万欧元",
-      "link": "https://www.ithome.com/1/001/416.htm",
-      "time": "09-11 18:19",
-      "src": "IT之家"
-    },
-    {
-      "title": "Kimi K3 模型“突破性”成功，消息称月之暗面瞄准今年年底 20 亿美元年化收入",
-      "link": "https://www.ithome.com/1/001/411.htm",
-      "time": "09-11 18:03",
-      "src": "IT之家"
-    },
-    {
       "title": "第十六届智慧城市与智能经济博览会在浙江宁波开幕",
       "link": "https://www.chinanews.com.cn/tp/2026/09-11/10694985.shtml",
       "time": "09-11 22:45",
       "src": "中新网"
     },
     {
-      "title": "服务消费如何高质量发展？多方共探新路径",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-11/10695074.shtml",
-      "time": "09-11 22:31",
-      "src": "中新网"
+      "title": "数据显示实体游戏依然占据索尼第一方独占游戏的显著营收份额",
+      "link": "https://www.cnbeta.com.tw/articles/game/1577550.htm",
+      "time": "09-12 03:10",
+      "src": "cnBeta.COM"
     },
     {
-      "title": "lululemon营收下滑，千元瑜伽裤不香了？",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-11/10695070.shtml",
-      "time": "09-11 22:22",
-      "src": "中新网"
-    },
-    {
-      "title": "全球首创智能封闭式海洋养殖网箱在广东建成出口挪威",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-11/10695046.shtml",
-      "time": "09-11 22:04",
-      "src": "中新网"
+      "title": "英伟达RTX 5090在德国市场遭遇空前涨价狂潮 八个月暴涨73%突破5000欧元大关",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1577546.htm",
+      "time": "09-12 02:27",
+      "src": "cnBeta.COM"
     }
   ],
   "game_news": [
+    {
+      "title": "微软披露黑客以“更新 Passkey 通行密钥”名义向企业员工发起钓鱼攻击，以便窃取 Microsoft 365 云服务数据",
+      "link": "https://www.ithome.com/1/001/494.htm",
+      "time": "09-12 07:48",
+      "src": "IT之家"
+    },
+    {
+      "title": "罗布乐思 Roblox：今年底推出网页版游戏、明年上线离线游玩功能",
+      "link": "https://www.ithome.com/1/001/491.htm",
+      "time": "09-12 07:35",
+      "src": "IT之家"
+    },
+    {
+      "title": "SE《王国之心 4》确认由 FF7 重制工作室开发，最终幻想仍有可能改编为影视作品",
+      "link": "https://www.ithome.com/1/001/486.htm",
+      "time": "09-12 07:16",
+      "src": "IT之家"
+    },
+    {
+      "title": "微软重启 Win11 管理员保护功能，预计随 26H2 发布",
+      "link": "https://www.ithome.com/1/001/478.htm",
+      "time": "09-12 06:44",
+      "src": "IT之家"
+    },
+    {
+      "title": "微软发布 Win11 多预览版更新：优化上下文菜单与文件资源管理器搜索",
+      "link": "https://www.ithome.com/1/001/475.htm",
+      "time": "09-12 01:12",
+      "src": "IT之家"
+    },
     {
       "title": "小岛秀夫《Physint》为何同索尼“分手”？消息称与预算、盈利前景、独占安排有关",
       "link": "https://www.ithome.com/1/001/470.htm",
@@ -1199,39 +1223,9 @@
       "src": "IT之家"
     },
     {
-      "title": "别克世纪 CENTURY 黑金限量版发售：限量 50 台，54.99 万元起",
-      "link": "https://www.ithome.com/1/001/415.htm",
-      "time": "09-11 18:15",
-      "src": "IT之家"
-    },
-    {
       "title": "【抽奖】无传送带设计：AI辅助自动化工厂游戏《奇迹工厂》将于9月21日在steam平台发售",
       "link": "https://www.gcores.com/articles/219589",
       "time": "09-11 16:41",
-      "src": "机核"
-    },
-    {
-      "title": "积木解谜新作《木木屋》公布发售预告，将于9月17日发售",
-      "link": "https://www.gcores.com/articles/219585",
-      "time": "09-11 16:03",
-      "src": "机核"
-    },
-    {
-      "title": "Q萌二次元音游《白金档案PLATiNA :: LAB》正式发售",
-      "link": "https://www.gcores.com/articles/219577",
-      "time": "09-11 14:02",
-      "src": "机核"
-    },
-    {
-      "title": "第三人称射击游戏《流浪地球：望日》公布首支预告片",
-      "link": "https://www.gcores.com/articles/219571",
-      "time": "09-11 12:50",
-      "src": "机核"
-    },
-    {
-      "title": "可变刷新率来了：NS2主机模式迎来VRR支持",
-      "link": "https://www.gcores.com/articles/219565",
-      "time": "09-11 11:52",
       "src": "机核"
     }
   ],
@@ -1301,9 +1295,27 @@
       "src": "ISW"
     },
     {
-      "title": "2026中国（广西）—东盟青少年无人机足球邀请赛开赛",
-      "link": "https://www.chinanews.com.cn/tp/2026/09-11/10694950.shtml",
-      "time": "09-11 22:37",
+      "title": "特朗普在五角大楼纪念“9·11”事件25周年",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-12/10695101.shtml",
+      "time": "09-12 07:09",
+      "src": "中新网"
+    },
+    {
+      "title": "胡塞武装锁喉曼德海峡 沙特输油管道多次遇袭 全球能源承压",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-12/10695097.shtml",
+      "time": "09-12 06:45",
+      "src": "中新网"
+    },
+    {
+      "title": "沙特输油管道遭伊拉克方向无人机袭击 伊总理下令紧急调查",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-12/10695095.shtml",
+      "time": "09-12 06:33",
+      "src": "中新网"
+    },
+    {
+      "title": "胡塞武装称除沙特外其余国家船只红海航行安全",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-12/10695094.shtml",
+      "time": "09-12 06:32",
       "src": "中新网"
     },
     {
@@ -1313,34 +1325,16 @@
       "src": "cnBeta.COM"
     },
     {
+      "title": "金砖国家峰会前夕，东道主莫迪与普京和伊朗总统会谈",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260911-%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E5%B3%B0%E4%BC%9A%E5%89%8D%E5%A4%95%EF%BC%8C%E4%B8%9C%E9%81%93%E4%B8%BB%E8%8E%AB%E8%BF%AA%E4%B8%8E%E6%99%AE%E4%BA%AC%E5%92%8C%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E4%BC%9A%E8%B0%88",
+      "time": "09-12 06:52",
+      "src": "Alexander Kaza"
+    },
+    {
       "title": "伊朗战争开辟新战线：也门胡塞武装迅速控制曼德海峡，恐将进一步推高国际油价",
       "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260911-%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E5%BC%80%E8%BE%9F%E6%96%B0%E6%88%98%E7%BA%BF-%E4%B9%9F%E9%97%A8%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E8%BF%85%E9%80%9F%E6%8E%A7%E5%88%B6%E6%9B%BC%E5%BE%B7%E6%B5%B7%E5%B3%A1%EF%BC%8C%E6%B2%B9%E4%BB%B7%E6%81%90%E5%B0%86%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%8D%87%E9%AB%98",
       "time": "09-12 03:36",
       "src": "AP Photo/STR -"
-    },
-    {
-      "title": "Anthropic称：也门胡塞控制区用户曾尝试利用Claude研发先进导弹",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260911-anthropic%E7%A7%B0-%E4%B9%9F%E9%97%A8%E8%83%A1%E5%A1%9E%E6%8E%A7%E5%88%B6%E5%8C%BA%E7%94%A8%E6%88%B7%E6%9B%BE%E5%B0%9D%E8%AF%95%E5%88%A9%E7%94%A8claude%E7%A0%94%E5%8F%91%E5%85%88%E8%BF%9B%E5%AF%BC%E5%BC%B9",
-      "time": "09-12 02:58",
-      "src": "REUTERS - Dado"
-    },
-    {
-      "title": "特朗普将“9·11事件”与伊朗战争相联系：美国永远不会忘记，这就是我们今天为何而战",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260911-%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86-9%C2%B711%E4%BA%8B%E4%BB%B6-%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E7%9B%B8%E8%81%94%E7%B3%BB-%E7%BE%8E%E5%9B%BD%E6%B0%B8%E8%BF%9C%E4%B8%8D%E4%BC%9A%E5%BF%98%E8%AE%B0%EF%BC%8C%E8%BF%99%E5%B0%B1%E6%98%AF%E6%88%91%E4%BB%AC%E4%BB%8A%E5%A4%A9%E4%B8%BA%E4%BD%95%E8%80%8C%E6%88%98",
-      "time": "09-12 02:39",
-      "src": "REUTERS - Evel"
-    },
-    {
-      "title": "菲防长：对战狼外交应坚定抵制 透露菲国防部正研究建设四五个海军基地",
-      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260911-%E8%8F%B2%E9%98%B2%E9%95%BF-%E5%AF%B9%E6%88%98%E7%8B%BC%E5%A4%96%E4%BA%A4%E5%BA%94%E5%9D%9A%E5%AE%9A%E6%8A%B5%E5%88%B6-%E9%80%8F%E9%9C%B2%E8%8F%B2%E5%9B%BD%E9%98%B2%E9%83%A8%E6%AD%A3%E7%A0%94%E7%A9%B6%E5%BB%BA%E8%AE%BE%E5%9B%9B%E4%BA%94%E4%B8%AA%E6%B5%B7%E5%86%9B%E5%9F%BA%E5%9C%B0",
-      "time": "09-11 23:31",
-      "src": "© 美联社图片"
-    },
-    {
-      "title": "9-11袭击事件25年后重看地缘政治格局重组中的美国",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260911-9-11%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B625%E5%B9%B4%E5%90%8E%E9%87%8D%E7%9C%8B%E5%9C%B0%E7%BC%98%E6%94%BF%E6%B2%BB%E6%A0%BC%E5%B1%80%E9%87%8D%E7%BB%84%E4%B8%AD%E7%9A%84%E7%BE%8E%E5%9B%BD",
-      "time": "09-11 22:38",
-      "src": "法广RFI"
     }
   ]
 }
