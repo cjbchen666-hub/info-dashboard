@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15 15:33",
+  "generated_at": "2026-09-15 21:23",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,52 +233,52 @@
     ],
     "news": [
       {
-        "title": "行业呼吁控制 AI 研发节奏：投资者担忧资本开支降温，半导体板块承压",
-        "link": "https://www.ithome.com/1/002/562.htm",
-        "time": "09-15 14:59",
+        "title": "博通 CEO 陈福阳回应 AI 放缓担忧：算力需求仍强劲，长期收入目标不变",
+        "link": "https://www.ithome.com/1/002/767.htm",
+        "time": "09-15 20:43",
         "src": "IT之家"
       },
       {
-        "title": "比尔 · 盖茨：中美大模型各有 4 家能够保持最先进水平，中国人形机器人运动会非常有意思",
-        "link": "https://www.ithome.com/1/002/520.htm",
-        "time": "09-15 12:26",
+        "title": "全国首个具身智能机器人专用 SIM 卡发布：套餐 599 元起，峰值上行至高 500Mbps",
+        "link": "https://www.ithome.com/1/002/714.htm",
+        "time": "09-15 18:17",
         "src": "IT之家"
       },
       {
-        "title": "国家统计局：截至 6 月末我国已建成 70 余条算力大通道",
-        "link": "https://www.ithome.com/1/002/511.htm",
-        "time": "09-15 11:45",
-        "src": "IT之家"
+        "title": "拉加德警告欧洲面临AI“断供”风险 呼吁扩建本土算力",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1578066.htm",
+        "time": "09-15 16:44",
+        "src": "cnBeta.COM"
       },
       {
-        "title": "报道称英国央行考虑停止卖出长期国债",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-15/doc-inirwwmw6970005.shtml",
-        "time": "09-15 15:33",
+        "title": "交易员与欧洲央行、英国央行意见相左 对加息力度看法迥异",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-15/doc-inirxpis3622617.shtml",
+        "time": "09-15 20:59",
         "src": "环球市场播报"
       },
       {
-        "title": "美联储9月加息已定？市场存在分歧",
-        "link": "https://finance.sina.com.cn/roll/2026-09-15/doc-inirwwna3797955.shtml",
-        "time": "09-15 15:20",
-        "src": "环球网"
-      },
-      {
-        "title": "加拿大8月通胀率维持3%，核心价格压力仍接近央行目标",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-15/doc-inirwwmu8622268.shtml",
-        "time": "09-15 14:59",
+        "title": "美联储银行监管数据库上月发生中断 引发监管能力担忧",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-15/doc-inirxhzw3679917.shtml",
+        "time": "09-15 20:42",
         "src": "环球市场播报"
       },
       {
-        "title": "不加息概率极低！小摩：美联储决议五类情境剖析",
-        "link": "https://finance.sina.com.cn/jjxw/2026-09-15/doc-inirwwna3786351.shtml",
-        "time": "09-15 14:58",
+        "title": "盘前：纳指期货跌0.07% 美债收益率持续攀升",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-15/doc-inirxhzu3737900.shtml",
+        "time": "09-15 20:30",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "不会只加息一次：调查显示美联储未来一年至少还将加息两次",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-15/doc-inirxhzu3723424.shtml",
+        "time": "09-15 20:24",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "拟募资90亿元，千亿浪潮信息“豪赌”液冷与AI算力",
+        "link": "https://finance.sina.com.cn/stock/s/2026-09-15/doc-inirxhzu3681030.shtml",
+        "time": "09-15 19:12",
         "src": "市场资讯"
-      },
-      {
-        "title": "10年期美债收益率突破5%创近20年新高 美联储抗通胀信誉面临大考",
-        "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-15/doc-inirwwna3779124.shtml",
-        "time": "09-15 14:25",
-        "src": "智通财经APP"
       }
     ]
   },
@@ -286,10 +286,10 @@
     {
       "name": "恒生指数",
       "code": "HSI",
-      "price": 24685.25,
-      "pct": -0.93,
-      "chg": -232.35,
-      "amount": "1552亿"
+      "price": 24667.24,
+      "pct": -1.0,
+      "chg": -250.36,
+      "amount": "1872亿"
     },
     {
       "name": "道琼斯",
@@ -430,90 +430,90 @@
   "ai": {
     "news_zh": [
       {
-        "title": "OPPO Find X10 Pro Max 手机官宣搭载天玑 9600 Pro 芯片",
-        "link": "https://www.ithome.com/1/002/596.htm",
-        "time": "09-15 15:30",
+        "title": "博通 CEO 陈福阳回应 AI 放缓担忧：算力需求仍强劲，长期收入目标不变",
+        "link": "https://www.ithome.com/1/002/767.htm",
+        "time": "09-15 20:43",
         "src": "IT之家"
       },
       {
-        "title": "TDK 计划斥资 400 亿日元提升薄膜电感产能，应对 AI 产业需求提升",
-        "link": "https://www.ithome.com/1/002/595.htm",
-        "time": "09-15 15:25",
+        "title": "因 AI 投入加大，消息称字节跳动今年上半年利润降至 200 亿美元",
+        "link": "https://www.ithome.com/1/002/764.htm",
+        "time": "09-15 20:37",
         "src": "IT之家"
       },
       {
-        "title": "比尔 · 盖茨：各国政府尚未准备好应对 AI 带来的社会变革",
-        "link": "https://www.ithome.com/1/002/592.htm",
-        "time": "09-15 15:16",
+        "title": "Salesforce 联合英伟达推出 Koa 推理大模型，挑战闭源前沿模型",
+        "link": "https://www.ithome.com/1/002/760.htm",
+        "time": "09-15 20:25",
         "src": "IT之家"
       },
       {
-        "title": "行业呼吁控制 AI 研发节奏：投资者担忧资本开支降温，半导体板块承压",
-        "link": "https://www.ithome.com/1/002/562.htm",
-        "time": "09-15 14:59",
+        "title": "OpenAI 内部 Lily 项目曝光：人工审核 ChatGPT 用户聊天记录以优化大模型",
+        "link": "https://www.ithome.com/1/002/750.htm",
+        "time": "09-15 19:48",
         "src": "IT之家"
       },
       {
-        "title": "联发科技陈冠州：Token 经济时代来临，智能体将引爆 Token 消耗 & 市场规模",
-        "link": "https://www.ithome.com/1/002/554.htm",
-        "time": "09-15 14:54",
+        "title": "曝百度挖来前谷歌 DeepMind 核心成员 Qiyin Wu，曾是 Gemini 2.5 模型官方报告核心作者",
+        "link": "https://www.ithome.com/1/002/740.htm",
+        "time": "09-15 19:20",
         "src": "IT之家"
       },
       {
-        "title": "谷歌 DeepMind 前员工警告：AI 有能力灭绝人类，留给我们的时间已不多",
-        "link": "https://www.ithome.com/1/002/547.htm",
-        "time": "09-15 14:48",
+        "title": "12.2\" 轻薄本 mouse X2 发布：质量 981g，至高搭载 AMD 锐龙 AI 7 350",
+        "link": "https://www.ithome.com/1/002/734.htm",
+        "time": "09-15 19:04",
         "src": "IT之家"
       },
       {
-        "title": "微信员工辟谣 AI 助手小微“直接读取聊天记录”、“偷看所有隐私”：都是失实的",
-        "link": "https://www.ithome.com/1/002/542.htm",
-        "time": "09-15 14:32",
+        "title": "英伟达黄仁勋换新机，从三星 Galaxy Z Fold7 升级到 Fold8",
+        "link": "https://www.ithome.com/1/002/728.htm",
+        "time": "09-15 18:43",
         "src": "IT之家"
       },
       {
-        "title": "网友测试阿里 Qwen3.8-27B AI 模型极限：单张 RTX 3090 约 5 小时开发出僵尸射击游戏",
-        "link": "https://www.ithome.com/1/002/540.htm",
-        "time": "09-15 14:14",
+        "title": "ANBERNIC 安伯尼克 RG DS Plus 双屏掌机开售：首发 569 元，RK3568 芯片",
+        "link": "https://www.ithome.com/1/002/724.htm",
+        "time": "09-15 18:35",
         "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "deepseek-ai/DeepSeek-V4.1-Flash",
-        "likes": 2525,
-        "downloads": 288414,
+        "likes": 2589,
+        "downloads": 325712,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "Edge0/Edge0-35B-A3B-preview",
-        "likes": 2233,
-        "downloads": 8109,
+        "likes": 2417,
+        "downloads": 17853,
         "pipeline": "text-generation"
       },
       {
         "id": "openbmb/MiniCPM5-2B",
-        "likes": 1413,
-        "downloads": 206774,
+        "likes": 1425,
+        "downloads": 271754,
         "pipeline": "text-generation"
       },
       {
         "id": "nex-agi/Nex-N2.5-mini",
-        "likes": 786,
-        "downloads": 4543,
+        "likes": 800,
+        "downloads": 5202,
         "pipeline": "text-generation"
       },
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 15176,
-        "downloads": 7703400,
+        "likes": 15205,
+        "downloads": 7702543,
         "pipeline": "image-text-to-text"
       },
       {
-        "id": "nex-agi/Nex-N2.5-Pro",
-        "likes": 636,
-        "downloads": 30489,
-        "pipeline": "text-generation"
+        "id": "m-a-p/YuE2-3B",
+        "likes": 523,
+        "downloads": 6716,
+        "pipeline": "text-to-audio"
       }
     ],
     "models": [
@@ -685,86 +685,80 @@
   ],
   "hw_news": [
     {
-      "title": "联发科天玑 9600 Pro 处理器采用台积电最新 2nm 制程，支持 LPDDR6 内存、UFS 5.0 闪存",
-      "link": "https://www.ithome.com/1/002/589.htm",
-      "time": "09-15 15:15",
+      "title": "Sharkoon 推出 Stealthbite IEM 入耳式耳机，搭载 10mm 圈铁混合单元",
+      "link": "https://www.ithome.com/1/002/771.htm",
+      "time": "09-15 21:13",
       "src": "IT之家"
     },
     {
-      "title": "笔记本版 RTX 5070 Ti 显卡突破 140W 上限：冲上 160W 后跑分较最佳成绩高 16%",
-      "link": "https://www.ithome.com/1/002/585.htm",
-      "time": "09-15 15:08",
+      "title": "Keychron Q13 Ultra 8K 机械键盘国行发售：96% Alice 配列，1601 元",
+      "link": "https://www.ithome.com/1/002/755.htm",
+      "time": "09-15 20:10",
       "src": "IT之家"
     },
     {
-      "title": "联想推出 IdeaCentre AIO 24IWC11 一体机：至高酷睿 7 350 处理器，24 寸 1080P 屏幕",
-      "link": "https://www.ithome.com/1/002/557.htm",
-      "time": "09-15 14:58",
+      "title": "三星发布 Galaxy A18 4G 手机，搭载 Exynos 1610 处理器",
+      "link": "https://www.ithome.com/1/002/752.htm",
+      "time": "09-15 20:07",
       "src": "IT之家"
     },
     {
-      "title": "拓品推出 KB22“键盘声卡”：集成专业音频接口，1299 元",
-      "link": "https://www.ithome.com/1/002/541.htm",
-      "time": "09-15 14:22",
+      "title": "12.2\" 轻薄本 mouse X2 发布：质量 981g，至高搭载 AMD 锐龙 AI 7 350",
+      "link": "https://www.ithome.com/1/002/734.htm",
+      "time": "09-15 19:04",
       "src": "IT之家"
     },
     {
-      "title": "网友测试阿里 Qwen3.8-27B AI 模型极限：单张 RTX 3090 约 5 小时开发出僵尸射击游戏",
-      "link": "https://www.ithome.com/1/002/540.htm",
-      "time": "09-15 14:14",
+      "title": "《007 初露锋芒》游戏路径追踪更新上线，最低 RTX 5070",
+      "link": "https://www.ithome.com/1/002/732.htm",
+      "time": "09-15 19:01",
       "src": "IT之家"
     },
     {
-      "title": "冲击英伟达护城河：开源项目让 AMD RX 9060 XT 显卡跑通部分 CUDA 库",
-      "link": "https://www.ithome.com/1/002/531.htm",
-      "time": "09-15 13:52",
+      "title": "水月雨耳机新品 Position 准星公布，9 月 17 日发布",
+      "link": "https://www.ithome.com/1/002/703.htm",
+      "time": "09-15 18:01",
       "src": "IT之家"
     },
     {
-      "title": "惠普战 X Pro 锐龙版上市：锐龙 AI 9 HX Pro 470、64GB + 2TB 存储，29999 元",
-      "link": "https://www.ithome.com/1/002/515.htm",
-      "time": "09-15 12:00",
+      "title": "威刚 XPG 进入显示器领域，发布首批 4 款产品",
+      "link": "https://www.ithome.com/1/002/700.htm",
+      "time": "09-15 17:52",
       "src": "IT之家"
     },
     {
-      "title": "艾利和推出 CLARUS 克鲁斯 Hi-Fi 入耳式耳机，21999 元",
-      "link": "https://www.ithome.com/1/002/490.htm",
-      "time": "09-15 11:26",
-      "src": "IT之家"
-    },
-    {
-      "title": "映泰推广12年前显卡GT 730，四路HDMI成最大卖点",
-      "link": "https://www.gcores.com/articles/219690",
-      "time": "09-14 14:03",
+      "title": "【传言】英伟达60系显卡2027年上半年发售",
+      "link": "https://www.gcores.com/articles/219756",
+      "time": "09-15 18:49",
       "src": "机核"
     },
     {
-      "title": "内存价格疯涨！国产迭代旗舰标准版集体砍掉16+1TB版本",
-      "link": "https://finance.sina.com.cn/tech/discovery/2026-09-15/doc-inirveaq9273795.shtml",
-      "time": "09-14 19:54",
-      "src": "快科技"
+      "title": "德国DDR5内存价格指数创历史新高 一年内涨幅超过54%",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578106.htm",
+      "time": "09-15 20:47",
+      "src": "cnBeta.COM"
     },
     {
-      "title": "AMD锐龙全新AI芯片上市：连发9款新品，支持本地300B大模型，最高192GB内存",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-14/doc-iniruxuy4544318.shtml",
-      "time": "09-14 18:57",
-      "src": "新浪科技"
+      "title": "联发科天玑9600M处理器亮相：全大核CPU架构 满足多元需求",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578088.htm",
+      "time": "09-15 19:46",
+      "src": "cnBeta.COM"
     },
     {
-      "title": "Computex 2026: NVIDIA 发布 ARM 架构 PC 芯片 RTX Spark, 集成 Blackwell GPU, 对标苹果 M5",
-      "link": "https://new.qq.com/rain/a/20260605A09PXY00",
-      "time": "精选",
-      "src": "资讯整理"
+      "title": "二手笔记本严重过热 维修师拆机直接傻眼：满机子硅脂",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578072.htm",
+      "time": "09-15 16:47",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "新架构不敌老将 酷睿i7-14700K成英特尔销量支柱",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578054.htm",
+      "time": "09-15 15:02",
+      "src": "cnBeta.COM"
     }
   ],
   "kojima": {
     "news": [
-      {
-        "title": "小岛秀夫与微软 XBOX CEO 夏尔马会面，谈合作项目《OD》《PHYSINT》",
-        "link": "https://finance.sina.com.cn/tech/digi/2026-09-14/doc-inirutnw7268205.shtml",
-        "time": "09-14 15:50",
-        "src": "IT之家"
-      },
       {
         "title": "小岛秀夫客串日剧《VIVANT》第二季第11集, 饰演警视总监\"绵贯贤\", 摘眼镜剃胡造型大反转",
         "link": "https://dy.163.com/article/L2RI4BGS0526K1KN.html",
@@ -934,12 +928,6 @@
   "anime_industry": {
     "news": [
       {
-        "title": "《哆啦 A 梦：大雄的蒸汽时间车》剧场版动画电影公布预告，2027 年日本上映",
-        "link": "https://www.ithome.com/1/002/525.htm",
-        "time": "09-15 12:51",
-        "src": "IT之家"
-      },
-      {
         "title": "《动画产业报告2025》: 市场规模达 3.84 万亿日元创历史新高, 海外占比约 56.5%",
         "link": "https://www.info35.net/hotopics/44871.html",
         "time": "精选",
@@ -967,65 +955,71 @@
   },
   "intl_news": [
     {
-      "title": "联发科官宣连续六年蝉联全球智能手机 SoC 市场份额第一",
-      "link": "https://www.ithome.com/1/002/567.htm",
-      "time": "09-15 15:00",
+      "title": "华为发布全球首个 3D 数据中心",
+      "link": "https://www.ithome.com/1/002/762.htm",
+      "time": "09-15 20:30",
       "src": "IT之家"
     },
     {
-      "title": "李柯：比亚迪在欧洲销售的产品最终都将实现本地生产，首款重卡 ETT44 明年进入欧洲",
-      "link": "https://www.ithome.com/1/002/529.htm",
-      "time": "09-15 13:42",
+      "title": "宝马确认新一代 3 系继续提供插混版，9 月底全球首发",
+      "link": "https://www.ithome.com/1/002/756.htm",
+      "time": "09-15 20:20",
       "src": "IT之家"
     },
     {
-      "title": "外交部：高市早苗涉台错误言行是当前中日关系面临严重困难的最大症结",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-15/10696778.shtml",
-      "time": "09-15 15:31",
+      "title": "东西问丨余虹：平陆运河通航将如何重构中国—东盟经贸格局？",
+      "link": "https://www.chinanews.com.cn/dxw/2026/09-15/10697067.shtml",
+      "time": "09-15 21:05",
       "src": "中新网"
     },
     {
-      "title": "外交部：中国在本国领土开展建设等活动是主权范围内的事 正当合法",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-15/10696775.shtml",
-      "time": "09-15 15:27",
+      "title": "东西问丨顾晓敏：长三角国际科创中心科技金融的破局之道",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-15/10697066.shtml",
+      "time": "09-15 20:50",
       "src": "中新网"
     },
     {
-      "title": "彭清华出席庆祝中国－东盟建立全面战略伙伴关系5周年暨中国－东盟建立对话关系35周年招待会",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-15/10696764.shtml",
-      "time": "09-15 15:14",
-      "src": "中新网"
+      "title": "德国DDR5内存价格指数创历史新高 一年内涨幅超过54%",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578106.htm",
+      "time": "09-15 20:47",
+      "src": "cnBeta.COM"
     },
     {
-      "title": "派早报：美国 AI 高管呼吁放缓研发，特朗普反对",
-      "link": "https://sspai.com/post/114539",
-      "time": "09-14 06:55",
-      "src": "少数派"
+      "title": "《时代》2026全球最佳公司榜：英伟达蝉联榜首 联想首次上榜",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578078.htm",
+      "time": "09-15 19:28",
+      "src": "cnBeta.COM"
     },
     {
-      "title": "金砖国家峰会见证了中印关系在谨慎地回暖",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20260915-%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E5%B3%B0%E4%BC%9A%E8%A7%81%E8%AF%81%E4%BA%86%E4%B8%AD%E5%8D%B0%E5%85%B3%E7%B3%BB%E5%9C%A8%E8%B0%A8%E6%85%8E%E5%9C%B0%E5%9B%9E%E6%9A%96",
-      "time": "09-15 08:29",
-      "src": "法广RFI"
+      "title": "拉加德警告欧洲面临AI“断供”风险 呼吁扩建本土算力",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578066.htm",
+      "time": "09-15 16:44",
+      "src": "cnBeta.COM"
     },
     {
-      "title": "拉加德警告：欧洲面临的人工智能“断供”风险空前加剧",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260914-%E6%8B%89%E5%8A%A0%E5%BE%B7%E8%AD%A6%E5%91%8A-%E6%AC%A7%E6%B4%B2%E9%9D%A2%E4%B8%B4%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E6%96%AD%E4%BE%9B-%E9%A3%8E%E9%99%A9%E7%A9%BA%E5%89%8D%E5%8A%A0%E5%89%A7",
-      "time": "09-15 05:14",
-      "src": "REUTERS - Anne"
+      "title": "白宫科技顾问抨击美AI巨头：你们自己得保证产品安全 别老想着靠政府",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578044.htm",
+      "time": "09-15 14:58",
+      "src": "cnBeta.COM"
     }
   ],
   "econ_news": [
     {
-      "title": "TDK 计划斥资 400 亿日元提升薄膜电感产能，应对 AI 产业需求提升",
-      "link": "https://www.ithome.com/1/002/595.htm",
-      "time": "09-15 15:25",
+      "title": "因 iOS 18 导致部分 iPhone 15 屏幕绿线，苹果遭印度消费者保护机构调查",
+      "link": "https://www.ithome.com/1/002/765.htm",
+      "time": "09-15 20:41",
       "src": "IT之家"
     },
     {
-      "title": "联发科技陈冠州：Token 经济时代来临，智能体将引爆 Token 消耗 & 市场规模",
-      "link": "https://www.ithome.com/1/002/554.htm",
-      "time": "09-15 14:54",
+      "title": "因 AI 投入加大，消息称字节跳动今年上半年利润降至 200 亿美元",
+      "link": "https://www.ithome.com/1/002/764.htm",
+      "time": "09-15 20:37",
+      "src": "IT之家"
+    },
+    {
+      "title": "奥迪海外最便宜电动汽车 A2 e-tron 开放选配：基础版 3.82 万欧元，仅有手动调节织物座椅",
+      "link": "https://www.ithome.com/1/002/742.htm",
+      "time": "09-15 19:32",
       "src": "IT之家"
     },
     {
@@ -1035,66 +1029,60 @@
       "src": "机核"
     },
     {
-      "title": "我国县域消费加速扩容提质",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-15/10696777.shtml",
-      "time": "09-15 15:30",
+      "title": "2026年中国经济社会论坛杭州举行 中外嘉宾呼吁加强多边协同",
+      "link": "https://www.chinanews.com.cn/sh/2026/09-15/10697042.shtml",
+      "time": "09-15 20:32",
       "src": "中新网"
     },
     {
-      "title": "瑞士随欧盟制裁苏丹出产的黄金",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260914-rfi%E6%B3%95%E5%B9%BF-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E7%91%9E%E5%A3%AB%E9%9A%8F%E6%AC%A7%E7%9B%9F%E5%88%B6%E8%A3%81%E8%8B%8F%E4%B8%B9%E5%87%BA%E4%BA%A7%E7%9A%84%E9%BB%84%E9%87%91",
-      "time": "09-15 06:13",
-      "src": "AP - Kamran Je"
+      "title": "中国8月银行结售汇顺差485亿美元 主要是外汇资金净流入",
+      "link": "https://www.chinanews.com.cn/cj/2026/09-15/10697031.shtml",
+      "time": "09-15 20:27",
+      "src": "中新网"
     },
     {
-      "title": "法中外长通话：王毅敦促欧盟化解贸易摩擦避免对抗升级",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260914-%E6%B3%95%E4%B8%AD%E5%A4%96%E9%95%BF%E9%80%9A%E8%AF%9D-%E7%8E%8B%E6%AF%85%E6%95%A6%E4%BF%83%E6%AC%A7%E7%9B%9F%E5%8C%96%E8%A7%A3%E8%B4%B8%E6%98%93%E6%91%A9%E6%93%A6%E9%81%BF%E5%85%8D%E5%AF%B9%E6%8A%97%E5%8D%87%E7%BA%A7",
-      "time": "09-15 05:21",
-      "src": "via REUTERS - "
+      "title": "“关爱新就业群体电影公益放映交流活动”在京启动",
+      "link": "https://www.chinanews.com.cn/cul/2026/09-15/10697039.shtml",
+      "time": "09-15 20:27",
+      "src": "中新网"
     },
     {
-      "title": "回声报：遭中国“窃取”科技机密，韩国强化其“反工业间谍”武器库",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260914-%E5%9B%9E%E5%A3%B0%E6%8A%A5-%E9%81%AD%E4%B8%AD%E5%9B%BD-%E7%AA%83%E5%8F%96-%E7%A7%91%E6%8A%80%E6%9C%BA%E5%AF%86%EF%BC%8C%E9%9F%A9%E5%9B%BD%E5%BC%BA%E5%8C%96%E5%85%B6-%E5%8F%8D%E5%B7%A5%E4%B8%9A%E9%97%B4%E8%B0%8D-%E6%AD%A6%E5%99%A8%E5%BA%93",
-      "time": "09-14 21:53",
-      "src": "AFP - JUNG YEO"
-    },
-    {
-      "title": "报道称英国央行考虑停止卖出长期国债",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-15/doc-inirwwmw6970005.shtml",
-      "time": "09-15 15:33",
-      "src": "环球市场播报"
+      "title": "辽宁葫芦岛发布“十五五”蓝图：深耕“蓝色经济”",
+      "link": "https://www.chinanews.com.cn/cj/2026/09-15/10697037.shtml",
+      "time": "09-15 20:26",
+      "src": "中新网"
     }
   ],
   "game_news": [
     {
-      "title": "网友测试阿里 Qwen3.8-27B AI 模型极限：单张 RTX 3090 约 5 小时开发出僵尸射击游戏",
-      "link": "https://www.ithome.com/1/002/540.htm",
-      "time": "09-15 14:14",
+      "title": "Keychron Q13 Ultra 8K 机械键盘国行发售：96% Alice 配列，1601 元",
+      "link": "https://www.ithome.com/1/002/755.htm",
+      "time": "09-15 20:10",
       "src": "IT之家"
     },
     {
-      "title": "网易《无限大》不设任何角色卡池：纯外观付费，2027 年 1 月 15 日免费登陆 PC、PS5 和移动端",
-      "link": "https://www.ithome.com/1/002/532.htm",
-      "time": "09-15 13:55",
+      "title": "《007 初露锋芒》游戏路径追踪更新上线，最低 RTX 5070",
+      "link": "https://www.ithome.com/1/002/732.htm",
+      "time": "09-15 19:01",
       "src": "IT之家"
     },
     {
-      "title": "微软 CEO 纳德拉发布警告：AI 必须处于人类控制之下，支持更广泛的第三方测试",
-      "link": "https://www.ithome.com/1/002/526.htm",
-      "time": "09-15 13:29",
+      "title": "小米米家智能燃气热水器 2 静音一级能效 16L 发售，2899 元",
+      "link": "https://www.ithome.com/1/002/715.htm",
+      "time": "09-15 18:23",
       "src": "IT之家"
     },
     {
-      "title": "HORI 为 Nintendo Switch 2 带来复古格斗控制器，采用模块化摇杆",
-      "link": "https://www.ithome.com/1/002/516.htm",
-      "time": "09-15 12:01",
+      "title": "为优化性能表现，《007：First Light》Switch 2 版延期至明年 3 月发售",
+      "link": "https://www.ithome.com/1/002/693.htm",
+      "time": "09-15 17:30",
       "src": "IT之家"
     },
     {
-      "title": "《漫威金刚狼》今日发售：登陆索尼 PS5 平台，标准版定价 548 港币",
-      "link": "https://www.ithome.com/1/002/504.htm",
-      "time": "09-15 11:39",
-      "src": "IT之家"
+      "title": "【传言】英伟达60系显卡2027年上半年发售",
+      "link": "https://www.gcores.com/articles/219756",
+      "time": "09-15 18:49",
+      "src": "机核"
     },
     {
       "title": "【更新】《怪物猎人：荒野 凌越》公布新动作介绍视频",
@@ -1181,10 +1169,22 @@
       "src": "ISW"
     },
     {
-      "title": "美方称已拥有“在轨”太空控制武器 中方回应",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-15/10696769.shtml",
-      "time": "09-15 15:23",
-      "src": "中新网"
+      "title": "长城汽车坦克 300“虎克之路”盲订：越野套件、前后双硬桥加持，可适配 40 英寸轮胎",
+      "link": "https://www.ithome.com/1/002/770.htm",
+      "time": "09-15 21:05",
+      "src": "IT之家"
+    },
+    {
+      "title": "美国首次公开承认：已在太空部署武器",
+      "link": "https://www.ithome.com/1/002/712.htm",
+      "time": "09-15 18:09",
+      "src": "IT之家"
+    },
+    {
+      "title": "美国首次证实已在太空部署武器",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578112.htm",
+      "time": "09-15 21:03",
+      "src": "cnBeta.COM"
     },
     {
       "title": "北京市拿出极端措施全面禁飞无人机",
@@ -1209,18 +1209,6 @@
       "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260914-%E6%B3%A2%E5%85%B0%E5%A4%96%E9%95%BF-%E8%BF%99%E5%9C%BA%E6%88%98%E4%BA%89%E6%AD%A3%E5%90%88%E4%B8%AD%E5%9B%BD%E5%BF%83%E6%84%8F",
       "time": "09-14 20:38",
       "src": "© sikorskirade"
-    },
-    {
-      "title": "人工智能：中国提议为金砖国家建立“开源”区；伊朗问题：金砖成员有分歧但也展团结",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260914-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E4%B8%AD%E5%9B%BD%E6%8F%90%E8%AE%AE%E4%B8%BA%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E5%BB%BA%E7%AB%8B-%E5%BC%80%E6%BA%90-%E5%8C%BA",
-      "time": "09-14 19:28",
-      "src": "法广RFI"
-    },
-    {
-      "title": "RFI 推出《世界镜头》庆祝摄影技术诞生200周年  《坦克人》入选",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260914-rfi-%E6%8E%A8%E5%87%BA-%E4%B8%96%E7%95%8C%E9%95%9C%E5%A4%B4-%E5%BA%86%E7%A5%9D%E6%91%84%E5%BD%B1%E6%8A%80%E6%9C%AF%E8%AF%9E%E7%94%9F200%E5%91%A8%E5%B9%B4-%E5%9D%A6%E5%85%8B%E4%BA%BA-%E5%85%A5%E9%80%89",
-      "time": "09-14 16:37",
-      "src": "© Jeff Widener"
     }
   ]
 }
