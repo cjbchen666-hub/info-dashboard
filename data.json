@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19 00:14",
+  "generated_at": "2026-09-19 04:46",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 51556.25,
-      "pct": -0.43,
-      "chg": -221.79,
-      "amount": "1144954385亿"
+      "price": 51682.64,
+      "pct": -0.18,
+      "chg": -95.4,
+      "amount": "4376111122亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26379.09,
-      "pct": -0.15,
-      "chg": -39.21,
-      "amount": "11919986275亿"
+      "price": 26522.55,
+      "pct": 0.39,
+      "chg": 104.25,
+      "amount": "33555864214亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7621.24,
-      "pct": -0.22,
-      "chg": -16.52,
-      "amount": "984781669亿"
+      "price": 7650.5,
+      "pct": 0.17,
+      "chg": 12.74,
+      "amount": "4576960952亿"
     }
   ],
   "anime": {
@@ -589,37 +589,37 @@
     "hf": [
       {
         "id": "Edge0/Edge0-35B-A3B-preview",
-        "likes": 3379,
+        "likes": 3388,
         "downloads": 52519,
         "pipeline": "text-generation"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4.1-Flash",
-        "likes": 3127,
+        "likes": 3156,
         "downloads": 429865,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-        "likes": 775,
+        "likes": 869,
         "downloads": 405609,
         "pipeline": "text-generation"
       },
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 15619,
+        "likes": 15641,
         "downloads": 7358662,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "m-a-p/YuE2-3B",
-        "likes": 783,
+        "likes": 790,
         "downloads": 13668,
         "pipeline": "text-to-audio"
       },
       {
         "id": "TokenRhythm/NeoHorse-1-4B",
-        "likes": 2362,
+        "likes": 2366,
         "downloads": 22666,
         "pipeline": "text-generation"
       }
@@ -811,6 +811,12 @@
       "src": "IT之家"
     },
     {
+      "title": "苹果高管揭秘iPhone Duo背后的设计理念：灵感源于纸质笔记本",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578636.htm",
+      "time": "09-19 01:01",
+      "src": "cnBeta.COM"
+    },
+    {
       "title": "科技巨头集体评估英特尔14A制程 揭示芯片代工竞争新格局",
       "link": "https://www.cnbeta.com.tw/articles/tech/1578626.htm",
       "time": "09-18 23:40",
@@ -854,12 +860,6 @@
     },
     {
       "title": "宏碁首发 1000Hz 电竞显示器; 微星 5K Mini-LED 双模电竞屏(5K@180Hz/2K@330Hz) 亮相 Computex 2026",
-      "link": "https://www.160.com/article/12732.html",
-      "time": "精选",
-      "src": "资讯整理"
-    },
-    {
-      "title": "微星 40 周年发布 RTX 5090 LIGHTNING Z 旗舰与内置 AI 代理的 OLED 电竞显示器",
       "link": "https://www.160.com/article/12732.html",
       "time": "精选",
       "src": "资讯整理"
@@ -1087,6 +1087,12 @@
       "src": "IT之家"
     },
     {
+      "title": "安理会完成联合国秘书长遴选第三轮意向性投票",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-19/10699318.shtml",
+      "time": "09-19 00:15",
+      "src": "中新网"
+    },
+    {
       "title": "国际原子能机构称俄罗斯一核电站冷却塔被无人机击中",
       "link": "https://www.chinanews.com.cn/gj/2026/09-19/10699317.shtml",
       "time": "09-19 00:11",
@@ -1103,12 +1109,6 @@
       "link": "https://www.chinanews.com.cn/aseaninfo/2026/09-18/10699247.shtml",
       "time": "09-18 22:06",
       "src": "中新网"
-    },
-    {
-      "title": "朝鲜万塔山地下核试验重新激活断层而引发持续的延迟性地震活动",
-      "link": "https://www.cnbeta.com.tw/articles/science/1578574.htm",
-      "time": "09-18 19:34",
-      "src": "cnBeta.COM"
     }
   ],
   "econ_news": [
@@ -1295,6 +1295,12 @@
       "src": "中新网"
     },
     {
+      "title": "美军因AI误判带来的错误情报准备拦截检查中国船只 险些制造国际冲突",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578652.htm",
+      "time": "09-19 03:32",
+      "src": "cnBeta.COM"
+    },
+    {
       "title": "美官员：中伊及以色列团体利用中国开源AI模型发动未见的社媒影响力运动",
       "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260918-%E7%BE%8E%E5%AE%98%E5%91%98-%E4%B8%AD%E4%BC%8A%E5%8F%8A%E4%BB%A5%E8%89%B2%E5%88%97%E5%9B%A2%E4%BD%93%E5%88%A9%E7%94%A8%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%BA%90ai%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%8A%A8%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E7%9A%84%E7%A4%BE%E5%AA%92%E5%BD%B1%E5%93%8D%E5%8A%9B%E8%BF%90%E5%8A%A8",
       "time": "09-18 23:28",
@@ -1311,12 +1317,6 @@
       "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260918-%E6%99%AE%E4%BA%AC%E6%94%BF%E6%9D%83%E5%90%AF%E5%8A%A8%E7%AB%8B%E6%B3%95%E9%80%89%E4%B8%BE-%E6%8E%92%E9%99%A4%E5%BC%82%E5%B7%B1%E5%A3%B0%E9%9F%B3%EF%BC%8C%E9%87%8D%E5%A1%91%E6%94%AF%E6%8C%81%E5%AF%B9%E4%B9%8C%E6%88%98%E4%BA%89%E8%88%86%E8%AE%BA",
       "time": "09-18 23:02",
       "src": "法广RFI"
-    },
-    {
-      "title": "俄罗斯国家杜马选举：战争阴影下的投票",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260918-%E4%BF%84%E7%BD%97%E6%96%AF%E5%9B%BD%E5%AE%B6%E6%9D%9C%E9%A9%AC%E9%80%89%E4%B8%BE-%E6%88%98%E4%BA%89%E9%98%B4%E5%BD%B1%E4%B8%8B%E7%9A%84%E6%8A%95%E7%A5%A8",
-      "time": "09-18 18:45",
-      "src": "© france24视频画面"
     }
   ]
 }
