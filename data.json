@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21 01:22",
+  "generated_at": "2026-09-21 04:39",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -257,18 +257,6 @@
         "src": "cnBeta.COM"
       },
       {
-        "title": "贾跃亭连发9款机器人：覆盖人形与四足两大形态 最低9990美元起",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1578816.htm",
-        "time": "09-20 15:02",
-        "src": "cnBeta.COM"
-      },
-      {
-        "title": "特斯拉得州机器人工厂主结构接近完工 稳步推进2027年量产计划",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1578810.htm",
-        "time": "09-20 14:58",
-        "src": "cnBeta.COM"
-      },
-      {
         "title": "沙特已退出中国主导的多边央行数字货币跨境支付网络“货币桥”",
         "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260920-%E6%B2%99%E7%89%B9%E5%B7%B2%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E4%B8%BB%E5%AF%BC%E7%9A%84%E5%A4%9A%E8%BE%B9%E5%A4%AE%E8%A1%8C%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81%E8%B7%A8%E5%A2%83%E6%94%AF%E4%BB%98%E7%BD%91%E7%BB%9C-%E8%B4%A7%E5%B8%81%E6%A1%A5",
         "time": "09-20 17:26",
@@ -278,6 +266,18 @@
         "title": "大摩：中国神华维持“增持”评级 目标价48.3港元",
         "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-20/doc-inisnsst2472012.shtml",
         "time": "09-20 20:18",
+        "src": "新浪港股"
+      },
+      {
+        "title": "小摩：金斯瑞生物科技维持“增持”评级 目标价41港元",
+        "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-20/doc-inisnsst2470014.shtml",
+        "time": "09-20 20:15",
+        "src": "新浪港股"
+      },
+      {
+        "title": "大摩：国泰航空维持“增持”评级 目标价16.9港元",
+        "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-20/doc-inisnssw6529408.shtml",
+        "time": "09-20 20:14",
         "src": "新浪港股"
       }
     ]
@@ -517,39 +517,39 @@
     "hf": [
       {
         "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-        "likes": 1424,
+        "likes": 1453,
         "downloads": 1908396,
         "pipeline": "text-generation"
       },
       {
-        "id": "deepseek-ai/DeepSeek-V4.1-Flash",
-        "likes": 3399,
-        "downloads": 496684,
-        "pipeline": "image-text-to-text"
-      },
-      {
         "id": "convaiinnovations/laya",
-        "likes": 928,
+        "likes": 1005,
         "downloads": 0,
         "pipeline": "text-classification"
       },
       {
+        "id": "deepseek-ai/DeepSeek-V4.1-Flash",
+        "likes": 3415,
+        "downloads": 496684,
+        "pipeline": "image-text-to-text"
+      },
+      {
         "id": "XingChen-AGI/Xing4.0-29B-A4B",
-        "likes": 825,
+        "likes": 853,
         "downloads": 12617,
         "pipeline": "text-generation"
       },
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 15842,
+        "likes": 15853,
         "downloads": 7331932,
         "pipeline": "image-text-to-text"
       },
       {
-        "id": "m-a-p/YuE2-3B",
-        "likes": 903,
-        "downloads": 17403,
-        "pipeline": "text-to-audio"
+        "id": "Qwen/Qwen-Image-2.1",
+        "likes": 626,
+        "downloads": 183,
+        "pipeline": "text-to-image"
       }
     ],
     "models": [
@@ -733,6 +733,12 @@
       "src": "IT之家"
     },
     {
+      "title": "英伟达显卡底层细节揭秘：包含数十个RISC-V核心 甚至已接管图形驱动执行",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578884.htm",
+      "time": "09-21 01:38",
+      "src": "cnBeta.COM"
+    },
+    {
       "title": "英特尔终止10万美元Bug Bounty漏洞赏金计划",
       "link": "https://www.cnbeta.com.tw/articles/tech/1578850.htm",
       "time": "09-20 18:04",
@@ -767,12 +773,6 @@
       "link": "https://finance.sina.com.cn/tech/digi/2026-09-20/doc-inismvnz1653054.shtml",
       "time": "09-20 10:03",
       "src": "IT之家"
-    },
-    {
-      "title": "9月19日美股成交前20：存储芯片爆发 美光涨约4% 闪迪大涨11% 美光高管称内存短缺短期难缓解",
-      "link": "https://finance.sina.com.cn/world/2026-09-19/doc-inisifyn7873555.shtml",
-      "time": "09-19 06:54",
-      "src": "环球市场播报"
     },
     {
       "title": "Computex 2026: NVIDIA 发布 ARM 架构 PC 芯片 RTX Spark, 集成 Blackwell GPU, 对标苹果 M5",
@@ -1089,6 +1089,18 @@
       "src": "中新网"
     },
     {
+      "title": "俄勒冈州数据中心已占全州零售电力销量23% 111座设施消耗近四分之一电力",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578888.htm",
+      "time": "09-21 01:42",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "加州新法加码政治广告监管：网红未标明付费内容 每次最高罚款5000美元",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578886.htm",
+      "time": "09-21 01:40",
+      "src": "cnBeta.COM"
+    },
+    {
       "title": "沃尔玛门店花500美元买9800X3D竟是假货 退款还被拒",
       "link": "https://www.cnbeta.com.tw/articles/tech/1578860.htm",
       "time": "09-20 22:35",
@@ -1098,18 +1110,6 @@
       "title": "英特尔终止10万美元Bug Bounty漏洞赏金计划",
       "link": "https://www.cnbeta.com.tw/articles/tech/1578850.htm",
       "time": "09-20 18:04",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "新《生化危机》电影美国首周末票房预计达6000万美元 有望创系列开画纪录",
-      "link": "https://www.cnbeta.com.tw/articles/movie/1578830.htm",
-      "time": "09-20 15:08",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "贾跃亭连发9款机器人：覆盖人形与四足两大形态 最低9990美元起",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1578816.htm",
-      "time": "09-20 15:02",
       "src": "cnBeta.COM"
     }
   ],
@@ -1253,22 +1253,22 @@
       "src": "机核"
     },
     {
-      "title": "民主党参议员致信防长 促调查AI生产情报险让美军对中国船只武装登船等报道",
-      "link": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20260920-%E6%B0%91%E4%B8%BB%E5%85%9A%E5%8F%82%E8%AE%AE%E5%91%98%E8%87%B4%E4%BF%A1%E9%98%B2%E9%95%BF-%E4%BF%83%E8%B0%83%E6%9F%A5ai%E7%94%9F%E4%BA%A7%E6%83%85%E6%8A%A5%E9%99%A9%E8%AE%A9%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%B8%AD%E5%9B%BD%E8%88%B9%E5%8F%AA%E6%AD%A6%E8%A3%85%E7%99%BB%E8%88%B9%E7%AD%89%E6%8A%A5%E9%81%93",
-      "time": "09-20 20:33",
-      "src": "© 路透社图片"
+      "title": "美官员称美军不会对胡塞武装发动进攻性打击",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-21/10700498.shtml",
+      "time": "09-21 01:52",
+      "src": "中新网"
     },
     {
-      "title": "泽连斯基望在纽约联大期间会见高市早苗 推动无人机等领域合作",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260920-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%9C%9B%E5%9C%A8%E7%BA%BD%E7%BA%A6%E8%81%94%E5%A4%A7%E6%9C%9F%E9%97%B4%E4%BC%9A%E8%A7%81%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97-%E6%8E%A8%E5%8A%A8%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%AD%89%E9%A2%86%E5%9F%9F%E5%90%88%E4%BD%9C",
-      "time": "09-20 19:41",
-      "src": "© 法新社图片"
+      "title": "日本发现失联“全球鹰”无人机部分残骸",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578894.htm",
+      "time": "09-21 03:30",
+      "src": "cnBeta.COM"
     },
     {
-      "title": "澳总理呼吁美中就管控AI风险开展合作 提《不扩散核武器条约》先例",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260920-%E6%BE%B3%E6%80%BB%E7%90%86%E5%91%BC%E5%90%81%E7%BE%8E%E4%B8%AD%E5%B0%B1%E7%AE%A1%E6%8E%A7ai%E9%A3%8E%E9%99%A9%E5%BC%80%E5%B1%95%E5%90%88%E4%BD%9C-%E6%8F%90-%E4%B8%8D%E6%89%A9%E6%95%A3%E6%A0%B8%E6%AD%A6%E5%99%A8%E6%9D%A1%E7%BA%A6-%E5%85%88%E4%BE%8B",
-      "time": "09-20 18:36",
-      "src": "© 美联社图片"
+      "title": "巴黎圣日耳曼足球俱乐部主席面临利益冲突调查",
+      "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260920-%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%97%A5%E8%80%B3%E6%9B%BC%E8%B6%B3%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8%E4%B8%BB%E5%B8%AD%E9%9D%A2%E4%B8%B4%E5%88%A9%E7%9B%8A%E5%86%B2%E7%AA%81%E8%B0%83%E6%9F%A5",
+      "time": "09-21 04:19",
+      "src": "REUTERS - Mano"
     }
   ]
 }
