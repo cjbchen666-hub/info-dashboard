@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21 23:01",
+  "generated_at": "2026-09-22 04:21",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -129,9 +129,9 @@
       }
     ],
     "status": {
-      "state": "已收盘",
-      "label": "今日已收盘",
-      "date": "2026-09-21"
+      "state": "未开盘",
+      "label": "今日尚未开盘",
+      "date": "2026-09-22"
     },
     "watch": [
       {
@@ -245,10 +245,10 @@
         "src": "IT之家"
       },
       {
-        "title": "消息称三星组建新团队研发芯片工厂机器人，推进半导体工厂自动化转型",
-        "link": "https://www.ithome.com/1/005/388.htm",
-        "time": "09-21 18:42",
-        "src": "IT之家"
+        "title": "报告：北京、杭州、深圳位列中国人工智能算力城市排名前三",
+        "link": "https://www.chinanews.com.cn/cj/2026/09-21/10701180.shtml",
+        "time": "09-21 23:10",
+        "src": "中新网"
       },
       {
         "title": "全球人形机器人去年度总销量达7000台 产业仍处于商业化早期阶段",
@@ -257,27 +257,27 @@
         "src": "cnBeta.COM"
       },
       {
-        "title": "迈克尔・塞勒旗下Strategy公司宣布增持比特币，股价应声大涨",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inisrhft7493145.shtml",
-        "time": "09-21 22:57",
+        "title": "纽约汇市：美元走强 美联储官员暗示将进一步加息 日元表现落后",
+        "link": "https://finance.sina.com.cn/world/2026-09-22/doc-inisrsvp7308612.shtml",
+        "time": "09-22 04:04",
         "src": "环球市场播报"
       },
       {
-        "title": "600238，遭证监会立案调查，涉嫌信息披露违法违规",
-        "link": "https://finance.sina.com.cn/stock/s/2026-09-21/doc-inisqzxx9261772.shtml",
-        "time": "09-21 22:23",
-        "src": "市场资讯"
-      },
-      {
-        "title": "伦敦银行人士增持英国国债增厚个人投资组合",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inisqzyc2779381.shtml",
-        "time": "09-21 22:19",
+        "title": "Meta智能体火爆刺激芯片股大涨 AMD有望跻身市值万亿美元俱乐部",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inisrnpx2590817.shtml",
+        "time": "09-22 03:03",
         "src": "环球市场播报"
       },
       {
-        "title": "Evercore ISI上调评级，Ciena股价反弹",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inisqzxz6010071.shtml",
-        "time": "09-21 21:50",
+        "title": "连续五个交易日上涨，AMD市值首次突破1万亿美元",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inisrnpt9071513.shtml",
+        "time": "09-22 01:05",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "标普：银行对人工智能的应用将很快影响它们信用评级",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inisrnpx2558064.shtml",
+        "time": "09-22 00:52",
         "src": "环球市场播报"
       }
     ]
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 51875.36,
-      "pct": 0.37,
-      "chg": 192.72,
-      "amount": "592120870亿"
+      "price": 52048.83,
+      "pct": 0.71,
+      "chg": 366.19,
+      "amount": "2303376607亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26930.04,
-      "pct": 1.54,
-      "chg": 407.49,
-      "amount": "8041118797亿"
+      "price": 27122.09,
+      "pct": 2.26,
+      "chg": 599.54,
+      "amount": "20920963065亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7722.62,
-      "pct": 0.94,
-      "chg": 72.12,
-      "amount": "658094548亿"
+      "price": 7764.7,
+      "pct": 1.49,
+      "chg": 114.2,
+      "amount": "2536790126亿"
     }
   ],
   "anime": {
@@ -348,6 +348,15 @@
         "rank": 2773
       },
       {
+        "id": 584641,
+        "name": "手札が多めのビクトリア",
+        "name_cn": "奇招百出的维多利亚",
+        "score": 6.0,
+        "img": "http://lain.bgm.tv/pic/cover/c/04/5b/584641_150ne.jpg",
+        "air_date": "2026-07-07",
+        "rank": 7641
+      },
+      {
         "id": 516426,
         "name": "一斩苍穹",
         "name_cn": "一斩苍穹",
@@ -355,15 +364,6 @@
         "img": "http://lain.bgm.tv/pic/cover/c/ef/2e/516426_JJUoU.jpg",
         "air_date": "2026-07-28",
         "rank": null
-      },
-      {
-        "id": 584641,
-        "name": "手札が多めのビクトリア",
-        "name_cn": "奇招百出的维多利亚",
-        "score": 5.9,
-        "img": "http://lain.bgm.tv/pic/cover/c/04/5b/584641_150ne.jpg",
-        "air_date": "2026-07-07",
-        "rank": 7641
       },
       {
         "id": 607929,
@@ -396,7 +396,7 @@
         "id": 638995,
         "name": "身代わり令嬢を救ったのは冷酷無慈悲な氷の王子の愛でした",
         "name_cn": "拯救替身千金的是冷酷无情冰之王子的爱",
-        "score": 4.0,
+        "score": 4.1,
         "img": "http://lain.bgm.tv/pic/cover/c/96/aa/638995_mM0aJ.jpg",
         "air_date": "2026-07-07",
         "rank": null
@@ -430,6 +430,18 @@
   "ai": {
     "news_zh": [
       {
+        "title": "苹果 2026 款 Mac mini 发售：全新 M6 / M5 Pro 芯片，6999 元起",
+        "link": "https://www.ithome.com/1/005/479.htm",
+        "time": "09-21 23:45",
+        "src": "IT之家"
+      },
+      {
+        "title": "苹果 2026 款 Mac Studio 发售：M5 Max / Ultra 芯片，19999 元起",
+        "link": "https://www.ithome.com/1/005/478.htm",
+        "time": "09-21 23:40",
+        "src": "IT之家"
+      },
+      {
         "title": "冲刺 IPO，Nscale 的 1030 亿美元数据中心订单高度依赖微软和 Anthropic 两大客户",
         "link": "https://www.ithome.com/1/005/437.htm",
         "time": "09-21 21:02",
@@ -448,22 +460,10 @@
         "src": "IT之家"
       },
       {
-        "title": "消息称三星组建新团队研发芯片工厂机器人，推进半导体工厂自动化转型",
-        "link": "https://www.ithome.com/1/005/388.htm",
-        "time": "09-21 18:42",
-        "src": "IT之家"
-      },
-      {
-        "title": "鸿蒙 PC 生态首款 AI 编程智能体工作台，阿里 Qoder 支持鸿蒙电脑",
-        "link": "https://www.ithome.com/1/005/387.htm",
-        "time": "09-21 18:37",
-        "src": "IT之家"
-      },
-      {
-        "title": "联合国：不必等风险完全厘清，各国应提前管控 AI 智能体",
-        "link": "https://www.ithome.com/1/005/386.htm",
-        "time": "09-21 18:31",
-        "src": "IT之家"
+        "title": "报告：北京、杭州、深圳位列中国人工智能算力城市排名前三",
+        "link": "https://www.chinanews.com.cn/cj/2026/09-21/10701180.shtml",
+        "time": "09-21 23:10",
+        "src": "中新网"
       },
       {
         "title": "Anthropic、OpenAI、Google和SpaceXAI协调减缓AI发展速度的做法遭反垄断诉讼",
@@ -480,38 +480,38 @@
     ],
     "hf": [
       {
-        "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-        "likes": 1665,
-        "downloads": 2227879,
-        "pipeline": "text-generation"
-      },
-      {
         "id": "convaiinnovations/laya",
-        "likes": 1527,
+        "likes": 1667,
         "downloads": 0,
         "pipeline": "text-classification"
       },
       {
+        "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+        "likes": 1718,
+        "downloads": 2227879,
+        "pipeline": "text-generation"
+      },
+      {
         "id": "Qwen/Qwen-Image-2.1",
-        "likes": 1249,
+        "likes": 1383,
         "downloads": 6523,
         "pipeline": "text-to-image"
       },
       {
         "id": "XingChen-AGI/Xing4.0-29B-A4B",
-        "likes": 1039,
+        "likes": 1091,
         "downloads": 18394,
         "pipeline": "text-generation"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4.1-Flash",
-        "likes": 3491,
+        "likes": 3511,
         "downloads": 512120,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 15930,
+        "likes": 15958,
         "downloads": 7153238,
         "pipeline": "image-text-to-text"
       }
@@ -727,18 +727,6 @@
       "src": "IT之家"
     },
     {
-      "title": "狼蛛 SC900 V2 系列鼠标开售：双 8K 轮询率，259 元起",
-      "link": "https://www.ithome.com/1/005/402.htm",
-      "time": "09-21 19:12",
-      "src": "IT之家"
-    },
-    {
-      "title": "蚂蚁电竞发布新一代 HMO 技术 QHD 540Hz 显示器 ANT255TQ、ANT275TQ",
-      "link": "https://www.ithome.com/1/005/401.htm",
-      "time": "09-21 18:54",
-      "src": "IT之家"
-    },
-    {
       "title": "谷歌推出首批AI笔记本Googlebook：与联想等五大PC厂合作 售价公布",
       "link": "https://www.cnbeta.com.tw/articles/tech/1579062.htm",
       "time": "09-21 21:53",
@@ -755,6 +743,18 @@
       "link": "https://www.cnbeta.com.tw/articles/tech/1579004.htm",
       "time": "09-21 17:32",
       "src": "cnBeta.COM"
+    },
+    {
+      "title": "鸿蒙智行智界 RX 新增 81 度电池版本：全系华为巨鲸电池 800V 高压平台，CLTC 续航 672 / 702km",
+      "link": "https://finance.sina.com.cn/tech/digi/2026-09-21/doc-inisqeua8963826.shtml",
+      "time": "09-21 12:43",
+      "src": "IT之家"
+    },
+    {
+      "title": "英特尔涨幅扩大至13%，创自7月30日以来最大盘中涨幅",
+      "link": "https://finance.sina.com.cn/roll/2026-09-21/doc-inisrhfv9148947.shtml",
+      "time": "09-21 23:05",
+      "src": "每日经济新闻"
     }
   ],
   "kojima": {
@@ -991,40 +991,40 @@
       "src": "IT之家"
     },
     {
-      "title": "联合国：不必等风险完全厘清，各国应提前管控 AI 智能体",
-      "link": "https://www.ithome.com/1/005/386.htm",
-      "time": "09-21 18:31",
-      "src": "IT之家"
-    },
-    {
       "title": "《美洲卡车模拟》福特车辆包将于9月29日发售",
       "link": "https://www.gcores.com/articles/219980",
       "time": "09-21 08:55",
       "src": "机核"
     },
     {
-      "title": "白宫电视媒体池因记者禁令 将不再报道特朗普",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1579066.htm",
-      "time": "09-21 22:41",
-      "src": "cnBeta.COM"
+      "title": "欧盟通过延长对俄制裁方案 期限长达三年",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-22/10701195.shtml",
+      "time": "09-22 02:39",
+      "src": "中新网"
     },
     {
-      "title": "国产机器狗称霸全球 宇树科技37%市占率夺世界第一",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1579034.htm",
-      "time": "09-21 18:58",
-      "src": "cnBeta.COM"
+      "title": "王毅同德国外长瓦德富尔通电话",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-22/10701192.shtml",
+      "time": "09-22 00:34",
+      "src": "中新网"
     },
     {
-      "title": "MS NOW、CNN、Politico起诉特朗普 要求撤销白宫采访禁令",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1579028.htm",
-      "time": "09-21 18:54",
-      "src": "cnBeta.COM"
+      "title": "2026年国际和平日纪念活动在武汉开幕",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-21/10701190.shtml",
+      "time": "09-21 23:56",
+      "src": "中新网"
     },
     {
-      "title": "联合国专家组警告：AI安全措施不能“等出事” 应立即采取预防行动",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1579020.htm",
-      "time": "09-21 18:47",
-      "src": "cnBeta.COM"
+      "title": "俄国家杜马选举初步结果揭晓 统俄党占绝对优势",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-21/10701189.shtml",
+      "time": "09-21 23:54",
+      "src": "中新网"
+    },
+    {
+      "title": "报告：北京在全球城市人才黏性指数中排名第五",
+      "link": "https://www.chinanews.com.cn/edu/2026/09-21/10701178.shtml",
+      "time": "09-21 23:09",
+      "src": "中新网"
     }
   ],
   "econ_news": [
@@ -1053,31 +1053,43 @@
       "src": "IT之家"
     },
     {
-      "title": "消息称保时捷将推全新顶级超跑：搭载水平对置八缸发动机，起售价约 50 万欧元",
-      "link": "https://www.ithome.com/1/005/385.htm",
-      "time": "09-21 18:26",
-      "src": "IT之家"
-    },
-    {
       "title": "「吉考斯工业 × 影之刃零」联名合作确认！",
       "link": "https://www.gcores.com/articles/219961",
       "time": "09-21 10:00",
       "src": "机核"
     },
     {
+      "title": "“黄金周”临近 泰国旅游市场迎中国游客接待高峰",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-22/10701191.shtml",
+      "time": "09-22 00:00",
+      "src": "中新网"
+    },
+    {
+      "title": "智能戒指厂商Oura及其投资方拟赴美IPO 募资最高22亿美元",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1579068.htm",
+      "time": "09-21 23:11",
+      "src": "cnBeta.COM"
+    },
+    {
       "title": "黑客利用虚假编程测试感染3万台设备 并盗取上千万美元加密货币",
       "link": "https://www.cnbeta.com.tw/articles/tech/1579040.htm",
       "time": "09-21 19:33",
       "src": "cnBeta.COM"
-    },
-    {
-      "title": "奥迪总部不认可AUDI车型？奥迪中国回应：系针对海外未经官方授权销售的进口商行为，而非对品牌不认可",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1579024.htm",
-      "time": "09-21 18:51",
-      "src": "cnBeta.COM"
     }
   ],
   "game_news": [
+    {
+      "title": "苹果 2026 款 Mac mini 发售：全新 M6 / M5 Pro 芯片，6999 元起",
+      "link": "https://www.ithome.com/1/005/479.htm",
+      "time": "09-21 23:45",
+      "src": "IT之家"
+    },
+    {
+      "title": "苹果 2026 款 Mac Studio 发售：M5 Max / Ultra 芯片，19999 元起",
+      "link": "https://www.ithome.com/1/005/478.htm",
+      "time": "09-21 23:40",
+      "src": "IT之家"
+    },
     {
       "title": "华为鸿蒙 HarmonyOS 7 游戏助手功能上新，支持超级分辨率、智能 HDR、内存清理等",
       "link": "https://www.ithome.com/1/005/451.htm",
@@ -1103,12 +1115,6 @@
       "src": "IT之家"
     },
     {
-      "title": "蚂蚁电竞发布新一代 HMO 技术 QHD 540Hz 显示器 ANT255TQ、ANT275TQ",
-      "link": "https://www.ithome.com/1/005/401.htm",
-      "time": "09-21 18:54",
-      "src": "IT之家"
-    },
-    {
       "title": "米哈游两名前员工受贿被捕，一人涉案金额触及刑法最高量刑门槛",
       "link": "https://www.gcores.com/articles/220019",
       "time": "09-21 21:13",
@@ -1118,12 +1124,6 @@
       "title": "《Fate/EXTRA  Record》确认参展2026年CICF×AGF广州动漫游戏盛典",
       "link": "https://www.gcores.com/articles/220000",
       "time": "09-21 13:38",
-      "src": "机核"
-    },
-    {
-      "title": "小岛秀夫透露与索尼分手内幕，不清楚《Physint》是否登陆PS",
-      "link": "https://www.gcores.com/articles/219982",
-      "time": "09-21 09:55",
       "src": "机核"
     }
   ],
@@ -1205,6 +1205,12 @@
       "src": "机核"
     },
     {
+      "title": "伊朗航空公司将被迫停止运营",
+      "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260921-%E4%BC%8A%E6%9C%97%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E5%B0%86%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%AD%A2%E8%BF%90%E8%90%A5",
+      "time": "09-22 04:13",
+      "src": "© lemonde"
+    },
+    {
       "title": "白宫公布习近平国事访问安排细节 欢迎仪式将有B-2轰炸机和F-22战机编队飞越",
       "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260921-%E7%99%BD%E5%AE%AB%E5%85%AC%E5%B8%83%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE%E5%AE%89%E6%8E%92%E7%BB%86%E8%8A%82-%E6%AC%A2%E8%BF%8E%E4%BB%AA%E5%BC%8F%E5%B0%86%E6%9C%89b-2%E8%BD%B0%E7%82%B8%E6%9C%BA%E5%92%8Cf-22%E6%88%98%E6%9C%BA%E7%BC%96%E9%98%9F%E9%A3%9E%E8%B6%8A",
       "time": "09-21 22:50",
@@ -1223,16 +1229,10 @@
       "src": "AP Photo/Ahn Y"
     },
     {
-      "title": "巴黎圣日耳曼足球俱乐部主席面临利益冲突调查",
-      "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260920-%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%97%A5%E8%80%B3%E6%9B%BC%E8%B6%B3%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8%E4%B8%BB%E5%B8%AD%E9%9D%A2%E4%B8%B4%E5%88%A9%E7%9B%8A%E5%86%B2%E7%AA%81%E8%B0%83%E6%9F%A5",
-      "time": "09-21 04:19",
-      "src": "REUTERS - Mano"
-    },
-    {
-      "title": "伊朗关闭德黑兰法国语言中心",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260920-%E4%BC%8A%E6%9C%97%E5%85%B3%E9%97%AD%E5%BE%B7%E9%BB%91%E5%85%B0%E6%B3%95%E5%9B%BD%E8%AF%AD%E8%A8%80%E4%B8%AD%E5%BF%83",
-      "time": "09-21 04:19",
-      "src": "dpa/picture-al"
+      "title": "聯合國專家：有理由相信美國在伊朗襲擊行動中犯下戰爭罪",
+      "link": "https://www.bbc.com/zhongwen/articles/cwq63qj0119go/trad?at_medium=RSS&at_campaign=rss",
+      "time": "09-20 11:05",
+      "src": "BBC中文"
     }
   ]
 }
