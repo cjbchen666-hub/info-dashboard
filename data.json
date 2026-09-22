@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23 02:01",
+  "generated_at": "2026-09-23 06:51",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -239,12 +239,6 @@
         "src": "IT之家"
       },
       {
-        "title": "ASML 高管直言：欧洲本土光刻机销量为零，半导体产业面临掉队风险",
-        "link": "https://www.ithome.com/1/005/951.htm",
-        "time": "09-22 20:59",
-        "src": "IT之家"
-      },
-      {
         "title": "为何AMD万亿市值来得合情合理",
         "link": "https://www.cnbeta.com.tw/articles/tech/1579220.htm",
         "time": "09-22 23:44",
@@ -269,15 +263,21 @@
         "src": "cnBeta.COM"
       },
       {
-        "title": "欧洲债市：德国国债持稳 欧洲央行加息押注保持稳定",
-        "link": "https://finance.sina.com.cn/world/2026-09-23/doc-inistrnv5598344.shtml",
-        "time": "09-23 01:30",
+        "title": "9月23日隔夜要闻：纳指四连涨 原油下跌 铜价六连涨 金价走高 伊朗外长与美特使在纽约会晤",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-23/doc-inisuaat1619231.shtml",
+        "time": "09-23 06:30",
         "src": "环球市场播报"
       },
       {
-        "title": "游戏驿站CEO斥资2600万美元增持股票，游戏驿站股价上涨约4%",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-23/doc-inistrnv5579093.shtml",
-        "time": "09-23 00:42",
+        "title": "交易员大举对冲 以防美联储加息力度不及预期",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-23/doc-inisuaap8667346.shtml",
+        "time": "09-23 06:15",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "9月23日美股成交额前20：SpaceX收高1.89% 正逐步淘汰使用最频繁的猎鹰9号火箭 转而专注于新型星舰飞船",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-23/doc-inisuaat1606378.shtml",
+        "time": "09-23 04:55",
         "src": "环球市场播报"
       }
     ]
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 51872.84,
-      "pct": -0.34,
-      "chg": -175.99,
-      "amount": "1237850179亿"
+      "price": 51863.69,
+      "pct": -0.36,
+      "chg": -185.14,
+      "amount": "2308359361亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 27232.75,
-      "pct": 0.41,
-      "chg": 110.66,
-      "amount": "14284872978亿"
+      "price": 27244.28,
+      "pct": 0.45,
+      "chg": 122.19,
+      "amount": "21833963653亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7768.64,
-      "pct": 0.05,
-      "chg": 3.94,
-      "amount": "1221846169亿"
+      "price": 7764.64,
+      "pct": 0.0,
+      "chg": -0.06,
+      "amount": "2457149720亿"
     }
   ],
   "anime": {
@@ -327,7 +327,7 @@
         "score": 8.3,
         "img": "http://lain.bgm.tv/pic/cover/c/92/97/975_GFGYI.jpg",
         "air_date": "1999-10-20",
-        "rank": 105
+        "rank": 104
       },
       {
         "id": 339515,
@@ -336,7 +336,7 @@
         "score": 7.1,
         "img": "http://lain.bgm.tv/pic/cover/c/45/a6/339515_OTG2O.jpg",
         "air_date": "2026-07-08",
-        "rank": 2058
+        "rank": 2063
       },
       {
         "id": 572768,
@@ -354,7 +354,7 @@
         "score": 6.9,
         "img": "http://lain.bgm.tv/pic/cover/c/1a/a0/585820_NpfLN.jpg",
         "air_date": "2026-07-08",
-        "rank": 3024
+        "rank": 3041
       },
       {
         "id": 572613,
@@ -363,7 +363,7 @@
         "score": 6.0,
         "img": "http://lain.bgm.tv/pic/cover/c/04/7e/572613_v58Bn.jpg",
         "air_date": "2026-07-08",
-        "rank": 7401
+        "rank": 7407
       },
       {
         "id": 642666,
@@ -381,7 +381,7 @@
         "score": 5.9,
         "img": "http://lain.bgm.tv/pic/cover/c/04/e4/558064_ApStA.jpg",
         "air_date": "2026-07-01",
-        "rank": 7808
+        "rank": 7845
       },
       {
         "id": 500458,
@@ -399,7 +399,7 @@
         "score": 5.8,
         "img": "http://lain.bgm.tv/pic/cover/c/85/7f/565701_JKCaL.jpg",
         "air_date": "2026-07-08",
-        "rank": 7909
+        "rank": 7939
       },
       {
         "id": 637124,
@@ -408,7 +408,7 @@
         "score": 5.7,
         "img": "http://lain.bgm.tv/pic/cover/c/20/0f/637124_6DDda.jpg",
         "air_date": "2026-07-01",
-        "rank": 6936
+        "rank": 7011
       },
       {
         "id": 481295,
@@ -435,7 +435,7 @@
         "score": 4.8,
         "img": "http://lain.bgm.tv/pic/cover/c/16/a8/412144_39HJH.jpg",
         "air_date": "2026-07-08",
-        "rank": 9834
+        "rank": 9846
       },
       {
         "id": 579787,
@@ -444,7 +444,7 @@
         "score": 4.6,
         "img": "http://lain.bgm.tv/pic/cover/c/e4/57/579787_9aHqE.jpg",
         "air_date": "2026-07-01",
-        "rank": 10024
+        "rank": 10042
       },
       {
         "id": 621835,
@@ -453,7 +453,7 @@
         "score": 4.5,
         "img": "http://lain.bgm.tv/pic/cover/c/7a/d3/621835_IFhDH.jpg",
         "air_date": "2026-07-08",
-        "rank": 9883
+        "rank": 9895
       },
       {
         "id": 625215,
@@ -462,7 +462,7 @@
         "score": 4.5,
         "img": "http://lain.bgm.tv/pic/cover/c/7f/48/625215_YYhRR.jpg",
         "air_date": "2026-07-08",
-        "rank": 9968
+        "rank": 9977
       },
       {
         "id": 630163,
@@ -529,88 +529,88 @@
   "ai": {
     "news_zh": [
       {
-        "title": "消息称 DeepSeek 本周参加联合国安理会，讲解 AI 安全风险",
-        "link": "https://www.ithome.com/1/005/990.htm",
-        "time": "09-22 23:26",
+        "title": "2799 元起，华为 WATCH 6 系列鸿蒙 AI 手表今日开售",
+        "link": "https://www.ithome.com/1/006/019.htm",
+        "time": "09-23 06:41",
         "src": "IT之家"
       },
       {
-        "title": "后摩智能确认其下代大模型端边 AI 芯片采用 3D CIM 存算一体架构",
-        "link": "https://www.ithome.com/1/005/988.htm",
-        "time": "09-22 23:19",
+        "title": "消息称苹果搁置研发 AI 吊坠，曾设想以摄像头拓展 Siri 能力",
+        "link": "https://www.ithome.com/1/006/017.htm",
+        "time": "09-23 06:19",
         "src": "IT之家"
       },
       {
-        "title": "消息称微软研发小尺寸 Surface：12 英寸屏幕，或采用英伟达 RTX Spark 芯片",
-        "link": "https://www.ithome.com/1/005/986.htm",
-        "time": "09-22 23:08",
+        "title": "“超级”在哪里？高通第六代骁龙 8 超级至尊版 / 至尊版芯片规格对比",
+        "link": "https://www.ithome.com/1/006/016.htm",
+        "time": "09-23 06:07",
         "src": "IT之家"
       },
       {
-        "title": "逾七成美国人担忧 AI 公司防控不力，超半数支持放缓开发",
-        "link": "https://www.ithome.com/1/005/985.htm",
-        "time": "09-22 23:08",
+        "title": "高通 CEO 安蒙：智能体时代并不是让 AI 替我们包办一切，而是让技术变得更实用",
+        "link": "https://www.ithome.com/1/006/015.htm",
+        "time": "09-23 05:52",
         "src": "IT之家"
       },
       {
-        "title": "拿下 2 亿日活跃用户后，消息称字节跳动豆包收缩对话团队",
-        "link": "https://www.ithome.com/1/005/981.htm",
-        "time": "09-22 22:48",
+        "title": "红魔 12 Pro+ 手机官宣搭载高通第六代骁龙 8 超级至尊版芯片，号称“迄今为止手感最好的红魔旗舰”",
+        "link": "https://www.ithome.com/1/006/013.htm",
+        "time": "09-23 05:18",
         "src": "IT之家"
       },
       {
-        "title": "英伟达黄仁勋解释为何每天穿黑色皮衣：可以少做一个选择，让我把精力放在更重要的事情",
-        "link": "https://www.ithome.com/1/005/980.htm",
-        "time": "09-22 22:43",
+        "title": "摩托罗拉 Signature 27 旗舰真机首秀，搭载高通第六代骁龙 8 超级至尊版芯片",
+        "link": "https://www.ithome.com/1/006/010.htm",
+        "time": "09-23 05:02",
         "src": "IT之家"
       },
       {
-        "title": "零刻公布 \"Panther Lake\" 款 ME Pro NAS 迷你主机，支持多项 AI 应用",
-        "link": "https://www.ithome.com/1/005/979.htm",
-        "time": "09-22 22:42",
+        "title": "高通第六代骁龙 8 超级至尊版芯片一图看懂：2nm 工艺、CPU 行业首超 5GHz",
+        "link": "https://www.ithome.com/1/006/009.htm",
+        "time": "09-23 04:47",
         "src": "IT之家"
       },
       {
-        "title": "联合国秘书长古特雷斯呼吁全球监管人工智能，避免出现杀人机器人",
-        "link": "https://www.ithome.com/1/005/978.htm",
-        "time": "09-22 22:36",
+        "title": "预填充吞吐超 330 Token/s：高通携手阶跃等为第六代骁龙 8 超级至尊版端侧适配 300 亿参数 AI 模型",
+        "link": "https://www.ithome.com/1/006/008.htm",
+        "time": "09-23 04:40",
         "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "convaiinnovations/laya",
-        "likes": 2402,
+        "likes": 2515,
         "downloads": 0,
         "pipeline": "text-classification"
       },
       {
         "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-        "likes": 1848,
+        "likes": 1875,
         "downloads": 2569604,
         "pipeline": "text-generation"
       },
       {
         "id": "Qwen/Qwen-Image-2.1",
-        "likes": 1736,
+        "likes": 1789,
         "downloads": 16242,
         "pipeline": "text-to-image"
       },
       {
         "id": "XingChen-AGI/Xing4.0-29B-A4B",
-        "likes": 1315,
+        "likes": 1374,
         "downloads": 30627,
         "pipeline": "text-generation"
       },
       {
-        "id": "abenzerps/Qwen-Image-2.1-GGUF",
-        "likes": 1006,
+        "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "likes": 1077,
         "downloads": 182313,
         "pipeline": "text-to-image"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4.1-Flash",
-        "likes": 3597,
+        "likes": 3608,
         "downloads": 542014,
         "pipeline": "image-text-to-text"
       }
@@ -784,6 +784,36 @@
   ],
   "hw_news": [
     {
+      "title": "全球最快移动 CPU：高通官宣小米、vivo、红魔、REDMI 等率先适配第六代骁龙 8 超级至尊版",
+      "link": "https://www.ithome.com/1/006/014.htm",
+      "time": "09-23 05:43",
+      "src": "IT之家"
+    },
+    {
+      "title": "高通第六代骁龙 8 超级至尊版芯片一图看懂：2nm 工艺、CPU 行业首超 5GHz",
+      "link": "https://www.ithome.com/1/006/009.htm",
+      "time": "09-23 04:47",
+      "src": "IT之家"
+    },
+    {
+      "title": "vivo 宣布 iQOO 16、iQOO Pad Ultra 首批搭载高通第六代骁龙 8 超级至尊版处理器",
+      "link": "https://www.ithome.com/1/006/007.htm",
+      "time": "09-23 04:39",
+      "src": "IT之家"
+    },
+    {
+      "title": "小米 18 Pro 系列手机官宣全球首发高通第六代骁龙 8 超级至尊版和第六代骁龙 8 至尊版处理器",
+      "link": "https://www.ithome.com/1/006/005.htm",
+      "time": "09-23 04:26",
+      "src": "IT之家"
+    },
+    {
+      "title": "全球最快移动 CPU：高通发布第六代骁龙 8 超级至尊版芯片，CPU 行业首超 5GHz、GPU 性能提升 44%",
+      "link": "https://www.ithome.com/1/006/004.htm",
+      "time": "09-23 04:14",
+      "src": "IT之家"
+    },
+    {
       "title": "苹果 Beats 360 快速上手：Beats 首款能换耳罩的头戴式耳机，耳目一新，眼也一新",
       "link": "https://www.ithome.com/1/005/996.htm",
       "time": "09-23 01:23",
@@ -820,40 +850,10 @@
       "src": "IT之家"
     },
     {
-      "title": "超频三融核系列 27 英寸 AI 模组化整机开售：酷睿 Ultra 5 125U 处理器，首发 11999 元",
-      "link": "https://www.ithome.com/1/005/960.htm",
-      "time": "09-22 21:25",
-      "src": "IT之家"
-    },
-    {
-      "title": "OPPO Enco X4 耳机发布：无损丹拿音质，首销价 1099 元",
-      "link": "https://www.ithome.com/1/005/946.htm",
-      "time": "09-22 20:42",
-      "src": "IT之家"
-    },
-    {
       "title": "明日开票！核聚变2026·北京站 x 京西电竞节来了",
       "link": "https://www.gcores.com/articles/220039",
       "time": "09-22 14:00",
       "src": "机核"
-    },
-    {
-      "title": "可定制、更出彩，头戴式耳机新选择：Beats 360 首发体验",
-      "link": "https://sspai.com/post/114878",
-      "time": "09-22 22:00",
-      "src": "少数派"
-    },
-    {
-      "title": "怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？",
-      "link": "https://sspai.com/post/114551",
-      "time": "09-22 16:11",
-      "src": "少数派"
-    },
-    {
-      "title": "Computex 2026: NVIDIA 发布 ARM 架构 PC 芯片 RTX Spark, 集成 Blackwell GPU, 对标苹果 M5",
-      "link": "https://new.qq.com/rain/a/20260605A09PXY00",
-      "time": "精选",
-      "src": "资讯整理"
     }
   ],
   "kojima": {
@@ -1054,55 +1054,61 @@
   },
   "intl_news": [
     {
+      "title": "全球最快移动 CPU：高通官宣小米、vivo、红魔、REDMI 等率先适配第六代骁龙 8 超级至尊版",
+      "link": "https://www.ithome.com/1/006/014.htm",
+      "time": "09-23 05:43",
+      "src": "IT之家"
+    },
+    {
+      "title": "小米曾学忠在 2026 高通骁龙峰会首秀小米 18 Pro 真机",
+      "link": "https://www.ithome.com/1/006/006.htm",
+      "time": "09-23 04:32",
+      "src": "IT之家"
+    },
+    {
+      "title": "小米 18 Pro 系列手机官宣全球首发高通第六代骁龙 8 超级至尊版和第六代骁龙 8 至尊版处理器",
+      "link": "https://www.ithome.com/1/006/005.htm",
+      "time": "09-23 04:26",
+      "src": "IT之家"
+    },
+    {
+      "title": "全球最快移动 CPU：高通发布第六代骁龙 8 超级至尊版芯片，CPU 行业首超 5GHz、GPU 性能提升 44%",
+      "link": "https://www.ithome.com/1/006/004.htm",
+      "time": "09-23 04:14",
+      "src": "IT之家"
+    },
+    {
+      "title": "阿里千问平板 Qwen Book 现身 2026 骁龙峰会，定位原生 AI 智能体电脑",
+      "link": "https://www.ithome.com/1/006/002.htm",
+      "time": "09-23 03:39",
+      "src": "IT之家"
+    },
+    {
+      "title": "高通宣布全球 Snapdragon Insider 项目成员数量突破 2300 万",
+      "link": "https://www.ithome.com/1/006/000.htm",
+      "time": "09-23 03:17",
+      "src": "IT之家"
+    },
+    {
+      "title": "IT之家受邀前往夏威夷：2026 高通骁龙峰会开幕，骁龙 8 Elite Gen 6 旗舰芯马上揭晓",
+      "link": "https://www.ithome.com/1/005/997.htm",
+      "time": "09-23 02:34",
+      "src": "IT之家"
+    },
+    {
       "title": "消息称 DeepSeek 本周参加联合国安理会，讲解 AI 安全风险",
       "link": "https://www.ithome.com/1/005/990.htm",
       "time": "09-22 23:26",
       "src": "IT之家"
-    },
-    {
-      "title": "奔驰承认德国工厂竞争力不足：若无法降本恐将关停两座工厂",
-      "link": "https://www.ithome.com/1/005/989.htm",
-      "time": "09-22 23:23",
-      "src": "IT之家"
-    },
-    {
-      "title": "联合国秘书长古特雷斯呼吁全球监管人工智能，避免出现杀人机器人",
-      "link": "https://www.ithome.com/1/005/978.htm",
-      "time": "09-22 22:36",
-      "src": "IT之家"
-    },
-    {
-      "title": "ASML 高管直言：欧洲本土光刻机销量为零，半导体产业面临掉队风险",
-      "link": "https://www.ithome.com/1/005/951.htm",
-      "time": "09-22 20:59",
-      "src": "IT之家"
-    },
-    {
-      "title": "大众在德国电车订单超过油车，代价是利润下降",
-      "link": "https://www.ithome.com/1/005/928.htm",
-      "time": "09-22 20:02",
-      "src": "IT之家"
-    },
-    {
-      "title": "36期免息：英国运营商推出《GTA6》消费贷",
-      "link": "https://www.gcores.com/articles/220064",
-      "time": "09-22 17:26",
-      "src": "机核"
-    },
-    {
-      "title": "《天使之恋 Online 国际版》首次改版正式上线",
-      "link": "https://www.gcores.com/articles/220036",
-      "time": "09-22 10:16",
-      "src": "机核"
-    },
-    {
-      "title": "中国—东盟经贸部长会议和RCEP部长级会议在菲律宾马尼拉举行",
-      "link": "https://www.chinanews.com.cn/aseaninfo/2026/09-23/10701911.shtml",
-      "time": "09-23 00:06",
-      "src": "中新网"
     }
   ],
   "econ_news": [
+    {
+      "title": "美国纳斯达克综合指数周二盘中再创历史新高：科技股回暖 / 油价回落等因素驱动",
+      "link": "https://www.ithome.com/1/005/999.htm",
+      "time": "09-23 02:55",
+      "src": "IT之家"
+    },
     {
       "title": "Cognex 拟以约 5 亿美元收购英特尔分拆企业 RealSense",
       "link": "https://www.ithome.com/1/005/984.htm",
@@ -1140,12 +1146,6 @@
       "src": "© 法新社图片"
     },
     {
-      "title": "中国欧盟商会报告：对中国出口主导的经济结构性失衡感到担忧",
-      "link": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20260922-%E4%B8%AD%E5%9B%BD%E6%AC%A7%E7%9B%9F%E5%95%86%E4%BC%9A%E6%8A%A5%E5%91%8A-%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%A3%E4%B8%BB%E5%AF%BC%E7%9A%84%E7%BB%93%E6%9E%84%E6%80%A7%E5%A4%B1%E8%A1%A1%E6%84%9F%E5%88%B0%E6%8B%85%E5%BF%A7",
-      "time": "09-22 16:21",
-      "src": "AP - Li Ziheng"
-    },
-    {
       "title": "香港提出「人民幣支付政府開支」為何引發「去美元化」憂慮？",
       "link": "https://www.bbc.com/zhongwen/articles/c65y501pjww4o/trad?at_medium=RSS&at_campaign=rss",
       "time": "09-22 09:42",
@@ -1153,6 +1153,18 @@
     }
   ],
   "game_news": [
+    {
+      "title": "微软推送 9 月 Win11 24H2/25H2 可选更新：支持 Emoji 17 等",
+      "link": "https://www.ithome.com/1/006/021.htm",
+      "time": "09-23 06:48",
+      "src": "IT之家"
+    },
+    {
+      "title": "手游画质将迎新突破，高通第六代骁龙 8 超级至尊版强化支持虚幻引擎 5",
+      "link": "https://www.ithome.com/1/006/012.htm",
+      "time": "09-23 05:18",
+      "src": "IT之家"
+    },
     {
       "title": "微软调整 XBOX 业务并启动新一轮裁员，动视豪言“目标打造史上最棒《光环》”",
       "link": "https://www.ithome.com/1/005/993.htm",
@@ -1184,22 +1196,10 @@
       "src": "IT之家"
     },
     {
-      "title": "索尼被曝测试 PlayStation 新奖励机制：购买部分游戏可获“返利”",
-      "link": "https://www.ithome.com/1/005/970.htm",
-      "time": "09-22 21:52",
-      "src": "IT之家"
-    },
-    {
-      "title": "Steam 新一周游戏销量榜公布：《战狗》连冠，《EA SPORTS FC 27》紧随其后",
-      "link": "https://www.ithome.com/1/005/961.htm",
-      "time": "09-22 21:32",
-      "src": "IT之家"
-    },
-    {
-      "title": "华为 Pura X View 阔直板手机游戏助手新增《原神》智能光影功能，可增加高光反射效果",
-      "link": "https://www.ithome.com/1/005/953.htm",
-      "time": "09-22 21:04",
-      "src": "IT之家"
+      "title": "玩亦有道: 西蒙和西总布正在用什么游戏装备？",
+      "link": "https://www.gcores.com/articles/220061",
+      "time": "09-22 19:30",
+      "src": "机核"
     }
   ],
   "game_update": [
@@ -1274,40 +1274,40 @@
       "src": "IT之家"
     },
     {
+      "title": "伊朗外长与美特使在纽约会晤",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-23/10701923.shtml",
+      "time": "09-23 06:28",
+      "src": "中新网"
+    },
+    {
+      "title": "中东冲突加干旱，摩尔多瓦为保证能源和饮用水实施紧急状态",
+      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260922-%E4%B8%AD%E4%B8%9C%E5%86%B2%E7%AA%81%E5%8A%A0%E5%B9%B2%E6%97%B1%EF%BC%8C%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6%E4%B8%BA%E4%BF%9D%E8%AF%81%E8%83%BD%E6%BA%90%E5%92%8C%E9%A5%AE%E7%94%A8%E6%B0%B4%E5%AE%9E%E6%96%BD%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81",
+      "time": "09-23 05:29",
+      "src": "© Guvernul R.M"
+    },
+    {
       "title": "特朗普联合国大会演讲威胁可“摧毁”伊朗",
       "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260922-%E7%89%B9%E6%9C%97%E6%99%AE%E8%81%94%E5%90%88%E5%9B%BD%E5%A4%A7%E4%BC%9A%E6%BC%94%E8%AE%B2%E5%A8%81%E8%83%81%E5%8F%AF-%E6%91%A7%E6%AF%81-%E4%BC%8A%E6%9C%97",
       "time": "09-23 01:30",
       "src": "© Brendan Smia"
     },
     {
+      "title": "美国将在格陵兰岛设立两个新军事基地",
+      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260922-%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%9C%A8%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E8%AE%BE%E7%AB%8B%E4%B8%A4%E4%B8%AA%E6%96%B0%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0",
+      "time": "09-23 04:42",
+      "src": "© Facebook"
+    },
+    {
+      "title": "伊朗提议七天内重新开放霍尔木兹海峡",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260922-%E4%BC%8A%E6%9C%97%E6%8F%90%E8%AE%AE%E4%B8%83%E5%A4%A9%E5%86%85%E9%87%8D%E6%96%B0%E5%BC%80%E6%94%BE%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
+      "time": "09-23 04:34",
+      "src": "REUTERS - Stri"
+    },
+    {
       "title": "F-35战机部件运输中丢失 澳洲防长称“不属于敏感物资”",
       "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260922-f-35%E6%88%98%E6%9C%BA%E9%83%A8%E4%BB%B6%E8%BF%90%E8%BE%93%E4%B8%AD%E4%B8%A2%E5%A4%B1-%E6%BE%B3%E6%B4%B2%E9%98%B2%E9%95%BF%E7%A7%B0-%E4%B8%8D%E5%B1%9E%E4%BA%8E%E6%95%8F%E6%84%9F%E7%89%A9%E8%B5%84",
       "time": "09-22 19:18",
       "src": "AP - Geert Van"
-    },
-    {
-      "title": "习近平据报将促特朗普依《八一七公报》停止对台军售 中方提协助向伊朗施压",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260922-%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8D%AE%E6%8A%A5%E5%B0%86%E4%BF%83%E7%89%B9%E6%9C%97%E6%99%AE%E4%BE%9D-%E5%85%AB%E4%B8%80%E4%B8%83%E5%85%AC%E6%8A%A5-%E5%81%9C%E6%AD%A2%E5%AF%B9%E5%8F%B0%E5%86%9B%E5%94%AE-%E4%B8%AD%E6%96%B9%E6%8F%90%E5%87%BA%E5%8D%8F%E5%8A%A9%E5%90%91%E4%BC%8A%E6%9C%97%E6%96%BD%E5%8E%8B",
-      "time": "09-22 17:56",
-      "src": "© 美联社图片"
-    },
-    {
-      "title": "美日韩外长会：强调维护台海和平稳定重要性，反对单方面改变现状企图",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260922-%E7%BE%8E%E6%97%A5%E9%9F%A9%E5%A4%96%E9%95%BF%E4%BC%9A-%E5%BC%BA%E8%B0%83%E7%BB%B4%E6%8A%A4%E5%8F%B0%E6%B5%B7%E5%92%8C%E5%B9%B3%E7%A8%B3%E5%AE%9A%E9%87%8D%E8%A6%81%E6%80%A7%EF%BC%8C%E5%8F%8D%E5%AF%B9%E5%8D%95%E6%96%B9%E9%9D%A2%E6%94%B9%E5%8F%98%E7%8E%B0%E7%8A%B6%E4%BC%81%E5%9B%BE",
-      "time": "09-22 16:59",
-      "src": "© 美联社图片"
-    },
-    {
-      "title": "27岁女子遭狗袭击至死 港府急欲撇清与北都无关 却承认收地或令流浪狗增加",
-      "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260922-27%E5%B2%81%E5%A5%B3%E5%AD%90%E9%81%AD%E7%8B%97%E8%A2%AD%E5%87%BB%E8%87%B3%E6%AD%BB-%E6%B8%AF%E5%BA%9C%E6%80%A5%E6%AC%B2%E6%92%87%E6%B8%85%E4%B8%8E%E5%8C%97%E9%83%BD%E6%97%A0%E5%85%B3-%E5%8D%B4%E6%89%BF%E8%AE%A4%E6%94%B6%E5%9C%B0%E6%88%96%E4%BB%A4%E6%B5%81%E6%B5%AA%E7%8B%97%E5%A2%9E%E5%8A%A0",
-      "time": "09-22 16:13",
-      "src": "© 法广中文部/麦燕庭"
-    },
-    {
-      "title": "聯合國專家：有理由相信美國在伊朗襲擊行動中犯下戰爭罪",
-      "link": "https://www.bbc.com/zhongwen/articles/cwq63qj0119go/trad?at_medium=RSS&at_campaign=rss",
-      "time": "09-20 11:05",
-      "src": "BBC中文"
     }
   ]
 }
