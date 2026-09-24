@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25 02:21",
+  "generated_at": "2026-09-25 07:08",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,18 +233,6 @@
     ],
     "news": [
       {
-        "title": "涂鸦智能展示 Doova 家庭陪伴机器人，面向独居老人场景",
-        "link": "https://www.ithome.com/1/007/027.htm",
-        "time": "09-24 22:20",
-        "src": "IT之家"
-      },
-      {
-        "title": "亚马逊将投资超 1 亿美元在美国新建机器人制造工厂，2028 年投入运营",
-        "link": "https://www.ithome.com/1/007/014.htm",
-        "time": "09-24 21:16",
-        "src": "IT之家"
-      },
-      {
         "title": "Meta个人AI助手Muse算力需求极剧攀升 云端架构带来算力与硬件资源考验",
         "link": "https://www.cnbeta.com.tw/articles/tech/1579514.htm",
         "time": "09-24 23:48",
@@ -263,21 +251,33 @@
         "src": "BBC中文"
       },
       {
-        "title": "美联储官员哈马克：经济面临接连不断的冲击 加剧了通胀心态固化风险",
-        "link": "https://finance.sina.com.cn/world/2026-09-25/doc-inisycsp4978546.shtml",
-        "time": "09-25 01:09",
+        "title": "9月25日隔夜要闻：伊朗总统谈浓缩铀 以官员称恢复对伊打击只是时间问题 美国财政部长债回购再次未达上限",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqn9835481.shtml",
+        "time": "09-25 07:05",
         "src": "环球市场播报"
       },
       {
-        "title": "欧洲央行管委Radev：必须给之前的加息行动足够的时间发挥作用",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-24/doc-inisxxkv4956815.shtml",
-        "time": "09-24 22:35",
+        "title": "美国30年期国债收益率创逾二十年最高 财政部回购规模低于预期",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqn9834569.shtml",
+        "time": "09-25 07:02",
         "src": "环球市场播报"
       },
       {
-        "title": "亚马逊斥资1亿美元新建印第安纳州基地，扩大机器人产能",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-24/doc-inisxxkx0217563.shtml",
-        "time": "09-24 22:18",
+        "title": "9月25日美股成交前20：甲骨文收跌3.47% 公司就数据中心发出不可抗力通知",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqi7873258.shtml",
+        "time": "09-25 06:31",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "9月25日收盘：道指连续三日收跌 油价、美债收益率维持高位",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyqhi4765190.shtml",
+        "time": "09-25 04:21",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "美国财政部长债回购再次未达上限 总计购入40.8亿美元国债",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyiyt0039207.shtml",
+        "time": "09-25 03:19",
         "src": "环球市场播报"
       }
     ]
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 51366.33,
-      "pct": -0.28,
-      "chg": -145.26,
-      "amount": "1118399377亿"
+      "price": 51349.98,
+      "pct": -0.31,
+      "chg": -161.61,
+      "amount": "2004172222亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26897.19,
-      "pct": -0.14,
-      "chg": -38.85,
-      "amount": "13257078315亿"
+      "price": 26939.37,
+      "pct": 0.01,
+      "chg": 3.33,
+      "amount": "19159075714亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7700.28,
-      "pct": -0.07,
-      "chg": -5.75,
-      "amount": "1261770483亿"
+      "price": 7704.13,
+      "pct": -0.02,
+      "chg": -1.9,
+      "amount": "2243235244亿"
     }
   ],
   "anime": {
@@ -336,7 +336,7 @@
         "score": 6.9,
         "img": "http://lain.bgm.tv/pic/cover/c/5d/00/517106_Il9mk.jpg",
         "air_date": "2026-07-17",
-        "rank": 3075
+        "rank": 3101
       },
       {
         "id": 624691,
@@ -354,7 +354,7 @@
         "score": 5.8,
         "img": "http://lain.bgm.tv/pic/cover/c/fa/0b/638151_q95Ls.jpg",
         "air_date": "2026-07-03",
-        "rank": 8077
+        "rank": 8149
       },
       {
         "id": 571895,
@@ -363,7 +363,7 @@
         "score": 5.5,
         "img": "http://lain.bgm.tv/pic/cover/c/a2/a1/571895_0KwUw.jpg",
         "air_date": "2026-07-10",
-        "rank": 9042
+        "rank": 9069
       },
       {
         "id": 627136,
@@ -372,7 +372,7 @@
         "score": 5.5,
         "img": "http://lain.bgm.tv/pic/cover/c/01/8f/627136_hb0Jd.jpg",
         "air_date": "2026-07-03",
-        "rank": 9311
+        "rank": 9318
       },
       {
         "id": 613438,
@@ -381,7 +381,7 @@
         "score": 5.4,
         "img": "http://lain.bgm.tv/pic/cover/c/15/fb/613438_pJVpS.jpg",
         "air_date": "2026-07-03",
-        "rank": 8092
+        "rank": 8051
       },
       {
         "id": 668586,
@@ -396,7 +396,7 @@
         "id": 664856,
         "name": "ばなにゃ あっとほーむぱーてぃー",
         "name_cn": "香蕉喵10周年纪念特别篇",
-        "score": 5.1,
+        "score": 5.2,
         "img": "http://lain.bgm.tv/pic/cover/c/ab/40/664856_1N98d.jpg",
         "air_date": "2026-07-10",
         "rank": null
@@ -457,88 +457,88 @@
   "ai": {
     "news_zh": [
       {
-        "title": "李楠谈锤子科技 TNT 生不逢时：有了 Agent 之后，这些操作其实都不是非常难",
-        "link": "https://www.ithome.com/1/007/039.htm",
-        "time": "09-24 23:12",
-        "src": "IT之家"
+        "title": "Meta个人AI助手Muse算力需求极剧攀升 云端架构带来算力与硬件资源考验",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1579514.htm",
+        "time": "09-24 23:48",
+        "src": "cnBeta.COM"
       },
       {
-        "title": "涂鸦智能展示 Doova 家庭陪伴机器人，面向独居老人场景",
-        "link": "https://www.ithome.com/1/007/027.htm",
-        "time": "09-24 22:20",
-        "src": "IT之家"
+        "title": "OpenAI智能体在搜集数据期间 又尝试入侵另外四家网站",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1579510.htm",
+        "time": "09-24 22:49",
+        "src": "cnBeta.COM"
       },
       {
-        "title": "“太空数据中心”第一步？谷歌下周将发射试验卫星，能处理简单 AI 查询",
-        "link": "https://www.ithome.com/1/007/022.htm",
-        "time": "09-24 22:02",
-        "src": "IT之家"
+        "title": "高通与苹果续签芯片专利许可协议 2027年4月起继续生效",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1579494.htm",
+        "time": "09-24 20:31",
+        "src": "cnBeta.COM"
       },
       {
-        "title": "英伟达 GeForce NOW 云游戏更新：9 款新游戏加入，即将适配 Googlebook",
-        "link": "https://www.ithome.com/1/007/021.htm",
-        "time": "09-24 21:56",
-        "src": "IT之家"
+        "title": "OpenAI、Anthropic呼吁建立全球AI安全标准 美国政府拒绝新增全球治理框架",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1579464.htm",
+        "time": "09-24 15:01",
+        "src": "cnBeta.COM"
       },
       {
-        "title": "三巨头联手，曝谷歌、OpenAI、Anthropic 拟共同组建 AI 安全标准自律组织",
-        "link": "https://www.ithome.com/1/007/016.htm",
-        "time": "09-24 21:25",
-        "src": "IT之家"
+        "title": "草原上的數據中心：中國AI雄心背後的算力前線",
+        "link": "https://www.bbc.com/zhongwen/articles/crje8gjn3nl5o/trad?at_medium=RSS&at_campaign=rss",
+        "time": "09-23 21:24",
+        "src": "BBC中文"
       },
       {
-        "title": "亚马逊将投资超 1 亿美元在美国新建机器人制造工厂，2028 年投入运营",
-        "link": "https://www.ithome.com/1/007/014.htm",
-        "time": "09-24 21:16",
-        "src": "IT之家"
+        "title": "阿波罗将软银净资产贷款增至92亿美元 支持其人工智能投资",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyqhp4739712.shtml",
+        "time": "09-25 05:04",
+        "src": "环球市场播报"
       },
       {
-        "title": "新加坡主要金融机构承诺将为超 8 万名本地员工培训 AI 技能，降低潜在就业风险",
-        "link": "https://www.ithome.com/1/006/995.htm",
-        "time": "09-24 20:19",
-        "src": "IT之家"
+        "title": "OpenAI、Anthropic被要求在完成白宫测试前不能向英国分享新模型",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyqhp4710108.shtml",
+        "time": "09-25 04:04",
+        "src": "环球市场播报"
       },
       {
-        "title": "研究警示：美国 AI 基建投入规模空前，潜藏系统性金融风险",
-        "link": "https://www.ithome.com/1/006/987.htm",
-        "time": "09-24 19:26",
-        "src": "IT之家"
+        "title": "OpenAI智能体在搜集数据期间，又尝试入侵另外四家网站",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-24/doc-inisxxkt8156800.shtml",
+        "time": "09-24 21:53",
+        "src": "环球市场播报"
       }
     ],
     "hf": [
       {
         "id": "convaiinnovations/laya",
-        "likes": 3347,
+        "likes": 3388,
         "downloads": 0,
         "pipeline": "text-classification"
       },
       {
         "id": "Qwen/Qwen-Image-2.1",
-        "likes": 2166,
+        "likes": 2190,
         "downloads": 37618,
         "pipeline": "text-to-image"
       },
       {
         "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-        "likes": 2007,
+        "likes": 2037,
         "downloads": 2991233,
         "pipeline": "text-generation"
       },
       {
-        "id": "XingChen-AGI/Xing4.0-29B-A4B",
-        "likes": 1644,
-        "downloads": 41923,
-        "pipeline": "text-generation"
-      },
-      {
         "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-        "likes": 1596,
+        "likes": 1624,
         "downloads": 575697,
         "pipeline": "text-to-image"
       },
       {
+        "id": "XingChen-AGI/Xing4.0-29B-A4B",
+        "likes": 1646,
+        "downloads": 41923,
+        "pipeline": "text-generation"
+      },
+      {
         "id": "Comfy-Org/Qwen-Image-2.1",
-        "likes": 661,
+        "likes": 682,
         "downloads": 2858923,
         "pipeline": ""
       }
@@ -712,30 +712,6 @@
   ],
   "hw_news": [
     {
-      "title": "罗技 G G304 X SUPERLIGHT 鼠标国行上市：HERO 44K 传感器，到手价 549 元",
-      "link": "https://www.ithome.com/1/007/031.htm",
-      "time": "09-24 22:39",
-      "src": "IT之家"
-    },
-    {
-      "title": "m0NESY 同款：罗技 G PRO X2 RAPID 磁轴键盘发售，到手价 1099 元",
-      "link": "https://www.ithome.com/1/007/028.htm",
-      "time": "09-24 22:24",
-      "src": "IT之家"
-    },
-    {
-      "title": "三星首款耳夹式耳机 Galaxy Buds On 外观曝光，预计支持睡眠监测、自动调节音量等",
-      "link": "https://www.ithome.com/1/007/020.htm",
-      "time": "09-24 21:51",
-      "src": "IT之家"
-    },
-    {
-      "title": "瑞士科学家打造“会振动的量子内存” 量子计算机首次实现处理器与内存分工",
-      "link": "https://www.cnbeta.com.tw/articles/science/1579452.htm",
-      "time": "09-24 13:32",
-      "src": "cnBeta.COM"
-    },
-    {
       "title": "可定制、更出彩，头戴式耳机新选择：Beats 360 首发体验",
       "link": "https://sspai.com/post/114878",
       "time": "09-22 22:00",
@@ -766,12 +742,6 @@
       "src": "新浪数码"
     },
     {
-      "title": "【新股IPO】奥比中光科技向港交所主板递交上市申请",
-      "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-24/doc-inisxxkr5054934.shtml",
-      "time": "09-24 22:14",
-      "src": ""
-    },
-    {
       "title": "Computex 2026: NVIDIA 发布 ARM 架构 PC 芯片 RTX Spark, 集成 Blackwell GPU, 对标苹果 M5",
       "link": "https://new.qq.com/rain/a/20260605A09PXY00",
       "time": "精选",
@@ -780,6 +750,30 @@
     {
       "title": "AMD 发布 Ryzen 7 7700X3D(104MB缓存,$329) 与 Radeon RX 9070 GRE(12GB,$549), 强化 1440p 游戏市场",
       "link": "https://www.91mobiles.com/hub/computex-2026-amd-ryzen-x3d-cpus-radeon-9070-gre",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "Intel 预览 Nova Lake 桌面平台: 最高48核(16P+32E), 18A 工艺, LGA1954 新插槽, 预计2026年底上市",
+      "link": "https://www.160.com/article/12732.html",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "宏碁首发 1000Hz 电竞显示器; 微星 5K Mini-LED 双模电竞屏(5K@180Hz/2K@330Hz) 亮相 Computex 2026",
+      "link": "https://www.160.com/article/12732.html",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "微星 40 周年发布 RTX 5090 LIGHTNING Z 旗舰与内置 AI 代理的 OLED 电竞显示器",
+      "link": "https://www.160.com/article/12732.html",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "AMD 锐龙 AI Max 400 系列: 192GB 统一内存, 宣称本地可运行 300B 参数大模型",
+      "link": "https://www.160.com/article/12732.html",
       "time": "精选",
       "src": "资讯整理"
     }
@@ -988,36 +982,6 @@
   },
   "intl_news": [
     {
-      "title": "许斐确认小米 18 Pro 系列手机将走向全球，推出国际版",
-      "link": "https://www.ithome.com/1/007/010.htm",
-      "time": "09-24 20:58",
-      "src": "IT之家"
-    },
-    {
-      "title": "中国贸促会汽车行业分会：明年北京将新增一场国际车展，形式为专业主题展",
-      "link": "https://www.ithome.com/1/006/991.htm",
-      "time": "09-24 19:48",
-      "src": "IT之家"
-    },
-    {
-      "title": "高通宣布与苹果续签全球专利许可协议，2027 年 4 月 1 日起生效",
-      "link": "https://www.ithome.com/1/006/988.htm",
-      "time": "09-24 19:41",
-      "src": "IT之家"
-    },
-    {
-      "title": "OpenAI 奥尔特曼、 Anthropic 阿莫迪罕见“同台”，呼吁全球合作应对 AI 安全",
-      "link": "https://www.ithome.com/1/006/983.htm",
-      "time": "09-24 19:11",
-      "src": "IT之家"
-    },
-    {
-      "title": "全球首富有望入局好莱坞？消息称派拉蒙影业向马斯克寻求投资",
-      "link": "https://www.ithome.com/1/006/969.htm",
-      "time": "09-24 18:28",
-      "src": "IT之家"
-    },
-    {
       "title": "多项大奖得主《控制》续作：《控制：共振》现已全球正式发售",
       "link": "https://www.gcores.com/articles/220221",
       "time": "09-24 22:00",
@@ -1034,116 +998,139 @@
       "link": "https://www.gcores.com/articles/220192",
       "time": "09-24 14:12",
       "src": "机核"
+    },
+    {
+      "title": "《战锤40K：战争黎明4》战报，展现2v2团队小规模冲突",
+      "link": "https://www.gcores.com/articles/220178",
+      "time": "09-24 11:28",
+      "src": "机核"
+    },
+    {
+      "title": "马克龙：法国正在尽一切努力避免燃油短缺",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-25/10703549.shtml",
+      "time": "09-25 07:02",
+      "src": "中新网"
+    },
+    {
+      "title": "彭丽媛同美国总统特朗普夫人梅拉尼娅参观国立亚洲艺术博物馆",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-25/10703548.shtml",
+      "time": "09-25 06:27",
+      "src": "中新网"
+    },
+    {
+      "title": "习近平同美国总统特朗普会谈",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-25/10703547.shtml",
+      "time": "09-25 06:25",
+      "src": "中新网"
+    },
+    {
+      "title": "习近平出席美国总统特朗普在白宫举行的欢迎仪式",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-25/10703546.shtml",
+      "time": "09-25 06:22",
+      "src": "中新网"
     }
   ],
   "econ_news": [
     {
-      "title": "R 星官宣 400 美元《GTA6》收藏礼盒：含手办、太阳镜、海报等周边，无游戏本体",
-      "link": "https://www.ithome.com/1/007/042.htm",
-      "time": "09-24 23:34",
-      "src": "IT之家"
-    },
-    {
-      "title": "美国将投入近 20 亿美元升级老化电网，有望为近 1 亿美国人降低用电成本",
-      "link": "https://www.ithome.com/1/007/019.htm",
-      "time": "09-24 21:43",
-      "src": "IT之家"
-    },
-    {
-      "title": "亚马逊将投资超 1 亿美元在美国新建机器人制造工厂，2028 年投入运营",
-      "link": "https://www.ithome.com/1/007/014.htm",
-      "time": "09-24 21:16",
-      "src": "IT之家"
-    },
-    {
-      "title": "新加坡主要金融机构承诺将为超 8 万名本地员工培训 AI 技能，降低潜在就业风险",
-      "link": "https://www.ithome.com/1/006/995.htm",
-      "time": "09-24 20:19",
-      "src": "IT之家"
-    },
-    {
-      "title": "制造商 CRKD 推出 29.99 美元 Atom+ 迷你手柄：能挂在钥匙扣上，但有完整按键配置",
-      "link": "https://www.ithome.com/1/006/993.htm",
-      "time": "09-24 20:06",
-      "src": "IT之家"
-    },
-    {
-      "title": "软银豪赌 AI：完成 111 亿美元创纪录债券发行，全力押注 OpenAI",
-      "link": "https://www.ithome.com/1/006/982.htm",
-      "time": "09-24 19:06",
-      "src": "IT之家"
-    },
-    {
-      "title": "李强出席第五届全球数字贸易博览会启动仪式并致辞",
-      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/09-24/1205744.shtml",
-      "time": "09-24 23:45",
-      "src": "中新网"
+      "title": "任天堂赢得450万美元赔偿判决 Switch盗版社区版主“Archbox”败诉并关闭平台",
+      "link": "https://www.cnbeta.com.tw/articles/game/1579528.htm",
+      "time": "09-25 02:23",
+      "src": "cnBeta.COM"
     },
     {
       "title": "AI建设潮正成为美国历史上规模最大的经济豪赌",
       "link": "https://www.cnbeta.com.tw/articles/tech/1579474.htm",
       "time": "09-24 16:27",
       "src": "cnBeta.COM"
+    },
+    {
+      "title": "美国政府考虑推动全球稳定币计划 以巩固美元主导地位",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1579466.htm",
+      "time": "09-24 15:01",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "习特会：中美贸易休战再延期  路透社盘点两国贸易战重要时间线",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260924-%E4%B9%A0%E7%89%B9%E4%BC%9A-%E4%B8%AD%E7%BE%8E%E8%B4%B8%E6%98%93%E4%BC%91%E6%88%98%E5%86%8D%E5%BB%B6%E6%9C%9F-%E8%B7%AF%E9%80%8F%E7%A4%BE%E7%9B%98%E7%82%B9%E4%B8%AD%E7%BE%8E%E8%B4%B8%E6%98%93%E6%88%98%E9%87%8D%E8%A6%81%E6%97%B6%E9%97%B4%E7%BA%BF",
+      "time": "09-24 23:39",
+      "src": "© AP Photo/Ale"
+    },
+    {
+      "title": "美中同意将贸易休战期延长至1月10日",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260923-%E7%BE%8E%E4%B8%AD%E5%90%8C%E6%84%8F%E5%B0%86%E8%B4%B8%E6%98%93%E4%BC%91%E6%88%98%E6%9C%9F%E5%BB%B6%E9%95%BF%E8%87%B31%E6%9C%8810%E6%97%A5",
+      "time": "09-24 07:07",
+      "src": "REUTERS - Jona"
+    },
+    {
+      "title": "巴士上大聲播放音樂？在新加坡可能要被罰數百美元",
+      "link": "https://www.bbc.com/zhongwen/articles/cw9802p97qgvo/trad?at_medium=RSS&at_campaign=rss",
+      "time": "09-24 08:05",
+      "src": "BBC中文"
+    },
+    {
+      "title": "香港提出「人民幣支付政府開支」為何引發「去美元化」憂慮？",
+      "link": "https://www.bbc.com/zhongwen/articles/c65y501pjww4o/trad?at_medium=RSS&at_campaign=rss",
+      "time": "09-23 11:20",
+      "src": "BBC中文"
+    },
+    {
+      "title": "GfK：英国消费者信心的提振势头正在减弱",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqn9835847.shtml",
+      "time": "09-25 07:07",
+      "src": "环球市场播报"
     }
   ],
   "game_news": [
     {
-      "title": "R 星官宣 400 美元《GTA6》收藏礼盒：含手办、太阳镜、海报等周边，无游戏本体",
-      "link": "https://www.ithome.com/1/007/042.htm",
-      "time": "09-24 23:34",
-      "src": "IT之家"
-    },
-    {
-      "title": "育碧编剧透露：《超越善恶 2》游戏仍在积极开发中",
-      "link": "https://www.ithome.com/1/007/041.htm",
-      "time": "09-24 23:18",
-      "src": "IT之家"
-    },
-    {
-      "title": "罗技 G PRO X3 LIGHTSPEED 头戴式游戏耳麦发售，到手价 1699 元",
-      "link": "https://www.ithome.com/1/007/038.htm",
+      "title": "35周年、哥斯拉与EVA联动，以及未来的可能：TGS2026专访《索尼克赛车: 交叉世界》制作人",
+      "link": "https://www.gcores.com/articles/220226",
       "time": "09-24 23:11",
-      "src": "IT之家"
+      "src": "机核"
     },
     {
-      "title": "Epic 喜加二：《Astrea Six Sided Oracles》《钢铁指挥官》游戏免费领",
-      "link": "https://www.ithome.com/1/007/036.htm",
-      "time": "09-24 23:05",
-      "src": "IT之家"
+      "title": "多项大奖得主《控制》续作：《控制：共振》现已全球正式发售",
+      "link": "https://www.gcores.com/articles/220221",
+      "time": "09-24 22:00",
+      "src": "机核"
     },
     {
-      "title": "m0NESY 同款：罗技 G PRO X2 RAPID 磁轴键盘发售，到手价 1099 元",
-      "link": "https://www.ithome.com/1/007/028.htm",
-      "time": "09-24 22:24",
-      "src": "IT之家"
+      "title": "《海员人生：行船模拟》今日正式发售",
+      "link": "https://www.gcores.com/articles/220220",
+      "time": "09-24 20:57",
+      "src": "机核"
     },
     {
-      "title": "《控制：共振》登陆 Steam：国区售价 268 元起，支持 DLSS 4.5 光追",
-      "link": "https://www.ithome.com/1/007/025.htm",
-      "time": "09-24 22:14",
-      "src": "IT之家"
+      "title": "我想做这样的超英游戏，感觉能火！对话“超英”UP主BA【视频播客音频版】",
+      "link": "https://www.gcores.com/radios/220219",
+      "time": "09-24 20:32",
+      "src": "机核"
     },
     {
-      "title": "铭凡推出 UM780L Slim 迷你主机：0.77L 体积，板载 LPDDR5X-7500",
-      "link": "https://www.ithome.com/1/007/026.htm",
-      "time": "09-24 22:15",
-      "src": "IT之家"
+      "title": "我那随叫随到的满级队友，和那些藏在游戏设备里的避风港",
+      "link": "https://www.gcores.com/articles/220191",
+      "time": "09-24 18:09",
+      "src": "机核"
     },
     {
-      "title": "英伟达 GeForce NOW 云游戏更新：9 款新游戏加入，即将适配 Googlebook",
-      "link": "https://www.ithome.com/1/007/021.htm",
-      "time": "09-24 21:56",
-      "src": "IT之家"
+      "title": "获奖手绘风奇幻恐怖游戏《再见了，亲爱的卡罗尔》中文版本上线",
+      "link": "https://www.gcores.com/articles/220201",
+      "time": "09-24 15:48",
+      "src": "机核"
+    },
+    {
+      "title": "【抽奖】《有这么一个家伙》现已在全球PC和主机平台推出",
+      "link": "https://www.gcores.com/articles/220200",
+      "time": "09-24 15:46",
+      "src": "机核"
+    },
+    {
+      "title": "五行三消法术对战游戏《五行游》现已发售，支持跨平台联机",
+      "link": "https://www.gcores.com/articles/220144",
+      "time": "09-24 15:00",
+      "src": "机核"
     }
   ],
   "game_update": [
-    {
-      "title": "华为乾崑智驾 ADS 5 系统 9 月版本更新亮点公布，升级 AR 人找车、实时对讲等功能",
-      "link": "https://www.ithome.com/1/007/047.htm",
-      "time": "09-25 01:51",
-      "src": "IT之家",
-      "type": "不停机更新"
-    },
     {
       "title": "《PUBG》42.3版本 PC 8/12 维护(08:00-16:30): 时隔两年新增轻机枪 RPD, 轻机枪换弹-25%/后坐力调整, 主流玩法轮换开启",
       "link": "https://new.qq.com/rain/a/20260811A06SHD00",
@@ -1192,6 +1179,13 @@
       "time": "8-05",
       "type": "停机维护",
       "src": "腾讯官方"
+    },
+    {
+      "title": "《大话西游》手游 8/13 每周例行停机维护(8:00-10:00): 新神兽广陵+小西天副本上线, 周星驰合作宣传片8/15公开",
+      "link": "https://dhxy.163.com/news/update/20260812/19975_1310915.html",
+      "time": "8-13",
+      "type": "停机维护",
+      "src": "网易官网"
     }
   ],
   "mil_news": [
@@ -1226,12 +1220,6 @@
       "src": "机核"
     },
     {
-      "title": "英国BAE测试“地面无线供电”技术 为太阳能无人机持续输能 目标实现全年全天候飞行",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1579450.htm",
-      "time": "09-24 13:31",
-      "src": "cnBeta.COM"
-    },
-    {
       "title": "伊朗航空公司不再获准飞往阿联酋",
       "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260924-%E4%BC%8A%E6%9C%97%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E4%B8%8D%E5%86%8D%E8%8E%B7%E5%87%86%E9%A3%9E%E5%BE%80%E9%98%BF%E8%81%94%E9%85%8B",
       "time": "09-24 23:49",
@@ -1242,6 +1230,12 @@
       "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260924-%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E7%A7%B0%E4%BC%8A%E6%9C%97%E6%98%AF%E7%BE%8E%E5%9B%BD-%E6%81%90%E6%80%96%E4%B8%BB%E4%B9%89-%E5%8F%97%E5%AE%B3%E8%80%85-%E5%85%B6%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E9%A1%BE%E9%97%AE%E7%A7%B0%E6%88%98%E7%BA%BF%E5%8F%AF%E6%89%A9%E8%87%B3%E5%8D%B0%E5%BA%A6%E6%B4%8B",
       "time": "09-24 22:10",
       "src": "REUTERS - Cait"
+    },
+    {
+      "title": "习近平访美：争取小幅进展，避免破裂冲突",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260924-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E-%E4%BA%89%E5%8F%96%E5%B0%8F%E5%B9%85%E8%BF%9B%E5%B1%95%EF%BC%8C%E9%81%BF%E5%85%8D%E7%A0%B4%E8%A3%82%E4%B8%8E%E5%86%B2%E7%AA%81",
+      "time": "09-24 21:27",
+      "src": "法广RFI"
     }
   ]
 }
