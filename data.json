@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26 01:00",
+  "generated_at": "2026-09-26 05:25",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -251,6 +251,12 @@
         "src": "IT之家"
       },
       {
+        "title": "特斯拉Optimus 机器人扩产遇阻：手部结构与供应链接连出问题",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1579646.htm",
+        "time": "09-26 02:24",
+        "src": "cnBeta.COM"
+      },
+      {
         "title": "马斯克押注超大规模AI算力 xAI计划部署逾120万颗英伟达GPU",
         "link": "https://www.cnbeta.com.tw/articles/tech/1579626.htm",
         "time": "09-25 23:06",
@@ -273,12 +279,6 @@
         "link": "https://www.cnbeta.com.tw/articles/tech/1579582.htm",
         "time": "09-25 14:21",
         "src": "cnBeta.COM"
-      },
-      {
-        "title": "草原上的數據中心：中國AI雄心背後的算力前線",
-        "link": "https://www.bbc.com/zhongwen/articles/crje8gjn3nl5o/trad?at_medium=RSS&at_campaign=rss",
-        "time": "09-23 21:24",
-        "src": "BBC中文"
       }
     ]
   },
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 51722.19,
-      "pct": 0.72,
-      "chg": 372.21,
-      "amount": "958541900亿"
+      "price": 51828.62,
+      "pct": 0.93,
+      "chg": 478.64,
+      "amount": "2018927467亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 27063.14,
-      "pct": 0.46,
-      "chg": 123.77,
-      "amount": "9907943165亿"
+      "price": 27068.72,
+      "pct": 0.48,
+      "chg": 129.35,
+      "amount": "17028684746亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7734.64,
-      "pct": 0.4,
-      "chg": 30.51,
-      "amount": "932517869亿"
+      "price": 7743.41,
+      "pct": 0.51,
+      "chg": 39.28,
+      "amount": "2047943065亿"
     }
   ],
   "anime": {
@@ -459,7 +459,7 @@
         "id": 530729,
         "name": "魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance",
         "name_cn": "魔法少女奈叶 EXCEEDS Gun Blaze Vengeance",
-        "score": 5.2,
+        "score": 5.1,
         "img": "http://lain.bgm.tv/pic/cover/c/cf/0b/530729_82Fm9.jpg",
         "air_date": "2026-07-04",
         "rank": 9613
@@ -589,19 +589,19 @@
     "hf": [
       {
         "id": "convaiinnovations/laya",
-        "likes": 3610,
+        "likes": 3665,
         "downloads": 0,
         "pipeline": "text-classification"
       },
       {
         "id": "Qwen/Qwen-Image-2.1",
-        "likes": 2293,
+        "likes": 2316,
         "downloads": 42469,
         "pipeline": "text-to-image"
       },
       {
         "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-        "likes": 1744,
+        "likes": 1768,
         "downloads": 715906,
         "pipeline": "text-to-image"
       },
@@ -613,13 +613,13 @@
       },
       {
         "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-        "likes": 2078,
+        "likes": 2089,
         "downloads": 3109078,
         "pipeline": "text-generation"
       },
       {
         "id": "Comfy-Org/Qwen-Image-2.1",
-        "likes": 720,
+        "likes": 730,
         "downloads": 3266380,
         "pipeline": ""
       }
@@ -1036,6 +1036,12 @@
   "anime_industry": {
     "news": [
       {
+        "title": "SK海力士旗下Solidigm考虑明年赴美IPO 估值或高达1500亿美元",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1579642.htm",
+        "time": "09-26 01:28",
+        "src": "cnBeta.COM"
+      },
+      {
         "title": "美国72岁宝可梦卡牌收藏者在配送员车底安装追踪器获罪",
         "link": "https://www.cnbeta.com.tw/articles/game/1579600.htm",
         "time": "09-25 16:37",
@@ -1111,9 +1117,9 @@
       "src": "机核"
     },
     {
-      "title": "新华图讯丨习近平和彭丽媛同美国总统特朗普夫妇茶叙",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-26/10703964.shtml",
-      "time": "09-26 00:50",
+      "title": "第三届南亚国际书展在斯里兰卡启幕",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-26/10703976.shtml",
+      "time": "09-26 02:49",
       "src": "中新网"
     }
   ],
@@ -1289,6 +1295,12 @@
       "src": "机核"
     },
     {
+      "title": "美国上诉法院维持五角大楼将Anthropic列入黑名单的裁定",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1579648.htm",
+      "time": "09-26 02:24",
+      "src": "cnBeta.COM"
+    },
+    {
       "title": "亚马逊送货无人机引发社区不满 德州居民抱怨噪音不断",
       "link": "https://www.cnbeta.com.tw/articles/tech/1579616.htm",
       "time": "09-25 20:01",
@@ -1317,12 +1329,6 @@
       "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260925-%E6%8A%A5%E9%81%93%E7%A7%B0%EF%BC%8C%E4%B8%AD%E5%9B%BD%E4%BB%8A%E5%B9%B4%E5%90%91%E4%BC%8A%E6%9C%97%E8%BF%90%E9%80%81%E4%BA%861300%E6%89%B9%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%92%8C%E5%AF%BC%E5%BC%B9%E9%9B%B6%E9%83%A8%E4%BB%B6",
       "time": "09-25 19:48",
       "src": "© FILE - A Mah"
-    },
-    {
-      "title": "也门政府再次呼吁国际社会帮助击败胡塞武装",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260925-%E4%B9%9F%E9%97%A8%E6%94%BF%E5%BA%9C%E5%86%8D%E6%AC%A1%E5%91%BC%E5%90%81%E5%9B%BD%E9%99%85%E7%A4%BE%E4%BC%9A%E5%B8%AE%E5%8A%A9%E5%87%BB%E8%B4%A5%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85",
-      "time": "09-25 16:08",
-      "src": "AP Photo/Osama"
     }
   ]
 }
