@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27 01:42",
+  "generated_at": "2026-09-27 04:57",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -378,8 +378,17 @@
         "id": 574041,
         "name": "President Curtis",
         "name_cn": "柯蒂斯总统",
-        "score": 6.5,
+        "score": 6.6,
         "img": "http://lain.bgm.tv/pic/cover/c/8a/1a/574041_z5P0R.jpg",
+        "air_date": "2026-07-26",
+        "rank": null
+      },
+      {
+        "id": 613039,
+        "name": "茶啊二中第六季",
+        "name_cn": "茶啊二中 第6季",
+        "score": 6.4,
+        "img": "http://lain.bgm.tv/pic/cover/c/a3/12/613039_Z6VM6.jpg",
         "air_date": "2026-07-26",
         "rank": null
       },
@@ -400,15 +409,6 @@
         "img": "http://lain.bgm.tv/pic/cover/c/61/8d/595106_ll6Jj.jpg",
         "air_date": "2026-07-05",
         "rank": 5306
-      },
-      {
-        "id": 613039,
-        "name": "茶啊二中第六季",
-        "name_cn": "茶啊二中 第6季",
-        "score": 6.3,
-        "img": "http://lain.bgm.tv/pic/cover/c/a3/12/613039_Z6VM6.jpg",
-        "air_date": "2026-07-26",
-        "rank": null
       },
       {
         "id": 577191,
@@ -432,7 +432,7 @@
         "id": 619052,
         "name": "あはれ！名作くん 完全新作",
         "name_cn": "做得很好！名作君 完全新作",
-        "score": 5.3,
+        "score": 5.5,
         "img": "http://lain.bgm.tv/pic/cover/c/dd/82/619052_B0qAA.jpg",
         "air_date": "2026-07-05",
         "rank": null
@@ -495,7 +495,7 @@
         "id": 659686,
         "name": "トミカとトム シーズン2",
         "name_cn": "",
-        "score": 1.0,
+        "score": 1.5,
         "img": "http://lain.bgm.tv/pic/cover/c/67/28/659686_001De.jpg",
         "air_date": "2026-07-05",
         "rank": null
@@ -581,37 +581,37 @@
     "hf": [
       {
         "id": "convaiinnovations/laya",
-        "likes": 3840,
+        "likes": 3866,
         "downloads": 0,
         "pipeline": "text-classification"
       },
       {
         "id": "Qwen/Qwen-Image-2.1",
-        "likes": 2389,
+        "likes": 2393,
         "downloads": 48361,
         "pipeline": "text-to-image"
       },
       {
         "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-        "likes": 1902,
+        "likes": 1920,
         "downloads": 876673,
         "pipeline": "text-to-image"
       },
       {
         "id": "XingChen-AGI/Xing4.0-29B-A4B",
-        "likes": 1721,
+        "likes": 1724,
         "downloads": 43947,
         "pipeline": "text-generation"
       },
       {
         "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-        "likes": 2123,
+        "likes": 2127,
         "downloads": 3247527,
         "pipeline": "text-generation"
       },
       {
         "id": "Comfy-Org/Qwen-Image-2.1",
-        "likes": 767,
+        "likes": 773,
         "downloads": 3641785,
         "pipeline": ""
       }
