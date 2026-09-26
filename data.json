@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26 20:55",
+  "generated_at": "2026-09-27 01:42",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -131,7 +131,7 @@
     "status": {
       "state": "休市",
       "label": "周末休市",
-      "date": "2026-09-26"
+      "date": "2026-09-27"
     },
     "watch": [
       {
@@ -233,6 +233,12 @@
     ],
     "news": [
       {
+        "title": "宇树王兴兴回应为何造 390 万元起的载人变形机甲：大型机器人是行业不可阻挡的趋势",
+        "link": "https://www.ithome.com/1/007/443.htm",
+        "time": "09-26 22:29",
+        "src": "IT之家"
+      },
+      {
         "title": "国际机器人联合会：中国蝉联全球工业机器人最大市场，2025 年约占全球总安装量的 59%",
         "link": "https://www.ithome.com/1/007/401.htm",
         "time": "09-26 17:45",
@@ -248,12 +254,6 @@
         "title": "英飞凌耗资14.4亿美元的泰国半导体工厂将于10月1日投产",
         "link": "https://www.cnbeta.com.tw/articles/tech/1579684.htm",
         "time": "09-26 14:40",
-        "src": "cnBeta.COM"
-      },
-      {
-        "title": "特斯拉Optimus 机器人扩产遇阻：手部结构与供应链接连出问题",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1579646.htm",
-        "time": "09-26 02:24",
         "src": "cnBeta.COM"
       },
       {
@@ -317,196 +317,187 @@
     }
   ],
   "anime": {
-    "date": "09-26",
-    "weekday": "土",
+    "date": "09-27",
+    "weekday": "日",
     "items": [
       {
-        "id": 552533,
-        "name": "天幕のジャードゥーガル",
-        "name_cn": "穹庐下的魔女",
-        "score": 8.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/28/41/552533_E9DF9.jpg",
+        "id": 501963,
+        "name": "無職転生Ⅲ ～異世界行ったら本気だす～",
+        "name_cn": "无职转生 第三季 ～到了异世界就拿出真本事～",
+        "score": 8.1,
+        "img": "http://lain.bgm.tv/pic/cover/c/1f/9e/501963_bXlEP.jpg",
         "air_date": "2026-07-04",
-        "rank": 248
+        "rank": 201
       },
       {
-        "id": 530725,
-        "name": "BLEACH 千年血戦篇-禍進譚-",
-        "name_cn": "死神 千年血战篇-祸进谭-",
-        "score": 7.9,
-        "img": "http://lain.bgm.tv/pic/cover/c/ad/f9/530725_CAqWC.jpg",
-        "air_date": "2026-07-25",
-        "rank": 340
-      },
-      {
-        "id": 679578,
-        "name": "喜羊羊与灰太狼之破界山海诀番外篇",
-        "name_cn": "喜羊羊与灰太狼之破界山海诀番外篇",
+        "id": 638497,
+        "name": "正反対な君と僕 第2期",
+        "name_cn": "相反的你和我 第二季",
         "score": 7.8,
-        "img": "http://lain.bgm.tv/pic/cover/c/70/6f/679578_82PoC.jpg",
-        "air_date": "2026-07-25",
-        "rank": null
+        "img": "http://lain.bgm.tv/pic/cover/c/fa/9b/638497_85455.jpg",
+        "air_date": "2026-07-05",
+        "rank": 392
       },
       {
-        "id": 899,
-        "name": "名探偵コナン",
-        "name_cn": "名侦探柯南",
+        "id": 598058,
+        "name": "君のことが大大大大大好きな100人の彼女 第3期",
+        "name_cn": "超超超超超喜欢你的100个女朋友 第三季",
         "score": 7.5,
-        "img": "http://lain.bgm.tv/pic/cover/c/01/88/899_REwVW.jpg",
-        "air_date": "1996-01-08",
-        "rank": 904
+        "img": "http://lain.bgm.tv/pic/cover/c/96/f8/598058_R7dl3.jpg",
+        "air_date": "2026-07-05",
+        "rank": 945
       },
       {
-        "id": 570583,
-        "name": "グロウアップショウ ～ひまわりのサーカス団～",
-        "name_cn": "Grow Up Show ～向日葵马戏团～",
-        "score": 7.2,
-        "img": "http://lain.bgm.tv/pic/cover/c/0c/cf/570583_d3QZD.jpg",
-        "air_date": "2026-07-04",
-        "rank": 1960
+        "id": 615835,
+        "name": "鉄鍋のジャン！",
+        "name_cn": "炒翻天",
+        "score": 7.4,
+        "img": "http://lain.bgm.tv/pic/cover/c/27/b5/615835_IbNAh.jpg",
+        "air_date": "2026-07-05",
+        "rank": 1255
       },
       {
-        "id": 587109,
-        "name": "花織さんは転生しても喧嘩がしたい",
-        "name_cn": "花织即使是转生也想打架",
-        "score": 6.9,
-        "img": "http://lain.bgm.tv/pic/cover/c/59/84/587109_uryz6.jpg",
-        "air_date": "2026-07-11",
-        "rank": 2960
+        "id": 545008,
+        "name": "ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～",
+        "name_cn": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
+        "score": 7.0,
+        "img": "http://lain.bgm.tv/pic/cover/c/14/a1/545008_pNnzQ.jpg",
+        "air_date": "2026-07-12",
+        "rank": 2635
       },
       {
-        "id": 538760,
-        "name": "猫と竜",
-        "name_cn": "猫与龙",
-        "score": 6.8,
-        "img": "http://lain.bgm.tv/pic/cover/c/c5/16/538760_T0rxN.jpg",
-        "air_date": "2026-07-04",
-        "rank": 3450
-      },
-      {
-        "id": 549975,
-        "name": "Avatar Aang: The Last Airbender",
-        "name_cn": "神通安昂：最后的气宗",
+        "id": 495291,
+        "name": "さよならララ",
+        "name_cn": "再见菈菈",
         "score": 6.7,
-        "img": "http://lain.bgm.tv/pic/cover/c/01/f8/549975_swmz7.jpg",
-        "air_date": "2026-07-25",
-        "rank": 3669
+        "img": "http://lain.bgm.tv/pic/cover/c/18/af/495291_9WuBW.jpg",
+        "air_date": "2026-07-05",
+        "rank": 4174
       },
       {
-        "id": 576780,
-        "name": "炼气十万年特别篇 阳极天下",
-        "name_cn": "炼气十万年特别篇 阳极天下",
-        "score": 6.4,
-        "img": "http://lain.bgm.tv/pic/cover/c/f3/54/576780_uGF28.jpg",
-        "air_date": "2026-07-18",
+        "id": 574041,
+        "name": "President Curtis",
+        "name_cn": "柯蒂斯总统",
+        "score": 6.5,
+        "img": "http://lain.bgm.tv/pic/cover/c/8a/1a/574041_z5P0R.jpg",
+        "air_date": "2026-07-26",
         "rank": null
       },
       {
-        "id": 491578,
-        "name": "择日飞升",
-        "name_cn": "择日飞升",
-        "score": 5.9,
-        "img": "http://lain.bgm.tv/pic/cover/c/ff/2f/491578_whDt3.jpg",
-        "air_date": "2026-07-18",
+        "id": 454083,
+        "name": "アズールレーン びそくぜんしんっ！にっ!!",
+        "name_cn": "碧蓝航线：微速前行！第二季",
+        "score": 6.3,
+        "img": "http://lain.bgm.tv/pic/cover/c/61/12/454083_4DZpt.jpg",
+        "air_date": "2026-07-05",
+        "rank": 5744
+      },
+      {
+        "id": 595106,
+        "name": "レッツゴー怪奇組",
+        "name_cn": "Let&#39;s Go 怪奇组",
+        "score": 6.3,
+        "img": "http://lain.bgm.tv/pic/cover/c/61/8d/595106_ll6Jj.jpg",
+        "air_date": "2026-07-05",
+        "rank": 5306
+      },
+      {
+        "id": 613039,
+        "name": "茶啊二中第六季",
+        "name_cn": "茶啊二中 第6季",
+        "score": 6.3,
+        "img": "http://lain.bgm.tv/pic/cover/c/a3/12/613039_Z6VM6.jpg",
+        "air_date": "2026-07-26",
         "rank": null
       },
       {
-        "id": 529723,
-        "name": "株式会社マジルミエ 第2期",
-        "name_cn": "魔法光源股份有限公司 第二季",
-        "score": 5.8,
-        "img": "http://lain.bgm.tv/pic/cover/c/28/ae/529723_9qSo4.jpg",
-        "air_date": "2026-07-04",
-        "rank": 7454
+        "id": 577191,
+        "name": "ONE PIECE HEROINES",
+        "name_cn": "航海王 女英雄们的故事",
+        "score": 6.2,
+        "img": "http://lain.bgm.tv/pic/cover/c/b1/dd/577191_5RoIl.jpg",
+        "air_date": "2026-07-05",
+        "rank": 6853
       },
       {
-        "id": 602733,
-        "name": "才女のお世話 高嶺の花だらけな名門校で、学院一のお嬢様（生活能力皆無）を陰ながらお世話することになりました",
-        "name_cn": "才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐",
-        "score": 5.6,
-        "img": "http://lain.bgm.tv/pic/cover/c/bd/74/602733_X0NNo.jpg",
-        "air_date": "2026-07-04",
-        "rank": 8865
+        "id": 668108,
+        "name": "『モブサイコ100』アニメ10周年記念特別映像",
+        "name_cn": "《灵能百分百》动画10周年纪念特别映像",
+        "score": 6.2,
+        "img": "http://lain.bgm.tv/pic/cover/c/fe/47/668108_K7488.jpg",
+        "air_date": "2026-07-12",
+        "rank": 5401
       },
       {
-        "id": 631018,
-        "name": "「きみを愛する気はない」と言った次期公爵様がなぜか溺愛してきます",
-        "name_cn": "说了不打算爱我的公爵继承人，不知为何对我宠爱有加",
-        "score": 5.4,
-        "img": "http://lain.bgm.tv/pic/cover/c/e9/a8/631018_i8egE.jpg",
-        "air_date": "2026-07-04",
-        "rank": 8337
-      },
-      {
-        "id": 542603,
-        "name": "BLACK TORCH",
-        "name_cn": "暗黑灯火",
+        "id": 619052,
+        "name": "あはれ！名作くん 完全新作",
+        "name_cn": "做得很好！名作君 完全新作",
         "score": 5.3,
-        "img": "http://lain.bgm.tv/pic/cover/c/1b/75/542603_KZT1m.jpg",
-        "air_date": "2026-07-04",
-        "rank": 9229
-      },
-      {
-        "id": 589368,
-        "name": "如果历史是一群喵 大明皇朝篇",
-        "name_cn": "如果历史是一群喵 大明皇朝篇",
-        "score": 5.3,
-        "img": "http://lain.bgm.tv/pic/cover/c/66/56/589368_ze71z.jpg",
-        "air_date": "2026-07-11",
+        "img": "http://lain.bgm.tv/pic/cover/c/dd/82/619052_B0qAA.jpg",
+        "air_date": "2026-07-05",
         "rank": null
       },
       {
-        "id": 530729,
-        "name": "魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance",
-        "name_cn": "魔法少女奈叶 EXCEEDS Gun Blaze Vengeance",
-        "score": 5.1,
-        "img": "http://lain.bgm.tv/pic/cover/c/cf/0b/530729_82Fm9.jpg",
-        "air_date": "2026-07-04",
-        "rank": 9644
+        "id": 255209,
+        "name": "二十世紀電氣目録-ユーレカ・エヴリカ-",
+        "name_cn": "二十世纪电气目录",
+        "score": 5.2,
+        "img": "http://lain.bgm.tv/pic/cover/c/ce/3a/255209_9w0tU.jpg",
+        "air_date": "2026-07-05",
+        "rank": 9743
       },
       {
-        "id": 641326,
-        "name": "妖神记 第十季",
-        "name_cn": "妖神记 第十季",
-        "score": 4.3,
-        "img": "http://lain.bgm.tv/pic/cover/c/49/e8/641326_FV9IJ.jpg",
-        "air_date": "2026-07-18",
-        "rank": null
+        "id": 633354,
+        "name": "同じゼミの染谷さんがセクシー女優だった話。",
+        "name_cn": "同一个研讨会的染谷同学是AV女优的事",
+        "score": 4.9,
+        "img": "http://lain.bgm.tv/pic/cover/c/f3/66/633354_zm82g.jpg",
+        "air_date": "2026-07-05",
+        "rank": 9569
       },
       {
-        "id": 563745,
-        "name": "鬼の花嫁",
-        "name_cn": "鬼的新娘",
-        "score": 4.1,
-        "img": "http://lain.bgm.tv/pic/cover/c/b9/ac/563745_YI26V.jpg",
-        "air_date": "2026-07-04",
-        "rank": 10152
-      },
-      {
-        "id": 621843,
-        "name": "岩元先輩ノ推薦",
-        "name_cn": "岩元前辈的推荐",
-        "score": 3.9,
-        "img": "http://lain.bgm.tv/pic/cover/c/a7/0a/621843_5tN5J.jpg",
-        "air_date": "2026-07-04",
-        "rank": 9818
-      },
-      {
-        "id": 665747,
-        "name": "『斬 -ZAN-』Pilot Film",
-        "name_cn": "「斩-ZAN-」试播片",
-        "score": 3.5,
-        "img": "http://lain.bgm.tv/pic/cover/c/a6/0d/665747_EYtyY.jpg",
-        "air_date": "2026-07-04",
-        "rank": null
-      },
-      {
-        "id": 651872,
-        "name": "パンの赤ちゃん",
+        "id": 633711,
+        "name": "プラノサウルス ガチコセイブツ部",
         "name_cn": "",
-        "score": 3.3,
-        "img": "http://lain.bgm.tv/pic/cover/c/bd/2d/651872_0FMCj.jpg",
-        "air_date": "2026-07-04",
+        "score": 4.8,
+        "img": "http://lain.bgm.tv/pic/cover/c/ea/4c/633711_V28UU.jpg",
+        "air_date": "2026-07-12",
+        "rank": null
+      },
+      {
+        "id": 583862,
+        "name": "世界最強の後衛 ～迷宮国の新人探索者～",
+        "name_cn": "世界最强的后卫 ～迷宫国的新人探索者～",
+        "score": 4.5,
+        "img": "http://lain.bgm.tv/pic/cover/c/45/58/583862_6YGGE.jpg",
+        "air_date": "2026-07-05",
+        "rank": 10004
+      },
+      {
+        "id": 571896,
+        "name": "サイボーグ009 ネメシス",
+        "name_cn": "人造人009 涅墨西斯",
+        "score": 3.8,
+        "img": "http://lain.bgm.tv/pic/cover/c/07/0b/571896_fT9FA.jpg",
+        "air_date": "2026-07-19",
+        "rank": 9897
+      },
+      {
+        "id": 662006,
+        "name": "闇芝居 十七期",
+        "name_cn": "暗芝居 第十七季",
+        "score": 3.4,
+        "img": "http://lain.bgm.tv/pic/cover/c/04/b0/662006_tnf6N.jpg",
+        "air_date": "2026-07-12",
+        "rank": null
+      },
+      {
+        "id": 659686,
+        "name": "トミカとトム シーズン2",
+        "name_cn": "",
+        "score": 1.0,
+        "img": "http://lain.bgm.tv/pic/cover/c/67/28/659686_001De.jpg",
+        "air_date": "2026-07-05",
         "rank": null
       }
     ]
@@ -538,6 +529,30 @@
   "ai": {
     "news_zh": [
       {
+        "title": "Anthropic Claude 刷新物理学世界纪录：单挑基于杨振宁理论 9 圈难题",
+        "link": "https://www.ithome.com/1/007/444.htm",
+        "time": "09-26 23:44",
+        "src": "IT之家"
+      },
+      {
+        "title": "宇树王兴兴回应为何造 390 万元起的载人变形机甲：大型机器人是行业不可阻挡的趋势",
+        "link": "https://www.ithome.com/1/007/443.htm",
+        "time": "09-26 22:29",
+        "src": "IT之家"
+      },
+      {
+        "title": "Opus 5.5 干一半就开溜？Anthropic 揭秘：你的程序替它打了下班卡",
+        "link": "https://www.ithome.com/1/007/442.htm",
+        "time": "09-26 22:20",
+        "src": "IT之家"
+      },
+      {
+        "title": "从代码分析到授权争议：一用户用 AI 破解 IDM 引发争议",
+        "link": "https://www.ithome.com/1/007/441.htm",
+        "time": "09-26 22:12",
+        "src": "IT之家"
+      },
+      {
         "title": "英国第二大图书馆：牛津大学博德利图书馆藏书被曝用于 OpenAI 模型训练",
         "link": "https://www.ithome.com/1/007/426.htm",
         "time": "09-26 20:01",
@@ -561,66 +576,42 @@
         "link": "https://www.ithome.com/1/007/414.htm",
         "time": "09-26 18:18",
         "src": "IT之家"
-      },
-      {
-        "title": "索尼芯片子公司将收紧远程办公：要求约 8000 名员工全面返岗，加速物理 AI 研发",
-        "link": "https://www.ithome.com/1/007/413.htm",
-        "time": "09-26 18:05",
-        "src": "IT之家"
-      },
-      {
-        "title": "国际机器人联合会：中国蝉联全球工业机器人最大市场，2025 年约占全球总安装量的 59%",
-        "link": "https://www.ithome.com/1/007/401.htm",
-        "time": "09-26 17:45",
-        "src": "IT之家"
-      },
-      {
-        "title": "华硕：英伟达 RTX Spark 款 ProArt 创 16 创作本 10 月 8 日登场",
-        "link": "https://www.ithome.com/1/007/393.htm",
-        "time": "09-26 17:00",
-        "src": "IT之家"
-      },
-      {
-        "title": "消息称 Anthropic 谈判租赁最高 1GW 算力，预计相关投资至少 400 亿美元",
-        "link": "https://www.ithome.com/1/007/392.htm",
-        "time": "09-26 16:57",
-        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "convaiinnovations/laya",
-        "likes": 3794,
+        "likes": 3840,
         "downloads": 0,
         "pipeline": "text-classification"
       },
       {
         "id": "Qwen/Qwen-Image-2.1",
-        "likes": 2374,
+        "likes": 2389,
         "downloads": 48361,
         "pipeline": "text-to-image"
       },
       {
         "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-        "likes": 1872,
+        "likes": 1902,
         "downloads": 876673,
         "pipeline": "text-to-image"
       },
       {
         "id": "XingChen-AGI/Xing4.0-29B-A4B",
-        "likes": 1706,
+        "likes": 1721,
         "downloads": 43947,
         "pipeline": "text-generation"
       },
       {
         "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-        "likes": 2110,
+        "likes": 2123,
         "downloads": 3247527,
         "pipeline": "text-generation"
       },
       {
         "id": "Comfy-Org/Qwen-Image-2.1",
-        "likes": 755,
+        "likes": 767,
         "downloads": 3641785,
         "pipeline": ""
       }
@@ -806,7 +797,7 @@
       "src": "IT之家"
     },
     {
-      "title": "消息称首销日 OPPO Find X10 系列手机同比前代旗舰机系列接近 40%，全系列 16GB 内存占比超 60%",
+      "title": "消息称首销日 OPPO Find X10 系列手机销量同比前代旗舰机系列接近 40%，全系列 16GB 内存占比超 60%",
       "link": "https://www.ithome.com/1/007/396.htm",
       "time": "09-26 17:31",
       "src": "IT之家"
@@ -836,34 +827,34 @@
       "src": "IT之家"
     },
     {
-      "title": "利民推出 TR-A30 ARGB / Vision 机箱：三面玻璃海景房，支持 ATX 主板",
-      "link": "https://www.ithome.com/1/007/368.htm",
-      "time": "09-26 15:09",
-      "src": "IT之家"
-    },
-    {
-      "title": "英特尔开源游戏性能监测工具 PresentMon 2.6.0 发布：CPU 占用降低 78%，支持多显卡遥测同显",
-      "link": "https://www.ithome.com/1/007/367.htm",
-      "time": "09-26 15:06",
-      "src": "IT之家"
-    },
-    {
-      "title": "尔英推出基于英特尔酷睿 i7-13798HRE / i5-13598HRE 处理器的 MoDT 主板",
-      "link": "https://www.ithome.com/1/007/362.htm",
-      "time": "09-26 14:42",
-      "src": "IT之家"
-    },
-    {
       "title": "英特尔CEO陈立武点赞光子量子计算 称AI代理已成为自己的“家庭作业助手”",
       "link": "https://www.cnbeta.com.tw/articles/tech/1579670.htm",
       "time": "09-26 13:57",
       "src": "cnBeta.COM"
     },
     {
-      "title": "英特尔14A制程目标性能仅落后A14不到5% 先进工艺竞争进入关键阶段",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1579636.htm",
-      "time": "09-26 00:55",
-      "src": "cnBeta.COM"
+      "title": "《永劫无间》国家集训队摘下本届亚运会电竞项目中国队首金",
+      "link": "https://finance.sina.com.cn/tech/it/2026-09-24/doc-inisxxkx0201964.shtml",
+      "time": "09-24 21:38",
+      "src": "新浪科技"
+    },
+    {
+      "title": "荣耀携手英特尔启动AI智造创新赛，深耕高校AI创新人才培育",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-24/doc-inisxnuz4951071.shtml",
+      "time": "09-24 16:33",
+      "src": "新浪科技"
+    },
+    {
+      "title": "估值超1万亿元！美股史上最大半导体IPO或要来了，曾被英特尔600亿元卖掉",
+      "link": "https://finance.sina.com.cn/stock/t/2026-09-26/doc-initemqw0249532.shtml",
+      "time": "09-26 21:10",
+      "src": "21世纪经济报道"
+    },
+    {
+      "title": "芯片巨头英特尔再次裁员！",
+      "link": "https://finance.sina.com.cn/stock/bxjj/2026-09-26/doc-initcute0535887.shtml",
+      "time": "09-26 15:19",
+      "src": "市场资讯"
     }
   ],
   "kojima": {
@@ -1043,12 +1034,6 @@
   "anime_industry": {
     "news": [
       {
-        "title": "SK海力士旗下Solidigm考虑明年赴美IPO 估值或高达1500亿美元",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1579642.htm",
-        "time": "09-26 01:28",
-        "src": "cnBeta.COM"
-      },
-      {
         "title": "《动画产业报告2025》: 市场规模达 3.84 万亿日元创历史新高, 海外占比约 56.5%",
         "link": "https://www.info35.net/hotopics/44871.html",
         "time": "精选",
@@ -1075,6 +1060,19 @@
     ]
   },
   "intl_news": [
+    {
+      "title": "《英雄联盟》2026 德玛西亚杯升级国际邀请赛：明日开票，10 月 3 日开赛",
+      "link": "https://www.ithome.com/1/007/436.htm",
+      "time": "09-26 21:50",
+      "src": "IT之家",
+      "type": "不停机更新"
+    },
+    {
+      "title": "欧盟拟增加卫星发射，或向挪威、英国、加拿大等寻求域外发射场",
+      "link": "https://www.ithome.com/1/007/435.htm",
+      "time": "09-26 21:31",
+      "src": "IT之家"
+    },
     {
       "title": "英国第二大图书馆：牛津大学博德利图书馆藏书被曝用于 OpenAI 模型训练",
       "link": "https://www.ithome.com/1/007/426.htm",
@@ -1110,18 +1108,6 @@
       "link": "https://www.gcores.com/radios/220235",
       "time": "09-24 20:20",
       "src": "机核"
-    },
-    {
-      "title": "全球数贸会：人机互动竞赛热度高",
-      "link": "https://www.chinanews.com.cn/tp/2026/09-26/10704235.shtml",
-      "time": "09-26 20:38",
-      "src": "中新网"
-    },
-    {
-      "title": "多项“首发首秀”亮相全球数贸会",
-      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/09-26/1206061.shtml",
-      "time": "09-26 20:10",
-      "src": "中新网"
     }
   ],
   "econ_news": [
@@ -1156,21 +1142,21 @@
       "src": "IT之家"
     },
     {
-      "title": "TikTok支付3亿美元和解儿童安全诉讼 避免首场州庭审",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1579692.htm",
-      "time": "09-26 14:43",
-      "src": "cnBeta.COM"
+      "title": "全球媒体聚焦 | 美媒：中秋节带火中国文旅消费",
+      "link": "https://www.chinanews.com.cn/cul/2026/09-26/10704295.shtml",
+      "time": "09-26 23:02",
+      "src": "中新网"
     },
     {
-      "title": "苹果因侵犯触觉反馈专利 被判需支付57亿美元赔偿金",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1579686.htm",
-      "time": "09-26 14:41",
-      "src": "cnBeta.COM"
+      "title": "各地商圈新场景新业态加快“上新” 特色服务让消费“品味”加速升级",
+      "link": "https://www.chinanews.com.cn/cj/2026/09-26/10704275.shtml",
+      "time": "09-26 21:36",
+      "src": "中新网"
     },
     {
-      "title": "英飞凌耗资14.4亿美元的泰国半导体工厂将于10月1日投产",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1579684.htm",
-      "time": "09-26 14:40",
+      "title": "AI并未引发毕业生就业崩盘 最新研究显示美国应届大学生失业率仍处正常区间",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1579730.htm",
+      "time": "09-26 23:17",
       "src": "cnBeta.COM"
     }
   ],
@@ -1213,19 +1199,26 @@
       "src": "IT之家"
     },
     {
-      "title": "英特尔开源游戏性能监测工具 PresentMon 2.6.0 发布：CPU 占用降低 78%，支持多显卡遥测同显",
-      "link": "https://www.ithome.com/1/007/367.htm",
-      "time": "09-26 15:06",
-      "src": "IT之家"
+      "title": "从“正统进化”出发，重新审视《怪物猎人》的核心：TGS2026《怪物猎人荒野 凌越》制作团队采访",
+      "link": "https://www.gcores.com/articles/219926",
+      "time": "09-26 21:44",
+      "src": "机核"
     },
     {
-      "title": "微软提醒 Win11 禁用 8.3 文件名：可提升文件操作速度，但影响应用兼容性",
-      "link": "https://www.ithome.com/1/007/365.htm",
-      "time": "09-26 15:00",
-      "src": "IT之家"
+      "title": "俯视角PVE搜打撤《查无此地》Steam发售定档10月14日抢先体验开启",
+      "link": "https://www.gcores.com/articles/220223",
+      "time": "09-25 10:30",
+      "src": "机核"
     }
   ],
   "game_update": [
+    {
+      "title": "《英雄联盟》2026 德玛西亚杯升级国际邀请赛：明日开票，10 月 3 日开赛",
+      "link": "https://www.ithome.com/1/007/436.htm",
+      "time": "09-26 21:50",
+      "src": "IT之家",
+      "type": "不停机更新"
+    },
     {
       "title": "努比亚 NaviX Ultra 手机《王者荣耀》使用异常，豆包手机助手回应称全程未对腾讯游戏系统进行任何操作",
       "link": "https://www.ithome.com/1/007/415.htm",
@@ -1274,13 +1267,6 @@
       "time": "8-13",
       "type": "停机维护",
       "src": "腾讯官方"
-    },
-    {
-      "title": "《部落冲突》8/5 6:00 停机维护(预计180分钟): 周年庆版本上线, 维护后首领可领维护礼包",
-      "link": "https://new.qq.com/rain/a/20260804A0EYI300",
-      "time": "8-05",
-      "type": "停机维护",
-      "src": "腾讯官方"
     }
   ],
   "mil_news": [
@@ -1309,27 +1295,27 @@
       "src": "机核"
     },
     {
+      "title": "伊朗总统：不再信任同美国的对话",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-27/10704302.shtml",
+      "time": "09-27 00:05",
+      "src": "中新网"
+    },
+    {
+      "title": "特朗普称拒绝伊朗重开霍尔木兹海峡的提议",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-27/10704300.shtml",
+      "time": "09-27 00:02",
+      "src": "中新网"
+    },
+    {
       "title": "美军士兵因入侵AT&T、Verizon并敲诈勒索被判70个月监禁 曾窃取超1亿用户通信元数据",
       "link": "https://www.cnbeta.com.tw/articles/tech/1579678.htm",
       "time": "09-26 14:37",
       "src": "cnBeta.COM"
     },
     {
-      "title": "美国上诉法院维持五角大楼将Anthropic列入黑名单的裁定",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1579648.htm",
-      "time": "09-26 02:24",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "特习会 特朗普要求中方停止支持伊朗",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260925-%E7%89%B9%E4%B9%A0%E4%BC%9A-%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E4%B8%AD%E6%96%B9%E5%81%9C%E6%AD%A2%E6%94%AF%E6%8C%81%E4%BC%8A%E6%9C%97",
-      "time": "09-26 05:50",
-      "src": "REUTERS - Kyli"
-    },
-    {
-      "title": "美国将落实对乌克兰军援拨款 首批装备已开始交付",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260925-%E7%BE%8E%E5%9B%BD%E5%B0%86%E8%90%BD%E5%AE%9E%E5%AF%B9%E4%B9%8C%E5%85%8B%E5%85%B0%E5%86%9B%E6%8F%B4%E6%8B%A8%E6%AC%BE-%E9%A6%96%E6%89%B9%E8%A3%85%E5%A4%87%E5%B7%B2%E5%BC%80%E5%A7%8B%E4%BA%A4%E4%BB%98",
-      "time": "09-26 05:40",
+      "title": "胡塞武装对沙特发动新一轮袭击 土耳其和巴基斯坦按兵不动",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260926-%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E5%AF%B9%E6%B2%99%E7%89%B9%E5%8F%91%E5%8A%A8%E6%96%B0%E4%B8%80%E8%BD%AE%E8%A2%AD%E5%87%BB-%E5%9C%9F%E8%80%B3%E5%85%B6%E5%92%8C%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%8C%89%E5%85%B5%E4%B8%8D%E5%8A%A8",
+      "time": "09-26 23:38",
       "src": "via REUTERS - "
     }
   ]
