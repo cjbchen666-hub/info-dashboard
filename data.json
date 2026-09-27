@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27 15:57",
+  "generated_at": "2026-09-27 21:50",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,16 +233,28 @@
     ],
     "news": [
       {
-        "title": "英飞凌泰国功率半导体工厂 10 月 1 日投产，总投资达 14.4 亿美元",
-        "link": "https://www.ithome.com/1/007/483.htm",
-        "time": "09-27 10:50",
-        "src": "IT之家"
-      },
-      {
         "title": "草原上的數據中心：中國AI雄心背後的算力前線",
         "link": "https://www.bbc.com/zhongwen/articles/crje8gjn3nl5o/trad?at_medium=RSS&at_campaign=rss",
         "time": "09-23 21:24",
         "src": "BBC中文"
+      },
+      {
+        "title": "盐湖股份的估值困局：业绩会上遭追问，股东催回购盼分红",
+        "link": "https://finance.sina.com.cn/stock/s/2026-09-27/doc-inithkfx9418423.shtml",
+        "time": "09-27 19:11",
+        "src": "市场资讯"
+      },
+      {
+        "title": "A股公司宣布！实控人解除留置",
+        "link": "https://finance.sina.com.cn/stock/s/2026-09-27/doc-inithkhf4574200.shtml",
+        "time": "09-27 18:59",
+        "src": "市场资讯"
+      },
+      {
+        "title": "亨通光电定增66.36亿，抢滩算力底座",
+        "link": "https://finance.sina.com.cn/stock/s/2026-09-27/doc-inithkfx9393380.shtml",
+        "time": "09-27 17:25",
+        "src": "市场资讯"
       },
       {
         "title": "瑞声科技于9月25日斥资785.77万港元回购20万股",
@@ -266,18 +278,6 @@
         "title": "渣打集团于9月24日斥资823.74万英镑回购36.34万股",
         "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-27/doc-initfxsm4739225.shtml",
         "time": "09-27 13:23",
-        "src": "新浪港股"
-      },
-      {
-        "title": "碧桂园服务于9月25日斥资127.39万港元回购25万股",
-        "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-27/doc-initfxsc9579265.shtml",
-        "time": "09-27 13:21",
-        "src": "新浪港股"
-      },
-      {
-        "title": "威胜控股于9月25日斥资317.28万港元回购24.8万股",
-        "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-27/doc-initfxsm4737568.shtml",
-        "time": "09-27 13:18",
         "src": "新浪港股"
       }
     ]
@@ -384,6 +384,15 @@
         "rank": null
       },
       {
+        "id": 595106,
+        "name": "レッツゴー怪奇組",
+        "name_cn": "Let's Go 怪奇组",
+        "score": 6.4,
+        "img": "http://lain.bgm.tv/pic/cover/c/61/8d/595106_ll6Jj.jpg",
+        "air_date": "2026-07-05",
+        "rank": 5292
+      },
+      {
         "id": 613039,
         "name": "茶啊二中第六季",
         "name_cn": "茶啊二中 第6季",
@@ -400,15 +409,6 @@
         "img": "http://lain.bgm.tv/pic/cover/c/61/12/454083_4DZpt.jpg",
         "air_date": "2026-07-05",
         "rank": 5847
-      },
-      {
-        "id": 595106,
-        "name": "レッツゴー怪奇組",
-        "name_cn": "Let&#39;s Go 怪奇组",
-        "score": 6.3,
-        "img": "http://lain.bgm.tv/pic/cover/c/61/8d/595106_ll6Jj.jpg",
-        "air_date": "2026-07-05",
-        "rank": 5292
       },
       {
         "id": 577191,
@@ -441,7 +441,7 @@
         "id": 255209,
         "name": "二十世紀電氣目録-ユーレカ・エヴリカ-",
         "name_cn": "二十世纪电气目录",
-        "score": 5.2,
+        "score": 5.1,
         "img": "http://lain.bgm.tv/pic/cover/c/ce/3a/255209_9w0tU.jpg",
         "air_date": "2026-07-05",
         "rank": 9773
@@ -529,6 +529,24 @@
   "ai": {
     "news_zh": [
       {
+        "title": "部分 Anthropic 资深员工考虑在偏远地区购置土地，以防“AI 失控”",
+        "link": "https://www.ithome.com/1/007/603.htm",
+        "time": "09-27 21:31",
+        "src": "IT之家"
+      },
+      {
+        "title": "吉利汽车集团副总裁李传海：目前行业缺少统一的 AI 治理标准，不仅抬高产业成本、也埋下安全隐患",
+        "link": "https://www.ithome.com/1/007/563.htm",
+        "time": "09-27 18:29",
+        "src": "IT之家"
+      },
+      {
+        "title": "美国小偷盯上路边印着英伟达 Logo 的重卡，结果只偷到 18 吨沙子",
+        "link": "https://www.ithome.com/1/007/548.htm",
+        "time": "09-27 16:45",
+        "src": "IT之家"
+      },
+      {
         "title": "研究：美国医院用 AI 写病历，保险公司两年多掏 9.42 亿美元",
         "link": "https://www.ithome.com/1/007/531.htm",
         "time": "09-27 15:35",
@@ -541,77 +559,59 @@
         "src": "IT之家"
       },
       {
-        "title": "亿道首发 JX200 双卡液冷 AI 工作站：20.4L 机身，240 AIO 液冷",
-        "link": "https://www.ithome.com/1/007/519.htm",
-        "time": "09-27 14:44",
-        "src": "IT之家"
+        "title": "英伟达携手德国SCHMID布局玻璃基板",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1579778.htm",
+        "time": "09-27 14:42",
+        "src": "cnBeta.COM"
       },
       {
-        "title": "消息称 OpenAI 将推出常驻 AI 助手「O」，预计 9 月 29 日发布",
-        "link": "https://www.ithome.com/1/007/512.htm",
-        "time": "09-27 13:59",
-        "src": "IT之家"
+        "title": "英伟达AI新专利：用自然语言定位与调整GPU性能问题",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1579760.htm",
+        "time": "09-27 14:11",
+        "src": "cnBeta.COM"
       },
       {
-        "title": "医保系统遭 AI 智能体入侵，澳大利亚传唤 OpenAI 与 Anthropic CEO 接受质询",
-        "link": "https://www.ithome.com/1/007/508.htm",
-        "time": "09-27 13:35",
-        "src": "IT之家"
-      },
-      {
-        "title": "英国最大桌游展 UKGE 出台新规：禁止 AI 生成游戏参展，仅少数情况例外",
-        "link": "https://www.ithome.com/1/007/506.htm",
-        "time": "09-27 13:18",
-        "src": "IT之家"
-      },
-      {
-        "title": "六联智能发布 4 盘位 \"Wildcat Lake\" AI NAS WS18，0.15L 迷你主机同场展出",
-        "link": "https://www.ithome.com/1/007/492.htm",
-        "time": "09-27 11:40",
-        "src": "IT之家"
-      },
-      {
-        "title": "爆料称 OpenAI 准备扩大 Ultrafast API 开放范围",
-        "link": "https://www.ithome.com/1/007/490.htm",
-        "time": "09-27 11:34",
-        "src": "IT之家"
+        "title": "OpenAI智能体入侵美国政府网站",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1579750.htm",
+        "time": "09-27 14:03",
+        "src": "cnBeta.COM"
       }
     ],
     "hf": [
       {
         "id": "convaiinnovations/laya",
-        "likes": 3950,
+        "likes": 4007,
         "downloads": 0,
         "pipeline": "text-classification"
       },
       {
         "id": "Qwen/Qwen-Image-2.1",
-        "likes": 2422,
-        "downloads": 48361,
+        "likes": 2447,
+        "downloads": 52804,
         "pipeline": "text-to-image"
       },
       {
         "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-        "likes": 1978,
-        "downloads": 876673,
+        "likes": 2016,
+        "downloads": 964220,
         "pipeline": "text-to-image"
       },
       {
         "id": "XingChen-AGI/Xing4.0-29B-A4B",
-        "likes": 1744,
-        "downloads": 43947,
+        "likes": 1774,
+        "downloads": 45028,
         "pipeline": "text-generation"
       },
       {
         "id": "Edge0/Audio8-ASR-Infinite",
-        "likes": 851,
-        "downloads": 7859,
+        "likes": 969,
+        "downloads": 19434,
         "pipeline": "automatic-speech-recognition"
       },
       {
-        "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-        "likes": 2150,
-        "downloads": 3247527,
+        "id": "Altworld/Hemmingway-1",
+        "likes": 724,
+        "downloads": 5904,
         "pipeline": "text-generation"
       }
     ],
@@ -784,27 +784,39 @@
   ],
   "hw_news": [
     {
+      "title": "消息称华为新一代 MatePad Mini 小平板配备 5G+ 双层 OLED，续航有提升",
+      "link": "https://www.ithome.com/1/007/559.htm",
+      "time": "09-27 17:49",
+      "src": "IT之家"
+    },
+    {
+      "title": "消息称索尼 PS6 掌机有望用上高规格 Tandem OLED 面板，支持 120Hz 高刷、VRR",
+      "link": "https://www.ithome.com/1/007/558.htm",
+      "time": "09-27 17:41",
+      "src": "IT之家"
+    },
+    {
+      "title": "泰坦军团 P2410R3 显示器开售：23.8 英寸 2K 180Hz Fast IPS，747 元",
+      "link": "https://www.ithome.com/1/007/557.htm",
+      "time": "09-27 17:36",
+      "src": "IT之家"
+    },
+    {
+      "title": "洛图科技：2026 年 8 月中国笔记本电脑线上市场销量同比下降 20.8%，均价 7885 元同比上涨 12.3%",
+      "link": "https://www.ithome.com/1/007/543.htm",
+      "time": "09-27 16:19",
+      "src": "IT之家"
+    },
+    {
+      "title": "罗技推出 GPW5 Ultra 电磁微动鼠标：135 小时续航，首发 1699 元",
+      "link": "https://www.ithome.com/1/007/542.htm",
+      "time": "09-27 16:19",
+      "src": "IT之家"
+    },
+    {
       "title": "SteamOS 3.8.28 Beta 更新优化 AMD 独显，修复睡眠后性能下降问题",
       "link": "https://www.ithome.com/1/007/533.htm",
       "time": "09-27 15:45",
-      "src": "IT之家"
-    },
-    {
-      "title": "磐镭展示英特尔平台旗舰迷你主机 YO4，搭载酷睿 Ultra X7 处理器 358H",
-      "link": "https://www.ithome.com/1/007/514.htm",
-      "time": "09-27 14:20",
-      "src": "IT之家"
-    },
-    {
-      "title": "开发者打造第三方工具让 AMD 显卡运行 DLSS 5，一天两更性能暴涨 74%",
-      "link": "https://www.ithome.com/1/007/475.htm",
-      "time": "09-27 10:13",
-      "src": "IT之家"
-    },
-    {
-      "title": "Bose 推出 QuietComfort Ultra II 汤姆 · 布朗特别版降噪耳机，950 美元",
-      "link": "https://www.ithome.com/1/007/471.htm",
-      "time": "09-27 09:48",
       "src": "IT之家"
     },
     {
@@ -842,18 +854,6 @@
       "link": "https://www.160.com/article/12732.html",
       "time": "精选",
       "src": "资讯整理"
-    },
-    {
-      "title": "宏碁首发 1000Hz 电竞显示器; 微星 5K Mini-LED 双模电竞屏(5K@180Hz/2K@330Hz) 亮相 Computex 2026",
-      "link": "https://www.160.com/article/12732.html",
-      "time": "精选",
-      "src": "资讯整理"
-    },
-    {
-      "title": "微星 40 周年发布 RTX 5090 LIGHTNING Z 旗舰与内置 AI 代理的 OLED 电竞显示器",
-      "link": "https://www.160.com/article/12732.html",
-      "time": "精选",
-      "src": "资讯整理"
     }
   ],
   "kojima": {
@@ -862,12 +862,6 @@
         "title": "消息称Xbox与小岛秀夫《Physint》的合作预算远低于4亿美元",
         "link": "https://www.cnbeta.com.tw/articles/game/1579772.htm",
         "time": "09-27 14:28",
-        "src": "cnBeta.COM"
-      },
-      {
-        "title": "Xbox CEO裁员前力捧小岛秀夫 前工作室负责人称心碎",
-        "link": "https://www.cnbeta.com.tw/articles/game/1579712.htm",
-        "time": "09-26 17:15",
         "src": "cnBeta.COM"
       },
       {
@@ -1045,10 +1039,10 @@
   "anime_industry": {
     "news": [
       {
-        "title": "不含真实演员数字复制：国内首部院线 AI 原生动画电影《三星堆：未来往事》定档 10 月 23 日上映",
-        "link": "https://www.ithome.com/1/007/482.htm",
-        "time": "09-27 10:47",
-        "src": "IT之家"
+        "title": "实测Opus 5.5：一句提示词造出100个网页，还会做动画谱曲",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1579798.htm",
+        "time": "09-27 20:34",
+        "src": "cnBeta.COM"
       },
       {
         "title": "《动画产业报告2025》: 市场规模达 3.84 万亿日元创历史新高, 海外占比约 56.5%",
@@ -1078,27 +1072,9 @@
   },
   "intl_news": [
     {
-      "title": "英国最大桌游展 UKGE 出台新规：禁止 AI 生成游戏参展，仅少数情况例外",
-      "link": "https://www.ithome.com/1/007/506.htm",
-      "time": "09-27 13:18",
-      "src": "IT之家"
-    },
-    {
-      "title": "中国首个面向全球与深空的太空计算基础设施“太空之弦”计算星座发布，G1 卫星预计明年发射",
-      "link": "https://www.ithome.com/1/007/486.htm",
-      "time": "09-27 11:08",
-      "src": "IT之家"
-    },
-    {
-      "title": "《我的世界》平均每天吸引 30 万新玩家，全球销量突破 4.25 亿份",
-      "link": "https://www.ithome.com/1/007/484.htm",
-      "time": "09-27 11:00",
-      "src": "IT之家"
-    },
-    {
-      "title": "腾势汽车法国巴黎歌剧院门店开幕，D9、Z9GT 等多款车型亮相",
-      "link": "https://www.ithome.com/1/007/477.htm",
-      "time": "09-27 10:24",
+      "title": "我国自研装备新突破：全球最大打桩船从江苏发运，前往巴西参与萨尔瓦多跨海大桥建设",
+      "link": "https://www.ithome.com/1/007/551.htm",
+      "time": "09-27 16:59",
       "src": "IT之家"
     },
     {
@@ -1114,19 +1090,43 @@
       "src": "机核"
     },
     {
-      "title": "全球最大打桩船“铁建大桥桩1”号启航赴巴西",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-27/10704407.shtml",
-      "time": "09-27 13:49",
+      "title": "世界赛艇联合会500米冲刺赛在沪完成全球首秀",
+      "link": "https://www.chinanews.com.cn/ty/2026/09-27/10704597.shtml",
+      "time": "09-27 21:21",
       "src": "中新网"
     },
     {
-      "title": "法学专家：流失文物返还原属国的国际共识正不断加强",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-27/10704408.shtml",
-      "time": "09-27 13:49",
+      "title": "新时尚学院在沪亮相 将成为国际化、交叉融合的平台型学院",
+      "link": "https://www.chinanews.com.cn/sh/2026/09-27/10704566.shtml",
+      "time": "09-27 21:06",
       "src": "中新网"
+    },
+    {
+      "title": "中国汽车加速驶入欧洲，跑得快也要跑得远",
+      "link": "https://www.chinanews.com.cn/cj/2026/09-27/10704583.shtml",
+      "time": "09-27 20:57",
+      "src": "中新网"
+    },
+    {
+      "title": "俄罗斯将数据中心列为打击目标 乌克兰10万户家庭断网",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1579812.htm",
+      "time": "09-27 21:42",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "大型强子对撞机开始“断电拆解” 欧洲核子研究中心启动高亮度升级关键工程",
+      "link": "https://www.cnbeta.com.tw/articles/science/1579810.htm",
+      "time": "09-27 21:41",
+      "src": "cnBeta.COM"
     }
   ],
   "econ_news": [
+    {
+      "title": "乘联分会崔东树：2026 年 8 月中国汽车进口 2.3 万辆，同比下降 51%",
+      "link": "https://www.ithome.com/1/007/595.htm",
+      "time": "09-27 20:19",
+      "src": "IT之家"
+    },
     {
       "title": "研究：美国医院用 AI 写病历，保险公司两年多掏 9.42 亿美元",
       "link": "https://www.ithome.com/1/007/531.htm",
@@ -1134,22 +1134,16 @@
       "src": "IT之家"
     },
     {
-      "title": "英飞凌泰国功率半导体工厂 10 月 1 日投产，总投资达 14.4 亿美元",
-      "link": "https://www.ithome.com/1/007/483.htm",
-      "time": "09-27 10:50",
-      "src": "IT之家"
-    },
-    {
-      "title": "Bose 推出 QuietComfort Ultra II 汤姆 · 布朗特别版降噪耳机，950 美元",
-      "link": "https://www.ithome.com/1/007/471.htm",
-      "time": "09-27 09:48",
-      "src": "IT之家"
-    },
-    {
-      "title": "南京：丰富公共体验空间 激活消费新场景",
-      "link": "https://www.chinanews.com.cn/tp/2026/09-27/10704412.shtml",
-      "time": "09-27 14:46",
+      "title": "中秋假期湖北夜游消费持续升温",
+      "link": "https://www.chinanews.com.cn/sh/2026/09-27/10704596.shtml",
+      "time": "09-27 21:22",
       "src": "中新网"
+    },
+    {
+      "title": "育碧也来调侃《GTA6》四百美元收藏版竟不含游戏本体",
+      "link": "https://www.cnbeta.com.tw/articles/game/1579800.htm",
+      "time": "09-27 20:34",
+      "src": "cnBeta.COM"
     },
     {
       "title": "黑客已经转移8300万美元被盗Bitget交易所虚拟货币",
@@ -1170,60 +1164,60 @@
       "src": "cnBeta.COM"
     },
     {
-      "title": "AI并未引发毕业生就业崩盘 最新研究显示美国应届大学生失业率仍处正常区间",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1579730.htm",
-      "time": "09-26 23:17",
-      "src": "cnBeta.COM"
+      "title": "北京称中美达成涉及300亿美元关税减让安排 将启动人工智能对话",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260926-%E5%8C%97%E4%BA%AC%E7%A7%B0%E4%B8%AD%E7%BE%8E%E8%BE%BE%E6%88%90%E6%B6%89%E5%8F%8A300%E4%BA%BF%E7%BE%8E%E5%85%83%E5%85%B3%E7%A8%8E%E5%87%8F%E8%AE%A9%E5%AE%89%E6%8E%92-%E5%B0%86%E5%90%AF%E5%8A%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%B9%E8%AF%9D",
+      "time": "09-27 05:19",
+      "src": "REUTERS - Kyli"
     }
   ],
   "game_news": [
     {
-      "title": "磐镭展示英特尔平台旗舰迷你主机 YO4，搭载酷睿 Ultra X7 处理器 358H",
-      "link": "https://www.ithome.com/1/007/514.htm",
-      "time": "09-27 14:20",
+      "title": "年轻人的第一台 RGB 游戏电视，小米 REDMI X 系列 RGB-Mini LED 2027 竞技版上架",
+      "link": "https://www.ithome.com/1/007/596.htm",
+      "time": "09-27 20:22",
       "src": "IT之家"
     },
     {
-      "title": "《龙之信条 2》资料片《黑暗觉者》各平台容量出炉：PS5 版约 17GB、XBOX 版约 67GB",
-      "link": "https://www.ithome.com/1/007/513.htm",
-      "time": "09-27 14:18",
+      "title": "消息称索尼 PS6 掌机有望用上高规格 Tandem OLED 面板，支持 120Hz 高刷、VRR",
+      "link": "https://www.ithome.com/1/007/558.htm",
+      "time": "09-27 17:41",
       "src": "IT之家"
     },
     {
-      "title": "奥之心 PEN 相机单机身 / 双镜头套机版 9 月 29 日开售，5999 元起",
-      "link": "https://www.ithome.com/1/007/507.htm",
-      "time": "09-27 13:33",
+      "title": "微软新政：半年不活跃的 Teams Planner 计划将被删除，管理员可在 30 天内申请恢复",
+      "link": "https://www.ithome.com/1/007/552.htm",
+      "time": "09-27 17:03",
       "src": "IT之家"
     },
     {
-      "title": "英国最大桌游展 UKGE 出台新规：禁止 AI 生成游戏参展，仅少数情况例外",
-      "link": "https://www.ithome.com/1/007/506.htm",
-      "time": "09-27 13:18",
+      "title": "我国自研 AR-E800 无人机公开首飞：单机单日运输量达 14 吨，拥有 4800 米高海拔作业能力",
+      "link": "https://www.ithome.com/1/007/544.htm",
+      "time": "09-27 16:25",
       "src": "IT之家"
     },
     {
-      "title": "贝塞斯达确认：《上古卷轴 6》完工后，下一款游戏是《辐射 5》",
-      "link": "https://www.ithome.com/1/007/505.htm",
-      "time": "09-27 13:00",
+      "title": "索尼 PS5 游戏机“欢迎中心”新增《最后生还者》动态壁纸，融合 1 代、2 代封面",
+      "link": "https://www.ithome.com/1/007/539.htm",
+      "time": "09-27 16:06",
       "src": "IT之家"
     },
     {
-      "title": "微软为新版 Outlook 新增发送前自动拼写检查功能，经典版添加更多 Copilot 功能",
-      "link": "https://www.ithome.com/1/007/495.htm",
-      "time": "09-27 11:52",
-      "src": "IT之家"
+      "title": "从“正统进化”出发，重新审视《怪物猎人》的核心：TGS2026《怪物猎人荒野 凌越》制作团队采访",
+      "link": "https://www.gcores.com/articles/219926",
+      "time": "09-26 21:44",
+      "src": "机核"
     },
     {
-      "title": "iQOO Pad Ultra 小平板官宣跨端游戏空间功能升级，支持 PC 模拟器、PC 串流、大屏模式",
-      "link": "https://www.ithome.com/1/007/493.htm",
-      "time": "09-27 11:44",
-      "src": "IT之家"
+      "title": "俯视角PVE搜打撤《查无此地》Steam发售定档10月14日抢先体验开启",
+      "link": "https://www.gcores.com/articles/220223",
+      "time": "09-25 10:30",
+      "src": "机核"
     },
     {
-      "title": "六联智能发布 4 盘位 \"Wildcat Lake\" AI NAS WS18，0.15L 迷你主机同场展出",
-      "link": "https://www.ithome.com/1/007/492.htm",
-      "time": "09-27 11:40",
-      "src": "IT之家"
+      "title": "35周年、哥斯拉与EVA联动，以及未来的可能：TGS2026专访《索尼克赛车: 交叉世界》制作人",
+      "link": "https://www.gcores.com/articles/220226",
+      "time": "09-24 23:11",
+      "src": "机核"
     }
   ],
   "game_update": [
@@ -1292,16 +1286,22 @@
       "src": "ISW"
     },
     {
+      "title": "我国自研 AR-E800 无人机公开首飞：单机单日运输量达 14 吨，拥有 4800 米高海拔作业能力",
+      "link": "https://www.ithome.com/1/007/544.htm",
+      "time": "09-27 16:25",
+      "src": "IT之家"
+    },
+    {
       "title": "疯狂推荐战争狗，太难安利金刚狼｜《安利之王》",
       "link": "https://www.gcores.com/radios/219911",
       "time": "09-24 23:00",
       "src": "机核"
     },
     {
-      "title": "南部战区位黄岩岛周边海空域组织海空联合演训",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-27/10704440.shtml",
-      "time": "09-27 15:15",
-      "src": "中新网"
+      "title": "在特朗普拒绝后 伊朗坚持其重开霍尔木兹海峡条件",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260927-%E5%9C%A8%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%92%E7%BB%9D%E5%90%8E-%E4%BC%8A%E6%9C%97%E5%9D%9A%E6%8C%81%E5%85%B6%E9%87%8D%E5%BC%80%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E6%9D%A1%E4%BB%B6",
+      "time": "09-27 20:45",
+      "src": "© AP"
     },
     {
       "title": "特朗普拒绝伊朗重开霍尔木兹海峡提案",
@@ -1326,12 +1326,6 @@
       "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260926-wsj-%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%92%E7%BB%9D%E4%BC%8A%E6%9C%977%E5%A4%A9%E9%87%8D%E5%BC%80%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E8%AE%A1%E5%88%92-%E6%AD%A3%E8%80%83%E8%99%9111%E6%9C%88%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%90%8E%E6%81%A2%E5%A4%8D%E7%A9%BA%E8%A2%AD",
       "time": "09-26 21:51",
       "src": "© Elizabeth Fr"
-    },
-    {
-      "title": "特习会 特朗普要求中方停止支持伊朗",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260925-%E7%89%B9%E4%B9%A0%E4%BC%9A-%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E4%B8%AD%E6%96%B9%E5%81%9C%E6%AD%A2%E6%94%AF%E6%8C%81%E4%BC%8A%E6%9C%97",
-      "time": "09-26 05:50",
-      "src": "REUTERS - Kyli"
     }
   ]
 }
