@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28 02:13",
+  "generated_at": "2026-09-28 06:56",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -327,7 +327,7 @@
         "score": 7.2,
         "img": "http://lain.bgm.tv/pic/cover/c/71/44/607340_n8Rrl.jpg",
         "air_date": "2026-07-06",
-        "rank": 1784
+        "rank": 1828
       },
       {
         "id": 569116,
@@ -336,7 +336,7 @@
         "score": 7.0,
         "img": "http://lain.bgm.tv/pic/cover/c/f1/bf/569116_n6dPq.jpg",
         "air_date": "2026-07-06",
-        "rank": 2729
+        "rank": 2772
       },
       {
         "id": 595884,
@@ -354,7 +354,7 @@
         "score": 6.0,
         "img": "http://lain.bgm.tv/pic/cover/c/5a/fe/569671_c1VqG.jpg",
         "air_date": "2026-07-06",
-        "rank": 6350
+        "rank": 6477
       },
       {
         "id": 663444,
@@ -381,7 +381,7 @@
         "score": 5.4,
         "img": "http://lain.bgm.tv/pic/cover/c/2c/93/590786_vA6R5.jpg",
         "air_date": "2026-07-06",
-        "rank": 9375
+        "rank": 9393
       },
       {
         "id": 456081,
@@ -390,7 +390,7 @@
         "score": 5.3,
         "img": "http://lain.bgm.tv/pic/cover/c/a7/a6/456081_Bs2nE.jpg",
         "air_date": "2026-07-06",
-        "rank": 9314
+        "rank": 9326
       },
       {
         "id": 528828,
@@ -399,7 +399,7 @@
         "score": 5.2,
         "img": "http://lain.bgm.tv/pic/cover/c/1d/71/528828_oQl2M.jpg",
         "air_date": "2026-07-06",
-        "rank": 9572
+        "rank": 9556
       },
       {
         "id": 636067,
@@ -408,7 +408,7 @@
         "score": 5.0,
         "img": "http://lain.bgm.tv/pic/cover/c/75/fd/636067_0uuym.jpg",
         "air_date": "2026-07-06",
-        "rank": 9573
+        "rank": 9593
       },
       {
         "id": 456080,
@@ -417,7 +417,7 @@
         "score": 4.9,
         "img": "http://lain.bgm.tv/pic/cover/c/ce/e2/456080_IskBl.jpg",
         "air_date": "2026-07-06",
-        "rank": 9951
+        "rank": 9952
       },
       {
         "id": 579246,
@@ -426,7 +426,7 @@
         "score": 4.6,
         "img": "http://lain.bgm.tv/pic/cover/c/e2/dd/579246_61291.jpg",
         "air_date": "2026-07-06",
-        "rank": 10008
+        "rank": 10002
       },
       {
         "id": 607933,
@@ -491,18 +491,6 @@
         "src": "IT之家"
       },
       {
-        "title": "研究：美国医院用 AI 写病历，保险公司两年多掏 9.42 亿美元",
-        "link": "https://www.ithome.com/1/007/531.htm",
-        "time": "09-27 15:35",
-        "src": "IT之家"
-      },
-      {
-        "title": "MiniMax 最新文本模型 M3.1-Flash-Preview 上线 MiniMax Code 平台，额度重置卡同步发出",
-        "link": "https://www.ithome.com/1/007/530.htm",
-        "time": "09-27 15:32",
-        "src": "IT之家"
-      },
-      {
         "title": "AI智能体再次突破沙箱并访问外部网络 OpenAI暂停最强模型训练",
         "link": "https://www.cnbeta.com.tw/articles/tech/1579828.htm",
         "time": "09-27 23:52",
@@ -513,42 +501,54 @@
         "link": "https://www.cnbeta.com.tw/articles/tech/1579778.htm",
         "time": "09-27 14:42",
         "src": "cnBeta.COM"
+      },
+      {
+        "title": "英伟达AI新专利：用自然语言定位与调整GPU性能问题",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1579760.htm",
+        "time": "09-27 14:11",
+        "src": "cnBeta.COM"
+      },
+      {
+        "title": "美媒称中国考虑允许字节跳动、阿里巴巴采购英伟达新芯片",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260927-%E7%BE%8E%E5%AA%92%E7%A7%B0%E4%B8%AD%E5%9B%BD%E8%80%83%E8%99%91%E5%85%81%E8%AE%B8%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8-%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E9%87%87%E8%B4%AD%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%96%B0%E8%8A%AF%E7%89%87",
+        "time": "09-28 05:31",
+        "src": "REUTERS - Evel"
       }
     ],
     "hf": [
       {
         "id": "convaiinnovations/laya",
-        "likes": 4055,
+        "likes": 4083,
         "downloads": 0,
         "pipeline": "text-classification"
       },
       {
-        "id": "Qwen/Qwen-Image-2.1",
-        "likes": 2469,
-        "downloads": 52804,
-        "pipeline": "text-to-image"
-      },
-      {
         "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-        "likes": 2043,
+        "likes": 2070,
         "downloads": 964220,
         "pipeline": "text-to-image"
       },
       {
+        "id": "Qwen/Qwen-Image-2.1",
+        "likes": 2486,
+        "downloads": 52804,
+        "pipeline": "text-to-image"
+      },
+      {
         "id": "XingChen-AGI/Xing4.0-29B-A4B",
-        "likes": 1777,
+        "likes": 1780,
         "downloads": 45028,
         "pipeline": "text-generation"
       },
       {
         "id": "Edge0/Audio8-ASR-Infinite",
-        "likes": 976,
+        "likes": 981,
         "downloads": 19434,
         "pipeline": "automatic-speech-recognition"
       },
       {
         "id": "Altworld/Hemmingway-1",
-        "likes": 729,
+        "likes": 736,
         "downloads": 5904,
         "pipeline": "text-generation"
       }
@@ -752,12 +752,6 @@
       "src": "IT之家"
     },
     {
-      "title": "SteamOS 3.8.28 Beta 更新优化 AMD 独显，修复睡眠后性能下降问题",
-      "link": "https://www.ithome.com/1/007/533.htm",
-      "time": "09-27 15:45",
-      "src": "IT之家"
-    },
-    {
       "title": "新型无线外置显卡方案eGPU亮相 宣称可通过超低延迟无线连接释放RTX 5090桌面级性能",
       "link": "https://www.cnbeta.com.tw/articles/tech/1579824.htm",
       "time": "09-27 23:49",
@@ -790,6 +784,12 @@
     {
       "title": "AMD 发布 Ryzen 7 7700X3D(104MB缓存,$329) 与 Radeon RX 9070 GRE(12GB,$549), 强化 1440p 游戏市场",
       "link": "https://www.91mobiles.com/hub/computex-2026-amd-ryzen-x3d-cpus-radeon-9070-gre",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "Intel 预览 Nova Lake 桌面平台: 最高48核(16P+32E), 18A 工艺, LGA1954 新插槽, 预计2026年底上市",
+      "link": "https://www.160.com/article/12732.html",
       "time": "精选",
       "src": "资讯整理"
     }
@@ -1034,6 +1034,12 @@
       "src": "机核"
     },
     {
+      "title": "伊朗称已为与美战事重开做好准备 但未放弃外交途径",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-28/10704637.shtml",
+      "time": "09-28 06:22",
+      "src": "中新网"
+    },
+    {
       "title": "2026中俄国际足球邀请赛在沪开赛",
       "link": "https://www.chinanews.com.cn/ty/2026/09-27/10704633.shtml",
       "time": "09-27 23:56",
@@ -1050,12 +1056,6 @@
       "link": "https://www.chinanews.com.cn/sh/2026/09-27/10704622.shtml",
       "time": "09-27 23:07",
       "src": "中新网"
-    },
-    {
-      "title": "英国政府发布公共部门AI采购与使用准则 要求优先选用满足最低需求的最弱模型",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1579826.htm",
-      "time": "09-27 23:50",
-      "src": "cnBeta.COM"
     }
   ],
   "econ_news": [
@@ -1064,18 +1064,6 @@
       "link": "https://www.ithome.com/1/007/595.htm",
       "time": "09-27 20:19",
       "src": "IT之家"
-    },
-    {
-      "title": "研究：美国医院用 AI 写病历，保险公司两年多掏 9.42 亿美元",
-      "link": "https://www.ithome.com/1/007/531.htm",
-      "time": "09-27 15:35",
-      "src": "IT之家"
-    },
-    {
-      "title": "宋韵中秋夜 浙江古镇“新中式”赏月消费观察",
-      "link": "https://www.chinanews.com.cn/sh/2026/09-27/10704603.shtml",
-      "time": "09-27 21:55",
-      "src": "中新网"
     },
     {
       "title": "育碧也来调侃《GTA6》四百美元收藏版竟不含游戏本体",
@@ -1096,19 +1084,37 @@
       "src": "cnBeta.COM"
     },
     {
-      "title": "北京称中美达成涉及300亿美元关税减让安排 将启动人工智能对话",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260926-%E5%8C%97%E4%BA%AC%E7%A7%B0%E4%B8%AD%E7%BE%8E%E8%BE%BE%E6%88%90%E6%B6%89%E5%8F%8A300%E4%BA%BF%E7%BE%8E%E5%85%83%E5%85%B3%E7%A8%8E%E5%87%8F%E8%AE%A9%E5%AE%89%E6%8E%92-%E5%B0%86%E5%90%AF%E5%8A%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%B9%E8%AF%9D",
-      "time": "09-27 05:19",
-      "src": "REUTERS - Kyli"
-    },
-    {
       "title": "TikTok與阿拉巴馬州和解：支付一億美元，限兒童使用時長、禁用美妝濾鏡",
       "link": "https://www.bbc.com/zhongwen/articles/c8zxzl6vr3zno/trad?at_medium=RSS&at_campaign=rss",
       "time": "09-27 16:05",
       "src": "BBC中文"
+    },
+    {
+      "title": "特朗普：在“非常认真”地考虑禁止柴油出口",
+      "link": "https://finance.sina.com.cn/7x24/2026-09-28/doc-initimtr9767262.shtml",
+      "time": "09-28 05:15",
+      "src": "环球市场播报"
+    },
+    {
+      "title": "贝森特敦促美联储对美国通胀前景保持“开放心态”",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-28/doc-inithzcu3145293.shtml",
+      "time": "09-28 00:25",
+      "src": "环球市场播报"
+    },
+    {
+      "title": "股价暴涨后“熄火”，锡华科技中报增收不增利，六成营收靠赊销",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-27/doc-inithcye3445825.shtml",
+      "time": "09-27 15:00",
+      "src": "市场资讯"
     }
   ],
   "game_news": [
+    {
+      "title": "科乐美《寂静岭：Townfall》发售：Steam 国区 310 元起，玩家口碑褒贬不一",
+      "link": "https://www.ithome.com/1/007/616.htm",
+      "time": "09-28 06:39",
+      "src": "IT之家"
+    },
     {
       "title": "腾讯《三角洲行动》官宣联动国产武侠游戏《影之刃零》",
       "link": "https://www.ithome.com/1/007/611.htm",
@@ -1152,12 +1158,6 @@
       "link": "https://www.ithome.com/1/007/539.htm",
       "time": "09-27 16:06",
       "src": "IT之家"
-    },
-    {
-      "title": "从“正统进化”出发，重新审视《怪物猎人》的核心：TGS2026《怪物猎人荒野 凌越》制作团队采访",
-      "link": "https://www.gcores.com/articles/219926",
-      "time": "09-26 21:44",
-      "src": "机核"
     }
   ],
   "game_update": [
@@ -1238,34 +1238,34 @@
       "src": "机核"
     },
     {
+      "title": "伊朗称已为与美战事重开做好准备 但未放弃外交途径",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-28/10704637.shtml",
+      "time": "09-28 06:22",
+      "src": "中新网"
+    },
+    {
       "title": "特朗普称预计本周继续与伊朗谈判",
       "link": "https://www.chinanews.com.cn/gj/2026/09-27/10704632.shtml",
       "time": "09-27 23:39",
       "src": "中新网"
     },
     {
-      "title": "冲突加剧：沙特首都关闭学校通知家长远程授课一周",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260927-%E5%86%B2%E7%AA%81%E5%8A%A0%E5%89%A7-%E6%B2%99%E7%89%B9%E9%A6%96%E9%83%BD%E5%85%B3%E9%97%AD%E5%AD%A6%E6%A0%A1%E9%80%9A%E7%9F%A5%E5%AE%B6%E9%95%BF%E8%BF%9C%E7%A8%8B%E6%8E%88%E8%AF%BE%E4%B8%80%E5%91%A8",
-      "time": "09-27 23:34",
-      "src": "© Reuters"
+      "title": "美驻联合国大使沃尔兹表示 美国曾与中国就伊朗战争进行对话",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260927-%E7%BE%8E%E9%A9%BB%E8%81%94%E5%90%88%E5%9B%BD%E5%A4%A7%E4%BD%BF%E6%B2%83%E5%B0%94%E5%85%B9%E8%A1%A8%E7%A4%BA-%E7%BE%8E%E5%9B%BD%E6%9B%BE%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%B0%B1%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E8%BF%9B%E8%A1%8C%E5%AF%B9%E8%AF%9D",
+      "time": "09-28 05:48",
+      "src": "REUTERS - Nath"
     },
     {
-      "title": "在特朗普拒绝后 伊朗坚持其重开霍尔木兹海峡条件",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260927-%E5%9C%A8%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%92%E7%BB%9D%E5%90%8E-%E4%BC%8A%E6%9C%97%E5%9D%9A%E6%8C%81%E5%85%B6%E9%87%8D%E5%BC%80%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E6%9D%A1%E4%BB%B6",
-      "time": "09-27 20:45",
-      "src": "© AP"
+      "title": "特朗普预计本周恢复与伊朗谈判：霍尔木兹海峡双方僵持不下",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260927-%E7%89%B9%E6%9C%97%E6%99%AE%E9%A2%84%E8%AE%A1%E6%9C%AC%E5%91%A8%E6%81%A2%E5%A4%8D%E4%B8%8E%E4%BC%8A%E6%9C%97%E8%B0%88%E5%88%A4-%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E5%8F%8C%E6%96%B9%E5%83%B5%E6%8C%81%E4%B8%8D%E4%B8%8B",
+      "time": "09-28 05:22",
+      "src": "REUTERS - Nath"
     },
     {
-      "title": "特朗普拒绝伊朗重开霍尔木兹海峡提案",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260926-%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%92%E7%BB%9D%E4%BC%8A%E6%9C%97%E9%87%8D%E5%BC%80%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E6%8F%90%E6%A1%88",
-      "time": "09-27 05:03",
-      "src": "REUTERS - Anna"
-    },
-    {
-      "title": "韩正联大谈伊朗与古巴 未点名批评美国政策",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260926-%E9%9F%A9%E6%AD%A3%E8%81%94%E5%A4%A7%E8%B0%88%E4%BC%8A%E6%9C%97%E4%B8%8E%E5%8F%A4%E5%B7%B4-%E6%9C%AA%E7%82%B9%E5%90%8D%E6%89%B9%E8%AF%84%E7%BE%8E%E5%9B%BD%E6%94%BF%E7%AD%96",
-      "time": "09-27 05:22",
-      "src": "REUTERS - Edua"
+      "title": "英国驻有美军的空军基地附近 五人涉嫌筹备恐袭被捕",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260927-%E8%8B%B1%E5%9B%BD%E4%B8%80%E5%A4%84%E9%A9%BB%E6%9C%89%E7%BE%8E%E5%86%9B%E7%9A%84%E7%A9%BA%E5%86%9B%E5%9F%BA%E5%9C%B0%E9%99%84%E8%BF%91-%E4%BA%94%E4%BA%BA%E6%B6%89%E5%AB%8C%E7%AD%B9%E5%A4%87%E6%81%90%E8%A2%AD%E8%A2%AB%E6%8D%95",
+      "time": "09-28 05:40",
+      "src": "REUTERS - Cath"
     }
   ]
 }
