@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27 21:50",
+  "generated_at": "2026-09-28 02:13",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -129,9 +129,9 @@
       }
     ],
     "status": {
-      "state": "休市",
-      "label": "周末休市",
-      "date": "2026-09-27"
+      "state": "未开盘",
+      "label": "今日尚未开盘",
+      "date": "2026-09-28"
     },
     "watch": [
       {
@@ -239,6 +239,12 @@
         "src": "BBC中文"
       },
       {
+        "title": "贝森特敦促美联储对美国通胀前景保持“开放心态”",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-28/doc-inithzcu3145293.shtml",
+        "time": "09-28 00:25",
+        "src": "环球市场播报"
+      },
+      {
         "title": "盐湖股份的估值困局：业绩会上遭追问，股东催回购盼分红",
         "link": "https://finance.sina.com.cn/stock/s/2026-09-27/doc-inithkfx9418423.shtml",
         "time": "09-27 19:11",
@@ -272,12 +278,6 @@
         "title": "汇丰控股于9月24日斥资1.34亿港元回购85.08万股",
         "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-27/doc-initfxsc9580286.shtml",
         "time": "09-27 13:24",
-        "src": "新浪港股"
-      },
-      {
-        "title": "渣打集团于9月24日斥资823.74万英镑回购36.34万股",
-        "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-27/doc-initfxsm4739225.shtml",
-        "time": "09-27 13:23",
         "src": "新浪港股"
       }
     ]
@@ -317,187 +317,124 @@
     }
   ],
   "anime": {
-    "date": "09-27",
-    "weekday": "日",
+    "date": "09-28",
+    "weekday": "月",
     "items": [
       {
-        "id": 501963,
-        "name": "無職転生Ⅲ ～異世界行ったら本気だす～",
-        "name_cn": "无职转生 第三季 ～到了异世界就拿出真本事～",
-        "score": 8.1,
-        "img": "http://lain.bgm.tv/pic/cover/c/1f/9e/501963_bXlEP.jpg",
-        "air_date": "2026-07-04",
-        "rank": 201
+        "id": 607340,
+        "name": "透明な夜に駆ける君と、目に見えない恋をした。",
+        "name_cn": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "score": 7.2,
+        "img": "http://lain.bgm.tv/pic/cover/c/71/44/607340_n8Rrl.jpg",
+        "air_date": "2026-07-06",
+        "rank": 1784
       },
       {
-        "id": 638497,
-        "name": "正反対な君と僕 第2期",
-        "name_cn": "相反的你和我 第二季",
-        "score": 7.8,
-        "img": "http://lain.bgm.tv/pic/cover/c/fa/9b/638497_85455.jpg",
-        "air_date": "2026-07-05",
-        "rank": 408
-      },
-      {
-        "id": 598058,
-        "name": "君のことが大大大大大好きな100人の彼女 第3期",
-        "name_cn": "超超超超超喜欢你的100个女朋友 第三季",
-        "score": 7.5,
-        "img": "http://lain.bgm.tv/pic/cover/c/96/f8/598058_R7dl3.jpg",
-        "air_date": "2026-07-05",
-        "rank": 972
-      },
-      {
-        "id": 615835,
-        "name": "鉄鍋のジャン！",
-        "name_cn": "炒翻天",
-        "score": 7.4,
-        "img": "http://lain.bgm.tv/pic/cover/c/27/b5/615835_IbNAh.jpg",
-        "air_date": "2026-07-05",
-        "rank": 1245
-      },
-      {
-        "id": 545008,
-        "name": "ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～",
-        "name_cn": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
+        "id": 569116,
+        "name": "ぐらんぶる Season 3",
+        "name_cn": "碧蓝之海 第三季",
         "score": 7.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/14/a1/545008_pNnzQ.jpg",
-        "air_date": "2026-07-12",
-        "rank": 2642
+        "img": "http://lain.bgm.tv/pic/cover/c/f1/bf/569116_n6dPq.jpg",
+        "air_date": "2026-07-06",
+        "rank": 2729
       },
       {
-        "id": 495291,
-        "name": "さよならララ",
-        "name_cn": "再见菈菈",
-        "score": 6.7,
-        "img": "http://lain.bgm.tv/pic/cover/c/18/af/495291_9WuBW.jpg",
-        "air_date": "2026-07-05",
-        "rank": 4292
-      },
-      {
-        "id": 574041,
-        "name": "President Curtis",
-        "name_cn": "柯蒂斯总统",
-        "score": 6.6,
-        "img": "http://lain.bgm.tv/pic/cover/c/8a/1a/574041_z5P0R.jpg",
-        "air_date": "2026-07-26",
+        "id": 595884,
+        "name": "Marvel's Spidey and His Amazing Friends Season 5",
+        "name_cn": "蜘蛛侠与他的神奇朋友们 第五季",
+        "score": 7.0,
+        "img": "http://lain.bgm.tv/pic/cover/c/b2/2b/595884_Qskw0.jpg",
+        "air_date": "2026-07-13",
         "rank": null
       },
       {
-        "id": 595106,
-        "name": "レッツゴー怪奇組",
-        "name_cn": "Let's Go 怪奇组",
-        "score": 6.4,
-        "img": "http://lain.bgm.tv/pic/cover/c/61/8d/595106_ll6Jj.jpg",
-        "air_date": "2026-07-05",
-        "rank": 5292
+        "id": 569671,
+        "name": "炎の闘球女 ドッジ弾子",
+        "name_cn": "斗球女弹子",
+        "score": 6.0,
+        "img": "http://lain.bgm.tv/pic/cover/c/5a/fe/569671_c1VqG.jpg",
+        "air_date": "2026-07-06",
+        "rank": 6350
       },
       {
-        "id": 613039,
-        "name": "茶啊二中第六季",
-        "name_cn": "茶啊二中 第6季",
-        "score": 6.4,
-        "img": "http://lain.bgm.tv/pic/cover/c/a3/12/613039_Z6VM6.jpg",
-        "air_date": "2026-07-26",
+        "id": 663444,
+        "name": "King of the Hill Season 15",
+        "name_cn": "一家之主 第15季",
+        "score": 6.0,
+        "img": "http://lain.bgm.tv/pic/cover/c/1e/f8/663444_i2im9.jpg",
+        "air_date": "2026-07-20",
         "rank": null
       },
       {
-        "id": 454083,
-        "name": "アズールレーン びそくぜんしんっ！にっ!!",
-        "name_cn": "碧蓝航线：微速前行！第二季",
-        "score": 6.3,
-        "img": "http://lain.bgm.tv/pic/cover/c/61/12/454083_4DZpt.jpg",
-        "air_date": "2026-07-05",
-        "rank": 5847
-      },
-      {
-        "id": 577191,
-        "name": "ONE PIECE HEROINES",
-        "name_cn": "航海王 女英雄们的故事",
-        "score": 6.2,
-        "img": "http://lain.bgm.tv/pic/cover/c/b1/dd/577191_5RoIl.jpg",
-        "air_date": "2026-07-05",
-        "rank": 6839
-      },
-      {
-        "id": 668108,
-        "name": "『モブサイコ100』アニメ10周年記念特別映像",
-        "name_cn": "《灵能百分百》动画10周年纪念特别映像",
-        "score": 6.2,
-        "img": "http://lain.bgm.tv/pic/cover/c/fe/47/668108_K7488.jpg",
-        "air_date": "2026-07-12",
-        "rank": 5342
-      },
-      {
-        "id": 619052,
-        "name": "あはれ！名作くん 完全新作",
-        "name_cn": "做得很好！名作君 完全新作",
-        "score": 5.5,
-        "img": "http://lain.bgm.tv/pic/cover/c/dd/82/619052_B0qAA.jpg",
-        "air_date": "2026-07-05",
+        "id": 637339,
+        "name": "北斗の拳 拳王軍ザコたちの挽歌 第2クール",
+        "name_cn": "北斗神拳 拳王军杂兵们的挽歌 第二季",
+        "score": 5.7,
+        "img": "http://lain.bgm.tv/pic/cover/c/d0/a9/637339_93zPo.jpg",
+        "air_date": "2026-07-06",
         "rank": null
       },
       {
-        "id": 255209,
-        "name": "二十世紀電氣目録-ユーレカ・エヴリカ-",
-        "name_cn": "二十世纪电气目录",
-        "score": 5.1,
-        "img": "http://lain.bgm.tv/pic/cover/c/ce/3a/255209_9w0tU.jpg",
-        "air_date": "2026-07-05",
-        "rank": 9773
+        "id": 590786,
+        "name": "ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。",
+        "name_cn": "『你们先走我断后』，于是10年后我成为了传说",
+        "score": 5.4,
+        "img": "http://lain.bgm.tv/pic/cover/c/2c/93/590786_vA6R5.jpg",
+        "air_date": "2026-07-06",
+        "rank": 9375
       },
       {
-        "id": 633354,
-        "name": "同じゼミの染谷さんがセクシー女優だった話。",
-        "name_cn": "同一个研讨会的染谷同学是AV女优的事",
+        "id": 456081,
+        "name": "最強出涸らし皇子の暗躍帝位争い",
+        "name_cn": "最强废渣皇子暗中活跃于帝位之争",
+        "score": 5.3,
+        "img": "http://lain.bgm.tv/pic/cover/c/a7/a6/456081_Bs2nE.jpg",
+        "air_date": "2026-07-06",
+        "rank": 9314
+      },
+      {
+        "id": 528828,
+        "name": "骸骨騎士様、只今異世界へお出掛け中Ⅱ",
+        "name_cn": "骸骨骑士大人异世界冒险中 第二季",
+        "score": 5.2,
+        "img": "http://lain.bgm.tv/pic/cover/c/1d/71/528828_oQl2M.jpg",
+        "air_date": "2026-07-06",
+        "rank": 9572
+      },
+      {
+        "id": 636067,
+        "name": "捨てられ聖女の異世界ごはん旅 隠れスキルでキャンピングカーを召喚しました",
+        "name_cn": "无用圣女的异世界美食之旅 凭借隐藏技能召唤露营车",
+        "score": 5.0,
+        "img": "http://lain.bgm.tv/pic/cover/c/75/fd/636067_0uuym.jpg",
+        "air_date": "2026-07-06",
+        "rank": 9573
+      },
+      {
+        "id": 456080,
+        "name": "転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件",
+        "name_cn": "转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥们儿",
         "score": 4.9,
-        "img": "http://lain.bgm.tv/pic/cover/c/f3/66/633354_zm82g.jpg",
-        "air_date": "2026-07-05",
-        "rank": 9553
+        "img": "http://lain.bgm.tv/pic/cover/c/ce/e2/456080_IskBl.jpg",
+        "air_date": "2026-07-06",
+        "rank": 9951
       },
       {
-        "id": 633711,
-        "name": "プラノサウルス ガチコセイブツ部",
-        "name_cn": "",
-        "score": 4.8,
-        "img": "http://lain.bgm.tv/pic/cover/c/ea/4c/633711_V28UU.jpg",
-        "air_date": "2026-07-12",
-        "rank": null
+        "id": 579246,
+        "name": "ブチ切れ令嬢は報復を誓いました。～魔導書の力で祖国を叩き潰します～",
+        "name_cn": "暴怒千金发誓复仇。～凭借魔导书之力打垮祖国～",
+        "score": 4.6,
+        "img": "http://lain.bgm.tv/pic/cover/c/e2/dd/579246_61291.jpg",
+        "air_date": "2026-07-06",
+        "rank": 10008
       },
       {
-        "id": 583862,
-        "name": "世界最強の後衛 ～迷宮国の新人探索者～",
-        "name_cn": "世界最强的后卫 ～迷宫国的新人探索者～",
-        "score": 4.5,
-        "img": "http://lain.bgm.tv/pic/cover/c/45/58/583862_6YGGE.jpg",
-        "air_date": "2026-07-05",
-        "rank": 10012
-      },
-      {
-        "id": 571896,
-        "name": "サイボーグ009 ネメシス",
-        "name_cn": "人造人009 涅墨西斯",
-        "score": 3.8,
-        "img": "http://lain.bgm.tv/pic/cover/c/07/0b/571896_fT9FA.jpg",
-        "air_date": "2026-07-19",
-        "rank": 9925
-      },
-      {
-        "id": 662006,
-        "name": "闇芝居 十七期",
-        "name_cn": "暗芝居 第十七季",
-        "score": 3.4,
-        "img": "http://lain.bgm.tv/pic/cover/c/04/b0/662006_tnf6N.jpg",
-        "air_date": "2026-07-12",
-        "rank": null
-      },
-      {
-        "id": 659686,
-        "name": "トミカとトム シーズン2",
-        "name_cn": "",
-        "score": 1.5,
-        "img": "http://lain.bgm.tv/pic/cover/c/67/28/659686_001De.jpg",
-        "air_date": "2026-07-05",
+        "id": 607933,
+        "name": "万古至尊：李云霄传",
+        "name_cn": "万古至尊：李云霄传",
+        "score": 1.7,
+        "img": "http://lain.bgm.tv/pic/cover/c/2f/c0/607933_uzVv6.jpg",
+        "air_date": "2026-07-20",
         "rank": null
       }
     ]
@@ -529,6 +466,13 @@
   "ai": {
     "news_zh": [
       {
+        "title": "“第二代豆包手机”努比亚 NaviX Ultra 玩《王者荣耀》遭强制下线？知情人士称有安全风险策略保障游戏公平，未有任何针对性调整",
+        "link": "https://www.ithome.com/1/007/607.htm",
+        "time": "09-27 21:57",
+        "src": "IT之家",
+        "type": "不停机更新"
+      },
+      {
         "title": "部分 Anthropic 资深员工考虑在偏远地区购置土地，以防“AI 失控”",
         "link": "https://www.ithome.com/1/007/603.htm",
         "time": "09-27 21:31",
@@ -559,58 +503,52 @@
         "src": "IT之家"
       },
       {
+        "title": "AI智能体再次突破沙箱并访问外部网络 OpenAI暂停最强模型训练",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1579828.htm",
+        "time": "09-27 23:52",
+        "src": "cnBeta.COM"
+      },
+      {
         "title": "英伟达携手德国SCHMID布局玻璃基板",
         "link": "https://www.cnbeta.com.tw/articles/tech/1579778.htm",
         "time": "09-27 14:42",
-        "src": "cnBeta.COM"
-      },
-      {
-        "title": "英伟达AI新专利：用自然语言定位与调整GPU性能问题",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1579760.htm",
-        "time": "09-27 14:11",
-        "src": "cnBeta.COM"
-      },
-      {
-        "title": "OpenAI智能体入侵美国政府网站",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1579750.htm",
-        "time": "09-27 14:03",
         "src": "cnBeta.COM"
       }
     ],
     "hf": [
       {
         "id": "convaiinnovations/laya",
-        "likes": 4007,
+        "likes": 4055,
         "downloads": 0,
         "pipeline": "text-classification"
       },
       {
         "id": "Qwen/Qwen-Image-2.1",
-        "likes": 2447,
+        "likes": 2469,
         "downloads": 52804,
         "pipeline": "text-to-image"
       },
       {
         "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-        "likes": 2016,
+        "likes": 2043,
         "downloads": 964220,
         "pipeline": "text-to-image"
       },
       {
         "id": "XingChen-AGI/Xing4.0-29B-A4B",
-        "likes": 1774,
+        "likes": 1777,
         "downloads": 45028,
         "pipeline": "text-generation"
       },
       {
         "id": "Edge0/Audio8-ASR-Infinite",
-        "likes": 969,
+        "likes": 976,
         "downloads": 19434,
         "pipeline": "automatic-speech-recognition"
       },
       {
         "id": "Altworld/Hemmingway-1",
-        "likes": 724,
+        "likes": 729,
         "downloads": 5904,
         "pipeline": "text-generation"
       }
@@ -820,6 +758,12 @@
       "src": "IT之家"
     },
     {
+      "title": "新型无线外置显卡方案eGPU亮相 宣称可通过超低延迟无线连接释放RTX 5090桌面级性能",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1579824.htm",
+      "time": "09-27 23:49",
+      "src": "cnBeta.COM"
+    },
+    {
       "title": "《永劫无间》国家集训队摘下本届亚运会电竞项目中国队首金",
       "link": "https://finance.sina.com.cn/tech/it/2026-09-24/doc-inisxxkx0201964.shtml",
       "time": "09-24 21:38",
@@ -846,12 +790,6 @@
     {
       "title": "AMD 发布 Ryzen 7 7700X3D(104MB缓存,$329) 与 Radeon RX 9070 GRE(12GB,$549), 强化 1440p 游戏市场",
       "link": "https://www.91mobiles.com/hub/computex-2026-amd-ryzen-x3d-cpus-radeon-9070-gre",
-      "time": "精选",
-      "src": "资讯整理"
-    },
-    {
-      "title": "Intel 预览 Nova Lake 桌面平台: 最高48核(16P+32E), 18A 工艺, LGA1954 新插槽, 预计2026年底上市",
-      "link": "https://www.160.com/article/12732.html",
       "time": "精选",
       "src": "资讯整理"
     }
@@ -1072,6 +1010,12 @@
   },
   "intl_news": [
     {
+      "title": "第八代宝马 3 系 9 月 30 日全球首发，首次同时覆盖纯电和燃油动力",
+      "link": "https://www.ithome.com/1/007/610.htm",
+      "time": "09-27 22:40",
+      "src": "IT之家"
+    },
+    {
       "title": "我国自研装备新突破：全球最大打桩船从江苏发运，前往巴西参与萨尔瓦多跨海大桥建设",
       "link": "https://www.ithome.com/1/007/551.htm",
       "time": "09-27 16:59",
@@ -1090,33 +1034,27 @@
       "src": "机核"
     },
     {
-      "title": "世界赛艇联合会500米冲刺赛在沪完成全球首秀",
-      "link": "https://www.chinanews.com.cn/ty/2026/09-27/10704597.shtml",
-      "time": "09-27 21:21",
+      "title": "2026中俄国际足球邀请赛在沪开赛",
+      "link": "https://www.chinanews.com.cn/ty/2026/09-27/10704633.shtml",
+      "time": "09-27 23:56",
       "src": "中新网"
     },
     {
-      "title": "新时尚学院在沪亮相 将成为国际化、交叉融合的平台型学院",
-      "link": "https://www.chinanews.com.cn/sh/2026/09-27/10704566.shtml",
-      "time": "09-27 21:06",
+      "title": "特朗普称预计本周继续与伊朗谈判",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-27/10704632.shtml",
+      "time": "09-27 23:39",
       "src": "中新网"
     },
     {
-      "title": "中国汽车加速驶入欧洲，跑得快也要跑得远",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-27/10704583.shtml",
-      "time": "09-27 20:57",
+      "title": "第四届“长城之约”全球推广活动暨世界文化遗产对话在河北迁安举行",
+      "link": "https://www.chinanews.com.cn/sh/2026/09-27/10704622.shtml",
+      "time": "09-27 23:07",
       "src": "中新网"
     },
     {
-      "title": "俄罗斯将数据中心列为打击目标 乌克兰10万户家庭断网",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1579812.htm",
-      "time": "09-27 21:42",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "大型强子对撞机开始“断电拆解” 欧洲核子研究中心启动高亮度升级关键工程",
-      "link": "https://www.cnbeta.com.tw/articles/science/1579810.htm",
-      "time": "09-27 21:41",
+      "title": "英国政府发布公共部门AI采购与使用准则 要求优先选用满足最低需求的最弱模型",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1579826.htm",
+      "time": "09-27 23:50",
       "src": "cnBeta.COM"
     }
   ],
@@ -1134,9 +1072,9 @@
       "src": "IT之家"
     },
     {
-      "title": "中秋假期湖北夜游消费持续升温",
-      "link": "https://www.chinanews.com.cn/sh/2026/09-27/10704596.shtml",
-      "time": "09-27 21:22",
+      "title": "宋韵中秋夜 浙江古镇“新中式”赏月消费观察",
+      "link": "https://www.chinanews.com.cn/sh/2026/09-27/10704603.shtml",
+      "time": "09-27 21:55",
       "src": "中新网"
     },
     {
@@ -1158,19 +1096,33 @@
       "src": "cnBeta.COM"
     },
     {
-      "title": "特朗普拟废除拜登时代的汽车燃油经济性标准",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1579748.htm",
-      "time": "09-27 14:02",
-      "src": "cnBeta.COM"
-    },
-    {
       "title": "北京称中美达成涉及300亿美元关税减让安排 将启动人工智能对话",
       "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260926-%E5%8C%97%E4%BA%AC%E7%A7%B0%E4%B8%AD%E7%BE%8E%E8%BE%BE%E6%88%90%E6%B6%89%E5%8F%8A300%E4%BA%BF%E7%BE%8E%E5%85%83%E5%85%B3%E7%A8%8E%E5%87%8F%E8%AE%A9%E5%AE%89%E6%8E%92-%E5%B0%86%E5%90%AF%E5%8A%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%B9%E8%AF%9D",
       "time": "09-27 05:19",
       "src": "REUTERS - Kyli"
+    },
+    {
+      "title": "TikTok與阿拉巴馬州和解：支付一億美元，限兒童使用時長、禁用美妝濾鏡",
+      "link": "https://www.bbc.com/zhongwen/articles/c8zxzl6vr3zno/trad?at_medium=RSS&at_campaign=rss",
+      "time": "09-27 16:05",
+      "src": "BBC中文"
     }
   ],
   "game_news": [
+    {
+      "title": "腾讯《三角洲行动》官宣联动国产武侠游戏《影之刃零》",
+      "link": "https://www.ithome.com/1/007/611.htm",
+      "time": "09-27 23:02",
+      "src": "IT之家",
+      "type": "不停机更新"
+    },
+    {
+      "title": "“第二代豆包手机”努比亚 NaviX Ultra 玩《王者荣耀》遭强制下线？知情人士称有安全风险策略保障游戏公平，未有任何针对性调整",
+      "link": "https://www.ithome.com/1/007/607.htm",
+      "time": "09-27 21:57",
+      "src": "IT之家",
+      "type": "不停机更新"
+    },
     {
       "title": "年轻人的第一台 RGB 游戏电视，小米 REDMI X 系列 RGB-Mini LED 2027 竞技版上架",
       "link": "https://www.ithome.com/1/007/596.htm",
@@ -1206,26 +1158,21 @@
       "link": "https://www.gcores.com/articles/219926",
       "time": "09-26 21:44",
       "src": "机核"
-    },
-    {
-      "title": "俯视角PVE搜打撤《查无此地》Steam发售定档10月14日抢先体验开启",
-      "link": "https://www.gcores.com/articles/220223",
-      "time": "09-25 10:30",
-      "src": "机核"
-    },
-    {
-      "title": "35周年、哥斯拉与EVA联动，以及未来的可能：TGS2026专访《索尼克赛车: 交叉世界》制作人",
-      "link": "https://www.gcores.com/articles/220226",
-      "time": "09-24 23:11",
-      "src": "机核"
     }
   ],
   "game_update": [
     {
-      "title": "努比亚NaviX Ultra玩王者荣耀被强制踢下线 豆包手机助手致歉",
-      "link": "https://www.cnbeta.com.tw/articles/game/1579744.htm",
-      "time": "09-27 13:53",
-      "src": "cnBeta.COM",
+      "title": "腾讯《三角洲行动》官宣联动国产武侠游戏《影之刃零》",
+      "link": "https://www.ithome.com/1/007/611.htm",
+      "time": "09-27 23:02",
+      "src": "IT之家",
+      "type": "不停机更新"
+    },
+    {
+      "title": "“第二代豆包手机”努比亚 NaviX Ultra 玩《王者荣耀》遭强制下线？知情人士称有安全风险策略保障游戏公平，未有任何针对性调整",
+      "link": "https://www.ithome.com/1/007/607.htm",
+      "time": "09-27 21:57",
+      "src": "IT之家",
       "type": "不停机更新"
     },
     {
@@ -1269,13 +1216,6 @@
       "time": "8-06",
       "type": "不停机更新",
       "src": "腾讯官方"
-    },
-    {
-      "title": "《龙族幻想》8/13 凌晨3:00-08:00 停机版本更新: 卡塞尔之辉规则调整/极道巅峰优化, 维护后发放更新奖励",
-      "link": "https://dna.qq.com/webplat/info/news_version3/37362/61695/61696/m22835/202608/989696.shtml",
-      "time": "8-13",
-      "type": "停机维护",
-      "src": "腾讯官方"
     }
   ],
   "mil_news": [
@@ -1298,6 +1238,18 @@
       "src": "机核"
     },
     {
+      "title": "特朗普称预计本周继续与伊朗谈判",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-27/10704632.shtml",
+      "time": "09-27 23:39",
+      "src": "中新网"
+    },
+    {
+      "title": "冲突加剧：沙特首都关闭学校通知家长远程授课一周",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260927-%E5%86%B2%E7%AA%81%E5%8A%A0%E5%89%A7-%E6%B2%99%E7%89%B9%E9%A6%96%E9%83%BD%E5%85%B3%E9%97%AD%E5%AD%A6%E6%A0%A1%E9%80%9A%E7%9F%A5%E5%AE%B6%E9%95%BF%E8%BF%9C%E7%A8%8B%E6%8E%88%E8%AF%BE%E4%B8%80%E5%91%A8",
+      "time": "09-27 23:34",
+      "src": "© Reuters"
+    },
+    {
       "title": "在特朗普拒绝后 伊朗坚持其重开霍尔木兹海峡条件",
       "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260927-%E5%9C%A8%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%92%E7%BB%9D%E5%90%8E-%E4%BC%8A%E6%9C%97%E5%9D%9A%E6%8C%81%E5%85%B6%E9%87%8D%E5%BC%80%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E6%9D%A1%E4%BB%B6",
       "time": "09-27 20:45",
@@ -1314,18 +1266,6 @@
       "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260926-%E9%9F%A9%E6%AD%A3%E8%81%94%E5%A4%A7%E8%B0%88%E4%BC%8A%E6%9C%97%E4%B8%8E%E5%8F%A4%E5%B7%B4-%E6%9C%AA%E7%82%B9%E5%90%8D%E6%89%B9%E8%AF%84%E7%BE%8E%E5%9B%BD%E6%94%BF%E7%AD%96",
       "time": "09-27 05:22",
       "src": "REUTERS - Edua"
-    },
-    {
-      "title": "胡塞武装对沙特发动新一轮袭击 土耳其和巴基斯坦按兵不动",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260926-%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E5%AF%B9%E6%B2%99%E7%89%B9%E5%8F%91%E5%8A%A8%E6%96%B0%E4%B8%80%E8%BD%AE%E8%A2%AD%E5%87%BB-%E5%9C%9F%E8%80%B3%E5%85%B6%E5%92%8C%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%8C%89%E5%85%B5%E4%B8%8D%E5%8A%A8",
-      "time": "09-26 23:38",
-      "src": "via REUTERS - "
-    },
-    {
-      "title": "WSJ: 特朗普拒绝伊朗7天重开霍尔木兹海峡计划 正考虑11月中期选举后恢复空袭",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260926-wsj-%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%92%E7%BB%9D%E4%BC%8A%E6%9C%977%E5%A4%A9%E9%87%8D%E5%BC%80%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E8%AE%A1%E5%88%92-%E6%AD%A3%E8%80%83%E8%99%9111%E6%9C%88%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%90%8E%E6%81%A2%E5%A4%8D%E7%A9%BA%E8%A2%AD",
-      "time": "09-26 21:51",
-      "src": "© Elizabeth Fr"
     }
   ]
 }
