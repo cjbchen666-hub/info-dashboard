@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28 21:35",
+  "generated_at": "2026-09-29 04:28",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -129,9 +129,9 @@
       }
     ],
     "status": {
-      "state": "已收盘",
-      "label": "今日已收盘",
-      "date": "2026-09-28"
+      "state": "未开盘",
+      "label": "今日尚未开盘",
+      "date": "2026-09-29"
     },
     "watch": [
       {
@@ -239,27 +239,9 @@
         "src": "IT之家"
       },
       {
-        "title": "16 岁少年用 AI 发现微软内部 API 漏洞：涉及超 17 万亿行数据，获 5000 美元赏金",
-        "link": "https://www.ithome.com/1/008/000.htm",
-        "time": "09-28 19:21",
-        "src": "IT之家"
-      },
-      {
-        "title": "启元机器人全球首店落地上海，Q1、T1 进入线下销售",
-        "link": "https://www.ithome.com/1/007/947.htm",
-        "time": "09-28 17:41",
-        "src": "IT之家"
-      },
-      {
         "title": "黑客正大量劫持AI账户和服务器以夺取算力",
         "link": "https://www.cnbeta.com.tw/articles/tech/1579896.htm",
         "time": "09-28 15:16",
-        "src": "cnBeta.COM"
-      },
-      {
-        "title": "科学家研发无电机无电池弹性微型软体机器人 仅靠红外光照射即可实现无限次弹跳",
-        "link": "https://www.cnbeta.com.tw/articles/science/1579846.htm",
-        "time": "09-28 12:40",
         "src": "cnBeta.COM"
       },
       {
@@ -269,15 +251,33 @@
         "src": "BBC中文"
       },
       {
-        "title": "盘前：股债双杀， 纳指期货跌0.83%，黄金大跳水",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-28/doc-initktnz9739093.shtml",
-        "time": "09-28 20:30",
+        "title": "标普500指数中近半数股票与市场其余部分走势相悖",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-29/doc-initmqsq2661614.shtml",
+        "time": "09-29 03:29",
         "src": "环球市场播报"
       },
       {
-        "title": "美国重磅数据本周登场 料强化美联储10月加息理由",
-        "link": "https://finance.sina.com.cn/world/2026-09-28/doc-initktnv8472994.shtml",
-        "time": "09-28 19:44",
+        "title": "美联储理事库克：AI无法抵消短期通胀压力 就业市场能承受再加息",
+        "link": "https://finance.sina.com.cn/world/2026-09-29/doc-initmkks2784567.shtml",
+        "time": "09-29 03:11",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "交易员下调欧洲央行加息押注 预计10月加息概率不足40%",
+        "link": "https://finance.sina.com.cn/world/2026-09-28/doc-initmeax3462313.shtml",
+        "time": "09-28 23:52",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "英伟达追加创纪录1500亿美元股票回购",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-28/doc-initmeau2809946.shtml",
+        "time": "09-28 23:17",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "欧洲央行拉加德称收益率上升将拖慢增长并削弱通胀传导",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-28/doc-initkxut8406252.shtml",
+        "time": "09-28 22:20",
         "src": "环球市场播报"
       }
     ]
@@ -294,155 +294,119 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 51498.32,
-      "pct": -0.64,
-      "chg": -330.3,
-      "amount": "214458013亿"
+      "price": 51481.51,
+      "pct": -0.67,
+      "chg": -347.11,
+      "amount": "2343699344亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26928.78,
-      "pct": -0.52,
-      "chg": -139.94,
-      "amount": "2276138996亿"
+      "price": 26820.38,
+      "pct": -0.92,
+      "chg": -248.34,
+      "amount": "16173359280亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7705.16,
-      "pct": -0.49,
-      "chg": -38.25,
-      "amount": "108474441亿"
+      "price": 7683.69,
+      "pct": -0.77,
+      "chg": -59.72,
+      "amount": "2230302275亿"
     }
   ],
   "anime": {
-    "date": "09-28",
-    "weekday": "月",
+    "date": "09-29",
+    "weekday": "火",
     "items": [
       {
-        "id": 607340,
-        "name": "透明な夜に駆ける君と、目に見えない恋をした。",
-        "name_cn": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
-        "score": 7.2,
-        "img": "http://lain.bgm.tv/pic/cover/c/71/44/607340_n8Rrl.jpg",
-        "air_date": "2026-07-06",
-        "rank": 1828
+        "id": 325767,
+        "name": "対ありでした。 ～お嬢さまは格闘ゲームなんてしない～",
+        "name_cn": "感谢对战。 ～大小姐才不玩格斗游戏～",
+        "score": 7.4,
+        "img": "http://lain.bgm.tv/pic/cover/c/a1/d3/325767_u3pvR.jpg",
+        "air_date": "2026-07-07",
+        "rank": 1128
       },
       {
-        "id": 569116,
-        "name": "ぐらんぶる Season 3",
-        "name_cn": "碧蓝之海 第三季",
-        "score": 7.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/f1/bf/569116_n6dPq.jpg",
-        "air_date": "2026-07-06",
-        "rank": 2772
+        "id": 496276,
+        "name": "攻殻機動隊 THE GHOST IN THE SHELL",
+        "name_cn": "攻壳机动队 THE GHOST IN THE SHELL",
+        "score": 7.1,
+        "img": "http://lain.bgm.tv/pic/cover/c/7e/10/496276_Qeu06.jpg",
+        "air_date": "2026-07-07",
+        "rank": 2081
       },
       {
-        "id": 595884,
-        "name": "Marvel's Spidey and His Amazing Friends Season 5",
-        "name_cn": "蜘蛛侠与他的神奇朋友们 第五季",
-        "score": 7.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/b2/2b/595884_Qskw0.jpg",
-        "air_date": "2026-07-13",
-        "rank": null
+        "id": 541285,
+        "name": "きみが死ぬまで恋をしたい",
+        "name_cn": "与你相恋到生命尽头",
+        "score": 6.9,
+        "img": "http://lain.bgm.tv/pic/cover/c/b3/26/541285_CYBZc.jpg",
+        "air_date": "2026-07-07",
+        "rank": 3020
       },
       {
-        "id": 663444,
-        "name": "King of the Hill Season 15",
-        "name_cn": "一家之主 第15季",
+        "id": 516426,
+        "name": "一斩苍穹",
+        "name_cn": "一斩苍穹",
         "score": 6.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/1e/f8/663444_i2im9.jpg",
-        "air_date": "2026-07-20",
+        "img": "http://lain.bgm.tv/pic/cover/c/ef/2e/516426_JJUoU.jpg",
+        "air_date": "2026-07-28",
         "rank": null
       },
       {
-        "id": 569671,
-        "name": "炎の闘球女 ドッジ弾子",
-        "name_cn": "斗球女弹子",
+        "id": 584641,
+        "name": "手札が多めのビクトリア",
+        "name_cn": "奇招百出的维多利亚",
         "score": 5.9,
-        "img": "http://lain.bgm.tv/pic/cover/c/5a/fe/569671_c1VqG.jpg",
-        "air_date": "2026-07-06",
-        "rank": 6477
+        "img": "http://lain.bgm.tv/pic/cover/c/04/5b/584641_150ne.jpg",
+        "air_date": "2026-07-07",
+        "rank": 7725
       },
       {
-        "id": 637339,
-        "name": "北斗の拳 拳王軍ザコたちの挽歌 第2クール",
-        "name_cn": "北斗神拳 拳王军杂兵们的挽歌 第二季",
+        "id": 607929,
+        "name": "百日成王",
+        "name_cn": "百日成王",
         "score": 5.7,
-        "img": "http://lain.bgm.tv/pic/cover/c/d0/a9/637339_93zPo.jpg",
-        "air_date": "2026-07-06",
+        "img": "http://lain.bgm.tv/pic/cover/c/1d/82/607929_h9X29.jpg",
+        "air_date": "2026-07-03",
+        "rank": 6811
+      },
+      {
+        "id": 612697,
+        "name": "鎧真伝サムライトルーパー 第2クール",
+        "name_cn": "铠真传 武士军团 第2部分",
+        "score": 4.8,
+        "img": "http://lain.bgm.tv/pic/cover/c/c5/ce/612697_fvrFF.jpg",
+        "air_date": "2026-07-07",
         "rank": null
       },
       {
-        "id": 590786,
-        "name": "ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。",
-        "name_cn": "『你们先走我断后』，于是10年后我成为了传说",
-        "score": 5.4,
-        "img": "http://lain.bgm.tv/pic/cover/c/2c/93/590786_vA6R5.jpg",
-        "air_date": "2026-07-06",
-        "rank": 9393
-      },
-      {
-        "id": 456081,
-        "name": "最強出涸らし皇子の暗躍帝位争い",
-        "name_cn": "最强废渣皇子暗中活跃于帝位之争",
-        "score": 5.3,
-        "img": "http://lain.bgm.tv/pic/cover/c/a7/a6/456081_Bs2nE.jpg",
-        "air_date": "2026-07-06",
-        "rank": 9326
-      },
-      {
-        "id": 528828,
-        "name": "骸骨騎士様、只今異世界へお出掛け中Ⅱ",
-        "name_cn": "骸骨骑士大人异世界冒险中 第二季",
-        "score": 5.2,
-        "img": "http://lain.bgm.tv/pic/cover/c/1d/71/528828_oQl2M.jpg",
-        "air_date": "2026-07-06",
-        "rank": 9556
-      },
-      {
-        "id": 636067,
-        "name": "捨てられ聖女の異世界ごはん旅 隠れスキルでキャンピングカーを召喚しました",
-        "name_cn": "无用圣女的异世界美食之旅 凭借隐藏技能召唤露营车",
-        "score": 5.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/75/fd/636067_0uuym.jpg",
-        "air_date": "2026-07-06",
-        "rank": 9593
-      },
-      {
-        "id": 456080,
-        "name": "転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件",
-        "name_cn": "转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥们儿",
-        "score": 4.9,
-        "img": "http://lain.bgm.tv/pic/cover/c/ce/e2/456080_IskBl.jpg",
-        "air_date": "2026-07-06",
-        "rank": 9952
-      },
-      {
-        "id": 579246,
-        "name": "ブチ切れ令嬢は報復を誓いました。～魔導書の力で祖国を叩き潰します～",
-        "name_cn": "暴怒千金发誓复仇。～凭借魔导书之力打垮祖国～",
-        "score": 4.6,
-        "img": "http://lain.bgm.tv/pic/cover/c/e2/dd/579246_61291.jpg",
-        "air_date": "2026-07-06",
-        "rank": 10002
-      },
-      {
-        "id": 607933,
-        "name": "万古至尊：李云霄传",
-        "name_cn": "万古至尊：李云霄传",
-        "score": 1.7,
-        "img": "http://lain.bgm.tv/pic/cover/c/2f/c0/607933_uzVv6.jpg",
-        "air_date": "2026-07-20",
+        "id": 638995,
+        "name": "身代わり令嬢を救ったのは冷酷無慈悲な氷の王子の愛でした",
+        "name_cn": "拯救替身千金的是冷酷无情冰之王子的爱",
+        "score": 4.2,
+        "img": "http://lain.bgm.tv/pic/cover/c/96/aa/638995_mM0aJ.jpg",
+        "air_date": "2026-07-07",
         "rank": null
+      },
+      {
+        "id": 627648,
+        "name": "天は赤い河のほとり",
+        "name_cn": "天是红河岸",
+        "score": 4.0,
+        "img": "http://lain.bgm.tv/pic/cover/c/11/b7/627648_huSQf.jpg",
+        "air_date": "2026-07-07",
+        "rank": 9902
       }
     ]
   },
   "ukraine": {
     "title": "Russian Offensive Campaign Assessment",
     "summary": "ISW’s Russia and Ukraine team produces the maps and analysis of record of the war in Ukraine. The Russian Offensive Campaign Assessment provides a synthetic running intelligence estimate of Putin’s political and military objectives in Ukraine and the design, prosecution, and outcomes of Russia’s war effort. ISW has published this update daily since Russia’s full-scale invasion of Ukraine in February 2022. Each update includes an assessment of the latest battlefield changes at the operational and tactical levels of war as well as an updated strategic assessment and forecast of the war’s trajectory along with numer",
-    "map_url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-september-27-2026-at-130-pm-et/",
+    "map_url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-august-8-2026-at-130-pm-et/",
     "url": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment",
     "links": [
       {
@@ -451,7 +415,7 @@
       },
       {
         "name": "ISW 官方地图页",
-        "url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-september-27-2026-at-130-pm-et/"
+        "url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-august-8-2026-at-130-pm-et/"
       },
       {
         "name": "实时战线地图 Liveuamap",
@@ -461,10 +425,78 @@
         "name": "深州地图 DeepStateMap",
         "url": "https://deepstatemap.live/en"
       }
+    ],
+    "news": [
+      {
+        "title": "今日战况: Russian Offensive Campaign Assessment",
+        "link": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment",
+        "time": "ISW每日评估",
+        "src": "ISW"
+      },
+      {
+        "title": "伊朗代理总统同俄罗斯总统通电话 讨论合作问题",
+        "link": "https://news.sina.com.cn/w/2024-06-27/doc-incaceev5723822.shtml",
+        "time": "06-27 03:10",
+        "src": "央视"
+      },
+      {
+        "title": "韩国联合参谋本部：朝鲜向半岛东部海域发射导弹",
+        "link": "https://news.sina.com.cn/w/2024-06-26/doc-inazyzfu1005524.shtml",
+        "time": "06-26 04:41",
+        "src": "央视"
+      },
+      {
+        "title": "美官员称美国将再向乌克兰提供1.5亿美元弹药",
+        "link": "https://news.sina.com.cn/w/2024-06-25/doc-inazwwht1613362.shtml",
+        "time": "06-25 03:39",
+        "src": "央视"
+      },
+      {
+        "title": "古特雷斯强烈谴责俄罗斯达吉斯坦共和国恐袭事件",
+        "link": "https://news.sina.com.cn/w/2024-06-25/doc-inazwmsy1974761.shtml",
+        "time": "06-25 02:17",
+        "src": "央视"
+      },
+      {
+        "title": "普京访朝，给金正恩带了礼物",
+        "link": "https://news.sina.com.cn/w/2024-06-19/doc-inazhrnc8517348.shtml",
+        "time": "06-19 19:45",
+        "src": "新浪新闻综合"
+      }
     ]
   },
   "ai": {
     "news_zh": [
+      {
+        "title": "AI 初创公司 Instinct 完成 10 亿美元融资，投后估值达 100 亿美元",
+        "link": "https://www.ithome.com/1/008/060.htm",
+        "time": "09-28 23:08",
+        "src": "IT之家"
+      },
+      {
+        "title": "消息称小米大模型负责人罗福莉晋升至 22 级，已是小米职级体系最高级别",
+        "link": "https://www.ithome.com/1/008/056.htm",
+        "time": "09-28 22:53",
+        "src": "IT之家"
+      },
+      {
+        "title": "ACEMAGIC 推出全球首款锐龙 AI Max+ PRO 495 处理器的 AI 迷你工作站，6499 美元",
+        "link": "https://www.ithome.com/1/008/043.htm",
+        "time": "09-28 22:07",
+        "src": "IT之家"
+      },
+      {
+        "title": "小米 18 标准版手机配置曝光：6.4 英寸 1.5K 直屏、骁龙 8E6 芯片",
+        "link": "https://www.ithome.com/1/008/038.htm",
+        "time": "09-28 21:53",
+        "src": "IT之家"
+      },
+      {
+        "title": "月之暗面最强 AI 模型：Kimi K3.1 前端标识泄露，预计将在近期发布",
+        "link": "https://www.ithome.com/1/008/033.htm",
+        "time": "09-28 21:42",
+        "src": "IT之家"
+      },
       {
         "title": "Meta 启动企业平台 AI 赋能业务，由原 MongoDB 首席执行官兼总裁 Chirantan Desai 领导",
         "link": "https://www.ithome.com/1/008/026.htm",
@@ -482,74 +514,44 @@
         "link": "https://www.ithome.com/1/008/019.htm",
         "time": "09-28 20:57",
         "src": "IT之家"
-      },
-      {
-        "title": "深蓝汽车推出“小蓝同学车载交互屏”：适配全新 S07 AI 激光版，899 元起",
-        "link": "https://www.ithome.com/1/008/006.htm",
-        "time": "09-28 20:02",
-        "src": "IT之家"
-      },
-      {
-        "title": "16 岁少年用 AI 发现微软内部 API 漏洞：涉及超 17 万亿行数据，获 5000 美元赏金",
-        "link": "https://www.ithome.com/1/008/000.htm",
-        "time": "09-28 19:21",
-        "src": "IT之家"
-      },
-      {
-        "title": "酷派推出 699 元 AI 智能眼镜：800W 像素摄像头，支持抖音直播、视频通话、在线翻译",
-        "link": "https://www.ithome.com/1/007/982.htm",
-        "time": "09-28 18:59",
-        "src": "IT之家"
-      },
-      {
-        "title": "荣耀 AI 耳夹耳机 FlyClip Pro 开启预约，支持无线充电、续航 44 小时",
-        "link": "https://www.ithome.com/1/007/981.htm",
-        "time": "09-28 18:55",
-        "src": "IT之家"
-      },
-      {
-        "title": "零刻 GTR9 Pro 迷你主机新增 AMD 锐龙 AI Max+ PRO 495 旗舰版：128GB 内存 +2TB 硬盘，29998 元",
-        "link": "https://www.ithome.com/1/007/973.htm",
-        "time": "09-28 18:29",
-        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "convaiinnovations/laya",
-        "likes": 4218,
+        "likes": 4284,
         "downloads": 0,
         "pipeline": "text-classification"
       },
       {
         "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-        "likes": 2190,
+        "likes": 2237,
         "downloads": 1062921,
         "pipeline": "text-to-image"
       },
       {
         "id": "Edge0/Audio8-ASR-Infinite",
-        "likes": 1359,
+        "likes": 1372,
         "downloads": 19963,
         "pipeline": "automatic-speech-recognition"
       },
       {
         "id": "Qwen/Qwen-Image-2.1",
-        "likes": 2550,
+        "likes": 2579,
         "downloads": 58693,
         "pipeline": "text-to-image"
       },
       {
-        "id": "XingChen-AGI/Xing4.0-29B-A4B",
-        "likes": 1788,
-        "downloads": 45834,
-        "pipeline": "text-generation"
-      },
-      {
         "id": "XiaomiMiMo/MiMo-V2.6-RL-oss",
-        "likes": 489,
+        "likes": 507,
         "downloads": 22597,
         "pipeline": ""
+      },
+      {
+        "id": "XingChen-AGI/Xing4.0-29B-A4B",
+        "likes": 1798,
+        "downloads": 45834,
+        "pipeline": "text-generation"
       }
     ],
     "models": [
@@ -721,6 +723,30 @@
   ],
   "hw_news": [
     {
+      "title": "小米卢伟冰：今年很多旗舰产品会用 n-1 代旗舰处理器，相信 REDMI K100 系列一定是“最香的”",
+      "link": "https://www.ithome.com/1/008/054.htm",
+      "time": "09-28 22:40",
+      "src": "IT之家"
+    },
+    {
+      "title": "ACEMAGIC 推出全球首款锐龙 AI Max+ PRO 495 处理器的 AI 迷你工作站，6499 美元",
+      "link": "https://www.ithome.com/1/008/043.htm",
+      "time": "09-28 22:07",
+      "src": "IT之家"
+    },
+    {
+      "title": "神舟优雅 X6 轻薄本新增酷睿 i5-13420H、16GB+500GB 配置，3999 元",
+      "link": "https://www.ithome.com/1/008/041.htm",
+      "time": "09-28 22:05",
+      "src": "IT之家"
+    },
+    {
+      "title": "雷柏带来 VT2 / VT2s Air MAX V2 鼠标：nRF54LM20 主控，329 元",
+      "link": "https://www.ithome.com/1/008/040.htm",
+      "time": "09-28 22:03",
+      "src": "IT之家"
+    },
+    {
       "title": "Bose 重返有线耳机市场，推出 99 美元主动降噪入耳式耳塞",
       "link": "https://www.ithome.com/1/008/031.htm",
       "time": "09-28 21:32",
@@ -733,7 +759,7 @@
       "src": "IT之家"
     },
     {
-      "title": "JBL LIVE BUDS 4 蓝牙耳机新增苹果橙配色：充电盒带 1.57 英寸彩屏，1599 元",
+      "title": "JBL Live Buds 4 蓝牙耳机新增苹果橙配色：充电盒带 1.57 英寸彩屏，1599 元",
       "link": "https://www.ithome.com/1/008/027.htm",
       "time": "09-28 21:21",
       "src": "IT之家"
@@ -751,45 +777,21 @@
       "src": "IT之家"
     },
     {
-      "title": "一台 192GB 内存版贵过两台 128GB 版！FEVM FAEX2 迷你主机上架",
-      "link": "https://www.ithome.com/1/008/011.htm",
-      "time": "09-28 20:28",
+      "title": "电竞退出亚运会后去哪里？首届亚洲电竞与智力运动会定在科威特",
+      "link": "https://www.cnbeta.com.tw/articles/game/1579886.htm",
+      "time": "09-28 14:09",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "华为公开智界 RX 跑“中国纽北”一镜到底视频，1:43.210 刷新浙赛国产品牌量产 SUV 最快圈速纪录",
+      "link": "https://finance.sina.com.cn/tech/digi/2026-09-28/doc-initkpfa2920892.shtml",
+      "time": "09-28 16:42",
       "src": "IT之家"
     },
     {
-      "title": "鸿蒙智行新品发布会一文汇总：华为余承东回应问界调整，智界 RX/R7 上市，享界 V8 亮相",
-      "link": "https://www.ithome.com/1/007/985.htm",
-      "time": "09-28 19:00",
-      "src": "IT之家"
-    },
-    {
-      "title": "荣耀 AI 耳夹耳机 FlyClip Pro 开启预约，支持无线充电、续航 44 小时",
-      "link": "https://www.ithome.com/1/007/981.htm",
-      "time": "09-28 18:55",
-      "src": "IT之家"
-    },
-    {
-      "title": "亚奥理事会：未宣布电竞将退出亚运会",
-      "link": "https://www.ithome.com/1/007/977.htm",
-      "time": "09-28 18:45",
-      "src": "IT之家"
-    },
-    {
-      "title": "联想来酷斗战者推出战 24E / 27E 显示器：1080P 144Hz，首发到手价 419 元起",
-      "link": "https://www.ithome.com/1/007/975.htm",
-      "time": "09-28 18:39",
-      "src": "IT之家"
-    },
-    {
-      "title": "荣耀 MagicBook Pro 16 极客版笔记本开售：酷睿 Ultra 5 125H，售价 6299 元起",
-      "link": "https://www.ithome.com/1/007/974.htm",
-      "time": "09-28 18:30",
-      "src": "IT之家"
-    },
-    {
-      "title": "零刻 GTR9 Pro 迷你主机新增 AMD 锐龙 AI Max+ PRO 495 旗舰版：128GB 内存 +2TB 硬盘，29998 元",
-      "link": "https://www.ithome.com/1/007/973.htm",
-      "time": "09-28 18:29",
+      "title": "华为余承东：智界 RX 提前迎接 L3 自动驾驶时代，正在公开城市快速路等复杂道路开展实测",
+      "link": "https://finance.sina.com.cn/tech/digi/2026-09-28/doc-initkhxf9732719.shtml",
+      "time": "09-28 15:11",
       "src": "IT之家"
     }
   ],
@@ -970,6 +972,12 @@
   "anime_industry": {
     "news": [
       {
+        "title": "《八仙！》进入中国影史动画电影票房榜前四，国产排名仅次于两部《哪吒》",
+        "link": "https://www.ithome.com/1/008/055.htm",
+        "time": "09-28 22:49",
+        "src": "IT之家"
+      },
+      {
         "title": "字节火山引擎发布 Seedance 影视合作计划：提供 Token 补贴，单项目激励最高达百万",
         "link": "https://finance.sina.com.cn/tech/digi/2026-09-28/doc-initkpex8530089.shtml",
         "time": "09-28 16:16",
@@ -1003,55 +1011,73 @@
   },
   "intl_news": [
     {
+      "title": "美国 FBI 确认遭黑客袭击：员工姓名、住址及社安号码等信息被泄露",
+      "link": "https://www.ithome.com/1/008/061.htm",
+      "time": "09-28 23:15",
+      "src": "IT之家"
+    },
+    {
+      "title": "ACEMAGIC 推出全球首款锐龙 AI Max+ PRO 495 处理器的 AI 迷你工作站，6499 美元",
+      "link": "https://www.ithome.com/1/008/043.htm",
+      "time": "09-28 22:07",
+      "src": "IT之家"
+    },
+    {
       "title": "漫威《蜘蛛侠：崭新之日》全球电影票房超 25 亿美元，数字版预计 10 月 6 日上线",
       "link": "https://www.ithome.com/1/008/014.htm",
       "time": "09-28 20:31",
       "src": "IT之家"
     },
     {
-      "title": "我国海水制氢技术获突破：国际首套热耦合海水制氢装置连续稳定运行超 1000 小时，成本最低降至 9.92 元 / kg",
-      "link": "https://www.ithome.com/1/008/008.htm",
-      "time": "09-28 20:17",
-      "src": "IT之家"
-    },
-    {
-      "title": "启元机器人全球首店落地上海，Q1、T1 进入线下销售",
-      "link": "https://www.ithome.com/1/007/947.htm",
-      "time": "09-28 17:41",
-      "src": "IT之家"
-    },
-    {
-      "title": "今年前八月广州对东盟进出口总额约1500亿元",
-      "link": "https://www.chinanews.com.cn/aseaninfo/2026/09-28/10705118.shtml",
-      "time": "09-28 21:33",
+      "title": "王毅会见日本国际贸易促进协会会长岩屋毅",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-29/10705184.shtml",
+      "time": "09-29 00:33",
       "src": "中新网"
     },
     {
-      "title": "四川文旅吸引东南亚目光  航线拓展与服务升级受关注",
-      "link": "https://www.chinanews.com.cn/aseaninfo/2026/09-28/10705116.shtml",
-      "time": "09-28 21:28",
+      "title": "2026中国国际孔子文化节在山东曲阜开幕 向世界传递“和合”之道",
+      "link": "https://www.chinanews.com.cn/cul/2026/09-28/10705170.shtml",
+      "time": "09-28 22:47",
       "src": "中新网"
     },
     {
-      "title": "中国—东盟视听周增进双方民众相知相亲",
-      "link": "https://www.chinanews.com.cn/aseaninfo/2026/09-28/10705114.shtml",
-      "time": "09-28 21:22",
+      "title": "预计伊朗外长28日将与美伊谈判调解方会面",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-28/10705164.shtml",
+      "time": "09-28 22:33",
       "src": "中新网"
     },
     {
-      "title": "特朗普全力拥抱人工智能 MAGA群情激愤",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1579894.htm",
-      "time": "09-28 15:15",
-      "src": "cnBeta.COM"
+      "title": "2026多彩贵州·第十九届中国原生态国际摄影大展开幕",
+      "link": "https://www.chinanews.com.cn/tp/2026/09-28/10705149.shtml",
+      "time": "09-28 22:31",
+      "src": "中新网"
     },
     {
-      "title": "SwizzY与Pixie夺得《堡垒之夜》2026全球冠军赛冠军 赢得40万美元奖金",
-      "link": "https://www.cnbeta.com.tw/articles/game/1579884.htm",
-      "time": "09-28 14:07",
-      "src": "cnBeta.COM"
+      "title": "智汇杭城 浙江杭州启动国际人才交流与项目合作大会",
+      "link": "https://www.chinanews.com.cn/tp/2026/09-28/10705151.shtml",
+      "time": "09-28 22:28",
+      "src": "中新网"
     }
   ],
   "econ_news": [
+    {
+      "title": "AI 初创公司 Instinct 完成 10 亿美元融资，投后估值达 100 亿美元",
+      "link": "https://www.ithome.com/1/008/060.htm",
+      "time": "09-28 23:08",
+      "src": "IT之家"
+    },
+    {
+      "title": "ACEMAGIC 推出全球首款锐龙 AI Max+ PRO 495 处理器的 AI 迷你工作站，6499 美元",
+      "link": "https://www.ithome.com/1/008/043.htm",
+      "time": "09-28 22:07",
+      "src": "IT之家"
+    },
+    {
+      "title": "希音公布上市后首份中期财报：2026 上半年净收入 201 亿美元同比增长 1%，订单量 5.49 亿同比增长 6.4%",
+      "link": "https://www.ithome.com/1/008/036.htm",
+      "time": "09-28 21:48",
+      "src": "IT之家"
+    },
     {
       "title": "Bose 重返有线耳机市场，推出 99 美元主动降噪入耳式耳塞",
       "link": "https://www.ithome.com/1/008/031.htm",
@@ -1071,37 +1097,31 @@
       "src": "IT之家"
     },
     {
-      "title": "16 岁少年用 AI 发现微软内部 API 漏洞：涉及超 17 万亿行数据，获 5000 美元赏金",
-      "link": "https://www.ithome.com/1/008/000.htm",
-      "time": "09-28 19:21",
-      "src": "IT之家"
-    },
-    {
-      "title": "今年前八月广州对东盟进出口总额约1500亿元",
-      "link": "https://www.chinanews.com.cn/aseaninfo/2026/09-28/10705118.shtml",
-      "time": "09-28 21:33",
+      "title": "王毅会见日本国际贸易促进协会会长岩屋毅",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-29/10705184.shtml",
+      "time": "09-29 00:33",
       "src": "中新网"
     },
     {
-      "title": "香港入境处料国庆黄金周约744万人次进出香港",
-      "link": "https://www.chinanews.com.cn/dwq/2026/09-28/10705117.shtml",
-      "time": "09-28 21:32",
+      "title": "巴西市场上调2026年通胀预期至4.99%",
+      "link": "https://www.chinanews.com.cn/cj/2026/09-28/10705180.shtml",
+      "time": "09-28 23:20",
       "src": "中新网"
-    },
-    {
-      "title": "（经济观察）三个关键词透视中美经贸新动向",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-28/10705113.shtml",
-      "time": "09-28 21:18",
-      "src": "中新网"
-    },
-    {
-      "title": "音乐制作人称电子游戏改变男性消费习惯 影响流行乐坛",
-      "link": "https://www.cnbeta.com.tw/articles/game/1579892.htm",
-      "time": "09-28 14:16",
-      "src": "cnBeta.COM"
     }
   ],
   "game_news": [
+    {
+      "title": "消息称《GTA6》发售后 R 星将转战开发《黑色洛城 2》 ：瞄准 2030 年发售，以旧金山为背景",
+      "link": "https://www.ithome.com/1/008/058.htm",
+      "time": "09-28 22:56",
+      "src": "IT之家"
+    },
+    {
+      "title": "索尼公布《战神：劳菲》游戏预购奖励，明日开启预购",
+      "link": "https://www.ithome.com/1/008/035.htm",
+      "time": "09-28 21:44",
+      "src": "IT之家"
+    },
     {
       "title": "开发者将《塞尔达传说：黄昏公主》游戏移植到任天堂 New 3DS 掌机，支持裸眼 3D",
       "link": "https://www.ithome.com/1/008/030.htm",
@@ -1109,46 +1129,34 @@
       "src": "IT之家"
     },
     {
-      "title": "一台 192GB 内存版贵过两台 128GB 版！FEVM FAEX2 迷你主机上架",
-      "link": "https://www.ithome.com/1/008/011.htm",
-      "time": "09-28 20:28",
-      "src": "IT之家"
+      "title": "一款运营了七年的武侠手游，是怎么活下来的？跟《烟雨江湖》主策划聊聊心路历程",
+      "link": "https://www.gcores.com/radios/220217",
+      "time": "09-28 23:00",
+      "src": "机核"
     },
     {
-      "title": "16 岁少年用 AI 发现微软内部 API 漏洞：涉及超 17 万亿行数据，获 5000 美元赏金",
-      "link": "https://www.ithome.com/1/008/000.htm",
-      "time": "09-28 19:21",
-      "src": "IT之家"
+      "title": "有自由度的平台跳跃：《噬莱姆计划》9月28日发售",
+      "link": "https://www.gcores.com/articles/220329",
+      "time": "09-28 17:27",
+      "src": "机核"
     },
     {
-      "title": "亚奥理事会：未宣布电竞将退出亚运会",
-      "link": "https://www.ithome.com/1/007/977.htm",
-      "time": "09-28 18:45",
-      "src": "IT之家"
+      "title": "足球模拟经营游戏新作《足球经理27》将于11月发售",
+      "link": "https://www.gcores.com/articles/220310",
+      "time": "09-28 11:43",
+      "src": "机核"
     },
     {
-      "title": "狠起来连自己人都打：微软 GitHub 禁止使用 Outlook 和 Hotmail 邮箱注册新号",
-      "link": "https://www.ithome.com/1/007/976.htm",
-      "time": "09-28 18:41",
-      "src": "IT之家"
+      "title": "微软CEO:游戏部门精简裁员“令人欣喜”",
+      "link": "https://www.gcores.com/articles/220294",
+      "time": "09-28 09:30",
+      "src": "机核"
     },
     {
-      "title": "零刻 GTR9 Pro 迷你主机新增 AMD 锐龙 AI Max+ PRO 495 旗舰版：128GB 内存 +2TB 硬盘，29998 元",
-      "link": "https://www.ithome.com/1/007/973.htm",
-      "time": "09-28 18:29",
-      "src": "IT之家"
-    },
-    {
-      "title": "4???? 元：极摩客 EVO-X5 Pro 桌面 AI 超算开启预约，10 月 9 日发售",
-      "link": "https://www.ithome.com/1/007/969.htm",
-      "time": "09-28 18:09",
-      "src": "IT之家"
-    },
-    {
-      "title": "史上最年轻亚运金牌得主：11岁小学生摘得《魔法气泡》电竞金牌",
-      "link": "https://www.ithome.com/1/007/961.htm",
-      "time": "09-28 17:53",
-      "src": "IT之家"
+      "title": "新游戏++在路上：《控制：共振》公布更新计划",
+      "link": "https://www.gcores.com/articles/220292",
+      "time": "09-28 09:05",
+      "src": "机核"
     }
   ],
   "game_update": [
@@ -1217,6 +1225,36 @@
       "src": "ISW"
     },
     {
+      "title": "美国 FBI 确认遭黑客袭击：员工姓名、住址及社安号码等信息被泄露",
+      "link": "https://www.ithome.com/1/008/061.htm",
+      "time": "09-28 23:15",
+      "src": "IT之家"
+    },
+    {
+      "title": "预计伊朗外长28日将与美伊谈判调解方会面",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-28/10705164.shtml",
+      "time": "09-28 22:33",
+      "src": "中新网"
+    },
+    {
+      "title": "中国军力的蜕变：从台海到非洲，走向何方？",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260928-%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%8A%9B%E7%9A%84%E8%9C%95%E5%8F%98-%E4%BB%8E%E5%8F%B0%E6%B5%B7%E5%88%B0%E9%9D%9E%E6%B4%B2%EF%BC%8C%E8%B5%B0%E5%90%91%E4%BD%95%E6%96%B9",
+      "time": "09-29 00:21",
+      "src": "© AP - Ng Han "
+    },
+    {
+      "title": "谈拥有核武器和核潜艇辩论 日防相：应不设禁忌、不预设结论地进行讨论",
+      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260928-%E8%B0%88%E6%8B%A5%E6%9C%89%E6%A0%B8%E6%AD%A6%E5%99%A8%E5%92%8C%E6%A0%B8%E6%BD%9C%E8%89%87%E8%BE%A9%E8%AE%BA-%E6%97%A5%E9%98%B2%E7%9B%B8-%E5%BA%94%E4%B8%8D%E8%AE%BE%E7%A6%81%E5%BF%8C-%E4%B8%8D%E9%A2%84%E8%AE%BE%E7%BB%93%E8%AE%BA%E5%9C%B0%E8%BF%9B%E8%A1%8C%E8%AE%A8%E8%AE%BA",
+      "time": "09-28 23:20",
+      "src": "© 美联社图片"
+    },
+    {
+      "title": "俄罗斯 : 俄美军控谈判本早应恢复",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260928-%E4%BF%84%E7%BD%97%E6%96%AF-%E4%BF%84%E7%BE%8E%E5%86%9B%E6%8E%A7%E8%B0%88%E5%88%A4%E6%9C%AC%E6%97%A9%E5%BA%94%E6%81%A2%E5%A4%8D",
+      "time": "09-28 21:45",
+      "src": "Ramil Sitdikov"
+    },
+    {
       "title": "赖清德:台湾要深化与民主伙伴在无人机领域的合作",
       "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260928-%E8%B5%96%E6%B8%85%E5%BE%B7-%E5%8F%B0%E6%B9%BE%E8%A6%81%E6%B7%B1%E5%8C%96%E4%B8%8E%E6%B0%91%E4%B8%BB%E4%BC%99%E4%BC%B4%E5%9C%A8%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%A2%86%E5%9F%9F%E7%9A%84%E5%90%88%E4%BD%9C",
       "time": "09-28 18:43",
@@ -1227,36 +1265,6 @@
       "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260928-%E8%B4%9D%E6%A3%AE%E7%89%B9-%E6%9C%AA%E6%9D%A5%E4%B8%A4%E5%91%A8%E5%86%85%EF%BC%8C%E4%BC%8A%E6%9C%97%E5%B0%86%E5%90%91%E4%B8%AD%E5%9B%BD%E4%BA%A4%E4%BB%98%E6%9C%80%E5%90%8E%E4%B8%80%E6%89%B9%E7%9F%B3%E6%B2%B9",
       "time": "09-28 18:37",
       "src": "© 路透社图片"
-    },
-    {
-      "title": "美驻华大使称特朗普曾问习近平是否有意购买美国武器 美国务院：法律禁止",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260928-%E7%BE%8E%E9%A9%BB%E5%8D%8E%E5%A4%A7%E4%BD%BF%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E6%9B%BE%E9%97%AE%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%98%AF%E5%90%A6%E6%9C%89%E6%84%8F%E8%B4%AD%E4%B9%B0%E7%BE%8E%E5%9B%BD%E6%AD%A6%E5%99%A8-%E7%BE%8E%E5%9B%BD%E5%8A%A1%E9%99%A2-%E6%B3%95%E5%BE%8B%E7%A6%81%E6%AD%A2",
-      "time": "09-28 16:47",
-      "src": "© 路透社图片"
-    },
-    {
-      "title": "美驻联合国大使沃尔兹表示 美国曾与中国就伊朗战争进行对话",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260927-%E7%BE%8E%E9%A9%BB%E8%81%94%E5%90%88%E5%9B%BD%E5%A4%A7%E4%BD%BF%E6%B2%83%E5%B0%94%E5%85%B9%E8%A1%A8%E7%A4%BA-%E7%BE%8E%E5%9B%BD%E6%9B%BE%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%B0%B1%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E8%BF%9B%E8%A1%8C%E5%AF%B9%E8%AF%9D",
-      "time": "09-28 05:48",
-      "src": "REUTERS - Nath"
-    },
-    {
-      "title": "特朗普预计本周恢复与伊朗谈判：霍尔木兹海峡双方僵持不下",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260927-%E7%89%B9%E6%9C%97%E6%99%AE%E9%A2%84%E8%AE%A1%E6%9C%AC%E5%91%A8%E6%81%A2%E5%A4%8D%E4%B8%8E%E4%BC%8A%E6%9C%97%E8%B0%88%E5%88%A4-%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E5%8F%8C%E6%96%B9%E5%83%B5%E6%8C%81%E4%B8%8D%E4%B8%8B",
-      "time": "09-28 05:22",
-      "src": "REUTERS - Nath"
-    },
-    {
-      "title": "英国驻有美军的空军基地附近 五人涉嫌筹备恐袭被捕",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260927-%E8%8B%B1%E5%9B%BD%E4%B8%80%E5%A4%84%E9%A9%BB%E6%9C%89%E7%BE%8E%E5%86%9B%E7%9A%84%E7%A9%BA%E5%86%9B%E5%9F%BA%E5%9C%B0%E9%99%84%E8%BF%91-%E4%BA%94%E4%BA%BA%E6%B6%89%E5%AB%8C%E7%AD%B9%E5%A4%87%E6%81%90%E8%A2%AD%E8%A2%AB%E6%8D%95",
-      "time": "09-28 05:40",
-      "src": "REUTERS - Cath"
-    },
-    {
-      "title": "中美峰會後 伊朗提出七天達成協議 被特朗普拒絕",
-      "link": "https://www.bbc.com/zhongwen/articles/cx5yln334jq5o/trad?at_medium=RSS&at_campaign=rss",
-      "time": "09-28 08:10",
-      "src": "BBC中文"
     }
   ]
 }
