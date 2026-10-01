@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01 13:28",
+  "generated_at": "2026-10-01 20:56",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -129,8 +129,8 @@
       }
     ],
     "status": {
-      "state": "交易中",
-      "label": "盘中实时行情",
+      "state": "已收盘",
+      "label": "今日已收盘",
       "date": "2026-10-01"
     },
     "watch": [
@@ -233,16 +233,28 @@
     ],
     "news": [
       {
-        "title": "比尔 · 盖茨：用机器人替代人类工作的公司也应纳税",
-        "link": "https://www.ithome.com/1/009/044.htm",
-        "time": "10-01 13:00",
+        "title": "AI 拉动半导体需求暴涨，韩国 9 月出口创历史新高",
+        "link": "https://www.ithome.com/1/009/096.htm",
+        "time": "10-01 16:28",
         "src": "IT之家"
       },
       {
-        "title": "华为余承东：Mate 90 系列是中国半导体行业的时代答卷，也是中国操作系统产业的创新答卷",
-        "link": "https://www.ithome.com/1/009/035.htm",
-        "time": "10-01 12:22",
-        "src": "IT之家"
+        "title": "云南昆明：国庆假期机器人登台“秀”技",
+        "link": "https://www.chinanews.com.cn/tp/2026/10-01/10706916.shtml",
+        "time": "10-01 20:38",
+        "src": "中新网"
+      },
+      {
+        "title": "比尔·盖茨再次呼吁征收机器人税",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1580336.htm",
+        "time": "10-01 15:17",
+        "src": "cnBeta.COM"
+      },
+      {
+        "title": "美光财报认为内存价格难现明显回落 人形机器人将带来新一轮存储需求浪潮",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1580294.htm",
+        "time": "10-01 14:15",
+        "src": "cnBeta.COM"
       },
       {
         "title": "草原上的數據中心：中國AI雄心背後的算力前線",
@@ -251,33 +263,21 @@
         "src": "BBC中文"
       },
       {
-        "title": "特朗普称应迫使鲍威尔辞去美联储理事职务",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initstui5391512.shtml",
-        "time": "10-01 12:14",
+        "title": "盘前：纳指期货涨0.6% AI相关个股上涨",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-inittqxx5155752.shtml",
+        "time": "10-01 20:30",
         "src": "环球市场播报"
       },
       {
-        "title": "高盛将美联储加息时间预期推迟至12月",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsttz6219998.shtml",
-        "time": "10-01 11:50",
+        "title": "日本央行意见摘要：部分委员主张必要时加快加息，较快接近利率目标",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-inittekf2036644.shtml",
+        "time": "10-01 15:55",
         "src": "环球市场播报"
       },
       {
-        "title": "日元兑美元跌向158 日本央行10月加息概率的预期降至不到20%",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initstui1355468.shtml",
-        "time": "10-01 10:39",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "日本央行会议纪要确认政策重点是防止通胀超出目标",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initspnp2204011.shtml",
-        "time": "10-01 09:56",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "机构：日本央行意见摘要不如预期鹰派 日元或承压",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initspnc6295793.shtml",
-        "time": "10-01 09:19",
+        "title": "欧央行启动寻找施纳贝尔继任者，迈入拉加德时代之后的第一步",
+        "link": "https://finance.sina.com.cn/world/2026-10-01/doc-initteki6703289.shtml",
+        "time": "10-01 15:46",
         "src": "环球市场播报"
       }
     ]
@@ -342,7 +342,7 @@
         "id": 665390,
         "name": "氷の城壁 第2期",
         "name_cn": "冰之城墙 第二季",
-        "score": 7.8,
+        "score": 7.7,
         "img": "http://lain.bgm.tv/pic/cover/c/e4/41/665390_UCHPM.jpg",
         "air_date": "2026-10-01",
         "rank": null
@@ -351,19 +351,10 @@
         "id": 622288,
         "name": "FX戦士くるみちゃん",
         "name_cn": "FX战士久留美",
-        "score": 7.2,
+        "score": 7.1,
         "img": "http://lain.bgm.tv/pic/cover/c/d3/99/622288_nmbC3.jpg",
         "air_date": "2026-10-01",
         "rank": 2003
-      },
-      {
-        "id": 577237,
-        "name": "仙逆剧场版 弑仙之战",
-        "name_cn": "仙逆剧场版 弑仙之战",
-        "score": 7.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/33/a4/577237_F15fl.jpg",
-        "air_date": "2026-10-01",
-        "rank": null
       },
       {
         "id": 590553,
@@ -372,6 +363,24 @@
         "score": 6.9,
         "img": "http://lain.bgm.tv/pic/cover/c/b6/e8/590553_Xz5PO.jpg",
         "air_date": "2026-10-08",
+        "rank": null
+      },
+      {
+        "id": 577237,
+        "name": "仙逆剧场版 弑仙之战",
+        "name_cn": "仙逆剧场版 弑仙之战",
+        "score": 6.7,
+        "img": "http://lain.bgm.tv/pic/cover/c/33/a4/577237_Cd0Cm.jpg",
+        "air_date": "2026-10-01",
+        "rank": null
+      },
+      {
+        "id": 705980,
+        "name": "熊出没之神奇宝物2",
+        "name_cn": "熊出没之神奇宝物 第二季",
+        "score": 6.0,
+        "img": "http://lain.bgm.tv/pic/cover/c/83/75/705980_zVjkX.jpg",
+        "air_date": "2026-10-01",
         "rank": null
       },
       {
@@ -409,15 +418,6 @@
         "img": "http://lain.bgm.tv/pic/cover/c/7d/06/704737_iWzS7.jpg",
         "air_date": "2026-10-01",
         "rank": null
-      },
-      {
-        "id": 705980,
-        "name": "熊出没之神奇宝物2",
-        "name_cn": "熊出没之神奇宝物 第二季",
-        "score": null,
-        "img": "http://lain.bgm.tv/pic/cover/c/83/75/705980_3tKYt.jpg",
-        "air_date": "2026-10-01",
-        "rank": null
       }
     ]
   },
@@ -448,89 +448,89 @@
   "ai": {
     "news_zh": [
       {
-        "title": "技嘉推出 AI TOP 100 B850 台式整机，支持 5090 单卡或 R9700 双卡",
-        "link": "https://www.ithome.com/1/009/046.htm",
-        "time": "10-01 13:01",
+        "title": "RDNA 4 原生支持 FP8：开发者成功让 AMD 显卡用上英伟达 DLSS 4，但目前性能仍不及 FSR 4",
+        "link": "https://www.ithome.com/1/009/140.htm",
+        "time": "10-01 19:57",
         "src": "IT之家"
       },
       {
-        "title": "比尔 · 盖茨：用机器人替代人类工作的公司也应纳税",
-        "link": "https://www.ithome.com/1/009/044.htm",
-        "time": "10-01 13:00",
+        "title": "日本电力巨头 JERA 牵手戴尔等伙伴，将在千叶建设该国最大 AI 数据中心",
+        "link": "https://www.ithome.com/1/009/119.htm",
+        "time": "10-01 18:10",
         "src": "IT之家"
       },
       {
-        "title": "马斯克沉寂数月的 AI 维基百科 Grokipedia 推出 v0.3 版本：界面更新，恢复内容编辑",
-        "link": "https://www.ithome.com/1/009/043.htm",
-        "time": "10-01 12:58",
+        "title": "OpenAI 称其遭遇有组织蒸馏，将矛头指向月之暗面",
+        "link": "https://www.ithome.com/1/009/112.htm",
+        "time": "10-01 17:49",
         "src": "IT之家"
       },
       {
-        "title": "华为余承东宣布麒麟开启「芯」纪元：旗舰 τ / 逻辑折叠 τ 芯片发布，Mate 90 全系搭载",
-        "link": "https://www.ithome.com/1/009/042.htm",
-        "time": "10-01 12:57",
+        "title": "AMD Gainsborough 神秘处理器曝光，业界推测为 Steam Deck 2 定制芯片",
+        "link": "https://www.ithome.com/1/009/111.htm",
+        "time": "10-01 17:38",
         "src": "IT之家"
       },
       {
-        "title": "Meta 否认 AI 智能体 Muse 未经许可读取用户私信：必须手动开多层权限才行",
-        "link": "https://www.ithome.com/1/009/029.htm",
-        "time": "10-01 11:55",
+        "title": "华为 Mate 90 系列及全场景新品发布会一文汇总：史上最强 Mate，四款麒麟芯片，手表耳机智慧屏上新",
+        "link": "https://www.ithome.com/1/009/101.htm",
+        "time": "10-01 16:45",
         "src": "IT之家"
       },
       {
-        "title": "旗下智能体被指试图入侵加拿大政府网站，OpenAI 回应称正审查并已通报",
-        "link": "https://www.ithome.com/1/009/025.htm",
-        "time": "10-01 11:41",
+        "title": "曝腾讯租用甲骨文东南亚数据中心：涉及约 10 万块先进 AI 芯片，交易估值约 70 亿美元",
+        "link": "https://www.ithome.com/1/009/100.htm",
+        "time": "10-01 16:45",
         "src": "IT之家"
       },
       {
-        "title": "华为 Mate90 系列手机升级鸿蒙 AI：小艺帮记滑一滑轻松记忆、图库助手实现一句话成片...",
-        "link": "https://www.ithome.com/1/009/019.htm",
-        "time": "10-01 11:17",
+        "title": "AI 拉动半导体需求暴涨，韩国 9 月出口创历史新高",
+        "link": "https://www.ithome.com/1/009/096.htm",
+        "time": "10-01 16:28",
         "src": "IT之家"
       },
       {
-        "title": "华为 Mate 90 Pro Max 典藏版旗舰手机发布：麒麟 9050 Pro 逻辑折叠 τ 芯片、6800mAh 电池，10999 元起",
-        "link": "https://www.ithome.com/1/009/018.htm",
-        "time": "10-01 11:16",
+        "title": "一字不改：加州州长纽森反击特朗普将“人工智能”改为“超级智能”，州政府范围内继续叫“AI”",
+        "link": "https://www.ithome.com/1/009/086.htm",
+        "time": "10-01 15:50",
         "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "Edge0/Audio8-ASR-Infinite",
-        "likes": 1968,
-        "downloads": 26749,
+        "likes": 1991,
+        "downloads": 27228,
         "pipeline": "automatic-speech-recognition"
       },
       {
         "id": "convaiinnovations/laya",
-        "likes": 4702,
+        "likes": 4742,
         "downloads": 0,
         "pipeline": "text-classification"
       },
       {
         "id": "XingChen-AGI/TeleOCR",
-        "likes": 1108,
-        "downloads": 30383,
+        "likes": 1129,
+        "downloads": 31584,
         "pipeline": "image-text-to-text"
       },
       {
-        "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-        "likes": 2597,
-        "downloads": 1232685,
-        "pipeline": "text-to-image"
-      },
-      {
         "id": "XiaomiMiMo/MiMo-V2.6-RL-oss",
-        "likes": 620,
-        "downloads": 47819,
+        "likes": 624,
+        "downloads": 53053,
         "pipeline": ""
       },
       {
+        "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "likes": 2629,
+        "downloads": 1303476,
+        "pipeline": "text-to-image"
+      },
+      {
         "id": "Contrastive-LM/CLM-v0.1-8B",
-        "likes": 578,
-        "downloads": 2392,
+        "likes": 583,
+        "downloads": 2720,
         "pipeline": "text-ranking"
       }
     ],
@@ -703,77 +703,76 @@
   ],
   "hw_news": [
     {
-      "title": "三星发布其首款夹式耳机 Galaxy Buds On：满电续航 9.5 小时，支持点头 / 摇头控制通话",
-      "link": "https://www.ithome.com/1/009/041.htm",
-      "time": "10-01 12:51",
+      "title": "RDNA 4 原生支持 FP8：开发者成功让 AMD 显卡用上英伟达 DLSS 4，但目前性能仍不及 FSR 4",
+      "link": "https://www.ithome.com/1/009/140.htm",
+      "time": "10-01 19:57",
       "src": "IT之家"
     },
     {
-      "title": "截至今年 8 月，华为无线耳机累计发货量突破一亿台",
-      "link": "https://www.ithome.com/1/009/021.htm",
-      "time": "10-01 11:27",
+      "title": "149 元起微软 Xbox 宜家联名家具发售：涵盖游戏椅、电视柜、笔记本电脑支架等",
+      "link": "https://www.ithome.com/1/009/139.htm",
+      "time": "10-01 19:46",
       "src": "IT之家"
     },
     {
-      "title": "9499 元起华为 Mate 90 Pro Max 手机发布：麒麟 9050 Pro、连续可变光圈主摄、双层 OLED 面板",
-      "link": "https://www.ithome.com/1/009/014.htm",
-      "time": "10-01 11:13",
+      "title": "AMD Gainsborough 神秘处理器曝光，业界推测为 Steam Deck 2 定制芯片",
+      "link": "https://www.ithome.com/1/009/111.htm",
+      "time": "10-01 17:38",
       "src": "IT之家"
     },
     {
-      "title": "华为 Mate 90 Pro 手机首发麒麟 9035 旗舰 τ 芯片，对比麒麟 9030 处理器 NPU 提升 51%",
-      "link": "https://www.ithome.com/1/009/001.htm",
-      "time": "10-01 10:28",
+      "title": "华为 Mate 90 系列及全场景新品发布会一文汇总：史上最强 Mate，四款麒麟芯片，手表耳机智慧屏上新",
+      "link": "https://www.ithome.com/1/009/101.htm",
+      "time": "10-01 16:45",
       "src": "IT之家"
     },
     {
-      "title": "罗技推出Zone Vibe Pro头戴式耳机 支持自适应降噪与蓝牙6.0 电池和头梁均可更换",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1580262.htm",
-      "time": "10-01 03:58",
+      "title": "万灵竞记推出花兽 V2 鼠标：镁锂合金外壳，TheShy 联名",
+      "link": "https://www.ithome.com/1/009/099.htm",
+      "time": "10-01 16:38",
+      "src": "IT之家"
+    },
+    {
+      "title": "CHERRY XTRFY 推出磁轴键盘 PIXIU68：16kHz 回报率，799 元",
+      "link": "https://www.ithome.com/1/009/087.htm",
+      "time": "10-01 16:02",
+      "src": "IT之家"
+    },
+    {
+      "title": "Windows 11 26H2开始改善内存占用 高配电脑受益明显 8GB设备仍难摆脱资源压力",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1580362.htm",
+      "time": "10-01 20:36",
       "src": "cnBeta.COM"
     },
     {
-      "title": "AOC推出首款原生1000Hz电竞显示器 24.5英寸Fast IPS面板最高可超频至1050Hz",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1580248.htm",
-      "time": "09-30 23:19",
+      "title": "实验性项目借助原生FP8能力让AMD Radeon RX 9000显卡运行DLSS 4.5",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1580356.htm",
+      "time": "10-01 20:34",
       "src": "cnBeta.COM"
     },
     {
-      "title": "iPhone 18 Pro Max拿下单周销量榜第一名 内存涨价让苹果霸榜高端市场",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1580234.htm",
-      "time": "09-30 21:52",
+      "title": "三星发布首款夹耳式耳机Galaxy Buds On 开放式设计 单次续航最长9.5小时",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1580350.htm",
+      "time": "10-01 20:27",
       "src": "cnBeta.COM"
     },
     {
-      "title": "采用插脚式电池的AirPods 5成苹果迄今最易维修耳机 但拆修仍困难",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1580226.htm",
-      "time": "09-30 21:44",
+      "title": "受内存成本影响 树莓派5 2GB版本价格再次上涨至77.5美元",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1580346.htm",
+      "time": "10-01 18:53",
       "src": "cnBeta.COM"
     },
     {
-      "title": "Windows 11第三方软件占用成顽疾 有用户发现雷蛇外设程序狂吞2GB内存",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1580224.htm",
-      "time": "09-30 21:43",
+      "title": "美光财报认为内存价格难现明显回落 人形机器人将带来新一轮存储需求浪潮",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1580294.htm",
+      "time": "10-01 14:15",
       "src": "cnBeta.COM"
     },
     {
-      "title": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单",
-      "link": "https://sspai.com/post/115153",
-      "time": "09-29 17:03",
-      "src": "少数派"
-    },
-    {
-      "title": "派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等",
-      "link": "https://sspai.com/post/115134",
-      "time": "09-29 08:09",
-      "src": "少数派"
-    },
-    {
-      "title": "携手王者荣耀职业联赛 儒意电影开拓电竞文化线下场景",
-      "link": "https://finance.sina.com.cn/roll/2026-09-30/doc-initqkpm2243215.shtml",
-      "time": "09-30 09:48",
-      "src": "新浪科技",
-      "type": "不停机更新"
+      "title": "Framework Ryzen AI Max+ PRO 495桌面主机首批迅速售罄 192GB内存版起售价高达6799美元",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1580288.htm",
+      "time": "10-01 14:12",
+      "src": "cnBeta.COM"
     }
   ],
   "kojima": {
@@ -947,6 +946,18 @@
   "anime_industry": {
     "news": [
       {
+        "title": "宝可梦大赛发生尴尬插曲 冠军被邻座选手体味熏至呕吐",
+        "link": "https://www.cnbeta.com.tw/articles/game/1580330.htm",
+        "time": "10-01 15:07",
+        "src": "cnBeta.COM"
+      },
+      {
+        "title": "Framework Ryzen AI Max+ PRO 495桌面主机首批迅速售罄 192GB内存版起售价高达6799美元",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1580288.htm",
+        "time": "10-01 14:12",
+        "src": "cnBeta.COM"
+      },
+      {
         "title": "《动画产业报告2025》: 市场规模达 3.84 万亿日元创历史新高, 海外占比约 56.5%",
         "link": "https://www.info35.net/hotopics/44871.html",
         "time": "精选",
@@ -974,109 +985,145 @@
   },
   "intl_news": [
     {
-      "title": "上汽通用五菱 9 月销量 132045 辆，1-9 月全球销量超 105 万辆",
-      "link": "https://www.ithome.com/1/009/036.htm",
-      "time": "10-01 12:23",
+      "title": "消息称苹果智能家居产品宣传物料已送往全球各大 Apple Store，预计 10 月 8 日解禁？",
+      "link": "https://www.ithome.com/1/009/148.htm",
+      "time": "10-01 20:49",
       "src": "IT之家"
     },
     {
-      "title": "零跑汽车 9 月全球交付 105656 台，同比增长 59%",
-      "link": "https://www.ithome.com/1/009/024.htm",
-      "time": "10-01 11:40",
+      "title": "对标劳斯莱斯等品牌？丰田欲将顶级豪华车型世极推向全球市场",
+      "link": "https://www.ithome.com/1/009/126.htm",
+      "time": "10-01 18:14",
       "src": "IT之家"
     },
     {
-      "title": "深蓝汽车 9 月全球销量 30185 辆：年内累计销量超 25 万辆，品牌第 100 万辆整车下线",
-      "link": "https://www.ithome.com/1/009/003.htm",
-      "time": "10-01 10:39",
+      "title": "福特 CEO 法利：美国应吸取欧洲教训，审慎对待中国车企入美",
+      "link": "https://www.ithome.com/1/009/110.htm",
+      "time": "10-01 17:31",
       "src": "IT之家"
     },
     {
-      "title": "“玲龙一号”装料在即 海南核电详解全球首堆安全逻辑",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-01/10706655.shtml",
-      "time": "10-01 13:16",
-      "src": "中新网"
+      "title": "欧盟出手整治游戏内氪金乱象，拳头、动视暴雪等 9 家大厂被点名",
+      "link": "https://www.ithome.com/1/009/103.htm",
+      "time": "10-01 16:57",
+      "src": "IT之家"
     },
     {
-      "title": "美媒：鲁比奥要求伊朗代表团立即离开美国",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-01/10706633.shtml",
-      "time": "10-01 11:59",
-      "src": "中新网"
+      "title": "曝腾讯租用甲骨文东南亚数据中心：涉及约 10 万块先进 AI 芯片，交易估值约 70 亿美元",
+      "link": "https://www.ithome.com/1/009/100.htm",
+      "time": "10-01 16:45",
+      "src": "IT之家"
     },
     {
-      "title": "英首相称有充分迹象表明伊朗参与英空军基地事件 伊方回应",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-01/10706629.shtml",
-      "time": "10-01 11:15",
-      "src": "中新网"
+      "title": "长安启源 9 月全球交付 46507 辆，累计销量突破 100 万辆",
+      "link": "https://www.ithome.com/1/009/091.htm",
+      "time": "10-01 16:09",
+      "src": "IT之家"
     },
     {
-      "title": "英国首相伯纳姆：英国可将重新加入欧盟列为选项",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1580230.htm",
-      "time": "09-30 21:47",
-      "src": "cnBeta.COM"
+      "title": "vivo X Fold6 折叠屏手机登陆全球市场，电池相比国行版缩减 100mAh",
+      "link": "https://www.ithome.com/1/009/090.htm",
+      "time": "10-01 16:08",
+      "src": "IT之家"
     },
     {
-      "title": "特朗普为何要给AI改名？黄仁勋、马斯克都已改口叫“SI”",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1580186.htm",
-      "time": "09-30 15:46",
-      "src": "cnBeta.COM"
+      "title": "“全球最小”：村田推出 3 端子多层陶瓷电容器，实装面积较此前产品减少约 64%",
+      "link": "https://www.ithome.com/1/009/088.htm",
+      "time": "10-01 16:02",
+      "src": "IT之家"
     }
   ],
   "econ_news": [
     {
-      "title": "英飞凌推出 USB-C 20Gbps PCIe 扩展卡参考设计，助力该接口工业应用",
-      "link": "https://www.ithome.com/1/009/053.htm",
-      "time": "10-01 13:22",
+      "title": "2GB 版树莓派 4 与树莓派 5 售价双双上调 12.5 美元，涨幅最高约 22.7%",
+      "link": "https://www.ithome.com/1/009/130.htm",
+      "time": "10-01 18:32",
       "src": "IT之家"
     },
     {
-      "title": "让游客“打分”变“点赞” 三亚织密旅游消费“放心网”",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706643.shtml",
-      "time": "10-01 13:05",
+      "title": "谷歌 Pixel 10a 手机在日本涨价：起售价升至 92800 日元，最高涨幅 16.15%",
+      "link": "https://www.ithome.com/1/009/106.htm",
+      "time": "10-01 17:01",
+      "src": "IT之家"
+    },
+    {
+      "title": "曝腾讯租用甲骨文东南亚数据中心：涉及约 10 万块先进 AI 芯片，交易估值约 70 亿美元",
+      "link": "https://www.ithome.com/1/009/100.htm",
+      "time": "10-01 16:45",
+      "src": "IT之家"
+    },
+    {
+      "title": "AI 拉动半导体需求暴涨，韩国 9 月出口创历史新高",
+      "link": "https://www.ithome.com/1/009/096.htm",
+      "time": "10-01 16:28",
+      "src": "IT之家"
+    },
+    {
+      "title": "软银完成对 OpenAI 最后一笔投资，300 亿美元承诺全部到位",
+      "link": "https://www.ithome.com/1/009/085.htm",
+      "time": "10-01 15:43",
+      "src": "IT之家"
+    },
+    {
+      "title": "美光科技 CEO 梅赫罗特拉：目前已锁定约 1500 亿美元长期订单，AI 存储需求紧张",
+      "link": "https://www.ithome.com/1/009/079.htm",
+      "time": "10-01 15:25",
+      "src": "IT之家"
+    },
+    {
+      "title": "“微醺”经济出圈 安徽休宁酒旅融合“酿”出产业新味",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-01/10706923.shtml",
+      "time": "10-01 20:47",
       "src": "中新网"
     },
     {
-      "title": "联邦快递斥资3亿美元向Harbinger订购2000辆电动卡车",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1580252.htm",
-      "time": "09-30 23:28",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "美国联邦贸易委员会对Anthropic、OpenAI及其他AI模型展开大范围调查",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1580228.htm",
-      "time": "09-30 21:46",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "亚马逊新款Fire TV Stick 4K可由电视USB口直接供电 售价59.99美元",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1580222.htm",
-      "time": "09-30 21:40",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "三星发布Galaxy Tab S12系列旗舰平板：性能全面提升 售价最高上涨200美元",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1580220.htm",
-      "time": "09-30 21:38",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "新墨西哥州陪审团裁定Facebook违规逾4300万次 Meta或面临数十亿美元罚款",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1580214.htm",
-      "time": "09-30 19:23",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "诺贝尔各奖项将揭晓 10月12日经济学奖花落谁家？",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1580190.htm",
-      "time": "09-30 15:55",
+      "title": "全球Apple Store零售店收到“10月8日前禁止开启”的保密箱体",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1580352.htm",
+      "time": "10-01 20:28",
       "src": "cnBeta.COM"
     }
   ],
   "game_news": [
     {
-      "title": "消息称顽皮狗正筹备《神秘海域》新作，游戏角色德雷克有望出现",
-      "link": "https://www.ithome.com/1/009/004.htm",
-      "time": "10-01 10:39",
+      "title": "149 元起微软 Xbox 宜家联名家具发售：涵盖游戏椅、电视柜、笔记本电脑支架等",
+      "link": "https://www.ithome.com/1/009/139.htm",
+      "time": "10-01 19:46",
+      "src": "IT之家"
+    },
+    {
+      "title": "育碧公布新品牌：创意事业部 2 更名 Massive Entertainment，统一管理多款知名 IP",
+      "link": "https://www.ithome.com/1/009/135.htm",
+      "time": "10-01 19:16",
+      "src": "IT之家"
+    },
+    {
+      "title": "微软发布 Win11 26H2 ISO 下载镜像，支持全新安装与升级",
+      "link": "https://www.ithome.com/1/009/113.htm",
+      "time": "10-01 18:05",
+      "src": "IT之家"
+    },
+    {
+      "title": "AMD Gainsborough 神秘处理器曝光，业界推测为 Steam Deck 2 定制芯片",
+      "link": "https://www.ithome.com/1/009/111.htm",
+      "time": "10-01 17:38",
+      "src": "IT之家"
+    },
+    {
+      "title": "欧盟出手整治游戏内氪金乱象，拳头、动视暴雪等 9 家大厂被点名",
+      "link": "https://www.ithome.com/1/009/103.htm",
+      "time": "10-01 16:57",
+      "src": "IT之家"
+    },
+    {
+      "title": "越野摩托竞速游戏《MXGP 26》发售，Steam 国区 170 元起",
+      "link": "https://www.ithome.com/1/009/093.htm",
+      "time": "10-01 16:12",
+      "src": "IT之家"
+    },
+    {
+      "title": "调研显示：超 85% 的日本游戏开发者正使用生成式 AI",
+      "link": "https://www.ithome.com/1/009/083.htm",
+      "time": "10-01 15:37",
       "src": "IT之家"
     },
     {
@@ -1084,45 +1131,16 @@
       "link": "https://www.gcores.com/articles/220434",
       "time": "10-01 10:00",
       "src": "机核"
-    },
-    {
-      "title": "草蜢工作室宣布与网易游戏分道扬镳",
-      "link": "https://www.gcores.com/articles/220435",
-      "time": "10-01 09:55",
-      "src": "机核"
-    },
-    {
-      "title": "米哈游《源初之结》过审：2026年9月份网络游戏审批信息公布",
-      "link": "https://www.gcores.com/articles/220426",
-      "time": "09-30 20:30",
-      "src": "机核"
-    },
-    {
-      "title": "游戏玩家的“最后一米”，终于被解决",
-      "link": "https://www.gcores.com/articles/220410",
-      "time": "09-30 20:08",
-      "src": "机核"
-    },
-    {
-      "title": "联机模拟经营游戏《鲨鱼超市》试玩版今日上线",
-      "link": "https://www.gcores.com/articles/220421",
-      "time": "09-30 17:33",
-      "src": "机核"
-    },
-    {
-      "title": "神秘学侦探推理解谜游戏《血墨诡案》试玩版今日上线",
-      "link": "https://www.gcores.com/articles/220419",
-      "time": "09-30 17:06",
-      "src": "机核"
-    },
-    {
-      "title": "让小赵安利几个他最喜欢的游戏，录音笔VOL.797",
-      "link": "https://www.gcores.com/radios/220407",
-      "time": "09-30 17:00",
-      "src": "机核"
     }
   ],
   "game_update": [
+    {
+      "title": "墨西哥两名议员提出数字商品立法倡议 拟要求游戏停服后仍可运行",
+      "link": "https://www.cnbeta.com.tw/articles/game/1580328.htm",
+      "time": "10-01 15:06",
+      "src": "cnBeta.COM",
+      "type": "停机维护"
+    },
     {
       "title": "两周年之后，《三角洲行动》如何让玩家不断找到下一局的理由？",
       "link": "https://finance.sina.com.cn/tech/it/2026-10-01/doc-initsyam6778497.shtml",
@@ -1171,13 +1189,6 @@
       "time": "8-06",
       "type": "不停机更新",
       "src": "腾讯官方"
-    },
-    {
-      "title": "《龙族幻想》8/13 凌晨3:00-08:00 停机版本更新: 卡塞尔之辉规则调整/极道巅峰优化, 维护后发放更新奖励",
-      "link": "https://dna.qq.com/webplat/info/news_version3/37362/61695/61696/m22835/202608/989696.shtml",
-      "time": "8-13",
-      "type": "停机维护",
-      "src": "腾讯官方"
     }
   ],
   "mil_news": [
@@ -1194,16 +1205,16 @@
       "src": "机核"
     },
     {
-      "title": "美媒：鲁比奥要求伊朗代表团立即离开美国",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-01/10706633.shtml",
-      "time": "10-01 11:59",
-      "src": "中新网"
+      "title": "铜有望成为帮助人体免疫系统增强对抗耐药性尿路感染的新武器",
+      "link": "https://www.cnbeta.com.tw/articles/science/1580354.htm",
+      "time": "10-01 20:32",
+      "src": "cnBeta.COM"
     },
     {
-      "title": "英首相称有充分迹象表明伊朗参与英空军基地事件 伊方回应",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-01/10706629.shtml",
-      "time": "10-01 11:15",
-      "src": "中新网"
+      "title": "中国市场卖出全球超三分之一折叠机 苹果能否在最大战场后来居上？",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1580316.htm",
+      "time": "10-01 14:54",
+      "src": "cnBeta.COM"
     },
     {
       "title": "一架从迪拜飞往以色列航班流血惊魂一幕 多亏乘客机智英勇",
@@ -1218,15 +1229,15 @@
       "src": "REUTERS - Nath"
     },
     {
-      "title": "美国制裁13个与伊朗武器采购有关的实体和个人 含伊朗军方后勤部驻京代表",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260930-%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%8113%E4%B8%AA%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%AD%A6%E5%99%A8%E9%87%87%E8%B4%AD%E6%9C%89%E5%85%B3%E7%9A%84%E5%AE%9E%E4%BD%93%E5%92%8C%E4%B8%AA%E4%BA%BA-%E5%90%AB%E4%BC%8A%E6%9C%97%E5%86%9B%E6%96%B9%E5%90%8E%E5%8B%A4%E9%83%A8%E9%A9%BB%E4%BA%AC%E4%BB%A3%E8%A1%A8",
-      "time": "09-30 18:23",
-      "src": "© 法新社图片"
-    },
-    {
       "title": "中國人工智慧工具「教導」研究人員製造生物武器",
       "link": "https://www.bbc.com/zhongwen/articles/c64grn5g7em2o/trad?at_medium=RSS&at_campaign=rss",
       "time": "09-30 10:20",
+      "src": "BBC中文"
+    },
+    {
+      "title": "伊朗女歌手演出不戴頭巾遭判笞刑74鞭 上訴遭駁回",
+      "link": "https://www.bbc.com/zhongwen/articles/cq5yj1dd5wxyo/trad?at_medium=RSS&at_campaign=rss",
+      "time": "09-29 15:00",
       "src": "BBC中文"
     }
   ]
