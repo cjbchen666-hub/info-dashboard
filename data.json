@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03 03:07",
+  "generated_at": "2026-10-03 07:40",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -251,12 +251,6 @@
         "src": "中新网"
       },
       {
-        "title": "杭州9月二手房成交创近六年同期新高",
-        "link": "https://www.chinanews.com.cn/cj/2026/10-02/10707312.shtml",
-        "time": "10-02 20:48",
-        "src": "中新网"
-      },
-      {
         "title": "英伟达股价自5月以来首次创历史新高 市值迈向6万亿美元",
         "link": "https://www.cnbeta.com.tw/articles/tech/1580512.htm",
         "time": "10-03 00:17",
@@ -269,15 +263,21 @@
         "src": "BBC中文"
       },
       {
-        "title": "美股本轮牛市迎来四周年",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwkuv5341288.shtml",
-        "time": "10-03 01:12",
-        "src": "环球市场播报"
+        "title": "日本央行加息仍难提振日元 对冲基金重新建立空头押注 美元多头仓位持续增加",
+        "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-03/doc-initwvkt6762636.shtml",
+        "time": "10-03 07:00",
+        "src": "智通财经APP"
       },
       {
-        "title": "法国财政困局冲击债市 欧洲央行的噩梦场景日益逼近",
-        "link": "https://finance.sina.com.cn/world/2026-10-03/doc-initwenv1203970.shtml",
-        "time": "10-03 00:46",
+        "title": "沃什淡化利率前瞻性指引 美联储两位高官讲话仍牵动市场 10月加息预期大幅降温",
+        "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-03/doc-initwvkr5157646.shtml",
+        "time": "10-03 07:00",
+        "src": "智通财经APP"
+      },
+      {
+        "title": "克利夫兰联储行长：美联储下次会前有时间权衡更多数据",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkm4176517.shtml",
+        "time": "10-03 06:59",
         "src": "环球市场播报"
       }
     ]
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 51145.06,
-      "pct": 0.43,
-      "chg": 218.5,
-      "amount": "1922179579亿"
+      "price": 51176.96,
+      "pct": 0.49,
+      "chg": 250.4,
+      "amount": "2809483215亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 27173.03,
-      "pct": 1.12,
-      "chg": 301.43,
-      "amount": "13914583719亿"
+      "price": 27190.86,
+      "pct": 1.19,
+      "chg": 319.26,
+      "amount": "18646151403亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7720.0,
-      "pct": 0.7,
-      "chg": 53.55,
-      "amount": "1503986253亿"
+      "price": 7722.72,
+      "pct": 0.73,
+      "chg": 56.27,
+      "amount": "2417233563亿"
     }
   ],
   "anime": {
@@ -354,7 +354,7 @@
         "score": 7.5,
         "img": "http://lain.bgm.tv/pic/cover/c/01/88/899_REwVW.jpg",
         "air_date": "1996-01-08",
-        "rank": 902
+        "rank": 903
       },
       {
         "id": 567896,
@@ -390,7 +390,7 @@
         "score": 6.5,
         "img": "http://lain.bgm.tv/pic/cover/c/f9/ae/616808_F80Sl.jpg",
         "air_date": "2026-10-03",
-        "rank": 3696
+        "rank": 3743
       },
       {
         "id": 637802,
@@ -514,7 +514,7 @@
   "ukraine": {
     "title": "Russian Offensive Campaign Assessment",
     "summary": "ISW’s Russia and Ukraine team produces the maps and analysis of record of the war in Ukraine. The Russian Offensive Campaign Assessment provides a synthetic running intelligence estimate of Putin’s political and military objectives in Ukraine and the design, prosecution, and outcomes of Russia’s war effort. ISW has published this update daily since Russia’s full-scale invasion of Ukraine in February 2022. Each update includes an assessment of the latest battlefield changes at the operational and tactical levels of war as well as an updated strategic assessment and forecast of the war’s trajectory along with numer",
-    "map_url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-october-1-2026-at-130-pm-et/",
+    "map_url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-october-2-2026-at-130-pm-et/",
     "url": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment",
     "links": [
       {
@@ -523,7 +523,7 @@
       },
       {
         "name": "ISW 官方地图页",
-        "url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-october-1-2026-at-130-pm-et/"
+        "url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-october-2-2026-at-130-pm-et/"
       },
       {
         "name": "实时战线地图 Liveuamap",
@@ -537,6 +537,18 @@
   },
   "ai": {
     "news_zh": [
+      {
+        "title": "苹果 homeOS 前瞻：整合 iOS / iPadOS / watchOS 特性，主打 Siri AI 交互",
+        "link": "https://www.ithome.com/1/009/380.htm",
+        "time": "10-03 07:34",
+        "src": "IT之家"
+      },
+      {
+        "title": "Anthropic 拟斥资 1 亿美元培训万名工程师，破解企业 AI 落地“人才荒”",
+        "link": "https://www.ithome.com/1/009/376.htm",
+        "time": "10-03 07:03",
+        "src": "IT之家"
+      },
       {
         "title": "继 AMD 后，高通、英特尔、英伟达硬件本月将全面支持微软高级着色器交付",
         "link": "https://www.ithome.com/1/009/373.htm",
@@ -568,58 +580,46 @@
         "src": "IT之家"
       },
       {
-        "title": "生图模型 FLUX 3 Image 发布：支持 4K 生成，可精准排布 AI 元素",
-        "link": "https://www.ithome.com/1/009/315.htm",
-        "time": "10-02 16:05",
-        "src": "IT之家"
-      },
-      {
-        "title": "日本法院首次确认声音受法律保护，“AI 声优”涉及侵犯形象权",
-        "link": "https://www.ithome.com/1/009/309.htm",
-        "time": "10-02 15:47",
-        "src": "IT之家"
-      },
-      {
-        "title": "英伟达股价自5月以来首次创历史新高 市值迈向6万亿美元",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1580512.htm",
-        "time": "10-03 00:17",
+        "title": "Meta开源Muse智能体硬件方案 普通开发板也能打造自己的AI设备",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1580528.htm",
+        "time": "10-03 06:01",
         "src": "cnBeta.COM"
       }
     ],
     "hf": [
       {
         "id": "convaiinnovations/laya",
-        "likes": 4954,
+        "likes": 5001,
         "downloads": 0,
         "pipeline": "text-classification"
       },
       {
         "id": "XiaomiMiMo/MiMo-V2.6-RL-oss",
-        "likes": 702,
+        "likes": 727,
         "downloads": 57802,
         "pipeline": ""
       },
       {
         "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-        "likes": 2804,
+        "likes": 2836,
         "downloads": 1376248,
         "pipeline": "text-to-image"
       },
       {
         "id": "Cloudflare/clef",
-        "likes": 704,
+        "likes": 768,
         "downloads": 824,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "Contrastive-LM/CLM-v0.1-8B",
-        "likes": 647,
+        "likes": 665,
         "downloads": 2951,
         "pipeline": "text-ranking"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 5955,
+        "likes": 5983,
         "downloads": 1584129,
         "pipeline": "image-to-video"
       }
@@ -841,13 +841,6 @@
       "src": "IT之家"
     },
     {
-      "title": "京瓷预热本月下旬在日本市场推出 DIGNO BX4 商用手机：4 年安卓版本更新、搭联发科天玑 6400 处理器",
-      "link": "https://www.ithome.com/1/009/311.htm",
-      "time": "10-02 15:52",
-      "src": "IT之家",
-      "type": "不停机更新"
-    },
-    {
       "title": "AMD Ryzen 9 5900X3D工程样品曝光：Zen 3架构再添X3D型号 L3缓存达到128MB",
       "link": "https://www.cnbeta.com.tw/articles/tech/1580524.htm",
       "time": "10-03 02:31",
@@ -863,6 +856,12 @@
       "title": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单",
       "link": "https://sspai.com/post/115153",
       "time": "09-29 17:03",
+      "src": "少数派"
+    },
+    {
+      "title": "派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等",
+      "link": "https://sspai.com/post/115134",
+      "time": "09-29 08:09",
       "src": "少数派"
     }
   ],
@@ -1037,12 +1036,6 @@
   "anime_industry": {
     "news": [
       {
-        "title": "日本法院首次确认声音受法律保护，“AI 声优”涉及侵犯形象权",
-        "link": "https://www.ithome.com/1/009/309.htm",
-        "time": "10-02 15:47",
-        "src": "IT之家"
-      },
-      {
         "title": "第二届RED LAND今日开岛：160+人气IP齐聚复兴岛，全球首创游戏二次元花车巡游",
         "link": "https://www.gcores.com/articles/220480",
         "time": "10-02 21:53",
@@ -1101,16 +1094,10 @@
       "src": "中新网"
     },
     {
-      "title": "香港廉署与联合国毒罪办共同发布全新《监狱贪污风险管理指南》",
-      "link": "https://www.chinanews.com.cn/dwq/2026/10-02/10707314.shtml",
-      "time": "10-02 20:50",
-      "src": "中新网"
-    },
-    {
-      "title": "金与正谴责韩方企图把朝鲜半岛局势再次拖入危险境地",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-02/10707296.shtml",
-      "time": "10-02 20:49",
-      "src": "中新网"
+      "title": "美国陆军将设自主系统司令部 五角大楼另筹建四星级自主战争司令部",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1580526.htm",
+      "time": "10-03 06:00",
+      "src": "cnBeta.COM"
     },
     {
       "title": "五家欧洲支付网络成立ENP 计划先打通跨境转账以降低对美国卡组织依赖",
@@ -1123,9 +1110,21 @@
       "link": "https://www.cnbeta.com.tw/articles/tech/1580516.htm",
       "time": "10-03 00:45",
       "src": "cnBeta.COM"
+    },
+    {
+      "title": "特斯拉第三季度交付48.65万辆 欧洲回升部分抵消美国市场下滑",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1580504.htm",
+      "time": "10-02 22:08",
+      "src": "cnBeta.COM"
     }
   ],
   "econ_news": [
+    {
+      "title": "Anthropic 拟斥资 1 亿美元培训万名工程师，破解企业 AI 落地“人才荒”",
+      "link": "https://www.ithome.com/1/009/376.htm",
+      "time": "10-03 07:03",
+      "src": "IT之家"
+    },
     {
       "title": "1100 亿美元超级并购：派拉蒙与华纳兄弟探索合并后将更名为“Skydance”",
       "link": "https://www.ithome.com/1/009/369.htm",
@@ -1157,25 +1156,25 @@
       "src": "IT之家"
     },
     {
-      "title": "万亿级车轮经济跑出新动能",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-02/10707331.shtml",
-      "time": "10-02 22:02",
+      "title": "美国9月非农就业增加2.9万 失业率4.2%",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-03/10707344.shtml",
+      "time": "10-03 06:42",
       "src": "中新网"
     },
     {
-      "title": "英伟达股价自5月以来首次创历史新高 市值迈向6万亿美元",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1580512.htm",
-      "time": "10-03 00:17",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "亚马逊拟将约80亿美元英伟达芯片转入融资载体 华尔街审视GPU抵押价值",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1580500.htm",
-      "time": "10-02 21:57",
-      "src": "cnBeta.COM"
+      "title": "今年9月欧元区通胀率升至3.8%创近三年新高",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-03/10707342.shtml",
+      "time": "10-03 06:40",
+      "src": "中新网"
     }
   ],
   "game_news": [
+    {
+      "title": "微软发布 Win11 Beta 和 Experimental 频道多版本预览版，支持 Unicode 17.0 文本、优化设置主页性能",
+      "link": "https://www.ithome.com/1/009/374.htm",
+      "time": "10-03 01:05",
+      "src": "IT之家"
+    },
     {
       "title": "继 AMD 后，高通、英特尔、英伟达硬件本月将全面支持微软高级着色器交付",
       "link": "https://www.ithome.com/1/009/373.htm",
@@ -1218,13 +1217,6 @@
       "link": "https://www.gcores.com/articles/220480",
       "time": "10-02 21:53",
       "src": "机核"
-    },
-    {
-      "title": "搜打撤游戏《绝地求生：黑域撤离》宣布中止开发",
-      "link": "https://www.gcores.com/articles/220471",
-      "time": "10-02 17:03",
-      "src": "机核",
-      "type": "不停机更新"
     }
   ],
   "game_update": [
@@ -1248,13 +1240,6 @@
       "time": "10-02 17:01",
       "src": "IT之家",
       "type": "停机维护"
-    },
-    {
-      "title": "京瓷预热本月下旬在日本市场推出 DIGNO BX4 商用手机：4 年安卓版本更新、搭联发科天玑 6400 处理器",
-      "link": "https://www.ithome.com/1/009/311.htm",
-      "time": "10-02 15:52",
-      "src": "IT之家",
-      "type": "不停机更新"
     },
     {
       "title": "搜打撤游戏《绝地求生：黑域撤离》宣布中止开发",
@@ -1283,6 +1268,13 @@
       "time": "8-13",
       "type": "不停机更新",
       "src": "拳头官方"
+    },
+    {
+      "title": "《王者荣耀》8/8 6:00-8:00 全服不停机更新: 超极限狂潮玩法数值优化与问题修复",
+      "link": "https://3.pvp.qq.com/web201605/newsDetail.shtml?G_Biz=18&tid=806689",
+      "time": "8-08",
+      "type": "不停机更新",
+      "src": "王者荣耀官网"
     }
   ],
   "mil_news": [
@@ -1317,22 +1309,22 @@
       "src": "中新网"
     },
     {
+      "title": "美国陆军将设自主系统司令部 五角大楼另筹建四星级自主战争司令部",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1580526.htm",
+      "time": "10-03 06:00",
+      "src": "cnBeta.COM"
+    },
+    {
       "title": "匈牙利前外长西雅尔多将因就职比亚迪涉嫌利益冲突与国家安全被传唤出庭",
       "link": "https://www.cnbeta.com.tw/articles/tech/1580516.htm",
       "time": "10-03 00:45",
       "src": "cnBeta.COM"
     },
     {
-      "title": "迪拜航空袭击事件：特朗普称怀疑与伊朗有关 威胁对其重击",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261002-%E8%BF%AA%E6%8B%9C%E8%88%AA%E7%A9%BA%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%80%80%E7%96%91%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%9C%89%E5%85%B3-%E5%A8%81%E8%83%81%E5%AF%B9%E5%85%B6%E9%87%8D%E5%87%BB",
-      "time": "10-02 23:04",
-      "src": "AP Photo/Ohad "
-    },
-    {
-      "title": "普京：若领土遭攻击 将动用所有武器 不排除核武",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261002-%E6%99%AE%E4%BA%AC-%E8%8B%A5%E9%A2%86%E5%9C%9F%E9%81%AD%E6%94%BB%E5%87%BB-%E5%B0%86%E5%8A%A8%E7%94%A8%E6%89%80%E6%9C%89%E6%AD%A6%E5%99%A8-%E4%B8%8D%E6%8E%92%E9%99%A4%E6%A0%B8%E6%AD%A6",
-      "time": "10-02 22:06",
-      "src": "© 路透社视频截图"
+      "title": "北京人正在和自己的无人机“断舍离”，他们真的舍不得啊！",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261002-%E5%8C%97%E4%BA%AC%E4%BA%BA%E6%AD%A3%E5%9C%A8%E5%92%8C%E8%87%AA%E5%B7%B1%E7%9A%84%E6%97%A0%E4%BA%BA%E6%9C%BA-%E6%96%AD%E8%88%8D%E7%A6%BB-%EF%BC%8C%E4%BB%96%E4%BB%AC%E7%9C%9F%E7%9A%84%E8%88%8D%E4%B8%8D%E5%BE%97%E5%95%8A",
+      "time": "10-03 06:33",
+      "src": "法广RFI"
     }
   ]
 }
