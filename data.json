@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04 00:05",
+  "generated_at": "2026-10-04 04:55",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -333,7 +333,7 @@
         "id": 548156,
         "name": "アオのハコ Season 2",
         "name_cn": "青之箱 第二季",
-        "score": 7.7,
+        "score": 7.6,
         "img": "http://lain.bgm.tv/pic/cover/c/f1/6c/548156_n0qcY.jpg",
         "air_date": "2026-10-04",
         "rank": null
@@ -342,7 +342,7 @@
         "id": 555605,
         "name": "アオアシ Season 2",
         "name_cn": "青之芦苇 第二季",
-        "score": 7.3,
+        "score": 7.2,
         "img": "http://lain.bgm.tv/pic/cover/c/67/5a/555605_cLCw5.jpg",
         "air_date": "2026-10-04",
         "rank": null
@@ -387,17 +387,8 @@
         "id": 630160,
         "name": "ダークサモナーとデキている",
         "name_cn": "黑暗召唤师在地下恋爱中",
-        "score": 6.7,
+        "score": 6.4,
         "img": "http://lain.bgm.tv/pic/cover/c/9e/b5/630160_tL25y.jpg",
-        "air_date": "2026-10-04",
-        "rank": null
-      },
-      {
-        "id": 647220,
-        "name": "彼女の友達",
-        "name_cn": "女友的朋友",
-        "score": 6.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/24/df/647220_cZZjY.jpg",
         "air_date": "2026-10-04",
         "rank": null
       },
@@ -411,11 +402,11 @@
         "rank": null
       },
       {
-        "id": 636023,
-        "name": "TANK CHAIR-戦車椅子-",
-        "name_cn": "战车椅子",
-        "score": 5.5,
-        "img": "http://lain.bgm.tv/pic/cover/c/94/c9/636023_iF8j7.jpg",
+        "id": 647220,
+        "name": "彼女の友達",
+        "name_cn": "女友的朋友",
+        "score": 5.6,
+        "img": "http://lain.bgm.tv/pic/cover/c/24/df/647220_cZZjY.jpg",
         "air_date": "2026-10-04",
         "rank": null
       },
@@ -435,6 +426,15 @@
         "score": 5.4,
         "img": "http://lain.bgm.tv/pic/cover/c/ec/f9/621073_oFcZ3.jpg",
         "air_date": "2026-10-11",
+        "rank": null
+      },
+      {
+        "id": 636023,
+        "name": "TANK CHAIR-戦車椅子-",
+        "name_cn": "战车椅子",
+        "score": 5.3,
+        "img": "http://lain.bgm.tv/pic/cover/c/94/c9/636023_iF8j7.jpg",
+        "air_date": "2026-10-04",
         "rank": null
       },
       {
@@ -598,39 +598,39 @@
     "hf": [
       {
         "id": "convaiinnovations/laya",
-        "likes": 5048,
+        "likes": 5070,
         "downloads": 0,
         "pipeline": "text-classification"
       },
       {
         "id": "Cloudflare/clef",
-        "likes": 929,
+        "likes": 966,
         "downloads": 2620,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-        "likes": 2901,
+        "likes": 2912,
         "downloads": 1455921,
         "pipeline": "text-to-image"
       },
       {
         "id": "XiaomiMiMo/MiMo-V2.6-RL-oss",
-        "likes": 754,
+        "likes": 757,
         "downloads": 65274,
         "pipeline": ""
       },
       {
-        "id": "Contrastive-LM/CLM-v0.1-8B",
-        "likes": 688,
-        "downloads": 3190,
-        "pipeline": "text-ranking"
-      },
-      {
         "id": "Lightricks/LTX-2.5",
-        "likes": 6076,
+        "likes": 6109,
         "downloads": 1629984,
         "pipeline": "image-to-video"
+      },
+      {
+        "id": "Contrastive-LM/CLM-v0.1-8B",
+        "likes": 690,
+        "downloads": 3190,
+        "pipeline": "text-ranking"
       }
     ],
     "models": [
@@ -1158,12 +1158,6 @@
       "src": "IT之家"
     },
     {
-      "title": "分析公司 Alinea：预计 Steam 平台 2026 年收入将首次突破 200 亿美元",
-      "link": "https://www.ithome.com/1/009/501.htm",
-      "time": "10-03 16:08",
-      "src": "IT之家"
-    },
-    {
       "title": "工业母机产业链如何高质量发展？院士专家共议新路径",
       "link": "https://www.chinanews.com.cn/cj/2026/10-03/10707667.shtml",
       "time": "10-03 22:30",
@@ -1174,9 +1168,21 @@
       "link": "https://www.chinanews.com.cn/cj/2026/10-03/10707662.shtml",
       "time": "10-03 22:13",
       "src": "中新网"
+    },
+    {
+      "title": "晶采观察丨从“看景”到“入景” 解锁国庆文旅消费新趋势",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-03/10707650.shtml",
+      "time": "10-03 21:54",
+      "src": "中新网"
     }
   ],
   "game_news": [
+    {
+      "title": "华为 Mate 90 Pro Max 性能解禁：搭载麒麟 9050 Pro，部分游戏能效优于第五代骁龙 8 至尊版机型",
+      "link": "https://www.ithome.com/1/009/580.htm",
+      "time": "10-04 00:20",
+      "src": "IT之家"
+    },
     {
       "title": "泰坦军团“P2511G+”24.5 英寸显示器发售：1080P 215Hz 超频，509 元",
       "link": "https://www.ithome.com/1/009/578.htm",
@@ -1217,12 +1223,6 @@
       "title": "《黄金矿工：派对狂欢》将于 11 月 17 日登陆 Steam，支持 2–6 人多人在线游戏",
       "link": "https://www.ithome.com/1/009/518.htm",
       "time": "10-03 17:42",
-      "src": "IT之家"
-    },
-    {
-      "title": "小米 Vision GT 十月即将正式入驻 Gran Turismo 7，成为游戏史上的首台中国 Vision GT",
-      "link": "https://www.ithome.com/1/009/517.htm",
-      "time": "10-03 17:29",
       "src": "IT之家"
     }
   ],
@@ -1316,22 +1316,22 @@
       "src": "中新网"
     },
     {
+      "title": "科学家发现一类化合物可同时攻击疟原虫多个阶段 抗癌药物或成抗疟疾新武器",
+      "link": "https://www.cnbeta.com.tw/articles/science/1580606.htm",
+      "time": "10-04 02:12",
+      "src": "cnBeta.COM"
+    },
+    {
       "title": "《使命召唤：现代战争4》新预告 展示朝鲜对韩国发动大规模入侵的战役剧情",
       "link": "https://www.cnbeta.com.tw/articles/game/1580546.htm",
       "time": "10-03 13:56",
       "src": "cnBeta.COM"
     },
     {
-      "title": "美国陆军将设自主系统司令部 五角大楼另筹建四星级自主战争司令部",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1580526.htm",
-      "time": "10-03 06:00",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "俄乌战争持续 俄罗斯将削减社会支出并提升国防预算26%",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20261003-%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%89%E6%8C%81%E7%BB%AD-%E4%BF%84%E7%BD%97%E6%96%AF%E5%B0%86%E5%89%8A%E5%87%8F%E7%A4%BE%E4%BC%9A%E6%94%AF%E5%87%BA%E5%B9%B6%E6%8F%90%E5%8D%87%E5%9B%BD%E9%98%B2%E9%A2%84%E7%AE%9726",
-      "time": "10-03 20:03",
-      "src": "法广RFI"
+      "title": "俄罗斯再次袭击基辅一座大桥 再次呼吁外国人离开",
+      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261003-%E4%BF%84%E7%BD%97%E6%96%AF%E5%86%8D%E6%AC%A1%E8%A2%AD%E5%87%BB%E5%9F%BA%E8%BE%85%E4%B8%80%E5%BA%A7%E5%A4%A7%E6%A1%A5-%E5%86%8D%E6%AC%A1%E5%91%BC%E5%90%81%E5%A4%96%E5%9B%BD%E4%BA%BA%E7%A6%BB%E5%BC%80",
+      "time": "10-04 00:38",
+      "src": "© ZelenskyyUa视"
     }
   ]
 }
