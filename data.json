@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04 23:14",
+  "generated_at": "2026-10-05 03:29",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -129,9 +129,9 @@
       }
     ],
     "status": {
-      "state": "休市",
-      "label": "周末休市",
-      "date": "2026-10-04"
+      "state": "未开盘",
+      "label": "今日尚未开盘",
+      "date": "2026-10-05"
     },
     "watch": [
       {
@@ -233,16 +233,40 @@
     ],
     "news": [
       {
+        "title": "机器人格斗公司 REK 举办真人与机器人笼斗赛被叫停：未取得许可组织活动",
+        "link": "https://www.ithome.com/1/009/736.htm",
+        "time": "10-04 23:22",
+        "src": "IT之家"
+      },
+      {
         "title": "英伟达与鸿海展示自动化成果，机器人组装 GB300 的母线成功率超 95%",
         "link": "https://www.ithome.com/1/009/665.htm",
         "time": "10-04 16:17",
         "src": "IT之家"
       },
       {
+        "title": "MIT超薄肌肉机器人靠蓝光驱动 在水中以每分钟4倍体长前进",
+        "link": "https://www.cnbeta.com.tw/articles/science/1580694.htm",
+        "time": "10-05 00:04",
+        "src": "cnBeta.COM"
+      },
+      {
         "title": "草原上的數據中心：中國AI雄心背後的算力前線",
         "link": "https://www.bbc.com/zhongwen/articles/crje8gjn3nl5o/trad?at_medium=RSS&at_campaign=rss",
         "time": "09-23 21:24",
         "src": "BBC中文"
+      },
+      {
+        "title": "白宫国家经济委员会主任哈塞特：鲍威尔应该离开美联储理事会",
+        "link": "https://finance.sina.com.cn/world/2026-10-05/doc-iniuawyw0052960.shtml",
+        "time": "10-05 01:07",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "环球一周展望：美欧央行纪要料凸显通胀忧虑 惟加息紧迫性已降温",
+        "link": "https://finance.sina.com.cn/world/2026-10-04/doc-iniuassv3513119.shtml",
+        "time": "10-04 23:56",
+        "src": "环球市场播报"
       },
       {
         "title": "伊朗央行投放20亿美元仍未止跌，里亚尔再创历史新低",
@@ -255,30 +279,6 @@
         "link": "https://finance.sina.com.cn/tob/2026-10-03/doc-initxfym4958643.shtml",
         "time": "10-03 10:31",
         "src": "新浪财经"
-      },
-      {
-        "title": "余承东：Mate 90系列是中国半导体行业的时代答卷，也是中国操作系统产业的创新答卷",
-        "link": "https://finance.sina.com.cn/tob/2026-10-01/doc-initstui1371690.shtml",
-        "time": "10-01 11:28",
-        "src": "新浪科技"
-      },
-      {
-        "title": "美股三大指数收涨 纳指、英伟达盘中创新高",
-        "link": "https://finance.sina.com.cn/jjxw/2026-10-03/doc-initwvkt6766348.shtml",
-        "time": "10-03 07:27",
-        "src": "证券时报网"
-      },
-      {
-        "title": "克利夫兰联储行长：美联储下次会前有时间权衡更多数据",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkm4176517.shtml",
-        "time": "10-03 06:59",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "11家内地机器人公司赴港IPO，行业分化初现，机构聚焦头部",
-        "link": "https://finance.sina.com.cn/roll/2026-10-04/doc-iniuahce0279618.shtml",
-        "time": "10-04 18:14",
-        "src": "市场资讯"
       }
     ]
   },
@@ -342,7 +342,7 @@
         "id": 511936,
         "name": "ロメリア戦記",
         "name_cn": "罗梅莉亚战记",
-        "score": 6.2,
+        "score": 6.3,
         "img": "http://lain.bgm.tv/pic/cover/c/dc/f7/511936_XDkXO.jpg",
         "air_date": "2026-10-05",
         "rank": null
@@ -421,6 +421,12 @@
   "ai": {
     "news_zh": [
       {
+        "title": "机器人格斗公司 REK 举办真人与机器人笼斗赛被叫停：未取得许可组织活动",
+        "link": "https://www.ithome.com/1/009/736.htm",
+        "time": "10-04 23:22",
+        "src": "IT之家"
+      },
+      {
         "title": "乐山大佛景区回应网传“掏耳朵”养护作业视频：系 AI 合成，佛耳内并无所谓“杂物”",
         "link": "https://www.ithome.com/1/009/728.htm",
         "time": "10-04 21:20",
@@ -461,50 +467,44 @@
         "link": "https://www.ithome.com/1/009/665.htm",
         "time": "10-04 16:17",
         "src": "IT之家"
-      },
-      {
-        "title": "美国买家曝购买英伟达 RTX 5090 整机时遭经销商要求签署“转售承诺”：禁止带出境，概不例外",
-        "link": "https://www.ithome.com/1/009/661.htm",
-        "time": "10-04 15:49",
-        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "Cloudflare/clef",
-        "likes": 1109,
+        "likes": 1156,
         "downloads": 4214,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "convaiinnovations/laya",
-        "likes": 5122,
+        "likes": 5141,
         "downloads": 3752,
         "pipeline": "text-classification"
       },
       {
         "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-        "likes": 3032,
+        "likes": 3082,
         "downloads": 1553744,
         "pipeline": "text-to-image"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 6229,
+        "likes": 6267,
         "downloads": 1626951,
         "pipeline": "image-to-video"
       },
       {
         "id": "Cloudflare/clef-flash",
-        "likes": 402,
+        "likes": 417,
         "downloads": 6372,
         "pipeline": "image-text-to-text"
       },
       {
-        "id": "Qwen/Qwen3.8-27B",
-        "likes": 16911,
-        "downloads": 6821761,
-        "pipeline": "image-text-to-text"
+        "id": "Aleph-Alpha/Kolibri-1",
+        "likes": 368,
+        "downloads": 1135,
+        "pipeline": "text-generation"
       }
     ],
     "models": [
@@ -1014,12 +1014,6 @@
       "src": "IT之家"
     },
     {
-      "title": "2026 年国庆假期有关部门将发放超 3.1 亿元消费券，叠加地方配套补贴激活市场活力",
-      "link": "https://www.ithome.com/1/009/655.htm",
-      "time": "10-04 15:19",
-      "src": "IT之家"
-    },
-    {
       "title": "假期提示：遭遇霸王条款和消费陷阱 如何维权？",
       "link": "https://www.chinanews.com.cn/sh/2026/10-04/10707986.shtml",
       "time": "10-04 22:33",
@@ -1047,6 +1041,12 @@
       "title": "雷诺未来五年将在法国再投超100亿欧元 加码电动车和更低价车型",
       "link": "https://www.cnbeta.com.tw/articles/tech/1580666.htm",
       "time": "10-04 15:06",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "波音赢得美国海军F/A-XX下一代舰载战斗机合同 研发阶段价值逾200亿美元",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1580624.htm",
+      "time": "10-04 14:18",
       "src": "cnBeta.COM"
     }
   ],
@@ -1196,16 +1196,16 @@
       "src": "中新网"
     },
     {
+      "title": "埃塞俄比亚冲突：华盛顿呼吁克制，埃及召开小型峰会",
+      "link": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20261004-%E5%9F%83%E5%A1%9E%E4%BF%84%E6%AF%94%E4%BA%9A%E5%86%B2%E7%AA%81-%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%91%BC%E5%90%81%E5%85%8B%E5%88%B6%EF%BC%8C%E5%9F%83%E5%8F%8A%E5%8F%AC%E5%BC%80%E5%B0%8F%E5%9E%8B%E5%B3%B0%E4%BC%9A",
+      "time": "10-05 00:07",
+      "src": "© Will & Deni "
+    },
+    {
       "title": "菲律宾袭击非法网络赌博窝点宣布逮捕200多名外国人“大多数是中国人”",
       "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261004-%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%A2%AD%E5%87%BB%E9%9D%9E%E6%B3%95%E7%BD%91%E7%BB%9C%E8%B5%8C%E5%8D%9A%E7%AA%9D%E7%82%B9-%E5%AE%A3%E5%B8%83%E9%80%AE%E6%8D%95200%E5%A4%9A%E5%90%8D%E5%A4%96%E5%9B%BD%E4%BA%BA-%E5%A4%A7%E5%A4%9A%E6%95%B0%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA",
       "time": "10-04 22:41",
       "src": "AP Photo/Aaron"
-    },
-    {
-      "title": "胡塞武装袭击沙特首都利雅得石油设施 也门政府军轰炸胡塞在首都萨那的目标",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20261004-%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E8%A2%AD%E5%87%BB%E6%B2%99%E7%89%B9%E9%A6%96%E9%83%BD%E5%88%A9%E9%9B%85%E5%BE%97%E7%9F%B3%E6%B2%B9%E8%AE%BE%E6%96%BD-%E4%B9%9F%E9%97%A8%E6%94%BF%E5%BA%9C%E5%86%9B%E8%BD%B0%E7%82%B8%E8%83%A1%E5%A1%9E%E5%9C%A8%E9%A6%96%E9%83%BD%E8%90%A8%E9%82%A3%E7%9A%84%E7%9B%AE%E6%A0%87",
-      "time": "10-04 21:23",
-      "src": "REUTERS - Stri"
     }
   ]
 }
