@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05 03:29",
+  "generated_at": "2026-10-05 06:58",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -345,7 +345,7 @@
         "score": 6.3,
         "img": "http://lain.bgm.tv/pic/cover/c/dc/f7/511936_XDkXO.jpg",
         "air_date": "2026-10-05",
-        "rank": null
+        "rank": 4420
       },
       {
         "id": 390200,
@@ -397,7 +397,7 @@
   "ukraine": {
     "title": "Russian Offensive Campaign Assessment",
     "summary": "ISW’s Russia and Ukraine team produces the maps and analysis of record of the war in Ukraine. The Russian Offensive Campaign Assessment provides a synthetic running intelligence estimate of Putin’s political and military objectives in Ukraine and the design, prosecution, and outcomes of Russia’s war effort. ISW has published this update daily since Russia’s full-scale invasion of Ukraine in February 2022. Each update includes an assessment of the latest battlefield changes at the operational and tactical levels of war as well as an updated strategic assessment and forecast of the war’s trajectory along with numer",
-    "map_url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-october-3-2026-at-130-pm-et/",
+    "map_url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-october-4-2026-at-130-pm-et/",
     "url": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment",
     "links": [
       {
@@ -406,7 +406,7 @@
       },
       {
         "name": "ISW 官方地图页",
-        "url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-october-3-2026-at-130-pm-et/"
+        "url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-october-4-2026-at-130-pm-et/"
       },
       {
         "name": "实时战线地图 Liveuamap",
@@ -472,37 +472,37 @@
     "hf": [
       {
         "id": "Cloudflare/clef",
-        "likes": 1156,
+        "likes": 1196,
         "downloads": 4214,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "convaiinnovations/laya",
-        "likes": 5141,
+        "likes": 5160,
         "downloads": 3752,
         "pipeline": "text-classification"
       },
       {
         "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-        "likes": 3082,
+        "likes": 3127,
         "downloads": 1553744,
         "pipeline": "text-to-image"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 6267,
+        "likes": 6298,
         "downloads": 1626951,
         "pipeline": "image-to-video"
       },
       {
         "id": "Cloudflare/clef-flash",
-        "likes": 417,
+        "likes": 424,
         "downloads": 6372,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "Aleph-Alpha/Kolibri-1",
-        "likes": 368,
+        "likes": 387,
         "downloads": 1135,
         "pipeline": "text-generation"
       }
@@ -958,16 +958,28 @@
       "src": "IT之家"
     },
     {
-      "title": "雷诺未来五年将在法国再投超 100 亿欧元，加码电动车和经济型汽车",
-      "link": "https://www.ithome.com/1/009/656.htm",
-      "time": "10-04 15:20",
-      "src": "IT之家"
-    },
-    {
       "title": "第二届RED LAND今日开岛：160+人气IP齐聚复兴岛，全球首创游戏二次元花车巡游",
       "link": "https://www.gcores.com/articles/220480",
       "time": "10-02 21:53",
       "src": "机核"
+    },
+    {
+      "title": "巴西总统选举开启首轮投票",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-05/10707998.shtml",
+      "time": "10-05 06:42",
+      "src": "中新网"
+    },
+    {
+      "title": "沙特主导联军称将继续向也门政府提供支持 应对胡塞武装袭击",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-05/10708002.shtml",
+      "time": "10-05 06:41",
+      "src": "中新网"
+    },
+    {
+      "title": "初步调查显示迪拜航空袭击者系单独作案",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-05/10708001.shtml",
+      "time": "10-05 06:39",
+      "src": "中新网"
     },
     {
       "title": "伊朗强调同时准备“谈判和战斗”",
@@ -986,18 +998,6 @@
       "link": "https://www.chinanews.com.cn/ydyl/2026/10-04/10707981.shtml",
       "time": "10-04 22:53",
       "src": "中新网"
-    },
-    {
-      "title": "伊朗军方称将提升导弹射程",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-04/10707989.shtml",
-      "time": "10-04 22:49",
-      "src": "中新网"
-    },
-    {
-      "title": "联合国人道主义车队在苏丹南部遇袭 1名司机遇难",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-04/10707988.shtml",
-      "time": "10-04 22:39",
-      "src": "中新网"
     }
   ],
   "econ_news": [
@@ -1005,12 +1005,6 @@
       "title": "Meta 开启 2026 年度 VR Start 开发者竞赛：奖金池百万美元、鼓励为 VR Glasses 全新头显打造手部追踪应用",
       "link": "https://www.ithome.com/1/009/677.htm",
       "time": "10-04 16:56",
-      "src": "IT之家"
-    },
-    {
-      "title": "雷诺未来五年将在法国再投超 100 亿欧元，加码电动车和经济型汽车",
-      "link": "https://www.ithome.com/1/009/656.htm",
-      "time": "10-04 15:20",
       "src": "IT之家"
     },
     {
@@ -1032,10 +1026,10 @@
       "src": "中新网"
     },
     {
-      "title": "一张票根“链”起全域消费 演唱会经济燃动山东黄金周",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-04/10707955.shtml",
-      "time": "10-04 21:03",
-      "src": "中新网"
+      "title": "一个免费测速网站，靠你的网速数据值12亿美元？",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1580702.htm",
+      "time": "10-05 04:15",
+      "src": "cnBeta.COM"
     },
     {
       "title": "雷诺未来五年将在法国再投超100亿欧元 加码电动车和更低价车型",
@@ -1044,10 +1038,16 @@
       "src": "cnBeta.COM"
     },
     {
-      "title": "波音赢得美国海军F/A-XX下一代舰载战斗机合同 研发阶段价值逾200亿美元",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1580624.htm",
-      "time": "10-04 14:18",
-      "src": "cnBeta.COM"
+      "title": "不安全的中国机械——德国机械设备制造业联合会要求禁止进口",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261004-%E4%B8%8D%E5%AE%89%E5%85%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%9C%BA%E6%A2%B0-%E5%BE%B7%E5%9B%BD%E6%9C%BA%E6%A2%B0%E8%AE%BE%E5%A4%87%E5%88%B6%E9%80%A0%E4%B8%9A%E8%81%94%E5%90%88%E4%BC%9A%E8%A6%81%E6%B1%82%E7%A6%81%E6%AD%A2%E8%BF%9B%E5%8F%A3",
+      "time": "10-05 06:55",
+      "src": "REUTERS - Nico"
+    },
+    {
+      "title": "默茨访乌承诺逾13亿欧元援助 美国10月底与俄乌代表举行三方会谈",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261004-%E9%BB%98%E8%8C%A8%E8%AE%BF%E4%B9%8C%E6%89%BF%E8%AF%BA%E9%80%BE13%E4%BA%BF%E6%AC%A7%E5%85%83%E6%8F%B4%E5%8A%A9-%E7%BE%8E%E5%9B%BD10%E6%9C%88%E5%BA%95%E4%B8%8E%E4%BF%84%E4%B9%8C%E4%BB%A3%E8%A1%A8%E4%B8%BE%E8%A1%8C%E4%B8%89%E6%96%B9%E4%BC%9A%E8%B0%88",
+      "time": "10-05 05:36",
+      "src": "REUTERS - Thom"
     }
   ],
   "game_news": [
@@ -1178,6 +1178,18 @@
       "src": "机核"
     },
     {
+      "title": "沙特主导联军称将继续向也门政府提供支持 应对胡塞武装袭击",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-05/10708002.shtml",
+      "time": "10-05 06:41",
+      "src": "中新网"
+    },
+    {
+      "title": "初步调查显示迪拜航空袭击者系单独作案",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-05/10708001.shtml",
+      "time": "10-05 06:39",
+      "src": "中新网"
+    },
+    {
       "title": "冲绳民众就驻日美军涉嫌杀人案发出愤怒声音",
       "link": "https://www.chinanews.com.cn/gj/2026/10-04/10707993.shtml",
       "time": "10-04 22:57",
@@ -1194,18 +1206,6 @@
       "link": "https://www.chinanews.com.cn/gj/2026/10-04/10707989.shtml",
       "time": "10-04 22:49",
       "src": "中新网"
-    },
-    {
-      "title": "埃塞俄比亚冲突：华盛顿呼吁克制，埃及召开小型峰会",
-      "link": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20261004-%E5%9F%83%E5%A1%9E%E4%BF%84%E6%AF%94%E4%BA%9A%E5%86%B2%E7%AA%81-%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%91%BC%E5%90%81%E5%85%8B%E5%88%B6%EF%BC%8C%E5%9F%83%E5%8F%8A%E5%8F%AC%E5%BC%80%E5%B0%8F%E5%9E%8B%E5%B3%B0%E4%BC%9A",
-      "time": "10-05 00:07",
-      "src": "© Will & Deni "
-    },
-    {
-      "title": "菲律宾袭击非法网络赌博窝点宣布逮捕200多名外国人“大多数是中国人”",
-      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261004-%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%A2%AD%E5%87%BB%E9%9D%9E%E6%B3%95%E7%BD%91%E7%BB%9C%E8%B5%8C%E5%8D%9A%E7%AA%9D%E7%82%B9-%E5%AE%A3%E5%B8%83%E9%80%AE%E6%8D%95200%E5%A4%9A%E5%90%8D%E5%A4%96%E5%9B%BD%E4%BA%BA-%E5%A4%A7%E5%A4%9A%E6%95%B0%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA",
-      "time": "10-04 22:41",
-      "src": "AP Photo/Aaron"
     }
   ]
 }
