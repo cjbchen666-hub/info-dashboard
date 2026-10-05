@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05 22:19",
+  "generated_at": "2026-10-06 06:28",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -129,9 +129,9 @@
       }
     ],
     "status": {
-      "state": "已收盘",
-      "label": "今日已收盘",
-      "date": "2026-10-05"
+      "state": "未开盘",
+      "label": "今日尚未开盘",
+      "date": "2026-10-06"
     },
     "watch": [
       {
@@ -233,6 +233,12 @@
     ],
     "news": [
       {
+        "title": "纳指盘中再创历史新高：SpaceX 涨逾 5%，英伟达涨超 1% 再度逼近历史新高",
+        "link": "https://www.ithome.com/1/009/904.htm",
+        "time": "10-06 00:08",
+        "src": "IT之家"
+      },
+      {
         "title": "鸿海 9 月销售额 1.16 万亿元新台币创新高，同比增长 38.4％",
         "link": "https://www.ithome.com/1/009/837.htm",
         "time": "10-05 16:14",
@@ -263,21 +269,15 @@
         "src": "BBC中文"
       },
       {
-        "title": "英伟达或将迎来6万亿美元市值里程碑。期权交易员预判达成时间",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-05/doc-iniuevrx9464660.shtml",
-        "time": "10-05 22:05",
+        "title": "SpaceX涨超7% 马斯克重返万亿富翁行列",
+        "link": "https://finance.sina.com.cn/world/2026-10-06/doc-iniufnpt6001392.shtml",
+        "time": "10-06 05:37",
         "src": "环球市场播报"
       },
       {
-        "title": "欧洲央行管委Nagel称通胀路径不确定 欧洲央行必须保持灵活",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-05/doc-iniuevrx4162930.shtml",
-        "time": "10-05 21:23",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "机器人初创企业RobCo估值达到10亿美元",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-05/doc-iniuerkc6333915.shtml",
-        "time": "10-05 20:49",
+        "title": "美国股市：科技巨头力撑大盘走高 标普500指数逼近纪录高位",
+        "link": "https://finance.sina.com.cn/world/2026-10-06/doc-iniufnpp2275375.shtml",
+        "time": "10-06 05:22",
         "src": "环球市场播报"
       }
     ]
@@ -294,111 +294,120 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 51130.48,
-      "pct": -0.09,
-      "chg": -46.48,
-      "amount": "468000664亿"
+      "price": 51267.9,
+      "pct": 0.18,
+      "chg": 90.94,
+      "amount": "2419257204亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 27366.11,
-      "pct": 0.64,
-      "chg": 175.25,
-      "amount": "4524160998亿"
+      "price": 27477.31,
+      "pct": 1.05,
+      "chg": 286.45,
+      "amount": "19350157844亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7754.7,
-      "pct": 0.41,
-      "chg": 31.98,
-      "amount": "383269278亿"
+      "price": 7773.95,
+      "pct": 0.66,
+      "chg": 51.23,
+      "amount": "2699893568亿"
     }
   ],
   "anime": {
-    "date": "10-05",
-    "weekday": "月",
+    "date": "10-06",
+    "weekday": "火",
     "items": [
       {
-        "id": 418229,
-        "name": "魔法少女育成計画 restart",
-        "name_cn": "魔法少女育成计划 restart",
-        "score": 8.1,
-        "img": "http://lain.bgm.tv/pic/cover/c/52/fe/418229_gcFij.jpg",
-        "air_date": "2026-10-05",
+        "id": 544378,
+        "name": "Battle Spirits [Re] 絶界の空",
+        "name_cn": "战斗之魂[Re] 绝界之空",
+        "score": 10.0,
+        "img": "http://lain.bgm.tv/pic/cover/c/ec/af/544378_j3ouu.jpg",
+        "air_date": "2026-10-06",
         "rank": null
       },
       {
-        "id": 390200,
-        "name": "列女战纪：女娲石记",
-        "name_cn": "列女战纪：女娲石记",
+        "id": 505550,
+        "name": "Dark Machine The Animation",
+        "name_cn": "",
+        "score": 7.8,
+        "img": "http://lain.bgm.tv/pic/cover/c/84/86/505550_OLQmz.jpg",
+        "air_date": "2026-10-13",
+        "rank": null
+      },
+      {
+        "id": 624085,
+        "name": "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録",
+        "name_cn": "乱世千金倪亚‧利斯顿转生为娇弱千金的弑神武人华丽无双录",
+        "score": 7.3,
+        "img": "http://lain.bgm.tv/pic/cover/c/c6/8d/624085_5dXDL.jpg",
+        "air_date": "2026-10-06",
+        "rank": null
+      },
+      {
+        "id": 513878,
+        "name": "Cyberpunk: Edgerunners 2",
+        "name_cn": "赛博朋克：边缘行者 2",
+        "score": 7.2,
+        "img": "http://lain.bgm.tv/pic/cover/c/db/94/513878_54i56.jpg",
+        "air_date": "2026-10-20",
+        "rank": null
+      },
+      {
+        "id": 634708,
+        "name": "塩対応の佐藤さんが俺にだけ甘い",
+        "name_cn": "冷淡的佐藤同学只对我撒娇",
         "score": 7.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/1c/b4/390200_1IA55.jpg",
-        "air_date": "2026-10-05",
+        "img": "http://lain.bgm.tv/pic/cover/c/39/84/634708_NnWAS.jpg",
+        "air_date": "2026-10-06",
         "rank": null
       },
       {
-        "id": 511936,
-        "name": "ロメリア戦記",
-        "name_cn": "罗梅莉亚战记",
-        "score": 6.4,
-        "img": "http://lain.bgm.tv/pic/cover/c/dc/f7/511936_XDkXO.jpg",
-        "air_date": "2026-10-05",
-        "rank": 4420
-      },
-      {
-        "id": 624923,
-        "name": "どうも、好きな人に惚れ薬を依頼された魔女です。",
-        "name_cn": "你好，我是受心上人所托来做恋爱药的魔女。",
-        "score": 6.4,
-        "img": "http://lain.bgm.tv/pic/cover/c/73/99/624923_4u99L.jpg",
-        "air_date": "2026-10-05",
+        "id": 625799,
+        "name": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。",
+        "name_cn": "被放逐的作弊赋予魔术师享受随心所欲的第二人生。",
+        "score": 6.8,
+        "img": "http://lain.bgm.tv/pic/cover/c/af/3a/625799_ycox6.jpg",
+        "air_date": "2026-10-06",
         "rank": null
       },
       {
-        "id": 707667,
-        "name": "猫猫のひとりごと 第3期",
-        "name_cn": "猫猫的呢喃 第三季",
-        "score": 6.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/44/89/707667_JL0l8.jpg",
-        "air_date": "2026-10-05",
+        "id": 593565,
+        "name": "超巡！超条先輩",
+        "name_cn": "超巡！超条前辈",
+        "score": 5.5,
+        "img": "http://lain.bgm.tv/pic/cover/c/af/c1/593565_nno0j.jpg",
+        "air_date": "2026-10-06",
         "rank": null
       },
       {
-        "id": 634587,
-        "name": "転生ゴブリンだけど質問ある？",
-        "name_cn": "转生哥布林有问题吗？",
-        "score": 5.6,
-        "img": "http://lain.bgm.tv/pic/cover/c/05/25/634587_8k4k7.jpg",
-        "air_date": "2026-10-05",
+        "id": 541538,
+        "name": "幻想水滸伝",
+        "name_cn": "幻想水浒传",
+        "score": 5.2,
+        "img": "http://lain.bgm.tv/pic/cover/c/ee/12/541538_LxzAg.jpg",
+        "air_date": "2026-10-03",
         "rank": null
       },
       {
-        "id": 614640,
-        "name": "PSYREN -サイレン-",
-        "name_cn": "PSYREN -决战游戏-",
-        "score": null,
-        "img": "http://lain.bgm.tv/pic/cover/c/1b/1e/614640_ESMLl.jpg",
-        "air_date": "2026-10-05",
+        "id": 584847,
+        "name": "千歳くんはラムネ瓶のなか 第2クール",
+        "name_cn": "弹珠汽水瓶里的千岁同学 第2部分",
+        "score": 4.5,
+        "img": "http://lain.bgm.tv/pic/cover/c/83/49/584847_5nM0F.jpg",
+        "air_date": "2026-10-13",
         "rank": null
       },
       {
-        "id": 688204,
-        "name": "ゆうさんち！from 遊ハち",
+        "id": 709326,
+        "name": "Kiff: Scarm II: The Screamwriter",
         "name_cn": "",
         "score": null,
-        "img": "http://lain.bgm.tv/pic/cover/c/0b/d4/688204_mSshl.jpg",
-        "air_date": "2026-10-05",
-        "rank": null
-      },
-      {
-        "id": 708080,
-        "name": "Family Guy: Happy Hell-O-Ween",
-        "name_cn": "",
-        "score": null,
-        "img": "http://lain.bgm.tv/pic/cover/c/42/85/708080_kx2E6.jpg",
-        "air_date": "2026-10-05",
+        "img": "http://lain.bgm.tv/pic/cover/c/94/b5/709326_Fsz6K.jpg",
+        "air_date": "2026-10-06",
         "rank": null
       }
     ]
@@ -406,7 +415,7 @@
   "ukraine": {
     "title": "Russian Offensive Campaign Assessment",
     "summary": "ISW’s Russia and Ukraine team produces the maps and analysis of record of the war in Ukraine. The Russian Offensive Campaign Assessment provides a synthetic running intelligence estimate of Putin’s political and military objectives in Ukraine and the design, prosecution, and outcomes of Russia’s war effort. ISW has published this update daily since Russia’s full-scale invasion of Ukraine in February 2022. Each update includes an assessment of the latest battlefield changes at the operational and tactical levels of war as well as an updated strategic assessment and forecast of the war’s trajectory along with numer",
-    "map_url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-october-4-2026-at-130-pm-et/",
+    "map_url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-october-5-2026-at-130-pm-et/",
     "url": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment",
     "links": [
       {
@@ -415,7 +424,7 @@
       },
       {
         "name": "ISW 官方地图页",
-        "url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-october-4-2026-at-130-pm-et/"
+        "url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-october-5-2026-at-130-pm-et/"
       },
       {
         "name": "实时战线地图 Liveuamap",
@@ -429,6 +438,24 @@
   },
   "ai": {
     "news_zh": [
+      {
+        "title": "纳指盘中再创历史新高：SpaceX 涨逾 5%，英伟达涨超 1% 再度逼近历史新高",
+        "link": "https://www.ithome.com/1/009/904.htm",
+        "time": "10-06 00:08",
+        "src": "IT之家"
+      },
+      {
+        "title": "OpenAI 将在欧盟为 ChatGPT 和 Codex 文本输出添加隐形水印",
+        "link": "https://www.ithome.com/1/009/903.htm",
+        "time": "10-05 23:58",
+        "src": "IT之家"
+      },
+      {
+        "title": "OpenAI 将在 ChatGPT 中推出全新图片广告形式，不会影响生成结果",
+        "link": "https://www.ithome.com/1/009/901.htm",
+        "time": "10-05 23:01",
+        "src": "IT之家"
+      },
       {
         "title": "英伟达 RTX Spark 笔记本 OLED 屏幕供应商曝光：三星六款、LG 一款",
         "link": "https://www.ithome.com/1/009/872.htm",
@@ -448,70 +475,52 @@
         "src": "IT之家"
       },
       {
-        "title": "开发者自制 ForceWare 382.69 非官方驱动，让 32 位 Windows XP 系统支持英伟达 GTX 10 系 Pascal 架构显卡",
-        "link": "https://www.ithome.com/1/009/832.htm",
-        "time": "10-05 15:54",
-        "src": "IT之家"
+        "title": "Anthropic、OpenAI、谷歌与Meta高管将出席纽约市议会AI风险听证会",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1580816.htm",
+        "time": "10-05 22:58",
+        "src": "cnBeta.COM"
       },
       {
         "title": "报告称中国已储备343台浸没式DUV光刻机 或具备持续推进7纳米芯片生产能力",
         "link": "https://www.cnbeta.com.tw/articles/tech/1580810.htm",
         "time": "10-05 21:45",
         "src": "cnBeta.COM"
-      },
-      {
-        "title": "加州叫停真人大战人形机器人赛事 网红遭机器人拳脚击倒引发监管介入",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1580804.htm",
-        "time": "10-05 20:23",
-        "src": "cnBeta.COM"
-      },
-      {
-        "title": "华为与高通达成多年期专利许可协议 覆盖5G、计算、人工智能及网络领域",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1580772.htm",
-        "time": "10-05 16:10",
-        "src": "cnBeta.COM"
-      },
-      {
-        "title": "美国等17国支持《京都愿景》：扩大科研AI与算力使用 推动科研资助改革",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1580766.htm",
-        "time": "10-05 16:07",
-        "src": "cnBeta.COM"
       }
     ],
     "hf": [
       {
         "id": "Cloudflare/clef",
-        "likes": 1333,
+        "likes": 1448,
         "downloads": 5416,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "convaiinnovations/laya",
-        "likes": 5201,
+        "likes": 5227,
         "downloads": 11733,
         "pipeline": "text-classification"
       },
       {
         "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-        "likes": 3207,
+        "likes": 3249,
         "downloads": 1638838,
         "pipeline": "text-to-image"
       },
       {
         "id": "Aleph-Alpha/Kolibri-1",
-        "likes": 545,
+        "likes": 615,
         "downloads": 2453,
         "pipeline": "text-generation"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 6414,
+        "likes": 6481,
         "downloads": 1645444,
         "pipeline": "image-to-video"
       },
       {
         "id": "Cloudflare/clef-flash",
-        "likes": 473,
+        "likes": 512,
         "downloads": 8075,
         "pipeline": "image-text-to-text"
       }
@@ -745,16 +754,16 @@
       "src": "IT之家"
     },
     {
-      "title": "开发者自制 ForceWare 382.69 非官方驱动，让 32 位 Windows XP 系统支持英伟达 GTX 10 系 Pascal 架构显卡",
-      "link": "https://www.ithome.com/1/009/832.htm",
-      "time": "10-05 15:54",
-      "src": "IT之家"
+      "title": "最早发布却最难见到 英特尔Nova Lake BFC版本送样受到严格管控",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1580782.htm",
+      "time": "10-05 16:49",
+      "src": "cnBeta.COM"
     },
     {
-      "title": "狼蛛 A8 镂空电竞头戴式耳机上架：约 235g 重量、40mm 单元，299.2 元起",
-      "link": "https://www.ithome.com/1/009/830.htm",
-      "time": "10-05 15:45",
-      "src": "IT之家"
+      "title": "民间驱动为Titan Xp等Pascal显卡加入Windows XP支持",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1580764.htm",
+      "time": "10-05 14:12",
+      "src": "cnBeta.COM"
     }
   ],
   "kojima": {
@@ -967,15 +976,22 @@
   },
   "intl_news": [
     {
-      "title": "手游《恋与深空》国际服官方账号分享“鸡尾酒配方”，因其中使用有毒植物作为装饰引发争议",
-      "link": "https://www.ithome.com/1/009/866.htm",
-      "time": "10-05 20:21",
+      "title": "OpenAI 将在欧盟为 ChatGPT 和 Codex 文本输出添加隐形水印",
+      "link": "https://www.ithome.com/1/009/903.htm",
+      "time": "10-05 23:58",
       "src": "IT之家"
     },
     {
-      "title": "德国第二大城市汉堡计划为公交地铁引入信用卡“拍卡乘车”机制，预计 2030 年前后准备就绪",
-      "link": "https://www.ithome.com/1/009/828.htm",
-      "time": "10-05 15:33",
+      "title": "2026《英雄联盟》S16 全球总决赛 10 月 16 日开赛，11 月 15 日冠亚军决赛",
+      "link": "https://www.ithome.com/1/009/902.htm",
+      "time": "10-05 23:23",
+      "src": "IT之家",
+      "type": "不停机更新"
+    },
+    {
+      "title": "手游《恋与深空》国际服官方账号分享“鸡尾酒配方”，因其中使用有毒植物作为装饰引发争议",
+      "link": "https://www.ithome.com/1/009/866.htm",
+      "time": "10-05 20:21",
       "src": "IT之家"
     },
     {
@@ -983,6 +999,12 @@
       "link": "https://www.gcores.com/articles/220480",
       "time": "10-02 21:53",
       "src": "机核"
+    },
+    {
+      "title": "英国警方在反移民抗议活动中逮捕12人",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-05/10708289.shtml",
+      "time": "10-05 22:42",
+      "src": "中新网"
     },
     {
       "title": "英国伦敦大范围停电",
@@ -997,21 +1019,9 @@
       "src": "中新网"
     },
     {
-      "title": "德国青少年在歌声中走近中国",
-      "link": "https://www.chinanews.com.cn/gn/2026/10-05/10708258.shtml",
-      "time": "10-05 20:39",
-      "src": "中新网"
-    },
-    {
-      "title": "超越美国、德国，中国汽车供应链企业改写全球产业格局",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-05/10708252.shtml",
-      "time": "10-05 20:24",
-      "src": "中新网"
-    },
-    {
-      "title": "德国供电企业推出“玩家专属电价”套餐 高性能PC用户或可借此节省电费",
-      "link": "https://www.cnbeta.com.tw/articles/game/1580798.htm",
-      "time": "10-05 18:45",
+      "title": "OpenAI将在欧盟为ChatGPT文本加入隐形水印 无需特殊字符 改写后可能失效",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1580828.htm",
+      "time": "10-06 05:36",
       "src": "cnBeta.COM"
     }
   ],
@@ -1029,22 +1039,28 @@
       "src": "IT之家"
     },
     {
+      "title": "出行热 体验丰 门市旺——国庆假期消费市场观察",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-05/10708296.shtml",
+      "time": "10-05 23:33",
+      "src": "中新网"
+    },
+    {
+      "title": "国庆档电影票房破8亿！“电影+文旅+美食”激活假日消费新动能",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-05/10708293.shtml",
+      "time": "10-05 23:12",
+      "src": "中新网"
+    },
+    {
       "title": "俄财政部将大幅增加外汇和黄金购买量",
       "link": "https://www.chinanews.com.cn/gj/2026/10-05/10708283.shtml",
       "time": "10-05 21:59",
       "src": "中新网"
     },
     {
-      "title": "香港金管局CargoX项目助力中小企业跨境贸易融资",
-      "link": "https://www.chinanews.com.cn/dwq/2026/10-05/10708264.shtml",
-      "time": "10-05 20:54",
-      "src": "中新网"
-    },
-    {
-      "title": "便利化服务催热内地居民赴港澳旅游与港澳居民“北上”消费双向跨境热潮",
-      "link": "https://www.chinanews.com.cn/dwq/2026/10-05/10708255.shtml",
-      "time": "10-05 20:37",
-      "src": "中新网"
+      "title": "长江存储预计全球NAND闪存短缺还将持续三年 AI需求或继续挤压消费级存储市场",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1580820.htm",
+      "time": "10-05 23:59",
+      "src": "cnBeta.COM"
     },
     {
       "title": "Change.org押注AI：斥资1亿美元重建请愿平台 希望让网络请愿真正影响决策者",
@@ -1053,16 +1069,10 @@
       "src": "cnBeta.COM"
     },
     {
-      "title": "法国债务升至119%，压力从民生传导到欧盟",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%BB%8A%E6%97%A5%E7%BB%8F%E6%B5%8E/20261005-%E6%B3%95%E5%9B%BD%E5%80%BA%E5%8A%A1%E5%8D%87%E8%87%B3119-%EF%BC%8C%E5%8E%8B%E5%8A%9B%E4%BB%8E%E6%B0%91%E7%94%9F%E4%BC%A0%E5%AF%BC%E5%88%B0%E6%AC%A7%E7%9B%9F",
-      "time": "10-05 21:52",
-      "src": "法广RFI"
-    },
-    {
-      "title": "香港「K型」经济加剧：新股集资额同比倍增 惟家庭负债率同步上升",
-      "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261005-%E9%A6%99%E6%B8%AF-k%E5%9E%8B-%E7%BB%8F%E6%B5%8E%E5%8A%A0%E5%89%A7-%E6%96%B0%E8%82%A1%E9%9B%86%E8%B5%84%E9%A2%9D%E5%90%8C%E6%AF%94%E5%80%8D%E5%A2%9E-%E6%83%9F%E5%AE%B6%E5%BA%AD%E8%B4%9F%E5%80%BA%E7%8E%87%E5%90%8C%E6%AD%A5%E4%B8%8A%E5%8D%87",
-      "time": "10-05 15:14",
-      "src": "© 麦燕庭提供"
+      "title": "中国经济放缓 中日关系紧张 日本企业加速撤离中国",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261005-%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%94%BE%E7%BC%93-%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB%E7%B4%A7%E5%BC%A0-%E6%97%A5%E6%9C%AC%E4%BC%81%E4%B8%9A%E5%8A%A0%E9%80%9F%E6%92%A4%E7%A6%BB%E4%B8%AD%E5%9B%BD",
+      "time": "10-06 05:22",
+      "src": "© 网络"
     }
   ],
   "game_news": [
@@ -1118,6 +1128,13 @@
   ],
   "game_update": [
     {
+      "title": "2026《英雄联盟》S16 全球总决赛 10 月 16 日开赛，11 月 15 日冠亚军决赛",
+      "link": "https://www.ithome.com/1/009/902.htm",
+      "time": "10-05 23:23",
+      "src": "IT之家",
+      "type": "不停机更新"
+    },
+    {
       "title": "运营约 3 年，SE 跨平台游戏《最终幻想 7：永恒危机》将于 10 月 7 日停服",
       "link": "https://www.ithome.com/1/009/857.htm",
       "time": "10-05 18:06",
@@ -1165,13 +1182,6 @@
       "time": "8-08",
       "type": "不停机更新",
       "src": "和平精英官方"
-    },
-    {
-      "title": "《无畏契约》8/6 8:00 不停机版本更新: 修复敌方道具在英雄\"零\"赛博囚笼中异常生效的问题",
-      "link": "https://pd.qq.com/g/8bi2h5u02q/post/B_1bd7726af66b00001441152186777472600X60",
-      "time": "8-06",
-      "type": "不停机更新",
-      "src": "腾讯官方"
     }
   ],
   "mil_news": [
@@ -1206,22 +1216,22 @@
       "src": "REUTERS - Nath"
     },
     {
-      "title": "菲律宾指责中国海警阻挠南海执法 称军机近距离接近巡逻机",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261004-%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%8C%87%E8%B4%A3%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E9%98%BB%E6%8C%A0%E5%8D%97%E6%B5%B7%E6%89%A7%E6%B3%95-%E7%A7%B0%E5%86%9B%E6%9C%BA%E8%BF%91%E8%B7%9D%E7%A6%BB%E6%8E%A5%E8%BF%91%E5%B7%A1%E9%80%BB%E6%9C%BA",
-      "time": "10-05 05:39",
-      "src": "REUTERS - Eloi"
+      "title": "機師刀刺同僚企圖劫機 杜拜往以色列航班乘客化解空難",
+      "link": "https://www.bbc.com/zhongwen/articles/ck3rerpdp7x9o/trad?at_medium=RSS&at_campaign=rss",
+      "time": "10-01 14:20",
+      "src": "BBC中文"
     },
     {
-      "title": "埃塞俄比亚冲突：华盛顿呼吁克制，埃及召开小型峰会",
-      "link": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20261004-%E5%9F%83%E5%A1%9E%E4%BF%84%E6%AF%94%E4%BA%9A%E5%86%B2%E7%AA%81-%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%91%BC%E5%90%81%E5%85%8B%E5%88%B6%EF%BC%8C%E5%9F%83%E5%8F%8A%E5%8F%AC%E5%BC%80%E5%B0%8F%E5%9E%8B%E5%B3%B0%E4%BC%9A",
-      "time": "10-05 00:07",
-      "src": "© Will & Deni "
+      "title": "10月6日外盘头条：特朗普承认恐袭威胁迫使B-1轰炸机撤出英国 SpaceX涨超7% 花旗建议加码巴西风险资产",
+      "link": "https://finance.sina.com.cn/world/2026-10-06/doc-iniufnpt6008052.shtml",
+      "time": "10-06 06:00",
+      "src": "环球市场播报"
     },
     {
-      "title": "菲律宾袭击非法网络赌博窝点宣布逮捕200多名外国人“大多数是中国人”",
-      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261004-%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%A2%AD%E5%87%BB%E9%9D%9E%E6%B3%95%E7%BD%91%E7%BB%9C%E8%B5%8C%E5%8D%9A%E7%AA%9D%E7%82%B9-%E5%AE%A3%E5%B8%83%E9%80%AE%E6%8D%95200%E5%A4%9A%E5%90%8D%E5%A4%96%E5%9B%BD%E4%BA%BA-%E5%A4%A7%E5%A4%9A%E6%95%B0%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA",
-      "time": "10-04 22:41",
-      "src": "AP Photo/Aaron"
+      "title": "特朗普承认恐袭威胁迫使B-1轰炸机撤出英国",
+      "link": "https://finance.sina.com.cn/world/2026-10-06/doc-iniufnpr9230708.shtml",
+      "time": "10-06 05:41",
+      "src": "环球市场播报"
     }
   ]
 }
