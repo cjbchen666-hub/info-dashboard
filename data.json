@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07 03:24",
+  "generated_at": "2026-10-07 07:42",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -245,21 +245,9 @@
         "src": "IT之家"
       },
       {
-        "title": "瑞萨推出品牌首款低压氮化镓功率半导体，面向 AI 数据中心、人形机器人等领域",
-        "link": "https://www.ithome.com/1/010/015.htm",
-        "time": "10-06 16:42",
-        "src": "IT之家"
-      },
-      {
         "title": "上半年香港证券经纪行交易额创纪录达149万亿港元 证券业净盈利强劲增长",
         "link": "https://www.chinanews.com.cn/dwq/2026/10-06/10708540.shtml",
         "time": "10-06 21:10",
-        "src": "中新网"
-      },
-      {
-        "title": "香港金管局与马来西亚央行将在跨境监管等方面加强合作",
-        "link": "https://www.chinanews.com.cn/dwq/2026/10-06/10708539.shtml",
-        "time": "10-06 21:09",
         "src": "中新网"
       },
       {
@@ -269,15 +257,27 @@
         "src": "cnBeta.COM"
       },
       {
+        "title": "台湾朝鲜南海…… “少兵多机器人”人工智能和无人机如何重塑亚洲军备竞赛 可能引发战争 中国军事拥抱机器人AI 美国担忧",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261006-%E5%8F%B0%E6%B9%BE-%E6%9C%9D%E9%B2%9C-%E5%8D%97%E6%B5%B7-%E5%B0%91%E5%85%B5%E5%A4%9A%E6%9C%BA%E5%99%A8%E4%BA%BA-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%92%8C%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E4%BA%9A%E6%B4%B2%E5%86%9B%E5%A4%87%E7%AB%9E%E8%B5%9B-%E5%8F%AF%E8%83%BD%E5%BC%95%E5%8F%91%E6%88%98%E4%BA%89-%E4%B8%AD%E5%9B%BD%E5%86%9B%E4%BA%8B%E6%8B%A5%E6%8A%B1%E6%9C%BA%E5%99%A8%E4%BA%BAai-%E7%BE%8E%E5%9B%BD%E6%8B%85%E5%BF%A7",
+        "time": "10-07 06:36",
+        "src": "© REUTERS - Ti"
+      },
+      {
         "title": "草原上的數據中心：中國AI雄心背後的算力前線",
         "link": "https://www.bbc.com/zhongwen/articles/crje8gjn3nl5o/trad?at_medium=RSS&at_campaign=rss",
         "time": "09-23 21:24",
         "src": "BBC中文"
       },
       {
-        "title": "央行官员谈黄金投资 理由从分散风险到数字资产策略不一而足",
-        "link": "https://finance.sina.com.cn/world/2026-10-07/doc-iniuimev5374085.shtml",
-        "time": "10-07 01:24",
+        "title": "日本央行鸽派异议委员释放支持未来加息信号",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukaap5097408.shtml",
+        "time": "10-07 07:18",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "美国券商Revere支付80万美元和解监管指控",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuivus6397427.shtml",
+        "time": "10-07 07:07",
         "src": "环球市场播报"
       }
     ]
@@ -294,41 +294,32 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 51542.49,
-      "pct": 0.54,
-      "chg": 274.59,
-      "amount": "1326783016亿"
+      "price": 51521.28,
+      "pct": 0.49,
+      "chg": 253.38,
+      "amount": "2086831970亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 27637.03,
-      "pct": 0.58,
-      "chg": 159.72,
-      "amount": "16481642051亿"
+      "price": 27599.89,
+      "pct": 0.45,
+      "chg": 122.58,
+      "amount": "21138026092亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7824.97,
-      "pct": 0.66,
-      "chg": 51.02,
-      "amount": "1354450713亿"
+      "price": 7818.93,
+      "pct": 0.58,
+      "chg": 44.98,
+      "amount": "2124712033亿"
     }
   ],
   "anime": {
     "date": "10-07",
     "weekday": "水",
     "items": [
-      {
-        "id": 502123,
-        "name": "魔法騎士レイアース",
-        "name_cn": "魔法骑士雷阿斯 (2026)",
-        "score": 9.5,
-        "img": "http://lain.bgm.tv/pic/cover/c/e1/6f/502123_IiVB6.jpg",
-        "air_date": "2026-10-07",
-        "rank": null
-      },
       {
         "id": 975,
         "name": "ONE PIECE",
@@ -337,6 +328,15 @@
         "img": "http://lain.bgm.tv/pic/cover/c/92/97/975_GFGYI.jpg",
         "air_date": "1999-10-20",
         "rank": 105
+      },
+      {
+        "id": 502123,
+        "name": "魔法騎士レイアース",
+        "name_cn": "魔法骑士雷阿斯 (2026)",
+        "score": 8.3,
+        "img": "http://lain.bgm.tv/pic/cover/c/e1/6f/502123_IiVB6.jpg",
+        "air_date": "2026-10-07",
+        "rank": null
       },
       {
         "id": 657778,
@@ -372,7 +372,7 @@
         "score": 6.6,
         "img": "http://lain.bgm.tv/pic/cover/c/ee/ed/412008_vuyt4.jpg",
         "air_date": "2026-10-07",
-        "rank": 3509
+        "rank": 3705
       },
       {
         "id": 393010,
@@ -495,6 +495,42 @@
   "ai": {
     "news_zh": [
       {
+        "title": "OpenAI 发布又一批 AI 数学研究成果，攻破数百个悬而未决难题",
+        "link": "https://www.ithome.com/1/010/137.htm",
+        "time": "10-07 07:42",
+        "src": "IT之家"
+      },
+      {
+        "title": "落实特朗普行政令，美国司法部要求员工改称 AI 为“超级智能”",
+        "link": "https://www.ithome.com/1/010/135.htm",
+        "time": "10-07 07:31",
+        "src": "IT之家"
+      },
+      {
+        "title": "消息称 SpaceX 计划募资 400 亿美元，用于采购英伟达 AI 芯片",
+        "link": "https://www.ithome.com/1/010/134.htm",
+        "time": "10-07 07:24",
+        "src": "IT之家"
+      },
+      {
+        "title": "LibreOffice：短期内默认版本不内置 AI 功能，用户可通过扩展自行接入本地模型",
+        "link": "https://www.ithome.com/1/010/132.htm",
+        "time": "10-07 07:19",
+        "src": "IT之家"
+      },
+      {
+        "title": "已挖出十几万漏洞，Anthropic 向更多安全团队开放其最强 Claude 模型",
+        "link": "https://www.ithome.com/1/010/127.htm",
+        "time": "10-07 06:50",
+        "src": "IT之家"
+      },
+      {
+        "title": "谷歌推出 EmbeddingGemma 2：支持多模态、7.4 亿参数量化手机端运行只需 191MB 内存",
+        "link": "https://www.ithome.com/1/010/125.htm",
+        "time": "10-07 06:41",
+        "src": "IT之家"
+      },
+      {
         "title": "《明日方舟：终末地》游戏将支持英伟达 RTX Spark 笔记本，「丹青渡」版本上线",
         "link": "https://www.ithome.com/1/010/123.htm",
         "time": "10-06 22:49",
@@ -505,78 +541,42 @@
         "link": "https://www.ithome.com/1/010/098.htm",
         "time": "10-06 21:03",
         "src": "IT之家"
-      },
-      {
-        "title": "AMD 股价创历史新高！CEO 苏姿丰称 AI 芯片需求非常旺盛，将持续大幅扩产",
-        "link": "https://www.ithome.com/1/010/114.htm",
-        "time": "10-06 22:30",
-        "src": "IT之家"
-      },
-      {
-        "title": "距 6 万亿美元仅一步之遥！英伟达市值达 5.8 万亿美元，创历史新高",
-        "link": "https://www.ithome.com/1/010/109.htm",
-        "time": "10-06 21:58",
-        "src": "IT之家"
-      },
-      {
-        "title": "宣称“欧美最强开源模型”：Mistral AI 发布 Mistral Large 4 公开预览版，月底开放权重",
-        "link": "https://www.ithome.com/1/010/108.htm",
-        "time": "10-06 21:56",
-        "src": "IT之家"
-      },
-      {
-        "title": "Mistral AI 放出预告：今日新模型可在网安等方面优于中国竞品",
-        "link": "https://www.ithome.com/1/010/043.htm",
-        "time": "10-06 19:24",
-        "src": "IT之家"
-      },
-      {
-        "title": "1800 万美元，Anthropic CEO 阿莫迪 2025 年薪酬曝光",
-        "link": "https://www.ithome.com/1/010/033.htm",
-        "time": "10-06 18:32",
-        "src": "IT之家"
-      },
-      {
-        "title": "服务条款可单方面变更服务功能及订阅费等，意大利反垄断机构对 AI 音乐平台 Suno 展开调查",
-        "link": "https://www.ithome.com/1/010/031.htm",
-        "time": "10-06 18:11",
-        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "Cloudflare/clef",
-        "likes": 1652,
+        "likes": 1670,
         "downloads": 7255,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "autotrust/JEV-27B-VL",
-        "likes": 961,
+        "likes": 973,
         "downloads": 1525286,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-        "likes": 3403,
+        "likes": 3423,
         "downloads": 1721760,
         "pipeline": "text-to-image"
       },
       {
         "id": "Aleph-Alpha/Kolibri-1",
-        "likes": 699,
+        "likes": 711,
         "downloads": 4138,
         "pipeline": "text-generation"
       },
       {
         "id": "Cloudflare/clef-flash",
-        "likes": 580,
+        "likes": 590,
         "downloads": 10638,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "convaiinnovations/laya",
-        "likes": 5277,
+        "likes": 5279,
         "downloads": 20386,
         "pipeline": "text-classification"
       }
@@ -750,6 +750,12 @@
   ],
   "hw_news": [
     {
+      "title": "谷歌推出 EmbeddingGemma 2：支持多模态、7.4 亿参数量化手机端运行只需 191MB 内存",
+      "link": "https://www.ithome.com/1/010/125.htm",
+      "time": "10-07 06:41",
+      "src": "IT之家"
+    },
+    {
       "title": "《明日方舟：终末地》游戏将支持英伟达 RTX Spark 笔记本，「丹青渡」版本上线",
       "link": "https://www.ithome.com/1/010/123.htm",
       "time": "10-06 22:49",
@@ -798,18 +804,6 @@
       "src": "IT之家"
     },
     {
-      "title": "TRYX 预告透明磁轴键盘 VESTRA VISION，内嵌 5.48\" OLED 屏幕",
-      "link": "https://www.ithome.com/1/010/014.htm",
-      "time": "10-06 16:37",
-      "src": "IT之家"
-    },
-    {
-      "title": "苹果一号电脑 Apple I 罕见拍卖：沃兹尼亚克签名主板，或拍出 80 万美元",
-      "link": "https://www.ithome.com/1/010/009.htm",
-      "time": "10-06 16:11",
-      "src": "IT之家"
-    },
-    {
       "title": "iPhone 18 Pro与iPhone Duo曾计划搭载16GB内存 最终配置缩水至12GB",
       "link": "https://www.cnbeta.com.tw/articles/tech/1580934.htm",
       "time": "10-06 22:35",
@@ -819,6 +813,12 @@
       "title": "TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验",
       "link": "https://sspai.com/post/114922",
       "time": "10-03 15:00",
+      "src": "少数派"
+    },
+    {
+      "title": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单",
+      "link": "https://sspai.com/post/115153",
+      "time": "09-29 17:03",
       "src": "少数派"
     }
   ],
@@ -1026,6 +1026,12 @@
   },
   "intl_news": [
     {
+      "title": "落实特朗普行政令，美国司法部要求员工改称 AI 为“超级智能”",
+      "link": "https://www.ithome.com/1/010/135.htm",
+      "time": "10-07 07:31",
+      "src": "IT之家"
+    },
+    {
       "title": "德国交通部长：希望特斯拉 FSD（监督版）辅助驾驶系统能在欧盟获批",
       "link": "https://www.ithome.com/1/010/124.htm",
       "time": "10-06 23:06",
@@ -1050,31 +1056,37 @@
       "src": "机核"
     },
     {
-      "title": "CFA中国之队·重庆国际足球邀请赛：中国队一胜三负收官",
-      "link": "https://www.chinanews.com.cn/ty/2026/10-06/10708559.shtml",
-      "time": "10-06 23:46",
+      "title": "德国8月工业新订单环比大幅下降",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-07/10708565.shtml",
+      "time": "10-07 06:55",
       "src": "中新网"
     },
     {
-      "title": "国际货币基金组织：对冲基金快速扩张或放大市场风险",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-06/10708558.shtml",
-      "time": "10-06 23:17",
+      "title": "德国选择党成员首次担任联邦州议会议长",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-07/10708564.shtml",
+      "time": "10-07 06:55",
       "src": "中新网"
     },
     {
-      "title": "以色列政府发出旅行警告 提醒海外公民防范潜在安全风险",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-06/10708557.shtml",
-      "time": "10-06 23:11",
-      "src": "中新网"
-    },
-    {
-      "title": "中国商务部回应法德要求欧盟强化贸易防御等保护主义工具",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-06/10708543.shtml",
-      "time": "10-06 22:45",
+      "title": "政府军加大攻势 胡塞武装称实施“毁灭性”打击 也门冲突或陷入拉锯",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-07/10708569.shtml",
+      "time": "10-07 06:45",
       "src": "中新网"
     }
   ],
   "econ_news": [
+    {
+      "title": "消息称 SpaceX 计划募资 400 亿美元，用于采购英伟达 AI 芯片",
+      "link": "https://www.ithome.com/1/010/134.htm",
+      "time": "10-07 07:24",
+      "src": "IT之家"
+    },
+    {
+      "title": "库克交棒后首次：苹果新任 CEO 特努斯将主持 2026 财年第 4 财季财报会议",
+      "link": "https://www.ithome.com/1/010/131.htm",
+      "time": "10-07 07:14",
+      "src": "IT之家"
+    },
     {
       "title": "距 6 万亿美元仅一步之遥！英伟达市值达 5.8 万亿美元，创历史新高",
       "link": "https://www.ithome.com/1/010/109.htm",
@@ -1094,37 +1106,31 @@
       "src": "IT之家"
     },
     {
-      "title": "高通把 Arm 告上法庭：指控其扣留芯片测试工具、泄露机密，要求免 5 年数十亿美元授权费",
-      "link": "https://www.ithome.com/1/010/016.htm",
-      "time": "10-06 16:44",
-      "src": "IT之家"
-    },
-    {
-      "title": "苹果一号电脑 Apple I 罕见拍卖：沃兹尼亚克签名主板，或拍出 80 万美元",
-      "link": "https://www.ithome.com/1/010/009.htm",
-      "time": "10-06 16:11",
-      "src": "IT之家"
-    },
-    {
-      "title": "安徽“千年矾都”工业遗产蝶变文旅新地标",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-06/10708545.shtml",
-      "time": "10-06 23:06",
+      "title": "世界银行下调柬埔寨2026年经济增长预期至3.5%",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-07/10708566.shtml",
+      "time": "10-07 06:56",
       "src": "中新网"
     },
     {
-      "title": "中国商务部回应法德要求欧盟强化贸易防御等保护主义工具",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-06/10708543.shtml",
-      "time": "10-06 22:45",
+      "title": "德国8月工业新订单环比大幅下降",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-07/10708565.shtml",
+      "time": "10-07 06:55",
       "src": "中新网"
     },
     {
-      "title": "香港继续获评为全球最自由经济体",
-      "link": "https://www.chinanews.com.cn/dwq/2026/10-06/10708544.shtml",
-      "time": "10-06 22:18",
+      "title": "美国8月贸易逆差达1056亿美元 创一年多来最高值",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-07/10708563.shtml",
+      "time": "10-07 06:41",
       "src": "中新网"
     }
   ],
   "game_news": [
+    {
+      "title": "微软 Microsoft 365 遇冷：荷兰税务部门拟在 2028 年前寻找开源协作方案",
+      "link": "https://www.ithome.com/1/010/130.htm",
+      "time": "10-07 07:01",
+      "src": "IT之家"
+    },
     {
       "title": "《明日方舟：终末地》游戏将支持英伟达 RTX Spark 笔记本，「丹青渡」版本上线",
       "link": "https://www.ithome.com/1/010/123.htm",
@@ -1165,12 +1171,6 @@
       "title": "三款第一方游戏任选其一：任天堂将在日本推出 Switch 2“主机 + 游戏”自选套装",
       "link": "https://www.ithome.com/1/010/032.htm",
       "time": "10-06 18:14",
-      "src": "IT之家"
-    },
-    {
-      "title": "Valve 确认：Linux 版 Steam 客户端目前不支持 Arm 芯片",
-      "link": "https://www.ithome.com/1/010/030.htm",
-      "time": "10-06 17:58",
       "src": "IT之家"
     }
   ],
@@ -1252,6 +1252,18 @@
       "src": "IT之家"
     },
     {
+      "title": "政府军加大攻势 胡塞武装称实施“毁灭性”打击 也门冲突或陷入拉锯",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-07/10708569.shtml",
+      "time": "10-07 06:45",
+      "src": "中新网"
+    },
+    {
+      "title": "驻日美军涉嫌抢劫杀人案细节曝出 嫌疑人拒认罪",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-07/10708568.shtml",
+      "time": "10-07 06:43",
+      "src": "中新网"
+    },
+    {
       "title": "澜湄合作专项基金支持泰缅边境洪水预警项目",
       "link": "https://www.chinanews.com.cn/gj/2026/10-07/10708560.shtml",
       "time": "10-07 00:11",
@@ -1268,18 +1280,6 @@
       "link": "https://www.chinanews.com.cn/gj/2026/10-06/10708547.shtml",
       "time": "10-06 22:00",
       "src": "中新网"
-    },
-    {
-      "title": "台湾国防部长：未听说140亿美元对台军售案会被拆分成小项目执行",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261006-%E5%8F%B0%E6%B9%BE%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF-%E6%9C%AA%E5%90%AC%E8%AF%B4140%E4%BA%BF%E7%BE%8E%E5%85%83%E5%AF%B9%E5%8F%B0%E5%86%9B%E5%94%AE%E6%A1%88%E4%BC%9A%E8%A2%AB%E6%8B%86%E5%88%86%E6%88%90%E5%B0%8F%E9%A1%B9%E7%9B%AE%E6%89%A7%E8%A1%8C",
-      "time": "10-06 17:04",
-      "src": "© AdobeStock/R"
-    },
-    {
-      "title": "立陶宛修宪首轮通过废除禁核武条款，邀美军设永久基地，特朗普称“已在考虑”",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261006-%E7%AB%8B%E9%99%B6%E5%AE%9B%E4%BF%AE%E5%AE%AA%E9%A6%96%E8%BD%AE%E9%80%9A%E8%BF%87%E5%BA%9F%E9%99%A4%E7%A6%81%E6%A0%B8%E6%AD%A6%E6%9D%A1%E6%AC%BE%EF%BC%8C%E9%82%80%E7%BE%8E%E5%86%9B%E8%AE%BE%E6%B0%B8%E4%B9%85%E5%9F%BA%E5%9C%B0%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0-%E5%B7%B2%E5%9C%A8%E8%80%83%E8%99%91",
-      "time": "10-06 16:46",
-      "src": "© REUTERS - Jo"
     }
   ]
 }
