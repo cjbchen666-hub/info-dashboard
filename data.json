@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07 21:06",
+  "generated_at": "2026-10-08 03:50",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -129,9 +129,9 @@
       }
     ],
     "status": {
-      "state": "已收盘",
-      "label": "今日已收盘",
-      "date": "2026-10-07"
+      "state": "未开盘",
+      "label": "今日尚未开盘",
+      "date": "2026-10-08"
     },
     "watch": [
       {
@@ -233,6 +233,12 @@
     ],
     "news": [
       {
+        "title": "英伟达发布 DGX Station for Windows：本地运行 1 万亿参数 AI 模型，最高 748GB 内存",
+        "link": "https://www.ithome.com/1/010/313.htm",
+        "time": "10-08 01:56",
+        "src": "IT之家"
+      },
+      {
         "title": "余承东：从 2007 年到 2025 年底，华为累计研发投入超 1.8 万亿元人民币",
         "link": "https://www.ithome.com/1/010/283.htm",
         "time": "10-07 21:05",
@@ -245,39 +251,33 @@
         "src": "IT之家"
       },
       {
-        "title": "万亿砸向高速充电桩，排队为何仍是无解？",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1581000.htm",
-        "time": "10-07 14:20",
-        "src": "cnBeta.COM"
-      },
-      {
-        "title": "AMD首席执行官苏姿丰将与三星半导体负责人会面 应对内存短缺",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1580988.htm",
-        "time": "10-07 13:29",
-        "src": "cnBeta.COM"
-      },
-      {
         "title": "草原上的數據中心：中國AI雄心背後的算力前線",
         "link": "https://www.bbc.com/zhongwen/articles/crje8gjn3nl5o/trad?at_medium=RSS&at_campaign=rss",
         "time": "09-23 21:24",
         "src": "BBC中文"
       },
       {
-        "title": "盘前：纳指期货跌0.66%，油价与美债收益率双双走高",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniumcpz4870569.shtml",
-        "time": "10-07 20:30",
+        "title": "美联储纪要披露：7月联合干预支撑日元系财政部行动 未动用央行资金",
+        "link": "https://finance.sina.com.cn/world/2026-10-08/doc-iniumumt4641179.shtml",
+        "time": "10-08 03:34",
         "src": "环球市场播报"
       },
       {
-        "title": "留置近半年后，A股600亿龙头总经理林科闯回来了！他是实控人林秀成的女婿，林秀成已被刑事拘留",
-        "link": "https://finance.sina.com.cn/stock/s/2026-10-07/doc-iniumcqf4564630.shtml",
-        "time": "10-07 19:29",
-        "src": ""
+        "title": "美银Cabana认为美联储面临两难抉择：要么加息 要么美债收益率飙升",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-08/doc-iniumumr7855120.shtml",
+        "time": "10-08 02:53",
+        "src": "环球市场播报"
       },
       {
-        "title": "微软预计将发布新Surface 无需云端算力面向AI开发者",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukxhc4927371.shtml",
-        "time": "10-07 18:14",
+        "title": "美联储纪要显示9月升息获一致支持 多数与会者倾向年内再加一次",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-08/doc-iniumumr7850540.shtml",
+        "time": "10-08 02:38",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "FOMC会议纪要显示 美联储官员们敦促为市场压力制定预案",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-08/doc-iniumumx4279608.shtml",
+        "time": "10-08 02:37",
         "src": "环球市场播报"
       }
     ]
@@ -294,138 +294,129 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 51521.28,
-      "pct": 0.49,
-      "chg": 253.38,
-      "amount": "2086831970亿"
+      "price": 51179.72,
+      "pct": -0.66,
+      "chg": -341.56,
+      "amount": "1317243646亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 27599.89,
-      "pct": 0.45,
-      "chg": 122.58,
-      "amount": "21138026092亿"
+      "price": 27528.34,
+      "pct": -0.26,
+      "chg": -71.55,
+      "amount": "14195420521亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7818.93,
-      "pct": 0.58,
-      "chg": 44.98,
-      "amount": "2124712033亿"
+      "price": 7801.28,
+      "pct": -0.23,
+      "chg": -17.65,
+      "amount": "1460455718亿"
     }
   ],
   "anime": {
-    "date": "10-07",
-    "weekday": "水",
+    "date": "10-08",
+    "weekday": "木",
     "items": [
       {
-        "id": 975,
-        "name": "ONE PIECE",
-        "name_cn": "航海王",
-        "score": 8.3,
-        "img": "http://lain.bgm.tv/pic/cover/c/92/97/975_GFGYI.jpg",
-        "air_date": "1999-10-20",
-        "rank": 105
-      },
-      {
-        "id": 657778,
-        "name": "獣王武神ダンデヴァイン",
-        "name_cn": "兽王武神丹帝拜恩",
-        "score": 8.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/3b/a5/657778_7HXP5.jpg",
-        "air_date": "2026-10-07",
+        "id": 449346,
+        "name": "大理寺日志 叁",
+        "name_cn": "大理寺日志 第三季",
+        "score": 8.5,
+        "img": "http://lain.bgm.tv/pic/cover/c/fc/d2/449346_0ql6W.jpg",
+        "air_date": "2026-10-15",
         "rank": null
       },
       {
-        "id": 502123,
-        "name": "魔法騎士レイアース",
-        "name_cn": "魔法骑士雷阿斯 (2026)",
-        "score": 7.5,
-        "img": "http://lain.bgm.tv/pic/cover/c/e1/6f/502123_IiVB6.jpg",
-        "air_date": "2026-10-07",
+        "id": 654294,
+        "name": "冰剣の魔術師が世界を統べるⅡ",
+        "name_cn": "冰剑的魔术师将要统一世界 第二季",
+        "score": 8.5,
+        "img": "http://lain.bgm.tv/pic/cover/c/ec/2f/654294_ckrD9.jpg",
+        "air_date": "2026-10-08",
         "rank": null
       },
       {
-        "id": 471844,
-        "name": "帰還者の魔法は特別です 第2期",
-        "name_cn": "归还者的魔法要特别 第二季",
+        "id": 665390,
+        "name": "氷の城壁 第2期",
+        "name_cn": "冰之城墙 第二季",
+        "score": 7.4,
+        "img": "http://lain.bgm.tv/pic/cover/c/e4/41/665390_UCHPM.jpg",
+        "air_date": "2026-10-01",
+        "rank": 1459
+      },
+      {
+        "id": 590553,
+        "name": "てつりょー！meet with 鉄道むすめ",
+        "name_cn": "铁旅！meet with 铁道少女",
         "score": 7.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/1d/7c/471844_5G6H8.jpg",
-        "air_date": "2026-10-07",
+        "img": "http://lain.bgm.tv/pic/cover/c/b6/e8/590553_Xz5PO.jpg",
+        "air_date": "2026-10-08",
         "rank": null
       },
       {
-        "id": 646154,
-        "name": "世界最強の魔女、始めました",
-        "name_cn": "世界最强的魔女，就此开始",
+        "id": 622288,
+        "name": "FX戦士くるみちゃん",
+        "name_cn": "FX战士久留美",
         "score": 7.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/89/fc/646154_uQi81.jpg",
-        "air_date": "2026-10-07",
+        "img": "http://lain.bgm.tv/pic/cover/c/d3/99/622288_nmbC3.jpg",
+        "air_date": "2026-10-01",
+        "rank": 2512
+      },
+      {
+        "id": 577237,
+        "name": "仙逆剧场版 弑仙之战",
+        "name_cn": "仙逆剧场版 弑仙之战",
+        "score": 6.0,
+        "img": "http://lain.bgm.tv/pic/cover/c/33/a4/577237_Cd0Cm.jpg",
+        "air_date": "2026-10-01",
         "rank": null
       },
       {
-        "id": 412008,
-        "name": "転生したら剣でしたII",
-        "name_cn": "转生就是剑 第二季",
-        "score": 6.6,
-        "img": "http://lain.bgm.tv/pic/cover/c/ee/ed/412008_vuyt4.jpg",
-        "air_date": "2026-10-07",
-        "rank": 3705
-      },
-      {
-        "id": 486456,
-        "name": "佐々木とピーちゃん 第2期",
-        "name_cn": "佐佐木与文鸟小哔 第二季",
-        "score": 5.9,
-        "img": "http://lain.bgm.tv/pic/cover/c/fc/aa/486456_XO5B0.jpg",
-        "air_date": "2026-10-07",
+        "id": 705980,
+        "name": "熊出没之神奇宝物2",
+        "name_cn": "熊出没之神奇宝物 第二季",
+        "score": 6.0,
+        "img": "http://lain.bgm.tv/pic/cover/c/83/75/705980_zVjkX.jpg",
+        "air_date": "2026-10-01",
         "rank": null
       },
       {
-        "id": 393010,
-        "name": "探偵はもう、死んでいる。 Season 2",
-        "name_cn": "侦探已经死了。 第二季",
-        "score": 5.8,
-        "img": "http://lain.bgm.tv/pic/cover/c/65/61/393010_EIOi9.jpg",
-        "air_date": "2026-10-07",
+        "id": 650428,
+        "name": "傷だらけ聖女より報復をこめて Season2",
+        "name_cn": "黑化吧！圣女大人 第二季",
+        "score": 3.9,
+        "img": "http://lain.bgm.tv/pic/cover/c/77/63/650428_G3GgP.jpg",
+        "air_date": "2026-10-01",
         "rank": null
       },
       {
-        "id": 573707,
-        "name": "Helluva Boss Season 3",
-        "name_cn": "极恶老大 第三季",
-        "score": 5.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/37/37/573707_EjKKu.jpg",
-        "air_date": "2026-10-14",
-        "rank": null
-      },
-      {
-        "id": 665014,
-        "name": "Le Collège Noir Season 2",
-        "name_cn": "黑暗学院 第二季",
+        "id": 576783,
+        "name": "狂王2",
+        "name_cn": "狂王 第2季",
         "score": null,
-        "img": "http://lain.bgm.tv/pic/cover/c/74/5e/665014_YbeJ2.jpg",
-        "air_date": "0000-00-00",
+        "img": "http://lain.bgm.tv/pic/cover/c/c8/1a/576783_fzZXD.jpg",
+        "air_date": "2026-10-08",
         "rank": null
       },
       {
-        "id": 701779,
-        "name": "マゼンチュ",
+        "id": 700127,
+        "name": "ちょこっとヤバシティ",
         "name_cn": "",
         "score": null,
-        "img": "http://lain.bgm.tv/pic/cover/c/78/a0/701779_0phov.jpg",
-        "air_date": "2026-10-07",
+        "img": "http://lain.bgm.tv/pic/cover/c/e4/11/700127_gLl6x.jpg",
+        "air_date": "2026-10-01",
         "rank": null
       },
       {
-        "id": 709475,
-        "name": "ゲルぴよ 第2期",
+        "id": 704737,
+        "name": "シルバニアファミリー フレアのカラフル・エブリデイ",
         "name_cn": "",
         "score": null,
-        "img": "http://lain.bgm.tv/pic/cover/c/6f/24/709475_zpW8A.jpg",
-        "air_date": "2026-10-21",
+        "img": "http://lain.bgm.tv/pic/cover/c/7d/06/704737_iWzS7.jpg",
+        "air_date": "2026-10-01",
         "rank": null
       }
     ]
@@ -495,88 +486,88 @@
   "ai": {
     "news_zh": [
       {
-        "title": "AMD 苏姿丰承诺 2027 年大幅增加 AI 数据中心芯片供应",
-        "link": "https://www.ithome.com/1/010/284.htm",
-        "time": "10-07 21:06",
+        "title": "微软描绘 Autopilot 全新蓝图：让 Windows AI 从“回答问题”走向“执行任务”",
+        "link": "https://www.ithome.com/1/010/321.htm",
+        "time": "10-08 02:38",
         "src": "IT之家"
       },
       {
-        "title": "豆包登陆华为鸿蒙电脑端，首版本搭载 2.1 Turbo / Pro 模型",
-        "link": "https://www.ithome.com/1/010/280.htm",
-        "time": "10-07 20:15",
+        "title": "英伟达黄仁勋回忆微软 Win95 往昔：没有 Windows 的话，CUDA 就不会诞生",
+        "link": "https://www.ithome.com/1/010/319.htm",
+        "time": "10-08 02:28",
         "src": "IT之家"
       },
       {
-        "title": "谷歌 Gmail 新功能曝光：Gemini 帮你回邮件",
-        "link": "https://www.ithome.com/1/010/279.htm",
-        "time": "10-07 19:44",
+        "title": "英伟达黄仁勋：已测超 1200 款应用，RTX Spark 是全球唯一本地原生运行所有应用的电脑",
+        "link": "https://www.ithome.com/1/010/318.htm",
+        "time": "10-08 02:22",
         "src": "IT之家"
       },
       {
-        "title": "2027 款深蓝 L06 新车官宣：定位“长续航磁流变 AI 轿跑”，搭载两只“龙虾”",
-        "link": "https://www.ithome.com/1/010/276.htm",
-        "time": "10-07 19:02",
+        "title": "黄仁勋：英伟达当初正是因 Windows 而诞生",
+        "link": "https://www.ithome.com/1/010/315.htm",
+        "time": "10-08 02:11",
         "src": "IT之家"
       },
       {
-        "title": "微软、OpenAI 遭美国多家地方媒体起诉，被指侵犯版权",
-        "link": "https://www.ithome.com/1/010/257.htm",
-        "time": "10-07 18:19",
+        "title": "英伟达发布 DGX Station for Windows：本地运行 1 万亿参数 AI 模型，最高 748GB 内存",
+        "link": "https://www.ithome.com/1/010/313.htm",
+        "time": "10-08 01:56",
         "src": "IT之家"
       },
       {
-        "title": "华为自研 Wi-Fi 7+ 芯片级协同技术支持设备上新，新增 Mate 90 系列手机",
-        "link": "https://www.ithome.com/1/010/243.htm",
-        "time": "10-07 17:35",
+        "title": "微软：Meta Muse 智能体将登陆 Windows 平台",
+        "link": "https://www.ithome.com/1/010/310.htm",
+        "time": "10-08 01:45",
         "src": "IT之家"
       },
       {
-        "title": "马斯克否认台积电参与特斯拉“Terafab”芯片工厂项目传闻：我们自己建设运营",
-        "link": "https://www.ithome.com/1/010/241.htm",
-        "time": "10-07 17:28",
+        "title": "微软提出“混合智能”新路线，协同本地 / 云端 AI 灵活处理 Win11 用户任务",
+        "link": "https://www.ithome.com/1/010/309.htm",
+        "time": "10-08 01:42",
         "src": "IT之家"
       },
       {
-        "title": "谷歌推出全新 macOS 应用 AI Edge Foresight，支持离线记录会议纪要",
-        "link": "https://www.ithome.com/1/010/214.htm",
-        "time": "10-07 15:32",
+        "title": "微软重点介绍 MXC SDK，为 AI 智能体提供受控执行环境",
+        "link": "https://www.ithome.com/1/010/307.htm",
+        "time": "10-08 01:24",
         "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "Cloudflare/clef",
-        "likes": 1760,
+        "likes": 1796,
         "downloads": 9513,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "autotrust/JEV-27B-VL",
-        "likes": 1470,
+        "likes": 1778,
         "downloads": 1529210,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "autotrust/GEV-26B-Decide",
-        "likes": 988,
+        "likes": 1166,
         "downloads": 895867,
         "pipeline": "text-classification"
       },
       {
         "id": "google/embeddinggemma-2",
-        "likes": 789,
+        "likes": 896,
         "downloads": 7562,
         "pipeline": "feature-extraction"
       },
       {
         "id": "Aleph-Alpha/Kolibri-1",
-        "likes": 755,
+        "likes": 770,
         "downloads": 5775,
         "pipeline": "text-generation"
       },
       {
         "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-        "likes": 3518,
+        "likes": 3548,
         "downloads": 1820627,
         "pipeline": "text-to-image"
       }
@@ -750,6 +741,48 @@
   ],
   "hw_news": [
     {
+      "title": "微软 Surface Laptop Ultra 售价公布：起价 21988 元，128GB 内存顶配售 48388 元",
+      "link": "https://www.ithome.com/1/010/320.htm",
+      "time": "10-08 02:33",
+      "src": "IT之家"
+    },
+    {
+      "title": "英伟达黄仁勋：已测超 1200 款应用，RTX Spark 是全球唯一本地原生运行所有应用的电脑",
+      "link": "https://www.ithome.com/1/010/318.htm",
+      "time": "10-08 02:22",
+      "src": "IT之家"
+    },
+    {
+      "title": "《使命召唤》系列游戏明年登陆 RTX Spark 平台",
+      "link": "https://www.ithome.com/1/010/314.htm",
+      "time": "10-08 02:10",
+      "src": "IT之家"
+    },
+    {
+      "title": "英伟达发布 DGX Station for Windows：本地运行 1 万亿参数 AI 模型，最高 748GB 内存",
+      "link": "https://www.ithome.com/1/010/313.htm",
+      "time": "10-08 01:56",
+      "src": "IT之家"
+    },
+    {
+      "title": "2599 美元 / 5999 美元：微软 Surface Laptop Ultra 笔记本、Surface RTX Spark Dev Box 开发机价格公布",
+      "link": "https://www.ithome.com/1/010/312.htm",
+      "time": "10-08 01:52",
+      "src": "IT之家"
+    },
+    {
+      "title": "传三星电子 12Hi HBM4E 内存已通过英伟达等主要客户质量验证测试",
+      "link": "https://www.ithome.com/1/010/303.htm",
+      "time": "10-07 23:35",
+      "src": "IT之家"
+    },
+    {
+      "title": "AMD 将在 2026 年内将 FSR 4 支持扩展至 APU、游戏本、掌机等全线设备",
+      "link": "https://www.ithome.com/1/010/297.htm",
+      "time": "10-07 23:09",
+      "src": "IT之家"
+    },
+    {
       "title": "AMD 苏姿丰承诺 2027 年大幅增加 AI 数据中心芯片供应",
       "link": "https://www.ithome.com/1/010/284.htm",
       "time": "10-07 21:06",
@@ -768,58 +801,16 @@
       "src": "IT之家"
     },
     {
-      "title": "曝英特尔 \"Raptor Lake Next HX\" 移动端处理器使用“酷睿 2000 HX”命名",
-      "link": "https://www.ithome.com/1/010/235.htm",
-      "time": "10-07 17:00",
-      "src": "IT之家"
-    },
-    {
-      "title": "索尼推出玻璃紫款 INZONE E9、Fnatic 款 INZONE H9 II 游戏耳机",
-      "link": "https://www.ithome.com/1/010/220.htm",
-      "time": "10-07 15:53",
-      "src": "IT之家"
-    },
-    {
-      "title": "199 元：先马平头哥 M10 机箱开售，独立显卡导风槽、兼容 M-ATX / ITX 主板",
-      "link": "https://www.ithome.com/1/010/219.htm",
-      "time": "10-07 15:49",
-      "src": "IT之家"
-    },
-    {
-      "title": "改为 4 位数：英特尔 Nova Lake-S 处理器命名添新证据，AIDA64 列出 4xxx 系列",
-      "link": "https://www.ithome.com/1/010/210.htm",
-      "time": "10-07 15:13",
-      "src": "IT之家"
-    },
-    {
-      "title": "1110 元：雷神推出 ZQ25F280 显示器，24.5 英寸 2K 280Hz Fast IPS 面板",
-      "link": "https://www.ithome.com/1/010/206.htm",
-      "time": "10-07 14:59",
-      "src": "IT之家"
-    },
-    {
-      "title": "马斯克超级芯片工厂“移情”台积电？英特尔CEO陈立武回应",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1581026.htm",
-      "time": "10-07 14:41",
+      "title": "微软发布Surface RTX Spark Dev Box 面向AI开发者的小型工作站",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1581094.htm",
+      "time": "10-08 02:36",
       "src": "cnBeta.COM"
     },
     {
-      "title": "AMD首席执行官苏姿丰将与三星半导体负责人会面 应对内存短缺",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1580988.htm",
-      "time": "10-07 13:29",
+      "title": "SK海力士HBM混合键合技术开发遇阻 三星或在下一代高带宽内存竞争中暂时领先",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1581068.htm",
+      "time": "10-08 00:36",
       "src": "cnBeta.COM"
-    },
-    {
-      "title": "TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验",
-      "link": "https://sspai.com/post/114922",
-      "time": "10-03 15:00",
-      "src": "少数派"
-    },
-    {
-      "title": "AMD首席执行官：在供应紧张下正致力于优化内存",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuksym4753731.shtml",
-      "time": "10-07 15:32",
-      "src": "环球市场播报"
     }
   ],
   "kojima": {
@@ -993,6 +984,18 @@
   "anime_industry": {
     "news": [
       {
+        "title": "自定义系统，让玩法变得更多样：《高达 异轨征途》媒体联访小记",
+        "link": "https://www.gcores.com/articles/219743",
+        "time": "10-07 22:01",
+        "src": "机核"
+      },
+      {
+        "title": "比利时天才少年再攻医学 16岁已是量子物理博士 智商高达145",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1581042.htm",
+        "time": "10-07 23:38",
+        "src": "cnBeta.COM"
+      },
+      {
         "title": "《动画产业报告2025》: 市场规模达 3.84 万亿日元创历史新高, 海外占比约 56.5%",
         "link": "https://www.info35.net/hotopics/44871.html",
         "time": "精选",
@@ -1020,55 +1023,61 @@
   },
   "intl_news": [
     {
-      "title": "奇瑞宣布深化全球化 3.0 战略高管分工调整：奇瑞主品牌纳入全球市场体系，做大做强捷途品牌",
-      "link": "https://www.ithome.com/1/010/230.htm",
-      "time": "10-07 16:40",
+      "title": "微软 Surface Laptop Ultra 探秘：迭代约 300 次，全球首款内置磁吸式 USB-C 接口",
+      "link": "https://www.ithome.com/1/010/323.htm",
+      "time": "10-08 03:00",
       "src": "IT之家"
     },
     {
-      "title": "美国正准备向俄罗斯正式索取有关鼠疫死亡事件的信息",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1580992.htm",
-      "time": "10-07 13:36",
+      "title": "英伟达黄仁勋：已测超 1200 款应用，RTX Spark 是全球唯一本地原生运行所有应用的电脑",
+      "link": "https://www.ithome.com/1/010/318.htm",
+      "time": "10-08 02:22",
+      "src": "IT之家"
+    },
+    {
+      "title": "谷歌 SynthID 面向全球用户开放，可检测 AI 生成内容",
+      "link": "https://www.ithome.com/1/010/293.htm",
+      "time": "10-07 22:47",
+      "src": "IT之家"
+    },
+    {
+      "title": "国际货币基金组织预计高油价将持续至明年",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-07/10708822.shtml",
+      "time": "10-07 22:02",
+      "src": "中新网"
+    },
+    {
+      "title": "被称作“欧洲得州”的芬兰 谷歌两座数据中心接到停工令",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1581030.htm",
+      "time": "10-07 23:27",
       "src": "cnBeta.COM"
     },
     {
-      "title": "2026年诺贝尔化学奖揭晓 法国和日本科学家获奖",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261007-2026%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%96%E5%AD%A6%E5%A5%96%E6%8F%AD%E6%99%93-%E6%B3%95%E5%9B%BD%E5%92%8C%E6%97%A5%E6%9C%AC%E7%A7%91%E5%AD%A6%E5%AE%B6%E8%8E%B7%E5%A5%96",
-      "time": "10-07 19:29",
-      "src": "© 路透社图片"
+      "title": "特朗普自称解决了八场战争，暗示如果诺贝尔和平奖不授予他将是“一大失误”",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261007-%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%AA%E7%A7%B0%E8%A7%A3%E5%86%B3%E4%BA%86%E5%85%AB%E5%9C%BA%E6%88%98%E4%BA%89%EF%BC%8C%E6%9A%97%E7%A4%BA%E5%A6%82%E6%9E%9C%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%92%8C%E5%B9%B3%E5%A5%96%E4%B8%8D%E6%8E%88%E4%BA%88%E4%BB%96%E5%B0%86%E6%98%AF-%E4%B8%80%E5%A4%A7%E5%A4%B1%E8%AF%AF",
+      "time": "10-08 03:42",
+      "src": "Angela Weiss/P"
     },
     {
-      "title": "欧盟贸易委员访华 欧方据报望周五前中方同意适度控制一特定领域出口",
-      "link": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20261007-%E6%AC%A7%E7%9B%9F%E8%B4%B8%E6%98%93%E5%A7%94%E5%91%98%E8%AE%BF%E5%8D%8E-%E6%AC%A7%E6%96%B9%E6%8D%AE%E6%8A%A5%E6%9C%9B%E5%91%A8%E4%BA%94%E5%89%8D%E4%B8%AD%E6%96%B9%E5%90%8C%E6%84%8F%E9%80%82%E5%BA%A6%E6%8E%A7%E5%88%B6%E4%B8%80%E7%89%B9%E5%AE%9A%E9%A2%86%E5%9F%9F%E5%87%BA%E5%8F%A3",
-      "time": "10-07 18:41",
-      "src": "© 美联社图片"
+      "title": "特朗普称伊朗可“摧毁”洛杉矶与圣地牙哥　加州政界跨党派反弹",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261007-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BC%8A%E6%9C%97%E5%8F%AF-%E6%91%A7%E6%AF%81-%E6%B4%9B%E6%9D%89%E7%9F%B6%E4%B8%8E%E5%9C%A3%E5%9C%B0%E7%89%99%E5%93%A5-%E5%8A%A0%E5%B7%9E%E6%94%BF%E7%95%8C%E8%B7%A8%E5%85%9A%E6%B4%BE%E5%8F%8D%E5%BC%B9",
+      "time": "10-08 03:49",
+      "src": "REUTERS - Nath"
     },
     {
-      "title": "港男涉「跨境镇压」袭击在台日媒矢板明夫 遭台方正式起诉及求刑5年",
-      "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261007-%E6%B8%AF%E7%94%B7%E6%B6%89-%E8%B7%A8%E5%A2%83%E9%95%87%E5%8E%8B-%E8%A2%AD%E5%87%BB%E5%9C%A8%E5%8F%B0%E6%97%A5%E5%AA%92%E7%9F%A2%E6%9D%BF%E6%98%8E%E5%A4%AB-%E9%81%AD%E5%8F%B0%E6%96%B9%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89%E5%8F%8A%E6%B1%82%E5%88%915%E5%B9%B4",
-      "time": "10-07 15:16",
-      "src": "© 网上资料图片"
-    },
-    {
-      "title": "法国试射未装载核弹头的潜射洲际导弹 马克龙称向对手传递威慑信号",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261006-%E6%B3%95%E5%9B%BD%E8%AF%95%E5%B0%84%E6%9C%AA%E8%A3%85%E8%BD%BD%E6%A0%B8%E5%BC%B9%E5%A4%B4%E7%9A%84%E6%BD%9C%E5%B0%84%E6%B4%B2%E9%99%85%E5%AF%BC%E5%BC%B9-%E9%A9%AC%E5%85%8B%E9%BE%99%E7%A7%B0%E5%90%91%E5%AF%B9%E6%89%8B%E4%BC%A0%E9%80%92%E5%A8%81%E6%85%91%E4%BF%A1%E5%8F%B7",
-      "time": "10-07 05:28",
-      "src": "via REUTERS - "
-    },
-    {
-      "title": "英国后悔脱欧？惟现考虑英重返欧盟“规模太大，时机太早”",
-      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261007-%E8%8B%B1%E5%9B%BD%E5%90%8E%E6%82%94%E8%84%B1%E6%AC%A7-%E6%83%9F%E7%8E%B0%E8%80%83%E8%99%91%E8%8B%B1%E9%87%8D%E8%BF%94%E6%AC%A7%E7%9B%9F-%E8%A7%84%E6%A8%A1%E5%A4%AA%E5%A4%A7%EF%BC%8C%E6%97%B6%E6%9C%BA%E5%A4%AA%E6%97%A9",
-      "time": "10-07 08:08",
-      "src": "AFP - JUSTIN T"
-    },
-    {
-      "title": "要变了：欧盟对华贸易政策正在走向主动防御",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261006-%E8%A6%81%E5%8F%98%E4%BA%86-%E6%AC%A7%E7%9B%9F%E5%AF%B9%E5%8D%8E%E8%B4%B8%E6%98%93%E6%94%BF%E7%AD%96%E6%AD%A3%E5%9C%A8%E8%B5%B0%E5%90%91%E4%B8%BB%E5%8A%A8%E9%98%B2%E5%BE%A1",
-      "time": "10-07 06:19",
-      "src": "法广RFI"
+      "title": "俄鼠疫事件：特朗普称不认为与生化武器有关，世卫组织及多国敦促俄方提供更多信息",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261007-%E4%BF%84%E9%BC%A0%E7%96%AB%E4%BA%8B%E4%BB%B6-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E8%AE%A4%E4%B8%BA%E4%B8%8E%E7%94%9F%E5%8C%96%E6%AD%A6%E5%99%A8%E6%9C%89%E5%85%B3%EF%BC%8C%E4%B8%96%E5%8D%AB%E7%BB%84%E7%BB%87%E5%8F%8A%E5%A4%9A%E5%9B%BD%E6%95%A6%E4%BF%83%E4%BF%84%E6%96%B9%E6%8F%90%E4%BE%9B%E6%9B%B4%E5%A4%9A%E4%BF%A1%E6%81%AF",
+      "time": "10-08 03:22",
+      "src": "© The Irkutsk "
     }
   ],
   "econ_news": [
+    {
+      "title": "2599 美元 / 5999 美元：微软 Surface Laptop Ultra 笔记本、Surface RTX Spark Dev Box 开发机价格公布",
+      "link": "https://www.ithome.com/1/010/312.htm",
+      "time": "10-08 01:52",
+      "src": "IT之家"
+    },
     {
       "title": "余承东：从 2007 年到 2025 年底，华为累计研发投入超 1.8 万亿元人民币",
       "link": "https://www.ithome.com/1/010/283.htm",
@@ -1082,99 +1091,93 @@
       "src": "IT之家"
     },
     {
-      "title": "支付宝：中秋国庆“双节”期间使用“碰一下”线下消费笔数同比增长近四成",
-      "link": "https://www.ithome.com/1/010/221.htm",
-      "time": "10-07 15:54",
-      "src": "IT之家"
+      "title": "（经济观察）流动中国释放假日经济新动能",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-07/10708824.shtml",
+      "time": "10-07 22:22",
+      "src": "中新网"
     },
     {
-      "title": "SpaceX拟融资400亿美元购买英伟达芯片 Apollo牵头融资",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1580990.htm",
-      "time": "10-07 13:33",
+      "title": "国际货币基金组织预计高油价将持续至明年",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-07/10708822.shtml",
+      "time": "10-07 22:02",
+      "src": "中新网"
+    },
+    {
+      "title": "前CIA高级官员承认虚构绝密项目骗取近1.94亿美元 还涉及298根金条",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1581092.htm",
+      "time": "10-08 02:35",
       "src": "cnBeta.COM"
     },
     {
-      "title": "日本Rapidus获约150亿美元政府支持 力争一年后启动2纳米芯片代工量产",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1580978.htm",
-      "time": "10-07 13:10",
+      "title": "捷豹推出售价13.05万美元电动车型 距引发争议的品牌重塑已过去两年",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1581036.htm",
+      "time": "10-07 23:32",
       "src": "cnBeta.COM"
     },
     {
-      "title": "恐成入欧“后门” 英贸易救济署指应对进口自中国的金红石型二氧化钛征反倾销税",
-      "link": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20261007-%E8%A2%AB%E6%8C%87%E6%81%90%E6%88%90%E5%85%A5%E6%AC%A7%E5%90%8E%E9%97%A8-%E8%8B%B1%E8%B4%B8%E6%98%93%E6%95%91%E6%B5%8E%E7%BD%B2%E6%8C%87%E5%BA%94%E5%AF%B9%E8%BF%9B%E5%8F%A3%E8%87%AA%E4%B8%AD%E5%9B%BD%E7%9A%84%E9%87%91%E7%BA%A2%E7%9F%B3%E5%9E%8B%E4%BA%8C%E6%B0%A7%E5%8C%96%E9%92%9B%E5%BE%81%E5%8F%8D%E5%80%BE%E9%94%80%E7%A8%8E",
-      "time": "10-07 20:54",
-      "src": "© 路透社图片"
-    },
-    {
-      "title": "欧盟贸易委员访华 欧方据报望周五前中方同意适度控制一特定领域出口",
-      "link": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20261007-%E6%AC%A7%E7%9B%9F%E8%B4%B8%E6%98%93%E5%A7%94%E5%91%98%E8%AE%BF%E5%8D%8E-%E6%AC%A7%E6%96%B9%E6%8D%AE%E6%8A%A5%E6%9C%9B%E5%91%A8%E4%BA%94%E5%89%8D%E4%B8%AD%E6%96%B9%E5%90%8C%E6%84%8F%E9%80%82%E5%BA%A6%E6%8E%A7%E5%88%B6%E4%B8%80%E7%89%B9%E5%AE%9A%E9%A2%86%E5%9F%9F%E5%87%BA%E5%8F%A3",
-      "time": "10-07 18:41",
-      "src": "© 美联社图片"
-    },
-    {
-      "title": "要变了：欧盟对华贸易政策正在走向主动防御",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261006-%E8%A6%81%E5%8F%98%E4%BA%86-%E6%AC%A7%E7%9B%9F%E5%AF%B9%E5%8D%8E%E8%B4%B8%E6%98%93%E6%94%BF%E7%AD%96%E6%AD%A3%E5%9C%A8%E8%B5%B0%E5%90%91%E4%B8%BB%E5%8A%A8%E9%98%B2%E5%BE%A1",
-      "time": "10-07 06:19",
-      "src": "法广RFI"
+      "title": "特朗普政府拟要求学校为留美工作的国际学生支付7万美元费用",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261007-%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%8B%9F%E8%A6%81%E6%B1%82%E5%AD%A6%E6%A0%A1%E4%B8%BA%E7%95%99%E7%BE%8E%E5%B7%A5%E4%BD%9C%E7%9A%84%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E6%94%AF%E4%BB%987%E4%B8%87%E7%BE%8E%E5%85%83%E8%B4%B9%E7%94%A8",
+      "time": "10-08 02:51",
+      "src": "REUTERS - Nath"
     }
   ],
   "game_news": [
     {
-      "title": "微软、OpenAI 遭美国多家地方媒体起诉，被指侵犯版权",
-      "link": "https://www.ithome.com/1/010/257.htm",
-      "time": "10-07 18:19",
+      "title": "微软发布 Win11 Beta / Experimental 多版本预览更新：全新搜索体验、电池状态小组件",
+      "link": "https://www.ithome.com/1/010/317.htm",
+      "time": "10-08 03:33",
       "src": "IT之家"
     },
     {
-      "title": "准系统 6689 元：铭凡 MS-03 迷你主机酷睿 Ultra 9 386H 版本开售",
-      "link": "https://www.ithome.com/1/010/247.htm",
-      "time": "10-07 17:52",
+      "title": "微软 Surface Laptop Ultra 探秘：迭代约 300 次，全球首款内置磁吸式 USB-C 接口",
+      "link": "https://www.ithome.com/1/010/323.htm",
+      "time": "10-08 03:00",
       "src": "IT之家"
     },
     {
-      "title": "《战锤 40K：星际战士 2》游戏免费周年庆更新上线：新增衍生全新围城模式、武器等",
-      "link": "https://www.ithome.com/1/010/240.htm",
-      "time": "10-07 17:10",
+      "title": "微软描绘 Autopilot 全新蓝图：让 Windows AI 从“回答问题”走向“执行任务”",
+      "link": "https://www.ithome.com/1/010/321.htm",
+      "time": "10-08 02:38",
       "src": "IT之家"
     },
     {
-      "title": "Denuvo 要求法院向 Discord、Reddit 和 Steam 发出传票，试图找出 D 加密破解者“voices38”",
-      "link": "https://www.ithome.com/1/010/234.htm",
-      "time": "10-07 16:53",
+      "title": "微软 Surface Laptop Ultra 售价公布：起价 21988 元，128GB 内存顶配售 48388 元",
+      "link": "https://www.ithome.com/1/010/320.htm",
+      "time": "10-08 02:33",
       "src": "IT之家"
     },
     {
-      "title": "雷蛇幻影战狼 V4 系列手柄发布：最高 8K 轮询率、支持 XBOX / PC 平台",
-      "link": "https://www.ithome.com/1/010/228.htm",
-      "time": "10-07 16:29",
+      "title": "英伟达黄仁勋回忆微软 Win95 往昔：没有 Windows 的话，CUDA 就不会诞生",
+      "link": "https://www.ithome.com/1/010/319.htm",
+      "time": "10-08 02:28",
       "src": "IT之家"
     },
     {
-      "title": "微软 XBOX CEO 夏尔马透露：XBOX PC 商店已是中国排名第一的 PC 游戏平台",
-      "link": "https://www.ithome.com/1/010/223.htm",
-      "time": "10-07 16:05",
+      "title": "《使命召唤》系列游戏明年登陆 RTX Spark 平台",
+      "link": "https://www.ithome.com/1/010/314.htm",
+      "time": "10-08 02:10",
       "src": "IT之家"
     },
     {
-      "title": "赛睿、KontrolFreek 发布《堡垒之夜》联名游戏外设，覆盖广泛类别",
-      "link": "https://www.ithome.com/1/010/222.htm",
-      "time": "10-07 16:05",
+      "title": "2599 美元 / 5999 美元：微软 Surface Laptop Ultra 笔记本、Surface RTX Spark Dev Box 开发机价格公布",
+      "link": "https://www.ithome.com/1/010/312.htm",
+      "time": "10-08 01:52",
       "src": "IT之家"
     },
     {
-      "title": "索尼推出玻璃紫款 INZONE E9、Fnatic 款 INZONE H9 II 游戏耳机",
-      "link": "https://www.ithome.com/1/010/220.htm",
-      "time": "10-07 15:53",
+      "title": "微软展示全新 Win11 搜索体验：从查找文件转向理解用户意图",
+      "link": "https://www.ithome.com/1/010/311.htm",
+      "time": "10-08 01:47",
       "src": "IT之家"
     }
   ],
   "game_update": [
     {
-      "title": "开发者为zswap提交两项优化补丁 特定测试中的页面读取延迟大幅下降",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1580970.htm",
-      "time": "10-07 13:01",
+      "title": "用户一觉醒来欠费5万块、被停服17小时 腾讯云致歉",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1581048.htm",
+      "time": "10-07 23:48",
       "src": "cnBeta.COM",
-      "type": "不停机更新"
+      "type": "停机维护"
     },
     {
       "title": "《PUBG》42.3版本 PC 8/12 维护(08:00-16:30): 时隔两年新增轻机枪 RPD, 轻机枪换弹-25%/后坐力调整, 主流玩法轮换开启",
@@ -1234,10 +1237,28 @@
       "src": "ISW"
     },
     {
-      "title": "《战锤 40K：星际战士 2》游戏免费周年庆更新上线：新增衍生全新围城模式、武器等",
-      "link": "https://www.ithome.com/1/010/240.htm",
-      "time": "10-07 17:10",
-      "src": "IT之家"
+      "title": "特朗普自称解决了八场战争，暗示如果诺贝尔和平奖不授予他将是“一大失误”",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261007-%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%AA%E7%A7%B0%E8%A7%A3%E5%86%B3%E4%BA%86%E5%85%AB%E5%9C%BA%E6%88%98%E4%BA%89%EF%BC%8C%E6%9A%97%E7%A4%BA%E5%A6%82%E6%9E%9C%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%92%8C%E5%B9%B3%E5%A5%96%E4%B8%8D%E6%8E%88%E4%BA%88%E4%BB%96%E5%B0%86%E6%98%AF-%E4%B8%80%E5%A4%A7%E5%A4%B1%E8%AF%AF",
+      "time": "10-08 03:42",
+      "src": "Angela Weiss/P"
+    },
+    {
+      "title": "特朗普称伊朗可“摧毁”洛杉矶与圣地牙哥　加州政界跨党派反弹",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261007-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BC%8A%E6%9C%97%E5%8F%AF-%E6%91%A7%E6%AF%81-%E6%B4%9B%E6%9D%89%E7%9F%B6%E4%B8%8E%E5%9C%A3%E5%9C%B0%E7%89%99%E5%93%A5-%E5%8A%A0%E5%B7%9E%E6%94%BF%E7%95%8C%E8%B7%A8%E5%85%9A%E6%B4%BE%E5%8F%8D%E5%BC%B9",
+      "time": "10-08 03:49",
+      "src": "REUTERS - Nath"
+    },
+    {
+      "title": "俄鼠疫事件：特朗普称不认为与生化武器有关，世卫组织及多国敦促俄方提供更多信息",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261007-%E4%BF%84%E9%BC%A0%E7%96%AB%E4%BA%8B%E4%BB%B6-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E8%AE%A4%E4%B8%BA%E4%B8%8E%E7%94%9F%E5%8C%96%E6%AD%A6%E5%99%A8%E6%9C%89%E5%85%B3%EF%BC%8C%E4%B8%96%E5%8D%AB%E7%BB%84%E7%BB%87%E5%8F%8A%E5%A4%9A%E5%9B%BD%E6%95%A6%E4%BF%83%E4%BF%84%E6%96%B9%E6%8F%90%E4%BE%9B%E6%9B%B4%E5%A4%9A%E4%BF%A1%E6%81%AF",
+      "time": "10-08 03:22",
+      "src": "© The Irkutsk "
+    },
+    {
+      "title": "面对也门叛军 巴基斯坦土耳其军队能部署至沙特境内？",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20261007-%E9%9D%A2%E5%AF%B9%E4%B9%9F%E9%97%A8%E5%8F%9B%E5%86%9B-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%9C%9F%E8%80%B3%E5%85%B6%E5%86%9B%E9%98%9F%E8%83%BD%E9%83%A8%E7%BD%B2%E8%87%B3%E6%B2%99%E7%89%B9%E5%A2%83%E5%86%85",
+      "time": "10-08 03:23",
+      "src": "© AFP"
     },
     {
       "title": "鉴于美军士兵涉嫌抢劫杀人  美军向驻冲绳全军发出禁止外出令",
@@ -1246,33 +1267,15 @@
       "src": "REUTERS - Kim "
     },
     {
-      "title": "港男涉「跨境镇压」袭击在台日媒矢板明夫 遭台方正式起诉及求刑5年",
-      "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261007-%E6%B8%AF%E7%94%B7%E6%B6%89-%E8%B7%A8%E5%A2%83%E9%95%87%E5%8E%8B-%E8%A2%AD%E5%87%BB%E5%9C%A8%E5%8F%B0%E6%97%A5%E5%AA%92%E7%9F%A2%E6%9D%BF%E6%98%8E%E5%A4%AB-%E9%81%AD%E5%8F%B0%E6%96%B9%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89%E5%8F%8A%E6%B1%82%E5%88%915%E5%B9%B4",
-      "time": "10-07 15:16",
-      "src": "© 网上资料图片"
-    },
-    {
-      "title": "法国试射未装载核弹头的潜射洲际导弹 马克龙称向对手传递威慑信号",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261006-%E6%B3%95%E5%9B%BD%E8%AF%95%E5%B0%84%E6%9C%AA%E8%A3%85%E8%BD%BD%E6%A0%B8%E5%BC%B9%E5%A4%B4%E7%9A%84%E6%BD%9C%E5%B0%84%E6%B4%B2%E9%99%85%E5%AF%BC%E5%BC%B9-%E9%A9%AC%E5%85%8B%E9%BE%99%E7%A7%B0%E5%90%91%E5%AF%B9%E6%89%8B%E4%BC%A0%E9%80%92%E5%A8%81%E6%85%91%E4%BF%A1%E5%8F%B7",
-      "time": "10-07 05:28",
-      "src": "via REUTERS - "
-    },
-    {
       "title": "機師刀刺同僚企圖劫機 杜拜往以色列航班乘客化解空難",
       "link": "https://www.bbc.com/zhongwen/articles/ck3rerpdp7x9o/trad?at_medium=RSS&at_campaign=rss",
       "time": "10-01 14:20",
       "src": "BBC中文"
     },
     {
-      "title": "报道：得克萨斯州共和党参议院候选人帕克斯顿私下将困境归咎于伊朗战争和汽油价格",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniumcqf4561671.shtml",
-      "time": "10-07 19:20",
-      "src": "环球市场播报"
-    },
-    {
-      "title": "胡塞武装袭击、美国墨西哥湾风暴加剧供应风险，油价上行",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniumcpz4810539.shtml",
-      "time": "10-07 18:41",
+      "title": "鲁比奥：在伊朗僵局中，德黑兰错失“多次”达成核协议的机会",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniumivv8025697.shtml",
+      "time": "10-07 22:44",
       "src": "环球市场播报"
     }
   ]
