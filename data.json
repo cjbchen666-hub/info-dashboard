@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10 03:23",
+  "generated_at": "2026-10-10 07:56",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -239,18 +239,6 @@
         "src": "IT之家"
       },
       {
-        "title": "打折还是 MOVA 猛：P70S 活水洗地扫拖机器人 3299 → 999 元 20:00 开抢",
-        "link": "https://www.ithome.com/1/011/090.htm",
-        "time": "10-09 18:37",
-        "src": "IT之家"
-      },
-      {
-        "title": "证监会就公募基金运作管理办法及配套规则公开征求意见",
-        "link": "https://www.chinanews.com.cn/cj/2026/10-09/10709933.shtml",
-        "time": "10-09 22:02",
-        "src": "中新网"
-      },
-      {
         "title": "全球牡蛎礁中蕴藏着高达12万亿美元的生态服务价值",
         "link": "https://www.cnbeta.com.tw/articles/science/1581374.htm",
         "time": "10-09 14:00",
@@ -263,21 +251,33 @@
         "src": "BBC中文"
       },
       {
+        "title": "美国股市：标普500指数距历史高位咫尺之遥 交易员看好财报季表现",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusnxx7572106.shtml",
+        "time": "10-10 05:12",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "10月10日美股成交额前20：微软涨2.38% 推出面向快速决策的Microsoft-Decision-1模型",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusnxt6398412.shtml",
+        "time": "10-10 05:00",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "美光科技12月将股票回购计划规模扩大至350亿美元",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusnxt6394399.shtml",
+        "time": "10-10 04:33",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "10月10日美股收盘：道指涨423点 三大股指本周均录得涨幅 科技股普涨",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusnxx7548886.shtml",
+        "time": "10-10 04:07",
+        "src": "环球市场播报"
+      },
+      {
         "title": "白宫成立委员会调查美联储理事库克 要求其11月5日出席白宫听证",
         "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-09/doc-iniusakc7713013.shtml",
         "time": "10-09 23:51",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "特朗普组建委员会，调查美联储理事丽莎・库克的相关陈述",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-09/doc-iniusaix2635117.shtml",
-        "time": "10-09 23:47",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "特朗普任命委员会调查美联储丽莎·库克的陈述",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-09/doc-iniusaka0920941.shtml",
-        "time": "10-09 23:03",
         "src": "环球市场播报"
       }
     ]
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 51738.59,
-      "pct": 0.99,
-      "chg": 506.95,
-      "amount": "1194711991亿"
+      "price": 51654.95,
+      "pct": 0.83,
+      "chg": 423.31,
+      "amount": "1750102573亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 27389.51,
-      "pct": 0.72,
-      "chg": 196.17,
-      "amount": "12734442421亿"
+      "price": 27366.17,
+      "pct": 0.64,
+      "chg": 172.83,
+      "amount": "16681009457亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7819.05,
-      "pct": 0.69,
-      "chg": 53.69,
-      "amount": "1396005685亿"
+      "price": 7811.54,
+      "pct": 0.59,
+      "chg": 46.18,
+      "amount": "2066738869亿"
     }
   ],
   "anime": {
@@ -345,7 +345,7 @@
         "score": 7.5,
         "img": "http://lain.bgm.tv/pic/cover/c/01/88/899_REwVW.jpg",
         "air_date": "1996-01-08",
-        "rank": 905
+        "rank": 906
       },
       {
         "id": 559080,
@@ -363,7 +363,7 @@
         "score": 7.5,
         "img": "http://lain.bgm.tv/pic/cover/c/be/e7/567896_RWffW.jpg",
         "air_date": "2026-10-03",
-        "rank": 1401
+        "rank": 1381
       },
       {
         "id": 554779,
@@ -372,7 +372,7 @@
         "score": 7.4,
         "img": "http://lain.bgm.tv/pic/cover/c/17/c7/554779_oPitO.jpg",
         "air_date": "2026-10-03",
-        "rank": 1115
+        "rank": 1108
       },
       {
         "id": 568525,
@@ -390,7 +390,7 @@
         "score": 7.2,
         "img": "http://lain.bgm.tv/pic/cover/c/7a/49/637802_YVTam.jpg",
         "air_date": "2026-10-03",
-        "rank": 1841
+        "rank": 1782
       },
       {
         "id": 616808,
@@ -399,7 +399,7 @@
         "score": 6.4,
         "img": "http://lain.bgm.tv/pic/cover/c/f9/ae/616808_F80Sl.jpg",
         "air_date": "2026-10-03",
-        "rank": 5036
+        "rank": 5081
       },
       {
         "id": 636512,
@@ -408,7 +408,7 @@
         "score": 6.1,
         "img": "http://lain.bgm.tv/pic/cover/c/42/ae/636512_oOtDt.jpg",
         "air_date": "2026-10-03",
-        "rank": 6514
+        "rank": 6592
       },
       {
         "id": 456078,
@@ -417,7 +417,7 @@
         "score": 6.0,
         "img": "http://lain.bgm.tv/pic/cover/c/f5/6b/456078_jtjPi.jpg",
         "air_date": "2026-10-03",
-        "rank": 6581
+        "rank": 6698
       },
       {
         "id": 617273,
@@ -435,7 +435,7 @@
         "score": 5.7,
         "img": "http://lain.bgm.tv/pic/cover/c/9e/00/586255_FcfsN.jpg",
         "air_date": "2026-10-03",
-        "rank": 7701
+        "rank": 7776
       },
       {
         "id": 657084,
@@ -453,7 +453,7 @@
         "score": 5.5,
         "img": "http://lain.bgm.tv/pic/cover/c/61/81/542007_wNKJa.jpg",
         "air_date": "2026-10-03",
-        "rank": 7337
+        "rank": 7435
       },
       {
         "id": 702192,
@@ -471,7 +471,7 @@
         "score": 4.1,
         "img": "http://lain.bgm.tv/pic/cover/c/15/11/606716_Om183.jpg",
         "air_date": "2026-10-03",
-        "rank": 9718
+        "rank": 9763
       },
       {
         "id": 637206,
@@ -538,6 +538,25 @@
   "ai": {
     "news_zh": [
       {
+        "title": "决策模型 Jev 爆火，开发商 TypeSafe AI 估值已达 75 亿美元",
+        "link": "https://www.ithome.com/1/011/170.htm",
+        "time": "10-10 07:28",
+        "src": "IT之家"
+      },
+      {
+        "title": "避免驱动故障致 Win11 崩溃：微软推动驱动质量倡议，英特尔 GPU 驱动率先适配 26H2",
+        "link": "https://www.ithome.com/1/011/168.htm",
+        "time": "10-10 07:22",
+        "src": "IT之家"
+      },
+      {
+        "title": "谷歌 Gemini 4“Argon”模型即将发布，消息称内部测试“Carbon”新版本",
+        "link": "https://www.ithome.com/1/011/162.htm",
+        "time": "10-10 06:51",
+        "src": "IT之家",
+        "type": "不停机更新"
+      },
+      {
         "title": "国务院发布《关于发展新质生产力的意见》：加快推进智能网联新能源汽车、人工智能手机和电脑、人形机器人等新一代智能终端场景应用",
         "link": "https://www.ithome.com/1/011/142.htm",
         "time": "10-09 22:10",
@@ -562,64 +581,46 @@
         "src": "IT之家"
       },
       {
-        "title": "懂车帝：网传内部整顿通知截图系 AI 生成，相关信息均为谣言",
-        "link": "https://www.ithome.com/1/011/096.htm",
-        "time": "10-09 19:25",
-        "src": "IT之家"
-      },
-      {
-        "title": "打折还是 MOVA 猛：P70S 活水洗地扫拖机器人 3299 → 999 元 20:00 开抢",
-        "link": "https://www.ithome.com/1/011/090.htm",
-        "time": "10-09 18:37",
-        "src": "IT之家"
-      },
-      {
-        "title": "受内存、存储芯片短缺推高价格 游戏硬件销量跌至13年新低",
-        "link": "https://www.cnbeta.com.tw/articles/game/1581434.htm",
-        "time": "10-10 01:39",
-        "src": "cnBeta.COM"
-      },
-      {
-        "title": "分析师：英伟达或将在2028年下半年采用英特尔Foveros封装技术",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1581424.htm",
-        "time": "10-09 23:31",
-        "src": "cnBeta.COM"
+        "title": "科威特3.7亿英镑采购英国人工智能防空系统",
+        "link": "https://www.chinanews.com.cn/gj/2026/10-10/10709967.shtml",
+        "time": "10-10 06:57",
+        "src": "中新网"
       }
     ],
     "hf": [
       {
         "id": "google/embeddinggemma-2",
-        "likes": 1322,
+        "likes": 1345,
         "downloads": 29185,
         "pipeline": "feature-extraction"
       },
       {
         "id": "Cloudflare/clef",
-        "likes": 1933,
+        "likes": 1942,
         "downloads": 12066,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "Aleph-Alpha/Kolibri-1",
-        "likes": 838,
+        "likes": 842,
         "downloads": 8474,
         "pipeline": "text-generation"
       },
       {
         "id": "jialinyyzz/humanizer",
-        "likes": 728,
+        "likes": 743,
         "downloads": 29470,
         "pipeline": "text-generation"
       },
       {
         "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-        "likes": 3748,
+        "likes": 3767,
         "downloads": 2013268,
         "pipeline": "text-to-image"
       },
       {
         "id": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
-        "likes": 672,
+        "likes": 673,
         "downloads": 38740,
         "pipeline": "text-generation"
       }
@@ -793,6 +794,12 @@
   ],
   "hw_news": [
     {
+      "title": "避免驱动故障致 Win11 崩溃：微软推动驱动质量倡议，英特尔 GPU 驱动率先适配 26H2",
+      "link": "https://www.ithome.com/1/011/168.htm",
+      "time": "10-10 07:22",
+      "src": "IT之家"
+    },
+    {
       "title": "漫步者“EDF200259”耳机通过星闪测试列名，预计将成第二款支持星闪音频三方品牌耳机",
       "link": "https://www.ithome.com/1/011/151.htm",
       "time": "10-09 23:15",
@@ -808,18 +815,6 @@
       "title": "小米推出 REDMI 显示器支架臂：隐藏式理线槽、兼容 VESA 75x75/100×100mm 壁挂，299 元",
       "link": "https://www.ithome.com/1/011/118.htm",
       "time": "10-09 20:47",
-      "src": "IT之家"
-    },
-    {
-      "title": "1299 → 978 元：华为 FreeClip 2 耳夹耳机京东国补后终破千元",
-      "link": "https://www.ithome.com/1/011/071.htm",
-      "time": "10-09 17:29",
-      "src": "IT之家"
-    },
-    {
-      "title": "VGN 霓虹 75 Turbo 磁轴键盘首销：0.005mm RT 精度、双 8KHz 回报率，439 元",
-      "link": "https://www.ithome.com/1/011/100.htm",
-      "time": "10-09 19:34",
       "src": "IT之家"
     },
     {
@@ -859,10 +854,16 @@
       "src": "环球市场播报"
     },
     {
-      "title": "联想YOGA Pro 15 RTX Spark开启中国市场预售",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniupnvc7545953.shtml",
-      "time": "10-08 20:03",
-      "src": "新浪科技"
+      "title": "Computex 2026: NVIDIA 发布 ARM 架构 PC 芯片 RTX Spark, 集成 Blackwell GPU, 对标苹果 M5",
+      "link": "https://new.qq.com/rain/a/20260605A09PXY00",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "AMD 发布 Ryzen 7 7700X3D(104MB缓存,$329) 与 Radeon RX 9070 GRE(12GB,$549), 强化 1440p 游戏市场",
+      "link": "https://www.91mobiles.com/hub/computex-2026-amd-ryzen-x3d-cpus-radeon-9070-gre",
+      "time": "精选",
+      "src": "资讯整理"
     }
   ],
   "kojima": {
@@ -1042,12 +1043,6 @@
         "src": "cnBeta.COM"
       },
       {
-        "title": "内存涨价压垮利润！三星手机计划Q4减产高达30%",
-        "link": "https://finance.sina.com.cn/tech/discovery/2026-10-08/doc-iniuphpf3681206.shtml",
-        "time": "10-08 18:00",
-        "src": "快科技"
-      },
-      {
         "title": "《动画产业报告2025》: 市场规模达 3.84 万亿日元创历史新高, 海外占比约 56.5%",
         "link": "https://www.info35.net/hotopics/44871.html",
         "time": "精选",
@@ -1075,6 +1070,12 @@
   },
   "intl_news": [
     {
+      "title": "德国交通部提出异议后，特斯拉在欧洲市场将 FSD 更名为“特斯拉辅助驾驶”",
+      "link": "https://www.ithome.com/1/011/164.htm",
+      "time": "10-10 06:59",
+      "src": "IT之家"
+    },
+    {
       "title": "中国科学院院士郭华东获颁 2026 年度国际宇航联合会“名人堂”奖，主持研发全球首颗可持续发展科学卫星 1 号",
       "link": "https://www.ithome.com/1/011/152.htm",
       "time": "10-09 23:18",
@@ -1093,37 +1094,37 @@
       "src": "IT之家"
     },
     {
-      "title": "国际刑事法院强烈反对美国制裁 呼吁成员国支持其运作",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-09/10709960.shtml",
-      "time": "10-09 23:36",
+      "title": "从东博会“新秀”看中国—东盟合作引力",
+      "link": "https://www.chinanews.com.cn/aseaninfo/2026/10-10/10709985.shtml",
+      "time": "10-10 07:41",
       "src": "中新网"
     },
     {
-      "title": "伊朗革命卫队：加剧地区海上运输紧张局势的责任在美军",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-09/10709955.shtml",
-      "time": "10-09 22:52",
+      "title": "普京与特朗普通话 确认俄将向美及全球供应石油",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-10/10709982.shtml",
+      "time": "10-10 07:19",
       "src": "中新网"
     },
     {
-      "title": "马来西亚拟优化全球服务枢纽税收优惠 企业所得税率低至5%",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-09/10709950.shtml",
-      "time": "10-09 22:20",
+      "title": "中方：乌克兰危机不能继续走向升级失控",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-10/10709976.shtml",
+      "time": "10-10 07:09",
       "src": "中新网"
     },
     {
-      "title": "中国官方：推动中医药国际合作更加贴近各国卫生健康需求",
-      "link": "https://www.chinanews.com.cn/ydyl/2026/10-09/10709927.shtml",
-      "time": "10-09 22:05",
-      "src": "中新网"
-    },
-    {
-      "title": "何立峰会见欧盟委员会贸易和经济安全委员谢夫乔维奇",
-      "link": "https://www.chinanews.com.cn/gn/2026/10-09/10709929.shtml",
-      "time": "10-09 22:03",
+      "title": "欧盟对美国宣布制裁国际刑事法院深表遗憾 将全力确保国际刑事法院履职",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-10/10709970.shtml",
+      "time": "10-10 07:01",
       "src": "中新网"
     }
   ],
   "econ_news": [
+    {
+      "title": "决策模型 Jev 爆火，开发商 TypeSafe AI 估值已达 75 亿美元",
+      "link": "https://www.ithome.com/1/011/170.htm",
+      "time": "10-10 07:28",
+      "src": "IT之家"
+    },
     {
       "title": "商务部：中欧双方以符合世贸组织规则的方式就混动汽车贸易达成谅解",
       "link": "https://www.ithome.com/1/011/135.htm",
@@ -1137,43 +1138,49 @@
       "src": "IT之家"
     },
     {
-      "title": "经典策略游戏《冰汽时代》10 月 19 日登陆任天堂 Switch 平台，首发价 20.99 美元",
-      "link": "https://www.ithome.com/1/011/095.htm",
-      "time": "10-09 19:07",
-      "src": "IT之家"
-    },
-    {
-      "title": "（经济观察）发展新质生产力 中国明确企业做创新主角",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-09/10709953.shtml",
-      "time": "10-09 23:00",
+      "title": "英国首相伯纳姆：推进创新驱动的“再工业化”",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-10/10709966.shtml",
+      "time": "10-10 06:56",
       "src": "中新网"
     },
     {
-      "title": "“第一经济大省”广东吹响新集结号：向先进制造全面进军",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-09/10709949.shtml",
-      "time": "10-09 22:17",
+      "title": "超5万家机构一年出具报告5.71亿份 检验检测机构为经济发展添动能",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-10/10709971.shtml",
+      "time": "10-10 06:43",
       "src": "中新网"
     },
     {
-      "title": "泰国以光影科技激活东北文化资源推动夜间旅游和地方经济",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-09/10709945.shtml",
-      "time": "10-09 22:14",
+      "title": "柬越两国致力于将双边贸易额提升至200亿美元",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-10/10709964.shtml",
+      "time": "10-10 06:40",
       "src": "中新网"
     },
     {
-      "title": "商务部新闻发言人就美国召集部分经济体发布应对所谓“结构性产能和生产过剩”问题部长级联合声明答记者问",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-09/10709942.shtml",
-      "time": "10-09 22:04",
-      "src": "中新网"
+      "title": "OpenAI预计年底年化收入达到700亿美元 9月底仅500亿美元的消息一度引发美股科技股抛售",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1581390.htm",
+      "time": "10-09 15:49",
+      "src": "cnBeta.COM"
     },
     {
-      "title": "何立峰会见欧盟委员会贸易和经济安全委员谢夫乔维奇",
-      "link": "https://www.chinanews.com.cn/gn/2026/10-09/10709929.shtml",
-      "time": "10-09 22:03",
-      "src": "中新网"
+      "title": "微软以旧换新吸引Mac用户换购Surface Laptop Ultra 最高返现1000美元",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1581382.htm",
+      "time": "10-09 14:11",
+      "src": "cnBeta.COM"
     }
   ],
   "game_news": [
+    {
+      "title": "避免驱动故障致 Win11 崩溃：微软推动驱动质量倡议，英特尔 GPU 驱动率先适配 26H2",
+      "link": "https://www.ithome.com/1/011/168.htm",
+      "time": "10-10 07:22",
+      "src": "IT之家"
+    },
+    {
+      "title": "微软推出 Microsoft-Decision-1 决策模型，基于 Qwen3.5-9B",
+      "link": "https://www.ithome.com/1/011/166.htm",
+      "time": "10-10 07:12",
+      "src": "IT之家"
+    },
     {
       "title": "剧情驱动末日生存沙盒《永冻纪元》登陆 Steam：国区首发价 ¥95.20，支持简中配音",
       "link": "https://www.ithome.com/1/011/127.htm",
@@ -1199,18 +1206,6 @@
       "src": "IT之家"
     },
     {
-      "title": "利民 DYNAMIC VISION 360 ARGB 一体式水冷散热器发售：冷头配 5 英寸可旋转面板，549 元起",
-      "link": "https://www.ithome.com/1/011/097.htm",
-      "time": "10-09 19:28",
-      "src": "IT之家"
-    },
-    {
-      "title": "经典策略游戏《冰汽时代》10 月 19 日登陆任天堂 Switch 平台，首发价 20.99 美元",
-      "link": "https://www.ithome.com/1/011/095.htm",
-      "time": "10-09 19:07",
-      "src": "IT之家"
-    },
-    {
       "title": "【抽奖】生存恐怖×类银河恶魔城！《银松镇》今日发售，支持中文",
       "link": "https://www.gcores.com/articles/220686",
       "time": "10-09 14:37",
@@ -1224,6 +1219,13 @@
     }
   ],
   "game_update": [
+    {
+      "title": "谷歌 Gemini 4“Argon”模型即将发布，消息称内部测试“Carbon”新版本",
+      "link": "https://www.ithome.com/1/011/162.htm",
+      "time": "10-10 06:51",
+      "src": "IT之家",
+      "type": "不停机更新"
+    },
     {
       "title": "《三角洲行动》DAU突破5800万",
       "link": "https://finance.sina.com.cn/tech/2026-10-09/doc-iniuqywm3041683.shtml",
@@ -1272,13 +1274,6 @@
       "time": "8-13",
       "type": "停机维护",
       "src": "腾讯官方"
-    },
-    {
-      "title": "《部落冲突》8/5 6:00 停机维护(预计180分钟): 周年庆版本上线, 维护后首领可领维护礼包",
-      "link": "https://new.qq.com/rain/a/20260804A0EYI300",
-      "time": "8-05",
-      "type": "停机维护",
-      "src": "腾讯官方"
     }
   ],
   "mil_news": [
@@ -1289,15 +1284,15 @@
       "src": "ISW"
     },
     {
-      "title": "日本将强化太空运输能力 加速布局太空军事力量",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-09/10709961.shtml",
-      "time": "10-09 23:52",
+      "title": "科威特3.7亿英镑采购英国人工智能防空系统",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-10/10709967.shtml",
+      "time": "10-10 06:57",
       "src": "中新网"
     },
     {
-      "title": "伊朗革命卫队：加剧地区海上运输紧张局势的责任在美军",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-09/10709955.shtml",
-      "time": "10-09 22:52",
+      "title": "日本将强化太空运输能力 加速布局太空军事力量",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-09/10709961.shtml",
+      "time": "10-09 23:52",
       "src": "中新网"
     },
     {
@@ -1307,28 +1302,28 @@
       "src": "cnBeta.COM"
     },
     {
-      "title": "独联体峰会首次邀伊朗参加，德黑兰提议创“独联体+1”机制",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261009-%E7%8B%AC%E8%81%94%E4%BD%93%E5%B3%B0%E4%BC%9A%E9%A6%96%E6%AC%A1%E9%82%80%E4%BC%8A%E6%9C%97%E5%8F%82%E5%8A%A0%EF%BC%8C%E4%BC%8A%E6%8F%90%E8%AE%AE%E5%88%9B-%E7%8B%AC%E8%81%94%E4%BD%93-1-%E6%9C%BA%E5%88%B6",
-      "time": "10-09 17:58",
-      "src": "© Sergei Bobyl"
+      "title": "欧中贸易谈判：双方能否避免贸易冲突升级，仍不确定",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261009-%E6%AC%A7%E4%B8%AD%E8%B4%B8%E6%98%93%E8%B0%88%E5%88%A4-%E5%8F%8C%E6%96%B9%E8%83%BD%E5%90%A6%E9%81%BF%E5%85%8D%E8%B4%B8%E6%98%93%E5%86%B2%E7%AA%81%E5%8D%87%E7%BA%A7%EF%BC%8C%E4%BB%8D%E4%B8%8D%E7%A1%AE%E5%AE%9A",
+      "time": "10-10 07:20",
+      "src": "法广RFI"
+    },
+    {
+      "title": "俄军加大攻击乌克兰 美国向乌克兰展示与俄谈好的和平新构想",
+      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261009-%E4%BF%84%E5%86%9B%E5%8A%A0%E5%A4%A7%E6%94%BB%E5%87%BB%E4%B9%8C%E5%85%8B%E5%85%B0-%E7%BE%8E%E5%9B%BD%E5%90%91%E4%B9%8C%E5%85%8B%E5%85%B0%E5%B1%95%E7%A4%BA%E4%B8%8E%E4%BF%84%E8%B0%88%E5%A5%BD%E7%9A%84%E5%92%8C%E5%B9%B3%E6%96%B0%E6%9E%84%E6%83%B3",
+      "time": "10-10 04:42",
+      "src": "©  National Po"
+    },
+    {
+      "title": "黑山驱逐一位俄罗斯军事博主",
+      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261009-%E9%BB%91%E5%B1%B1%E9%A9%B1%E9%80%90%E4%B8%80%E4%BD%8D%E4%BF%84%E7%BD%97%E6%96%AF%E5%86%9B%E4%BA%8B%E5%8D%9A%E4%B8%BB",
+      "time": "10-10 04:26",
+      "src": "© AFP / KIRILL"
     },
     {
       "title": "以色列大選：哈馬斯襲擊三年後，以色列民眾要求追究責任",
       "link": "https://www.bbc.com/zhongwen/articles/c615j9n1xlkpo/trad?at_medium=RSS&at_campaign=rss",
       "time": "10-08 15:50",
       "src": "BBC中文"
-    },
-    {
-      "title": "機師刀刺同僚企圖劫機 杜拜往以色列航班乘客化解空難",
-      "link": "https://www.bbc.com/zhongwen/articles/ck3rerpdp7x9o/trad?at_medium=RSS&at_campaign=rss",
-      "time": "10-01 14:20",
-      "src": "BBC中文"
-    },
-    {
-      "title": "尊界刹车踏板支架断裂风波后，懂车帝测试人员遭遇短信轰炸",
-      "link": "https://finance.sina.com.cn/tob/2026-10-09/doc-iniuquqf7200414.shtml",
-      "time": "10-09 09:36",
-      "src": "新浪科技"
     }
   ]
 }
