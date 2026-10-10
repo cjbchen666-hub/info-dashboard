@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11 02:23",
+  "generated_at": "2026-10-11 07:23",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -345,7 +345,7 @@
         "score": 7.1,
         "img": "http://lain.bgm.tv/pic/cover/c/67/5a/555605_cLCw5.jpg",
         "air_date": "2026-10-04",
-        "rank": 2209
+        "rank": 2161
       },
       {
         "id": 623249,
@@ -372,7 +372,7 @@
         "score": 6.6,
         "img": "http://lain.bgm.tv/pic/cover/c/44/ed/634210_O7aNK.jpg",
         "air_date": "2026-10-04",
-        "rank": 3335
+        "rank": 3327
       },
       {
         "id": 548156,
@@ -381,7 +381,7 @@
         "score": 6.4,
         "img": "http://lain.bgm.tv/pic/cover/c/f1/6c/548156_L3fC6.jpg",
         "air_date": "2026-10-04",
-        "rank": 5159
+        "rank": 5158
       },
       {
         "id": 630160,
@@ -390,7 +390,7 @@
         "score": 6.4,
         "img": "http://lain.bgm.tv/pic/cover/c/9e/b5/630160_tL25y.jpg",
         "air_date": "2026-10-04",
-        "rank": 5301
+        "rank": 5342
       },
       {
         "id": 636023,
@@ -399,7 +399,7 @@
         "score": 6.2,
         "img": "http://lain.bgm.tv/pic/cover/c/94/c9/636023_iF8j7.jpg",
         "air_date": "2026-10-04",
-        "rank": 5696
+        "rank": 5736
       },
       {
         "id": 621073,
@@ -435,7 +435,7 @@
         "score": 5.8,
         "img": "http://lain.bgm.tv/pic/cover/c/3e/fc/536270_51P45.jpg",
         "air_date": "2026-10-04",
-        "rank": 7158
+        "rank": 7112
       },
       {
         "id": 688797,
@@ -471,7 +471,7 @@
         "score": 5.4,
         "img": "http://lain.bgm.tv/pic/cover/c/af/7e/656083_B22Yt.jpg",
         "air_date": "2026-10-04",
-        "rank": 8548
+        "rank": 8567
       },
       {
         "id": 636058,
@@ -507,7 +507,7 @@
         "score": 4.5,
         "img": "http://lain.bgm.tv/pic/cover/c/24/df/647220_cZZjY.jpg",
         "air_date": "2026-10-04",
-        "rank": 9607
+        "rank": 9614
       },
       {
         "id": 632817,
@@ -523,7 +523,7 @@
   "ukraine": {
     "title": "Russian Offensive Campaign Assessment",
     "summary": "ISW’s Russia and Ukraine team produces the maps and analysis of record of the war in Ukraine. The Russian Offensive Campaign Assessment provides a synthetic running intelligence estimate of Putin’s political and military objectives in Ukraine and the design, prosecution, and outcomes of Russia’s war effort. ISW has published this update daily since Russia’s full-scale invasion of Ukraine in February 2022. Each update includes an assessment of the latest battlefield changes at the operational and tactical levels of war as well as an updated strategic assessment and forecast of the war’s trajectory along with numer",
-    "map_url": "https://understandingwar.org/map/assessed-control-of-terrain-in-eastern-dnipropetrovsk-oblast-october-9-2026-at-130-pm-et/",
+    "map_url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-vovchansk-direction-october-10-2026-at-130-pm-et/",
     "url": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment",
     "links": [
       {
@@ -532,7 +532,7 @@
       },
       {
         "name": "ISW 官方地图页",
-        "url": "https://understandingwar.org/map/assessed-control-of-terrain-in-eastern-dnipropetrovsk-oblast-october-9-2026-at-130-pm-et/"
+        "url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-vovchansk-direction-october-10-2026-at-130-pm-et/"
       },
       {
         "name": "实时战线地图 Liveuamap",
@@ -546,6 +546,24 @@
   },
   "ai": {
     "news_zh": [
+      {
+        "title": "微软 CEO 纳德拉：开发者应当默认假设 AI 模型失控，思考如何强制中断任务",
+        "link": "https://www.ithome.com/1/011/545.htm",
+        "time": "10-11 07:19",
+        "src": "IT之家"
+      },
+      {
+        "title": "亚马逊云科技向姚明发起的姚基金捐赠 100 万美元现金及云 + AI 资源，目标培养 AI + 体育复合型人才",
+        "link": "https://www.ithome.com/1/011/542.htm",
+        "time": "10-11 06:53",
+        "src": "IT之家"
+      },
+      {
+        "title": "消息称英伟达洽谈收购 / 追加投资 Reflection AI，加码开源模型",
+        "link": "https://www.ithome.com/1/011/541.htm",
+        "time": "10-11 06:46",
+        "src": "IT之家"
+      },
       {
         "title": "腾讯元器将于 11 月 9 日停止服务，所创建智能体将不再可用",
         "link": "https://www.ithome.com/1/011/530.htm",
@@ -575,54 +593,36 @@
         "link": "https://www.ithome.com/1/011/504.htm",
         "time": "10-10 20:33",
         "src": "IT之家"
-      },
-      {
-        "title": "我国食品安全法修订草案公开征求意见，涉及 AI 监管、校园食品安全等",
-        "link": "https://www.ithome.com/1/011/500.htm",
-        "time": "10-10 20:03",
-        "src": "IT之家"
-      },
-      {
-        "title": "华盛顿大学研发跳跃机器人“DirectHop”：仅重1克 可精准控制跳跃高度并连续行动",
-        "link": "https://www.cnbeta.com.tw/articles/science/1581562.htm",
-        "time": "10-10 23:19",
-        "src": "cnBeta.COM"
-      },
-      {
-        "title": "AI“读心”新突破：凭脑扫描还原人眼所见 下一站是“读梦”？",
-        "link": "https://www.cnbeta.com.tw/articles/science/1581550.htm",
-        "time": "10-10 20:59",
-        "src": "cnBeta.COM"
       }
     ],
     "hf": [
       {
         "id": "google/embeddinggemma-2",
-        "likes": 1473,
+        "likes": 1502,
         "downloads": 45605,
         "pipeline": "feature-extraction"
       },
       {
         "id": "Cloudflare/clef",
-        "likes": 1978,
+        "likes": 1985,
         "downloads": 13579,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "jialinyyzz/humanizer",
-        "likes": 921,
+        "likes": 946,
         "downloads": 33664,
         "pipeline": "text-generation"
       },
       {
         "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-        "likes": 3848,
+        "likes": 3866,
         "downloads": 2096562,
         "pipeline": "text-to-image"
       },
       {
         "id": "Aleph-Alpha/Kolibri-1",
-        "likes": 857,
+        "likes": 860,
         "downloads": 10496,
         "pipeline": "text-generation"
       },
@@ -832,12 +832,6 @@
       "src": "IT之家"
     },
     {
-      "title": "曜越新款 CTE E660 MX 机箱上市：CTE 设计、支持背插主板，999 元",
-      "link": "https://www.ithome.com/1/011/474.htm",
-      "time": "10-10 18:09",
-      "src": "IT之家"
-    },
-    {
       "title": "PS3安卓模拟器ARMSX3上架Google Play 运行轻量游戏至少需8GB内存",
       "link": "https://www.cnbeta.com.tw/articles/game/1581538.htm",
       "time": "10-10 16:59",
@@ -872,6 +866,12 @@
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-09/doc-iniurrui7830395.shtml",
       "time": "10-09 19:23",
       "src": "环球市场播报"
+    },
+    {
+      "title": "Computex 2026: NVIDIA 发布 ARM 架构 PC 芯片 RTX Spark, 集成 Blackwell GPU, 对标苹果 M5",
+      "link": "https://new.qq.com/rain/a/20260605A09PXY00",
+      "time": "精选",
+      "src": "资讯整理"
     }
   ],
   "kojima": {
@@ -1108,24 +1108,36 @@
       "src": "中新网"
     },
     {
-      "title": "零时差 | 贸易工具，治不了欧洲“等不及”的焦虑",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-10/10710829.shtml",
-      "time": "10-10 21:56",
-      "src": "中新网"
-    },
-    {
       "title": "中国女主播坐上“付费旋转椅” 观众花50元可转一圈 奇特直播模式引发全球热议",
       "link": "https://www.cnbeta.com.tw/articles/movie/1581572.htm",
       "time": "10-11 02:10",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "科学家揭开欧洲古代野牛消失之谜：并非单一灾难 而是多重压力共同导致灭绝",
+      "link": "https://www.cnbeta.com.tw/articles/science/1581546.htm",
+      "time": "10-10 20:19",
       "src": "cnBeta.COM"
     }
   ],
   "econ_news": [
     {
+      "title": "亚马逊云科技向姚明发起的姚基金捐赠 100 万美元现金及云 + AI 资源，目标培养 AI + 体育复合型人才",
+      "link": "https://www.ithome.com/1/011/542.htm",
+      "time": "10-11 06:53",
+      "src": "IT之家"
+    },
+    {
       "title": "「吉考斯工业 × 影之刃零」联名展示空间视觉公开",
       "link": "https://www.gcores.com/articles/220687",
       "time": "10-10 10:00",
       "src": "机核"
+    },
+    {
+      "title": "俄政府宣布部分解除柴油出口禁令",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-11/10710859.shtml",
+      "time": "10-11 06:21",
+      "src": "中新网"
     },
     {
       "title": "双节消费观察｜智能“上岗”，消费“焕新”",
@@ -1137,18 +1149,6 @@
       "title": "服务惠民、文旅旺城、消费增效 机关大院开放解锁了哪些新服务？",
       "link": "https://www.chinanews.com.cn/sh/2026/10-10/10710838.shtml",
       "time": "10-10 22:04",
-      "src": "中新网"
-    },
-    {
-      "title": "未来五年推进就业有哪些新变化？官方重磅发布",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-10/10710836.shtml",
-      "time": "10-10 22:01",
-      "src": "中新网"
-    },
-    {
-      "title": "零时差 | 贸易工具，治不了欧洲“等不及”的焦虑",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-10/10710829.shtml",
-      "time": "10-10 21:56",
       "src": "中新网"
     },
     {
@@ -1171,6 +1171,12 @@
     }
   ],
   "game_news": [
+    {
+      "title": "微软 CEO 纳德拉：开发者应当默认假设 AI 模型失控，思考如何强制中断任务",
+      "link": "https://www.ithome.com/1/011/545.htm",
+      "time": "10-11 07:19",
+      "src": "IT之家"
+    },
     {
       "title": "华为游戏助手弹幕通知功能适配机型公布，首批含 Pura X View、Mate XT 2 等",
       "link": "https://www.ithome.com/1/011/531.htm",
@@ -1211,12 +1217,6 @@
       "title": "北京核聚变，来Hit Academy试玩多款学生游戏！",
       "link": "https://www.gcores.com/articles/220700",
       "time": "10-10 10:00",
-      "src": "机核"
-    },
-    {
-      "title": "【抽奖】不只是挂机！自带91个职业的像素JRPG新游《幻想放置远征队》现已发售",
-      "link": "https://www.gcores.com/articles/220714",
-      "time": "10-10 09:40",
       "src": "机核"
     }
   ],
@@ -1286,6 +1286,12 @@
       "src": "ISW"
     },
     {
+      "title": "美总统：美国有可能加入沙特对胡塞武装的打击行动",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-11/10710863.shtml",
+      "time": "10-11 06:43",
+      "src": "中新网"
+    },
+    {
       "title": "以色列空袭加沙地带致5人死亡多人受伤",
       "link": "https://www.chinanews.com.cn/gj/2026/10-10/10710847.shtml",
       "time": "10-10 22:37",
@@ -1298,34 +1304,28 @@
       "src": "cnBeta.COM"
     },
     {
+      "title": "伊朗情侣狱中完婚 几小时后新郎被绞死",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20261010-%E4%BC%8A%E6%9C%97%E6%83%85%E4%BE%A3%E7%8B%B1%E4%B8%AD%E5%AE%8C%E5%A9%9A-%E5%87%A0%E5%B0%8F%E6%97%B6%E5%90%8E%E6%96%B0%E9%83%8E%E8%A2%AB%E7%BB%9E%E6%AD%BB",
+      "time": "10-11 03:57",
+      "src": "© 视频截图"
+    },
+    {
+      "title": "特朗普：将“很快”决定是否加入沙特对胡塞武装的空袭行动",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20261010-%E7%89%B9%E6%9C%97%E6%99%AE-%E5%B0%86-%E5%BE%88%E5%BF%AB-%E5%86%B3%E5%AE%9A%E6%98%AF%E5%90%A6%E5%8A%A0%E5%85%A5%E6%B2%99%E7%89%B9%E5%AF%B9%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E7%9A%84%E7%A9%BA%E8%A2%AD%E8%A1%8C%E5%8A%A8",
+      "time": "10-11 04:45",
+      "src": "© REUTERS - St"
+    },
+    {
+      "title": "卢比奥就驻日美军士兵涉抢劫杀人表示同情和慰问",
+      "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261010-%E5%8D%A2%E6%AF%94%E5%A5%A5%E5%B0%B1%E9%A9%BB%E6%97%A5%E7%BE%8E%E5%86%9B%E5%A3%AB%E5%85%B5%E6%B6%89%E6%8A%A2%E5%8A%AB%E6%9D%80%E4%BA%BA%E8%A1%A8%E7%A4%BA%E5%90%8C%E6%83%85%E5%92%8C%E6%85%B0%E9%97%AE",
+      "time": "10-11 04:22",
+      "src": "© Mark Schiefe"
+    },
+    {
       "title": "威特科夫等据报威胁若不停止袭击俄炼油厂或断情报支持 泽连斯基担心阿拉斯加2.0",
       "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261010-%E5%A8%81%E7%89%B9%E7%A7%91%E5%A4%AB%E7%AD%89%E6%8D%AE%E6%8A%A5%E5%A8%81%E8%83%81%E8%8B%A5%E4%B8%8D%E5%81%9C%E6%AD%A2%E8%A2%AD%E5%87%BB%E4%BF%84%E7%82%BC%E6%B2%B9%E5%8E%82%E6%88%96%E6%96%AD%E6%83%85%E6%8A%A5%E6%94%AF%E6%8C%81-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%8B%85%E5%BF%83%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A02-0",
       "time": "10-10 23:50",
       "src": "© 路透社图片"
-    },
-    {
-      "title": "小马科斯谈其最大的担心 并指仍希望促成菲中南海油气联合勘探",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261010-%E5%B0%8F%E9%A9%AC%E7%A7%91%E6%96%AF%E8%B0%88%E5%85%B6%E6%9C%80%E5%A4%A7%E7%9A%84%E6%8B%85%E5%BF%83-%E5%B9%B6%E6%8C%87%E4%BB%8D%E5%B8%8C%E6%9C%9B%E4%BF%83%E6%88%90%E8%8F%B2%E4%B8%AD%E5%8D%97%E6%B5%B7%E6%B2%B9%E6%B0%94%E8%81%94%E5%90%88%E5%8B%98%E6%8E%A2",
-      "time": "10-10 22:12",
-      "src": "© 美联社图片"
-    },
-    {
-      "title": "美国针对伊朗“影子舰队”网络 多家中国企业及关联船舶受制裁",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20261010-%E7%BE%8E%E5%9B%BD%E9%92%88%E5%AF%B9%E4%BC%8A%E6%9C%97-%E5%BD%B1%E5%AD%90%E8%88%B0%E9%98%9F-%E7%BD%91%E7%BB%9C-%E5%A4%9A%E5%AE%B6%E9%99%86%E6%B8%AF%E4%BC%81%E4%B8%9A%E5%8F%8A%E5%85%B3%E8%81%94%E8%88%B9%E8%88%B6%E5%8F%97%E5%88%B6%E8%A3%81",
-      "time": "10-10 20:03",
-      "src": "© 路透社图片"
-    },
-    {
-      "title": "美国称中国在台附近行动“极具破坏性”  赖清德:通过增加国防开支来“防止战争”",
-      "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261010-%E7%BE%8E%E5%9B%BD%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8F%B0%E9%99%84%E8%BF%91%E8%A1%8C%E5%8A%A8-%E6%9E%81%E5%85%B7%E7%A0%B4%E5%9D%8F%E6%80%A7-%E8%B5%96%E6%B8%85%E5%BE%B7-%E9%80%9A%E8%BF%87%E5%A2%9E%E5%8A%A0%E5%9B%BD%E9%98%B2%E5%BC%80%E6%94%AF%E6%9D%A5-%E9%98%B2%E6%AD%A2%E6%88%98%E4%BA%89",
-      "time": "10-10 17:30",
-      "src": "REUTERS - Ann "
-    },
-    {
-      "title": "欧中贸易谈判：双方能否避免贸易冲突升级，仍不确定",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261009-%E6%AC%A7%E4%B8%AD%E8%B4%B8%E6%98%93%E8%B0%88%E5%88%A4-%E5%8F%8C%E6%96%B9%E8%83%BD%E5%90%A6%E9%81%BF%E5%85%8D%E8%B4%B8%E6%98%93%E5%86%B2%E7%AA%81%E5%8D%87%E7%BA%A7%EF%BC%8C%E4%BB%8D%E4%B8%8D%E7%A1%AE%E5%AE%9A",
-      "time": "10-10 07:20",
-      "src": "法广RFI"
     }
   ]
 }
