@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10 07:56",
+  "generated_at": "2026-10-10 13:37",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,12 +233,6 @@
     ],
     "news": [
       {
-        "title": "国务院发布《关于发展新质生产力的意见》：加快推进智能网联新能源汽车、人工智能手机和电脑、人形机器人等新一代智能终端场景应用",
-        "link": "https://www.ithome.com/1/011/142.htm",
-        "time": "10-09 22:10",
-        "src": "IT之家"
-      },
-      {
         "title": "全球牡蛎礁中蕴藏着高达12万亿美元的生态服务价值",
         "link": "https://www.cnbeta.com.tw/articles/science/1581374.htm",
         "time": "10-09 14:00",
@@ -251,34 +245,40 @@
         "src": "BBC中文"
       },
       {
-        "title": "美国股市：标普500指数距历史高位咫尺之遥 交易员看好财报季表现",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusnxx7572106.shtml",
-        "time": "10-10 05:12",
-        "src": "环球市场播报"
+        "title": "渣打集团于10月8日斥资814.52万英镑回购38.64万股",
+        "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-10/doc-iniutcvm2191499.shtml",
+        "time": "10-10 11:56",
+        "src": "新浪港股"
       },
       {
-        "title": "10月10日美股成交额前20：微软涨2.38% 推出面向快速决策的Microsoft-Decision-1模型",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusnxt6398412.shtml",
-        "time": "10-10 05:00",
-        "src": "环球市场播报"
+        "title": "阅文集团于10月9日斥资121.55万港元回购6.1万股",
+        "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-10/doc-iniutcvm6146136.shtml",
+        "time": "10-10 11:56",
+        "src": "新浪港股"
       },
       {
-        "title": "美光科技12月将股票回购计划规模扩大至350亿美元",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusnxt6394399.shtml",
-        "time": "10-10 04:33",
-        "src": "环球市场播报"
+        "title": "中国中冶截至9月末累计回购H股股份9494万股",
+        "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-10/doc-iniutcvm2191417.shtml",
+        "time": "10-10 11:56",
+        "src": "新浪港股"
       },
       {
-        "title": "10月10日美股收盘：道指涨423点 三大股指本周均录得涨幅 科技股普涨",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusnxx7548886.shtml",
-        "time": "10-10 04:07",
-        "src": "环球市场播报"
+        "title": "赤子城科技于10月9日斥资199.52万港元回购22万股",
+        "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-10/doc-iniutcvm2191400.shtml",
+        "time": "10-10 11:56",
+        "src": "新浪港股"
       },
       {
-        "title": "白宫成立委员会调查美联储理事库克 要求其11月5日出席白宫听证",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-09/doc-iniusakc7713013.shtml",
-        "time": "10-09 23:51",
-        "src": "环球市场播报"
+        "title": "碧桂园服务于10月9日斥资156.33万港元回购30万股",
+        "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-10/doc-iniutcvq0634966.shtml",
+        "time": "10-10 11:20",
+        "src": "新浪港股"
+      },
+      {
+        "title": "中国波顿于10月9日斥资137.64万港元回购45.4万股",
+        "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-10/doc-iniutcvr7407465.shtml",
+        "time": "10-10 11:20",
+        "src": "新浪港股"
       }
     ]
   },
@@ -423,7 +423,7 @@
         "id": 617273,
         "name": "ケロロ軍曹☆",
         "name_cn": "Keroro军曹☆",
-        "score": 6.0,
+        "score": 5.9,
         "img": "http://lain.bgm.tv/pic/cover/c/60/14/617273_YNyyP.jpg",
         "air_date": "2026-10-03",
         "rank": null
@@ -450,7 +450,7 @@
         "id": 542007,
         "name": "転生した大聖女は、聖女であることをひた隠す",
         "name_cn": "转生后的大圣女，极力隐瞒圣女的身分",
-        "score": 5.5,
+        "score": 5.6,
         "img": "http://lain.bgm.tv/pic/cover/c/61/81/542007_wNKJa.jpg",
         "air_date": "2026-10-03",
         "rank": 7435
@@ -514,7 +514,7 @@
   "ukraine": {
     "title": "Russian Offensive Campaign Assessment",
     "summary": "ISW’s Russia and Ukraine team produces the maps and analysis of record of the war in Ukraine. The Russian Offensive Campaign Assessment provides a synthetic running intelligence estimate of Putin’s political and military objectives in Ukraine and the design, prosecution, and outcomes of Russia’s war effort. ISW has published this update daily since Russia’s full-scale invasion of Ukraine in February 2022. Each update includes an assessment of the latest battlefield changes at the operational and tactical levels of war as well as an updated strategic assessment and forecast of the war’s trajectory along with numer",
-    "map_url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-orikhiv-direction-october-8-2026-at-130-pm-et/",
+    "map_url": "https://understandingwar.org/map/assessed-control-of-terrain-in-eastern-dnipropetrovsk-oblast-october-9-2026-at-130-pm-et/",
     "url": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment",
     "links": [
       {
@@ -523,7 +523,7 @@
       },
       {
         "name": "ISW 官方地图页",
-        "url": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-orikhiv-direction-october-8-2026-at-130-pm-et/"
+        "url": "https://understandingwar.org/map/assessed-control-of-terrain-in-eastern-dnipropetrovsk-oblast-october-9-2026-at-130-pm-et/"
       },
       {
         "name": "实时战线地图 Liveuamap",
@@ -538,89 +538,88 @@
   "ai": {
     "news_zh": [
       {
-        "title": "决策模型 Jev 爆火，开发商 TypeSafe AI 估值已达 75 亿美元",
-        "link": "https://www.ithome.com/1/011/170.htm",
-        "time": "10-10 07:28",
+        "title": "首张全天紫外线地图问世：Claude Science AI 协助绘制约 1/3 区域",
+        "link": "https://www.ithome.com/1/011/326.htm",
+        "time": "10-10 13:26",
         "src": "IT之家"
       },
       {
-        "title": "避免驱动故障致 Win11 崩溃：微软推动驱动质量倡议，英特尔 GPU 驱动率先适配 26H2",
-        "link": "https://www.ithome.com/1/011/168.htm",
-        "time": "10-10 07:22",
+        "title": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
+        "link": "https://www.ithome.com/1/011/325.htm",
+        "time": "10-10 13:10",
         "src": "IT之家"
       },
       {
-        "title": "谷歌 Gemini 4“Argon”模型即将发布，消息称内部测试“Carbon”新版本",
-        "link": "https://www.ithome.com/1/011/162.htm",
-        "time": "10-10 06:51",
-        "src": "IT之家",
-        "type": "不停机更新"
-      },
-      {
-        "title": "国务院发布《关于发展新质生产力的意见》：加快推进智能网联新能源汽车、人工智能手机和电脑、人形机器人等新一代智能终端场景应用",
-        "link": "https://www.ithome.com/1/011/142.htm",
-        "time": "10-09 22:10",
+        "title": "OpenAI 公布大批数学研究成果引发学界巨震，学者担忧破坏学术合作传统",
+        "link": "https://www.ithome.com/1/011/285.htm",
+        "time": "10-10 11:04",
         "src": "IT之家"
       },
       {
-        "title": "小米 18 Fold 中折叠手机登顶安兔兔 9 月 Android 旗舰性能榜，搭玄戒 O3 芯片平均跑分超 462 万",
-        "link": "https://www.ithome.com/1/011/128.htm",
-        "time": "10-09 21:14",
+        "title": "微软推出 Edge 155 稳定版：增强 AI 标签页整理，支持解码 JPEG XL 图像",
+        "link": "https://www.ithome.com/1/011/264.htm",
+        "time": "10-10 10:48",
         "src": "IT之家"
       },
       {
-        "title": "46999 元起，极摩客 EVO-X5 Pro 迷你 AI 工作站发售",
-        "link": "https://www.ithome.com/1/011/113.htm",
-        "time": "10-09 19:59",
+        "title": "iQOO Pad Pro 8.8 英寸小平板开启预约：搭载第五代骁龙 8 至尊版、自研电竞芯片 Q3",
+        "link": "https://www.ithome.com/1/011/260.htm",
+        "time": "10-10 10:47",
         "src": "IT之家"
       },
       {
-        "title": "华为鸿蒙电脑 9 月体验报告发布：全新沉浸光感、图库 AI 修图、小艺任务模式等",
-        "link": "https://www.ithome.com/1/011/111.htm",
-        "time": "10-09 19:48",
+        "title": "我国将开展适应人工智能发展促就业行动",
+        "link": "https://www.ithome.com/1/011/238.htm",
+        "time": "10-10 10:36",
         "src": "IT之家"
       },
       {
-        "title": "科威特3.7亿英镑采购英国人工智能防空系统",
-        "link": "https://www.chinanews.com.cn/gj/2026/10-10/10709967.shtml",
-        "time": "10-10 06:57",
-        "src": "中新网"
+        "title": "Underdog AI 发布 Saluki 27B 模型：2-bit 量化 Qwen3.8-27B，7.89GB 大小",
+        "link": "https://www.ithome.com/1/011/219.htm",
+        "time": "10-10 10:25",
+        "src": "IT之家"
+      },
+      {
+        "title": "相关人士谈马斯克想通过 Terafab 自产芯片：可能比送星舰上火星还难",
+        "link": "https://www.ithome.com/1/011/201.htm",
+        "time": "10-10 09:29",
+        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "google/embeddinggemma-2",
-        "likes": 1345,
+        "likes": 1380,
         "downloads": 29185,
         "pipeline": "feature-extraction"
       },
       {
         "id": "Cloudflare/clef",
-        "likes": 1942,
+        "likes": 1951,
         "downloads": 12066,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "Aleph-Alpha/Kolibri-1",
-        "likes": 842,
+        "likes": 847,
         "downloads": 8474,
         "pipeline": "text-generation"
       },
       {
         "id": "jialinyyzz/humanizer",
-        "likes": 743,
+        "likes": 790,
         "downloads": 29470,
         "pipeline": "text-generation"
       },
       {
         "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-        "likes": 3767,
+        "likes": 3788,
         "downloads": 2013268,
         "pipeline": "text-to-image"
       },
       {
         "id": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
-        "likes": 673,
+        "likes": 676,
         "downloads": 38740,
         "pipeline": "text-generation"
       }
@@ -794,27 +793,69 @@
   ],
   "hw_news": [
     {
-      "title": "避免驱动故障致 Win11 崩溃：微软推动驱动质量倡议，英特尔 GPU 驱动率先适配 26H2",
-      "link": "https://www.ithome.com/1/011/168.htm",
-      "time": "10-10 07:22",
+      "title": "戴尔 AW3226Q 显示器上市：32\" UHD 165Hz OLED，到手价 4999 元",
+      "link": "https://www.ithome.com/1/011/314.htm",
+      "time": "10-10 12:02",
       "src": "IT之家"
     },
     {
-      "title": "漫步者“EDF200259”耳机通过星闪测试列名，预计将成第二款支持星闪音频三方品牌耳机",
-      "link": "https://www.ithome.com/1/011/151.htm",
-      "time": "10-09 23:15",
+      "title": "雷蛇猎魂光蛛 V3 专业迷你版 8KHZ 光轴键盘上市，1499 元",
+      "link": "https://www.ithome.com/1/011/313.htm",
+      "time": "10-10 11:50",
       "src": "IT之家"
     },
     {
-      "title": "Counterpoint：苹果全新 MacBook Pro 将推动 OLED 笔记本面板市场增长，预计今年市场出货量同比增长 50%",
-      "link": "https://www.ithome.com/1/011/131.htm",
-      "time": "10-09 21:25",
+      "title": "威刚 XPG 龙耀 D600G 内存模组上市：无限镜光效，16GB×2 套条 5499 元",
+      "link": "https://www.ithome.com/1/011/311.htm",
+      "time": "10-10 11:44",
       "src": "IT之家"
     },
     {
-      "title": "小米推出 REDMI 显示器支架臂：隐藏式理线槽、兼容 VESA 75x75/100×100mm 壁挂，299 元",
-      "link": "https://www.ithome.com/1/011/118.htm",
-      "time": "10-09 20:47",
+      "title": "苹果首款智能家居中枢渲染图曝光：6 英寸方屏、8GB 内存，可桌放 / 壁挂",
+      "link": "https://www.ithome.com/1/011/293.htm",
+      "time": "10-10 11:26",
+      "src": "IT之家"
+    },
+    {
+      "title": "小米智能存储升级 1.0.9.462 版本：移动端 App 界面焕新，硬盘健康度可定期检测",
+      "link": "https://www.ithome.com/1/011/292.htm",
+      "time": "10-10 11:26",
+      "src": "IT之家"
+    },
+    {
+      "title": "消息称数据中心 CPU 初创企业 NUVACORE 以约 25 亿美元估值融资",
+      "link": "https://www.ithome.com/1/011/289.htm",
+      "time": "10-10 11:12",
+      "src": "IT之家"
+    },
+    {
+      "title": "iQOO Pad Pro 8.8 英寸小平板开启预约：搭载第五代骁龙 8 至尊版、自研电竞芯片 Q3",
+      "link": "https://www.ithome.com/1/011/260.htm",
+      "time": "10-10 10:47",
+      "src": "IT之家"
+    },
+    {
+      "title": "腾讯 QQ PC 端上线隐私功能“迷你窗”：窗口更小、能调透明度，鼠标移走直接隐身",
+      "link": "https://www.ithome.com/1/011/217.htm",
+      "time": "10-10 10:15",
+      "src": "IT之家"
+    },
+    {
+      "title": "AOC 推出 16\" WUXGA 60Hz AMOLED 便携显示器 16T40D",
+      "link": "https://www.ithome.com/1/011/214.htm",
+      "time": "10-10 10:05",
+      "src": "IT之家"
+    },
+    {
+      "title": "技嘉率先为其 H610 / B760 主板提供英特尔下代 LGA1700 处理器支持",
+      "link": "https://www.ithome.com/1/011/206.htm",
+      "time": "10-10 09:51",
+      "src": "IT之家"
+    },
+    {
+      "title": "联想拯救者 27U-20 显示器开售：27 英寸 4K 180Hz 双模，1699 元",
+      "link": "https://www.ithome.com/1/011/204.htm",
+      "time": "10-10 09:38",
       "src": "IT之家"
     },
     {
@@ -822,48 +863,6 @@
       "link": "https://www.cnbeta.com.tw/articles/game/1581434.htm",
       "time": "10-10 01:39",
       "src": "cnBeta.COM"
-    },
-    {
-      "title": "RTX 5090成走私新宠 海关一周截获12起",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1581426.htm",
-      "time": "10-09 23:38",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "分析师：英伟达或将在2028年下半年采用英特尔Foveros封装技术",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1581424.htm",
-      "time": "10-09 23:31",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "分析师称英特尔Foveros先进封装技术或将再次赢得重大代工业务",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1581378.htm",
-      "time": "10-09 14:07",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等",
-      "link": "https://sspai.com/post/115532",
-      "time": "10-09 08:51",
-      "src": "少数派"
-    },
-    {
-      "title": "受内存、存储芯片短缺推高价格，游戏硬件销量跌至13年新低",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusaix2656160.shtml",
-      "time": "10-10 01:09",
-      "src": "环球市场播报"
-    },
-    {
-      "title": "Computex 2026: NVIDIA 发布 ARM 架构 PC 芯片 RTX Spark, 集成 Blackwell GPU, 对标苹果 M5",
-      "link": "https://new.qq.com/rain/a/20260605A09PXY00",
-      "time": "精选",
-      "src": "资讯整理"
-    },
-    {
-      "title": "AMD 发布 Ryzen 7 7700X3D(104MB缓存,$329) 与 Radeon RX 9070 GRE(12GB,$549), 强化 1440p 游戏市场",
-      "link": "https://www.91mobiles.com/hub/computex-2026-amd-ryzen-x3d-cpus-radeon-9070-gre",
-      "time": "精选",
-      "src": "资讯整理"
     }
   ],
   "kojima": {
@@ -1070,162 +1069,155 @@
   },
   "intl_news": [
     {
-      "title": "德国交通部提出异议后，特斯拉在欧洲市场将 FSD 更名为“特斯拉辅助驾驶”",
-      "link": "https://www.ithome.com/1/011/164.htm",
-      "time": "10-10 06:59",
-      "src": "IT之家"
-    },
-    {
-      "title": "中国科学院院士郭华东获颁 2026 年度国际宇航联合会“名人堂”奖，主持研发全球首颗可持续发展科学卫星 1 号",
-      "link": "https://www.ithome.com/1/011/152.htm",
-      "time": "10-09 23:18",
-      "src": "IT之家"
-    },
-    {
-      "title": "小鹏 G9L 汽车官宣将亮相巴黎车展：正式开启全球上市，登陆 64 个国家和地区",
-      "link": "https://www.ithome.com/1/011/147.htm",
-      "time": "10-09 22:57",
-      "src": "IT之家"
-    },
-    {
-      "title": "遏制有害水生物传播，我国牵头制定的船舶压载水管理系统调试测试国际标准发布",
-      "link": "https://www.ithome.com/1/011/144.htm",
-      "time": "10-09 22:22",
-      "src": "IT之家"
-    },
-    {
-      "title": "从东博会“新秀”看中国—东盟合作引力",
-      "link": "https://www.chinanews.com.cn/aseaninfo/2026/10-10/10709985.shtml",
-      "time": "10-10 07:41",
+      "title": "商务部欧洲司负责人解读中欧贸易投资磋商机制第二次例会成果",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-10/10710144.shtml",
+      "time": "10-10 13:33",
       "src": "中新网"
     },
     {
-      "title": "普京与特朗普通话 确认俄将向美及全球供应石油",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-10/10709982.shtml",
-      "time": "10-10 07:19",
+      "title": "澳门特区政府、澳门特区立法会强烈谴责欧洲议会干预特区司法程序",
+      "link": "https://www.chinanews.com.cn/dwq/2026/10-10/10710124.shtml",
+      "time": "10-10 12:47",
       "src": "中新网"
     },
     {
-      "title": "中方：乌克兰危机不能继续走向升级失控",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-10/10709976.shtml",
-      "time": "10-10 07:09",
+      "title": "阿联酋检方称迪拜航空副驾驶企图驾机实施自杀式袭击",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-10/10710116.shtml",
+      "time": "10-10 12:21",
       "src": "中新网"
     },
     {
-      "title": "欧盟对美国宣布制裁国际刑事法院深表遗憾 将全力确保国际刑事法院履职",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-10/10709970.shtml",
-      "time": "10-10 07:01",
+      "title": "俄美就柴油贸易达成一致 美放松相关对俄制裁",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-10/10710083.shtml",
+      "time": "10-10 12:20",
       "src": "中新网"
+    },
+    {
+      "title": "“FSD”变“TAD” 特斯拉弃用自动驾驶命名 以争取欧洲监管批准",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1581422.htm",
+      "time": "10-09 23:28",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "全球PC市场持续降温 苹果Mac出货量下滑但市场份额逆势提升",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1581418.htm",
+      "time": "10-09 23:05",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "日本气象厅：扰乱全球天气的厄尔尼诺已达到历史最高强度",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1581416.htm",
+      "time": "10-09 19:51",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "德国伸缩式风机升至365米 刷新风电设施高度纪录",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1581402.htm",
+      "time": "10-09 17:19",
+      "src": "cnBeta.COM"
     }
   ],
   "econ_news": [
     {
-      "title": "决策模型 Jev 爆火，开发商 TypeSafe AI 估值已达 75 亿美元",
-      "link": "https://www.ithome.com/1/011/170.htm",
-      "time": "10-10 07:28",
+      "title": "大众在德因金融信息披露违规被罚款 120 万欧元",
+      "link": "https://www.ithome.com/1/011/318.htm",
+      "time": "10-10 12:11",
       "src": "IT之家"
     },
     {
-      "title": "商务部：中欧双方以符合世贸组织规则的方式就混动汽车贸易达成谅解",
-      "link": "https://www.ithome.com/1/011/135.htm",
-      "time": "10-09 21:48",
+      "title": "消息称数据中心 CPU 初创企业 NUVACORE 以约 25 亿美元估值融资",
+      "link": "https://www.ithome.com/1/011/289.htm",
+      "time": "10-10 11:12",
       "src": "IT之家"
     },
     {
-      "title": "吉利汽车集团旗下吉利品牌宣布正式进入加拿大市场，已在当地全面推进零售与服务网络建设",
-      "link": "https://www.ithome.com/1/011/132.htm",
-      "time": "10-09 21:38",
+      "title": "我国将开展适应人工智能发展促就业行动",
+      "link": "https://www.ithome.com/1/011/238.htm",
+      "time": "10-10 10:36",
       "src": "IT之家"
     },
     {
-      "title": "英国首相伯纳姆：推进创新驱动的“再工业化”",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-10/10709966.shtml",
-      "time": "10-10 06:56",
+      "title": "商务部欧洲司负责人解读中欧贸易投资磋商机制第二次例会成果",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-10/10710144.shtml",
+      "time": "10-10 13:33",
       "src": "中新网"
     },
     {
-      "title": "超5万家机构一年出具报告5.71亿份 检验检测机构为经济发展添动能",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-10/10709971.shtml",
-      "time": "10-10 06:43",
+      "title": "习近平经济思想引领中国加快发展新质生产力",
+      "link": "https://www.chinanews.com.cn/gn/2026/10-10/10710122.shtml",
+      "time": "10-10 12:57",
       "src": "中新网"
     },
     {
-      "title": "柬越两国致力于将双边贸易额提升至200亿美元",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-10/10709964.shtml",
-      "time": "10-10 06:40",
+      "title": "人社部：力争到2030年技能人才占就业人员比例升至35%",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-10/10710125.shtml",
+      "time": "10-10 12:53",
       "src": "中新网"
     },
     {
-      "title": "OpenAI预计年底年化收入达到700亿美元 9月底仅500亿美元的消息一度引发美股科技股抛售",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1581390.htm",
-      "time": "10-09 15:49",
-      "src": "cnBeta.COM"
+      "title": "俄美就柴油贸易达成一致 美放松相关对俄制裁",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-10/10710083.shtml",
+      "time": "10-10 12:20",
+      "src": "中新网"
     },
     {
-      "title": "微软以旧换新吸引Mac用户换购Surface Laptop Ultra 最高返现1000美元",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1581382.htm",
-      "time": "10-09 14:11",
-      "src": "cnBeta.COM"
+      "title": "（长江十年行）从江边老厂到新能源产线：“长江首城”宜宾工业之变",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-10/10710112.shtml",
+      "time": "10-10 11:55",
+      "src": "中新网"
     }
   ],
   "game_news": [
     {
-      "title": "避免驱动故障致 Win11 崩溃：微软推动驱动质量倡议，英特尔 GPU 驱动率先适配 26H2",
-      "link": "https://www.ithome.com/1/011/168.htm",
-      "time": "10-10 07:22",
+      "title": "Circana 分析师：美国游戏主机市场或陷入 80 年代初至今最严重危机",
+      "link": "https://www.ithome.com/1/011/317.htm",
+      "time": "10-10 12:07",
       "src": "IT之家"
     },
     {
-      "title": "微软推出 Microsoft-Decision-1 决策模型，基于 Qwen3.5-9B",
-      "link": "https://www.ithome.com/1/011/166.htm",
-      "time": "10-10 07:12",
+      "title": "数毛社：索尼 PS5 超分技术 QSSR 存适配挑战，旧作游戏支持范围仍待确认",
+      "link": "https://www.ithome.com/1/011/287.htm",
+      "time": "10-10 11:07",
       "src": "IT之家"
     },
     {
-      "title": "剧情驱动末日生存沙盒《永冻纪元》登陆 Steam：国区首发价 ¥95.20，支持简中配音",
-      "link": "https://www.ithome.com/1/011/127.htm",
-      "time": "10-09 21:13",
+      "title": "微软推出 Edge 155 稳定版：增强 AI 标签页整理，支持解码 JPEG XL 图像",
+      "link": "https://www.ithome.com/1/011/264.htm",
+      "time": "10-10 10:48",
       "src": "IT之家"
     },
     {
-      "title": "网易《逆水寒：新世界》年度级预告片公布，4.2 全新大赛季“月岭瑶歌”官宣",
-      "link": "https://www.ithome.com/1/011/124.htm",
-      "time": "10-09 21:05",
+      "title": "iQOO Pad Pro 8.8 英寸小平板开启预约：搭载第五代骁龙 8 至尊版、自研电竞芯片 Q3",
+      "link": "https://www.ithome.com/1/011/260.htm",
+      "time": "10-10 10:47",
       "src": "IT之家"
     },
     {
-      "title": "超频三 C3 T300 BK 海景房机箱发售：兼容 240mm 水冷，129 元",
-      "link": "https://www.ithome.com/1/011/116.htm",
-      "time": "10-09 20:24",
+      "title": "Win11 26H2 装机设置已封堵“点击了解更多按钮绕过登录微软账户”方案",
+      "link": "https://www.ithome.com/1/011/218.htm",
+      "time": "10-10 10:22",
       "src": "IT之家"
     },
     {
-      "title": "46999 元起，极摩客 EVO-X5 Pro 迷你 AI 工作站发售",
-      "link": "https://www.ithome.com/1/011/113.htm",
-      "time": "10-09 19:59",
+      "title": "微软工程师解析案例：Win11 装 2 款杀软易“撞车”，恐导致程序卡死",
+      "link": "https://www.ithome.com/1/011/215.htm",
+      "time": "10-10 10:07",
       "src": "IT之家"
     },
     {
-      "title": "【抽奖】生存恐怖×类银河恶魔城！《银松镇》今日发售，支持中文",
-      "link": "https://www.gcores.com/articles/220686",
-      "time": "10-09 14:37",
-      "src": "机核"
+      "title": "微软紧急通知：谷歌 Chromium 下月移除 XSLT 支持，恐影响远程桌面 Web 访问",
+      "link": "https://www.ithome.com/1/011/207.htm",
+      "time": "10-10 09:54",
+      "src": "IT之家"
     },
     {
-      "title": "Steam挂机钓鱼游戏《喵！一起摸鱼吧~》正式定档11月5日",
-      "link": "https://www.gcores.com/articles/220685",
-      "time": "10-09 14:12",
-      "src": "机核"
+      "title": "受内存、存储芯片短缺推高价格 游戏硬件销量跌至13年新低",
+      "link": "https://www.cnbeta.com.tw/articles/game/1581434.htm",
+      "time": "10-10 01:39",
+      "src": "cnBeta.COM"
     }
   ],
   "game_update": [
-    {
-      "title": "谷歌 Gemini 4“Argon”模型即将发布，消息称内部测试“Carbon”新版本",
-      "link": "https://www.ithome.com/1/011/162.htm",
-      "time": "10-10 06:51",
-      "src": "IT之家",
-      "type": "不停机更新"
-    },
     {
       "title": "《三角洲行动》DAU突破5800万",
       "link": "https://finance.sina.com.cn/tech/2026-10-09/doc-iniuqywm3041683.shtml",
@@ -1274,6 +1266,13 @@
       "time": "8-13",
       "type": "停机维护",
       "src": "腾讯官方"
+    },
+    {
+      "title": "《部落冲突》8/5 6:00 停机维护(预计180分钟): 周年庆版本上线, 维护后首领可领维护礼包",
+      "link": "https://new.qq.com/rain/a/20260804A0EYI300",
+      "time": "8-05",
+      "type": "停机维护",
+      "src": "腾讯官方"
     }
   ],
   "mil_news": [
@@ -1284,15 +1283,15 @@
       "src": "ISW"
     },
     {
-      "title": "科威特3.7亿英镑采购英国人工智能防空系统",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-10/10709967.shtml",
-      "time": "10-10 06:57",
+      "title": "阿联酋检方称迪拜航空副驾驶企图驾机实施自杀式袭击",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-10/10710116.shtml",
+      "time": "10-10 12:21",
       "src": "中新网"
     },
     {
-      "title": "日本将强化太空运输能力 加速布局太空军事力量",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-09/10709961.shtml",
-      "time": "10-09 23:52",
+      "title": "胡塞武装再发领空警告 沙特主导联军开展大规模军事行动",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-10/10710082.shtml",
+      "time": "10-10 12:18",
       "src": "中新网"
     },
     {
