@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11 07:23",
+  "generated_at": "2026-10-11 13:24",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -239,6 +239,18 @@
         "src": "cnBeta.COM"
       },
       {
+        "title": "2家A股公司，突然火了！迎上百家机构调研",
+        "link": "https://finance.sina.com.cn/stock/zqgd/2026-10-11/doc-iniuvpap7376208.shtml",
+        "time": "10-11 12:29",
+        "src": "e公司"
+      },
+      {
+        "title": "长鑫科技登顶！ETF成加仓主渠道，前三季度韩国投资者A股、港股“扫货”名单来了",
+        "link": "https://finance.sina.com.cn/jjxw/2026-10-11/doc-iniuvans0611537.shtml",
+        "time": "10-11 08:09",
+        "src": "市场资讯"
+      },
+      {
         "title": "小米加码半导体封装？最新回应来了！",
         "link": "https://finance.sina.com.cn/stock/s/2026-10-10/doc-iniutyyz5962528.shtml",
         "time": "10-10 20:12",
@@ -266,18 +278,6 @@
         "title": "德国央行官员：欧洲债务危机风险急剧上升",
         "link": "https://finance.sina.com.cn/world/2026-10-10/doc-iniutkci2168715.shtml",
         "time": "10-10 14:44",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "标普500创新高背后暗藏风险！多数成分股表现疲弱 高油价与美债收益率攀升加剧市场分化",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniustfu0732882.shtml",
-        "time": "10-10 07:00",
-        "src": "智通财经APP"
-      },
-      {
-        "title": "美国股市：标普500指数距历史高位咫尺之遥 交易员看好财报季表现",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusnxx7572106.shtml",
-        "time": "10-10 05:12",
         "src": "环球市场播报"
       }
     ]
@@ -375,6 +375,15 @@
         "rank": 3327
       },
       {
+        "id": 688797,
+        "name": "僕らが選んだベストアドベンチャー",
+        "name_cn": "数码宝贝30周年纪念：我们选出的最佳冒险",
+        "score": 6.6,
+        "img": "http://lain.bgm.tv/pic/cover/c/14/2d/688797_z3waa.jpg",
+        "air_date": "2026-10-04",
+        "rank": null
+      },
+      {
         "id": 548156,
         "name": "アオのハコ Season 2",
         "name_cn": "青之箱 第二季",
@@ -387,7 +396,7 @@
         "id": 630160,
         "name": "ダークサモナーとデキている",
         "name_cn": "黑暗召唤师在地下恋爱中",
-        "score": 6.4,
+        "score": 6.3,
         "img": "http://lain.bgm.tv/pic/cover/c/9e/b5/630160_tL25y.jpg",
         "air_date": "2026-10-04",
         "rank": 5342
@@ -436,15 +445,6 @@
         "img": "http://lain.bgm.tv/pic/cover/c/3e/fc/536270_51P45.jpg",
         "air_date": "2026-10-04",
         "rank": 7112
-      },
-      {
-        "id": 688797,
-        "name": "僕らが選んだベストアドベンチャー",
-        "name_cn": "数码宝贝30周年纪念：我们选出的最佳冒险",
-        "score": 5.8,
-        "img": "http://lain.bgm.tv/pic/cover/c/14/2d/688797_z3waa.jpg",
-        "air_date": "2026-10-04",
-        "rank": null
       },
       {
         "id": 589775,
@@ -547,90 +547,91 @@
   "ai": {
     "news_zh": [
       {
-        "title": "微软 CEO 纳德拉：开发者应当默认假设 AI 模型失控，思考如何强制中断任务",
-        "link": "https://www.ithome.com/1/011/545.htm",
-        "time": "10-11 07:19",
+        "title": "磐镭 YO2 锐龙 AI Max+ PRO 495 版迷你工作站开售：192GB+2TB 售价 49999 元",
+        "link": "https://www.ithome.com/1/011/587.htm",
+        "time": "10-11 12:34",
         "src": "IT之家"
       },
       {
-        "title": "亚马逊云科技向姚明发起的姚基金捐赠 100 万美元现金及云 + AI 资源，目标培养 AI + 体育复合型人才",
-        "link": "https://www.ithome.com/1/011/542.htm",
-        "time": "10-11 06:53",
+        "title": "国家安全部揭秘为何接陌生来电先沉默三秒，称数秒语音样本可能被不法分子用于 AI 声纹克隆",
+        "link": "https://www.ithome.com/1/011/574.htm",
+        "time": "10-11 11:06",
         "src": "IT之家"
       },
       {
-        "title": "消息称英伟达洽谈收购 / 追加投资 Reflection AI，加码开源模型",
-        "link": "https://www.ithome.com/1/011/541.htm",
-        "time": "10-11 06:46",
+        "title": "一加 16 手机预热：首发自研电竞网络芯片 G3、抗干扰电竞天线，宣称手指握住天线、网络也不波动",
+        "link": "https://www.ithome.com/1/011/570.htm",
+        "time": "10-11 10:50",
         "src": "IT之家"
       },
       {
-        "title": "腾讯元器将于 11 月 9 日停止服务，所创建智能体将不再可用",
-        "link": "https://www.ithome.com/1/011/530.htm",
-        "time": "10-10 22:42",
+        "title": "机械革命将推 RTX Spark 迷你主机大师之路 X10，搭载 AI SSD",
+        "link": "https://www.ithome.com/1/011/563.htm",
+        "time": "10-11 10:05",
         "src": "IT之家"
       },
       {
-        "title": "铭凡首款无风扇全闪 AI NAS 机型 S5 将于 10 月中下旬国行开售",
-        "link": "https://www.ithome.com/1/011/521.htm",
-        "time": "10-10 22:14",
+        "title": "高通工程师质疑 Linux 系统 LTS 发行版是否过时：AI 时代也许更适合快速滚动更新补丁",
+        "link": "https://www.ithome.com/1/011/558.htm",
+        "time": "10-11 09:34",
+        "src": "IT之家",
+        "type": "不停机更新"
+      },
+      {
+        "title": "报告称 Claude 半年封杀 1140 万个账号，申诉后仅 4.2 万翻案",
+        "link": "https://www.ithome.com/1/011/553.htm",
+        "time": "10-11 08:27",
         "src": "IT之家"
       },
       {
-        "title": "消息称英伟达计划以 24GB 显存 GeForce RTX 5080 显卡取代现有 16GB 版本",
-        "link": "https://www.ithome.com/1/011/513.htm",
-        "time": "10-10 21:41",
+        "title": "IT早报 1011：苹果首款智能家居中枢渲染图曝光；四部门拟禁汽车全隐藏式门把手；出版社回应网文实体书现 AI 回复内容；懂车帝称网传前总编辑身份为假...",
+        "link": "https://www.ithome.com/1/011/549.htm",
+        "time": "10-11 07:50",
         "src": "IT之家"
       },
       {
-        "title": "吉利首款 AI 全地形硬核 SUV：银河战舰 700 全球上市，限时焕新价 16.98 万元起",
-        "link": "https://www.ithome.com/1/011/509.htm",
-        "time": "10-10 21:04",
-        "src": "IT之家"
-      },
-      {
-        "title": "因违反生成式 AI 使用规定：清华大学徐宁博士被撤销尼康 2026 显微视频竞赛冠军资格",
-        "link": "https://www.ithome.com/1/011/504.htm",
-        "time": "10-10 20:33",
+        "title": "消息称字节、腾讯加速个人 AI 智能体研发，追赶 Meta Muse",
+        "link": "https://www.ithome.com/1/011/548.htm",
+        "time": "10-11 07:45",
         "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "google/embeddinggemma-2",
-        "likes": 1502,
+        "likes": 1536,
         "downloads": 45605,
         "pipeline": "feature-extraction"
       },
       {
-        "id": "Cloudflare/clef",
-        "likes": 1985,
-        "downloads": 13579,
-        "pipeline": "image-text-to-text"
-      },
-      {
         "id": "jialinyyzz/humanizer",
-        "likes": 946,
+        "likes": 980,
         "downloads": 33664,
         "pipeline": "text-generation"
       },
       {
+        "id": "Cloudflare/clef",
+        "likes": 2003,
+        "downloads": 13579,
+        "pipeline": "image-text-to-text"
+      },
+      {
         "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-        "likes": 3866,
+        "likes": 3892,
         "downloads": 2096562,
         "pipeline": "text-to-image"
       },
       {
         "id": "Aleph-Alpha/Kolibri-1",
-        "likes": 860,
+        "likes": 874,
         "downloads": 10496,
         "pipeline": "text-generation"
       },
       {
-        "id": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
-        "likes": 679,
-        "downloads": 45199,
-        "pipeline": "text-generation"
+        "id": "Lightricks/LTX-2.5",
+        "likes": 7199,
+        "downloads": 1720888,
+        "pipeline": "image-to-video"
       }
     ],
     "models": [
@@ -802,33 +803,63 @@
   ],
   "hw_news": [
     {
+      "title": "磐镭 YO2 锐龙 AI Max+ PRO 495 版迷你工作站开售：192GB+2TB 售价 49999 元",
+      "link": "https://www.ithome.com/1/011/587.htm",
+      "time": "10-11 12:34",
+      "src": "IT之家"
+    },
+    {
+      "title": "酷派阔直板手机背部外观曝光，消息称搭载联发科 Helio G99 处理器",
+      "link": "https://www.ithome.com/1/011/581.htm",
+      "time": "10-11 11:48",
+      "src": "IT之家"
+    },
+    {
+      "title": "迈从推出 K5 系列鼠标：约 45g 重、适合中小手，预订到手价 209 元起",
+      "link": "https://www.ithome.com/1/011/578.htm",
+      "time": "10-11 11:21",
+      "src": "IT之家"
+    },
+    {
+      "title": "一加 16 手机预热：首发自研电竞网络芯片 G3、抗干扰电竞天线，宣称手指握住天线、网络也不波动",
+      "link": "https://www.ithome.com/1/011/570.htm",
+      "time": "10-11 10:50",
+      "src": "IT之家"
+    },
+    {
+      "title": "荣耀 Earbuds X10 Pro 耳机上架：55dB 降噪，42 小时综合续航",
+      "link": "https://www.ithome.com/1/011/565.htm",
+      "time": "10-11 10:21",
+      "src": "IT之家"
+    },
+    {
+      "title": "机械革命将推 RTX Spark 迷你主机大师之路 X10，搭载 AI SSD",
+      "link": "https://www.ithome.com/1/011/563.htm",
+      "time": "10-11 10:05",
+      "src": "IT之家"
+    },
+    {
+      "title": "华硕 24.5\" FHD Tandem WOLED 显示器上架：540Hz 款 5499 元、720Hz 款 7999 元",
+      "link": "https://www.ithome.com/1/011/560.htm",
+      "time": "10-11 09:43",
+      "src": "IT之家"
+    },
+    {
+      "title": "《星际公民》衍生单机游戏《42 中队》上架 Steam，显卡最低要求 8GB 显存",
+      "link": "https://www.ithome.com/1/011/547.htm",
+      "time": "10-11 07:38",
+      "src": "IT之家"
+    },
+    {
+      "title": "华硕 ROG 推出超杀 27 二代显示器：26.5 英寸 2K 320Hz QD-OLED，3699 元",
+      "link": "https://www.ithome.com/1/011/546.htm",
+      "time": "10-11 07:30",
+      "src": "IT之家"
+    },
+    {
       "title": "第二款三方品牌星闪耳机将至：漫步者 Lolli Spark 通过 OpenHarmony 认证",
       "link": "https://www.ithome.com/1/011/538.htm",
       "time": "10-10 23:53",
-      "src": "IT之家"
-    },
-    {
-      "title": "漫步者 HECATE G2000 Bar 电竞音箱上架：四单元声学配置、配可插拔麦克风，首发价 349 元",
-      "link": "https://www.ithome.com/1/011/515.htm",
-      "time": "10-10 21:54",
-      "src": "IT之家"
-    },
-    {
-      "title": "消息称英伟达计划以 24GB 显存 GeForce RTX 5080 显卡取代现有 16GB 版本",
-      "link": "https://www.ithome.com/1/011/513.htm",
-      "time": "10-10 21:41",
-      "src": "IT之家"
-    },
-    {
-      "title": "一加 16 手机配置汇总：6.78 英寸直屏、第六代骁龙 8 超级至尊版处理器，10 月 12 日发布",
-      "link": "https://www.ithome.com/1/011/502.htm",
-      "time": "10-10 20:15",
-      "src": "IT之家"
-    },
-    {
-      "title": "长鑫技术新突破，融合 4F² 架构等先进技术的 DDR5 RDIMM 产品预计年底亮相",
-      "link": "https://www.ithome.com/1/011/494.htm",
-      "time": "10-10 19:25",
       "src": "IT之家"
     },
     {
@@ -842,36 +873,6 @@
       "link": "https://www.cnbeta.com.tw/articles/tech/1581532.htm",
       "time": "10-10 16:58",
       "src": "cnBeta.COM"
-    },
-    {
-      "title": "LCD和OLED追了20年 还是没能完全超越老式CRT显示器",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1581530.htm",
-      "time": "10-10 16:58",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "成本压力或拖累2027年笔记本需求 全球出货量恐下滑",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1581520.htm",
-      "time": "10-10 14:55",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等",
-      "link": "https://sspai.com/post/115532",
-      "time": "10-09 08:51",
-      "src": "少数派"
-    },
-    {
-      "title": "分析师：英伟达或将在2028年下半年采用英特尔Foveros封装技术",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-09/doc-iniurrui7830395.shtml",
-      "time": "10-09 19:23",
-      "src": "环球市场播报"
-    },
-    {
-      "title": "Computex 2026: NVIDIA 发布 ARM 架构 PC 芯片 RTX Spark, 集成 Blackwell GPU, 对标苹果 M5",
-      "link": "https://new.qq.com/rain/a/20260605A09PXY00",
-      "time": "精选",
-      "src": "资讯整理"
     }
   ],
   "kojima": {
@@ -1072,6 +1073,18 @@
   },
   "intl_news": [
     {
+      "title": "欧洲本地首台小鹏 G9L 在麦格纳奥地利工厂顺利完成试制，该车将于 10 月 12 日全球上市",
+      "link": "https://www.ithome.com/1/011/583.htm",
+      "time": "10-11 12:01",
+      "src": "IT之家"
+    },
+    {
+      "title": "消息称 Netflix 计划全球裁员约 5%，削减约 850 个岗位",
+      "link": "https://www.ithome.com/1/011/557.htm",
+      "time": "10-11 09:15",
+      "src": "IT之家"
+    },
+    {
       "title": "安卓首款、全球第二款阔直板手机将至：酷派新机首曝，价格干到“999 定位千元档”",
       "link": "https://www.ithome.com/1/011/540.htm",
       "time": "10-11 00:15",
@@ -1084,30 +1097,6 @@
       "src": "IT之家"
     },
     {
-      "title": "吉利首款 AI 全地形硬核 SUV：银河战舰 700 全球上市，限时焕新价 16.98 万元起",
-      "link": "https://www.ithome.com/1/011/509.htm",
-      "time": "10-10 21:04",
-      "src": "IT之家"
-    },
-    {
-      "title": "外交部：暂无中国公民在巴拿马地震中伤亡报告",
-      "link": "https://www.chinanews.com.cn/gn/2026/10-10/10710856.shtml",
-      "time": "10-10 23:22",
-      "src": "中新网"
-    },
-    {
-      "title": "以色列空袭加沙地带致5人死亡多人受伤",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-10/10710847.shtml",
-      "time": "10-10 22:37",
-      "src": "中新网"
-    },
-    {
-      "title": "外交部发言人就巴拿马发生7.6级地震答记者问",
-      "link": "https://www.chinanews.com.cn/gn/2026/10-10/10710843.shtml",
-      "time": "10-10 22:15",
-      "src": "中新网"
-    },
-    {
       "title": "中国女主播坐上“付费旋转椅” 观众花50元可转一圈 奇特直播模式引发全球热议",
       "link": "https://www.cnbeta.com.tw/articles/movie/1581572.htm",
       "time": "10-11 02:10",
@@ -1118,9 +1107,27 @@
       "link": "https://www.cnbeta.com.tw/articles/science/1581546.htm",
       "time": "10-10 20:19",
       "src": "cnBeta.COM"
+    },
+    {
+      "title": "美国认证资料出现Switch 2改订型号 与欧洲可更换电池版编号相同",
+      "link": "https://www.cnbeta.com.tw/articles/game/1581540.htm",
+      "time": "10-10 16:59",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "小鹏当选联合国自动驾驶工作组秘书长 系中国企业首次",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1581528.htm",
+      "time": "10-10 16:55",
+      "src": "cnBeta.COM"
     }
   ],
   "econ_news": [
+    {
+      "title": "历史首次，长江流域最大汽车出口枢纽“太仓口岸”出口汽车首破 100 万辆",
+      "link": "https://www.ithome.com/1/011/550.htm",
+      "time": "10-11 08:01",
+      "src": "IT之家"
+    },
     {
       "title": "亚马逊云科技向姚明发起的姚基金捐赠 100 万美元现金及云 + AI 资源，目标培养 AI + 体育复合型人才",
       "link": "https://www.ithome.com/1/011/542.htm",
@@ -1134,21 +1141,9 @@
       "src": "机核"
     },
     {
-      "title": "俄政府宣布部分解除柴油出口禁令",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-11/10710859.shtml",
-      "time": "10-11 06:21",
-      "src": "中新网"
-    },
-    {
-      "title": "双节消费观察｜智能“上岗”，消费“焕新”",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-10/10710839.shtml",
-      "time": "10-10 22:10",
-      "src": "中新网"
-    },
-    {
-      "title": "服务惠民、文旅旺城、消费增效 机关大院开放解锁了哪些新服务？",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-10/10710838.shtml",
-      "time": "10-10 22:04",
+      "title": "（乡村行·看振兴）广东蓝口镇：茶枝柑结出“黄金果” 铺就富民新路",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-11/10710951.shtml",
+      "time": "10-11 13:07",
       "src": "中新网"
     },
     {
@@ -1168,31 +1163,37 @@
       "link": "https://www.cnbeta.com.tw/articles/tech/1581506.htm",
       "time": "10-10 14:47",
       "src": "cnBeta.COM"
+    },
+    {
+      "title": "加密硬件钱包Ledger遭黑客攻击 黑客改装硬件窃取助记词已窃取超过8000万美元",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1581502.htm",
+      "time": "10-10 14:43",
+      "src": "cnBeta.COM"
     }
   ],
   "game_news": [
     {
+      "title": "一加 16 手机预热：首发自研电竞网络芯片 G3、抗干扰电竞天线，宣称手指握住天线、网络也不波动",
+      "link": "https://www.ithome.com/1/011/570.htm",
+      "time": "10-11 10:50",
+      "src": "IT之家"
+    },
+    {
+      "title": "机械革命将推 RTX Spark 迷你主机大师之路 X10，搭载 AI SSD",
+      "link": "https://www.ithome.com/1/011/563.htm",
+      "time": "10-11 10:05",
+      "src": "IT之家"
+    },
+    {
+      "title": "《星际公民》衍生单机游戏《42 中队》上架 Steam，显卡最低要求 8GB 显存",
+      "link": "https://www.ithome.com/1/011/547.htm",
+      "time": "10-11 07:38",
+      "src": "IT之家"
+    },
+    {
       "title": "微软 CEO 纳德拉：开发者应当默认假设 AI 模型失控，思考如何强制中断任务",
       "link": "https://www.ithome.com/1/011/545.htm",
       "time": "10-11 07:19",
-      "src": "IT之家"
-    },
-    {
-      "title": "华为游戏助手弹幕通知功能适配机型公布，首批含 Pura X View、Mate XT 2 等",
-      "link": "https://www.ithome.com/1/011/531.htm",
-      "time": "10-10 22:52",
-      "src": "IT之家"
-    },
-    {
-      "title": "漫步者 HECATE G2000 Bar 电竞音箱上架：四单元声学配置、配可插拔麦克风，首发价 349 元",
-      "link": "https://www.ithome.com/1/011/515.htm",
-      "time": "10-10 21:54",
-      "src": "IT之家"
-    },
-    {
-      "title": "曾在 2022 年入侵 R 星泄露《GTA 6》早期开发画面，黑客 Arion Kurtaj 案件拟定于 11 月 9 日开审",
-      "link": "https://www.ithome.com/1/011/481.htm",
-      "time": "10-10 19:00",
       "src": "IT之家"
     },
     {
@@ -1222,17 +1223,17 @@
   ],
   "game_update": [
     {
+      "title": "高通工程师质疑 Linux 系统 LTS 发行版是否过时：AI 时代也许更适合快速滚动更新补丁",
+      "link": "https://www.ithome.com/1/011/558.htm",
+      "time": "10-11 09:34",
+      "src": "IT之家",
+      "type": "不停机更新"
+    },
+    {
       "title": "微软警告：部分旧版Windows设备未来或将失去安全补丁接收能力",
       "link": "https://www.cnbeta.com.tw/articles/tech/1581570.htm",
       "time": "10-11 02:08",
       "src": "cnBeta.COM",
-      "type": "不停机更新"
-    },
-    {
-      "title": "《三角洲行动》DAU突破5800万",
-      "link": "https://finance.sina.com.cn/tech/2026-10-09/doc-iniuqywm3041683.shtml",
-      "time": "10-09 12:59",
-      "src": "新浪科技",
       "type": "不停机更新"
     },
     {
@@ -1286,15 +1287,15 @@
       "src": "ISW"
     },
     {
-      "title": "美总统：美国有可能加入沙特对胡塞武装的打击行动",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-11/10710863.shtml",
-      "time": "10-11 06:43",
+      "title": "国防部：赖清德所谓“双十”讲话暴露其“台湾之祸”“和平之灾”本质",
+      "link": "https://www.chinanews.com.cn/gn/2026/10-11/10710944.shtml",
+      "time": "10-11 12:59",
       "src": "中新网"
     },
     {
-      "title": "以色列空袭加沙地带致5人死亡多人受伤",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-10/10710847.shtml",
-      "time": "10-10 22:37",
+      "title": "国防部新闻发言人陈曦就赖清德发表所谓“双十”讲话答记者问",
+      "link": "https://www.chinanews.com.cn/gn/2026/10-11/10710924.shtml",
+      "time": "10-11 11:16",
       "src": "中新网"
     },
     {
