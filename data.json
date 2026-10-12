@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12 23:06",
+  "generated_at": "2026-10-13 06:50",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -129,9 +129,9 @@
       }
     ],
     "status": {
-      "state": "已收盘",
-      "label": "今日已收盘",
-      "date": "2026-10-12"
+      "state": "未开盘",
+      "label": "今日尚未开盘",
+      "date": "2026-10-13"
     },
     "watch": [
       {
@@ -263,21 +263,21 @@
         "src": "cnBeta.COM"
       },
       {
-        "title": "机构预测2030年人形机器人内存需求将激增20倍 内存行业积极布局",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1581750.htm",
-        "time": "10-12 16:26",
-        "src": "cnBeta.COM"
+        "title": "法国央行再次表示，法国第三季度的GDP增速预计是0.1%",
+        "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261012-%E6%B3%95%E5%9B%BD%E5%A4%AE%E8%A1%8C%E5%86%8D%E6%AC%A1%E8%A1%A8%E7%A4%BA%EF%BC%8C%E6%B3%95%E5%9B%BD%E7%AC%AC%E4%B8%89%E5%AD%A3%E5%BA%A6%E7%9A%84gdp%E5%A2%9E%E9%80%9F%E9%A2%84%E8%AE%A1%E6%98%AF0-1",
+        "time": "10-13 05:37",
+        "src": "AFP - GABRIEL "
       },
       {
-        "title": "富国银行将Adobe评级从“增持”下调至“减持”，目标价降至225美元，担忧AI竞争侵蚀核心业务",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-12/doc-iniuytny0531022.shtml",
-        "time": "10-12 22:45",
-        "src": "环球市场播报"
+        "title": "中美之间令人担忧的军备竞赛-人形战争机器人",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261012-%E4%B8%AD%E7%BE%8E%E4%B9%8B%E9%97%B4%E4%BB%A4%E4%BA%BA%E6%8B%85%E5%BF%A7%E7%9A%84%E5%86%9B%E5%A4%87%E7%AB%9E%E8%B5%9B-%E4%BA%BA%E5%BD%A2%E6%88%98%E4%BA%89%E6%9C%BA%E5%99%A8%E4%BA%BA",
+        "time": "10-13 03:08",
+        "src": "© Stéphane Lag"
       },
       {
-        "title": "美联储进入10月会议静默期前 美债市场紧盯沃什讲话与通胀报告",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-12/doc-iniuypex5313117.shtml",
-        "time": "10-12 21:17",
+        "title": "10月13日美股成交额前20：美光跌超3% 闪迪跌约6% Meta发布Muse Wonder系列模型涨超3%",
+        "link": "https://finance.sina.com.cn/world/2026-10-13/doc-iniuzkkv8282682.shtml",
+        "time": "10-13 06:32",
         "src": "环球市场播报"
       }
     ]
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 51898.58,
-      "pct": 0.47,
-      "chg": 243.63,
-      "amount": "499689659亿"
+      "price": 51850.55,
+      "pct": 0.38,
+      "chg": 195.6,
+      "amount": "1594104702亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 27297.62,
-      "pct": -0.25,
-      "chg": -68.55,
-      "amount": "5764883737亿"
+      "price": 27245.9,
+      "pct": -0.44,
+      "chg": -120.27,
+      "amount": "15787025231亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7810.09,
-      "pct": -0.02,
-      "chg": -1.45,
-      "amount": "481565807亿"
+      "price": 7807.24,
+      "pct": -0.06,
+      "chg": -4.3,
+      "amount": "1789379672亿"
     }
   ],
   "anime": {
@@ -333,7 +333,7 @@
         "id": 513878,
         "name": "Cyberpunk: Edgerunners 2",
         "name_cn": "赛博朋克：边缘行者 2",
-        "score": 7.3,
+        "score": 7.1,
         "img": "http://lain.bgm.tv/pic/cover/c/db/94/513878_54i56.jpg",
         "air_date": "2026-10-20",
         "rank": null
@@ -345,7 +345,7 @@
         "score": 7.0,
         "img": "http://lain.bgm.tv/pic/cover/c/af/3a/625799_ycox6.jpg",
         "air_date": "2026-10-06",
-        "rank": 2745
+        "rank": 2765
       },
       {
         "id": 624085,
@@ -354,7 +354,7 @@
         "score": 6.7,
         "img": "http://lain.bgm.tv/pic/cover/c/c6/8d/624085_5dXDL.jpg",
         "air_date": "2026-10-06",
-        "rank": 3875
+        "rank": 3861
       },
       {
         "id": 593565,
@@ -363,7 +363,7 @@
         "score": 5.9,
         "img": "http://lain.bgm.tv/pic/cover/c/af/c1/593565_nno0j.jpg",
         "air_date": "2026-10-06",
-        "rank": 7069
+        "rank": 7138
       },
       {
         "id": 634708,
@@ -372,7 +372,7 @@
         "score": 5.5,
         "img": "http://lain.bgm.tv/pic/cover/c/39/84/634708_NnWAS.jpg",
         "air_date": "2026-10-06",
-        "rank": 8354
+        "rank": 8516
       },
       {
         "id": 541538,
@@ -396,10 +396,10 @@
         "id": 584847,
         "name": "千歳くんはラムネ瓶のなか 第2クール",
         "name_cn": "弹珠汽水瓶里的千岁同学 第2部分",
-        "score": 4.6,
+        "score": 4.5,
         "img": "http://lain.bgm.tv/pic/cover/c/83/49/584847_5nM0F.jpg",
         "air_date": "2026-10-13",
-        "rank": 9361
+        "rank": 9441
       },
       {
         "id": 709326,
@@ -528,37 +528,37 @@
     "hf": [
       {
         "id": "google/embeddinggemma-2",
-        "likes": 1872,
+        "likes": 1926,
         "downloads": 115763,
         "pipeline": "feature-extraction"
       },
       {
         "id": "jialinyyzz/humanizer",
-        "likes": 1261,
+        "likes": 1313,
         "downloads": 46070,
         "pipeline": "text-generation"
       },
       {
-        "id": "Cloudflare/clef",
-        "likes": 2070,
-        "downloads": 15064,
-        "pipeline": "image-text-to-text"
-      },
-      {
-        "id": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
-        "likes": 4056,
-        "downloads": 2188658,
-        "pipeline": "text-to-image"
-      },
-      {
         "id": "Qwen/Qwen-Image-2.1-Turbo",
-        "likes": 600,
+        "likes": 631,
         "downloads": 6787,
         "pipeline": "text-to-image"
       },
       {
+        "id": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+        "likes": 4091,
+        "downloads": 2188658,
+        "pipeline": "text-to-image"
+      },
+      {
+        "id": "Cloudflare/clef",
+        "likes": 2089,
+        "downloads": 15064,
+        "pipeline": "image-text-to-text"
+      },
+      {
         "id": "Lightricks/LTX-2.5",
-        "likes": 7403,
+        "likes": 7471,
         "downloads": 1719766,
         "pipeline": "image-to-video"
       }
@@ -732,6 +732,18 @@
   ],
   "hw_news": [
     {
+      "title": "CounterPoint 称内存短缺冲击全球手机市场：2026Q3 出货量创 14 年新低、今年平均售价已涨 20%",
+      "link": "https://www.ithome.com/1/012/130.htm",
+      "time": "10-13 06:47",
+      "src": "IT之家"
+    },
+    {
+      "title": "熊猫“S24Q6A”23.8 英寸显示器发售：2K 180Hz，599 元（国补后 521.1 元）",
+      "link": "https://www.ithome.com/1/012/126.htm",
+      "time": "10-12 23:27",
+      "src": "IT之家"
+    },
+    {
       "title": "微软 Maia 300 AI 芯片发布：台积电 N2P 工艺，288GB HBM4 内存、带宽 18TB/s",
       "link": "https://www.ithome.com/1/012/115.htm",
       "time": "10-12 22:45",
@@ -790,18 +802,6 @@
       "link": "https://www.ithome.com/1/012/061.htm",
       "time": "10-12 19:12",
       "src": "IT之家"
-    },
-    {
-      "title": "爆料人士称 AMD RDNA 5 显卡不太可能在 2027 台北国际电脑展前公布",
-      "link": "https://www.ithome.com/1/012/051.htm",
-      "time": "10-12 18:52",
-      "src": "IT之家"
-    },
-    {
-      "title": "【传言】英伟达停产RTX 5090，旗舰芯片全面转向工作站",
-      "link": "https://www.gcores.com/articles/220759",
-      "time": "10-11 18:36",
-      "src": "机核"
     }
   ],
   "kojima": {
@@ -975,10 +975,22 @@
   "anime_industry": {
     "news": [
       {
+        "title": "宝可梦联名：苹果 Beats 预热特别版 Pill 蓝牙音箱",
+        "link": "https://www.ithome.com/1/012/127.htm",
+        "time": "10-12 23:28",
+        "src": "IT之家"
+      },
+      {
         "title": "一加 16 × 《凡人》动画联名礼盒公布：含专属磁吸手机支架、保护壳、卡针等，购机 +269 元可获得",
         "link": "https://www.ithome.com/1/012/082.htm",
         "time": "10-12 20:22",
         "src": "IT之家"
+      },
+      {
+        "title": "Beats联手宝可梦推出特别版音箱新品 预告短片暗示皮卡丘元素加盟",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1581824.htm",
+        "time": "10-13 00:10",
+        "src": "cnBeta.COM"
       },
       {
         "title": "英特尔多代处理器传出涨价：部分型号涨幅高达20% AMD或将跟进调整价格",
@@ -1014,6 +1026,18 @@
   },
   "intl_news": [
     {
+      "title": "CounterPoint 称内存短缺冲击全球手机市场：2026Q3 出货量创 14 年新低、今年平均售价已涨 20%",
+      "link": "https://www.ithome.com/1/012/130.htm",
+      "time": "10-13 06:47",
+      "src": "IT之家"
+    },
+    {
+      "title": "问界官宣 2027 年秋季进军欧洲市场，力争年内获得 Euro NCAP 五星评级",
+      "link": "https://www.ithome.com/1/012/122.htm",
+      "time": "10-12 23:12",
+      "src": "IT之家"
+    },
+    {
       "title": "比亚迪腾势将在欧洲推出“天神之眼”辅助驾驶系统，Z9 GT 率先支持",
       "link": "https://www.ithome.com/1/012/118.htm",
       "time": "10-12 23:00",
@@ -1038,27 +1062,15 @@
       "src": "IT之家"
     },
     {
-      "title": "爆料人士称 AMD RDNA 5 显卡不太可能在 2027 台北国际电脑展前公布",
-      "link": "https://www.ithome.com/1/012/051.htm",
-      "time": "10-12 18:52",
-      "src": "IT之家"
-    },
-    {
-      "title": "华大九天刘伟平：国产 EDA 工具覆盖率已提升到 85%，部分点工具达到国际先进水平",
-      "link": "https://www.ithome.com/1/012/046.htm",
-      "time": "10-12 18:31",
-      "src": "IT之家"
-    },
-    {
-      "title": "柬埔寨民众与国际游客共度传统“亡人节”",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-12/10712295.shtml",
-      "time": "10-12 21:55",
+      "title": "也门胡塞武装称沙特24小时内发动119次袭击",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-13/10712349.shtml",
+      "time": "10-13 06:14",
       "src": "中新网"
     },
     {
-      "title": "国际货币基金组织和世界银行集团2026年年会在曼谷开幕",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-12/10712311.shtml",
-      "time": "10-12 21:44",
+      "title": "伊朗革命卫队：在霍尔木兹海峡打击了一艘违规油轮",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-13/10712346.shtml",
+      "time": "10-13 00:13",
       "src": "中新网"
     }
   ],
@@ -1100,19 +1112,31 @@
       "src": "中新网"
     },
     {
-      "title": "余电不再“远走” 浙江温岭绿电就近消纳助力企业出口",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-12/10712313.shtml",
-      "time": "10-12 21:42",
-      "src": "中新网"
+      "title": "NexPhone三系统手机延期至2027年一季度发货 预订价599美元",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1581850.htm",
+      "time": "10-13 01:02",
+      "src": "cnBeta.COM"
     },
     {
-      "title": "DeepSeek拟领投前腾讯科学家创办的机器人AI初创公司 估值约4亿美元",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1581802.htm",
-      "time": "10-12 20:40",
+      "title": "马斯克豪掷逾2.76亿美元助阵共和党 成2026年美国中期选举最大金主",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1581848.htm",
+      "time": "10-13 01:00",
       "src": "cnBeta.COM"
     }
   ],
   "game_news": [
+    {
+      "title": "宝可梦联名：苹果 Beats 预热特别版 Pill 蓝牙音箱",
+      "link": "https://www.ithome.com/1/012/127.htm",
+      "time": "10-12 23:28",
+      "src": "IT之家"
+    },
+    {
+      "title": "熊猫“S24Q6A”23.8 英寸显示器发售：2K 180Hz，599 元（国补后 521.1 元）",
+      "link": "https://www.ithome.com/1/012/126.htm",
+      "time": "10-12 23:27",
+      "src": "IT之家"
+    },
     {
       "title": "微软 Maia 300 AI 芯片发布：台积电 N2P 工艺，288GB HBM4 内存、带宽 18TB/s",
       "link": "https://www.ithome.com/1/012/115.htm",
@@ -1147,18 +1171,6 @@
       "title": "《DroidDeck》开源应用公布，可让安卓手机通过 Proton 兼容层运行 Steam 平台 PC 游戏",
       "link": "https://www.ithome.com/1/012/088.htm",
       "time": "10-12 20:48",
-      "src": "IT之家"
-    },
-    {
-      "title": "HKC“27Q240”27 英寸显示器发售：2K 240Hz，899 元",
-      "link": "https://www.ithome.com/1/012/080.htm",
-      "time": "10-12 20:15",
-      "src": "IT之家"
-    },
-    {
-      "title": "2026 年度 TGA 游戏大奖颁奖典礼将于北京时间 12 月 11 日举行，提名名单预计 11 月底公布",
-      "link": "https://www.ithome.com/1/012/074.htm",
-      "time": "10-12 19:46",
       "src": "IT之家"
     }
   ],
@@ -1234,40 +1246,40 @@
       "src": "IT之家"
     },
     {
-      "title": "朝鲜再发多枚弹道导弹  一个月来的第四次发射",
-      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261012-%E6%9C%9D%E9%B2%9C%E5%86%8D%E5%8F%91%E5%A4%9A%E6%9E%9A%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9-%E4%B8%80%E4%B8%AA%E6%9C%88%E6%9D%A5%E7%9A%84%E7%AC%AC%E5%9B%9B%E6%AC%A1%E5%8F%91%E5%B0%84",
-      "time": "10-12 16:16",
-      "src": "REUTERS - Kim "
+      "title": "也门政府军称打死近千名胡塞武装人员",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-13/10712350.shtml",
+      "time": "10-13 06:15",
+      "src": "中新网"
     },
     {
-      "title": "胡塞武裝空襲對華重要窗口利雅德機場 中東衝突又一危險時刻",
-      "link": "https://www.bbc.com/zhongwen/articles/cqy0rd16x33lo/trad?at_medium=RSS&at_campaign=rss",
-      "time": "10-12 19:06",
-      "src": "BBC中文"
+      "title": "也门胡塞武装称沙特24小时内发动119次袭击",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-13/10712349.shtml",
+      "time": "10-13 06:14",
+      "src": "中新网"
     },
     {
-      "title": "機師刀刺同僚企圖劫機 杜拜往以色列航班乘客化解空難",
-      "link": "https://www.bbc.com/zhongwen/articles/ck3rerpdp7x9o/trad?at_medium=RSS&at_campaign=rss",
-      "time": "10-01 14:20",
-      "src": "BBC中文"
+      "title": "伊朗革命卫队：在霍尔木兹海峡打击了一艘违规油轮",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-13/10712346.shtml",
+      "time": "10-13 00:13",
+      "src": "中新网"
     },
     {
-      "title": "胡塞武装袭击利雅得机场后，多国发布全球旅行警示",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-12/doc-iniuytnz7259486.shtml",
-      "time": "10-12 21:39",
-      "src": "环球市场播报"
+      "title": "胡塞武装称沙特空袭也门北部已致9死7伤",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-13/10712345.shtml",
+      "time": "10-13 00:12",
+      "src": "中新网"
     },
     {
-      "title": "集体拒签“最后通牒”，大批媒体撤离五角大楼",
-      "link": "https://news.sina.com.cn/w/2025-10-18/doc-infuhrzs7824610.shtml",
-      "time": "10-18 11:10",
-      "src": ""
+      "title": "以色列北部发生疑似未爆弹药爆炸致1死19伤",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-13/10712344.shtml",
+      "time": "10-13 00:10",
+      "src": "中新网"
     },
     {
-      "title": "伊朗代理总统同俄罗斯总统通电话 讨论合作问题",
-      "link": "https://news.sina.com.cn/w/2024-06-27/doc-incaceev5723822.shtml",
-      "time": "06-27 03:10",
-      "src": "央视"
+      "title": "尼日利亚西北部袭击事件致22人死亡",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-13/10712343.shtml",
+      "time": "10-13 00:06",
+      "src": "中新网"
     }
   ]
 }
