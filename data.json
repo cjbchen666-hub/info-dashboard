@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15 02:28",
+  "generated_at": "2026-10-15 07:05",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,10 +233,22 @@
     ],
     "news": [
       {
+        "title": "苹果市值里程碑：收盘首次超 5 万亿美元",
+        "link": "https://www.ithome.com/1/013/142.htm",
+        "time": "10-15 06:44",
+        "src": "IT之家"
+      },
+      {
         "title": "5499 → 3823 元：大疆 AI ROMO 2 超幅扫拖机器人 11.11 官方直降",
         "link": "https://www.ithome.com/1/013/100.htm",
         "time": "10-14 21:12",
         "src": "IT之家"
+      },
+      {
+        "title": "OpenAI基础设施与算力负责人辞职 留任顾问",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1582152.htm",
+        "time": "10-15 04:31",
+        "src": "cnBeta.COM"
       },
       {
         "title": "贾跃亭：FFR正式合并FF机器人并独立上市 完成1000万美元融资",
@@ -245,39 +257,27 @@
         "src": "cnBeta.COM"
       },
       {
-        "title": "两中资疑IPO造市受查 港证监会冻结逾46亿资产 史上最高额",
-        "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261014-%E4%B8%A4%E4%B8%AD%E8%B5%84%E7%96%91ipo%E9%80%A0%E5%B8%82%E5%8F%97%E6%9F%A5-%E6%B8%AF%E8%AF%81%E7%9B%91%E4%BC%9A%E5%86%BB%E7%BB%93%E9%80%BE46%E4%BA%BF%E8%B5%84%E4%BA%A7-%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%AB%98%E9%A2%9D",
-        "time": "10-14 15:50",
-        "src": "© (网上资料图片，麦燕庭提"
-      },
-      {
-        "title": "美国芯片股跌势加剧 合计市值或蒸发逾1万亿美元",
-        "link": "https://finance.sina.com.cn/world/2026-10-15/doc-inivfmze4508871.shtml",
-        "time": "10-15 00:40",
+        "title": "美联储准备金管理购买暂停期延至11月中旬",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivhaww4427219.shtml",
+        "time": "10-15 06:50",
         "src": "环球市场播报"
       },
       {
-        "title": "花旗经济学家预计美联储12月加息 称核心CPI远超预期",
-        "link": "https://finance.sina.com.cn/world/2026-10-15/doc-inivfmze4503535.shtml",
-        "time": "10-15 00:35",
+        "title": "10月15日隔夜要闻：美股收低 纳指标普三连跌 油价上涨 苹果站上5万亿美元 OpenAI被8个州起诉",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivfwra1299389.shtml",
+        "time": "10-15 06:30",
         "src": "环球市场播报"
       },
       {
-        "title": "摩根士丹利CEO对AI建设“双倍超配” 预计行业年支出或维持1万亿美元",
-        "link": "https://finance.sina.com.cn/world/2026-10-14/doc-inivfmze4442085.shtml",
-        "time": "10-14 23:33",
+        "title": "苹果收盘市值首次达5万亿美元 成为继英伟达后全球第二家",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivfwqy4503343.shtml",
+        "time": "10-15 05:51",
         "src": "环球市场播报"
       },
       {
-        "title": "哈塞特称美联储就通胀数据采取行动前还需看到更多数据",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivfftc8332218.shtml",
-        "time": "10-14 22:13",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "美联储传声筒：CPI超预期令美联储10月按兵不动面临更大压力，但尚无迹象表明官员将改变利率决策计划",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivfftc8312090.shtml",
-        "time": "10-14 21:44",
+        "title": "特朗普称美联储 “糟糕透顶” 人为地抬高了利率",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivfwra1260654.shtml",
+        "time": "10-15 05:34",
         "src": "环球市场播报"
       }
     ]
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 51449.22,
-      "pct": -0.43,
-      "chg": -220.88,
-      "amount": "1262375674亿"
+      "price": 51621.48,
+      "pct": -0.09,
+      "chg": -48.62,
+      "amount": "2283085105亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26671.23,
-      "pct": -1.96,
-      "chg": -533.15,
-      "amount": "13315015898亿"
+      "price": 26692.87,
+      "pct": -1.88,
+      "chg": -511.51,
+      "amount": "20394624368亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7706.68,
-      "pct": -1.27,
-      "chg": -98.77,
-      "amount": "1359077566亿"
+      "price": 7718.94,
+      "pct": -1.11,
+      "chg": -86.51,
+      "amount": "2615202314亿"
     }
   ],
   "anime": {
@@ -336,7 +336,7 @@
         "score": 7.3,
         "img": "http://lain.bgm.tv/pic/cover/c/e4/41/665390_UCHPM.jpg",
         "air_date": "2026-10-01",
-        "rank": 1458
+        "rank": 1441
       },
       {
         "id": 622288,
@@ -345,7 +345,7 @@
         "score": 7.0,
         "img": "http://lain.bgm.tv/pic/cover/c/d3/99/622288_nmbC3.jpg",
         "air_date": "2026-10-01",
-        "rank": 2803
+        "rank": 2817
       },
       {
         "id": 577237,
@@ -372,7 +372,7 @@
         "score": 5.9,
         "img": "http://lain.bgm.tv/pic/cover/c/b6/e8/590553_Xz5PO.jpg",
         "air_date": "2026-10-08",
-        "rank": 7144
+        "rank": 7222
       },
       {
         "id": 654294,
@@ -486,6 +486,12 @@
   "ai": {
     "news_zh": [
       {
+        "title": "涉嫌在高管会议室安装窃听设备的 OpenAI 沙特籍工程师，被曝曾计划“逃回老家”",
+        "link": "https://www.ithome.com/1/013/151.htm",
+        "time": "10-15 07:04",
+        "src": "IT之家"
+      },
+      {
         "title": "男子发布 AI 视频造谣问界，赛力斯起诉索赔百万元",
         "link": "https://www.ithome.com/1/013/132.htm",
         "time": "10-14 23:20",
@@ -526,48 +532,42 @@
         "link": "https://www.ithome.com/1/013/093.htm",
         "time": "10-14 20:51",
         "src": "IT之家"
-      },
-      {
-        "title": "贾跃亭：FFR正式合并FF机器人并独立上市 完成1000万美元融资",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1582142.htm",
-        "time": "10-14 21:23",
-        "src": "cnBeta.COM"
       }
     ],
     "hf": [
       {
         "id": "google/embeddinggemma-2",
-        "likes": 2231,
+        "likes": 2254,
         "downloads": 135175,
         "pipeline": "feature-extraction"
       },
       {
         "id": "jialinyyzz/humanizer",
-        "likes": 1607,
+        "likes": 1630,
         "downloads": 65616,
         "pipeline": "text-generation"
       },
       {
         "id": "Qwen/Qwen-Image-2.1-Turbo",
-        "likes": 761,
+        "likes": 769,
         "downloads": 12704,
         "pipeline": "text-to-image"
       },
       {
         "id": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
-        "likes": 4282,
+        "likes": 4301,
         "downloads": 2315771,
         "pipeline": "text-to-image"
       },
       {
         "id": "openbmb/MiniCPM-V-4.7-35B-A3B",
-        "likes": 559,
+        "likes": 604,
         "downloads": 4157,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "autotrust/JEV-35B",
-        "likes": 715,
+        "likes": 717,
         "downloads": 27970,
         "pipeline": "text-classification"
       }
@@ -783,6 +783,12 @@
       "src": "IT之家"
     },
     {
+      "title": "惠普推出第二代键盘电脑EliteBoard G2a 搭载AMD Ryzen AI 400系列处理器",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1582182.htm",
+      "time": "10-15 05:04",
+      "src": "cnBeta.COM"
+    },
+    {
       "title": "显卡涨价不再是一次性波动：高价长期化 厂商压力到极限",
       "link": "https://www.cnbeta.com.tw/articles/tech/1582136.htm",
       "time": "10-14 20:18",
@@ -795,20 +801,14 @@
       "src": "cnBeta.COM"
     },
     {
-      "title": "几十元笔记本清灰变上千元维修：大学生网购“官方售后”遭遇连环套",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1582088.htm",
-      "time": "10-14 13:28",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "三大CPU巨头集体涨价 Intel、AMD、高通最高涨20%",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1582078.htm",
-      "time": "10-14 13:23",
-      "src": "cnBeta.COM"
-    },
-    {
       "title": "Computex 2026: NVIDIA 发布 ARM 架构 PC 芯片 RTX Spark, 集成 Blackwell GPU, 对标苹果 M5",
       "link": "https://new.qq.com/rain/a/20260605A09PXY00",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "AMD 发布 Ryzen 7 7700X3D(104MB缓存,$329) 与 Radeon RX 9070 GRE(12GB,$549), 强化 1440p 游戏市场",
+      "link": "https://www.91mobiles.com/hub/computex-2026-amd-ryzen-x3d-cpus-radeon-9070-gre",
       "time": "精选",
       "src": "资讯整理"
     }
@@ -1047,25 +1047,37 @@
       "src": "机核"
     },
     {
-      "title": "倒计时击沉美舰：伊朗在海峡摆下非对称口袋，沙特阿美总部14日再度起火",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-14/10714734.shtml",
-      "time": "10-14 23:03",
+      "title": "朝中社：朝鲜试射两种潜射战略巡航导弹（图）",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-15/10714752.shtml",
+      "time": "10-15 06:44",
       "src": "中新网"
     },
     {
-      "title": "中国首批绿证跨境集中交易达成  联通香港国际绿色金融市场",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-14/10714731.shtml",
-      "time": "10-14 22:31",
+      "title": "美军称摧毁一艘与伊朗有关联的帆船 现场浓烟滚滚",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-15/10714750.shtml",
+      "time": "10-15 06:36",
       "src": "中新网"
     },
     {
-      "title": "伊朗称一艘集装箱船在霍尔木兹海峡触雷沉没",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-14/10714647.shtml",
-      "time": "10-14 22:02",
+      "title": "美中央司令部：美军在阿曼湾摧毁一艘与伊朗有关联帆船",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-15/10714748.shtml",
+      "time": "10-15 05:31",
       "src": "中新网"
     }
   ],
   "econ_news": [
+    {
+      "title": "乔布斯信件加持：仍可运行的 Apple I 拍出 115 万美元，成最贵苹果古董电脑",
+      "link": "https://www.ithome.com/1/013/152.htm",
+      "time": "10-15 07:05",
+      "src": "IT之家"
+    },
+    {
+      "title": "苹果市值里程碑：收盘首次超 5 万亿美元",
+      "link": "https://www.ithome.com/1/013/142.htm",
+      "time": "10-15 06:44",
+      "src": "IT之家"
+    },
     {
       "title": "全家畅看《余红旧事》：爱奇艺黄金会员 + 京东 PLUS 年卡 168 元发车",
       "link": "https://www.ithome.com/1/012/497.htm",
@@ -1101,21 +1113,15 @@
       "link": "https://www.ithome.com/1/013/087.htm",
       "time": "10-14 20:32",
       "src": "IT之家"
-    },
-    {
-      "title": "柬埔寨新批两个新能源发电项目 总投资2.58亿美元",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-14/10714747.shtml",
-      "time": "10-14 23:58",
-      "src": "中新网"
-    },
-    {
-      "title": "（经济观察）70年广交会，见证中国与世界的双向奔赴",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-14/10714744.shtml",
-      "time": "10-14 23:30",
-      "src": "中新网"
     }
   ],
   "game_news": [
+    {
+      "title": "微软发布 XBOX Nano 口袋手柄：旗下尺寸最小手柄，售价 329 元",
+      "link": "https://www.ithome.com/1/013/147.htm",
+      "time": "10-15 06:58",
+      "src": "IT之家"
+    },
     {
       "title": "消息称 Steam Frame OLED 头显正在开发：代号 Plano，单眼原生分辨率 3552*3840",
       "link": "https://www.ithome.com/1/013/133.htm",
@@ -1156,12 +1162,6 @@
       "title": "3299 → 2596 元：石头洗地机 A30 Pro Steam 3.0 国补直降，32000Pa 吸力、180℃ 蒸汽 + 90℃ 热水一键混洗",
       "link": "https://www.ithome.com/1/013/106.htm",
       "time": "10-14 21:38",
-      "src": "IT之家"
-    },
-    {
-      "title": "任天堂《塞尔达传说：时之笛 重制版》新细节：城镇全程自由视角，钱包容量翻倍",
-      "link": "https://www.ithome.com/1/013/102.htm",
-      "time": "10-14 21:17",
       "src": "IT之家"
     }
   ],
@@ -1243,6 +1243,24 @@
       "src": "机核"
     },
     {
+      "title": "朝中社：朝鲜试射两种潜射战略巡航导弹（图）",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-15/10714752.shtml",
+      "time": "10-15 06:44",
+      "src": "中新网"
+    },
+    {
+      "title": "美军称摧毁一艘与伊朗有关联的帆船 现场浓烟滚滚",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-15/10714750.shtml",
+      "time": "10-15 06:36",
+      "src": "中新网"
+    },
+    {
+      "title": "美中央司令部：美军在阿曼湾摧毁一艘与伊朗有关联帆船",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-15/10714748.shtml",
+      "time": "10-15 05:31",
+      "src": "中新网"
+    },
+    {
       "title": "以军称已向约旦河西岸增兵 处于高级别战备状态",
       "link": "https://www.chinanews.com.cn/gj/2026/10-14/10714746.shtml",
       "time": "10-14 23:56",
@@ -1253,24 +1271,6 @@
       "link": "https://www.chinanews.com.cn/gj/2026/10-14/10714734.shtml",
       "time": "10-14 23:03",
       "src": "中新网"
-    },
-    {
-      "title": "伊朗称一艘集装箱船在霍尔木兹海峡触雷沉没",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-14/10714647.shtml",
-      "time": "10-14 22:02",
-      "src": "中新网"
-    },
-    {
-      "title": "乌克兰在俄罗斯袭击期间因星链限制和情报缺口而措手不及",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1582116.htm",
-      "time": "10-14 17:04",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "乌克兰官员称星链限制高速移动终端连接 部分关键军事任务受阻",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1582106.htm",
-      "time": "10-14 16:02",
-      "src": "cnBeta.COM"
     }
   ]
 }
