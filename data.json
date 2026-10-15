@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16 00:46",
+  "generated_at": "2026-10-16 05:12",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -239,16 +239,16 @@
         "src": "中新网"
       },
       {
-        "title": "德国警方扣押人形机器人 调查其为何对16岁少女作出性骚扰动作",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1582342.htm",
-        "time": "10-15 21:41",
-        "src": "cnBeta.COM"
+        "title": "裕信银行增持德国商业银行获欧洲央行批准 为取得控制权铺平道路",
+        "link": "https://finance.sina.com.cn/world/2026-10-16/doc-inivizqa1438328.shtml",
+        "time": "10-16 03:07",
+        "src": "环球市场播报"
       },
       {
-        "title": "韩国放宽工厂机器人安全限制 允许20台人形机器人进入生产现场",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1582338.htm",
-        "time": "10-15 21:39",
-        "src": "cnBeta.COM"
+        "title": "拉加德是否提前离任悬而未决 欧洲央行官员据悉渐失耐心",
+        "link": "https://finance.sina.com.cn/world/2026-10-16/doc-inivivhe1476589.shtml",
+        "time": "10-16 01:07",
+        "src": "环球市场播报"
       },
       {
         "title": "经济学家：PPI数据火热，表明美联储的抗通胀工作尚未结束",
@@ -263,22 +263,22 @@
         "src": "环球市场播报"
       },
       {
-        "title": "300308，拟将回购股份全部注销！“易中天”，同日公告",
-        "link": "https://finance.sina.com.cn/stock/s/2026-10-15/doc-iniviksh4793709.shtml",
-        "time": "10-15 22:03",
-        "src": "证券时报"
-      },
-      {
-        "title": "盘前：纳指期货跌1.2% AI股面临重新估值考验",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-iniviksh4710757.shtml",
-        "time": "10-15 20:30",
-        "src": "环球市场播报"
-      },
-      {
         "title": "AI投资热潮暗藏风险 Gartner警告逾3.5万亿美元投资恐面临减值",
         "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-iniviksk1430576.shtml",
         "time": "10-15 20:08",
         "src": "环球市场播报"
+      },
+      {
+        "title": "道指涨超500点，中概股多数上涨，新东方涨超5%，存储股跌幅收窄",
+        "link": "https://finance.sina.com.cn/wm/2026-10-15/doc-iniviqxz7979851.shtml",
+        "time": "10-15 23:18",
+        "src": "一财网"
+      },
+      {
+        "title": "A股周五收盘综述: 上证指数涨1.02%收3940.04点, 科创50大涨2.51%, 两市成交合计超2.6万亿",
+        "link": "https://finance.sina.com.cn/stock/",
+        "time": "精选",
+        "src": "资讯整理"
       }
     ]
   },
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 52086.31,
-      "pct": 0.9,
-      "chg": 464.83,
-      "amount": "1289478617亿"
+      "price": 52177.69,
+      "pct": 1.08,
+      "chg": 556.21,
+      "amount": "2606401515亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26592.97,
-      "pct": -0.37,
-      "chg": -99.9,
-      "amount": "15944238339亿"
+      "price": 26713.03,
+      "pct": 0.08,
+      "chg": 20.16,
+      "amount": "25886468647亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7726.72,
-      "pct": 0.1,
-      "chg": 7.78,
-      "amount": "1182869204亿"
+      "price": 7744.06,
+      "pct": 0.33,
+      "chg": 25.12,
+      "amount": "2654734155亿"
     }
   ],
   "anime": {
@@ -555,48 +555,48 @@
         "src": "IT之家"
       },
       {
-        "title": "极米记得 AI 眼镜 MemoMind One 预售：无摄像头，首发 2699 元",
-        "link": "https://www.ithome.com/1/013/622.htm",
-        "time": "10-15 20:05",
-        "src": "IT之家"
+        "title": "探访2026机器人勇士挑战赛秋季赛实训场：机器人“闯关” 刚需场景",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-15/10715345.shtml",
+        "time": "10-15 21:59",
+        "src": "中新网"
       }
     ],
     "hf": [
       {
         "id": "google/embeddinggemma-2",
-        "likes": 2365,
+        "likes": 2390,
         "downloads": 144280,
         "pipeline": "feature-extraction"
       },
       {
         "id": "jialinyyzz/humanizer",
-        "likes": 1704,
+        "likes": 1722,
         "downloads": 75253,
         "pipeline": "text-generation"
       },
       {
         "id": "Qwen/Qwen-Image-2.1-Turbo",
-        "likes": 858,
+        "likes": 872,
         "downloads": 15315,
         "pipeline": "text-to-image"
       },
       {
         "id": "openbmb/MiniCPM-V-4.7-35B-A3B",
-        "likes": 775,
+        "likes": 788,
         "downloads": 9278,
         "pipeline": "image-text-to-text"
       },
       {
-        "id": "autotrust/JEV-35B",
-        "likes": 943,
-        "downloads": 41837,
-        "pipeline": "text-classification"
-      },
-      {
         "id": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
-        "likes": 4364,
+        "likes": 4377,
         "downloads": 2415278,
         "pipeline": "text-to-image"
+      },
+      {
+        "id": "fishaudio/drama-3",
+        "likes": 462,
+        "downloads": 4048,
+        "pipeline": "text-to-speech"
       }
     ],
     "models": [
@@ -804,6 +804,18 @@
       "src": "IT之家"
     },
     {
+      "title": "RTX 5090从NVIDIA官方商城下架 引发停产与新品接替猜测",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1582422.htm",
+      "time": "10-16 04:05",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "以色列英特尔工厂爆炸致两名工人身亡 警方调查疑似气瓶故障",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1582414.htm",
+      "time": "10-16 03:46",
+      "src": "cnBeta.COM"
+    },
+    {
       "title": "​传闻称英特尔GPU D系列将推出512GB超大显存版本 面向AI推理市场竞争升级",
       "link": "https://www.cnbeta.com.tw/articles/tech/1582398.htm",
       "time": "10-16 00:26",
@@ -825,18 +837,6 @@
       "title": "马斯克：某些内存厂商定价简直是在勒索",
       "link": "https://www.cnbeta.com.tw/articles/tech/1582358.htm",
       "time": "10-15 21:49",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "AI把笔记本变成了爱马仕",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1582354.htm",
-      "time": "10-15 21:48",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "NVIDIA Rubin AI芯片或坚持12层HBM4设计 2027年HBM价格预计暴涨121%",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1582344.htm",
-      "time": "10-15 21:42",
       "src": "cnBeta.COM"
     }
   ],
@@ -1062,6 +1062,12 @@
       "src": "IT之家"
     },
     {
+      "title": "也门官员称胡塞武装袭击亚丁总统府致3人死亡",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-16/10715372.shtml",
+      "time": "10-16 01:07",
+      "src": "中新网"
+    },
+    {
       "title": "沙特称胡塞武装对利雅得机场袭击致17死333伤",
       "link": "https://www.chinanews.com.cn/gj/2026/10-15/10715369.shtml",
       "time": "10-15 23:43",
@@ -1080,15 +1086,9 @@
       "src": "中新网"
     },
     {
-      "title": "特朗普叫停尼达尔·哈桑死刑直播计划：执行仍按原定日期进行 遇难者直系亲属可现场观看",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1582394.htm",
-      "time": "10-15 23:46",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "消息人士：乌克兰爱国者防空导弹已耗尽 抵御俄袭击能力下降",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1582378.htm",
-      "time": "10-15 23:36",
+      "title": "以色列英特尔工厂爆炸致两名工人身亡 警方调查疑似气瓶故障",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1582414.htm",
+      "time": "10-16 03:46",
       "src": "cnBeta.COM"
     }
   ],
@@ -1136,9 +1136,9 @@
       "src": "中新网"
     },
     {
-      "title": "索尼更新高端Walkman产品线：三款新旗舰亮相 顶级型号售价高达5899美元",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1582402.htm",
-      "time": "10-16 00:28",
+      "title": "​苹果iPhone Duo将于明日开启预购 美国起售价1999美元",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1582410.htm",
+      "time": "10-16 03:39",
       "src": "cnBeta.COM"
     }
   ],
@@ -1282,22 +1282,22 @@
       "src": "机核"
     },
     {
+      "title": "也门官员称胡塞武装袭击亚丁总统府致3人死亡",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-16/10715372.shtml",
+      "time": "10-16 01:07",
+      "src": "中新网"
+    },
+    {
       "title": "沙特称胡塞武装对利雅得机场袭击致17死333伤",
       "link": "https://www.chinanews.com.cn/gj/2026/10-15/10715369.shtml",
       "time": "10-15 23:43",
       "src": "中新网"
     },
     {
-      "title": "消息人士：乌克兰爱国者防空导弹已耗尽 抵御俄袭击能力下降",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1582378.htm",
-      "time": "10-15 23:36",
+      "title": "以色列英特尔工厂爆炸致两名工人身亡 警方调查疑似气瓶故障",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1582414.htm",
+      "time": "10-16 03:46",
       "src": "cnBeta.COM"
-    },
-    {
-      "title": "马斯克将“星盾”延迟基辅军事行动归因特朗普 泽连斯基吁美国勿站侵略者一边",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261015-%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%86-%E6%98%9F%E7%9B%BE-%E5%BB%B6%E8%BF%9F%E5%9F%BA%E8%BE%85%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E5%BD%92%E5%9B%A0%E7%89%B9%E6%9C%97%E6%99%AE-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%90%81%E7%BE%8E%E5%9B%BD%E5%8B%BF%E7%AB%99%E4%BE%B5%E7%95%A5%E8%80%85%E4%B8%80%E8%BE%B9",
-      "time": "10-15 21:01",
-      "src": "© Mark Schiefe"
     }
   ]
 }
