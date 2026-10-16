@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17 01:55",
+  "generated_at": "2026-10-17 04:51",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -239,16 +239,16 @@
         "src": "中新网"
       },
       {
-        "title": "国内一半AI算力被指在造爽剧 真正用于研发的只有15%",
-        "link": "https://www.cnbeta.com.tw/articles/movie/1582490.htm",
-        "time": "10-16 15:25",
-        "src": "cnBeta.COM"
+        "title": "10月17日美股收盘：三大指数收跌 纳指跌超2% 科技股全线走低 CoreWeave重挫近12% 布油触及110美元",
+        "link": "https://finance.sina.com.cn/world/2026-10-17/doc-inivnkut7395138.shtml",
+        "time": "10-17 04:41",
+        "src": "环球市场播报"
       },
       {
-        "title": "微软AI负责人：新基础模型超越OpenAI同类产品 算力仅为其四分之一",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1582486.htm",
-        "time": "10-16 15:23",
-        "src": "cnBeta.COM"
+        "title": "美国联邦预算赤字在2026财年达到1.99万亿美元 扩大约12%",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivnent6742054.shtml",
+        "time": "10-17 02:57",
+        "src": "环球市场播报"
       },
       {
         "title": "市场普遍预期美联储10月维持利率不变，但凯文・沃什可能带来意外",
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 51970.17,
-      "pct": -0.4,
-      "chg": -207.52,
-      "amount": "1381916909亿"
+      "price": 52002.41,
+      "pct": -0.34,
+      "chg": -175.28,
+      "amount": "2544608972亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26185.64,
-      "pct": -1.97,
-      "chg": -527.39,
-      "amount": "13652634706亿"
+      "price": 26140.03,
+      "pct": -2.14,
+      "chg": -573.0,
+      "amount": "21645617645亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7663.02,
-      "pct": -1.05,
-      "chg": -81.04,
-      "amount": "1246638359亿"
+      "price": 7659.44,
+      "pct": -1.09,
+      "chg": -84.62,
+      "amount": "2542625729亿"
     }
   ],
   "anime": {
@@ -636,37 +636,37 @@
     "hf": [
       {
         "id": "google/embeddinggemma-2",
-        "likes": 2494,
+        "likes": 2503,
         "downloads": 151258,
         "pipeline": "feature-extraction"
       },
       {
         "id": "jialinyyzz/humanizer",
-        "likes": 1805,
+        "likes": 1819,
         "downloads": 85612,
         "pipeline": "text-generation"
       },
       {
         "id": "openbmb/MiniCPM-V-4.7-35B-A3B",
-        "likes": 832,
+        "likes": 842,
         "downloads": 17553,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "Qwen/Qwen-Image-2.1-Turbo",
-        "likes": 930,
+        "likes": 936,
         "downloads": 17421,
         "pipeline": "text-to-image"
       },
       {
         "id": "fishaudio/drama-3",
-        "likes": 537,
+        "likes": 550,
         "downloads": 6158,
         "pipeline": "text-to-speech"
       },
       {
         "id": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
-        "likes": 4421,
+        "likes": 4427,
         "downloads": 2477554,
         "pipeline": "text-to-image"
       }
@@ -1372,9 +1372,9 @@
       "src": "法广RFI"
     },
     {
-      "title": "普京下令俄军继续袭击乌克兰基础设施",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivmyff8376650.shtml",
-      "time": "10-17 00:48",
+      "title": "伊朗称愿帮助解决沙特与也门之间的冲突",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivnepc8314449.shtml",
+      "time": "10-17 02:57",
       "src": "环球市场播报"
     }
   ]
