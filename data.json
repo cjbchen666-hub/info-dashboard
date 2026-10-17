@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18 04:25",
+  "generated_at": "2026-10-18 07:54",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,6 +233,12 @@
     ],
     "news": [
       {
+        "title": "韩国半导体工程师指控特斯拉：施压三星压低 AI 芯片报价、索要敏感信息并挖角其人才",
+        "link": "https://www.ithome.com/1/014/422.htm",
+        "time": "10-18 07:38",
+        "src": "IT之家"
+      },
+      {
         "title": "华硕推出旗下首款英特尔 Arc Pro B70 显卡：32GB ECC 显存，AI 算力达 367 TOPS",
         "link": "https://www.ithome.com/1/014/390.htm",
         "time": "10-17 19:56",
@@ -257,6 +263,12 @@
         "src": "中新网"
       },
       {
+        "title": "美光为机器人研发EIM内存 目标是兼顾LPDDR低功耗与高带宽",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1582696.htm",
+        "time": "10-18 04:36",
+        "src": "cnBeta.COM"
+      },
+      {
         "title": "仿生机器人“信天翁”亮相：像枫树种子般降落海面 可自主航行数周监测偏远水域",
         "link": "https://www.cnbeta.com.tw/articles/science/1582692.htm",
         "time": "10-18 03:53",
@@ -266,18 +278,6 @@
         "title": "英特尔高级副总裁确认Razor Lake-AX 算力将达700TOPS",
         "link": "https://www.cnbeta.com.tw/articles/tech/1582688.htm",
         "time": "10-17 23:25",
-        "src": "cnBeta.COM"
-      },
-      {
-        "title": "马斯克称AI和机器人是解决美国国债问题唯一途径",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1582678.htm",
-        "time": "10-17 23:05",
-        "src": "cnBeta.COM"
-      },
-      {
-        "title": "Anthropic联合创始人：AI或推动美国经济规模到2030年达到44万亿美元",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1582664.htm",
-        "time": "10-17 20:01",
         "src": "cnBeta.COM"
       }
     ]
@@ -318,8 +318,207 @@
   ],
   "anime": {
     "date": "10-18",
-    "weekday": "?",
-    "items": []
+    "weekday": "日",
+    "items": [
+      {
+        "id": 551304,
+        "name": "わたしの幸せな結婚 特別篇",
+        "name_cn": "我的幸福婚姻 特别篇",
+        "score": 10.0,
+        "img": "http://lain.bgm.tv/pic/cover/c/ac/40/551304_5sWb1.jpg",
+        "air_date": "2026-10-25",
+        "rank": null
+      },
+      {
+        "id": 623249,
+        "name": "ドラゴンボール超 ビルス",
+        "name_cn": "龙珠超 比鲁斯",
+        "score": 7.5,
+        "img": "http://lain.bgm.tv/pic/cover/c/0f/0f/623249_zCdly.jpg",
+        "air_date": "2026-10-11",
+        "rank": 1540
+      },
+      {
+        "id": 712000,
+        "name": "牧神记 伍",
+        "name_cn": "牧神记5",
+        "score": 7.3,
+        "img": "http://lain.bgm.tv/pic/cover/c/da/c8/712000_Z5S1J.jpg",
+        "air_date": "2026-10-18",
+        "rank": null
+      },
+      {
+        "id": 555605,
+        "name": "アオアシ Season 2",
+        "name_cn": "青之芦苇 第二季",
+        "score": 7.2,
+        "img": "http://lain.bgm.tv/pic/cover/c/67/5a/555605_cLCw5.jpg",
+        "air_date": "2026-10-04",
+        "rank": 1871
+      },
+      {
+        "id": 634210,
+        "name": "魔法の姉妹ルルットリリィ 第2クール",
+        "name_cn": "魔法姐妹露露特莉莉 第2部分",
+        "score": 6.6,
+        "img": "http://lain.bgm.tv/pic/cover/c/44/ed/634210_O7aNK.jpg",
+        "air_date": "2026-10-04",
+        "rank": 3574
+      },
+      {
+        "id": 548156,
+        "name": "アオのハコ Season 2",
+        "name_cn": "青之箱 第二季",
+        "score": 6.4,
+        "img": "http://lain.bgm.tv/pic/cover/c/f1/6c/548156_L3fC6.jpg",
+        "air_date": "2026-10-04",
+        "rank": 5582
+      },
+      {
+        "id": 630160,
+        "name": "ダークサモナーとデキている",
+        "name_cn": "黑暗召唤师在地下恋爱中",
+        "score": 6.3,
+        "img": "http://lain.bgm.tv/pic/cover/c/9e/b5/630160_tL25y.jpg",
+        "air_date": "2026-10-04",
+        "rank": 5748
+      },
+      {
+        "id": 688797,
+        "name": "僕らが選んだベストアドベンチャー",
+        "name_cn": "数码宝贝30周年纪念：我们选出的最佳冒险",
+        "score": 6.3,
+        "img": "http://lain.bgm.tv/pic/cover/c/14/2d/688797_z3waa.jpg",
+        "air_date": "2026-10-04",
+        "rank": null
+      },
+      {
+        "id": 636023,
+        "name": "TANK CHAIR-戦車椅子-",
+        "name_cn": "战车椅子",
+        "score": 6.2,
+        "img": "http://lain.bgm.tv/pic/cover/c/94/c9/636023_iF8j7.jpg",
+        "air_date": "2026-10-04",
+        "rank": 6123
+      },
+      {
+        "id": 664395,
+        "name": "ダイヤのA actⅡ Second Season 第2クール",
+        "name_cn": "钻石王牌 act2 第二季 第2部分",
+        "score": 6.2,
+        "img": "http://lain.bgm.tv/pic/cover/c/61/d5/664395_diPLi.jpg",
+        "air_date": "2026-10-11",
+        "rank": null
+      },
+      {
+        "id": 638081,
+        "name": "タヌキとキツネ",
+        "name_cn": "小狸猫与小狐狸",
+        "score": 6.0,
+        "img": "http://lain.bgm.tv/pic/cover/c/49/6a/638081_tc7A0.jpg",
+        "air_date": "2026-10-04",
+        "rank": null
+      },
+      {
+        "id": 664389,
+        "name": "夜桜さんちの大作戦 第2期 第2クール",
+        "name_cn": "夜樱家的大作战 第二季 第2部分",
+        "score": 5.9,
+        "img": "http://lain.bgm.tv/pic/cover/c/95/5d/664389_zP36V.jpg",
+        "air_date": "2026-10-11",
+        "rank": null
+      },
+      {
+        "id": 605533,
+        "name": "おじさんはカワイイものがお好き。",
+        "name_cn": "大叔喜欢可爱小玩意",
+        "score": 5.8,
+        "img": "http://lain.bgm.tv/pic/cover/c/d1/e7/605533_97NSn.jpg",
+        "air_date": "2026-10-04",
+        "rank": null
+      },
+      {
+        "id": 536270,
+        "name": "目覚めたら最強装備と宇宙船持ちだったので 、一戸建て目指して傭兵として自由に生きたい",
+        "name_cn": "一觉醒来就有了最强装备跟太空船 决定以自家独栋建筑为目标当佣兵自由过活",
+        "score": 5.7,
+        "img": "http://lain.bgm.tv/pic/cover/c/3e/fc/536270_51P45.jpg",
+        "air_date": "2026-10-04",
+        "rank": 7800
+      },
+      {
+        "id": 621073,
+        "name": "信者ゼロの女神サマと始める異世界攻略",
+        "name_cn": "和没有信徒的女神大人一起攻略异世界",
+        "score": 5.6,
+        "img": "http://lain.bgm.tv/pic/cover/c/ec/f9/621073_oFcZ3.jpg",
+        "air_date": "2026-10-11",
+        "rank": 7073
+      },
+      {
+        "id": 589775,
+        "name": "ホテル・インヒューマンズ 第2期",
+        "name_cn": "杀手旅店 第二季",
+        "score": 5.5,
+        "img": "http://lain.bgm.tv/pic/cover/c/5d/8c/589775_QZq4Z.jpg",
+        "air_date": "2026-10-04",
+        "rank": null
+      },
+      {
+        "id": 661278,
+        "name": "ゆるゆる図鑑",
+        "name_cn": "",
+        "score": 5.5,
+        "img": "http://lain.bgm.tv/pic/cover/c/e3/df/661278_g29RR.jpg",
+        "air_date": "2026-10-04",
+        "rank": null
+      },
+      {
+        "id": 636058,
+        "name": "彼方から",
+        "name_cn": "来自远方",
+        "score": 5.3,
+        "img": "http://lain.bgm.tv/pic/cover/c/58/0c/636058_bDwNj.jpg",
+        "air_date": "2026-10-04",
+        "rank": null
+      },
+      {
+        "id": 656083,
+        "name": "人付き合いが苦手な未亡人の雪女さんと呪いの指輪",
+        "name_cn": "不擅交际的未亡人雪女与诅咒戒指",
+        "score": 5.3,
+        "img": "http://lain.bgm.tv/pic/cover/c/af/7e/656083_B22Yt.jpg",
+        "air_date": "2026-10-04",
+        "rank": 9041
+      },
+      {
+        "id": 596771,
+        "name": "弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった",
+        "name_cn": "极致软弱千金小姐，不小心答应了精明未婚夫的赌局",
+        "score": 4.8,
+        "img": "http://lain.bgm.tv/pic/cover/c/39/bd/596771_y75Tw.jpg",
+        "air_date": "2026-10-04",
+        "rank": 8813
+      },
+      {
+        "id": 698032,
+        "name": "マウスカーソルで 現実を操作できるようになったので、女の子をいっぱいクリックしまーす",
+        "name_cn": "因为鼠标光标似乎可以操控现实，所以我要疯狂点击女孩子",
+        "score": 4.4,
+        "img": "http://lain.bgm.tv/pic/cover/c/00/50/698032_1UUWe.jpg",
+        "air_date": "2026-10-04",
+        "rank": null
+      },
+      {
+        "id": 647220,
+        "name": "彼女の友達",
+        "name_cn": "女友的朋友",
+        "score": 4.3,
+        "img": "http://lain.bgm.tv/pic/cover/c/24/df/647220_cZZjY.jpg",
+        "air_date": "2026-10-04",
+        "rank": 9998
+      }
+    ]
   },
   "ukraine": {
     "title": "Russian Offensive Campaign Assessment",
@@ -386,6 +585,31 @@
   "ai": {
     "news_zh": [
       {
+        "title": "IT早报 1018：曝华为全新子品牌星芒手机主攻线上性价比；消息称奇瑞智界将获批独立造车资质；DeepSeek V4.1 Flash-1017 新版本发布；英伟达否认 RTX 5090 停产传闻...",
+        "link": "https://www.ithome.com/1/014/427.htm",
+        "time": "10-18 07:52",
+        "src": "IT之家",
+        "type": "不停机更新"
+      },
+      {
+        "title": "韩国半导体工程师指控特斯拉：施压三星压低 AI 芯片报价、索要敏感信息并挖角其人才",
+        "link": "https://www.ithome.com/1/014/422.htm",
+        "time": "10-18 07:38",
+        "src": "IT之家"
+      },
+      {
+        "title": "WPS 官宣「抢鲜」适配 iPhone Duo，支持伴随式 AI 全新布局",
+        "link": "https://www.ithome.com/1/014/421.htm",
+        "time": "10-18 07:36",
+        "src": "IT之家"
+      },
+      {
+        "title": "布局物理 AI：美光研发边缘推理内存 EIM，降低数据处理延迟并提高带宽",
+        "link": "https://www.ithome.com/1/014/419.htm",
+        "time": "10-18 07:26",
+        "src": "IT之家"
+      },
+      {
         "title": "英伟达否认 RTX 5090 停产传闻，承认供应链产能受限",
         "link": "https://www.ithome.com/1/014/407.htm",
         "time": "10-17 22:33",
@@ -408,66 +632,42 @@
         "link": "https://www.ithome.com/1/014/382.htm",
         "time": "10-17 19:29",
         "src": "IT之家"
-      },
-      {
-        "title": "宇树科技展示中心在天津建成投用，集中陈列多款机器人产品",
-        "link": "https://www.ithome.com/1/014/380.htm",
-        "time": "10-17 19:21",
-        "src": "IT之家"
-      },
-      {
-        "title": "开发者将破解后的索尼 PS5 当作本地 AI 服务器：利用 GPU 加速运行 27B 参数 Qwen3.8-27B 模型，速度达 20.9 token/s",
-        "link": "https://www.ithome.com/1/014/372.htm",
-        "time": "10-17 18:45",
-        "src": "IT之家"
-      },
-      {
-        "title": "中国科学院院士鄂维南：未来民科是科研的主力，AI 时代每个有想法有能力的团队和个人都可以参与到科技创新中去",
-        "link": "https://www.ithome.com/1/014/371.htm",
-        "time": "10-17 18:39",
-        "src": "IT之家"
-      },
-      {
-        "title": "OpenAI 纳维-斯托克斯方程证明方法被指与官方叙事不符：学界验证尚需数年，智能体贡献同样成谜",
-        "link": "https://www.ithome.com/1/014/370.htm",
-        "time": "10-17 18:31",
-        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "google/embeddinggemma-2",
-        "likes": 2583,
+        "likes": 2593,
         "downloads": 158490,
         "pipeline": "feature-extraction"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "likes": 875,
+        "likes": 921,
         "downloads": 0,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "jialinyyzz/humanizer",
-        "likes": 1890,
+        "likes": 1895,
         "downloads": 95870,
         "pipeline": "text-generation"
       },
       {
         "id": "openbmb/MiniCPM-V-4.7-35B-A3B",
-        "likes": 894,
+        "likes": 898,
         "downloads": 36252,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "fishaudio/drama-3",
-        "likes": 612,
+        "likes": 618,
         "downloads": 8193,
         "pipeline": "text-to-speech"
       },
       {
         "id": "black-forest-labs/flux-3-image-klein-comfy",
-        "likes": 630,
+        "likes": 648,
         "downloads": 224108,
         "pipeline": "image-to-image"
       }
@@ -641,6 +841,25 @@
   ],
   "hw_news": [
     {
+      "title": "IT早报 1018：曝华为全新子品牌星芒手机主攻线上性价比；消息称奇瑞智界将获批独立造车资质；DeepSeek V4.1 Flash-1017 新版本发布；英伟达否认 RTX 5090 停产传闻...",
+      "link": "https://www.ithome.com/1/014/427.htm",
+      "time": "10-18 07:52",
+      "src": "IT之家",
+      "type": "不停机更新"
+    },
+    {
+      "title": "荣耀新一代 Earbuds 耳夹式耳机开售：单耳重 5.6 克、综合续航 40 小时，到手价 449 元",
+      "link": "https://www.ithome.com/1/014/426.htm",
+      "time": "10-18 07:49",
+      "src": "IT之家"
+    },
+    {
+      "title": "布局物理 AI：美光研发边缘推理内存 EIM，降低数据处理延迟并提高带宽",
+      "link": "https://www.ithome.com/1/014/419.htm",
+      "time": "10-18 07:26",
+      "src": "IT之家"
+    },
+    {
       "title": "英伟达否认 RTX 5090 停产传闻，承认供应链产能受限",
       "link": "https://www.ithome.com/1/014/407.htm",
       "time": "10-17 22:33",
@@ -683,33 +902,15 @@
       "src": "IT之家"
     },
     {
-      "title": "水月雨推出 Gaming Maestro 01 Pro 头戴式耳机：低于 270g 重量，50mm 动圈，299 元",
-      "link": "https://www.ithome.com/1/014/339.htm",
-      "time": "10-17 17:06",
-      "src": "IT之家"
+      "title": "美光为机器人研发EIM内存 目标是兼顾LPDDR低功耗与高带宽",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1582696.htm",
+      "time": "10-18 04:36",
+      "src": "cnBeta.COM"
     },
     {
       "title": "英特尔高级副总裁确认Razor Lake-AX 算力将达700TOPS",
       "link": "https://www.cnbeta.com.tw/articles/tech/1582688.htm",
       "time": "10-17 23:25",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "英伟达否认GeForce RTX 5090停产传闻 称旗舰显卡仍将持续出货",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1582686.htm",
-      "time": "10-17 23:24",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "戴尔CEO警告AI服务器内存短缺将进一步恶化 950亿美元积压订单面临供应挑战",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1582676.htm",
-      "time": "10-17 20:28",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "RTX Spark对比M5 Pro：性能更差 价格却贵2200美元？",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1582636.htm",
-      "time": "10-17 14:46",
       "src": "cnBeta.COM"
     }
   ],
@@ -884,12 +1085,6 @@
   "anime_industry": {
     "news": [
       {
-        "title": "撤档三个月后，国产动画电影《三国第一部：争洛阳》今日再次上映",
-        "link": "https://www.ithome.com/1/014/342.htm",
-        "time": "10-17 17:17",
-        "src": "IT之家"
-      },
-      {
         "title": "《动画产业报告2025》: 市场规模达 3.84 万亿日元创历史新高, 海外占比约 56.5%",
         "link": "https://www.info35.net/hotopics/44871.html",
         "time": "精选",
@@ -917,6 +1112,12 @@
   },
   "intl_news": [
     {
+      "title": "全球化交付加速：小鹏 GX 大规模发运中东非市场，海外售价未公布中东订单已破 3000 辆",
+      "link": "https://www.ithome.com/1/014/420.htm",
+      "time": "10-18 07:28",
+      "src": "IT之家"
+    },
+    {
       "title": "暹粒吴哥国际机场通航3年旅客吞吐量超463万人次",
       "link": "https://www.chinanews.com.cn/aseaninfo/2026/10-17/10716473.shtml",
       "time": "10-17 23:01",
@@ -941,37 +1142,25 @@
       "src": "中新网"
     },
     {
-      "title": "第二十五届中国上海国际艺术节与上海大歌剧院同步开幕",
-      "link": "https://www.chinanews.com.cn/cul/2026/10-17/10716443.shtml",
-      "time": "10-17 21:12",
-      "src": "中新网"
+      "title": "苹果挖角Meta资深律师 重组法务团队应对全球诉讼挑战",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1582700.htm",
+      "time": "10-18 04:37",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "伊朗西北部发现约1亿年前的古老火山系统 为消失的远古海洋提供新线索",
+      "link": "https://www.cnbeta.com.tw/articles/science/1582698.htm",
+      "time": "10-18 04:36",
+      "src": "cnBeta.COM"
     },
     {
       "title": "SpaceX“龙”飞船向国际空间站运送前沿科研载荷 新太阳能阵列即将完成部署",
       "link": "https://www.cnbeta.com.tw/articles/science/1582668.htm",
       "time": "10-17 20:25",
       "src": "cnBeta.COM"
-    },
-    {
-      "title": "英国监管机构拟将微软列为“战略市场主体” 产品捆绑生态成调查焦点",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1582650.htm",
-      "time": "10-17 17:20",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "特斯拉新Roadster跑车“飞上天”，外媒都如何评价？",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1582622.htm",
-      "time": "10-17 14:38",
-      "src": "cnBeta.COM"
     }
   ],
   "econ_news": [
-    {
-      "title": "2026 年度天猫双十一活动将于 10 月 20 日开启，88VIP 用户可自选消费券面额",
-      "link": "https://www.ithome.com/1/014/341.htm",
-      "time": "10-17 17:10",
-      "src": "IT之家"
-    },
     {
       "title": "（乡村行·看振兴）“茶”中建起黄金屋 湖南苗寨产业焕新见闻",
       "link": "https://www.chinanews.com.cn/sh/2026/10-17/10716414.shtml",
@@ -983,6 +1172,12 @@
       "link": "https://www.chinanews.com.cn/cj/2026/10-17/10716459.shtml",
       "time": "10-17 21:21",
       "src": "中新网"
+    },
+    {
+      "title": "苹果零售员工被要求劝阻顾客现场抢购 iPhone Duo 首发库存或极度紧张",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1582702.htm",
+      "time": "10-18 06:16",
+      "src": "cnBeta.COM"
     },
     {
       "title": "马斯克称AI和机器人是解决美国国债问题唯一途径",
@@ -1016,6 +1211,12 @@
     }
   ],
   "game_news": [
+    {
+      "title": "防敏感内容外泄，微软 Edge 浏览器商业版水印保护功能年底全面上线",
+      "link": "https://www.ithome.com/1/014/425.htm",
+      "time": "10-18 07:48",
+      "src": "IT之家"
+    },
     {
       "title": "华硕推出 ROG ZOOM 八类万兆电竞网线：1.5 米 299 元，3 米 399 元",
       "link": "https://www.ithome.com/1/014/399.htm",
@@ -1053,19 +1254,20 @@
       "src": "IT之家"
     },
     {
-      "title": "129 元华硕 ROG 风扇集线器 GR120-1C 发售：支持 4 路风扇接口，黑白双色可选",
-      "link": "https://www.ithome.com/1/014/340.htm",
-      "time": "10-17 17:09",
-      "src": "IT之家"
-    },
-    {
-      "title": "先马先锋 M-ATX 小机箱发售：提供单 120mm 风扇位，首发价 74.5 元",
-      "link": "https://www.ithome.com/1/014/335.htm",
-      "time": "10-17 16:53",
-      "src": "IT之家"
+      "title": "当《地平线》老兵请来了《皮囊》的编剧，我们终于等到了剧情类赛车游戏？",
+      "link": "https://www.gcores.com/articles/221055",
+      "time": "10-17 20:53",
+      "src": "机核"
     }
   ],
   "game_update": [
+    {
+      "title": "IT早报 1018：曝华为全新子品牌星芒手机主攻线上性价比；消息称奇瑞智界将获批独立造车资质；DeepSeek V4.1 Flash-1017 新版本发布；英伟达否认 RTX 5090 停产传闻...",
+      "link": "https://www.ithome.com/1/014/427.htm",
+      "time": "10-18 07:52",
+      "src": "IT之家",
+      "type": "不停机更新"
+    },
     {
       "title": "DeepSeek V4.1 Flash 新版本上线：许愿式编程一键成真",
       "link": "https://www.cnbeta.com.tw/articles/tech/1582656.htm",
@@ -1114,13 +1316,6 @@
       "time": "8-13",
       "type": "停机维护",
       "src": "腾讯官方"
-    },
-    {
-      "title": "《部落冲突》8/5 6:00 停机维护(预计180分钟): 周年庆版本上线, 维护后首领可领维护礼包",
-      "link": "https://new.qq.com/rain/a/20260804A0EYI300",
-      "time": "8-05",
-      "type": "停机维护",
-      "src": "腾讯官方"
     }
   ],
   "mil_news": [
@@ -1135,6 +1330,24 @@
       "link": "https://www.gcores.com/articles/221029",
       "time": "10-16 19:55",
       "src": "机核"
+    },
+    {
+      "title": "苏丹首都圈地区一军事基地发生爆炸",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-18/10716482.shtml",
+      "time": "10-18 06:26",
+      "src": "中新网"
+    },
+    {
+      "title": "也门胡塞武装：沙特空袭塔伊兹省造成至少9人死亡",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-18/10716480.shtml",
+      "time": "10-18 06:19",
+      "src": "中新网"
+    },
+    {
+      "title": "伊朗西北部发现约1亿年前的古老火山系统 为消失的远古海洋提供新线索",
+      "link": "https://www.cnbeta.com.tw/articles/science/1582698.htm",
+      "time": "10-18 04:36",
+      "src": "cnBeta.COM"
     },
     {
       "title": "Anduril推出模块化防空拦截导弹Steelfin 目标年产数千枚",
@@ -1153,24 +1366,6 @@
       "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261017-%E6%8C%AA%E5%A8%81%E5%86%9B%E6%BC%94%E5%A3%AB%E5%85%B5%E5%8F%91%E7%8E%B0%E4%B8%AD%E5%9B%BD%E4%BA%A7%E6%B1%BD%E8%BD%A6%E6%8B%8D%E6%91%84%E5%86%9B%E4%BA%8B%E8%AE%BE%E6%96%BD%E5%AF%86%E7%A0%81%E7%AD%89%E6%95%8F%E6%84%9F%E4%BF%A1%E6%81%AF%E5%BC%95%E5%AE%89%E5%85%A8%E6%8B%85%E5%BF%A7",
       "time": "10-17 18:17",
       "src": "© 美联社图片"
-    },
-    {
-      "title": "冲绳县知事同意美军“鱼鹰”运输机部署：撤回部署或停止使用并不现实",
-      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261016-%E5%86%B2%E7%BB%B3%E5%8E%BF%E7%9F%A5%E4%BA%8B%E5%90%8C%E6%84%8F%E7%BE%8E%E5%86%9B-%E9%B1%BC%E9%B9%B0-%E8%BF%90%E8%BE%93%E6%9C%BA%E9%83%A8%E7%BD%B2-%E6%92%A4%E5%9B%9E%E9%83%A8%E7%BD%B2%E6%88%96%E5%81%9C%E6%AD%A2%E4%BD%BF%E7%94%A8%E5%B9%B6%E4%B8%8D%E7%8E%B0%E5%AE%9E",
-      "time": "10-17 00:18",
-      "src": "© 美联社图片"
-    },
-    {
-      "title": "伊朗革命卫队发言人批评“炸弹之母”命名，称美国是野蛮文明",
-      "link": "https://finance.sina.com.cn/7x24/2026-10-18/doc-inivqpty1221406.shtml",
-      "time": "10-18 03:33",
-      "src": "环球市场播报"
-    },
-    {
-      "title": "伊朗武装部队开火拦截霍尔木兹海峡“违规”通行船只",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-18/doc-inivqinc8078853.shtml",
-      "time": "10-18 01:50",
-      "src": "央视"
     }
   ]
 }
