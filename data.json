@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18 00:57",
+  "generated_at": "2026-10-18 04:25",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -257,6 +257,12 @@
         "src": "中新网"
       },
       {
+        "title": "仿生机器人“信天翁”亮相：像枫树种子般降落海面 可自主航行数周监测偏远水域",
+        "link": "https://www.cnbeta.com.tw/articles/science/1582692.htm",
+        "time": "10-18 03:53",
+        "src": "cnBeta.COM"
+      },
+      {
         "title": "英特尔高级副总裁确认Razor Lake-AX 算力将达700TOPS",
         "link": "https://www.cnbeta.com.tw/articles/tech/1582688.htm",
         "time": "10-17 23:25",
@@ -273,12 +279,6 @@
         "link": "https://www.cnbeta.com.tw/articles/tech/1582664.htm",
         "time": "10-17 20:01",
         "src": "cnBeta.COM"
-      },
-      {
-        "title": "日政府考虑提高法人税筹措防卫费财源 防卫费或攀至每年逾10万亿日元",
-        "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261017-%E6%97%A5%E6%94%BF%E5%BA%9C%E8%80%83%E8%99%91%E8%BF%BD%E5%8A%A0%E6%B3%95%E4%BA%BA%E7%A8%8E%E7%AD%B9%E6%8E%AA%E9%98%B2%E5%8D%AB%E8%B4%B9%E8%B4%A2%E6%BA%90-%E9%98%B2%E5%8D%AB%E8%B4%B9%E8%A7%84%E6%A8%A1%E6%88%96%E6%94%80%E8%87%B3%E6%AF%8F%E5%B9%B4%E9%80%BE10%E4%B8%87%E4%BA%BF%E6%97%A5%E5%85%83",
-        "time": "10-17 21:54",
-        "src": "© 路透社图片"
       }
     ]
   },
@@ -437,37 +437,37 @@
     "hf": [
       {
         "id": "google/embeddinggemma-2",
-        "likes": 2573,
+        "likes": 2583,
         "downloads": 158490,
         "pipeline": "feature-extraction"
       },
       {
-        "id": "jialinyyzz/humanizer",
-        "likes": 1877,
-        "downloads": 95870,
-        "pipeline": "text-generation"
-      },
-      {
         "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "likes": 762,
+        "likes": 875,
         "downloads": 0,
         "pipeline": "image-text-to-text"
       },
       {
+        "id": "jialinyyzz/humanizer",
+        "likes": 1890,
+        "downloads": 95870,
+        "pipeline": "text-generation"
+      },
+      {
         "id": "openbmb/MiniCPM-V-4.7-35B-A3B",
-        "likes": 887,
+        "likes": 894,
         "downloads": 36252,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "fishaudio/drama-3",
-        "likes": 602,
+        "likes": 612,
         "downloads": 8193,
         "pipeline": "text-to-speech"
       },
       {
         "id": "black-forest-labs/flux-3-image-klein-comfy",
-        "likes": 603,
+        "likes": 630,
         "downloads": 224108,
         "pipeline": "image-to-image"
       }
@@ -1161,15 +1161,15 @@
       "src": "© 美联社图片"
     },
     {
-      "title": "沙特媒体揭秘胡塞武装手搓导弹：技术人员靠颜色编码组装弹药 零部件来源于多个国家 在也门境内完成本地组装",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-17/doc-inivpfyf6478196.shtml",
-      "time": "10-17 13:33",
-      "src": "每日经济新闻"
+      "title": "伊朗革命卫队发言人批评“炸弹之母”命名，称美国是野蛮文明",
+      "link": "https://finance.sina.com.cn/7x24/2026-10-18/doc-inivqpty1221406.shtml",
+      "time": "10-18 03:33",
+      "src": "环球市场播报"
     },
     {
-      "title": "视频丨特朗普称乌军“星盾”故障与美国无关",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-17/doc-inivnzsm7281954.shtml",
-      "time": "10-17 12:03",
+      "title": "伊朗武装部队开火拦截霍尔木兹海峡“违规”通行船只",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-18/doc-inivqinc8078853.shtml",
+      "time": "10-18 01:50",
       "src": "央视"
     }
   ]
