@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17 20:05",
+  "generated_at": "2026-10-18 00:57",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -131,7 +131,7 @@
     "status": {
       "state": "休市",
       "label": "周末休市",
-      "date": "2026-10-17"
+      "date": "2026-10-18"
     },
     "watch": [
       {
@@ -251,10 +251,22 @@
         "src": "IT之家"
       },
       {
-        "title": "生产消费齐发力 三季度出口首破8万亿元",
-        "link": "https://www.chinanews.com.cn/cj/2026/10-17/10716354.shtml",
-        "time": "10-17 19:25",
+        "title": "第一观察｜总书记考察绿色算力产业 指引因地制宜发展新质生产力",
+        "link": "https://www.chinanews.com.cn/gn/2026/10-17/10716318.shtml",
+        "time": "10-17 22:24",
         "src": "中新网"
+      },
+      {
+        "title": "英特尔高级副总裁确认Razor Lake-AX 算力将达700TOPS",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1582688.htm",
+        "time": "10-17 23:25",
+        "src": "cnBeta.COM"
+      },
+      {
+        "title": "马斯克称AI和机器人是解决美国国债问题唯一途径",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1582678.htm",
+        "time": "10-17 23:05",
+        "src": "cnBeta.COM"
       },
       {
         "title": "Anthropic联合创始人：AI或推动美国经济规模到2030年达到44万亿美元",
@@ -263,22 +275,10 @@
         "src": "cnBeta.COM"
       },
       {
-        "title": "Anthropic联合创始人：人工智能或推动美国经济规模到2030年达到44万亿美元",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivpwwi8076046.shtml",
-        "time": "10-17 19:49",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "欧洲央行行长拉加德：债券抛售拖累经济增长并将抑制通胀",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivpnhn1397952.shtml",
-        "time": "10-17 16:24",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "欧洲央行行长拉加德：能源冲击规模巨大，不可忽视",
-        "link": "https://finance.sina.com.cn/world/2026-10-17/doc-inivpfyr8177344.shtml",
-        "time": "10-17 14:01",
-        "src": "环球市场播报"
+        "title": "日政府考虑提高法人税筹措防卫费财源 防卫费或攀至每年逾10万亿日元",
+        "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261017-%E6%97%A5%E6%94%BF%E5%BA%9C%E8%80%83%E8%99%91%E8%BF%BD%E5%8A%A0%E6%B3%95%E4%BA%BA%E7%A8%8E%E7%AD%B9%E6%8E%AA%E9%98%B2%E5%8D%AB%E8%B4%B9%E8%B4%A2%E6%BA%90-%E9%98%B2%E5%8D%AB%E8%B4%B9%E8%A7%84%E6%A8%A1%E6%88%96%E6%94%80%E8%87%B3%E6%AF%8F%E5%B9%B4%E9%80%BE10%E4%B8%87%E4%BA%BF%E6%97%A5%E5%85%83",
+        "time": "10-17 21:54",
+        "src": "© 路透社图片"
       }
     ]
   },
@@ -317,208 +317,9 @@
     }
   ],
   "anime": {
-    "date": "10-17",
-    "weekday": "土",
-    "items": [
-      {
-        "id": 899,
-        "name": "名探偵コナン",
-        "name_cn": "名侦探柯南",
-        "score": 7.5,
-        "img": "http://lain.bgm.tv/pic/cover/c/01/88/899_REwVW.jpg",
-        "air_date": "1996-01-08",
-        "rank": 909
-      },
-      {
-        "id": 554779,
-        "name": "生徒会にも穴はある！",
-        "name_cn": "学生会也有洞！",
-        "score": 7.5,
-        "img": "http://lain.bgm.tv/pic/cover/c/17/c7/554779_8C9JY.jpg",
-        "air_date": "2026-10-03",
-        "rank": 1039
-      },
-      {
-        "id": 559080,
-        "name": "Dreamland",
-        "name_cn": "",
-        "score": 7.5,
-        "img": "http://lain.bgm.tv/pic/cover/c/0b/dc/559080_E15EB.jpg",
-        "air_date": "2026-10-17",
-        "rank": null
-      },
-      {
-        "id": 567896,
-        "name": "ブラッククローバー 2nd Season",
-        "name_cn": "黑色五叶草 第二季",
-        "score": 7.5,
-        "img": "http://lain.bgm.tv/pic/cover/c/be/e7/567896_RWffW.jpg",
-        "air_date": "2026-10-03",
-        "rank": 1245
-      },
-      {
-        "id": 637802,
-        "name": "らんま1/2 第3期",
-        "name_cn": "乱马1/2 第三季",
-        "score": 7.4,
-        "img": "http://lain.bgm.tv/pic/cover/c/7a/49/637802_YVTam.jpg",
-        "air_date": "2026-10-03",
-        "rank": 1356
-      },
-      {
-        "id": 507820,
-        "name": "大王饶命 第三季",
-        "name_cn": "大王饶命 第三季",
-        "score": 7.1,
-        "img": "http://lain.bgm.tv/pic/cover/c/32/ed/507820_nLOH8.jpg",
-        "air_date": "2026-10-03",
-        "rank": null
-      },
-      {
-        "id": 616808,
-        "name": "野生のラスボスが現れた！第2期",
-        "name_cn": "野生的大魔王出现了！第二季",
-        "score": 6.4,
-        "img": "http://lain.bgm.tv/pic/cover/c/f9/ae/616808_F80Sl.jpg",
-        "air_date": "2026-10-03",
-        "rank": 5190
-      },
-      {
-        "id": 456078,
-        "name": "マジカル★エクスプローラー",
-        "name_cn": "魔法★探险家",
-        "score": 6.2,
-        "img": "http://lain.bgm.tv/pic/cover/c/f5/6b/456078_jtjPi.jpg",
-        "air_date": "2026-10-03",
-        "rank": 5849
-      },
-      {
-        "id": 617273,
-        "name": "ケロロ軍曹☆",
-        "name_cn": "Keroro军曹☆",
-        "score": 6.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/60/14/617273_YNyyP.jpg",
-        "air_date": "2026-10-03",
-        "rank": null
-      },
-      {
-        "id": 636512,
-        "name": "バーテックスフォース",
-        "name_cn": "至高之力",
-        "score": 5.9,
-        "img": "http://lain.bgm.tv/pic/cover/c/42/ae/636512_oOtDt.jpg",
-        "air_date": "2026-10-03",
-        "rank": 7305
-      },
-      {
-        "id": 657084,
-        "name": "マロニエ王国の七人の騎士",
-        "name_cn": "七叶树王国的七名骑士",
-        "score": 5.8,
-        "img": "http://lain.bgm.tv/pic/cover/c/ed/4a/657084_PZj4J.jpg",
-        "air_date": "2026-10-03",
-        "rank": null
-      },
-      {
-        "id": 568525,
-        "name": "朱色の仮面",
-        "name_cn": "朱色假面",
-        "score": 5.7,
-        "img": "http://lain.bgm.tv/pic/cover/c/3a/11/568525_ovn2M.jpg",
-        "air_date": "2026-10-10",
-        "rank": 6302
-      },
-      {
-        "id": 586255,
-        "name": "#ゾンビさがしてます",
-        "name_cn": "僵尸搜寻中",
-        "score": 5.7,
-        "img": "http://lain.bgm.tv/pic/cover/c/9e/00/586255_FcfsN.jpg",
-        "air_date": "2026-10-03",
-        "rank": 8040
-      },
-      {
-        "id": 702192,
-        "name": "Get Jiro!",
-        "name_cn": "极道寿司次郎！",
-        "score": 5.7,
-        "img": "http://lain.bgm.tv/pic/cover/c/27/2f/702192_311Ln.jpg",
-        "air_date": "2026-10-03",
-        "rank": null
-      },
-      {
-        "id": 542007,
-        "name": "転生した大聖女は、聖女であることをひた隠す",
-        "name_cn": "转生后的大圣女，极力隐瞒圣女的身分",
-        "score": 5.6,
-        "img": "http://lain.bgm.tv/pic/cover/c/61/81/542007_wNKJa.jpg",
-        "air_date": "2026-10-03",
-        "rank": 7763
-      },
-      {
-        "id": 613256,
-        "name": "恐怖コレクター",
-        "name_cn": "恐怖收集者",
-        "score": 4.5,
-        "img": "http://lain.bgm.tv/pic/cover/c/7b/a7/613256_fxVvG.jpg",
-        "air_date": "2026-10-10",
-        "rank": null
-      },
-      {
-        "id": 637206,
-        "name": "しろたん",
-        "name_cn": "",
-        "score": 4.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/62/0c/637206_BoQXi.jpg",
-        "air_date": "2026-10-03",
-        "rank": null
-      },
-      {
-        "id": 606716,
-        "name": "貸した魔力は【リボ払い】で強制徴収",
-        "name_cn": "用【循环利息】强制收回借出的魔力",
-        "score": 3.9,
-        "img": "http://lain.bgm.tv/pic/cover/c/15/11/606716_Om183.jpg",
-        "air_date": "2026-10-03",
-        "rank": 10118
-      },
-      {
-        "id": 654678,
-        "name": "おしりたんてい 第11シリーズ",
-        "name_cn": "屁屁侦探 第11季",
-        "score": null,
-        "img": "http://lain.bgm.tv/pic/cover/c/8d/0c/654678_mR190.jpg",
-        "air_date": "2026-10-03",
-        "rank": null
-      },
-      {
-        "id": 694622,
-        "name": "ねずみくんのチョッキ 第2期",
-        "name_cn": "",
-        "score": null,
-        "img": "http://lain.bgm.tv/pic/cover/c/fe/1b/694622_NhQb3.jpg",
-        "air_date": "2026-10-03",
-        "rank": null
-      },
-      {
-        "id": 701565,
-        "name": "ふんばるず",
-        "name_cn": "",
-        "score": null,
-        "img": "http://lain.bgm.tv/pic/cover/c/79/c2/701565_WkAaz.jpg",
-        "air_date": "2026-10-03",
-        "rank": null
-      },
-      {
-        "id": 712500,
-        "name": "万圣街 特别篇 古堡的秘密",
-        "name_cn": "万圣街 特别篇 古堡的秘密",
-        "score": null,
-        "img": "http://lain.bgm.tv/pic/cover/c/bb/77/712500_Ene6m.jpg",
-        "air_date": "2026-10-31",
-        "rank": null
-      }
-    ]
+    "date": "10-18",
+    "weekday": "?",
+    "items": []
   },
   "ukraine": {
     "title": "Russian Offensive Campaign Assessment",
@@ -585,6 +386,12 @@
   "ai": {
     "news_zh": [
       {
+        "title": "英伟达否认 RTX 5090 停产传闻，承认供应链产能受限",
+        "link": "https://www.ithome.com/1/014/407.htm",
+        "time": "10-17 22:33",
+        "src": "IT之家"
+      },
+      {
         "title": "华硕推出旗下首款英特尔 Arc Pro B70 显卡：32GB ECC 显存，AI 算力达 367 TOPS",
         "link": "https://www.ithome.com/1/014/390.htm",
         "time": "10-17 19:56",
@@ -625,51 +432,44 @@
         "link": "https://www.ithome.com/1/014/370.htm",
         "time": "10-17 18:31",
         "src": "IT之家"
-      },
-      {
-        "title": "DeepSeek V4.1 Flash-1017 新版本发布：性能提升、耗时缩短，许愿式编程一键成真",
-        "link": "https://www.ithome.com/1/014/328.htm",
-        "time": "10-17 16:17",
-        "src": "IT之家",
-        "type": "不停机更新"
       }
     ],
     "hf": [
       {
         "id": "google/embeddinggemma-2",
-        "likes": 2555,
+        "likes": 2573,
         "downloads": 158490,
         "pipeline": "feature-extraction"
       },
       {
         "id": "jialinyyzz/humanizer",
-        "likes": 1860,
+        "likes": 1877,
         "downloads": 95870,
         "pipeline": "text-generation"
       },
       {
+        "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "likes": 762,
+        "downloads": 0,
+        "pipeline": "image-text-to-text"
+      },
+      {
         "id": "openbmb/MiniCPM-V-4.7-35B-A3B",
-        "likes": 872,
+        "likes": 887,
         "downloads": 36252,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "fishaudio/drama-3",
-        "likes": 582,
+        "likes": 602,
         "downloads": 8193,
         "pipeline": "text-to-speech"
       },
       {
         "id": "black-forest-labs/flux-3-image-klein-comfy",
-        "likes": 550,
+        "likes": 603,
         "downloads": 224108,
         "pipeline": "image-to-image"
-      },
-      {
-        "id": "Lightricks/LTX-2.5",
-        "likes": 8150,
-        "downloads": 1993003,
-        "pipeline": "image-to-video"
       }
     ],
     "models": [
@@ -841,6 +641,24 @@
   ],
   "hw_news": [
     {
+      "title": "英伟达否认 RTX 5090 停产传闻，承认供应链产能受限",
+      "link": "https://www.ithome.com/1/014/407.htm",
+      "time": "10-17 22:33",
+      "src": "IT之家"
+    },
+    {
+      "title": "华硕推出 ROG ZOOM 八类万兆电竞网线：1.5 米 299 元，3 米 399 元",
+      "link": "https://www.ithome.com/1/014/399.htm",
+      "time": "10-17 21:15",
+      "src": "IT之家"
+    },
+    {
+      "title": "JBL WAVE FLEX 3 半入耳式降噪耳机首销：12mm 动圈、40 小时续航，668 元",
+      "link": "https://www.ithome.com/1/014/395.htm",
+      "time": "10-17 20:36",
+      "src": "IT之家"
+    },
+    {
       "title": "华硕推出旗下首款英特尔 Arc Pro B70 显卡：32GB ECC 显存，AI 算力达 367 TOPS",
       "link": "https://www.ithome.com/1/014/390.htm",
       "time": "10-17 19:56",
@@ -871,46 +689,28 @@
       "src": "IT之家"
     },
     {
-      "title": "1299 元，索尼 LinkBuds Clip 耳夹式耳机“鎏光金”开启预约",
-      "link": "https://www.ithome.com/1/014/326.htm",
-      "time": "10-17 16:11",
-      "src": "IT之家"
+      "title": "英特尔高级副总裁确认Razor Lake-AX 算力将达700TOPS",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1582688.htm",
+      "time": "10-17 23:25",
+      "src": "cnBeta.COM"
     },
     {
-      "title": "宏碁非凡 GO 迷你电脑主机新增 AMD R7-8745H + 16G + 512G 配置：2.5G 双网口，4999 元",
-      "link": "https://www.ithome.com/1/014/324.htm",
-      "time": "10-17 16:06",
-      "src": "IT之家"
+      "title": "英伟达否认GeForce RTX 5090停产传闻 称旗舰显卡仍将持续出货",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1582686.htm",
+      "time": "10-17 23:24",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "戴尔CEO警告AI服务器内存短缺将进一步恶化 950亿美元积压订单面临供应挑战",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1582676.htm",
+      "time": "10-17 20:28",
+      "src": "cnBeta.COM"
     },
     {
       "title": "RTX Spark对比M5 Pro：性能更差 价格却贵2200美元？",
       "link": "https://www.cnbeta.com.tw/articles/tech/1582636.htm",
       "time": "10-17 14:46",
       "src": "cnBeta.COM"
-    },
-    {
-      "title": "中美芯片差距有多大？英特尔CEO陈立武发声谈及特朗普政府",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1582616.htm",
-      "time": "10-17 14:35",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "SK海力士参加OCP峰会 展示下一代AI内存技术",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-16/doc-inivmiin1605089.shtml",
-      "time": "10-16 17:06",
-      "src": "环球市场播报"
-    },
-    {
-      "title": "Computex 2026: NVIDIA 发布 ARM 架构 PC 芯片 RTX Spark, 集成 Blackwell GPU, 对标苹果 M5",
-      "link": "https://new.qq.com/rain/a/20260605A09PXY00",
-      "time": "精选",
-      "src": "资讯整理"
-    },
-    {
-      "title": "AMD 发布 Ryzen 7 7700X3D(104MB缓存,$329) 与 Radeon RX 9070 GRE(12GB,$549), 强化 1440p 游戏市场",
-      "link": "https://www.91mobiles.com/hub/computex-2026-amd-ryzen-x3d-cpus-radeon-9070-gre",
-      "time": "精选",
-      "src": "资讯整理"
     }
   ],
   "kojima": {
@@ -1117,16 +917,40 @@
   },
   "intl_news": [
     {
-      "title": "45国发布首个国际职业教育标准《北京协议》",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-17/10716358.shtml",
-      "time": "10-17 19:49",
+      "title": "暹粒吴哥国际机场通航3年旅客吞吐量超463万人次",
+      "link": "https://www.chinanews.com.cn/aseaninfo/2026/10-17/10716473.shtml",
+      "time": "10-17 23:01",
       "src": "中新网"
     },
     {
-      "title": "新品占比创新高！广交会开馆爆单，中国制造圈粉全球→",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-17/10716345.shtml",
-      "time": "10-17 19:01",
+      "title": "2026国际武当太极文化节开幕",
+      "link": "https://www.chinanews.com.cn/cul/2026/10-17/10716467.shtml",
+      "time": "10-17 22:23",
       "src": "中新网"
+    },
+    {
+      "title": "（友城故事）福建拓国际友城务实合作 达成系列合作成果",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-17/10716471.shtml",
+      "time": "10-17 22:12",
+      "src": "中新网"
+    },
+    {
+      "title": "2026珠江国际贸易论坛举行 聚焦中国企业出海新赛道",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-17/10716459.shtml",
+      "time": "10-17 21:21",
+      "src": "中新网"
+    },
+    {
+      "title": "第二十五届中国上海国际艺术节与上海大歌剧院同步开幕",
+      "link": "https://www.chinanews.com.cn/cul/2026/10-17/10716443.shtml",
+      "time": "10-17 21:12",
+      "src": "中新网"
+    },
+    {
+      "title": "SpaceX“龙”飞船向国际空间站运送前沿科研载荷 新太阳能阵列即将完成部署",
+      "link": "https://www.cnbeta.com.tw/articles/science/1582668.htm",
+      "time": "10-17 20:25",
+      "src": "cnBeta.COM"
     },
     {
       "title": "英国监管机构拟将微软列为“战略市场主体” 产品捆绑生态成调查焦点",
@@ -1139,30 +963,6 @@
       "link": "https://www.cnbeta.com.tw/articles/tech/1582622.htm",
       "time": "10-17 14:38",
       "src": "cnBeta.COM"
-    },
-    {
-      "title": "中美芯片差距有多大？英特尔CEO陈立武发声谈及特朗普政府",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1582616.htm",
-      "time": "10-17 14:35",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "特朗普否认限制乌克兰卫星系统 乌方对此存疑",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1582606.htm",
-      "time": "10-17 14:25",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "尘封博物馆近百年的化石揭开新恐龙身份：巨型弯爪猎手曾生活在英国 体长可达4米",
-      "link": "https://www.cnbeta.com.tw/articles/science/1582590.htm",
-      "time": "10-17 14:07",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "法国多地爆发抗议示威 青年与黄背心再聚焦民生问题",
-      "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261017-%E6%B3%95%E5%9B%BD%E5%A4%9A%E5%9C%B0%E7%88%86%E5%8F%91%E6%8A%97%E8%AE%AE%E7%A4%BA%E5%A8%81-%E9%9D%92%E5%B9%B4%E4%B8%8E%E9%BB%84%E8%83%8C%E5%BF%83%E5%86%8D%E8%81%9A%E7%84%A6%E6%B0%91%E7%94%9F%E9%97%AE%E9%A2%98",
-      "time": "10-17 17:51",
-      "src": "REUTERS - Yann"
     }
   ],
   "econ_news": [
@@ -1173,28 +973,28 @@
       "src": "IT之家"
     },
     {
-      "title": "苏州“两岸两链”先进制造业专场举行",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-17/10716333.shtml",
-      "time": "10-17 19:43",
+      "title": "（乡村行·看振兴）“茶”中建起黄金屋 湖南苗寨产业焕新见闻",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-17/10716414.shtml",
+      "time": "10-17 21:34",
       "src": "中新网"
     },
     {
-      "title": "生产消费齐发力 三季度出口首破8万亿元",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-17/10716354.shtml",
-      "time": "10-17 19:25",
+      "title": "2026珠江国际贸易论坛举行 聚焦中国企业出海新赛道",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-17/10716459.shtml",
+      "time": "10-17 21:21",
       "src": "中新网"
     },
     {
-      "title": "一颗橙，250亿元！三峡库首结出“黄金果”",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-17/10716353.shtml",
-      "time": "10-17 19:22",
-      "src": "中新网"
+      "title": "马斯克称AI和机器人是解决美国国债问题唯一途径",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1582678.htm",
+      "time": "10-17 23:05",
+      "src": "cnBeta.COM"
     },
     {
-      "title": "首次突破、历史新高！一组数据感受中国经济澎湃动能",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-17/10716343.shtml",
-      "time": "10-17 18:55",
-      "src": "中新网"
+      "title": "戴尔CEO警告AI服务器内存短缺将进一步恶化 950亿美元积压订单面临供应挑战",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1582676.htm",
+      "time": "10-17 20:28",
+      "src": "cnBeta.COM"
     },
     {
       "title": "Anthropic联合创始人：AI或推动美国经济规模到2030年达到44万亿美元",
@@ -1216,6 +1016,12 @@
     }
   ],
   "game_news": [
+    {
+      "title": "华硕推出 ROG ZOOM 八类万兆电竞网线：1.5 米 299 元，3 米 399 元",
+      "link": "https://www.ithome.com/1/014/399.htm",
+      "time": "10-17 21:15",
+      "src": "IT之家"
+    },
     {
       "title": "系列最大官方地图：《DayZ》游戏地图“Badlands”扩展包发售，Steam 国区 107.10 元",
       "link": "https://www.ithome.com/1/014/385.htm",
@@ -1257,22 +1063,9 @@
       "link": "https://www.ithome.com/1/014/335.htm",
       "time": "10-17 16:53",
       "src": "IT之家"
-    },
-    {
-      "title": "经典 IP 新作《牧场物语：特拉迪亚的回响》发售，Steam 国区 170 元",
-      "link": "https://www.ithome.com/1/014/334.htm",
-      "time": "10-17 16:45",
-      "src": "IT之家"
     }
   ],
   "game_update": [
-    {
-      "title": "DeepSeek V4.1 Flash-1017 新版本发布：性能提升、耗时缩短，许愿式编程一键成真",
-      "link": "https://www.ithome.com/1/014/328.htm",
-      "time": "10-17 16:17",
-      "src": "IT之家",
-      "type": "不停机更新"
-    },
     {
       "title": "DeepSeek V4.1 Flash 新版本上线：许愿式编程一键成真",
       "link": "https://www.cnbeta.com.tw/articles/tech/1582656.htm",
@@ -1321,6 +1114,13 @@
       "time": "8-13",
       "type": "停机维护",
       "src": "腾讯官方"
+    },
+    {
+      "title": "《部落冲突》8/5 6:00 停机维护(预计180分钟): 周年庆版本上线, 维护后首领可领维护礼包",
+      "link": "https://new.qq.com/rain/a/20260804A0EYI300",
+      "time": "8-05",
+      "type": "停机维护",
+      "src": "腾讯官方"
     }
   ],
   "mil_news": [
@@ -1337,6 +1137,18 @@
       "src": "机核"
     },
     {
+      "title": "Anduril推出模块化防空拦截导弹Steelfin 目标年产数千枚",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1582670.htm",
+      "time": "10-17 20:26",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "泽连斯基：制裁豁免还将继续令人遗憾，俄方想在白俄境内部署弹道导弹",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261017-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA-%E5%88%B6%E8%A3%81%E8%B1%81%E5%85%8D%E8%BF%98%E5%B0%86%E7%BB%A7%E7%BB%AD%E4%BB%A4%E4%BA%BA%E9%81%97%E6%86%BE%EF%BC%8C%E4%BF%84%E6%96%B9%E6%83%B3%E5%9C%A8%E7%99%BD%E4%BF%84%E5%A2%83%E5%86%85%E9%83%A8%E7%BD%B2%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9",
+      "time": "10-17 23:34",
+      "src": "© 美联社图片"
+    },
+    {
       "title": "挪威军演士兵发现中国产汽车拍摄军事设施密码等敏感信息引安全担忧",
       "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261017-%E6%8C%AA%E5%A8%81%E5%86%9B%E6%BC%94%E5%A3%AB%E5%85%B5%E5%8F%91%E7%8E%B0%E4%B8%AD%E5%9B%BD%E4%BA%A7%E6%B1%BD%E8%BD%A6%E6%8B%8D%E6%91%84%E5%86%9B%E4%BA%8B%E8%AE%BE%E6%96%BD%E5%AF%86%E7%A0%81%E7%AD%89%E6%95%8F%E6%84%9F%E4%BF%A1%E6%81%AF%E5%BC%95%E5%AE%89%E5%85%A8%E6%8B%85%E5%BF%A7",
       "time": "10-17 18:17",
@@ -1349,12 +1161,6 @@
       "src": "© 美联社图片"
     },
     {
-      "title": "黑海商船频繁遇袭：俄乌战争外溢效应逼近欧洲？",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20261016-%E9%BB%91%E6%B5%B7%E5%95%86%E8%88%B9%E9%A2%91%E7%B9%81%E9%81%87%E8%A2%AD-%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%89%E5%A4%96%E6%BA%A2%E6%95%88%E5%BA%94%E9%80%BC%E8%BF%91%E6%AC%A7%E6%B4%B2",
-      "time": "10-16 22:18",
-      "src": "法广RFI"
-    },
-    {
       "title": "沙特媒体揭秘胡塞武装手搓导弹：技术人员靠颜色编码组装弹药 零部件来源于多个国家 在也门境内完成本地组装",
       "link": "https://finance.sina.com.cn/jjxw/2026-10-17/doc-inivpfyf6478196.shtml",
       "time": "10-17 13:33",
@@ -1364,12 +1170,6 @@
       "title": "视频丨特朗普称乌军“星盾”故障与美国无关",
       "link": "https://finance.sina.com.cn/jjxw/2026-10-17/doc-inivnzsm7281954.shtml",
       "time": "10-17 12:03",
-      "src": "央视"
-    },
-    {
-      "title": "地缘冲突消息刺激 国际油价16日显著上涨",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-17/doc-inivnrap6607448.shtml",
-      "time": "10-17 06:43",
       "src": "央视"
     }
   ]
