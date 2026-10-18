@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18 23:44",
+  "generated_at": "2026-10-19 02:33",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -129,9 +129,9 @@
       }
     ],
     "status": {
-      "state": "休市",
-      "label": "周末休市",
-      "date": "2026-10-18"
+      "state": "未开盘",
+      "label": "今日尚未开盘",
+      "date": "2026-10-19"
     },
     "watch": [
       {
@@ -555,37 +555,37 @@
     "hf": [
       {
         "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "likes": 1236,
+        "likes": 1273,
         "downloads": 10233,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "google/embeddinggemma-2",
-        "likes": 2639,
+        "likes": 2647,
         "downloads": 164339,
         "pipeline": "feature-extraction"
       },
       {
         "id": "openbmb/MiniCPM-V-4.7-35B-A3B",
-        "likes": 958,
+        "likes": 981,
         "downloads": 57935,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "jialinyyzz/humanizer",
-        "likes": 1929,
+        "likes": 1932,
         "downloads": 103709,
         "pipeline": "text-generation"
       },
       {
         "id": "fishaudio/drama-3",
-        "likes": 666,
+        "likes": 676,
         "downloads": 9620,
         "pipeline": "text-to-speech"
       },
       {
         "id": "black-forest-labs/flux-3-image-klein-comfy",
-        "likes": 753,
+        "likes": 777,
         "downloads": 338036,
         "pipeline": "image-to-image"
       }
@@ -759,6 +759,12 @@
   ],
   "hw_news": [
     {
+      "title": "首发即国补：荣耀 Earbuds 耳夹式耳机 499 → 378 元，全天候舒适佩戴",
+      "link": "https://www.ithome.com/1/014/619.htm",
+      "time": "10-18 23:47",
+      "src": "IT之家"
+    },
+    {
       "title": "1499 → 1146.8 元：华为 FreeClip 2 典藏版耳夹耳机京东国补新低",
       "link": "https://www.ithome.com/1/014/614.htm",
       "time": "10-18 23:07",
@@ -801,6 +807,12 @@
       "src": "IT之家"
     },
     {
+      "title": "超频玩家将英特尔酷睿i5-4670K推至6.3 GHz 尘封12年的纪录被打破",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1582790.htm",
+      "time": "10-19 00:35",
+      "src": "cnBeta.COM"
+    },
+    {
       "title": "英特尔将硅光子视为下一代系统“黄金之锤” 独家量产300毫米磷化铟晶圆",
       "link": "https://www.cnbeta.com.tw/articles/tech/1582770.htm",
       "time": "10-18 20:15",
@@ -816,18 +828,6 @@
       "title": "两托盘RTX 5090在圣保罗机场失踪 货物成本估值约250万雷亚尔",
       "link": "https://www.cnbeta.com.tw/articles/tech/1582750.htm",
       "time": "10-18 15:27",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "民间模组让AMD显卡运行DLSS光线重建 扩展支持至多项NVIDIA功能",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1582726.htm",
-      "time": "10-18 14:06",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "爆料称PS6内存与闪存成本已超680美元 主机售价或面临更大压力",
-      "link": "https://www.cnbeta.com.tw/articles/game/1582722.htm",
-      "time": "10-18 13:56",
       "src": "cnBeta.COM"
     }
   ],
@@ -1059,12 +1059,6 @@
       "src": "中新网"
     },
     {
-      "title": "广西国际中文教师比拼教学技能：让留学生读懂中国",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-18/10716868.shtml",
-      "time": "10-18 22:17",
-      "src": "中新网"
-    },
-    {
       "title": "微软招聘Xbox实体游戏供应策略师 负责全球发行与库存规划",
       "link": "https://www.cnbeta.com.tw/articles/game/1582772.htm",
       "time": "10-18 20:18",
@@ -1075,6 +1069,12 @@
       "link": "https://www.cnbeta.com.tw/articles/tech/1582740.htm",
       "time": "10-18 14:32",
       "src": "cnBeta.COM"
+    },
+    {
+      "title": "乌克兰总统泽连斯基称美国恢复情报分享 帮助乌克兰防俄军空袭",
+      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261018-%E4%B9%8C%E5%85%8B%E5%85%B0%E6%80%BB%E7%BB%9F%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%A7%B0%E7%BE%8E%E5%9B%BD%E6%81%A2%E5%A4%8D%E6%83%85%E6%8A%A5%E5%88%86%E4%BA%AB-%E5%B8%AE%E5%8A%A9%E4%B9%8C%E5%85%8B%E5%85%B0%E9%98%B2%E4%BF%84%E5%86%9B%E7%A9%BA%E8%A2%AD",
+      "time": "10-19 01:57",
+      "src": "REUTERS - Dado"
     }
   ],
   "econ_news": [
@@ -1121,10 +1121,10 @@
       "src": "cnBeta.COM"
     },
     {
-      "title": "欧洲准备加强针对中国的贸易防御机制，先是汽车，现在是化工行业",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20261017-%E6%AC%A7%E6%B4%B2%E5%87%86%E5%A4%87%E5%8A%A0%E5%BC%BA%E9%92%88%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%B4%B8%E6%98%93%E9%98%B2%E5%BE%A1%E6%9C%BA%E5%88%B6%EF%BC%8C%E5%85%88%E6%98%AF%E6%B1%BD%E8%BD%A6%EF%BC%8C%E7%8E%B0%E5%9C%A8%E6%98%AF%E5%8C%96%E5%B7%A5%E8%A1%8C%E4%B8%9A",
-      "time": "10-18 00:42",
-      "src": "法广RFI"
+      "title": "消费电子产品：中国为何正在超越西方",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261018-%E6%B6%88%E8%B4%B9%E7%94%B5%E5%AD%90%E4%BA%A7%E5%93%81-%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BD%95%E6%AD%A3%E5%9C%A8%E8%B6%85%E8%B6%8A%E8%A5%BF%E6%96%B9",
+      "time": "10-19 01:18",
+      "src": "© Jessica Lee "
     }
   ],
   "game_news": [
@@ -1255,12 +1255,6 @@
       "src": "IT之家"
     },
     {
-      "title": "《使命召唤：现代战争 4》抢先体验版 Steam 在线峰值超 10.8 万人，已超前作《黑色行动 7》",
-      "link": "https://www.ithome.com/1/014/539.htm",
-      "time": "10-18 16:41",
-      "src": "IT之家"
-    },
-    {
       "title": "《全面战争：幕府将军2》完全版差评如潮，世嘉回滚旧版本",
       "link": "https://www.gcores.com/articles/221029",
       "time": "10-16 19:55",
@@ -1271,6 +1265,12 @@
       "link": "https://www.cnbeta.com.tw/articles/game/1582724.htm",
       "time": "10-18 14:00",
       "src": "cnBeta.COM"
+    },
+    {
+      "title": "乌克兰总统泽连斯基称美国恢复情报分享 帮助乌克兰防俄军空袭",
+      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261018-%E4%B9%8C%E5%85%8B%E5%85%B0%E6%80%BB%E7%BB%9F%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%A7%B0%E7%BE%8E%E5%9B%BD%E6%81%A2%E5%A4%8D%E6%83%85%E6%8A%A5%E5%88%86%E4%BA%AB-%E5%B8%AE%E5%8A%A9%E4%B9%8C%E5%85%8B%E5%85%B0%E9%98%B2%E4%BF%84%E5%86%9B%E7%A9%BA%E8%A2%AD",
+      "time": "10-19 01:57",
+      "src": "REUTERS - Dado"
     },
     {
       "title": "意大利多地反生活成本上涨示威演变为暴力冲突，警方动用催泪弹和高压水炮",
