@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21 00:44",
+  "generated_at": "2026-10-21 05:28",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -239,6 +239,24 @@
         "src": "cnBeta.COM"
       },
       {
+        "title": "美国股市：标普500指数ETF盘后上涨 SpaceX盈利超预期",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivxmez6347374.shtml",
+        "time": "10-21 05:14",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "10月21日美股成交额前20：苹果跌1% 宣布扩大新产品零部件在美国的生产",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivxmex5591378.shtml",
+        "time": "10-21 04:42",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "10月21日收盘：纳指微跌 道指大涨500点 财报乐观情绪稳定市场",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivxmeu0850104.shtml",
+        "time": "10-21 04:14",
+        "src": "环球市场播报"
+      },
+      {
         "title": "交易员认为SpaceX财报发布后股价将继续上涨 看涨合约成交活跃",
         "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivwyqz7676589.shtml",
         "time": "10-20 23:01",
@@ -261,24 +279,6 @@
         "link": "https://finance.sina.com.cn/stock/s/2026-10-20/doc-inivwuif5705636.shtml",
         "time": "10-20 21:21",
         "src": ""
-      },
-      {
-        "title": "百亿A股公司，筹划赴港上市！",
-        "link": "https://finance.sina.com.cn/stock/s/2026-10-20/doc-inivwuii6434167.shtml",
-        "time": "10-20 21:10",
-        "src": "市场资讯"
-      },
-      {
-        "title": "通用汽车计划回购200亿美元股票以提振股价",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivwpzf7726554.shtml",
-        "time": "10-20 19:24",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "创新药大牛股，前三季度净利最高预增超300%！",
-        "link": "https://finance.sina.com.cn/stock/zqgd/2026-10-20/doc-inivwpze0916083.shtml",
-        "time": "10-20 18:46",
-        "src": ""
       }
     ]
   },
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 52461.68,
-      "pct": 0.95,
-      "chg": 495.65,
-      "amount": "874116022亿"
+      "price": 52495.88,
+      "pct": 1.02,
+      "chg": 529.85,
+      "amount": "1932757853亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26471.11,
-      "pct": 0.15,
-      "chg": 40.22,
-      "amount": "10412336098亿"
+      "price": 26424.82,
+      "pct": -0.02,
+      "chg": -6.07,
+      "amount": "18485072349亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7717.29,
-      "pct": 0.35,
-      "chg": 26.56,
-      "amount": "876054406亿"
+      "price": 7712.57,
+      "pct": 0.28,
+      "chg": 21.84,
+      "amount": "2099068083亿"
     }
   ],
   "anime": {
@@ -555,39 +555,39 @@
     "hf": [
       {
         "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "likes": 1883,
+        "likes": 1934,
         "downloads": 27737,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "black-forest-labs/flux-3-image-klein-comfy",
-        "likes": 1052,
+        "likes": 1079,
         "downloads": 439528,
         "pipeline": "image-to-image"
       },
       {
         "id": "fishaudio/drama-3",
-        "likes": 811,
+        "likes": 829,
         "downloads": 13495,
         "pipeline": "text-to-speech"
       },
       {
         "id": "meta-models/Muse-Spark-Open-816B-A42B",
-        "likes": 597,
+        "likes": 606,
         "downloads": 2592,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "google/embeddinggemma-2",
-        "likes": 2752,
+        "likes": 2762,
         "downloads": 172474,
         "pipeline": "feature-extraction"
       },
       {
-        "id": "jialinyyzz/humanizer",
-        "likes": 2017,
-        "downloads": 115341,
-        "pipeline": "text-generation"
+        "id": "black-forest-labs/flux-3-image-klein",
+        "likes": 561,
+        "downloads": 78897,
+        "pipeline": "image-to-image"
       }
     ],
     "models": [
@@ -1079,6 +1079,18 @@
   ],
   "econ_news": [
     {
+      "title": "超微电脑 2027 财年第一财季预计营收185 亿美元~195 亿美元",
+      "link": "https://www.ithome.com/1/015/619.htm",
+      "time": "10-21 04:47",
+      "src": "IT之家"
+    },
+    {
+      "title": "Netflix 2026 财年第三财季归母净利润 36.64 亿美元，同比增长 43.86%",
+      "link": "https://www.ithome.com/1/015/618.htm",
+      "time": "10-21 04:06",
+      "src": "IT之家"
+    },
+    {
       "title": "Sensor Tower 预测：《GTA6》数字版预购量已突破 600 万份，销售额达 5.94 亿美元",
       "link": "https://www.ithome.com/1/015/595.htm",
       "time": "10-20 22:30",
@@ -1112,18 +1124,6 @@
       "title": "《GTA 6》数字版预购突破600万份 销售额接近6亿美元创行业纪录",
       "link": "https://www.cnbeta.com.tw/articles/game/1583086.htm",
       "time": "10-20 22:14",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "亚马逊宣布180亿美元德国投资计划 柏林将新增机器人与人工智能研究中心",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1583074.htm",
-      "time": "10-20 20:35",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "富士康斥资7.27亿美元收购三菱电机汽车业务一半股权",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1583070.htm",
-      "time": "10-20 20:15",
       "src": "cnBeta.COM"
     }
   ],
@@ -1159,12 +1159,6 @@
       "src": "IT之家"
     },
     {
-      "title": "微软解释 Win11“反直觉”文件夹：System32 装 64 位文件，SysWOW64 反而装 32 位文件",
-      "link": "https://www.ithome.com/1/015/556.htm",
-      "time": "10-20 21:00",
-      "src": "IT之家"
-    },
-    {
       "title": "【会员抽奖】物理游戏《基机受难记》现已发售",
       "link": "https://www.gcores.com/articles/221186",
       "time": "10-20 16:55",
@@ -1174,6 +1168,12 @@
       "title": "【会员抽奖】国产横版卷轴恐怖游戏《规则怪谈》新品节开放全新Demo试玩",
       "link": "https://www.gcores.com/articles/221184",
       "time": "10-20 16:55",
+      "src": "机核"
+    },
+    {
+      "title": "《艾尔塔：逆神》免费试玩版现已加入 Steam 新品节",
+      "link": "https://www.gcores.com/articles/221173",
+      "time": "10-20 14:16",
       "src": "机核"
     }
   ],
@@ -1267,6 +1267,12 @@
       "src": "法广RFI"
     },
     {
+      "title": "伊朗高官：美国须采取建立信任的措施 否则德黑兰不会与华府谈判",
+      "link": "https://finance.sina.com.cn/world/2026-10-21/doc-inivxewx7655321.shtml",
+      "time": "10-21 01:35",
+      "src": "环球市场播报"
+    },
+    {
       "title": "欧洲债市：德国国债上涨 伊朗谈判消息引发市场波动",
       "link": "https://finance.sina.com.cn/world/2026-10-21/doc-inivwyrc5685100.shtml",
       "time": "10-21 00:11",
@@ -1276,12 +1282,6 @@
       "title": "卡塔尔和巴基斯坦据报提出新方案以推动结束伊朗战争 布伦特原油跌3%",
       "link": "https://finance.sina.com.cn/world/2026-10-20/doc-inivwyrc5651665.shtml",
       "time": "10-20 23:19",
-      "src": "环球市场播报"
-    },
-    {
-      "title": "英国将部署战斗机，协助沙特阿拉伯抵御胡塞武装袭击",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivwpzf7744775.shtml",
-      "time": "10-20 19:43",
       "src": "环球市场播报"
     }
   ]
