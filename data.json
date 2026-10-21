@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22 02:31",
+  "generated_at": "2026-10-22 07:08",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -245,10 +245,10 @@
         "src": "IT之家"
       },
       {
-        "title": "Visa 发布三项商业支付能力：开启 AI 智能体支付试点，预测 B2B 虚拟卡价值 2029 年将达 14.6 万亿美元",
-        "link": "https://www.ithome.com/1/016/101.htm",
-        "time": "10-21 20:15",
-        "src": "IT之家"
+        "title": "通用汽车公布未来技术路线图：AI加速研发、算力提升40倍、自动驾驶瞄准主力车型",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1583266.htm",
+        "time": "10-22 03:05",
+        "src": "cnBeta.COM"
       },
       {
         "title": "亚特兰大拟禁止“机器警察”上岗 市议会一致支持限制武装机器人",
@@ -257,28 +257,28 @@
         "src": "cnBeta.COM"
       },
       {
-        "title": "Anthropic招股书透露大量信息：营收暴增却巨亏 算力成掣肘",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1583198.htm",
-        "time": "10-21 14:11",
-        "src": "cnBeta.COM"
-      },
-      {
-        "title": "黄仁勋柏林演讲实录：参考人形机器人、AI工厂、CUDA-X、自动驾驶、物理AI、医疗智能体多点发布",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivzcqk4899797.shtml",
-        "time": "10-21 22:44",
+        "title": "调查显示逾八成受访者预计日本央行下一次加息将在12月份",
+        "link": "https://finance.sina.com.cn/world/2026-10-22/doc-inivzuna4825788.shtml",
+        "time": "10-22 06:05",
         "src": "环球市场播报"
       },
       {
-        "title": "300301，重整投资方案获通过！半导体大佬拟入局",
-        "link": "https://finance.sina.com.cn/stock/zqgd/2026-10-21/doc-inivyxhf5439084.shtml",
-        "time": "10-21 20:57",
-        "src": ""
+        "title": "美国股市：标普500指数三连涨 SpaceX业绩强劲提振AI交易",
+        "link": "https://finance.sina.com.cn/world/2026-10-22/doc-inivzumv5260252.shtml",
+        "time": "10-22 05:32",
+        "src": "环球市场播报"
       },
       {
-        "title": "富士康车间走出的“安徽富豪”上桌算力，协创数据签下375亿协议",
-        "link": "https://finance.sina.com.cn/stock/s/2026-10-21/doc-inivyxhn4871123.shtml",
-        "time": "10-21 19:19",
-        "src": "市场资讯"
+        "title": "双11首日：天猫124个品牌成交破亿",
+        "link": "https://finance.sina.com.cn/jjxw/2026-10-21/doc-inivysyn8154878.shtml",
+        "time": "10-21 18:44",
+        "src": "新浪科技"
+      },
+      {
+        "title": "英伟达升级Isaac通用机器人平台：推出全新人形机器人参考样机、仿真流水线等",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivysyn8142657.shtml",
+        "time": "10-21 18:33",
+        "src": "环球市场播报"
       }
     ]
   },
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 52812.39,
-      "pct": 0.6,
-      "chg": 316.51,
-      "amount": "1058670825亿"
+      "price": 52856.09,
+      "pct": 0.69,
+      "chg": 360.21,
+      "amount": "1893735884亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26765.07,
-      "pct": 1.29,
-      "chg": 340.25,
-      "amount": "12564411774亿"
+      "price": 26702.86,
+      "pct": 1.05,
+      "chg": 278.04,
+      "amount": "18420553208亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7769.53,
-      "pct": 0.74,
-      "chg": 56.96,
-      "amount": "1222798985亿"
+      "price": 7757.17,
+      "pct": 0.58,
+      "chg": 44.6,
+      "amount": "2241414775亿"
     }
   ],
   "anime": {
@@ -327,7 +327,16 @@
         "score": 7.3,
         "img": "http://lain.bgm.tv/pic/cover/c/e4/41/665390_UCHPM.jpg",
         "air_date": "2026-10-01",
-        "rank": 1377
+        "rank": 1376
+      },
+      {
+        "id": 705980,
+        "name": "熊出没之神奇宝物2",
+        "name_cn": "熊出没之神奇宝物 第二季",
+        "score": 7.3,
+        "img": "http://lain.bgm.tv/pic/cover/c/83/75/705980_zVjkX.jpg",
+        "air_date": "2026-10-01",
+        "rank": null
       },
       {
         "id": 622288,
@@ -336,7 +345,7 @@
         "score": 6.9,
         "img": "http://lain.bgm.tv/pic/cover/c/d3/99/622288_nmbC3.jpg",
         "air_date": "2026-10-01",
-        "rank": 3031
+        "rank": 3038
       },
       {
         "id": 449346,
@@ -357,22 +366,13 @@
         "rank": null
       },
       {
-        "id": 705980,
-        "name": "熊出没之神奇宝物2",
-        "name_cn": "熊出没之神奇宝物 第二季",
-        "score": 6.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/83/75/705980_zVjkX.jpg",
-        "air_date": "2026-10-01",
-        "rank": null
-      },
-      {
         "id": 577237,
         "name": "仙逆剧场版 弑仙之战",
         "name_cn": "仙逆剧场版 弑仙之战",
         "score": 5.9,
         "img": "http://lain.bgm.tv/pic/cover/c/33/a4/577237_Cd0Cm.jpg",
         "air_date": "2026-10-01",
-        "rank": 5487
+        "rank": 5564
       },
       {
         "id": 590553,
@@ -381,7 +381,7 @@
         "score": 5.8,
         "img": "http://lain.bgm.tv/pic/cover/c/b6/e8/590553_Xz5PO.jpg",
         "air_date": "2026-10-08",
-        "rank": 7827
+        "rank": 7841
       },
       {
         "id": 654294,
@@ -390,7 +390,7 @@
         "score": 5.5,
         "img": "http://lain.bgm.tv/pic/cover/c/ec/2f/654294_ckrD9.jpg",
         "air_date": "2026-10-08",
-        "rank": 7200
+        "rank": 7169
       },
       {
         "id": 650428,
@@ -486,6 +486,18 @@
   "ai": {
     "news_zh": [
       {
+        "title": "沃尔玛推出自有智能体网关，AI 可代用户下单购物",
+        "link": "https://www.ithome.com/1/016/172.htm",
+        "time": "10-22 07:04",
+        "src": "IT之家"
+      },
+      {
+        "title": "24 小时为你在线打工：Anthropic 推出 Claude Duet AI 智能体，迎战 Meta 和 OpenAI",
+        "link": "https://www.ithome.com/1/016/169.htm",
+        "time": "10-22 06:44",
+        "src": "IT之家"
+      },
+      {
         "title": "安卓阵营首款阔直板手机酷派 COOL X Wide 售价公布：999~1399 元，搭载联发科曦力 G99 芯片 + 720p 屏幕",
         "link": "https://www.ithome.com/1/016/160.htm",
         "time": "10-22 00:14",
@@ -520,54 +532,42 @@
         "link": "https://www.ithome.com/1/016/137.htm",
         "time": "10-21 22:31",
         "src": "IT之家"
-      },
-      {
-        "title": "OpenAI 联手 PerturbAI：让近 2000 个 AI 智能体一起搞科研，加速新药研发",
-        "link": "https://www.ithome.com/1/016/134.htm",
-        "time": "10-21 22:16",
-        "src": "IT之家"
-      },
-      {
-        "title": "英伟达联合思灵推出人形机器人参考平台 Agile ONE SN，计划 2027 年初上市",
-        "link": "https://www.ithome.com/1/016/128.htm",
-        "time": "10-21 21:49",
-        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "likes": 2133,
+        "likes": 2154,
         "downloads": 42122,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "black-forest-labs/flux-3-image-klein-comfy",
-        "likes": 1162,
+        "likes": 1184,
         "downloads": 490447,
         "pipeline": "image-to-image"
       },
       {
         "id": "meta-models/Muse-Spark-Open-816B-A42B",
-        "likes": 629,
+        "likes": 635,
         "downloads": 2891,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "fishaudio/drama-3",
-        "likes": 877,
+        "likes": 887,
         "downloads": 15274,
         "pipeline": "text-to-speech"
       },
       {
         "id": "black-forest-labs/flux-3-image-klein",
-        "likes": 595,
+        "likes": 599,
         "downloads": 92604,
         "pipeline": "image-to-image"
       },
       {
         "id": "OpenMOSS-Team/MOSS-Image-SFT",
-        "likes": 525,
+        "likes": 531,
         "downloads": 5840,
         "pipeline": "text-to-image"
       }
@@ -783,12 +783,6 @@
       "src": "cnBeta.COM"
     },
     {
-      "title": "2300多亿抢工作站显卡，大厂等它来救急",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1583184.htm",
-      "time": "10-21 14:06",
-      "src": "cnBeta.COM"
-    },
-    {
       "title": "TDS REVIEW｜vivo Buds Clip 耳夹式无线耳机体验",
       "link": "https://sspai.com/post/115475",
       "time": "10-20 17:30",
@@ -809,6 +803,12 @@
     {
       "title": "AMD 发布 Ryzen 7 7700X3D(104MB缓存,$329) 与 Radeon RX 9070 GRE(12GB,$549), 强化 1440p 游戏市场",
       "link": "https://www.91mobiles.com/hub/computex-2026-amd-ryzen-x3d-cpus-radeon-9070-gre",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "Intel 预览 Nova Lake 桌面平台: 最高48核(16P+32E), 18A 工艺, LGA1954 新插槽, 预计2026年底上市",
+      "link": "https://www.160.com/article/12732.html",
       "time": "精选",
       "src": "资讯整理"
     }
@@ -1053,31 +1053,55 @@
       "src": "IT之家"
     },
     {
-      "title": "第四届海洋负排放开放科学大会厦门举行 推进全球气候治理行动",
-      "link": "https://www.chinanews.com.cn/gn/2026/10-21/10718801.shtml",
-      "time": "10-21 23:22",
+      "title": "美国宣布制裁与伊朗相关的多家外国实体",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-22/10718825.shtml",
+      "time": "10-22 07:00",
       "src": "中新网"
     },
     {
-      "title": "联合国旅游组织/亚太旅游协会旅游趋势与展望大会在桂林闭幕",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-21/10718806.shtml",
-      "time": "10-21 23:20",
+      "title": "乌克兰首都基辅遭弹道导弹袭击",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-22/10718824.shtml",
+      "time": "10-22 06:58",
       "src": "中新网"
     },
     {
-      "title": "法国一架“幻影-2000”战斗机坠毁 致1人丧生1人失踪",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-21/10718786.shtml",
-      "time": "10-21 22:43",
+      "title": "沙特一油田设施遭无人机袭击 致2死2伤",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-22/10718820.shtml",
+      "time": "10-22 05:59",
       "src": "中新网"
     },
     {
-      "title": "欧盟议员警告：马斯克旗下SpaceX的扩张野心可能对欧洲构成“危险”",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1583248.htm",
-      "time": "10-21 22:44",
-      "src": "cnBeta.COM"
+      "title": "美国对伊朗实施新一轮制裁",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-22/10718819.shtml",
+      "time": "10-22 05:58",
+      "src": "中新网"
     }
   ],
   "econ_news": [
+    {
+      "title": "德州仪器 2026 财年第三财季归母净利润 24.25 亿美元，同比增长 78%",
+      "link": "https://www.ithome.com/1/016/164.htm",
+      "time": "10-22 04:10",
+      "src": "IT之家"
+    },
+    {
+      "title": "特斯拉 2026 财年第三财季归母净利润 7.87 亿美元，同比下降 43%",
+      "link": "https://www.ithome.com/1/016/167.htm",
+      "time": "10-22 04:46",
+      "src": "IT之家"
+    },
+    {
+      "title": "剑桥分析数据丑闻余波未平，Meta 被判向新墨西哥州赔付 250 亿美元",
+      "link": "https://www.ithome.com/1/016/171.htm",
+      "time": "10-22 06:56",
+      "src": "IT之家"
+    },
+    {
+      "title": "IBM 2026 财年半年报归母净利润 55.71 亿美元，同比增长 11.58%",
+      "link": "https://www.ithome.com/1/016/165.htm",
+      "time": "10-22 04:25",
+      "src": "IT之家"
+    },
     {
       "title": "史泰博遭黑客入侵：攻击者劫持员工会话生成超 1.5 万张礼品卡，面值逾 500 万美元",
       "link": "https://www.ithome.com/1/016/132.htm",
@@ -1091,39 +1115,15 @@
       "src": "IT之家"
     },
     {
-      "title": "Visa 发布三项商业支付能力：开启 AI 智能体支付试点，预测 B2B 虚拟卡价值 2029 年将达 14.6 万亿美元",
-      "link": "https://www.ithome.com/1/016/101.htm",
-      "time": "10-21 20:15",
-      "src": "IT之家"
-    },
-    {
-      "title": "经济学家估算《GTA6/侠盗猎车6》发售或致美国150万人缺勤",
-      "link": "https://www.cnbeta.com.tw/articles/game/1583252.htm",
-      "time": "10-21 22:52",
+      "title": "Bose收购Skullcandy 瞄准年轻消费群体与更广泛市场",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1583270.htm",
+      "time": "10-22 04:37",
       "src": "cnBeta.COM"
     },
     {
-      "title": "富士康加码美国AI布局 斥资逾5400万美元扩展硅谷生产基地",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1583236.htm",
-      "time": "10-21 19:35",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "多家私募评估超千亿美元收购微软Xbox业务",
-      "link": "https://www.cnbeta.com.tw/articles/game/1583210.htm",
-      "time": "10-21 15:25",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "曝PS6零部件成本或比新Xbox主机低约200美元",
-      "link": "https://www.cnbeta.com.tw/articles/game/1583200.htm",
-      "time": "10-21 14:14",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "Anthropic招股书透露大量信息：营收暴增却巨亏 算力成掣肘",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1583198.htm",
-      "time": "10-21 14:11",
+      "title": "Meta因新墨西哥州剑桥分析案被罚250亿美元",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1583258.htm",
+      "time": "10-22 02:55",
       "src": "cnBeta.COM"
     }
   ],
@@ -1255,34 +1255,34 @@
       "src": "IT之家"
     },
     {
-      "title": "中国团队赴美国德州表演无人机方阵 连破两项世界记录",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1583192.htm",
-      "time": "10-21 14:08",
-      "src": "cnBeta.COM"
+      "title": "美国宣布制裁与伊朗相关的多家外国实体",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-22/10718825.shtml",
+      "time": "10-22 07:00",
+      "src": "中新网"
     },
     {
-      "title": "台湾相声演员因讽中共遭中国公民雇凶袭击，检方起诉5名男子",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261021-%E5%8F%B0%E6%B9%BE%E7%9B%B8%E5%A3%B0%E6%BC%94%E5%91%98%E5%9B%A0%E8%AE%BD%E4%B8%AD%E5%85%B1%E9%81%AD%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E9%9B%87%E5%87%B6%E8%A2%AD%E5%87%BB5%E7%94%B7%E8%A2%AB%E8%B5%B7%E8%AF%89",
-      "time": "10-22 01:04",
-      "src": "© 网络截图"
+      "title": "乌克兰首都基辅遭弹道导弹袭击",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-22/10718824.shtml",
+      "time": "10-22 06:58",
+      "src": "中新网"
     },
     {
-      "title": "伊朗议长卡利巴夫与最高领袖穆杰塔巴会晤 讨论军事和经济战最新进展",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-inivziwc6042487.shtml",
-      "time": "10-22 00:06",
-      "src": "环球市场播报"
+      "title": "沙特一油田设施遭无人机袭击 致2死2伤",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-22/10718820.shtml",
+      "time": "10-22 05:59",
+      "src": "中新网"
     },
     {
-      "title": "伊朗要求美国解除海上封锁 并展示通过外交途径结束战争的诚意",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivyxhk8182300.shtml",
-      "time": "10-21 21:19",
-      "src": "环球市场播报"
+      "title": "美国对伊朗实施新一轮制裁",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-22/10718819.shtml",
+      "time": "10-22 05:58",
+      "src": "中新网"
     },
     {
-      "title": "集体拒签“最后通牒”，大批媒体撤离五角大楼",
-      "link": "https://news.sina.com.cn/w/2025-10-18/doc-infuhrzs7824610.shtml",
-      "time": "10-18 11:10",
-      "src": ""
+      "title": "俄国防部：俄军继续打击乌物流中心及港口基础设施",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-22/10718818.shtml",
+      "time": "10-22 05:57",
+      "src": "中新网"
     }
   ]
 }
