@@ -1,136 +1,136 @@
 {
-  "generated_at": "2026-10-22 07:08",
+  "generated_at": "2026-10-22 12:20",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
       {
         "name": "上证指数",
         "code": "000001",
-        "price": 3713.03,
-        "pct": -0.6,
-        "chg": -22.34,
-        "amount": "6428亿"
+        "price": 3679.86,
+        "pct": -0.89,
+        "chg": -33.17,
+        "amount": "4112亿"
       },
       {
         "name": "深证成指",
         "code": "399001",
-        "price": 11704.35,
-        "pct": -0.82,
-        "chg": -96.94,
-        "amount": "7866亿"
+        "price": 11496.07,
+        "pct": -1.78,
+        "chg": -208.28,
+        "amount": "5081亿"
       },
       {
         "name": "创业板指",
         "code": "399006",
-        "price": 2694.71,
-        "pct": -1.62,
-        "chg": -44.49,
-        "amount": "3980亿"
+        "price": 2620.04,
+        "pct": -2.77,
+        "chg": -74.67,
+        "amount": "2545亿"
       },
       {
         "name": "沪深300",
         "code": "000300",
-        "price": 4111.93,
-        "pct": -0.97,
-        "chg": -40.18,
-        "amount": "3879亿"
+        "price": 4060.19,
+        "pct": -1.26,
+        "chg": -51.74,
+        "amount": "2374亿"
       },
       {
         "name": "科创50",
         "code": "000688",
-        "price": 1343.28,
-        "pct": 0.06,
-        "chg": 0.86,
-        "amount": "626亿"
+        "price": 1321.86,
+        "pct": -1.59,
+        "chg": -21.42,
+        "amount": "407亿"
       },
       {
         "name": "北证50",
         "code": "899050",
-        "price": 975.78,
-        "pct": -0.72,
-        "chg": -7.09,
-        "amount": "129亿"
+        "price": 976.88,
+        "pct": 0.11,
+        "chg": 1.1,
+        "amount": "87亿"
       }
     ],
     "gainers": [
       {
-        "name": "N文峰",
-        "code": "920296",
-        "pct": 217.03,
-        "price": 36.3
+        "name": "N通则",
+        "code": "301718",
+        "pct": 205.06,
+        "price": 82.0
       },
       {
-        "name": "利亚德",
-        "code": "300296",
-        "pct": 20.04,
-        "price": 5.63
+        "name": "巨能股份",
+        "code": "920578",
+        "pct": 28.16,
+        "price": 20.98
       },
       {
-        "name": "慧辰股份",
-        "code": "688500",
+        "name": "博汇股份",
+        "code": "300839",
         "pct": 20.0,
-        "price": 37.56
+        "price": 19.92
       },
       {
-        "name": "莱美药业",
-        "code": "300006",
+        "name": "华阳智能",
+        "code": "301502",
         "pct": 20.0,
-        "price": 9.3
+        "price": 54.0
       },
       {
-        "name": "三维天地",
-        "code": "301159",
-        "pct": 20.0,
-        "price": 38.76
+        "name": "奕帆传动",
+        "code": "301023",
+        "pct": 19.98,
+        "price": 32.48
       },
       {
-        "name": "敏芯股份",
-        "code": "688286",
-        "pct": 20.0,
-        "price": 52.81
+        "name": "安培龙",
+        "code": "301413",
+        "pct": 14.42,
+        "price": 61.03
       }
     ],
     "losers": [
       {
+        "name": "近岸蛋白",
+        "code": "688137",
+        "pct": -13.6,
+        "price": 115.34
+      },
+      {
         "name": "*ST卓然",
         "code": "688121",
-        "pct": -18.29,
-        "price": 0.67
+        "pct": -13.43,
+        "price": 0.58
       },
       {
-        "name": "开普云",
-        "code": "688228",
-        "pct": -14.54,
-        "price": 80.69
+        "name": "呈和科技",
+        "code": "688625",
+        "pct": -10.71,
+        "price": 45.85
       },
       {
-        "name": "宁德时代",
-        "code": "300750",
-        "pct": -12.04,
-        "price": 227.9
+        "name": "善水科技",
+        "code": "301190",
+        "pct": -10.29,
+        "price": 40.38
       },
       {
-        "name": "*ST仕净",
-        "code": "301030",
-        "pct": -10.21,
-        "price": 4.22
+        "name": "*ST亿晶",
+        "code": "600537",
+        "pct": -10.06,
+        "price": 1.52
       },
       {
-        "name": "锦龙股份",
-        "code": "000712",
-        "pct": -10.02,
-        "price": 9.7
-      },
-      {
-        "name": "上海洗霸",
-        "code": "603200",
-        "pct": -10.0,
-        "price": 47.88
+        "name": "昂立教育",
+        "code": "600661",
+        "pct": -10.04,
+        "price": 8.6
       }
     ],
     "status": {
-      "state": "未开盘",
-      "label": "今日尚未开盘",
+      "state": "已收盘",
+      "label": "今日已收盘",
       "date": "2026-10-22"
     },
     "watch": [
@@ -139,146 +139,146 @@
         "name": "中际旭创",
         "theme": "AI光模块",
         "reason": "800G/1.6T光模块龙头, AI算力资本开支核心受益",
-        "price": 646.77,
-        "pct": -0.17
+        "price": 600.17,
+        "pct": -7.21
       },
       {
         "code": "300502",
         "name": "新易盛",
         "theme": "AI光模块",
         "reason": "光模块高弹性, 海外算力需求驱动",
-        "price": 294.12,
-        "pct": -1.36
+        "price": 264.6,
+        "pct": -10.04
       },
       {
         "code": "688256",
         "name": "寒武纪",
         "theme": "国产AI芯片",
         "reason": "国产算力核心标的, 大模型推理放量",
-        "price": 916.42,
-        "pct": -0.5
+        "price": 890.89,
+        "pct": -2.79
       },
       {
         "code": "688041",
         "name": "海光信息",
         "theme": "国产算力",
         "reason": "信创+国产DCU双主线",
-        "price": 193.3,
-        "pct": 0.68
+        "price": 192.07,
+        "pct": -0.64
       },
       {
         "code": "002371",
         "name": "北方华创",
         "theme": "半导体设备",
         "reason": "国产设备龙头, 晶圆厂扩产受益",
-        "price": 560.99,
-        "pct": -0.97
+        "price": 551.93,
+        "pct": -1.62
       },
       {
         "code": "688981",
         "name": "中芯国际",
         "theme": "晶圆代工",
         "reason": "国产代工龙头, 稼动率与价格回升",
-        "price": 100.24,
-        "pct": -1.71
+        "price": 99.78,
+        "pct": -0.46
       },
       {
         "code": "002230",
         "name": "科大讯飞",
         "theme": "AI应用",
         "reason": "大模型应用落地, 星火迭代提速",
-        "price": 37.1,
-        "pct": 0.16
+        "price": 37.12,
+        "pct": 0.05
       },
       {
         "code": "601689",
         "name": "拓普集团",
         "theme": "人形机器人",
         "reason": "机器人执行器核心供应商",
-        "price": 42.38,
-        "pct": 0.52
+        "price": 43.12,
+        "pct": 1.75
       },
       {
         "code": "600276",
         "name": "恒瑞医药",
         "theme": "创新药",
         "reason": "创新药BD出海密集, 管线兑现",
-        "price": 47.38,
-        "pct": -0.15
+        "price": 46.9,
+        "pct": -1.01
       },
       {
         "code": "688235",
         "name": "百济神州",
         "theme": "创新药",
         "reason": "全球化创新药企, 海外收入放量",
-        "price": 274.6,
-        "pct": 4.81
+        "price": 269.95,
+        "pct": -1.69
       },
       {
         "code": "601088",
         "name": "中国神华",
         "theme": "高股息",
         "reason": "高股息煤炭龙头, 防御属性强",
-        "price": 49.27,
-        "pct": -3.96
+        "price": 49.76,
+        "pct": 0.99
       },
       {
         "code": "300059",
         "name": "东方财富",
         "theme": "金融科技",
         "reason": "市场成交活跃, 业绩弹性大",
-        "price": 17.9,
-        "pct": -0.33
+        "price": 18.1,
+        "pct": 1.12
       }
     ],
     "news": [
       {
-        "title": "谷歌 CEO 桑达尔 · 皮查伊：公司正牺牲云业务短期收入支持前沿 AI 研发，2027 年算力难以锁定",
-        "link": "https://www.ithome.com/1/016/137.htm",
-        "time": "10-21 22:31",
+        "title": "曾暴涨 7 倍，大模型企业 MiniMax 股价跌破 IPO 发行价",
+        "link": "https://www.ithome.com/1/016/269.htm",
+        "time": "10-22 11:12",
         "src": "IT之家"
       },
       {
-        "title": "英伟达联合思灵推出人形机器人参考平台 Agile ONE SN，计划 2027 年初上市",
-        "link": "https://www.ithome.com/1/016/128.htm",
-        "time": "10-21 21:49",
+        "title": "王兴兴：宇树 G1 已累计生产下线约 1-2 万台，是全球最畅销的人形机器人",
+        "link": "https://www.ithome.com/1/016/258.htm",
+        "time": "10-22 10:55",
         "src": "IT之家"
+      },
+      {
+        "title": "马斯克：计划建造 Optimus 人形机器人学校，Terafab 经济价值可跻身全球前 20 经济体",
+        "link": "https://www.ithome.com/1/016/249.htm",
+        "time": "10-22 10:23",
+        "src": "IT之家"
+      },
+      {
+        "title": "迈步“史上最大 IPO”，消息称 Anthropic 最快本周五公开提交上市申请",
+        "link": "https://www.ithome.com/1/016/243.htm",
+        "time": "10-22 10:17",
+        "src": "IT之家"
+      },
+      {
+        "title": "特斯拉开始在弗里蒙特工厂生产 Optimus 人形机器人，马斯克称达周产 2 万台仍需约一年甚至更久",
+        "link": "https://www.ithome.com/1/016/218.htm",
+        "time": "10-22 09:57",
+        "src": "IT之家"
+      },
+      {
+        "title": "A股午评：超3900只个股飘绿，三大指数集体收跌",
+        "link": "https://www.chinanews.com.cn/cj/2026/10-22/10718957.shtml",
+        "time": "10-22 11:59",
+        "src": "中新网"
+      },
+      {
+        "title": "2025年我国海洋生产总值突破11万亿元",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-22/10718911.shtml",
+        "time": "10-22 10:42",
+        "src": "中新网"
       },
       {
         "title": "通用汽车公布未来技术路线图：AI加速研发、算力提升40倍、自动驾驶瞄准主力车型",
         "link": "https://www.cnbeta.com.tw/articles/tech/1583266.htm",
         "time": "10-22 03:05",
         "src": "cnBeta.COM"
-      },
-      {
-        "title": "亚特兰大拟禁止“机器警察”上岗 市议会一致支持限制武装机器人",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1583232.htm",
-        "time": "10-21 19:31",
-        "src": "cnBeta.COM"
-      },
-      {
-        "title": "调查显示逾八成受访者预计日本央行下一次加息将在12月份",
-        "link": "https://finance.sina.com.cn/world/2026-10-22/doc-inivzuna4825788.shtml",
-        "time": "10-22 06:05",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "美国股市：标普500指数三连涨 SpaceX业绩强劲提振AI交易",
-        "link": "https://finance.sina.com.cn/world/2026-10-22/doc-inivzumv5260252.shtml",
-        "time": "10-22 05:32",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "双11首日：天猫124个品牌成交破亿",
-        "link": "https://finance.sina.com.cn/jjxw/2026-10-21/doc-inivysyn8154878.shtml",
-        "time": "10-21 18:44",
-        "src": "新浪科技"
-      },
-      {
-        "title": "英伟达升级Isaac通用机器人平台：推出全新人形机器人参考样机、仿真流水线等",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivysyn8142657.shtml",
-        "time": "10-21 18:33",
-        "src": "环球市场播报"
       }
     ]
   },
@@ -286,10 +286,10 @@
     {
       "name": "恒生指数",
       "code": "HSI",
-      "price": 23651.87,
-      "pct": -0.9,
-      "chg": -215.87,
-      "amount": "1766亿"
+      "price": 22971.93,
+      "pct": -2.87,
+      "chg": -679.94,
+      "amount": "1275亿"
     },
     {
       "name": "道琼斯",
@@ -486,88 +486,88 @@
   "ai": {
     "news_zh": [
       {
-        "title": "沃尔玛推出自有智能体网关，AI 可代用户下单购物",
-        "link": "https://www.ithome.com/1/016/172.htm",
-        "time": "10-22 07:04",
+        "title": "宇树科技王兴兴：目前物理 AI 已经看到被击穿的苗头",
+        "link": "https://www.ithome.com/1/016/326.htm",
+        "time": "10-22 11:53",
         "src": "IT之家"
       },
       {
-        "title": "24 小时为你在线打工：Anthropic 推出 Claude Duet AI 智能体，迎战 Meta 和 OpenAI",
-        "link": "https://www.ithome.com/1/016/169.htm",
-        "time": "10-22 06:44",
+        "title": "王腾详解今日宜休 ISHO iFlow AI 温控系统：无感监测、智能控温、双区独立",
+        "link": "https://www.ithome.com/1/016/324.htm",
+        "time": "10-22 11:52",
         "src": "IT之家"
       },
       {
-        "title": "安卓阵营首款阔直板手机酷派 COOL X Wide 售价公布：999~1399 元，搭载联发科曦力 G99 芯片 + 720p 屏幕",
-        "link": "https://www.ithome.com/1/016/160.htm",
-        "time": "10-22 00:14",
+        "title": "英伟达黄仁勋：GPU 寿命可达 8 年以上，AI 正在改写硬件折旧规则",
+        "link": "https://www.ithome.com/1/016/322.htm",
+        "time": "10-22 11:44",
         "src": "IT之家"
       },
       {
-        "title": "英伟达 DGX Spark 支持 8 台集群：128GB 版本统一内存最高达 1TB，RTX PRO 6000 Blackwell 相关任务提速 40%",
-        "link": "https://www.ithome.com/1/016/148.htm",
-        "time": "10-21 23:25",
+        "title": "曾暴涨 7 倍，大模型企业 MiniMax 股价跌破 IPO 发行价",
+        "link": "https://www.ithome.com/1/016/269.htm",
+        "time": "10-22 11:12",
         "src": "IT之家"
       },
       {
-        "title": "腾讯内测 AI 互动社区“懂了鸭”：一句话生成可玩的动态课件与 3D 演示",
-        "link": "https://www.ithome.com/1/016/145.htm",
-        "time": "10-21 23:10",
+        "title": "向硅谷巨头发起挑战，消息称 DeepSeek 最新一轮融资筹集近千亿元",
+        "link": "https://www.ithome.com/1/016/263.htm",
+        "time": "10-22 11:00",
         "src": "IT之家"
       },
       {
-        "title": "确认延期：华为鸿蒙 HarmonyOS 7 小艺 AI 快捷栏功能预计 11 月初分批推送",
-        "link": "https://www.ithome.com/1/016/144.htm",
-        "time": "10-21 23:10",
+        "title": "王兴兴：宇树 G1 已累计生产下线约 1-2 万台，是全球最畅销的人形机器人",
+        "link": "https://www.ithome.com/1/016/258.htm",
+        "time": "10-22 10:55",
         "src": "IT之家"
       },
       {
-        "title": "黄仁勋发布 AI“预制工厂”DSX POD：最快 14 天部署投产，英伟达计划 2027 年初全球交付",
-        "link": "https://www.ithome.com/1/016/138.htm",
-        "time": "10-21 22:36",
+        "title": "特朗普给 AI 数据中心“开药方”：想落地，先给社区分红",
+        "link": "https://www.ithome.com/1/016/257.htm",
+        "time": "10-22 10:51",
         "src": "IT之家"
       },
       {
-        "title": "谷歌 CEO 桑达尔 · 皮查伊：公司正牺牲云业务短期收入支持前沿 AI 研发，2027 年算力难以锁定",
-        "link": "https://www.ithome.com/1/016/137.htm",
-        "time": "10-21 22:31",
+        "title": "AI 的力量：SpaceX、Anthropic、英伟达助力科技股摆脱低迷",
+        "link": "https://www.ithome.com/1/016/251.htm",
+        "time": "10-22 10:31",
         "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "likes": 2154,
+        "likes": 2199,
         "downloads": 42122,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "black-forest-labs/flux-3-image-klein-comfy",
-        "likes": 1184,
+        "likes": 1203,
         "downloads": 490447,
         "pipeline": "image-to-image"
       },
       {
         "id": "meta-models/Muse-Spark-Open-816B-A42B",
-        "likes": 635,
+        "likes": 640,
         "downloads": 2891,
         "pipeline": "image-text-to-text"
       },
       {
-        "id": "fishaudio/drama-3",
-        "likes": 887,
-        "downloads": 15274,
-        "pipeline": "text-to-speech"
-      },
-      {
         "id": "black-forest-labs/flux-3-image-klein",
-        "likes": 599,
+        "likes": 605,
         "downloads": 92604,
         "pipeline": "image-to-image"
       },
       {
+        "id": "fishaudio/drama-3",
+        "likes": 893,
+        "downloads": 15274,
+        "pipeline": "text-to-speech"
+      },
+      {
         "id": "OpenMOSS-Team/MOSS-Image-SFT",
-        "likes": 531,
+        "likes": 539,
         "downloads": 5840,
         "pipeline": "text-to-image"
       }
@@ -741,33 +741,45 @@
   ],
   "hw_news": [
     {
-      "title": "799 元雷蛇北海巨妖萌猫版 V3 有线耳机发布：猫耳 RGB 灯效可随直播互动，支持 7.1 环绕声",
-      "link": "https://www.ithome.com/1/016/158.htm",
-      "time": "10-22 00:03",
+      "title": "极摩客推出 NucBox G3 Ultra 迷你主机，基于英特尔奔腾 Gold 7505",
+      "link": "https://www.ithome.com/1/016/305.htm",
+      "time": "10-22 11:41",
       "src": "IT之家"
     },
     {
-      "title": "英伟达 DGX Spark 支持 8 台集群：128GB 版本统一内存最高达 1TB，RTX PRO 6000 Blackwell 相关任务提速 40%",
-      "link": "https://www.ithome.com/1/016/148.htm",
-      "time": "10-21 23:25",
+      "title": "HHKB Professional Elite 键盘发布：品牌 30 周年纪念，极简主义设计",
+      "link": "https://www.ithome.com/1/016/275.htm",
+      "time": "10-22 11:28",
       "src": "IT之家"
     },
     {
-      "title": "《使命召唤：现代战争 4》主机版性能模式要求 120Hz+VRR 显示器，不支持则锁 60 帧",
-      "link": "https://www.ithome.com/1/016/142.htm",
-      "time": "10-21 22:49",
+      "title": "英特尔美国多地产能建设持续推进，亚利桑那 Fab 62 晶圆厂预计 2028 年底投运",
+      "link": "https://www.ithome.com/1/016/256.htm",
+      "time": "10-22 10:51",
       "src": "IT之家"
     },
     {
-      "title": "AMD 为 Linux 开发锐龙 CPU 超频驱动，可调 PPT、TDC、EDC 参数",
-      "link": "https://www.ithome.com/1/016/122.htm",
-      "time": "10-21 21:27",
+      "title": "影驰正式发布 GeForce RTX 5080 HOF EXTREME 显卡：正反 13 颗施华洛世奇水晶",
+      "link": "https://www.ithome.com/1/016/237.htm",
+      "time": "10-22 10:14",
       "src": "IT之家"
     },
     {
-      "title": "微软发布 PowerToys 0.102 更新：新增鼠标按键锁定、自动隐藏指针等功能",
-      "link": "https://www.ithome.com/1/016/116.htm",
-      "time": "10-21 21:04",
+      "title": "微软给 8GB 内存电脑“减负”：Win11 26H2 开机少占约 1.7GB 内存",
+      "link": "https://www.ithome.com/1/016/230.htm",
+      "time": "10-22 10:10",
+      "src": "IT之家"
+    },
+    {
+      "title": "华为 FreeClip 2 耳夹耳机全新潮玩拼色版预售，1299 元",
+      "link": "https://www.ithome.com/1/016/217.htm",
+      "time": "10-22 09:50",
+      "src": "IT之家"
+    },
+    {
+      "title": "美光认为 4F² DRAM 内存无可行扩展路径，1ε 用晶圆键合、 ζÅ 用 High NA EUV",
+      "link": "https://www.ithome.com/1/016/208.htm",
+      "time": "10-22 09:31",
       "src": "IT之家"
     },
     {
@@ -797,18 +809,6 @@
     {
       "title": "Computex 2026: NVIDIA 发布 ARM 架构 PC 芯片 RTX Spark, 集成 Blackwell GPU, 对标苹果 M5",
       "link": "https://new.qq.com/rain/a/20260605A09PXY00",
-      "time": "精选",
-      "src": "资讯整理"
-    },
-    {
-      "title": "AMD 发布 Ryzen 7 7700X3D(104MB缓存,$329) 与 Radeon RX 9070 GRE(12GB,$549), 强化 1440p 游戏市场",
-      "link": "https://www.91mobiles.com/hub/computex-2026-amd-ryzen-x3d-cpus-radeon-9070-gre",
-      "time": "精选",
-      "src": "资讯整理"
-    },
-    {
-      "title": "Intel 预览 Nova Lake 桌面平台: 最高48核(16P+32E), 18A 工艺, LGA1954 新插槽, 预计2026年底上市",
-      "link": "https://www.160.com/article/12732.html",
       "time": "精选",
       "src": "资讯整理"
     }
@@ -984,18 +984,6 @@
   "anime_industry": {
     "news": [
       {
-        "title": "英伟达 DGX Spark 支持 8 台集群：128GB 版本统一内存最高达 1TB，RTX PRO 6000 Blackwell 相关任务提速 40%",
-        "link": "https://www.ithome.com/1/016/148.htm",
-        "time": "10-21 23:25",
-        "src": "IT之家"
-      },
-      {
-        "title": "欧洲 PEGI 整顿开箱机制游戏评级，《宝可梦 Go》《EA Sports FC》上调至 16+",
-        "link": "https://www.ithome.com/1/016/117.htm",
-        "time": "10-21 21:08",
-        "src": "IT之家"
-      },
-      {
         "title": "让自己也变成“超级赛亚人”：《七龙珠 异战 3》试玩+采访小记",
         "link": "https://www.gcores.com/articles/221212",
         "time": "10-21 22:00",
@@ -1029,166 +1017,166 @@
   },
   "intl_news": [
     {
-      "title": "OPPO 推出 Find X10 全球版手机：电池相比国行版缩减 850mAh，缺少 16GB+1TB 版本",
-      "link": "https://www.ithome.com/1/016/147.htm",
-      "time": "10-21 23:24",
+      "title": "欧盟委员会针对 Booking.com（缤客）启动《数字服务法案》调查",
+      "link": "https://www.ithome.com/1/016/268.htm",
+      "time": "10-22 11:11",
       "src": "IT之家"
     },
     {
-      "title": "黄仁勋发布 AI“预制工厂”DSX POD：最快 14 天部署投产，英伟达计划 2027 年初全球交付",
-      "link": "https://www.ithome.com/1/016/138.htm",
-      "time": "10-21 22:36",
+      "title": "王兴兴：宇树 G1 已累计生产下线约 1-2 万台，是全球最畅销的人形机器人",
+      "link": "https://www.ithome.com/1/016/258.htm",
+      "time": "10-22 10:55",
       "src": "IT之家"
     },
     {
-      "title": "欧洲 PEGI 整顿开箱机制游戏评级，《宝可梦 Go》《EA Sports FC》上调至 16+",
-      "link": "https://www.ithome.com/1/016/117.htm",
-      "time": "10-21 21:08",
+      "title": "特朗普给 AI 数据中心“开药方”：想落地，先给社区分红",
+      "link": "https://www.ithome.com/1/016/257.htm",
+      "time": "10-22 10:51",
       "src": "IT之家"
     },
     {
-      "title": "雷军：小米已经构建全球最大规模消费级 IoT 平台，截至二季度末设备连接数超 11 亿台",
-      "link": "https://www.ithome.com/1/016/114.htm",
-      "time": "10-21 20:56",
+      "title": "马斯克：计划建造 Optimus 人形机器人学校，Terafab 经济价值可跻身全球前 20 经济体",
+      "link": "https://www.ithome.com/1/016/249.htm",
+      "time": "10-22 10:23",
       "src": "IT之家"
     },
     {
-      "title": "美国宣布制裁与伊朗相关的多家外国实体",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-22/10718825.shtml",
-      "time": "10-22 07:00",
+      "title": "eBay 全球裁员 9%，约 1100 人受影响",
+      "link": "https://www.ithome.com/1/016/241.htm",
+      "time": "10-22 10:16",
+      "src": "IT之家"
+    },
+    {
+      "title": "美媒：美以制定计划 拟美国中期选举后再次打击伊朗",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-22/10718956.shtml",
+      "time": "10-22 11:53",
       "src": "中新网"
     },
     {
       "title": "乌克兰首都基辅遭弹道导弹袭击",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-22/10718824.shtml",
-      "time": "10-22 06:58",
+      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/10-22/1208515.shtml",
+      "time": "10-22 11:30",
       "src": "中新网"
     },
     {
-      "title": "沙特一油田设施遭无人机袭击 致2死2伤",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-22/10718820.shtml",
-      "time": "10-22 05:59",
-      "src": "中新网"
-    },
-    {
-      "title": "美国对伊朗实施新一轮制裁",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-22/10718819.shtml",
-      "time": "10-22 05:58",
+      "title": "国际金融协会总裁安德慕：AI将以积极方式改变世界",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-22/10718923.shtml",
+      "time": "10-22 11:11",
       "src": "中新网"
     }
   ],
   "econ_news": [
     {
-      "title": "德州仪器 2026 财年第三财季归母净利润 24.25 亿美元，同比增长 78%",
-      "link": "https://www.ithome.com/1/016/164.htm",
-      "time": "10-22 04:10",
+      "title": "保时捷海外开班教漂移，1500 美元可学拖刹入弯、车身姿态控制、漂移技巧",
+      "link": "https://www.ithome.com/1/016/270.htm",
+      "time": "10-22 11:19",
       "src": "IT之家"
     },
     {
-      "title": "特斯拉 2026 财年第三财季归母净利润 7.87 亿美元，同比下降 43%",
-      "link": "https://www.ithome.com/1/016/167.htm",
-      "time": "10-22 04:46",
+      "title": "微软 CEO 纳德拉 2026 财年总薪酬 9060 万美元，较去年下调 6.11%",
+      "link": "https://www.ithome.com/1/016/259.htm",
+      "time": "10-22 10:56",
       "src": "IT之家"
     },
     {
-      "title": "剑桥分析数据丑闻余波未平，Meta 被判向新墨西哥州赔付 250 亿美元",
-      "link": "https://www.ithome.com/1/016/171.htm",
-      "time": "10-22 06:56",
+      "title": "微软 XBOX 启动云游戏单独付费预览体验，优惠价 50 小时 11.99 美元",
+      "link": "https://www.ithome.com/1/016/253.htm",
+      "time": "10-22 10:39",
       "src": "IT之家"
     },
     {
-      "title": "IBM 2026 财年半年报归母净利润 55.71 亿美元，同比增长 11.58%",
-      "link": "https://www.ithome.com/1/016/165.htm",
-      "time": "10-22 04:25",
+      "title": "消息称私募巨头曾盯上微软 XBOX 游戏业务，报价估值超 1000 亿美元",
+      "link": "https://www.ithome.com/1/016/250.htm",
+      "time": "10-22 10:29",
       "src": "IT之家"
     },
     {
-      "title": "史泰博遭黑客入侵：攻击者劫持员工会话生成超 1.5 万张礼品卡，面值逾 500 万美元",
-      "link": "https://www.ithome.com/1/016/132.htm",
-      "time": "10-21 22:01",
+      "title": "马斯克：计划建造 Optimus 人形机器人学校，Terafab 经济价值可跻身全球前 20 经济体",
+      "link": "https://www.ithome.com/1/016/249.htm",
+      "time": "10-22 10:23",
       "src": "IT之家"
     },
     {
-      "title": "雷军：小米已经构建全球最大规模消费级 IoT 平台，截至二季度末设备连接数超 11 亿台",
-      "link": "https://www.ithome.com/1/016/114.htm",
-      "time": "10-21 20:56",
+      "title": "Bose 收购“骷髅头”Skullcandy：瞄准年轻消费群体，拥抱街头潮流文化",
+      "link": "https://www.ithome.com/1/016/207.htm",
+      "time": "10-22 09:30",
       "src": "IT之家"
     },
     {
-      "title": "Bose收购Skullcandy 瞄准年轻消费群体与更广泛市场",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1583270.htm",
-      "time": "10-22 04:37",
-      "src": "cnBeta.COM"
+      "title": "新阶层·新经济 | “老爸评测”创始人魏文锋：流量是后面的“0”，企业的“1”是做好自己",
+      "link": "http://www.chinanews.com.cn/cj/shipin/2026/10-22/news1072620.shtml",
+      "time": "10-22 11:52",
+      "src": "中新网"
     },
     {
-      "title": "Meta因新墨西哥州剑桥分析案被罚250亿美元",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1583258.htm",
-      "time": "10-22 02:55",
-      "src": "cnBeta.COM"
+      "title": "中欧班列累计开行突破14万列 发送货值超5600亿美元",
+      "link": "https://www.chinanews.com.cn/ydyl/2026/10-22/10718948.shtml",
+      "time": "10-22 11:31",
+      "src": "中新网"
     }
   ],
   "game_news": [
     {
-      "title": "《使命召唤：现代战争 4》主机版性能模式要求 120Hz+VRR 显示器，不支持则锁 60 帧",
-      "link": "https://www.ithome.com/1/016/142.htm",
-      "time": "10-21 22:49",
+      "title": "Epic Games 胜诉，澳大利亚法院裁定苹果必须开放 iPhone 侧载与第三方支付",
+      "link": "https://www.ithome.com/1/016/330.htm",
+      "time": "10-22 12:14",
       "src": "IT之家"
     },
     {
-      "title": "消息称《上古卷轴 6》预计 2028 年发售，有望成 XBOX Helix 次世代主机独占游戏",
-      "link": "https://www.ithome.com/1/016/131.htm",
-      "time": "10-21 21:59",
+      "title": "极摩客推出 NucBox G3 Ultra 迷你主机，基于英特尔奔腾 Gold 7505",
+      "link": "https://www.ithome.com/1/016/305.htm",
+      "time": "10-22 11:41",
       "src": "IT之家"
     },
     {
-      "title": "网易 UU 远程官宣与荣耀团队深度合作，覆盖 WIN 平板远程游戏、办公等场景",
-      "link": "https://www.ithome.com/1/016/126.htm",
-      "time": "10-21 21:48",
+      "title": "国产 3A 游戏《影之刃零》最终预告发布，10 月 29 日正式发售",
+      "link": "https://www.ithome.com/1/016/288.htm",
+      "time": "10-22 11:36",
       "src": "IT之家"
     },
     {
-      "title": "微软 XGP 订阅 10 月第二波入库阵容公布：含《最终幻想 7 重制版》等",
-      "link": "https://www.ithome.com/1/016/124.htm",
-      "time": "10-21 21:42",
+      "title": "微软升级 Win11 相机应用：无硬件变焦也能“数字拉近”",
+      "link": "https://www.ithome.com/1/016/261.htm",
+      "time": "10-22 10:58",
       "src": "IT之家"
     },
     {
-      "title": "欧洲 PEGI 整顿开箱机制游戏评级，《宝可梦 Go》《EA Sports FC》上调至 16+",
-      "link": "https://www.ithome.com/1/016/117.htm",
-      "time": "10-21 21:08",
+      "title": "微软 CEO 纳德拉 2026 财年总薪酬 9060 万美元，较去年下调 6.11%",
+      "link": "https://www.ithome.com/1/016/259.htm",
+      "time": "10-22 10:56",
       "src": "IT之家"
     },
     {
-      "title": "微软发布 PowerToys 0.102 更新：新增鼠标按键锁定、自动隐藏指针等功能",
-      "link": "https://www.ithome.com/1/016/116.htm",
-      "time": "10-21 21:04",
+      "title": "微软 XBOX Labs“复活” XBOX 360 经典 Blades 游戏界面",
+      "link": "https://www.ithome.com/1/016/255.htm",
+      "time": "10-22 10:44",
       "src": "IT之家"
     },
     {
-      "title": "《我的世界》游戏官方整活，与达美乐推出方形披萨",
-      "link": "https://www.ithome.com/1/016/112.htm",
-      "time": "10-21 20:53",
+      "title": "微软 XBOX 启动云游戏单独付费预览体验，优惠价 50 小时 11.99 美元",
+      "link": "https://www.ithome.com/1/016/253.htm",
+      "time": "10-22 10:39",
       "src": "IT之家"
     },
     {
-      "title": "英伟达 621.01 Game Ready 驱动发布：针对《影之刃零》《使命召唤：现代战争 4》等新游戏提供优化，支持微软 Advanced Shader Delivery 技术",
-      "link": "https://www.ithome.com/1/016/107.htm",
-      "time": "10-21 20:45",
+      "title": "消息称私募巨头曾盯上微软 XBOX 游戏业务，报价估值超 1000 亿美元",
+      "link": "https://www.ithome.com/1/016/250.htm",
+      "time": "10-22 10:29",
       "src": "IT之家"
     }
   ],
   "game_update": [
     {
-      "title": "荣耀 WIN 2 × 三角洲行动职业赛事联名款真机首曝，采用曼德尔砖涂装设计",
-      "link": "https://www.ithome.com/1/016/136.htm",
-      "time": "10-21 22:20",
+      "title": "《赛博朋克 2077》发布《边缘行者 2》版本更新 2.5：双持武器、新服装、新任务",
+      "link": "https://www.ithome.com/1/016/204.htm",
+      "time": "10-22 09:23",
       "src": "IT之家",
       "type": "不停机更新"
     },
     {
-      "title": "联动边缘行者2：《赛博朋克2077》将于10月22日实装2.5版本更新",
-      "link": "https://www.gcores.com/articles/221215",
-      "time": "10-21 09:35",
+      "title": "《赛博朋克2077》“边缘行者 2”版本更新详情揭晓",
+      "link": "https://www.gcores.com/articles/221274",
+      "time": "10-22 09:05",
       "src": "机核",
       "type": "不停机更新"
     },
@@ -1204,6 +1192,13 @@
       "link": "https://www.cnbeta.com.tw/articles/tech/1583240.htm",
       "time": "10-21 22:36",
       "src": "cnBeta.COM",
+      "type": "不停机更新"
+    },
+    {
+      "title": "韩国网络安全机构敦促更新PHP安全补丁",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-inivzytv5962587.shtml",
+      "time": "10-22 07:59",
+      "src": "环球市场播报",
       "type": "不停机更新"
     },
     {
@@ -1226,13 +1221,6 @@
       "time": "8-08",
       "type": "不停机更新",
       "src": "王者荣耀官网"
-    },
-    {
-      "title": "《和平精英》8/8 刺激空投节版本更新: 《剑来》动画联动, 原创换装角色\"甜包\"登场, 送20连抽+3把全新枪皮",
-      "link": "https://www.3839.com/a/173639.htm",
-      "time": "8-08",
-      "type": "不停机更新",
-      "src": "和平精英官方"
     }
   ],
   "mil_news": [
@@ -1243,46 +1231,47 @@
       "src": "ISW"
     },
     {
-      "title": "《使命召唤：现代战争 4》主机版性能模式要求 120Hz+VRR 显示器，不支持则锁 60 帧",
-      "link": "https://www.ithome.com/1/016/142.htm",
-      "time": "10-21 22:49",
-      "src": "IT之家"
+      "title": "《赛博朋克 2077》发布《边缘行者 2》版本更新 2.5：双持武器、新服装、新任务",
+      "link": "https://www.ithome.com/1/016/204.htm",
+      "time": "10-22 09:23",
+      "src": "IT之家",
+      "type": "不停机更新"
     },
     {
-      "title": "英伟达 621.01 Game Ready 驱动发布：针对《影之刃零》《使命召唤：现代战争 4》等新游戏提供优化，支持微软 Advanced Shader Delivery 技术",
-      "link": "https://www.ithome.com/1/016/107.htm",
-      "time": "10-21 20:45",
-      "src": "IT之家"
+      "title": "Steam周销量排行榜:《使命召唤：现代战争 4》登顶|2026年10月第2周",
+      "link": "https://www.gcores.com/articles/221216",
+      "time": "10-22 09:10",
+      "src": "机核"
     },
     {
-      "title": "美国宣布制裁与伊朗相关的多家外国实体",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-22/10718825.shtml",
-      "time": "10-22 07:00",
+      "title": "《战锤40K：战争黎明4》重磅发布游戏总览",
+      "link": "https://www.gcores.com/articles/221277",
+      "time": "10-22 08:40",
+      "src": "机核"
+    },
+    {
+      "title": "美媒：美以制定计划 拟美国中期选举后再次打击伊朗",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-22/10718956.shtml",
+      "time": "10-22 11:53",
       "src": "中新网"
     },
     {
       "title": "乌克兰首都基辅遭弹道导弹袭击",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-22/10718824.shtml",
-      "time": "10-22 06:58",
+      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/10-22/1208515.shtml",
+      "time": "10-22 11:30",
       "src": "中新网"
     },
     {
-      "title": "沙特一油田设施遭无人机袭击 致2死2伤",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-22/10718820.shtml",
-      "time": "10-22 05:59",
-      "src": "中新网"
+      "title": "特朗普：俄乌战争“接近结束” 泽连斯基支持举行三方会谈",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261021-%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%89-%E6%8E%A5%E8%BF%91%E7%BB%93%E6%9D%9F-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%94%AF%E6%8C%81%E4%B8%BE%E8%A1%8C%E4%B8%89%E6%96%B9%E4%BC%9A%E8%B0%88",
+      "time": "10-22 05:18",
+      "src": "© 网络"
     },
     {
-      "title": "美国对伊朗实施新一轮制裁",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-22/10718819.shtml",
-      "time": "10-22 05:58",
-      "src": "中新网"
-    },
-    {
-      "title": "俄国防部：俄军继续打击乌物流中心及港口基础设施",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-22/10718818.shtml",
-      "time": "10-22 05:57",
-      "src": "中新网"
+      "title": "法国幻影战机夜间训练返航坠毁 两名飞行员生还希望渺茫",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261021-%E6%B3%95%E5%9B%BD%E5%B9%BB%E5%BD%B1%E6%88%98%E6%9C%BA%E5%A4%9C%E9%97%B4%E8%AE%AD%E7%BB%83%E8%BF%94%E8%88%AA%E5%9D%A0%E6%AF%81-%E4%B8%A4%E5%90%8D%E9%A3%9E%E8%A1%8C%E5%91%98%E7%94%9F%E8%BF%98%E5%B8%8C%E6%9C%9B%E6%B8%BA%E8%8C%AB",
+      "time": "10-22 05:30",
+      "src": "© REUTERS - Al"
     }
   ]
 }
