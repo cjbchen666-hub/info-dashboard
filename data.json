@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24 23:45",
+  "generated_at": "2026-10-25 02:42",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -131,7 +131,7 @@
     "status": {
       "state": "休市",
       "label": "周末休市",
-      "date": "2026-10-24"
+      "date": "2026-10-25"
     },
     "watch": [
       {
@@ -636,37 +636,37 @@
     "hf": [
       {
         "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "likes": 2710,
+        "likes": 2735,
         "downloads": 73215,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "RecursiveSI/flint",
-        "likes": 741,
+        "likes": 750,
         "downloads": 4795,
         "pipeline": "text-generation"
       },
       {
         "id": "black-forest-labs/flux-3-image-klein-comfy",
-        "likes": 1465,
+        "likes": 1477,
         "downloads": 590742,
         "pipeline": "image-to-image"
       },
       {
         "id": "OpenMOSS-Team/MOSS-Image-SFT",
-        "likes": 678,
+        "likes": 682,
         "downloads": 9717,
         "pipeline": "text-to-image"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 9121,
+        "likes": 9141,
         "downloads": 2087721,
         "pipeline": "image-to-video"
       },
       {
         "id": "XHToken/Spark-X2.6-4B",
-        "likes": 432,
+        "likes": 436,
         "downloads": 2537,
         "pipeline": "text-generation"
       }
@@ -1172,10 +1172,22 @@
       "src": "机核"
     },
     {
+      "title": "美国痴呆症经济负担飙升至8180亿美元 家庭承担大部分隐性成本",
+      "link": "https://www.cnbeta.com.tw/articles/science/1583708.htm",
+      "time": "10-25 01:28",
+      "src": "cnBeta.COM"
+    },
+    {
       "title": "“炼金术”成真 美国一公司宣布成功将汞转化成黄金",
       "link": "https://www.cnbeta.com.tw/articles/science/1583666.htm",
       "time": "10-24 14:18",
       "src": "cnBeta.COM"
+    },
+    {
+      "title": "伊朗总统将赴莫斯科与普京会晤 并出席天然气出口国会议",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261024-%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%B0%86%E8%B5%B4%E8%8E%AB%E6%96%AF%E7%A7%91%E4%B8%8E%E6%99%AE%E4%BA%AC%E4%BC%9A%E6%99%A4-%E5%B9%B6%E5%87%BA%E5%B8%AD%E5%A4%A9%E7%84%B6%E6%B0%94%E5%87%BA%E5%8F%A3%E5%9B%BD%E4%BC%9A%E8%AE%AE",
+      "time": "10-25 01:31",
+      "src": "Sergei Bobylev"
     },
     {
       "title": "欧洲考虑出台新配额和关税以遏制中国进口激增",
@@ -1200,18 +1212,6 @@
       "link": "https://finance.sina.com.cn/jjxw/2026-10-24/doc-iniwikck7993017.shtml",
       "time": "10-24 16:48",
       "src": "一财网"
-    },
-    {
-      "title": "瑞士股市成为市场AI恐慌下的避风港",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-24/doc-iniwicvn8068652.shtml",
-      "time": "10-24 15:14",
-      "src": "环球市场播报"
-    },
-    {
-      "title": "10月24日隔夜要闻：美股三大指数收跌 油价大涨 金价下跌 特朗普称可能对伊发动一次小规模“史诗怒火”行动",
-      "link": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhnya2334385.shtml",
-      "time": "10-24 06:55",
-      "src": "环球市场播报"
     }
   ],
   "game_news": [
@@ -1342,10 +1342,16 @@
       "src": "cnBeta.COM"
     },
     {
-      "title": "伊朗据称已制定海底互联网电缆袭击计划 海湾地区数字基础设施或成目标",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1583620.htm",
-      "time": "10-24 03:00",
-      "src": "cnBeta.COM"
+      "title": "伊朗总统将赴莫斯科与普京会晤 并出席天然气出口国会议",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261024-%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%B0%86%E8%B5%B4%E8%8E%AB%E6%96%AF%E7%A7%91%E4%B8%8E%E6%99%AE%E4%BA%AC%E4%BC%9A%E6%99%A4-%E5%B9%B6%E5%87%BA%E5%B8%AD%E5%A4%A9%E7%84%B6%E6%B0%94%E5%87%BA%E5%8F%A3%E5%9B%BD%E4%BC%9A%E8%AE%AE",
+      "time": "10-25 01:31",
+      "src": "Sergei Bobylev"
+    },
+    {
+      "title": "迹象显示美国或将重启对伊朗大规模空袭",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261024-%E8%BF%B9%E8%B1%A1%E6%98%BE%E7%A4%BA-%E7%BE%8E%E5%9B%BD%E6%88%96%E5%B0%86%E9%87%8D%E5%90%AF%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%A9%BA%E8%A2%AD",
+      "time": "10-25 01:09",
+      "src": "AP Photo/Mark "
     },
     {
       "title": "五角大楼将美国境内的孔子学院列为国家安全威胁",
@@ -1364,12 +1370,6 @@
       "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20261023-%E7%BE%8E%E5%9B%BD%E7%89%B9%E4%BD%BF-%E7%BE%8E%E6%96%B9%E6%9C%80%E5%BF%AB%E6%9C%AC%E5%91%A8%E6%9C%AB%E5%8F%AF%E8%83%BD%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97",
       "time": "10-24 05:36",
       "src": "REUTERS - Umit"
-    },
-    {
-      "title": "美驻联合国大使沃尔兹警告伊朗战事恐再持续一年",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261023-%E7%BE%8E%E9%A9%BB%E8%81%94%E5%90%88%E5%9B%BD%E5%A4%A7%E4%BD%BF%E6%B2%83%E5%B0%94%E5%85%B9%E8%AD%A6%E5%91%8A%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E6%81%90%E5%86%8D%E6%8C%81%E7%BB%AD%E4%B8%80%E5%B9%B4",
-      "time": "10-24 05:44",
-      "src": "REUTERS - Davi"
     }
   ]
 }
