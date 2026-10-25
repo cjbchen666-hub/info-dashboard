@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25 06:22",
+  "generated_at": "2026-10-25 12:18",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,15 +233,39 @@
     ],
     "news": [
       {
+        "title": "软银投资的农业无人机创企极飞科技：希望让每个农民都有自己的机器人",
+        "link": "https://www.ithome.com/1/017/552.htm",
+        "time": "10-25 09:58",
+        "src": "IT之家"
+      },
+      {
+        "title": "亚马逊 CEO 贾西： 2027 年 AWS 算力基本售罄，部分订单锁定到 2028 年",
+        "link": "https://www.ithome.com/1/017/549.htm",
+        "time": "10-25 09:37",
+        "src": "IT之家"
+      },
+      {
+        "title": "印度新股认购金额最高纪录诞生：Jio 获超 770 亿美元 IPO 认购申请",
+        "link": "https://www.ithome.com/1/017/541.htm",
+        "time": "10-25 08:37",
+        "src": "IT之家"
+      },
+      {
+        "title": "开源项目 GPU Unlock 可释放英伟达 RTX 30 系列显卡隐藏 AI 算力，实际性能提升可达 60%",
+        "link": "https://www.ithome.com/1/017/525.htm",
+        "time": "10-25 07:09",
+        "src": "IT之家"
+      },
+      {
         "title": "中国信通院：6 月国内词元日均消耗量约 500 万亿，是 2025 年 12 月的近 4 倍",
         "link": "https://www.ithome.com/1/017/518.htm",
         "time": "10-24 22:41",
         "src": "IT之家"
       },
       {
-        "title": "中国风首饰被抢着下单，装配式房屋1小时成交5台……这届广交会中国“品质家居”圈粉全球",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-24/10720494.shtml",
-        "time": "10-24 21:04",
+        "title": "中国经济面面观｜出口首破8万亿：“新”字挑大梁",
+        "link": "https://www.chinanews.com.cn/cj/2026/10-25/10720601.shtml",
+        "time": "10-25 11:09",
         "src": "中新网"
       },
       {
@@ -255,30 +279,6 @@
         "link": "https://www.cnbeta.com.tw/articles/tech/1583674.htm",
         "time": "10-24 14:23",
         "src": "cnBeta.COM"
-      },
-      {
-        "title": "月之暗面发布Kimi K3.1 Pro：3万亿参数、100万上下文",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1583658.htm",
-        "time": "10-24 14:15",
-        "src": "cnBeta.COM"
-      },
-      {
-        "title": "以色列央行驳斥内塔尼亚胡利用加密货币规避制裁的提议",
-        "link": "https://finance.sina.com.cn/7x24/2026-10-25/doc-iniwkfik0320147.shtml",
-        "time": "10-25 01:52",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "分析：SpaceX大幅上调Q4资本开支指引，AI算力采购规模大增",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-24/doc-iniwiyzk3609815.shtml",
-        "time": "10-24 22:43",
-        "src": "市场资讯"
-      },
-      {
-        "title": "美国：这个我是真没卡住! 中国第三代半导体全面崛起! 拿下 90% 市场!",
-        "link": "https://finance.sina.com.cn/china/2026-10-24/doc-iniwiutn3715604.shtml",
-        "time": "10-24 21:45",
-        "src": "市场资讯"
       }
     ]
   },
@@ -420,15 +420,6 @@
         "rank": null
       },
       {
-        "id": 536270,
-        "name": "目覚めたら最強装備と宇宙船持ちだったので 、一戸建て目指して傭兵として自由に生きたい",
-        "name_cn": "一觉醒来就有了最强装备跟太空船 决定以自家独栋建筑为目标当佣兵自由过活",
-        "score": 5.8,
-        "img": "http://lain.bgm.tv/pic/cover/c/3e/fc/536270_51P45.jpg",
-        "air_date": "2026-10-04",
-        "rank": 7868
-      },
-      {
         "id": 605533,
         "name": "おじさんはカワイイものがお好き。",
         "name_cn": "大叔喜欢可爱小玩意",
@@ -436,6 +427,15 @@
         "img": "http://lain.bgm.tv/pic/cover/c/d1/e7/605533_97NSn.jpg",
         "air_date": "2026-10-04",
         "rank": 6232
+      },
+      {
+        "id": 536270,
+        "name": "目覚めたら最強装備と宇宙船持ちだったので 、一戸建て目指して傭兵として自由に生きたい",
+        "name_cn": "一觉醒来就有了最强装备跟太空船 决定以自家独栋建筑为目标当佣兵自由过活",
+        "score": 5.7,
+        "img": "http://lain.bgm.tv/pic/cover/c/3e/fc/536270_51P45.jpg",
+        "air_date": "2026-10-04",
+        "rank": 7868
       },
       {
         "id": 638081,
@@ -504,7 +504,7 @@
         "id": 596771,
         "name": "弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった",
         "name_cn": "极致软弱千金小姐，不小心答应了精明未婚夫的赌局",
-        "score": 4.7,
+        "score": 4.6,
         "img": "http://lain.bgm.tv/pic/cover/c/39/bd/596771_y75Tw.jpg",
         "air_date": "2026-10-04",
         "rank": 9129
@@ -585,90 +585,90 @@
   "ai": {
     "news_zh": [
       {
-        "title": "iQOO Neo12 新机配置曝光：6.83 英寸 2K+185Hz 直屏，第五代骁龙 8 至尊版芯片",
-        "link": "https://www.ithome.com/1/017/523.htm",
-        "time": "10-24 23:26",
+        "title": "三名被解雇的 OpenAI 安全研究员否认泄密，怀疑因推动 AI 透明度被针对",
+        "link": "https://www.ithome.com/1/017/563.htm",
+        "time": "10-25 11:28",
         "src": "IT之家"
       },
       {
-        "title": "Anthropic Claude 付款页面新增中国及港澳台地区选项，支持银联卡支付",
-        "link": "https://www.ithome.com/1/017/490.htm",
-        "time": "10-24 19:39",
+        "title": "AI 智能体闯进银行，美国大行开始准备“灾后预案”",
+        "link": "https://www.ithome.com/1/017/562.htm",
+        "time": "10-25 11:06",
         "src": "IT之家"
       },
       {
-        "title": "消息称字节跳动 AI 短剧产品内部整合：小云雀并入即梦，仍保留独立入口",
-        "link": "https://www.ithome.com/1/017/480.htm",
-        "time": "10-24 18:59",
+        "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持苹果 MacBook 本地运行",
+        "link": "https://www.ithome.com/1/017/557.htm",
+        "time": "10-25 10:29",
         "src": "IT之家"
       },
       {
-        "title": "英伟达承认 GeForce 621.01 驱动存在问题：播放视频时可能卡住或黑屏",
-        "link": "https://www.ithome.com/1/017/453.htm",
-        "time": "10-24 18:43",
+        "title": "曝三星借助小米 18 Pro Max 开展内部测试：Exynos 2700 跑分优于高通旗舰芯片",
+        "link": "https://www.ithome.com/1/017/556.htm",
+        "time": "10-25 10:24",
         "src": "IT之家"
       },
       {
-        "title": "显卡一日一价：英伟达停产传闻搅动华强北，RTX 5090 被炒至 6 万元",
-        "link": "https://www.ithome.com/1/017/440.htm",
-        "time": "10-24 18:00",
+        "title": "不能逆向一切了？Anthropic 被曝悄悄限制 Claude Opus 5.5 逆向工程能力",
+        "link": "https://www.ithome.com/1/017/554.htm",
+        "time": "10-25 10:07",
         "src": "IT之家"
       },
       {
-        "title": "AI热潮遭遇电力瓶颈：亚马逊大量英伟达GPU到货后暂时闲置",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1583696.htm",
-        "time": "10-24 22:33",
-        "src": "cnBeta.COM"
+        "title": "软银投资的农业无人机创企极飞科技：希望让每个农民都有自己的机器人",
+        "link": "https://www.ithome.com/1/017/552.htm",
+        "time": "10-25 09:58",
+        "src": "IT之家"
       },
       {
-        "title": "英伟达RTX80系列、AMD RDNA7曝光 泄露路线图却漏洞百出",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1583688.htm",
-        "time": "10-24 22:19",
-        "src": "cnBeta.COM"
+        "title": "亚马逊 CEO 贾西： 2027 年 AWS 算力基本售罄，部分订单锁定到 2028 年",
+        "link": "https://www.ithome.com/1/017/549.htm",
+        "time": "10-25 09:37",
+        "src": "IT之家"
       },
       {
-        "title": "宇树机器人侧空翻表演甩断腿 系新发布的H2-X人形机器人",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1583674.htm",
-        "time": "10-24 14:23",
-        "src": "cnBeta.COM"
+        "title": "澳国脚授权 AI 数字分身，运动员开启肖像权 AI 商业化",
+        "link": "https://www.ithome.com/1/017/542.htm",
+        "time": "10-25 08:42",
+        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "likes": 2760,
+        "likes": 2814,
         "downloads": 73215,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "RecursiveSI/flint",
-        "likes": 768,
+        "likes": 782,
         "downloads": 4795,
         "pipeline": "text-generation"
       },
       {
         "id": "black-forest-labs/flux-3-image-klein-comfy",
-        "likes": 1493,
+        "likes": 1511,
         "downloads": 590742,
         "pipeline": "image-to-image"
       },
       {
+        "id": "XHToken/Spark-X2.6-4B",
+        "likes": 456,
+        "downloads": 2537,
+        "pipeline": "text-generation"
+      },
+      {
         "id": "Lightricks/LTX-2.5",
-        "likes": 9164,
+        "likes": 9199,
         "downloads": 2087721,
         "pipeline": "image-to-video"
       },
       {
         "id": "OpenMOSS-Team/MOSS-Image-SFT",
-        "likes": 685,
+        "likes": 701,
         "downloads": 9717,
         "pipeline": "text-to-image"
-      },
-      {
-        "id": "XHToken/Spark-X2.6-4B",
-        "likes": 442,
-        "downloads": 2537,
-        "pipeline": "text-generation"
       }
     ],
     "models": [
@@ -840,6 +840,12 @@
   ],
   "hw_news": [
     {
+      "title": "开源项目 GPU Unlock 可释放英伟达 RTX 30 系列显卡隐藏 AI 算力，实际性能提升可达 60%",
+      "link": "https://www.ithome.com/1/017/525.htm",
+      "time": "10-25 07:09",
+      "src": "IT之家"
+    },
+    {
       "title": "戴尔推出 UltraSharp“焕新版”4K 显示器：32 英寸 5199 元，27 英寸 3999 元",
       "link": "https://www.ithome.com/1/017/521.htm",
       "time": "10-24 23:07",
@@ -858,58 +864,52 @@
       "src": "IT之家"
     },
     {
-      "title": "Keychron C3 Pro Trackball 8K 键盘公布：分裂空格 + 中置轨迹球",
-      "link": "https://www.ithome.com/1/017/511.htm",
-      "time": "10-24 22:27",
-      "src": "IT之家"
+      "title": "冠军键盘正式亮相｜IQUNIX 参展 2026 北京核聚变",
+      "link": "https://www.gcores.com/articles/221311",
+      "time": "10-23 17:00",
+      "src": "机核"
     },
     {
-      "title": "惠普星 Book Air 14 上架预约：酷睿 5 320、薯条标，国补价 4504.15 元",
-      "link": "https://www.ithome.com/1/017/510.htm",
+      "title": "北京站逛展攻略请查收｜BOE电竞高阶联盟邀你一起开玩！",
+      "link": "https://www.gcores.com/articles/221361",
+      "time": "10-23 16:00",
+      "src": "机核"
+    },
+    {
+      "title": "英伟达RTX80系列、AMD RDNA7曝光 泄露路线图却漏洞百出",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1583688.htm",
       "time": "10-24 22:19",
-      "src": "IT之家"
+      "src": "cnBeta.COM"
     },
     {
-      "title": "罗技 Pebble Up 鼠标上市：平卧 + 35° 斜卧双形态，到手价 251.1 元",
-      "link": "https://www.ithome.com/1/017/507.htm",
-      "time": "10-24 21:22",
-      "src": "IT之家"
+      "title": "英特尔高管称公司技术实力已接近台积电 高数值孔径EUV战略被视为关键筹码",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1583648.htm",
+      "time": "10-24 13:56",
+      "src": "cnBeta.COM"
     },
     {
-      "title": "小米 REDMI 首款耳夹耳机 Clip Neo 预热：支持澎湃智联、端侧语音助手",
-      "link": "https://www.ithome.com/1/017/501.htm",
-      "time": "10-24 20:50",
-      "src": "IT之家"
+      "title": "TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验",
+      "link": "https://sspai.com/post/116398",
+      "time": "10-23 15:00",
+      "src": "少数派"
     },
     {
-      "title": "致态公布《影之刃零》联名礼盒，内含 TiPlus9100 固态硬盘",
-      "link": "https://www.ithome.com/1/017/500.htm",
-      "time": "10-24 20:49",
-      "src": "IT之家"
+      "title": "前瞻｜Apple 新品看点：MacBook 或将推出 OLED 触屏版本",
+      "link": "https://sspai.com/post/116923",
+      "time": "10-22 15:00",
+      "src": "少数派"
     },
     {
-      "title": "小米推出 24.5 英寸 REDMI 显示器 G25 2027：1080p 300Hz，799 元",
-      "link": "https://www.ithome.com/1/017/498.htm",
-      "time": "10-24 20:30",
-      "src": "IT之家"
+      "title": "Computex 2026: NVIDIA 发布 ARM 架构 PC 芯片 RTX Spark, 集成 Blackwell GPU, 对标苹果 M5",
+      "link": "https://new.qq.com/rain/a/20260605A09PXY00",
+      "time": "精选",
+      "src": "资讯整理"
     },
     {
-      "title": "达音科推出 PRS 5“1 圈 3 铁 1 平板五单元”Hi-Fi 耳机，999 元",
-      "link": "https://www.ithome.com/1/017/496.htm",
-      "time": "10-24 20:20",
-      "src": "IT之家"
-    },
-    {
-      "title": "戴尔推出“U3226QER”31.5 英寸显示器：4K 120Hz IPS Black 面板、双雷电 4 接口，5199 元",
-      "link": "https://www.ithome.com/1/017/488.htm",
-      "time": "10-24 19:25",
-      "src": "IT之家"
-    },
-    {
-      "title": "重力星球 MH1 PRO 头戴式耳机上架：53mm 动圈、ANC 降噪，799 元",
-      "link": "https://www.ithome.com/1/017/447.htm",
-      "time": "10-24 18:20",
-      "src": "IT之家"
+      "title": "AMD 发布 Ryzen 7 7700X3D(104MB缓存,$329) 与 Radeon RX 9070 GRE(12GB,$549), 强化 1440p 游戏市场",
+      "link": "https://www.91mobiles.com/hub/computex-2026-amd-ryzen-x3d-cpus-radeon-9070-gre",
+      "time": "精选",
+      "src": "资讯整理"
     }
   ],
   "kojima": {
@@ -1083,9 +1083,9 @@
   "anime_industry": {
     "news": [
       {
-        "title": "《赛博朋克：边缘行者 2》设计师：动画时间线设定在 2078 年，即游戏剧情一年以后",
-        "link": "https://www.ithome.com/1/017/441.htm",
-        "time": "10-24 18:01",
+        "title": "FBI 调查超 6000 张 PSA 评级收藏卡被盗案，其中含近 3000 张宝可梦卡",
+        "link": "https://www.ithome.com/1/017/547.htm",
+        "time": "10-25 09:22",
         "src": "IT之家"
       },
       {
@@ -1116,9 +1116,15 @@
   },
   "intl_news": [
     {
-      "title": "Counterpoint 报告：2026 年第三季度全球 PC 出货量 5700 万台，同比下降 21%",
-      "link": "https://www.ithome.com/1/017/508.htm",
-      "time": "10-24 21:44",
+      "title": "《塞尔达传说》制作人青沼英二获颁法国艺术与文学骑士勋章",
+      "link": "https://www.ithome.com/1/017/536.htm",
+      "time": "10-25 08:08",
+      "src": "IT之家"
+    },
+    {
+      "title": "全球最大“电力超市”开业，南方区域电力市场正式运行",
+      "link": "https://www.ithome.com/1/017/529.htm",
+      "time": "10-25 07:30",
       "src": "IT之家"
     },
     {
@@ -1128,33 +1134,9 @@
       "src": "机核"
     },
     {
-      "title": "泰国总理：泰国将积极参与国际合作推动和平与可持续发展",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-24/10720517.shtml",
-      "time": "10-24 21:51",
-      "src": "中新网"
-    },
-    {
-      "title": "联合国政策事务副秘书长：全球治理倡议帮助落实联合国目标",
-      "link": "https://www.chinanews.com.cn/gn/2026/10-24/10720516.shtml",
-      "time": "10-24 21:49",
-      "src": "中新网"
-    },
-    {
-      "title": "王沪宁陪同朝鲜最高领导人金正恩访问丹东",
-      "link": "https://www.chinanews.com.cn/gn/2026/10-24/10720464.shtml",
-      "time": "10-24 21:13",
-      "src": "中新网"
-    },
-    {
-      "title": "中国风首饰被抢着下单，装配式房屋1小时成交5台……这届广交会中国“品质家居”圈粉全球",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-24/10720494.shtml",
-      "time": "10-24 21:04",
-      "src": "中新网"
-    },
-    {
-      "title": "APEC官方指定用车首批正式启程 “中国腾势”惊艳全球",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-24/10720488.shtml",
-      "time": "10-24 21:00",
+      "title": "外媒：保加利亚商人兼政治家斯拉维·比涅夫在家中中枪身亡",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-25/10720592.shtml",
+      "time": "10-25 10:23",
       "src": "中新网"
     },
     {
@@ -1162,14 +1144,56 @@
       "link": "https://www.cnbeta.com.tw/articles/science/1583712.htm",
       "time": "10-25 06:06",
       "src": "cnBeta.COM"
+    },
+    {
+      "title": "全球手机销量暴跌：存储成本增长300% 厂商卖不动是必然",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1583662.htm",
+      "time": "10-24 14:17",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "PHP基金会资金严重不足：全球约七成网站依赖的编程语言却仅有一名全职员工",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1583652.htm",
+      "time": "10-24 13:58",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "英国将投入1亿英镑建设AI生物安全实验室 OpenAI和Anthropic提供模型额度",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1583644.htm",
+      "time": "10-24 13:52",
+      "src": "cnBeta.COM"
     }
   ],
   "econ_news": [
     {
-      "title": "Ep.60 品类鼻祖破产后，Tipsy 们凭什么还能估值数十亿美金？",
-      "link": "https://www.gcores.com/radios/221422",
-      "time": "10-23 12:30",
-      "src": "机核"
+      "title": "消息称《艾尔登法环》真人电影预算近 2 亿美元，为 A24 史上成本最高影片",
+      "link": "https://www.ithome.com/1/017/544.htm",
+      "time": "10-25 08:51",
+      "src": "IT之家"
+    },
+    {
+      "title": "印度新股认购金额最高纪录诞生：Jio 获超 770 亿美元 IPO 认购申请",
+      "link": "https://www.ithome.com/1/017/541.htm",
+      "time": "10-25 08:37",
+      "src": "IT之家"
+    },
+    {
+      "title": "中国经济面面观｜出口首破8万亿：“新”字挑大梁",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-25/10720601.shtml",
+      "time": "10-25 11:09",
+      "src": "中新网"
+    },
+    {
+      "title": "亚行批准1742万美元融资支持不丹应对物价上涨",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-25/10720586.shtml",
+      "time": "10-25 11:03",
+      "src": "中新网"
+    },
+    {
+      "title": "2026中韩经济发展论坛开幕",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-25/10720585.shtml",
+      "time": "10-25 11:02",
+      "src": "中新网"
     },
     {
       "title": "考古学家发现疑似全球最古老沉船 或改写青铜时代地中海贸易史",
@@ -1188,87 +1212,64 @@
       "link": "https://www.cnbeta.com.tw/articles/science/1583666.htm",
       "time": "10-24 14:18",
       "src": "cnBeta.COM"
-    },
-    {
-      "title": "伊朗总统将赴莫斯科与普京会晤 并出席天然气出口国会议",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261024-%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%B0%86%E8%B5%B4%E8%8E%AB%E6%96%AF%E7%A7%91%E4%B8%8E%E6%99%AE%E4%BA%AC%E4%BC%9A%E6%99%A4-%E5%B9%B6%E5%87%BA%E5%B8%AD%E5%A4%A9%E7%84%B6%E6%B0%94%E5%87%BA%E5%8F%A3%E5%9B%BD%E4%BC%9A%E8%AE%AE",
-      "time": "10-25 01:31",
-      "src": "Sergei Bobylev"
-    },
-    {
-      "title": "欧洲考虑出台新配额和关税以遏制中国进口激增",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261024-%E6%AC%A7%E6%B4%B2%E8%80%83%E8%99%91%E5%87%BA%E5%8F%B0%E6%96%B0%E9%85%8D%E9%A2%9D%E5%92%8C%E5%85%B3%E7%A8%8E%E4%BB%A5%E9%81%8F%E5%88%B6%E4%B8%AD%E5%9B%BD%E8%BF%9B%E5%8F%A3%E6%BF%80%E5%A2%9E",
-      "time": "10-24 23:31",
-      "src": "© 路透社图片"
-    },
-    {
-      "title": "德国总理默茨将访日  加强日德在防卫与经济安全领域合作",
-      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261024-%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%90%86%E9%BB%98%E8%8C%A8%E5%B0%86%E8%AE%BF%E6%97%A5-%E5%8A%A0%E5%BC%BA%E6%97%A5%E5%BE%B7%E5%9C%A8%E9%98%B2%E5%8D%AB%E4%B8%8E%E7%BB%8F%E6%B5%8E%E5%AE%89%E5%85%A8%E9%A2%86%E5%9F%9F%E5%90%88%E4%BD%9C",
-      "time": "10-25 05:16",
-      "src": "AP Photo/Risto"
-    },
-    {
-      "title": "伊朗航司外汇供给中断，机票涨价约40%",
-      "link": "https://finance.sina.com.cn/7x24/2026-10-25/doc-iniwkfik0326184.shtml",
-      "time": "10-25 02:22",
-      "src": "环球市场播报"
     }
   ],
   "game_news": [
     {
-      "title": "铭凡 N5 Air NAS 主机 7640HS 款上市：5+3 盘位，0 + 64GB 售 2999 元",
-      "link": "https://www.ithome.com/1/017/509.htm",
-      "time": "10-24 21:54",
+      "title": "张雪时隔 17 年再战“水上漂”：将亲自上阵类比为打游戏，称“不可能自己的号让别人去玩”",
+      "link": "https://www.ithome.com/1/017/558.htm",
+      "time": "10-25 10:40",
       "src": "IT之家"
     },
     {
-      "title": "小米米家钛保温杯茶水分离版 500ml 发售：使用纯钛材质，219 元",
-      "link": "https://www.ithome.com/1/017/497.htm",
-      "time": "10-24 20:23",
+      "title": "FBI 调查超 6000 张 PSA 评级收藏卡被盗案，其中含近 3000 张宝可梦卡",
+      "link": "https://www.ithome.com/1/017/547.htm",
+      "time": "10-25 09:22",
       "src": "IT之家"
     },
     {
-      "title": "致敬《GTA6》：游戏《僵尸世界大战》将于 11 月 12 日推出“Viral State”更新，带来迈阿密地图",
-      "link": "https://www.ithome.com/1/017/444.htm",
-      "time": "10-24 18:10",
+      "title": "索尼 PS5 破解新进展：已可直接运行 Steam 游戏库中的 Windows 游戏",
+      "link": "https://www.ithome.com/1/017/540.htm",
+      "time": "10-25 08:33",
       "src": "IT之家"
     },
     {
-      "title": "《赛博朋克：边缘行者 2》设计师：动画时间线设定在 2078 年，即游戏剧情一年以后",
-      "link": "https://www.ithome.com/1/017/441.htm",
-      "time": "10-24 18:01",
+      "title": "苹果 iPhone Duo 内屏玩《王者荣耀》《原神》暂不支持全屏显示，大黑边被网友吐槽“公摊广告位”",
+      "link": "https://www.ithome.com/1/017/538.htm",
+      "time": "10-25 08:25",
+      "src": "IT之家",
+      "type": "不停机更新"
+    },
+    {
+      "title": "《塞尔达传说》制作人青沼英二获颁法国艺术与文学骑士勋章",
+      "link": "https://www.ithome.com/1/017/536.htm",
+      "time": "10-25 08:08",
       "src": "IT之家"
     },
     {
-      "title": "Steam 喜加一：2D 平台冒险游戏《Depths Unseen》转付费前限时免费领",
-      "link": "https://www.ithome.com/1/017/435.htm",
-      "time": "10-24 17:46",
+      "title": "微软 Edge 浏览器已原生支持 GPC 隐私控制功能，Chrome 也已开展相关测试",
+      "link": "https://www.ithome.com/1/017/535.htm",
+      "time": "10-25 07:57",
       "src": "IT之家"
     },
     {
-      "title": "消息称 R 星将于本月底至下月初为媒体机构发放《GTA6》评测版本，游戏评分将于 11 月 18 日解禁",
-      "link": "https://www.ithome.com/1/017/428.htm",
-      "time": "10-24 17:04",
+      "title": "任天堂 Switch 2 破解取得进展，《三角符文》《黄昏之血》资源包流出",
+      "link": "https://www.ithome.com/1/017/531.htm",
+      "time": "10-25 07:36",
       "src": "IT之家"
     },
     {
-      "title": "32 英寸 AOC OLED 雾面 4K 120Hz 显示器 U32U4D 发售，国补价 5249 元",
-      "link": "https://www.ithome.com/1/017/427.htm",
-      "time": "10-24 16:57",
+      "title": "微软测试 Reactor 实验性框架，澄清 WinUI 和 XAML 不会被停用",
+      "link": "https://www.ithome.com/1/017/524.htm",
+      "time": "10-25 06:59",
       "src": "IT之家"
-    },
-    {
-      "title": "“我这就是个低俗游戏”｜机核专访《无比坚硬：荒原骑士》制作人",
-      "link": "https://www.gcores.com/articles/221426",
-      "time": "10-24 15:19",
-      "src": "机核"
     }
   ],
   "game_update": [
     {
-      "title": "华为 Mate X7、Mate80、Mate70、Pura80 等机型推送鸿蒙 HarmonyOS 7.0.0.111 SP12 版本更新：支持 iPhone 互联，实现消息相互流转",
-      "link": "https://www.ithome.com/1/017/430.htm",
-      "time": "10-24 17:23",
+      "title": "苹果 iPhone Duo 内屏玩《王者荣耀》《原神》暂不支持全屏显示，大黑边被网友吐槽“公摊广告位”",
+      "link": "https://www.ithome.com/1/017/538.htm",
+      "time": "10-25 08:25",
       "src": "IT之家",
       "type": "不停机更新"
     },
@@ -1330,6 +1331,12 @@
       "src": "ISW"
     },
     {
+      "title": "软银投资的农业无人机创企极飞科技：希望让每个农民都有自己的机器人",
+      "link": "https://www.ithome.com/1/017/552.htm",
+      "time": "10-25 09:58",
+      "src": "IT之家"
+    },
+    {
       "title": "【会员抽奖】特别好评奇幻巫师冒险游戏《巫塔战记》“沉睡之力”更新上线，武器系统2.0带来更多魔法搭配",
       "link": "https://www.gcores.com/articles/221402",
       "time": "10-23 20:32",
@@ -1364,12 +1371,6 @@
       "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261024-%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E5%B0%86%E7%BE%8E%E5%9B%BD%E5%A2%83%E5%86%85%E7%9A%84%E5%AD%94%E5%AD%90%E5%AD%A6%E9%99%A2%E5%88%97%E4%B8%BA%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E5%A8%81%E8%83%81",
       "time": "10-24 20:45",
       "src": "© Jonathan Ern"
-    },
-    {
-      "title": "巴黎近郊枪击导致一死五伤 马克龙谴责“种族主义恐怖袭击”",
-      "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261023-%E5%B7%B4%E9%BB%8E%E8%BF%91%E9%83%8A%E6%9E%AA%E5%87%BB%E5%AF%BC%E8%87%B4%E4%B8%80%E6%AD%BB%E4%BA%94%E4%BC%A4-%E9%A9%AC%E5%85%8B%E9%BE%99%E8%B0%B4%E8%B4%A3-%E7%A7%8D%E6%97%8F%E4%B8%BB%E4%B9%89%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB",
-      "time": "10-24 05:28",
-      "src": "REUTERS - Hann"
     }
   ]
 }
