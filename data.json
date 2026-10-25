@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25 23:56",
+  "generated_at": "2026-10-26 02:53",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -129,9 +129,9 @@
       }
     ],
     "status": {
-      "state": "休市",
-      "label": "周末休市",
-      "date": "2026-10-25"
+      "state": "未开盘",
+      "label": "今日尚未开盘",
+      "date": "2026-10-26"
     },
     "watch": [
       {
@@ -275,10 +275,10 @@
         "src": "环球市场播报"
       },
       {
-        "title": "以色列央行驳斥内塔尼亚胡利用加密货币规避制裁的提议",
-        "link": "https://finance.sina.com.cn/7x24/2026-10-25/doc-iniwkfik0320147.shtml",
-        "time": "10-25 01:52",
-        "src": "环球市场播报"
+        "title": "宇树机器人侧空翻表演甩断腿，系新发布的H2-X人形机器人",
+        "link": "https://finance.sina.com.cn/tob/2026-10-24/doc-iniwicvn8029436.shtml",
+        "time": "10-24 14:05",
+        "src": "新浪科技"
       }
     ]
   },
@@ -555,37 +555,37 @@
     "hf": [
       {
         "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "likes": 2914,
+        "likes": 2943,
         "downloads": 85275,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "RecursiveSI/flint",
-        "likes": 826,
+        "likes": 835,
         "downloads": 6444,
         "pipeline": "text-generation"
       },
       {
         "id": "black-forest-labs/flux-3-image-klein-comfy",
-        "likes": 1568,
+        "likes": 1583,
         "downloads": 660874,
         "pipeline": "image-to-image"
       },
       {
         "id": "XHToken/Spark-X2.6-4B",
-        "likes": 485,
+        "likes": 488,
         "downloads": 3488,
         "pipeline": "text-generation"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 9275,
+        "likes": 9301,
         "downloads": 2107108,
         "pipeline": "image-to-video"
       },
       {
         "id": "OpenMOSS-Team/MOSS-Image-SFT",
-        "likes": 718,
+        "likes": 722,
         "downloads": 10757,
         "pipeline": "text-to-image"
       }
@@ -1071,10 +1071,10 @@
       "src": "cnBeta.COM"
     },
     {
-      "title": "法国10.24示威活动41万人参加 1314人被捕 53名执法人员受伤",
-      "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261025-%E6%B3%95%E5%9B%BD10-24%E7%A4%BA%E5%A8%81%E6%B4%BB%E5%8A%A841%E4%B8%87%E4%BA%BA%E5%8F%82%E5%8A%A0-1314%E4%BA%BA%E8%A2%AB%E6%8D%95-53%E5%90%8D%E6%89%A7%E6%B3%95%E4%BA%BA%E5%91%98%E5%8F%97%E4%BC%A4",
-      "time": "10-25 22:58",
-      "src": "AFP - SYLVAIN "
+      "title": "印度阿鲁纳恰尔邦超大型水电项目引爆警民冲突",
+      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261025-%E5%8D%B0%E5%BA%A6%E9%98%BF%E9%B2%81%E7%BA%B3%E6%81%B0%E5%B0%94%E9%82%A6%E8%B6%85%E5%A4%A7%E5%9E%8B%E6%B0%B4%E7%94%B5%E9%A1%B9%E7%9B%AE%E5%BC%95%E7%88%86%E8%AD%A6%E6%B0%91%E5%86%B2%E7%AA%81",
+      "time": "10-26 01:51",
+      "src": "AP - Mustafa Q"
     }
   ],
   "econ_news": [
@@ -1097,6 +1097,18 @@
       "src": "中新网"
     },
     {
+      "title": "英伟达瞄准GPU软件订阅收入 黄仁勋提出每块GPU每年约2000美元",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1583810.htm",
+      "time": "10-26 00:46",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "苹果零售店推出 iPhone 防盗检测设备：无需拆封即可检查手机是否完整 减少退货欺诈",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1583806.htm",
+      "time": "10-26 00:43",
+      "src": "cnBeta.COM"
+    },
+    {
       "title": "特朗普宣布奥迪将在佐治亚州投资40亿美元建厂",
       "link": "https://www.cnbeta.com.tw/articles/tech/1583804.htm",
       "time": "10-25 23:10",
@@ -1112,18 +1124,6 @@
       "title": "消息称A24《艾尔登法环》电影预算近2亿美元 定档2028年3月",
       "link": "https://www.cnbeta.com.tw/articles/movie/1583758.htm",
       "time": "10-25 15:16",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "美FBI考虑对OpenAI窃听案员工追加经济间谍指控",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1583746.htm",
-      "time": "10-25 15:00",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "马斯克要让X的点赞变成真金白银：长按就能转账1美元",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1583734.htm",
-      "time": "10-25 14:52",
       "src": "cnBeta.COM"
     }
   ],
@@ -1267,6 +1267,12 @@
       "src": "cnBeta.COM"
     },
     {
+      "title": "印度阿鲁纳恰尔邦超大型水电项目引爆警民冲突",
+      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261025-%E5%8D%B0%E5%BA%A6%E9%98%BF%E9%B2%81%E7%BA%B3%E6%81%B0%E5%B0%94%E9%82%A6%E8%B6%85%E5%A4%A7%E5%9E%8B%E6%B0%B4%E7%94%B5%E9%A1%B9%E7%9B%AE%E5%BC%95%E7%88%86%E8%AD%A6%E6%B0%91%E5%86%B2%E7%AA%81",
+      "time": "10-26 01:51",
+      "src": "AP - Mustafa Q"
+    },
+    {
       "title": "伊朗总统将赴莫斯科与普京会晤 并出席天然气出口国会议",
       "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261024-%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%B0%86%E8%B5%B4%E8%8E%AB%E6%96%AF%E7%A7%91%E4%B8%8E%E6%99%AE%E4%BA%AC%E4%BC%9A%E6%99%A4-%E5%B9%B6%E5%87%BA%E5%B8%AD%E5%A4%A9%E7%84%B6%E6%B0%94%E5%87%BA%E5%8F%A3%E5%9B%BD%E4%BC%9A%E8%AE%AE",
       "time": "10-25 01:31",
@@ -1277,12 +1283,6 @@
       "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261024-%E8%BF%B9%E8%B1%A1%E6%98%BE%E7%A4%BA-%E7%BE%8E%E5%9B%BD%E6%88%96%E5%B0%86%E9%87%8D%E5%90%AF%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%A9%BA%E8%A2%AD",
       "time": "10-25 01:09",
       "src": "AP Photo/Mark "
-    },
-    {
-      "title": "五角大楼将美国境内的孔子学院列为国家安全威胁",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261024-%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E5%B0%86%E7%BE%8E%E5%9B%BD%E5%A2%83%E5%86%85%E7%9A%84%E5%AD%94%E5%AD%90%E5%AD%A6%E9%99%A2%E5%88%97%E4%B8%BA%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E5%A8%81%E8%83%81",
-      "time": "10-24 20:45",
-      "src": "© Jonathan Ern"
     }
   ]
 }
