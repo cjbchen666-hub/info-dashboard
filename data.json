@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26 02:53",
+  "generated_at": "2026-10-26 06:25",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -327,7 +327,7 @@
         "score": 6.5,
         "img": "http://lain.bgm.tv/pic/cover/c/dc/f7/511936_XDkXO.jpg",
         "air_date": "2026-10-05",
-        "rank": 4663
+        "rank": 4866
       },
       {
         "id": 707667,
@@ -345,7 +345,7 @@
         "score": 6.4,
         "img": "http://lain.bgm.tv/pic/cover/c/73/99/624923_4u99L.jpg",
         "air_date": "2026-10-05",
-        "rank": 5360
+        "rank": 5338
       },
       {
         "id": 418229,
@@ -354,7 +354,7 @@
         "score": 6.2,
         "img": "http://lain.bgm.tv/pic/cover/c/52/fe/418229_gcFij.jpg",
         "air_date": "2026-10-05",
-        "rank": 5708
+        "rank": 5694
       },
       {
         "id": 708080,
@@ -372,7 +372,7 @@
         "score": 5.2,
         "img": "http://lain.bgm.tv/pic/cover/c/05/25/634587_8k4k7.jpg",
         "air_date": "2026-10-05",
-        "rank": 8766
+        "rank": 8820
       },
       {
         "id": 710874,
@@ -390,7 +390,7 @@
         "score": 4.9,
         "img": "http://lain.bgm.tv/pic/cover/c/1b/1e/614640_ESMLl.jpg",
         "air_date": "2026-10-05",
-        "rank": 8244
+        "rank": 8374
       },
       {
         "id": 390200,
@@ -555,37 +555,37 @@
     "hf": [
       {
         "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "likes": 2943,
+        "likes": 2965,
         "downloads": 85275,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "RecursiveSI/flint",
-        "likes": 835,
+        "likes": 852,
         "downloads": 6444,
         "pipeline": "text-generation"
       },
       {
         "id": "black-forest-labs/flux-3-image-klein-comfy",
-        "likes": 1583,
+        "likes": 1599,
         "downloads": 660874,
         "pipeline": "image-to-image"
       },
       {
         "id": "XHToken/Spark-X2.6-4B",
-        "likes": 488,
+        "likes": 492,
         "downloads": 3488,
         "pipeline": "text-generation"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 9301,
+        "likes": 9328,
         "downloads": 2107108,
         "pipeline": "image-to-video"
       },
       {
         "id": "OpenMOSS-Team/MOSS-Image-SFT",
-        "likes": 722,
+        "likes": 726,
         "downloads": 10757,
         "pipeline": "text-to-image"
       }
@@ -1053,6 +1053,12 @@
       "src": "机核"
     },
     {
+      "title": "法国极右翼领导人勒庞正式启动总统竞选活动",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-26/10720868.shtml",
+      "time": "10-26 06:07",
+      "src": "中新网"
+    },
+    {
       "title": "津巴布韦总统呼吁西方国家无条件解除制裁",
       "link": "https://www.chinanews.com.cn/gj/2026/10-25/10720864.shtml",
       "time": "10-25 23:43",
@@ -1069,12 +1075,6 @@
       "link": "https://www.cnbeta.com.tw/articles/tech/1583804.htm",
       "time": "10-25 23:10",
       "src": "cnBeta.COM"
-    },
-    {
-      "title": "印度阿鲁纳恰尔邦超大型水电项目引爆警民冲突",
-      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261025-%E5%8D%B0%E5%BA%A6%E9%98%BF%E9%B2%81%E7%BA%B3%E6%81%B0%E5%B0%94%E9%82%A6%E8%B6%85%E5%A4%A7%E5%9E%8B%E6%B0%B4%E7%94%B5%E9%A1%B9%E7%9B%AE%E5%BC%95%E7%88%86%E8%AD%A6%E6%B0%91%E5%86%B2%E7%AA%81",
-      "time": "10-26 01:51",
-      "src": "AP - Mustafa Q"
     }
   ],
   "econ_news": [
@@ -1095,6 +1095,12 @@
       "link": "https://www.chinanews.com.cn/ydyl/2026/10-25/10720829.shtml",
       "time": "10-25 20:54",
       "src": "中新网"
+    },
+    {
+      "title": "Xbox索要8亿美元授权费导致Netflix退出游戏改编独家合作谈判",
+      "link": "https://www.cnbeta.com.tw/articles/game/1583822.htm",
+      "time": "10-26 03:39",
+      "src": "cnBeta.COM"
     },
     {
       "title": "英伟达瞄准GPU软件订阅收入 黄仁勋提出每块GPU每年约2000美元",
@@ -1118,12 +1124,6 @@
       "title": "“中国制造”如何成为懂行的象征？彭博聚焦海外发烧友的消费转变",
       "link": "https://www.cnbeta.com.tw/articles/tech/1583774.htm",
       "time": "10-25 21:20",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "消息称A24《艾尔登法环》电影预算近2亿美元 定档2028年3月",
-      "link": "https://www.cnbeta.com.tw/articles/movie/1583758.htm",
-      "time": "10-25 15:16",
       "src": "cnBeta.COM"
     }
   ],
@@ -1255,16 +1255,22 @@
       "src": "机核"
     },
     {
+      "title": "新型防护服涂层可分解神经毒剂 真菌色素与锆材料联手降低化学武器威胁",
+      "link": "https://www.cnbeta.com.tw/articles/science/1583818.htm",
+      "time": "10-26 03:38",
+      "src": "cnBeta.COM"
+    },
+    {
       "title": "《使命召唤：现代战争4》Steam首发同时在线突破22.7万",
       "link": "https://www.cnbeta.com.tw/articles/game/1583782.htm",
       "time": "10-25 21:25",
       "src": "cnBeta.COM"
     },
     {
-      "title": "黑客大赛遭头部无人机厂商报警？人员被带走，赛事暂停",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1583738.htm",
-      "time": "10-25 14:57",
-      "src": "cnBeta.COM"
+      "title": "保加利亚总统选举：现任总统首轮领先 乌克兰战争凸显对俄分歧",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261025-%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE-%E7%8E%B0%E4%BB%BB%E6%80%BB%E7%BB%9F%E9%A6%96%E8%BD%AE%E9%A2%86%E5%85%88-%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89%E5%87%B8%E6%98%BE%E5%AF%B9%E4%BF%84%E5%88%86%E6%AD%A7",
+      "time": "10-26 05:34",
+      "src": "REUTERS - Stoy"
     },
     {
       "title": "印度阿鲁纳恰尔邦超大型水电项目引爆警民冲突",
@@ -1273,16 +1279,10 @@
       "src": "AP - Mustafa Q"
     },
     {
-      "title": "伊朗总统将赴莫斯科与普京会晤 并出席天然气出口国会议",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261024-%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%B0%86%E8%B5%B4%E8%8E%AB%E6%96%AF%E7%A7%91%E4%B8%8E%E6%99%AE%E4%BA%AC%E4%BC%9A%E6%99%A4-%E5%B9%B6%E5%87%BA%E5%B8%AD%E5%A4%A9%E7%84%B6%E6%B0%94%E5%87%BA%E5%8F%A3%E5%9B%BD%E4%BC%9A%E8%AE%AE",
-      "time": "10-25 01:31",
-      "src": "Sergei Bobylev"
-    },
-    {
-      "title": "迹象显示美国或将重启对伊朗大规模空袭",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261024-%E8%BF%B9%E8%B1%A1%E6%98%BE%E7%A4%BA-%E7%BE%8E%E5%9B%BD%E6%88%96%E5%B0%86%E9%87%8D%E5%90%AF%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%A9%BA%E8%A2%AD",
-      "time": "10-25 01:09",
-      "src": "AP Photo/Mark "
+      "title": "原油从六个月高点小幅回落 交易员评估伊朗风险",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-26/doc-iniwnuwa2632266.shtml",
+      "time": "10-26 06:07",
+      "src": "环球市场播报"
     }
   ]
 }
