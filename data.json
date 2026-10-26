@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26 20:42",
+  "generated_at": "2026-10-27 03:49",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -129,9 +129,9 @@
       }
     ],
     "status": {
-      "state": "已收盘",
-      "label": "今日已收盘",
-      "date": "2026-10-26"
+      "state": "未开盘",
+      "label": "今日尚未开盘",
+      "date": "2026-10-27"
     },
     "watch": [
       {
@@ -233,27 +233,15 @@
     ],
     "news": [
       {
-        "title": "消息称越南首座半导体前端晶圆厂遇阻，恐无法按期试产",
-        "link": "https://www.ithome.com/1/018/114.htm",
-        "time": "10-26 18:52",
+        "title": "IPO 文件阐述 Anthropic 的野心：AI 有望解决过去几代人未能攻克的难题",
+        "link": "https://www.ithome.com/1/018/171.htm",
+        "time": "10-26 22:19",
         "src": "IT之家"
       },
       {
-        "title": "Counterpoint：英伟达引领人形机器人 AI 加速器市场，高通、英特尔、特斯拉、小鹏逐步崛起",
-        "link": "https://www.ithome.com/1/018/075.htm",
-        "time": "10-26 18:06",
-        "src": "IT之家"
-      },
-      {
-        "title": "上海：重点攻关卫星手机直连、天基算力及空天地一体和通感算智融合等技术",
-        "link": "https://www.ithome.com/1/018/045.htm",
-        "time": "10-26 17:39",
-        "src": "IT之家"
-      },
-      {
-        "title": "智元发布重载具身机器人精灵 G2 Max，双臂额定负载 40kg",
-        "link": "https://www.ithome.com/1/017/951.htm",
-        "time": "10-26 16:27",
+        "title": "Anthropic 提交纳斯达克 IPO 申请，股票代码为“ANT”",
+        "link": "https://www.ithome.com/1/018/162.htm",
+        "time": "10-26 21:29",
         "src": "IT之家"
       },
       {
@@ -269,16 +257,28 @@
         "src": "cnBeta.COM"
       },
       {
-        "title": "盘前：纳指期货涨0.18% 国际油价回落2%",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-26/doc-iniwqhxm9193704.shtml",
-        "time": "10-26 20:30",
+        "title": "加拿大皇家银行资本市场：标普500指数或出现5%‑10%回调",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwqtpi5105927.shtml",
+        "time": "10-27 00:38",
         "src": "环球市场播报"
       },
       {
-        "title": "“福建前首富”栽了！背后500亿三安光电正转型半导体",
-        "link": "https://finance.sina.com.cn/stock/s/2026-10-26/doc-iniwqarn2497311.shtml",
-        "time": "10-26 19:31",
-        "src": "市场资讯"
+        "title": "美联储本周料按兵不动 沃什面临沟通考验 市场焦点转向12月",
+        "link": "https://finance.sina.com.cn/world/2026-10-27/doc-iniwqtpe2303012.shtml",
+        "time": "10-27 00:37",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "美联储10月大概率维持利率不变，这对消费者意味着什么",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwqtpm1882748.shtml",
+        "time": "10-27 00:35",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "六大奢侈品巨头年初以来市值缩水近2万亿，LVMH失血最多",
+        "link": "https://finance.sina.com.cn/jjxw/2026-10-26/doc-iniwqhxk2463230.shtml",
+        "time": "10-26 21:38",
+        "src": "界面"
       }
     ]
   },
@@ -294,156 +294,129 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 52215.16,
-      "pct": -1.23,
-      "chg": -652.82,
-      "amount": "1821960335亿"
+      "price": 52320.48,
+      "pct": 0.2,
+      "chg": 105.32,
+      "amount": "1357646522亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 25955.34,
-      "pct": -0.21,
-      "chg": -53.52,
-      "amount": "14869773470亿"
+      "price": 26199.59,
+      "pct": 0.94,
+      "chg": 244.25,
+      "amount": "13822027711亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7623.68,
-      "pct": -0.52,
-      "chg": -39.75,
-      "amount": "2096179040亿"
+      "price": 7679.26,
+      "pct": 0.73,
+      "chg": 55.58,
+      "amount": "1463307153亿"
     }
   ],
   "anime": {
-    "date": "10-26",
-    "weekday": "月",
+    "date": "10-27",
+    "weekday": "火",
     "items": [
       {
-        "id": 511936,
-        "name": "ロメリア戦記",
-        "name_cn": "罗梅莉亚战记",
+        "id": 624085,
+        "name": "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録",
+        "name_cn": "乱世千金倪亚‧利斯顿转生为娇弱千金的弑神武人华丽无双录",
+        "score": 6.8,
+        "img": "http://lain.bgm.tv/pic/cover/c/c6/8d/624085_5dXDL.jpg",
+        "air_date": "2026-10-06",
+        "rank": 3410
+      },
+      {
+        "id": 625799,
+        "name": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。",
+        "name_cn": "被放逐的作弊赋予魔术师享受随心所欲的第二人生。",
         "score": 6.5,
-        "img": "http://lain.bgm.tv/pic/cover/c/dc/f7/511936_XDkXO.jpg",
-        "air_date": "2026-10-05",
-        "rank": 4866
+        "img": "http://lain.bgm.tv/pic/cover/c/af/3a/625799_ycox6.jpg",
+        "air_date": "2026-10-06",
+        "rank": 5408
       },
       {
-        "id": 707667,
-        "name": "猫猫のひとりごと 第3期",
-        "name_cn": "猫猫的呢喃 第三季",
-        "score": 6.5,
-        "img": "http://lain.bgm.tv/pic/cover/c/44/89/707667_JL0l8.jpg",
-        "air_date": "2026-10-05",
-        "rank": null
+        "id": 593565,
+        "name": "超巡！超条先輩",
+        "name_cn": "超巡！超条前辈",
+        "score": 5.7,
+        "img": "http://lain.bgm.tv/pic/cover/c/af/c1/593565_nno0j.jpg",
+        "air_date": "2026-10-06",
+        "rank": 7992
       },
       {
-        "id": 624923,
-        "name": "どうも、好きな人に惚れ薬を依頼された魔女です。",
-        "name_cn": "你好，我是受心上人所托来做恋爱药的魔女。",
-        "score": 6.4,
-        "img": "http://lain.bgm.tv/pic/cover/c/73/99/624923_4u99L.jpg",
-        "air_date": "2026-10-05",
-        "rank": 5338
+        "id": 513878,
+        "name": "Cyberpunk: Edgerunners 2",
+        "name_cn": "赛博朋克：边缘行者 2",
+        "score": 5.5,
+        "img": "http://lain.bgm.tv/pic/cover/c/db/94/513878_5f77g.jpg",
+        "air_date": "2026-10-20",
+        "rank": 9343
       },
       {
-        "id": 418229,
-        "name": "魔法少女育成計画 restart",
-        "name_cn": "魔法少女育成计划 restart",
-        "score": 6.2,
-        "img": "http://lain.bgm.tv/pic/cover/c/52/fe/418229_gcFij.jpg",
-        "air_date": "2026-10-05",
-        "rank": 5694
+        "id": 505550,
+        "name": "DARK MACHINE THE ANIMATION",
+        "name_cn": "暗机 DARK MACHINE",
+        "score": 5.3,
+        "img": "http://lain.bgm.tv/pic/cover/c/84/86/505550_OLQmz.jpg",
+        "air_date": "2026-10-13",
+        "rank": 8389
       },
       {
-        "id": 708080,
-        "name": "Family Guy: Happy Hell-O-Ween",
-        "name_cn": "恶搞之家：地狱欢庆万圣节",
-        "score": 6.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/42/85/708080_kx2E6.jpg",
-        "air_date": "2026-10-05",
-        "rank": null
+        "id": 634708,
+        "name": "塩対応の佐藤さんが俺にだけ甘い",
+        "name_cn": "冷淡的佐藤同学只对我撒娇",
+        "score": 5.3,
+        "img": "http://lain.bgm.tv/pic/cover/c/39/84/634708_NnWAS.jpg",
+        "air_date": "2026-10-06",
+        "rank": 9184
       },
       {
-        "id": 634587,
-        "name": "転生ゴブリンだけど質問ある？",
-        "name_cn": "转生哥布林有问题吗？",
-        "score": 5.2,
-        "img": "http://lain.bgm.tv/pic/cover/c/05/25/634587_8k4k7.jpg",
-        "air_date": "2026-10-05",
-        "rank": 8820
-      },
-      {
-        "id": 710874,
-        "name": "宝可梦动画图鉴 第六季 云岫寻踪",
-        "name_cn": "",
-        "score": 5.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/75/89/710874_99X5Q.jpg",
-        "air_date": "2026-10-12",
-        "rank": null
-      },
-      {
-        "id": 614640,
-        "name": "PSYREN -サイレン-",
-        "name_cn": "PSYREN -决战游戏-",
+        "id": 541538,
+        "name": "幻想水滸伝",
+        "name_cn": "幻想水浒传",
         "score": 4.9,
-        "img": "http://lain.bgm.tv/pic/cover/c/1b/1e/614640_ESMLl.jpg",
-        "air_date": "2026-10-05",
-        "rank": 8374
+        "img": "http://lain.bgm.tv/pic/cover/c/ee/12/541538_LxzAg.jpg",
+        "air_date": "2026-10-03",
+        "rank": 8525
       },
       {
-        "id": 390200,
-        "name": "列女战纪：女娲石记",
-        "name_cn": "列女战纪：女娲石记",
-        "score": 3.6,
-        "img": "http://lain.bgm.tv/pic/cover/c/1c/b4/390200_Z9jPp.jpg",
-        "air_date": "2026-10-05",
+        "id": 584847,
+        "name": "千歳くんはラムネ瓶のなか 第2クール",
+        "name_cn": "弹珠汽水瓶里的千岁同学 第2部分",
+        "score": 4.8,
+        "img": "http://lain.bgm.tv/pic/cover/c/83/49/584847_5nM0F.jpg",
+        "air_date": "2026-10-13",
+        "rank": 9916
+      },
+      {
+        "id": 544378,
+        "name": "Battle Spirits [Re] 絶界の空",
+        "name_cn": "战斗之魂[Re] 绝界之空",
+        "score": 4.7,
+        "img": "http://lain.bgm.tv/pic/cover/c/ec/af/544378_j3ouu.jpg",
+        "air_date": "2026-10-06",
         "rank": null
       },
       {
-        "id": 688204,
-        "name": "ゆうさんち！from 遊ハち",
-        "name_cn": "欢迎光临游之家！from Yu-hachi",
-        "score": 3.0,
-        "img": "http://lain.bgm.tv/pic/cover/c/0b/d4/688204_mSshl.jpg",
-        "air_date": "2026-10-05",
-        "rank": null
-      },
-      {
-        "id": 498559,
-        "name": "Electro Andes",
+        "id": 709326,
+        "name": "Kiff: Scarm II: The Screamwriter",
         "name_cn": "",
         "score": null,
-        "img": "",
-        "air_date": "2026-10-05",
+        "img": "http://lain.bgm.tv/pic/cover/c/94/b5/709326_Fsz6K.jpg",
+        "air_date": "2026-10-06",
         "rank": null
       },
       {
-        "id": 713219,
-        "name": "ミニアニメ「ホタルの嫁入り」ちょいたし",
-        "name_cn": "萤火虫的出嫁 迷你动画",
-        "score": null,
-        "img": "http://lain.bgm.tv/pic/cover/c/26/18/713219_TtQVj.jpg",
-        "air_date": "2026-10-12",
-        "rank": null
-      },
-      {
-        "id": 713654,
-        "name": "The Marsupilamis",
+        "id": 715233,
+        "name": "那年那兔那些事儿 长征篇",
         "name_cn": "",
         "score": null,
-        "img": "http://lain.bgm.tv/pic/cover/c/80/91/713654_mxUL7.jpg",
-        "air_date": "2026-10-19",
-        "rank": null
-      },
-      {
-        "id": 716367,
-        "name": "歯ならび～ズ",
-        "name_cn": "",
-        "score": null,
-        "img": "http://lain.bgm.tv/pic/cover/c/97/3a/716367_cx1FD.jpg",
-        "air_date": "2026-10-26",
+        "img": "http://lain.bgm.tv/pic/cover/c/b1/5d/715233_E9Z2Z.jpg",
+        "air_date": "2026-10-27",
         "rank": null
       }
     ]
@@ -513,90 +486,90 @@
   "ai": {
     "news_zh": [
       {
+        "title": "网易《逆水寒：新世界》将推“自拍模式”，可自定义动作、邀请 AI 门客 NPC 合照",
+        "link": "https://www.ithome.com/1/018/172.htm",
+        "time": "10-26 22:22",
+        "src": "IT之家"
+      },
+      {
+        "title": "IPO 文件阐述 Anthropic 的野心：AI 有望解决过去几代人未能攻克的难题",
+        "link": "https://www.ithome.com/1/018/171.htm",
+        "time": "10-26 22:19",
+        "src": "IT之家"
+      },
+      {
+        "title": "腾讯混元同声传译大模型 Hy-SimulMT 开源，响应时间仅 3 秒超人类译员",
+        "link": "https://www.ithome.com/1/018/168.htm",
+        "time": "10-26 22:09",
+        "src": "IT之家"
+      },
+      {
+        "title": "Anthropic 提交纳斯达克 IPO 申请，股票代码为“ANT”",
+        "link": "https://www.ithome.com/1/018/162.htm",
+        "time": "10-26 21:29",
+        "src": "IT之家"
+      },
+      {
+        "title": "5499 元起：苹果发布 iPad mini 8 平板，8.5 寸 60Hz OLED 屏、A20 Pro 芯片、支持 IP67 防尘防水",
+        "link": "https://www.ithome.com/1/018/156.htm",
+        "time": "10-26 21:04",
+        "src": "IT之家"
+      },
+      {
+        "title": "古尔曼称苹果可能本周连续三天发布新品：周一 OLED iPad mini、周二 M6 芯片 iMac、周三触控屏 MacBook Pro",
+        "link": "https://www.ithome.com/1/018/153.htm",
+        "time": "10-26 21:00",
+        "src": "IT之家"
+      },
+      {
+        "title": "SpaceX 达成史上最大规模 GPU 融资安排，协议总额约 400 亿美元",
+        "link": "https://www.ithome.com/1/018/150.htm",
+        "time": "10-26 20:42",
+        "src": "IT之家"
+      },
+      {
         "title": "Meta 宣布至多 950 亿美元重大融资计划，为人工智能等业务筹集资金",
         "link": "https://www.ithome.com/1/018/144.htm",
         "time": "10-26 20:26",
-        "src": "IT之家"
-      },
-      {
-        "title": "寒武纪陈天石回应明年芯片出货超百万颗传闻：公司从未进行相关沟通",
-        "link": "https://www.ithome.com/1/018/135.htm",
-        "time": "10-26 19:42",
-        "src": "IT之家"
-      },
-      {
-        "title": "传三星电子、SK 海力士 2027Q2 全面量产并向英伟达出货 8Hi HBM4 内存",
-        "link": "https://www.ithome.com/1/018/125.htm",
-        "time": "10-26 19:06",
-        "src": "IT之家"
-      },
-      {
-        "title": "Counterpoint：英伟达引领人形机器人 AI 加速器市场，高通、英特尔、特斯拉、小鹏逐步崛起",
-        "link": "https://www.ithome.com/1/018/075.htm",
-        "time": "10-26 18:06",
-        "src": "IT之家"
-      },
-      {
-        "title": "上海：重点攻关卫星手机直连、天基算力及空天地一体和通感算智融合等技术",
-        "link": "https://www.ithome.com/1/018/045.htm",
-        "time": "10-26 17:39",
-        "src": "IT之家"
-      },
-      {
-        "title": "首部三体宇宙授权 AI 互动影游《三体：审判前夜》上架 Steam，玩家将深入 ETO 总部",
-        "link": "https://www.ithome.com/1/018/038.htm",
-        "time": "10-26 17:37",
-        "src": "IT之家"
-      },
-      {
-        "title": "腾达首款 AI 路由器泰山 BE3600 Ultra 开启预售，到手价 179 元",
-        "link": "https://www.ithome.com/1/018/016.htm",
-        "time": "10-26 17:27",
-        "src": "IT之家"
-      },
-      {
-        "title": "字节跳动旗下即梦 AI 短剧工作室上线，提供自研剧本、图片、分镜模型",
-        "link": "https://www.ithome.com/1/018/013.htm",
-        "time": "10-26 17:12",
         "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "likes": 3088,
+        "likes": 3160,
         "downloads": 95889,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "RecursiveSI/flint",
-        "likes": 887,
+        "likes": 907,
         "downloads": 8470,
         "pipeline": "text-generation"
       },
       {
         "id": "Nanbeige/Nanbeige4.3-33B",
-        "likes": 523,
+        "likes": 578,
         "downloads": 2787,
         "pipeline": "text-generation"
       },
       {
         "id": "XHToken/Spark-X2.6-4B",
-        "likes": 602,
+        "likes": 632,
         "downloads": 4726,
         "pipeline": "text-generation"
       },
       {
-        "id": "black-forest-labs/flux-3-image-klein-comfy",
-        "likes": 1647,
-        "downloads": 700652,
-        "pipeline": "image-to-image"
+        "id": "nvidia/simready-assets",
+        "likes": 441,
+        "downloads": 393196,
+        "pipeline": ""
       },
       {
-        "id": "Lightricks/LTX-2.5",
-        "likes": 9388,
-        "downloads": 2117147,
-        "pipeline": "image-to-video"
+        "id": "black-forest-labs/flux-3-image-klein-comfy",
+        "likes": 1683,
+        "downloads": 700652,
+        "pipeline": "image-to-image"
       }
     ],
     "models": [
@@ -768,9 +741,63 @@
   ],
   "hw_news": [
     {
+      "title": "IT之家 11.11 严选好货：苹果 iPhone Duo 折叠屏手机开放购买，罗技 MX Master 3S Lite 鼠标 699 → 305 元",
+      "link": "https://www.ithome.com/1/018/170.htm",
+      "time": "10-26 22:17",
+      "src": "IT之家"
+    },
+    {
+      "title": "苹果 iPad mini（A20 Pro）仅 512GB 机型配备 6 核中央处理器、双 16 核神经网络引擎",
+      "link": "https://www.ithome.com/1/018/169.htm",
+      "time": "10-26 22:13",
+      "src": "IT之家"
+    },
+    {
+      "title": "微软为 Surface Laptop Ultra 笔记本发布首个固件更新，修复屏幕闪烁、重启耗时过长问题",
+      "link": "https://www.ithome.com/1/018/166.htm",
+      "time": "10-26 22:02",
+      "src": "IT之家"
+    },
+    {
+      "title": "受内存涨价影响，曝三星计划减产 20% Galaxy A 系中低端手机",
+      "link": "https://www.ithome.com/1/018/165.htm",
+      "time": "10-26 21:38",
+      "src": "IT之家"
+    },
+    {
       "title": "699 → 305 元：罗技 MX Master 3S Lite 鼠标京东 11.11 破冰新低",
       "link": "https://www.ithome.com/1/018/143.htm",
       "time": "10-26 20:25",
+      "src": "IT之家"
+    },
+    {
+      "title": "苹果 iPad mini（A20 Pro）升级 OLED 面板，但仍为 60Hz 刷新率",
+      "link": "https://www.ithome.com/1/018/159.htm",
+      "time": "10-26 21:10",
+      "src": "IT之家"
+    },
+    {
+      "title": "5499 元起：苹果发布 iPad mini 8 平板，8.5 寸 60Hz OLED 屏、A20 Pro 芯片、支持 IP67 防尘防水",
+      "link": "https://www.ithome.com/1/018/156.htm",
+      "time": "10-26 21:04",
+      "src": "IT之家"
+    },
+    {
+      "title": "英特尔 CEO 陈立武：已经和 AMD CEO 苏姿丰就潜在合作展开对话",
+      "link": "https://www.ithome.com/1/018/155.htm",
+      "time": "10-26 21:02",
+      "src": "IT之家"
+    },
+    {
+      "title": "古尔曼称苹果可能本周连续三天发布新品：周一 OLED iPad mini、周二 M6 芯片 iMac、周三触控屏 MacBook Pro",
+      "link": "https://www.ithome.com/1/018/153.htm",
+      "time": "10-26 21:00",
+      "src": "IT之家"
+    },
+    {
+      "title": "苹果 MacBook Pro 转向 OLED 屏幕后，Mini LED 笔记本面板年出货量预计 2027 年暴跌 75%",
+      "link": "https://www.ithome.com/1/018/151.htm",
+      "time": "10-26 20:44",
       "src": "IT之家"
     },
     {
@@ -784,60 +811,6 @@
       "link": "https://www.ithome.com/1/018/126.htm",
       "time": "10-26 19:07",
       "src": "IT之家"
-    },
-    {
-      "title": "传三星电子、SK 海力士 2027Q2 全面量产并向英伟达出货 8Hi HBM4 内存",
-      "link": "https://www.ithome.com/1/018/125.htm",
-      "time": "10-26 19:06",
-      "src": "IT之家"
-    },
-    {
-      "title": "Counterpoint：英伟达引领人形机器人 AI 加速器市场，高通、英特尔、特斯拉、小鹏逐步崛起",
-      "link": "https://www.ithome.com/1/018/075.htm",
-      "time": "10-26 18:06",
-      "src": "IT之家"
-    },
-    {
-      "title": "一加推出品牌首款耳夹式耳机 OnePlus Buds Clip，佩戴无需分左右耳",
-      "link": "https://www.ithome.com/1/018/053.htm",
-      "time": "10-26 17:57",
-      "src": "IT之家"
-    },
-    {
-      "title": "红龙 Light 75 Pro 客制化机械键盘发售：8KHz 回报率、支持三模连接，369 元起",
-      "link": "https://www.ithome.com/1/018/012.htm",
-      "time": "10-26 17:06",
-      "src": "IT之家"
-    },
-    {
-      "title": "HMD 新款欧版 Pulse Pro 手机曝光，升级联发科 G99 处理器",
-      "link": "https://www.ithome.com/1/017/976.htm",
-      "time": "10-26 16:47",
-      "src": "IT之家"
-    },
-    {
-      "title": "创维“F24B23F”23.8 英寸显示器发售：1080P 144Hz，449 元",
-      "link": "https://www.ithome.com/1/017/953.htm",
-      "time": "10-26 16:32",
-      "src": "IT之家"
-    },
-    {
-      "title": "惠普星 Book Air 14 发售：薯条标、酷睿 5 320+16G+512G 售 5298 元",
-      "link": "https://www.ithome.com/1/017/946.htm",
-      "time": "10-26 16:14",
-      "src": "IT之家"
-    },
-    {
-      "title": "英特尔CEO称已与苏姿丰探讨合作可能性 14A工艺即将迈入风险试产阶段",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1583928.htm",
-      "time": "10-26 19:25",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "OLED版MacBook Pro将冲击Mini-LED市场：面板出货量两年内或锐减75%",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1583924.htm",
-      "time": "10-26 19:23",
-      "src": "cnBeta.COM"
     }
   ],
   "kojima": {
@@ -1044,6 +1017,12 @@
   },
   "intl_news": [
     {
+      "title": "天下霸唱IP互动影游《天坑追匪》定档11月24日 Steam全球同步上线",
+      "link": "https://www.gcores.com/articles/221507",
+      "time": "10-26 18:50",
+      "src": "机核"
+    },
+    {
       "title": "《欧洲卡车模拟2》“冰岛”DLC将于11月11日发售",
       "link": "https://www.gcores.com/articles/221470",
       "time": "10-26 08:55",
@@ -1056,9 +1035,21 @@
       "src": "机核"
     },
     {
-      "title": "2026中国国际农业机械展览会在天津开幕",
-      "link": "https://www.chinanews.com.cn/tp/2026/10-26/10721300.shtml",
-      "time": "10-26 20:40",
+      "title": "德国总统施泰因迈尔抵达安徽开始访华",
+      "link": "https://www.chinanews.com.cn/gn/2026/10-27/10721432.shtml",
+      "time": "10-27 00:34",
+      "src": "中新网"
+    },
+    {
+      "title": "美官员透露称美军已准备好再次大规模打击伊朗",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-26/10721428.shtml",
+      "time": "10-26 22:37",
+      "src": "中新网"
+    },
+    {
+      "title": "马来西亚总理：国际投资者拟在马投资500亿美元 发展AI与数据中心",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-26/10721427.shtml",
+      "time": "10-26 22:33",
       "src": "中新网"
     },
     {
@@ -1068,31 +1059,37 @@
       "src": "cnBeta.COM"
     },
     {
-      "title": "欧盟据报拟采取保障措施 目标中国化学品、家具和机械等行业产品",
-      "link": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20261026-%E6%AC%A7%E7%9B%9F%E6%8D%AE%E6%8A%A5%E6%8B%9F%E9%87%87%E5%8F%96%E4%BF%9D%E9%9A%9C%E6%8E%AA%E6%96%BD-%E7%9B%AE%E6%A0%87%E4%B8%AD%E5%9B%BD%E5%8C%96%E5%AD%A6%E5%93%81-%E5%AE%B6%E5%85%B7%E5%92%8C%E6%9C%BA%E6%A2%B0%E7%AD%89%E8%A1%8C%E4%B8%9A%E4%BA%A7%E5%93%81",
-      "time": "10-26 20:12",
+      "title": "借鉴北约第四条 日本有意与澳法等国构建双边紧急磋商机制",
+      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261026-%E5%80%9F%E9%89%B4%E5%8C%97%E7%BA%A6%E7%AC%AC%E5%9B%9B%E6%9D%A1-%E6%97%A5%E6%9C%AC%E6%9C%89%E6%84%8F%E4%B8%8E%E6%BE%B3%E6%B3%95%E7%AD%89%E5%9B%BD%E6%9E%84%E5%BB%BA%E5%8F%8C%E8%BE%B9%E7%B4%A7%E6%80%A5%E7%A3%8B%E5%95%86%E6%9C%BA%E5%88%B6",
+      "time": "10-27 00:39",
       "src": "© 美联社图片"
-    },
-    {
-      "title": "继对小包裹征税后 欧盟又将征收手续费",
-      "link": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20261026-%E7%BB%A7%E5%AF%B9%E5%B0%8F%E5%8C%85%E8%A3%B9%E5%BE%81%E7%A8%8E%E5%90%8E-%E6%AC%A7%E7%9B%9F%E5%8F%88%E5%B0%86%E5%BE%81%E6%94%B6%E6%89%8B%E7%BB%AD%E8%B4%B9",
-      "time": "10-26 20:00",
-      "src": "© Romain Longi"
-    },
-    {
-      "title": "欧洲思想文化长廊  【专题】希腊：欧洲文化永不磨灭的光辉：欧里庇德斯笔下的女性",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%AC%A7%E6%B4%B2%E6%80%9D%E6%83%B3%E6%96%87%E5%8C%96%E9%95%BF%E5%BB%8A/20261026-%E6%AC%A7%E6%B4%B2%E6%80%9D%E6%83%B3%E6%96%87%E5%8C%96%E9%95%BF%E5%BB%8A-%E4%B8%93%E9%A2%98-%E5%B8%8C%E8%85%8A-%E6%AC%A7%E6%B4%B2%E6%96%87%E5%8C%96%E6%B0%B8%E4%B8%8D%E7%A3%A8%E7%81%AD%E7%9A%84%E5%85%89%E8%BE%89-%E6%AC%A7%E9%87%8C%E5%BA%87%E5%BE%B7%E6%96%AF%E7%AC%94%E4%B8%8B%E7%9A%84%E5%A5%B3%E6%80%A7",
-      "time": "10-26 18:43",
-      "src": "法广RFI"
-    },
-    {
-      "title": "塞尔维亚提前立法选举：武契奇承认败选 ”学生名单“赢得胜利",
-      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261025-%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E6%8F%90%E5%89%8D%E7%AB%8B%E6%B3%95%E9%80%89%E4%B8%BE-%E6%AD%A6%E5%A5%91%E5%A5%87%E6%89%BF%E8%AE%A4%E8%B4%A5%E9%80%89-%E5%AD%A6%E7%94%9F%E5%90%8D%E5%8D%95-%E8%B5%A2%E5%BE%97%E8%83%9C%E5%88%A9",
-      "time": "10-26 05:20",
-      "src": "REUTERS - Djor"
     }
   ],
   "econ_news": [
+    {
+      "title": "光线传媒 2026 年前三季度归母净利润 5012.26 万元，同比下降 97.85%",
+      "link": "https://www.ithome.com/1/018/147.htm",
+      "time": "10-26 20:38",
+      "src": "IT之家"
+    },
+    {
+      "title": "格力电器 2026 年前三季度归母净利润 172.74 亿元，同比下降 19.51%",
+      "link": "https://www.ithome.com/1/018/146.htm",
+      "time": "10-26 20:36",
+      "src": "IT之家"
+    },
+    {
+      "title": "SpaceX 达成史上最大规模 GPU 融资安排，协议总额约 400 亿美元",
+      "link": "https://www.ithome.com/1/018/150.htm",
+      "time": "10-26 20:42",
+      "src": "IT之家"
+    },
+    {
+      "title": "长川科技 2026 年前三季度归母净利润 17.65 亿元，同比增长 103.92%",
+      "link": "https://www.ithome.com/1/018/149.htm",
+      "time": "10-26 20:40",
+      "src": "IT之家"
+    },
     {
       "title": "Meta 宣布至多 950 亿美元重大融资计划，为人工智能等业务筹集资金",
       "link": "https://www.ithome.com/1/018/144.htm",
@@ -1106,43 +1103,43 @@
       "src": "IT之家"
     },
     {
-      "title": "大疆针对北京地区消费级无人机推出专属托管服务：最长可免费存储一年，后续每台每年 199 元",
-      "link": "https://www.ithome.com/1/018/015.htm",
-      "time": "10-26 17:14",
-      "src": "IT之家"
+      "title": "马来西亚总理：国际投资者拟在马投资500亿美元 发展AI与数据中心",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-26/10721427.shtml",
+      "time": "10-26 22:33",
+      "src": "中新网"
     },
     {
-      "title": "九号公司 2026 年第三季度归母净利润 3.43 亿元，同比下降 37.18%",
-      "link": "https://www.ithome.com/1/018/011.htm",
-      "time": "10-26 17:06",
-      "src": "IT之家"
-    },
-    {
-      "title": "中兴通讯 2026 年第三季度归母净利润 40.6 亿元，同比下降 23.71%",
-      "link": "https://www.ithome.com/1/018/008.htm",
-      "time": "10-26 17:02",
-      "src": "IT之家"
-    },
-    {
-      "title": "汇丰推出第二款港元稳定币 RedCoin，聚焦零售支付及交易",
-      "link": "https://www.ithome.com/1/017/952.htm",
-      "time": "10-26 16:32",
-      "src": "IT之家"
-    },
-    {
-      "title": "我国首次承担 ISO 研究基金项目，信息安全标准与数字贸易成果发布",
-      "link": "https://www.ithome.com/1/017/947.htm",
-      "time": "10-26 16:16",
-      "src": "IT之家"
-    },
-    {
-      "title": "河北广平：聚焦规上工业企业提质增效 拓宽海外市场",
-      "link": "https://www.chinanews.com.cn/tp/2026/10-26/10721296.shtml",
-      "time": "10-26 20:36",
+      "title": "从老旧厂房到潮流地标 长沙老城更新激活消费新业态",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-26/10721412.shtml",
+      "time": "10-26 22:19",
       "src": "中新网"
     }
   ],
   "game_news": [
+    {
+      "title": "《影之刃零》游戏入围金摇杆奖",
+      "link": "https://www.ithome.com/1/018/174.htm",
+      "time": "10-26 22:49",
+      "src": "IT之家"
+    },
+    {
+      "title": "微软为 Surface Laptop Ultra 笔记本发布首个固件更新，修复屏幕闪烁、重启耗时过长问题",
+      "link": "https://www.ithome.com/1/018/166.htm",
+      "time": "10-26 22:02",
+      "src": "IT之家"
+    },
+    {
+      "title": "任天堂 Switch 2 首个越狱方案公开不久，已现非官方 YouTube 运行演示",
+      "link": "https://www.ithome.com/1/018/158.htm",
+      "time": "10-26 21:09",
+      "src": "IT之家"
+    },
+    {
+      "title": "机械师带来“星舰白”配色曙光 PRO MoDT 水冷整机，10 月 30 日发售",
+      "link": "https://www.ithome.com/1/018/154.htm",
+      "time": "10-26 21:00",
+      "src": "IT之家"
+    },
     {
       "title": "微软重新分工 Win11 硬件安全：Pluton 剥离 TPM 2.0 职能",
       "link": "https://www.ithome.com/1/018/142.htm",
@@ -1166,30 +1163,6 @@
       "link": "https://www.ithome.com/1/018/126.htm",
       "time": "10-26 19:07",
       "src": "IT之家"
-    },
-    {
-      "title": "微软 XBOX 放手：《漫威刀锋战士》开发商 Arkane Lyon 获额外一个月时间寻找收购方",
-      "link": "https://www.ithome.com/1/018/110.htm",
-      "time": "10-26 18:37",
-      "src": "IT之家"
-    },
-    {
-      "title": "首部三体宇宙授权 AI 互动影游《三体：审判前夜》上架 Steam，玩家将深入 ETO 总部",
-      "link": "https://www.ithome.com/1/018/038.htm",
-      "time": "10-26 17:37",
-      "src": "IT之家"
-    },
-    {
-      "title": "红龙 Light 75 Pro 客制化机械键盘发售：8KHz 回报率、支持三模连接，369 元起",
-      "link": "https://www.ithome.com/1/018/012.htm",
-      "time": "10-26 17:06",
-      "src": "IT之家"
-    },
-    {
-      "title": "游戏《莎木 3：增强版》跳票至明年初发售，登陆 PS5/XBOX Series / Switch 2 平台",
-      "link": "https://www.ithome.com/1/018/001.htm",
-      "time": "10-26 16:55",
-      "src": "IT之家"
     }
   ],
   "game_update": [
@@ -1198,13 +1171,6 @@
       "link": "https://www.gcores.com/articles/221502",
       "time": "10-26 19:57",
       "src": "机核",
-      "type": "不停机更新"
-    },
-    {
-      "title": "腾讯客服回应微信适配iPhone Duo：最新版本已支持",
-      "link": "https://finance.sina.com.cn/tech/it/2026-10-23/doc-iniwffek8281998.shtml",
-      "time": "10-23 18:16",
-      "src": "新浪科技",
       "type": "不停机更新"
     },
     {
@@ -1248,6 +1214,13 @@
       "time": "8-13",
       "type": "停机维护",
       "src": "腾讯官方"
+    },
+    {
+      "title": "《部落冲突》8/5 6:00 停机维护(预计180分钟): 周年庆版本上线, 维护后首领可领维护礼包",
+      "link": "https://new.qq.com/rain/a/20260804A0EYI300",
+      "time": "8-05",
+      "type": "停机维护",
+      "src": "腾讯官方"
     }
   ],
   "mil_news": [
@@ -1258,46 +1231,46 @@
       "src": "ISW"
     },
     {
-      "title": "大疆针对北京地区消费级无人机推出专属托管服务：最长可免费存储一年，后续每台每年 199 元",
-      "link": "https://www.ithome.com/1/018/015.htm",
-      "time": "10-26 17:14",
-      "src": "IT之家"
-    },
-    {
       "title": "Creative Assembly：《全面战争：幕府将军2》完全版系纯外包作品",
       "link": "https://www.gcores.com/articles/221467",
       "time": "10-26 09:10",
       "src": "机核"
     },
     {
+      "title": "美官员透露称美军已准备好再次大规模打击伊朗",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-26/10721428.shtml",
+      "time": "10-26 22:37",
+      "src": "中新网"
+    },
+    {
+      "title": "借鉴北约第四条 日本有意与澳法等国构建双边紧急磋商机制",
+      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261026-%E5%80%9F%E9%89%B4%E5%8C%97%E7%BA%A6%E7%AC%AC%E5%9B%9B%E6%9D%A1-%E6%97%A5%E6%9C%AC%E6%9C%89%E6%84%8F%E4%B8%8E%E6%BE%B3%E6%B3%95%E7%AD%89%E5%9B%BD%E6%9E%84%E5%BB%BA%E5%8F%8C%E8%BE%B9%E7%B4%A7%E6%80%A5%E7%A3%8B%E5%95%86%E6%9C%BA%E5%88%B6",
+      "time": "10-27 00:39",
+      "src": "© 美联社图片"
+    },
+    {
+      "title": "嘉手纳空军基地比亚迪车辆禁入令生效 其他驻日美军基地是否效仿未明",
+      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261026-%E5%98%89%E6%89%8B%E7%BA%B3%E7%A9%BA%E5%86%9B%E5%9F%BA%E5%9C%B0%E7%A6%81%E6%AD%A2%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%BD%A6%E8%BE%86%E8%BF%9B%E5%85%A5%E7%A6%81%E4%BB%A4%E7%94%9F%E6%95%88-%E5%85%B6%E4%BB%96%E9%A9%BB%E6%97%A5%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%E6%98%AF%E5%90%A6%E6%95%88%E4%BB%BF%E4%B8%8D%E6%98%8E%E7%A1%AE",
+      "time": "10-26 23:06",
+      "src": "© 法新社图片"
+    },
+    {
+      "title": "中共二十届五中全会召开 法媒聚焦习近平对军队高层的持续整肃",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20261026-%E4%B8%AD%E5%85%B1%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%8F%AC%E5%BC%80-%E6%B3%95%E5%AA%92%E8%81%9A%E7%84%A6%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E5%86%9B%E9%98%9F%E9%AB%98%E5%B1%82%E7%9A%84%E6%8C%81%E7%BB%AD%E6%95%B4%E8%82%83",
+      "time": "10-26 22:07",
+      "src": "法广RFI"
+    },
+    {
+      "title": "乌情报部门呼吁限制向俄军工综合体供应设备的中国厂商供应零部件",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261026-%E4%B9%8C%E5%9B%BD%E9%98%B2%E9%83%A8%E6%83%85%E6%8A%A5%E6%80%BB%E5%B1%80%E5%91%BC%E5%90%81%E9%99%90%E5%88%B6%E5%90%91%E4%BF%84%E5%86%9B%E5%B7%A5%E7%BB%BC%E5%90%88%E4%BD%93%E4%BE%9B%E5%BA%94%E8%AE%BE%E5%A4%87%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8E%82%E5%95%86%E4%BE%9B%E5%BA%94%E9%9B%B6%E9%83%A8%E4%BB%B6",
+      "time": "10-26 21:06",
+      "src": "© 美联社图片"
+    },
+    {
       "title": "中印边境再现波澜印官员指对峙持续 北京：望印方同中方相向而行",
       "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261026-%E4%B8%AD%E5%8D%B0%E8%BE%B9%E5%A2%83%E5%86%8D%E7%8E%B0%E6%B3%A2%E6%BE%9C%E5%8D%B0%E5%AE%98%E5%91%98%E6%8C%87%E5%AF%B9%E5%B3%99%E6%8C%81%E7%BB%AD-%E5%8C%97%E4%BA%AC-%E6%9C%9B%E5%8D%B0%E6%96%B9%E5%90%8C%E4%B8%AD%E6%96%B9%E7%9B%B8%E5%90%91%E8%80%8C%E8%A1%8C",
       "time": "10-26 19:21",
       "src": "© 路透社图片"
-    },
-    {
-      "title": "保加利亚总统选举：现任总统首轮领先 乌克兰战争凸显对俄分歧",
-      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261025-%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE-%E7%8E%B0%E4%BB%BB%E6%80%BB%E7%BB%9F%E9%A6%96%E8%BD%AE%E9%A2%86%E5%85%88-%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89%E5%87%B8%E6%98%BE%E5%AF%B9%E4%BF%84%E5%88%86%E6%AD%A7",
-      "time": "10-26 05:34",
-      "src": "REUTERS - Stoy"
-    },
-    {
-      "title": "印度阿鲁纳恰尔邦超大型水电项目引爆警民冲突",
-      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261025-%E5%8D%B0%E5%BA%A6%E9%98%BF%E9%B2%81%E7%BA%B3%E6%81%B0%E5%B0%94%E9%82%A6%E8%B6%85%E5%A4%A7%E5%9E%8B%E6%B0%B4%E7%94%B5%E9%A1%B9%E7%9B%AE%E5%BC%95%E7%88%86%E8%AD%A6%E6%B0%91%E5%86%B2%E7%AA%81",
-      "time": "10-26 01:51",
-      "src": "AP - Mustafa Q"
-    },
-    {
-      "title": "特朗普称即将决定：是与伊朗达成协议，还是重启军事行动",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-26/doc-iniwqhxm9178494.shtml",
-      "time": "10-26 20:19",
-      "src": "环球市场播报"
-    },
-    {
-      "title": "战争、安全与联盟博弈如何左右以色列大选",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-26/doc-iniwqarn2509707.shtml",
-      "time": "10-26 19:50",
-      "src": "环球市场播报"
     }
   ]
 }
