@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28 01:53",
+  "generated_at": "2026-10-28 06:03",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -257,27 +257,27 @@
         "src": "cnBeta.COM"
       },
       {
-        "title": "FFR正式纳斯达克挂牌上市：贾跃亭任CEO 10月机器人销量超300台",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1584008.htm",
-        "time": "10-27 15:50",
-        "src": "cnBeta.COM"
+        "title": "10月28日外盘头条：美联储预计将维持利率不变 博索纳罗巴西败选后据报正在飞往美国 甲骨文扩大与OpenAI合作",
+        "link": "https://finance.sina.com.cn/world/2026-10-28/doc-iniwtiah6761496.shtml",
+        "time": "10-28 05:58",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "10月28日收盘：纳指涨超1% 芯片股走强 市场静待美联储决议",
+        "link": "https://finance.sina.com.cn/world/2026-10-28/doc-iniwtiac4053626.shtml",
+        "time": "10-28 04:35",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "纽约汇市：美元上涨 市场静候美联储和加拿大央行利率决议",
+        "link": "https://finance.sina.com.cn/world/2026-10-28/doc-iniwtiac4046677.shtml",
+        "time": "10-28 04:03",
+        "src": "环球市场播报"
       },
       {
         "title": "斯蒂芬斯投行给予Mama’s Creations增持评级",
         "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-28/doc-iniwswnq3707504.shtml",
         "time": "10-28 01:04",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "标普全球考虑分拆旗下金融数据与AI业务部门",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwswns0125943.shtml",
-        "time": "10-27 23:33",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "美联储预计将维持利率不变 但沃什可能为更多加息指明方向",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwswnn6886381.shtml",
-        "time": "10-27 23:18",
         "src": "环球市场播报"
       }
     ]
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 52382.6,
-      "pct": 0.04,
-      "chg": 21.02,
-      "amount": "1065990247亿"
+      "price": 52377.57,
+      "pct": 0.03,
+      "chg": 15.99,
+      "amount": "2101284328亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 26473.27,
-      "pct": 1.16,
-      "chg": 303.89,
-      "amount": "11506054915亿"
+      "price": 26477.81,
+      "pct": 1.18,
+      "chg": 308.43,
+      "amount": "18842562120亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7722.54,
+      "price": 7722.6,
       "pct": 0.6,
-      "chg": 45.77,
-      "amount": "1057615302亿"
+      "chg": 45.83,
+      "amount": "2170775790亿"
     }
   ],
   "anime": {
@@ -555,37 +555,37 @@
     "hf": [
       {
         "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "likes": 3332,
+        "likes": 3359,
         "downloads": 105667,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "RecursiveSI/flint",
-        "likes": 953,
+        "likes": 963,
         "downloads": 10574,
         "pipeline": "text-generation"
       },
       {
         "id": "nvidia/simready-assets",
-        "likes": 639,
+        "likes": 660,
         "downloads": 625013,
         "pipeline": ""
       },
       {
         "id": "Nanbeige/Nanbeige4.3-33B",
-        "likes": 649,
+        "likes": 662,
         "downloads": 4785,
         "pipeline": "text-generation"
       },
       {
         "id": "XHToken/Spark-X2.6-4B",
-        "likes": 772,
+        "likes": 780,
         "downloads": 6191,
         "pipeline": "text-generation"
       },
       {
         "id": "black-forest-labs/flux-3-image-klein-comfy",
-        "likes": 1822,
+        "likes": 1848,
         "downloads": 750694,
         "pipeline": "image-to-image"
       }
@@ -1002,6 +1002,12 @@
   "anime_industry": {
     "news": [
       {
+        "title": "《GTA VI》下载容量或高达210GB 玩家需提前腾出大量存储空间",
+        "link": "https://www.cnbeta.com.tw/articles/game/1584084.htm",
+        "time": "10-28 03:52",
+        "src": "cnBeta.COM"
+      },
+      {
         "title": "《动画产业报告2025》: 市场规模达 3.84 万亿日元创历史新高, 海外占比约 56.5%",
         "link": "https://www.info35.net/hotopics/44871.html",
         "time": "精选",
@@ -1079,6 +1085,30 @@
   ],
   "econ_news": [
     {
+      "title": "恩智浦 2026 财年第三财季归母净利润 8.84 亿美元，同比增长 40%",
+      "link": "https://www.ithome.com/1/018/707.htm",
+      "time": "10-28 04:26",
+      "src": "IT之家"
+    },
+    {
+      "title": "希捷 2027 财年第一财季归母净利润 17.61 亿美元，同比增长 220.77%",
+      "link": "https://www.ithome.com/1/018/706.htm",
+      "time": "10-28 04:16",
+      "src": "IT之家"
+    },
+    {
+      "title": "罗技 2027 财年半年报归母净利润 4.16 亿美元，同比增长 31.28%",
+      "link": "https://www.ithome.com/1/018/705.htm",
+      "time": "10-28 04:12",
+      "src": "IT之家"
+    },
+    {
+      "title": "Visa 2026 财年年报归母净利润 235.04 亿美元，同比增长 17%",
+      "link": "https://www.ithome.com/1/018/704.htm",
+      "time": "10-28 04:09",
+      "src": "IT之家"
+    },
+    {
       "title": "京东 1 号会员店 10 月 28 日起调整会员权益：尊享卡返 2% 赠金，每月权益需消费解锁",
       "link": "https://www.ithome.com/1/018/698.htm",
       "time": "10-27 23:39",
@@ -1101,30 +1131,6 @@
       "link": "https://www.ithome.com/1/018/665.htm",
       "time": "10-27 21:17",
       "src": "IT之家"
-    },
-    {
-      "title": "中科曙光：第三季度归母净利润 7.53 亿元，同比增长 217.19%",
-      "link": "https://www.ithome.com/1/018/659.htm",
-      "time": "10-27 21:05",
-      "src": "IT之家"
-    },
-    {
-      "title": "PayPal 2026 财年前三季度营收 256.19 亿美元，净利润同比下降 13.3%",
-      "link": "https://www.ithome.com/1/018/608.htm",
-      "time": "10-27 19:07",
-      "src": "IT之家"
-    },
-    {
-      "title": "波音 2026 年第三季度营收 241.88 亿美元同比增长 4%：净亏损收窄至 1.16 亿美元，交付 161 架飞机而积压订单超 6300 架",
-      "link": "https://www.ithome.com/1/018/644.htm",
-      "time": "10-27 19:46",
-      "src": "IT之家"
-    },
-    {
-      "title": "卡普空公布最新财报数据，《识质存在》等新作表现亮眼",
-      "link": "https://www.gcores.com/articles/221548",
-      "time": "10-27 20:56",
-      "src": "机核"
     }
   ],
   "game_news": [
@@ -1256,10 +1262,16 @@
       "src": "cnBeta.COM"
     },
     {
-      "title": "阿里巴巴起诉美国防部获胜 特朗普政府一项禁令被叫停",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1584004.htm",
-      "time": "10-27 13:18",
-      "src": "cnBeta.COM"
+      "title": "美国欧盟等30国联合声明警告苏丹冲突恶化引发饥荒",
+      "link": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20261027-%E7%BE%8E%E5%9B%BD%E6%AC%A7%E7%9B%9F%E7%AD%8930%E5%9B%BD%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E%E8%AD%A6%E5%91%8A%E8%8B%8F%E4%B8%B9%E5%86%B2%E7%AA%81%E6%81%B6%E5%8C%96%E5%BC%95%E5%8F%91%E9%A5%A5%E8%8D%92",
+      "time": "10-28 04:31",
+      "src": "© AP2535253137"
+    },
+    {
+      "title": "伊朗总统访俄       会晤普京",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20261027-%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E8%AE%BF%E4%BF%84-%E4%BC%9A%E6%99%A4%E6%99%AE%E4%BA%AC",
+      "time": "10-28 05:06",
+      "src": "Sergei Bobylev"
     },
     {
       "title": "以色列：10·7恐袭后首次大选 关乎内塔尼亚胡政治前途之战 ？",
@@ -1268,22 +1280,16 @@
       "src": "法广RFI"
     },
     {
-      "title": "德国总理访日 或与日本讨论德国参加日英意下一代战机开发",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261027-%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%90%86%E8%AE%BF%E6%97%A5-%E6%88%96%E4%B8%8E%E6%97%A5%E6%9C%AC%E8%AE%A8%E8%AE%BA%E5%BE%B7%E5%9B%BD%E5%8F%82%E5%8A%A0%E6%97%A5%E8%8B%B1%E6%84%8F%E4%B8%8B%E4%B8%80%E4%BB%A3%E6%88%98%E6%9C%BA%E5%BC%80%E5%8F%91",
-      "time": "10-27 16:54",
-      "src": "REUTERS - Anne"
+      "title": "原油：油价继续回落 中东外交活动升温 市场等待以色列大选结果",
+      "link": "https://finance.sina.com.cn/world/2026-10-28/doc-iniwtiac4058836.shtml",
+      "time": "10-28 05:10",
+      "src": "环球市场播报"
     },
     {
-      "title": "周二以色列议会选举 内塔尼亚胡极右翼政府受检验",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20261026-%E5%91%A8%E4%BA%8C%E4%BB%A5%E8%89%B2%E5%88%97%E8%AE%AE%E4%BC%9A%E9%80%89%E4%B8%BE-%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E6%9E%81%E5%8F%B3%E7%BF%BC%E6%94%BF%E5%BA%9C%E5%8F%97%E6%A3%80%E9%AA%8C",
-      "time": "10-27 04:10",
-      "src": "法广RFI"
-    },
-    {
-      "title": "以在希伯伦的军事行动：联合国警告存在“种族清洗”风险",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20261026-%E4%BB%A5%E5%9C%A8%E5%B8%8C%E4%BC%AF%E4%BC%A6%E7%9A%84%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8-%E8%81%94%E5%90%88%E5%9B%BD%E8%AD%A6%E5%91%8A%E5%AD%98%E5%9C%A8-%E7%A7%8D%E6%97%8F%E6%B8%85%E6%B4%97-%E9%A3%8E%E9%99%A9",
-      "time": "10-27 05:08",
-      "src": "© Mahmoud Ille"
+      "title": "国防科技公司Anduril创始人：即使民主党大胜 美国国防开支料仍稳定",
+      "link": "https://finance.sina.com.cn/world/2026-10-28/doc-iniwtiah6708826.shtml",
+      "time": "10-28 03:53",
+      "src": "环球市场播报"
     }
   ]
 }
