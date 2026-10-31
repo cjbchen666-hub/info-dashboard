@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01 02:24",
+  "generated_at": "2026-11-01 07:15",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,6 +233,12 @@
     ],
     "news": [
       {
+        "title": "消息称 Meta 与中国企业傅利叶打造人形机器人原型，号称 Muse 模型的物理化身",
+        "link": "https://www.ithome.com/1/020/636.htm",
+        "time": "11-01 07:12",
+        "src": "IT之家"
+      },
+      {
         "title": "AI 基建掀起军备竞赛：微软、谷歌、甲骨文等巨头承诺投入超 3 万亿美元",
         "link": "https://www.ithome.com/1/020/632.htm",
         "time": "10-31 23:56",
@@ -272,12 +278,6 @@
         "title": "大摩：美高梅中国维持“增持”评级 目标价12港元",
         "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-10-31/doc-inixcsqr3732786.shtml",
         "time": "10-31 21:40",
-        "src": "新浪港股"
-      },
-      {
-        "title": "大摩：潍柴动力维持“增持”评级 目标价46港元",
-        "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-10-31/doc-inixcsqp7277896.shtml",
-        "time": "10-31 21:29",
         "src": "新浪港股"
       }
     ]
@@ -327,7 +327,7 @@
         "score": 7.5,
         "img": "http://lain.bgm.tv/pic/cover/c/0f/0f/623249_zCdly.jpg",
         "air_date": "2026-10-11",
-        "rank": 1213
+        "rank": 1145
       },
       {
         "id": 555605,
@@ -336,7 +336,7 @@
         "score": 7.4,
         "img": "http://lain.bgm.tv/pic/cover/c/67/5a/555605_cLCw5.jpg",
         "air_date": "2026-10-04",
-        "rank": 1474
+        "rank": 1464
       },
       {
         "id": 664395,
@@ -354,7 +354,7 @@
         "score": 6.6,
         "img": "http://lain.bgm.tv/pic/cover/c/44/ed/634210_O7aNK.jpg",
         "air_date": "2026-10-04",
-        "rank": 3748
+        "rank": 3759
       },
       {
         "id": 715907,
@@ -372,7 +372,7 @@
         "score": 6.3,
         "img": "http://lain.bgm.tv/pic/cover/c/f1/6c/548156_L3fC6.jpg",
         "air_date": "2026-10-04",
-        "rank": 6276
+        "rank": 6244
       },
       {
         "id": 630160,
@@ -381,7 +381,7 @@
         "score": 6.3,
         "img": "http://lain.bgm.tv/pic/cover/c/9e/b5/630160_tL25y.jpg",
         "air_date": "2026-10-04",
-        "rank": 6179
+        "rank": 6231
       },
       {
         "id": 688797,
@@ -408,7 +408,7 @@
         "score": 6.0,
         "img": "http://lain.bgm.tv/pic/cover/c/94/c9/636023_iF8j7.jpg",
         "air_date": "2026-10-04",
-        "rank": 7035
+        "rank": 7136
       },
       {
         "id": 712000,
@@ -426,7 +426,7 @@
         "score": 5.9,
         "img": "http://lain.bgm.tv/pic/cover/c/95/5d/664389_zP36V.jpg",
         "air_date": "2026-10-11",
-        "rank": 5788
+        "rank": 5908
       },
       {
         "id": 536270,
@@ -435,7 +435,7 @@
         "score": 5.8,
         "img": "http://lain.bgm.tv/pic/cover/c/3e/fc/536270_51P45.jpg",
         "air_date": "2026-10-04",
-        "rank": 7814
+        "rank": 7803
       },
       {
         "id": 605533,
@@ -444,7 +444,7 @@
         "score": 5.7,
         "img": "http://lain.bgm.tv/pic/cover/c/d1/e7/605533_97NSn.jpg",
         "air_date": "2026-10-04",
-        "rank": 6515
+        "rank": 6629
       },
       {
         "id": 638081,
@@ -498,7 +498,7 @@
         "score": 5.3,
         "img": "http://lain.bgm.tv/pic/cover/c/af/7e/656083_B22Yt.jpg",
         "air_date": "2026-10-04",
-        "rank": 9236
+        "rank": 9283
       },
       {
         "id": 636058,
@@ -585,6 +585,18 @@
   "ai": {
     "news_zh": [
       {
+        "title": "消息称 Meta 与中国企业傅利叶打造人形机器人原型，号称 Muse 模型的物理化身",
+        "link": "https://www.ithome.com/1/020/636.htm",
+        "time": "11-01 07:12",
+        "src": "IT之家"
+      },
+      {
+        "title": "美国白宫科学与技术顾问会议主席：Anthropic 很可能成为资本主义历史最伟大企业",
+        "link": "https://www.ithome.com/1/020/633.htm",
+        "time": "11-01 06:56",
+        "src": "IT之家"
+      },
+      {
         "title": "AI 基建掀起军备竞赛：微软、谷歌、甲骨文等巨头承诺投入超 3 万亿美元",
         "link": "https://www.ithome.com/1/020/632.htm",
         "time": "10-31 23:56",
@@ -619,54 +631,42 @@
         "link": "https://www.ithome.com/1/020/610.htm",
         "time": "10-31 21:10",
         "src": "IT之家"
-      },
-      {
-        "title": "无界动力与京东达成战略合作，机器人 K15 上岗七鲜咖啡",
-        "link": "https://www.ithome.com/1/020/598.htm",
-        "time": "10-31 20:13",
-        "src": "IT之家"
-      },
-      {
-        "title": "存储芯片短缺加剧之际，OpenAI 奥尔特曼赴韩与约 50 名三星高管会面",
-        "link": "https://www.ithome.com/1/020/597.htm",
-        "time": "10-31 20:10",
-        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "nvidia/simready-assets",
-        "likes": 1079,
+        "likes": 1091,
         "downloads": 933918,
         "pipeline": ""
       },
       {
         "id": "Nanbeige/Nanbeige4.3-33B",
-        "likes": 848,
+        "likes": 865,
         "downloads": 13832,
         "pipeline": "text-generation"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "likes": 4082,
+        "likes": 4102,
         "downloads": 156373,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "LiquidAI/LFM3-1.7B",
-        "likes": 620,
+        "likes": 630,
         "downloads": 32933,
         "pipeline": "text-generation"
       },
       {
         "id": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
-        "likes": 532,
+        "likes": 543,
         "downloads": 24357,
         "pipeline": "automatic-speech-recognition"
       },
       {
         "id": "mistralai/Mistral-Large-4-1T-A52B",
-        "likes": 1390,
+        "likes": 1403,
         "downloads": 2945,
         "pipeline": "image-text-to-text"
       }
@@ -1083,6 +1083,12 @@
   "anime_industry": {
     "news": [
       {
+        "title": "金标联盟发布 SharedView Kit 一镜到底 / 无缝动画，荣耀、OPPO、vivo、小米联合推动",
+        "link": "https://www.ithome.com/1/020/634.htm",
+        "time": "11-01 06:56",
+        "src": "IT之家"
+      },
+      {
         "title": "爱好者在破解PS5运行《宝可梦：Pokopia》 画面仍有严重错误",
         "link": "https://www.cnbeta.com.tw/articles/game/1584514.htm",
         "time": "10-31 15:36",
@@ -1115,6 +1121,12 @@
     ]
   },
   "intl_news": [
+    {
+      "title": "美国白宫科学与技术顾问会议主席：Anthropic 很可能成为资本主义历史最伟大企业",
+      "link": "https://www.ithome.com/1/020/633.htm",
+      "time": "11-01 06:56",
+      "src": "IT之家"
+    },
     {
       "title": "鸿海董事长刘扬伟：预计未来数年攻下全球 AI 服务器半壁江山",
       "link": "https://www.ithome.com/1/020/627.htm",
@@ -1156,12 +1168,6 @@
       "link": "https://www.gcores.com/articles/221736",
       "time": "10-31 12:32",
       "src": "机核"
-    },
-    {
-      "title": "伊朗外长：目前没有与美国官员会面的计划",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-31/10724122.shtml",
-      "time": "10-31 23:14",
-      "src": "中新网"
     }
   ],
   "econ_news": [
@@ -1178,15 +1184,15 @@
       "src": "IT之家"
     },
     {
-      "title": "“十四五”时期广西财政累计下达水库移民相关资金181.79亿元",
-      "link": "https://www.chinanews.com.cn/gn/2026/10-31/10724093.shtml",
-      "time": "10-31 22:07",
+      "title": "二十国集团外长会未就地缘和经济安全问题达成共识",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-01/10724125.shtml",
+      "time": "11-01 06:29",
       "src": "中新网"
     },
     {
-      "title": "湖南株洲以“市+集+秀”激活时尚消费新生态",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-31/10724087.shtml",
-      "time": "10-31 21:46",
+      "title": "“十四五”时期广西财政累计下达水库移民相关资金181.79亿元",
+      "link": "https://www.chinanews.com.cn/gn/2026/10-31/10724093.shtml",
+      "time": "10-31 22:07",
       "src": "中新网"
     },
     {
@@ -1208,13 +1214,19 @@
       "src": "cnBeta.COM"
     },
     {
-      "title": "AI浪潮意外带火磁带存储 富士胶片投资6400万美元大幅扩产",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1584492.htm",
-      "time": "10-31 02:54",
-      "src": "cnBeta.COM"
+      "title": "四方安全对话外长联合声明　未点名剑指中国经济政策",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261031-%E5%9B%9B%E6%96%B9%E5%AE%89%E5%85%A8%E5%AF%B9%E8%AF%9D%E5%A4%96%E9%95%BF%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E-%E6%9C%AA%E7%82%B9%E5%90%8D%E5%89%91%E6%8C%87%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%94%BF%E7%AD%96",
+      "time": "11-01 04:04",
+      "src": "© via REUTERS "
     }
   ],
   "game_news": [
+    {
+      "title": "微软 Turn 10 与 Playground Games 游戏工作室合并，《极限竞速》负责人 Dan Greenawalt 辞职",
+      "link": "https://www.ithome.com/1/020/635.htm",
+      "time": "11-01 07:06",
+      "src": "IT之家"
+    },
     {
       "title": "AI 基建掀起军备竞赛：微软、谷歌、甲骨文等巨头承诺投入超 3 万亿美元",
       "link": "https://www.ithome.com/1/020/632.htm",
@@ -1243,12 +1255,6 @@
       "title": "机械革命推出 JG02M 与 JG03M 电竞鼠标：54g 轻量化，79.9 元起",
       "link": "https://www.ithome.com/1/020/578.htm",
       "time": "10-31 18:23",
-      "src": "IT之家"
-    },
-    {
-      "title": "索尼招聘 PlayStation 高级总监，负责 PS 商店“智能定价”",
-      "link": "https://www.ithome.com/1/020/575.htm",
-      "time": "10-31 18:08",
       "src": "IT之家"
     },
     {
@@ -1348,6 +1354,12 @@
       "src": "少数派"
     },
     {
+      "title": "法国32万人参与第三轮示威，抗议期间发生了冲突",
+      "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261031-%E6%B3%95%E5%9B%BD32%E4%B8%87%E4%BA%BA%E5%8F%82%E4%B8%8E%E7%AC%AC%E4%B8%89%E8%BD%AE%E7%A4%BA%E5%A8%81%EF%BC%8C%E6%8A%97%E8%AE%AE%E6%9C%9F%E9%97%B4%E5%8F%91%E7%94%9F%E4%BA%86%E5%86%B2%E7%AA%81",
+      "time": "11-01 06:19",
+      "src": "AP Photo/Teres"
+    },
+    {
       "title": "糟糕的中期选举结果 可能促使特朗普对伊朗发动大规模攻击",
       "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261031-%E7%B3%9F%E7%B3%95%E7%9A%84%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C-%E5%8F%AF%E8%83%BD%E4%BF%83%E4%BD%BF%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%94%BB%E5%87%BB",
       "time": "11-01 02:19",
@@ -1360,15 +1372,9 @@
       "src": "© Bruno Faure "
     },
     {
-      "title": "G20外长会议卢比奥接待同行，因冲突蒙上阴影",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261030-g20%E5%A4%96%E9%95%BF%E4%BC%9A%E8%AE%AE%E5%8D%A2%E6%AF%94%E5%A5%A5%E6%8E%A5%E5%BE%85%E5%90%8C%E8%A1%8C%EF%BC%8C%E5%9B%A0%E5%86%B2%E7%AA%81%E8%92%99%E4%B8%8A%E9%98%B4%E5%BD%B1",
-      "time": "10-31 01:00",
-      "src": "Megan Varner/P"
-    },
-    {
-      "title": "伊朗官员：伊方目前尚未作出任何新的修改核战略的决定",
-      "link": "https://finance.sina.com.cn/jjxw/2026-11-01/doc-inixecee4547411.shtml",
-      "time": "11-01 01:39",
+      "title": "伊朗军方称已制定新的“敌方目标与资产清单”",
+      "link": "https://finance.sina.com.cn/jjxw/2026-11-01/doc-inixeini3447989.shtml",
+      "time": "11-01 05:00",
       "src": "央视"
     }
   ]
