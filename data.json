@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02 23:28",
+  "generated_at": "2026-11-03 07:23",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -129,9 +129,9 @@
       }
     ],
     "status": {
-      "state": "已收盘",
-      "label": "今日已收盘",
-      "date": "2026-11-02"
+      "state": "未开盘",
+      "label": "今日尚未开盘",
+      "date": "2026-11-03"
     },
     "watch": [
       {
@@ -251,24 +251,6 @@
         "src": "IT之家"
       },
       {
-        "title": "宇树机器人 G1 因过热退出登泰山大赛，被担架抬下山",
-        "link": "https://www.ithome.com/1/021/222.htm",
-        "time": "11-02 18:03",
-        "src": "IT之家"
-      },
-      {
-        "title": "Anthropic 以“蚂蚁”为代号冲刺 IPO，昆虫学者有话要说",
-        "link": "https://www.ithome.com/1/021/194.htm",
-        "time": "11-02 17:46",
-        "src": "IT之家"
-      },
-      {
-        "title": "450 亿美元 2 座晶圆厂：美国得州谢尔曼收获国际半导体业者建厂意向",
-        "link": "https://www.ithome.com/1/021/189.htm",
-        "time": "11-02 17:44",
-        "src": "IT之家"
-      },
-      {
         "title": "证监会：在风险总体可控的基础上，适度释放融资空间",
         "link": "https://www.chinanews.com.cn/cj/2026/11-02/10725063.shtml",
         "time": "11-02 22:14",
@@ -279,6 +261,24 @@
         "link": "https://www.chinanews.com.cn/cj/2026/11-02/10725054.shtml",
         "time": "11-02 22:13",
         "src": "中新网"
+      },
+      {
+        "title": "苹果J595家用机器人项目遭遇内部分歧 软件研发进展缓慢",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1584760.htm",
+        "time": "11-03 00:03",
+        "src": "cnBeta.COM"
+      },
+      {
+        "title": "韩国出口额逼近万亿美元大关 AI存储芯片热潮成最大推手",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1584732.htm",
+        "time": "11-02 20:31",
+        "src": "cnBeta.COM"
+      },
+      {
+        "title": "宇树机器人因过热退出登泰山大赛 被担架抬下山",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1584720.htm",
+        "time": "11-02 18:14",
+        "src": "cnBeta.COM"
       }
     ]
   },
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 52394.33,
-      "pct": 1.21,
-      "chg": 624.02,
-      "amount": "570116790亿"
+      "price": 51983.98,
+      "pct": 0.41,
+      "chg": 213.67,
+      "amount": "2722905896亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 25793.4,
-      "pct": 1.4,
-      "chg": 356.4,
-      "amount": "6297520689亿"
+      "price": 25164.36,
+      "pct": -1.07,
+      "chg": -272.64,
+      "amount": "20137539885亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7660.39,
-      "pct": 1.06,
-      "chg": 80.32,
-      "amount": "485541907亿"
+      "price": 7541.4,
+      "pct": -0.51,
+      "chg": -38.67,
+      "amount": "2683672008亿"
     }
   ],
   "anime": {
@@ -327,7 +327,7 @@
         "score": 6.8,
         "img": "http://lain.bgm.tv/pic/cover/c/c6/8d/624085_5dXDL.jpg",
         "air_date": "2026-10-06",
-        "rank": 3405
+        "rank": 3380
       },
       {
         "id": 625799,
@@ -336,7 +336,7 @@
         "score": 6.3,
         "img": "http://lain.bgm.tv/pic/cover/c/af/3a/625799_ycox6.jpg",
         "air_date": "2026-10-06",
-        "rank": 6418
+        "rank": 6442
       },
       {
         "id": 593565,
@@ -345,7 +345,7 @@
         "score": 5.7,
         "img": "http://lain.bgm.tv/pic/cover/c/af/c1/593565_nno0j.jpg",
         "air_date": "2026-10-06",
-        "rank": 8065
+        "rank": 8052
       },
       {
         "id": 513878,
@@ -354,7 +354,7 @@
         "score": 5.5,
         "img": "http://lain.bgm.tv/pic/cover/c/db/94/513878_5f77g.jpg",
         "air_date": "2026-10-20",
-        "rank": 9441
+        "rank": 9450
       },
       {
         "id": 634708,
@@ -363,7 +363,7 @@
         "score": 5.3,
         "img": "http://lain.bgm.tv/pic/cover/c/39/84/634708_NnWAS.jpg",
         "air_date": "2026-10-06",
-        "rank": 9340
+        "rank": 9352
       },
       {
         "id": 505550,
@@ -372,7 +372,7 @@
         "score": 5.0,
         "img": "http://lain.bgm.tv/pic/cover/c/84/86/505550_OLQmz.jpg",
         "air_date": "2026-10-13",
-        "rank": 9179
+        "rank": 9346
       },
       {
         "id": 541538,
@@ -381,7 +381,7 @@
         "score": 4.8,
         "img": "http://lain.bgm.tv/pic/cover/c/ee/12/541538_LxzAg.jpg",
         "air_date": "2026-10-03",
-        "rank": 8771
+        "rank": 8772
       },
       {
         "id": 584847,
@@ -390,7 +390,7 @@
         "score": 4.8,
         "img": "http://lain.bgm.tv/pic/cover/c/83/49/584847_5nM0F.jpg",
         "air_date": "2026-10-13",
-        "rank": 10006
+        "rank": 10007
       },
       {
         "id": 544378,
@@ -477,6 +477,24 @@
   "ai": {
     "news_zh": [
       {
+        "title": "腾讯 TenPay Global 与万事达卡签署合作备忘录，入境扫码支付、汇款与智能体支付同步推进",
+        "link": "https://www.ithome.com/1/021/294.htm",
+        "time": "11-03 07:20",
+        "src": "IT之家"
+      },
+      {
+        "title": "人均月烧 10 万美元，Anthropic 员工成本曝光",
+        "link": "https://www.ithome.com/1/021/291.htm",
+        "time": "11-03 07:15",
+        "src": "IT之家"
+      },
+      {
+        "title": "Anthropic 高付费客户超 1.19 万家，净收入留存率达 900%",
+        "link": "https://www.ithome.com/1/021/285.htm",
+        "time": "11-03 06:43",
+        "src": "IT之家"
+      },
+      {
         "title": "Anthropic 第三季度营收 170 亿美元同比暴涨 11 倍，冲刺史上最大 IPO",
         "link": "https://www.ithome.com/1/021/277.htm",
         "time": "11-02 23:02",
@@ -505,60 +523,42 @@
         "link": "https://www.ithome.com/1/021/255.htm",
         "time": "11-02 20:16",
         "src": "IT之家"
-      },
-      {
-        "title": "首届 CMG 世界机器人登泰山大赛收官，宇树斩获 1 金 2 银",
-        "link": "https://www.ithome.com/1/021/250.htm",
-        "time": "11-02 19:54",
-        "src": "IT之家"
-      },
-      {
-        "title": "黑客研发新型恶意木马 VOLTA，用 AI 分析受害者是否值得入侵",
-        "link": "https://www.ithome.com/1/021/249.htm",
-        "time": "11-02 19:53",
-        "src": "IT之家"
-      },
-      {
-        "title": "沃顿教授：转行技工难以抵御 AI 冲击，四类核心能力才是破局关键",
-        "link": "https://www.ithome.com/1/021/246.htm",
-        "time": "11-02 19:33",
-        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "nvidia/simready-assets",
-        "likes": 1240,
+        "likes": 1262,
         "downloads": 1213121,
         "pipeline": ""
       },
       {
-        "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "likes": 4626,
-        "downloads": 177009,
-        "pipeline": "image-text-to-text"
-      },
-      {
         "id": "LiquidAI/LFM3-1.7B",
-        "likes": 785,
+        "likes": 990,
         "downloads": 42384,
         "pipeline": "text-generation"
       },
       {
+        "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "likes": 4694,
+        "downloads": 177009,
+        "pipeline": "image-text-to-text"
+      },
+      {
         "id": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
-        "likes": 653,
+        "likes": 677,
         "downloads": 32439,
         "pipeline": "automatic-speech-recognition"
       },
       {
         "id": "mistralai/Mistral-Large-4-1T-A52B",
-        "likes": 1479,
+        "likes": 1499,
         "downloads": 5500,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "baidu/Unlimited-OCR-2",
-        "likes": 550,
+        "likes": 561,
         "downloads": 147588,
         "pipeline": "image-text-to-text"
       }
@@ -732,6 +732,18 @@
   ],
   "hw_news": [
     {
+      "title": "AMD 核显路线图曝光：搭载 RDNA 5+ 的 Zen 7“Grimlock”处理器预计 2029 年登场",
+      "link": "https://www.ithome.com/1/021/288.htm",
+      "time": "11-03 07:01",
+      "src": "IT之家"
+    },
+    {
+      "title": "高通 HBC 完成验证：133 TB/s 内存带宽 18 倍于 AI200，AI250 明年上半年出样",
+      "link": "https://www.ithome.com/1/021/286.htm",
+      "time": "11-03 06:50",
+      "src": "IT之家"
+    },
+    {
       "title": "OpenAI CEO 奥尔特曼称个人电脑浪费内存遭全网声讨，马斯克也来补刀",
       "link": "https://www.ithome.com/1/021/274.htm",
       "time": "11-02 22:21",
@@ -762,10 +774,10 @@
       "src": "IT之家"
     },
     {
-      "title": "华硕 ROG 斯巴达 X 65K 鼠标上架预约：补贴到手价 1199 元起，11 月 9 日开售",
-      "link": "https://www.ithome.com/1/021/223.htm",
-      "time": "11-02 18:05",
-      "src": "IT之家"
+      "title": "奥特曼称个人PC用内存属于资源浪费 马斯克公开回怼",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1584768.htm",
+      "time": "11-03 06:55",
+      "src": "cnBeta.COM"
     },
     {
       "title": "英特尔被取消的Larrabee显卡原型机重见天日 甚至成功运行《孤岛危机》",
@@ -790,18 +802,6 @@
       "link": "https://www.cnbeta.com.tw/articles/tech/1584728.htm",
       "time": "11-02 20:10",
       "src": "cnBeta.COM"
-    },
-    {
-      "title": "消息称英伟达RTX 5080 24GB版最快12月上市 或接替中国市场现有高端型号",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1584684.htm",
-      "time": "11-02 14:42",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "TDS REVIEW｜Apple AirPods 5 半入耳降噪真无线耳机体验",
-      "link": "https://sspai.com/post/118122",
-      "time": "11-02 15:00",
-      "src": "少数派"
     }
   ],
   "kojima": {
@@ -1008,6 +1008,12 @@
   },
   "intl_news": [
     {
+      "title": "苹果警告德国政府人员的 iPhone 遭间谍软件攻击，受影响人数及幕后黑手尚不明确",
+      "link": "https://www.ithome.com/1/021/290.htm",
+      "time": "11-03 07:12",
+      "src": "IT之家"
+    },
+    {
       "title": "起亚汽车 10 月全球总销量达到 29.12 万辆，同比增长 10.3%",
       "link": "https://www.ithome.com/1/021/279.htm",
       "time": "11-02 23:19",
@@ -1020,43 +1026,67 @@
       "src": "IT之家"
     },
     {
-      "title": "450 亿美元 2 座晶圆厂：美国得州谢尔曼收获国际半导体业者建厂意向",
-      "link": "https://www.ithome.com/1/021/189.htm",
-      "time": "11-02 17:44",
-      "src": "IT之家"
-    },
-    {
-      "title": "聚焦AI时代人的意义 心理分析与中国文化国际学术论坛将举行",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-02/10725075.shtml",
-      "time": "11-02 23:00",
+      "title": "特朗普：美伊正在对话，“不急于”决定是否重启对伊战事",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-03/10725087.shtml",
+      "time": "11-03 06:53",
       "src": "中新网"
     },
     {
-      "title": "伊总统：伊朗最高领袖已赋予政府在谈判领域一定的权力",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-02/10725074.shtml",
-      "time": "11-02 22:55",
+      "title": "英国探险家历时28年徒步环球终返家乡",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-03/10725086.shtml",
+      "time": "11-03 06:52",
       "src": "中新网"
     },
     {
-      "title": "2026国际版权论坛敦煌开幕  聚焦数智时代版权与创意产业",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-02/10725011.shtml",
-      "time": "11-02 22:08",
+      "title": "英国推出新政：部分移民永居基准等候期上调至十年",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-03/10725085.shtml",
+      "time": "11-03 06:51",
       "src": "中新网"
     },
     {
-      "title": "首届国际事务专业“全球治理”案例大赛在沪收官 搭建学界与实务对话平台",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-02/10725050.shtml",
-      "time": "11-02 22:08",
+      "title": "美国中期选举将正式开选：“蓝潮将至”？还是共和党打破“选举魔咒”？",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-03/10725081.shtml",
+      "time": "11-03 06:35",
       "src": "中新网"
     },
     {
-      "title": "欧洲华媒代表“走读”长沙 感知科创开放文脉共生之美",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-02/10725051.shtml",
-      "time": "11-02 22:07",
+      "title": "冰箱变烤箱 欧洲多国超市冷柜再遭网络攻击",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-02/10725080.shtml",
+      "time": "11-02 23:56",
       "src": "中新网"
     }
   ],
   "econ_news": [
+    {
+      "title": "苹果最强第四财季：特努斯掌舵后首份财报，交出创纪录成绩单",
+      "link": "https://www.ithome.com/1/021/293.htm",
+      "time": "11-03 07:17",
+      "src": "IT之家"
+    },
+    {
+      "title": "人均月烧 10 万美元，Anthropic 员工成本曝光",
+      "link": "https://www.ithome.com/1/021/291.htm",
+      "time": "11-03 07:15",
+      "src": "IT之家"
+    },
+    {
+      "title": "苹果涨价后的首个财报：2026 财年第四财季 iPhone 营收暴增 17% 创纪录、Mac 猛增 24%",
+      "link": "https://www.ithome.com/1/021/287.htm",
+      "time": "11-03 07:00",
+      "src": "IT之家"
+    },
+    {
+      "title": "苹果 2026 财年归母净利润 1321.75 亿美元同比增长 18%，iPhone、Mac 和服务业务收入及大中华区净销售额均实现增长",
+      "link": "https://www.ithome.com/1/021/283.htm",
+      "time": "11-03 05:35",
+      "src": "IT之家"
+    },
+    {
+      "title": "安森美 2026 财年第三季度归母净利润 3.14 亿美元，同比增长 23.1%",
+      "link": "https://www.ithome.com/1/021/282.htm",
+      "time": "11-03 05:20",
+      "src": "IT之家"
+    },
     {
       "title": "Anthropic 第三季度营收 170 亿美元同比暴涨 11 倍，冲刺史上最大 IPO",
       "link": "https://www.ithome.com/1/021/277.htm",
@@ -1073,36 +1103,6 @@
       "title": "消息称罗马仕“重生计划”因债务搁浅，拟按三折清偿",
       "link": "https://www.ithome.com/1/021/264.htm",
       "time": "11-02 20:50",
-      "src": "IT之家"
-    },
-    {
-      "title": "Lumentum 2027 财年第一财季归母净利润 3.6 亿美元，同比增长 8478.57%",
-      "link": "https://www.ithome.com/1/021/260.htm",
-      "time": "11-02 20:31",
-      "src": "IT之家"
-    },
-    {
-      "title": "受内存短缺影响，16GB 版树莓派 5 价格上调 80 美元至 385 美元",
-      "link": "https://www.ithome.com/1/021/240.htm",
-      "time": "11-02 19:03",
-      "src": "IT之家"
-    },
-    {
-      "title": "海光发布 14XX 系列工业控制 CPU，支持 -40℃ ~ +105℃ 宽温",
-      "link": "https://www.ithome.com/1/021/239.htm",
-      "time": "11-02 19:01",
-      "src": "IT之家"
-    },
-    {
-      "title": "Meta 调整 VR 硬件优先级：将更多资源转向可穿戴设备和 AI 业务，降低消费级 VR 硬件优先级",
-      "link": "https://www.ithome.com/1/021/231.htm",
-      "time": "11-02 18:26",
-      "src": "IT之家"
-    },
-    {
-      "title": "谷歌母公司 Alphabet 年内第二次发行欧元债券，检验市场对其 AI 投入信心",
-      "link": "https://www.ithome.com/1/021/230.htm",
-      "time": "11-02 18:18",
       "src": "IT之家"
     }
   ],
@@ -1126,34 +1126,34 @@
       "src": "IT之家"
     },
     {
-      "title": "铺路再接再厉：开发者放出微软 Lumia 950 XL 刷苹果 iOS 16.7.16 脚本方案",
-      "link": "https://www.ithome.com/1/021/235.htm",
-      "time": "11-02 18:40",
-      "src": "IT之家"
-    },
-    {
-      "title": "RPCS3 模拟器里程碑：几乎所有 PS3 单机游戏均已可在电脑上运行",
-      "link": "https://www.ithome.com/1/021/233.htm",
-      "time": "11-02 18:30",
-      "src": "IT之家"
-    },
-    {
-      "title": "开发者将任天堂经典游戏《超级马力欧 64》移植至 Pico 头显：可将马力欧“抓出屏幕”",
-      "link": "https://www.ithome.com/1/021/229.htm",
-      "time": "11-02 18:17",
-      "src": "IT之家"
-    },
-    {
-      "title": "桌面战棋游戏《辐射：战争》将于本月推出 XR 版本，登陆 XREAL Aura 平台",
-      "link": "https://www.ithome.com/1/021/221.htm",
-      "time": "11-02 18:02",
-      "src": "IT之家"
-    },
-    {
       "title": "智影工坊｜“为什么不试试独立游戏呢”讲座在北京电影学院举办",
       "link": "https://www.gcores.com/articles/221816",
       "time": "11-02 17:00",
       "src": "机核"
+    },
+    {
+      "title": "微软撤资后项目重启：《毁灭战士》之父新作签下全新发行商",
+      "link": "https://www.gcores.com/articles/221815",
+      "time": "11-02 16:46",
+      "src": "机核"
+    },
+    {
+      "title": "Anthropic更新Claude规则，禁止换皮现有游戏",
+      "link": "https://www.gcores.com/articles/221811",
+      "time": "11-02 16:02",
+      "src": "机核"
+    },
+    {
+      "title": "《小偷模拟器》“私人收藏”DLC将于本月发售",
+      "link": "https://www.gcores.com/articles/221789",
+      "time": "11-02 08:40",
+      "src": "机核"
+    },
+    {
+      "title": "上海哲学社会科学“五大文库”书籍在台湾发售",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-02/10725056.shtml",
+      "time": "11-02 22:12",
+      "src": "中新网"
     }
   ],
   "game_update": [
@@ -1222,16 +1222,16 @@
       "src": "ISW"
     },
     {
-      "title": "桌面战棋游戏《辐射：战争》将于本月推出 XR 版本，登陆 XREAL Aura 平台",
-      "link": "https://www.ithome.com/1/021/221.htm",
-      "time": "11-02 18:02",
-      "src": "IT之家"
-    },
-    {
       "title": "译介存档｜松野泰己的战争史诗 Vol.17",
       "link": "https://www.gcores.com/radios/221803",
       "time": "11-02 07:00",
       "src": "机核"
+    },
+    {
+      "title": "也门胡塞武装称塔伊兹省一市场遭袭 造成多人死伤",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-03/10725090.shtml",
+      "time": "11-03 07:18",
+      "src": "中新网"
     },
     {
       "title": "伊总统：伊朗最高领袖已赋予政府在谈判领域一定的权力",
@@ -1252,16 +1252,16 @@
       "src": "少数派"
     },
     {
+      "title": "伊朗提议两天内重新开放霍尔木兹海峡，但提出附加条件",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261102-%E4%BC%8A%E6%9C%97%E6%8F%90%E8%AE%AE%E4%B8%A4%E5%A4%A9%E5%86%85%E9%87%8D%E6%96%B0%E5%BC%80%E6%94%BE%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%EF%BC%8C%E4%BD%86%E6%8F%90%E5%87%BA%E9%99%84%E5%8A%A0%E6%9D%A1%E4%BB%B6",
+      "time": "11-03 07:13",
+      "src": "AFP - ATTA KEN"
+    },
+    {
       "title": "路透: 伊朗全球隐秘军购网络成功绕过美国的封锁",
       "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261102-%E8%B7%AF%E9%80%8F-%E4%BC%8A%E6%9C%97%E5%85%A8%E7%90%83%E9%9A%90%E7%A7%98%E5%86%9B%E8%B4%AD%E7%BD%91%E7%BB%9C%E6%88%90%E5%8A%9F%E7%BB%95%E8%BF%87%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%B0%81%E9%94%81",
       "time": "11-02 22:39",
       "src": "© Atta Kenare "
-    },
-    {
-      "title": "特朗普发出威胁后，伊朗警告称新一轮战争可能旷日持久",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261101-%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81%E5%90%8E%EF%BC%8C%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E7%A7%B0%E6%96%B0%E4%B8%80%E8%BD%AE%E6%88%98%E4%BA%89%E5%8F%AF%E8%83%BD%E6%97%B7%E6%97%A5%E6%8C%81%E4%B9%85",
-      "time": "11-02 00:31",
-      "src": "AFP - ATTA KEN"
     }
   ]
 }
