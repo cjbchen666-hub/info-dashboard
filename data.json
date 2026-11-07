@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07 03:16",
+  "generated_at": "2026-11-07 08:01",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,6 +233,18 @@
     ],
     "news": [
       {
+        "title": "消息称 OpenAI 完成 110 亿美元首期新融资，估值 1.25 万亿美元",
+        "link": "https://www.ithome.com/1/023/612.htm",
+        "time": "11-07 07:24",
+        "src": "IT之家"
+      },
+      {
+        "title": "消息称微软不再续签甲骨文 AI 算力租赁协议，重新评估超 800 亿美元云合作",
+        "link": "https://www.ithome.com/1/023/606.htm",
+        "time": "11-07 06:44",
+        "src": "IT之家"
+      },
+      {
         "title": "美股 AI 硬件股集体反弹，费城半导体指数涨 6.5%",
         "link": "https://www.ithome.com/1/023/564.htm",
         "time": "11-06 22:58",
@@ -245,10 +257,10 @@
         "src": "IT之家"
       },
       {
-        "title": "智元发布灵犀 X2 焕新版机器人，可用于展馆文旅、导览导购、服务零售、文娱商演等场景",
-        "link": "https://www.ithome.com/1/023/497.htm",
-        "time": "11-06 18:09",
-        "src": "IT之家"
+        "title": "中国证监会同意葵花籽油、氢氧化锂期货和期权注册",
+        "link": "https://www.chinanews.com.cn/cj/2026/11-07/10727741.shtml",
+        "time": "11-07 07:44",
+        "src": "中新网"
       },
       {
         "title": "台企在江苏无锡开建AI算力高端电子基板材料研发制造总部",
@@ -267,18 +279,6 @@
         "link": "https://www.cnbeta.com.tw/articles/tech/1585256.htm",
         "time": "11-06 15:05",
         "src": "cnBeta.COM"
-      },
-      {
-        "title": "华尔街连夜找“安全带”：恐慌指数飙近70% AI股一夜蒸发2.5万亿美元",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1585248.htm",
-        "time": "11-06 15:00",
-        "src": "cnBeta.COM"
-      },
-      {
-        "title": "日本央行行长称尚不清楚2%的通胀率能维持多久",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixvwak8450303.shtml",
-        "time": "11-07 02:51",
-        "src": "环球市场播报"
       }
     ]
   },
@@ -294,26 +294,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 51478.78,
-      "pct": -0.09,
-      "chg": -44.28,
-      "amount": "1581194486亿"
+      "price": 51285.73,
+      "pct": -0.46,
+      "chg": -237.33,
+      "amount": "2687976117亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 24657.51,
-      "pct": 1.41,
-      "chg": 342.51,
-      "amount": "16168458520亿"
+      "price": 24579.42,
+      "pct": 1.09,
+      "chg": 264.42,
+      "amount": "23069605451亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7404.82,
-      "pct": 0.69,
-      "chg": 51.09,
-      "amount": "1380289916亿"
+      "price": 7376.86,
+      "pct": 0.31,
+      "chg": 23.13,
+      "amount": "2515842929亿"
     }
   ],
   "anime": {
@@ -327,7 +327,7 @@
         "score": 7.9,
         "img": "http://lain.bgm.tv/pic/cover/c/be/e7/567896_QqwKj.jpg",
         "air_date": "2026-10-03",
-        "rank": 493
+        "rank": 482
       },
       {
         "id": 554779,
@@ -336,7 +336,7 @@
         "score": 7.7,
         "img": "http://lain.bgm.tv/pic/cover/c/17/c7/554779_oPitO.jpg",
         "air_date": "2026-10-03",
-        "rank": 624
+        "rank": 621
       },
       {
         "id": 899,
@@ -345,7 +345,7 @@
         "score": 7.5,
         "img": "http://lain.bgm.tv/pic/cover/c/01/88/899_REwVW.jpg",
         "air_date": "1996-01-08",
-        "rank": 908
+        "rank": 906
       },
       {
         "id": 637802,
@@ -354,7 +354,7 @@
         "score": 7.5,
         "img": "http://lain.bgm.tv/pic/cover/c/7a/49/637802_YVTam.jpg",
         "air_date": "2026-10-03",
-        "rank": 1076
+        "rank": 1067
       },
       {
         "id": 507820,
@@ -372,7 +372,7 @@
         "score": 6.5,
         "img": "http://lain.bgm.tv/pic/cover/c/f9/ae/616808_F80Sl.jpg",
         "air_date": "2026-10-03",
-        "rank": 5171
+        "rank": 5163
       },
       {
         "id": 456078,
@@ -381,7 +381,7 @@
         "score": 6.2,
         "img": "http://lain.bgm.tv/pic/cover/c/f5/6b/456078_jtjPi.jpg",
         "air_date": "2026-10-03",
-        "rank": 6497
+        "rank": 6482
       },
       {
         "id": 559080,
@@ -408,7 +408,7 @@
         "score": 5.7,
         "img": "http://lain.bgm.tv/pic/cover/c/61/81/542007_wNKJa.jpg",
         "air_date": "2026-10-03",
-        "rank": 7868
+        "rank": 7895
       },
       {
         "id": 617273,
@@ -417,7 +417,7 @@
         "score": 5.7,
         "img": "http://lain.bgm.tv/pic/cover/c/60/14/617273_dhFwZ.jpg",
         "air_date": "2026-10-03",
-        "rank": 6519
+        "rank": 6539
       },
       {
         "id": 657084,
@@ -435,7 +435,7 @@
         "score": 5.6,
         "img": "http://lain.bgm.tv/pic/cover/c/9e/00/586255_FcfsN.jpg",
         "air_date": "2026-10-03",
-        "rank": 8528
+        "rank": 8536
       },
       {
         "id": 636512,
@@ -453,7 +453,7 @@
         "score": 5.3,
         "img": "http://lain.bgm.tv/pic/cover/c/3a/11/568525_ovn2M.jpg",
         "air_date": "2026-10-10",
-        "rank": 7971
+        "rank": 7992
       },
       {
         "id": 613256,
@@ -462,7 +462,7 @@
         "score": 4.3,
         "img": "http://lain.bgm.tv/pic/cover/c/7b/a7/613256_fxVvG.jpg",
         "air_date": "2026-10-10",
-        "rank": 9661
+        "rank": 9663
       },
       {
         "id": 717907,
@@ -585,88 +585,88 @@
   "ai": {
     "news_zh": [
       {
-        "title": "OpenAI CEO 奥尔特曼警示：未来人类可能无法从 AI 手中夺回控制权",
-        "link": "https://www.ithome.com/1/023/596.htm",
-        "time": "11-06 23:13",
+        "title": "消息称台积电考虑进军先进内存芯片制造，有望为英伟达打造 3D DRAM",
+        "link": "https://www.ithome.com/1/023/619.htm",
+        "time": "11-07 07:59",
         "src": "IT之家"
       },
       {
-        "title": "最高投资 100 亿美元：SK 海力士设立美国 AI 投资子公司 Hyaico，崔泰源掌舵",
-        "link": "https://www.ithome.com/1/023/584.htm",
-        "time": "11-06 23:05",
+        "title": "Planet AI 邀你“向地球提问”：超 10 年卫星影像变化，一句话就能查",
+        "link": "https://www.ithome.com/1/023/614.htm",
+        "time": "11-07 07:40",
         "src": "IT之家"
       },
       {
-        "title": "美股 AI 硬件股集体反弹，费城半导体指数涨 6.5%",
-        "link": "https://www.ithome.com/1/023/564.htm",
-        "time": "11-06 22:58",
+        "title": "Anthropic 研究称 Claude AI 智能体可以靠“做梦”变得更聪明",
+        "link": "https://www.ithome.com/1/023/613.htm",
+        "time": "11-07 07:25",
         "src": "IT之家"
       },
       {
-        "title": "Day-0 支持：摩尔线程完成 3 万亿级参数 Kimi-K3.1 Pro 适配，支持文本与图片推理",
-        "link": "https://www.ithome.com/1/023/561.htm",
-        "time": "11-06 22:41",
+        "title": "消息称 OpenAI 完成 110 亿美元首期新融资，估值 1.25 万亿美元",
+        "link": "https://www.ithome.com/1/023/612.htm",
+        "time": "11-07 07:24",
         "src": "IT之家"
       },
       {
-        "title": "11 月 18 日起，字节 TRAE 账号将自动升级为豆包飞书账号",
-        "link": "https://www.ithome.com/1/023/552.htm",
-        "time": "11-06 22:06",
+        "title": "AI 编程进入“通话时代”：Cursor 智能体可实时语音协作",
+        "link": "https://www.ithome.com/1/023/610.htm",
+        "time": "11-07 07:11",
         "src": "IT之家"
       },
       {
-        "title": "Brightspeed 与英伟达洽谈，计划将 130 多座老旧电信建筑改造为小型数据中心",
-        "link": "https://www.ithome.com/1/023/543.htm",
-        "time": "11-06 21:13",
+        "title": "AI 编程工具 Amp 推出 Spaces：你的 AI 项目经理上线，自主编排 / 协调 Agent 干活",
+        "link": "https://www.ithome.com/1/023/609.htm",
+        "time": "11-07 07:02",
         "src": "IT之家"
       },
       {
-        "title": "消息称韩版三星 Galaxy S27 Pro、S27 Ultra 将采用高通骁龙 8 Elite Gen 6 系列芯片",
-        "link": "https://www.ithome.com/1/023/541.htm",
-        "time": "11-06 20:57",
+        "title": "谷歌母公司 Alphabet 斥资约 5.48 亿美元建仓高通，押注 AI 芯片新赛道",
+        "link": "https://www.ithome.com/1/023/607.htm",
+        "time": "11-07 06:48",
         "src": "IT之家"
       },
       {
-        "title": "爱彼迎 Airbnb 计划明年推出 AI 智能体，帮助用户规划旅行",
-        "link": "https://www.ithome.com/1/023/498.htm",
-        "time": "11-06 18:21",
+        "title": "消息称微软不再续签甲骨文 AI 算力租赁协议，重新评估超 800 亿美元云合作",
+        "link": "https://www.ithome.com/1/023/606.htm",
+        "time": "11-07 06:44",
         "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "moonshotai/Kimi-K3.1-Pro",
-        "likes": 1438,
+        "likes": 1488,
         "downloads": 18432,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "speridlabs/idol",
-        "likes": 910,
+        "likes": 935,
         "downloads": 19139,
         "pipeline": "image-to-3d"
       },
       {
         "id": "nvidia/simready-assets",
-        "likes": 1441,
+        "likes": 1446,
         "downloads": 1373507,
         "pipeline": ""
       },
       {
         "id": "ccore/Qwen3.5-4B-3D-Coder",
-        "likes": 772,
+        "likes": 787,
         "downloads": 190243,
         "pipeline": ""
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 10837,
+        "likes": 10862,
         "downloads": 2607491,
         "pipeline": "image-to-video"
       },
       {
         "id": "burner22/numbat",
-        "likes": 368,
+        "likes": 371,
         "downloads": 9066,
         "pipeline": ""
       }
@@ -840,16 +840,22 @@
   ],
   "hw_news": [
     {
+      "title": "消息称台积电考虑进军先进内存芯片制造，有望为英伟达打造 3D DRAM",
+      "link": "https://www.ithome.com/1/023/619.htm",
+      "time": "11-07 07:59",
+      "src": "IT之家"
+    },
+    {
       "title": "动作冒险游戏《漫威银河护卫队》登陆 Switch 2 平台，支持鼠标模式与陀螺仪体感操作",
       "link": "https://www.ithome.com/1/023/540.htm",
       "time": "11-06 20:50",
       "src": "IT之家"
     },
     {
-      "title": "309 元：黑鲨风神笔记本散热器开售，140mm 大尺寸风扇、4000 转高性能电机",
-      "link": "https://www.ithome.com/1/023/478.htm",
-      "time": "11-06 17:55",
-      "src": "IT之家"
+      "title": "雷蛇发布Hammerhead V3 Chroma有线耳机 USB-C接口搭配RGB灯效回归",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585328.htm",
+      "time": "11-07 04:21",
+      "src": "cnBeta.COM"
     },
     {
       "title": "直击进博会|英特尔中国区董事长王稚聪谈布局储能：希望把绿色电力就地无损耗、高效转化为词元",
@@ -1134,19 +1140,37 @@
       "src": "机核"
     },
     {
-      "title": "闽南师范大学举办第二季“美美与共”国际文化市集",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727707.shtml",
-      "time": "11-06 23:51",
+      "title": "欧盟向缅甸和孟加拉国追加1600万欧元人道主义援助",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727738.shtml",
+      "time": "11-07 07:43",
       "src": "中新网"
     },
     {
-      "title": "我国南极活动与环境保护法出台 对国际南极治理意义几何？",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727716.shtml",
-      "time": "11-06 23:44",
+      "title": "直播海报：谁是舞王？国际街舞联赛全球总决赛热血开跳",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727735.shtml",
+      "time": "11-07 06:55",
       "src": "中新网"
     }
   ],
   "econ_news": [
+    {
+      "title": "消息称 OpenAI 完成 110 亿美元首期新融资，估值 1.25 万亿美元",
+      "link": "https://www.ithome.com/1/023/612.htm",
+      "time": "11-07 07:24",
+      "src": "IT之家"
+    },
+    {
+      "title": "谷歌母公司 Alphabet 斥资约 5.48 亿美元建仓高通，押注 AI 芯片新赛道",
+      "link": "https://www.ithome.com/1/023/607.htm",
+      "time": "11-07 06:48",
+      "src": "IT之家"
+    },
+    {
+      "title": "消息称微软不再续签甲骨文 AI 算力租赁协议，重新评估超 800 亿美元云合作",
+      "link": "https://www.ithome.com/1/023/606.htm",
+      "time": "11-07 06:44",
+      "src": "IT之家"
+    },
     {
       "title": "最高投资 100 亿美元：SK 海力士设立美国 AI 投资子公司 Hyaico，崔泰源掌舵",
       "link": "https://www.ithome.com/1/023/584.htm",
@@ -1160,43 +1184,37 @@
       "src": "IT之家"
     },
     {
-      "title": "泰国明年将进口电动汽车税率上调至 35%，旨在扶持本地汽车产业",
-      "link": "https://www.ithome.com/1/023/525.htm",
-      "time": "11-06 19:17",
-      "src": "IT之家"
-    },
-    {
-      "title": "智元发布灵犀 X2 焕新版机器人，可用于展馆文旅、导览导购、服务零售、文娱商演等场景",
-      "link": "https://www.ithome.com/1/023/497.htm",
-      "time": "11-06 18:09",
-      "src": "IT之家"
-    },
-    {
-      "title": "北京奔驰、梅赛德斯-奔驰（中国）召回 18.03 万辆国产和进口汽车：车辆高压系统可能短路、车门锁微动开关可能故障",
-      "link": "https://www.ithome.com/1/023/482.htm",
-      "time": "11-06 17:58",
-      "src": "IT之家"
-    },
-    {
-      "title": "喇叭或无法正常鸣响存在安全隐患：斯巴鲁汽车（中国）有限公司召回部分进口汽车，共计 196494 辆",
-      "link": "https://www.ithome.com/1/023/481.htm",
-      "time": "11-06 17:58",
-      "src": "IT之家"
-    },
-    {
-      "title": "AI电商合规治理与消费环境共建行动在浙江启动",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-06/10727699.shtml",
-      "time": "11-06 23:38",
+      "title": "美国10月非农就业新增16.5万 失业率4.1%",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727739.shtml",
+      "time": "11-07 07:46",
       "src": "中新网"
     },
     {
-      "title": "前三季度云南昭通苹果出口1300余吨 香飘东南亚市场",
-      "link": "https://www.chinanews.com.cn/aseaninfo/2026/11-06/10727694.shtml",
-      "time": "11-06 23:36",
+      "title": "欧盟向缅甸和孟加拉国追加1600万欧元人道主义援助",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727738.shtml",
+      "time": "11-07 07:43",
       "src": "中新网"
+    },
+    {
+      "title": "树莓派5 16GB版涨至385美元 价格较上市时翻了三倍多",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585324.htm",
+      "time": "11-07 02:37",
+      "src": "cnBeta.COM"
     }
   ],
   "game_news": [
+    {
+      "title": "消息称微软不再续签甲骨文 AI 算力租赁协议，重新评估超 800 亿美元云合作",
+      "link": "https://www.ithome.com/1/023/606.htm",
+      "time": "11-07 06:44",
+      "src": "IT之家"
+    },
+    {
+      "title": "微软发布 Win11 多预览版：改进 Windows Hello 登录体验",
+      "link": "https://www.ithome.com/1/023/605.htm",
+      "time": "11-07 02:11",
+      "src": "IT之家"
+    },
     {
       "title": "《鸣潮》3.8 版本将为索尼 PS5 Pro 带来 PSSR，PC 端开放“资源分类下载”及“资源清理”功能",
       "link": "https://www.ithome.com/1/023/563.htm",
@@ -1213,18 +1231,6 @@
       "title": "动作冒险游戏《漫威银河护卫队》登陆 Switch 2 平台，支持鼠标模式与陀螺仪体感操作",
       "link": "https://www.ithome.com/1/023/540.htm",
       "time": "11-06 20:50",
-      "src": "IT之家"
-    },
-    {
-      "title": "《刺客信条：英灵殿》迎来久违更新：引入“新游戏 +”，支持 PSSR 2",
-      "link": "https://www.ithome.com/1/023/524.htm",
-      "time": "11-06 18:57",
-      "src": "IT之家"
-    },
-    {
-      "title": "库洛游戏法务部通告侵权线索处理进展，已对多个平台多名用户分别启动法律追责程序",
-      "link": "https://www.ithome.com/1/023/500.htm",
-      "time": "11-06 18:30",
       "src": "IT之家"
     },
     {
@@ -1247,6 +1253,13 @@
     }
   ],
   "game_update": [
+    {
+      "title": "理想 Mega 新版本 MPV 谍照疑曝光，车头缩短、前三角窗加大",
+      "link": "https://www.ithome.com/1/023/618.htm",
+      "time": "11-07 07:58",
+      "src": "IT之家",
+      "type": "不停机更新"
+    },
     {
       "title": "理想汽车OTA 9.2版本更新，智能辅助驾驶平台升级至马赫VLA 2.5",
       "link": "https://finance.sina.com.cn/tech/shenji/2026-11-06/doc-inixuiyw5019015.shtml",
@@ -1295,13 +1308,6 @@
       "time": "8-13",
       "type": "停机维护",
       "src": "腾讯官方"
-    },
-    {
-      "title": "《部落冲突》8/5 6:00 停机维护(预计180分钟): 周年庆版本上线, 维护后首领可领维护礼包",
-      "link": "https://new.qq.com/rain/a/20260804A0EYI300",
-      "time": "8-05",
-      "type": "停机维护",
-      "src": "腾讯官方"
     }
   ],
   "mil_news": [
@@ -1324,9 +1330,9 @@
       "src": "机核"
     },
     {
-      "title": "粤港澳24支代表队比拼无人机应用技术职业技能",
-      "link": "https://www.chinanews.com.cn/dwq/2026/11-06/10727700.shtml",
-      "time": "11-06 23:38",
+      "title": "菲律宾妇女团体抗议美国扩大军事存在 反对“硅和平”倡议",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727730.shtml",
+      "time": "11-07 06:41",
       "src": "中新网"
     },
     {
@@ -1336,22 +1342,22 @@
       "src": "cnBeta.COM"
     },
     {
-      "title": "特朗普力挺国防部长赫格塞斯 众议院最快下周表决弹劾",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261105-%E7%89%B9%E6%9C%97%E6%99%AE%E5%8A%9B%E6%8C%BA%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%E8%B5%AB%E6%A0%BC%E5%A1%9E%E6%96%AF-%E4%BC%97%E8%AE%AE%E9%99%A2%E6%9C%80%E5%BF%AB%E4%B8%8B%E5%91%A8%E8%A1%A8%E5%86%B3%E5%BC%B9%E5%8A%BE",
-      "time": "11-06 03:59",
-      "src": "© Kevin Lamarq"
+      "title": "特朗普:将很快决定是否恢复对伊朗大规模军事行动",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20261106-%E7%89%B9%E6%9C%97%E6%99%AE-%E5%B0%86%E5%BE%88%E5%BF%AB%E5%86%B3%E5%AE%9A%E6%98%AF%E5%90%A6%E6%81%A2%E5%A4%8D%E5%AF%B9%E5%BE%B7%E9%BB%91%E5%85%B0%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8",
+      "time": "11-07 03:41",
+      "src": "法广RFI"
     },
     {
-      "title": "伊朗战争结束的希望升温 欧洲天然气势创一年多最大周跌幅",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixvmnq8676075.shtml",
-      "time": "11-07 00:20",
-      "src": "环球市场播报"
+      "title": "初步报告显示两枚导弹击中伊朗格什姆岛",
+      "link": "https://finance.sina.com.cn/jjxw/2026-11-07/doc-inixwakk5020029.shtml",
+      "time": "11-07 06:22",
+      "src": "央视"
     },
     {
-      "title": "集体拒签“最后通牒”，大批媒体撤离五角大楼",
-      "link": "https://news.sina.com.cn/w/2025-10-18/doc-infuhrzs7824610.shtml",
-      "time": "10-18 11:10",
-      "src": ""
+      "title": "伊朗南部格什姆岛传出爆炸声",
+      "link": "https://finance.sina.com.cn/jjxw/2026-11-07/doc-inixwakh8362039.shtml",
+      "time": "11-07 05:42",
+      "src": "央视"
     }
   ]
 }
