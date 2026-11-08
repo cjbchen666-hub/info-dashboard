@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08 05:41",
+  "generated_at": "2026-11-08 09:14",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -80,7 +80,7 @@
       {
         "name": "东方碳素",
         "code": "920175",
-        "pct": 18.85,
+        "pct": 18.71,
         "price": 8.45
       },
       {
@@ -94,7 +94,7 @@
       {
         "name": "C皇冠",
         "code": "001381",
-        "pct": -17.11,
+        "pct": -17.13,
         "price": 47.33
       },
       {
@@ -112,7 +112,7 @@
       {
         "name": "联亚药业",
         "code": "301569",
-        "pct": -11.56,
+        "pct": -11.61,
         "price": 19.27
       },
       {
@@ -233,27 +233,21 @@
     ],
     "news": [
       {
+        "title": "消息称 Anthropic 仍在推进上市：最多募资 1000 亿美元，“史上最大 IPO”或有变数",
+        "link": "https://www.ithome.com/1/023/854.htm",
+        "time": "11-08 08:44",
+        "src": "IT之家"
+      },
+      {
         "title": "我国核技术应用年直接经济产值预计将达 4000 亿元，未来有望形成万亿级市场规模",
         "link": "https://www.ithome.com/1/023/810.htm",
         "time": "11-07 21:32",
         "src": "IT之家"
       },
       {
-        "title": "苹果披露人形机器人 HALO 系统：调用千问模型在宇树 G1 上验证，单项任务平均成功率 91%",
-        "link": "https://www.ithome.com/1/023/767.htm",
-        "time": "11-07 17:40",
-        "src": "IT之家"
-      },
-      {
         "title": "苹果研究团队披露机器人“大脑”进展 调用千问模型在宇树G1上验证",
         "link": "https://www.cnbeta.com.tw/articles/tech/1585390.htm",
         "time": "11-08 00:43",
-        "src": "cnBeta.COM"
-      },
-      {
-        "title": "OpenAI再获110亿美元融资 估值达到1.25万亿美元 全年融资目标却大幅缩水",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1585338.htm",
-        "time": "11-07 14:22",
         "src": "cnBeta.COM"
       },
       {
@@ -278,6 +272,12 @@
         "title": "伯克希尔哈撒韦第三季度回购规模翻倍，利润下降",
         "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixxqmu8008769.shtml",
         "time": "11-07 22:31",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "伯克希尔哈撒韦第三季度加快股票回购，营业利润下滑",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixxqmu7983187.shtml",
+        "time": "11-07 21:15",
         "src": "环球市场播报"
       }
     ]
@@ -363,7 +363,7 @@
         "score": 6.5,
         "img": "http://lain.bgm.tv/pic/cover/c/44/ed/634210_O7aNK.jpg",
         "air_date": "2026-10-04",
-        "rank": 4212
+        "rank": 4291
       },
       {
         "id": 548156,
@@ -372,7 +372,7 @@
         "score": 6.3,
         "img": "http://lain.bgm.tv/pic/cover/c/f1/6c/548156_n0qcY.jpg",
         "air_date": "2026-10-04",
-        "rank": 6186
+        "rank": 6231
       },
       {
         "id": 630160,
@@ -381,7 +381,7 @@
         "score": 6.3,
         "img": "http://lain.bgm.tv/pic/cover/c/9e/b5/630160_tL25y.jpg",
         "air_date": "2026-10-04",
-        "rank": 6174
+        "rank": 6207
       },
       {
         "id": 688797,
@@ -426,7 +426,7 @@
         "score": 5.9,
         "img": "http://lain.bgm.tv/pic/cover/c/94/c9/636023_iF8j7.jpg",
         "air_date": "2026-10-04",
-        "rank": 7580
+        "rank": 7628
       },
       {
         "id": 664389,
@@ -435,7 +435,7 @@
         "score": 5.9,
         "img": "http://lain.bgm.tv/pic/cover/c/95/5d/664389_zP36V.jpg",
         "air_date": "2026-10-11",
-        "rank": 6122
+        "rank": 6142
       },
       {
         "id": 536270,
@@ -444,7 +444,7 @@
         "score": 5.8,
         "img": "http://lain.bgm.tv/pic/cover/c/3e/fc/536270_51P45.jpg",
         "air_date": "2026-10-04",
-        "rank": 7925
+        "rank": 7918
       },
       {
         "id": 551304,
@@ -453,7 +453,7 @@
         "score": 5.7,
         "img": "http://lain.bgm.tv/pic/cover/c/ac/40/551304_FbmZ9.jpg",
         "air_date": "2026-10-25",
-        "rank": 6606
+        "rank": 6664
       },
       {
         "id": 589775,
@@ -471,7 +471,7 @@
         "score": 5.6,
         "img": "http://lain.bgm.tv/pic/cover/c/d1/e7/605533_97NSn.jpg",
         "air_date": "2026-10-04",
-        "rank": 6670
+        "rank": 6739
       },
       {
         "id": 621073,
@@ -480,7 +480,7 @@
         "score": 5.5,
         "img": "http://lain.bgm.tv/pic/cover/c/ec/f9/621073_oFcZ3.jpg",
         "air_date": "2026-10-11",
-        "rank": 8111
+        "rank": 8109
       },
       {
         "id": 661278,
@@ -507,7 +507,7 @@
         "score": 5.3,
         "img": "http://lain.bgm.tv/pic/cover/c/af/7e/656083_B22Yt.jpg",
         "air_date": "2026-10-04",
-        "rank": 9242
+        "rank": 9231
       },
       {
         "id": 708612,
@@ -585,6 +585,30 @@
   "ai": {
     "news_zh": [
       {
+        "title": "芝加哥大学教授：AI 时代数学人才招聘将更看重研究愿景与表达能力",
+        "link": "https://www.ithome.com/1/023/859.htm",
+        "time": "11-08 09:10",
+        "src": "IT之家"
+      },
+      {
+        "title": "消息称 Anthropic 仍在推进上市：最多募资 1000 亿美元，“史上最大 IPO”或有变数",
+        "link": "https://www.ithome.com/1/023/854.htm",
+        "time": "11-08 08:44",
+        "src": "IT之家"
+      },
+      {
+        "title": "庆祝《霍格沃茨之遗》上线 DLSS 5，英伟达推出定制版 RTX 5090 显卡抽奖活动",
+        "link": "https://www.ithome.com/1/023/847.htm",
+        "time": "11-08 07:57",
+        "src": "IT之家"
+      },
+      {
+        "title": "埃森哲报告被曝存在虚假引用案例，公司否认系 AI 幻觉所致",
+        "link": "https://www.ithome.com/1/023/845.htm",
+        "time": "11-08 07:51",
+        "src": "IT之家"
+      },
+      {
         "title": "安卓阵营首款阔直板手机酷派 COOL X Wide 今日开售：999~1399 元，搭载联发科曦力 G99 芯片 + 720p 屏幕",
         "link": "https://www.ithome.com/1/023/829.htm",
         "time": "11-08 00:00",
@@ -607,66 +631,42 @@
         "link": "https://www.ithome.com/1/023/814.htm",
         "time": "11-07 21:50",
         "src": "IT之家"
-      },
-      {
-        "title": "印度 IT 行业领袖警告：AI 或致应届毕业生更难进入科技行业",
-        "link": "https://www.ithome.com/1/023/813.htm",
-        "time": "11-07 21:48",
-        "src": "IT之家"
-      },
-      {
-        "title": "马斯克“御用”律师斯皮罗：AI 有望让案件尽快和解或直接走上法庭",
-        "link": "https://www.ithome.com/1/023/792.htm",
-        "time": "11-07 18:40",
-        "src": "IT之家"
-      },
-      {
-        "title": "谷歌 AI 新研究：无需袖带利用消费级智能手表检测高血压，成果登 Nature",
-        "link": "https://www.ithome.com/1/023/788.htm",
-        "time": "11-07 18:26",
-        "src": "IT之家"
-      },
-      {
-        "title": "张艺谋谈 AI 冲击电影行业：AI 短视频产值已到几百亿，是很大的挑战",
-        "link": "https://www.ithome.com/1/023/786.htm",
-        "time": "11-07 18:05",
-        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "speridlabs/idol",
-        "likes": 1097,
+        "likes": 1124,
         "downloads": 20689,
         "pipeline": "image-to-3d"
       },
       {
         "id": "moonshotai/Kimi-K3.1-Pro",
-        "likes": 1625,
+        "likes": 1635,
         "downloads": 22571,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "nvidia/simready-assets",
-        "likes": 1465,
+        "likes": 1468,
         "downloads": 1419300,
         "pipeline": ""
       },
       {
         "id": "ccore/Qwen3.5-4B-3D-Coder",
-        "likes": 867,
+        "likes": 876,
         "downloads": 221506,
         "pipeline": ""
       },
       {
         "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-        "likes": 445,
+        "likes": 495,
         "downloads": 1369,
         "pipeline": "text-generation"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 10973,
+        "likes": 10995,
         "downloads": 2643778,
         "pipeline": "image-to-video"
       }
@@ -840,6 +840,18 @@
   ],
   "hw_news": [
     {
+      "title": "CPU-Z 数据显示 PC 内存容量首次同比下降，16GB 配置占比上涨 12.9%",
+      "link": "https://www.ithome.com/1/023/858.htm",
+      "time": "11-08 09:00",
+      "src": "IT之家"
+    },
+    {
+      "title": "庆祝《霍格沃茨之遗》上线 DLSS 5，英伟达推出定制版 RTX 5090 显卡抽奖活动",
+      "link": "https://www.ithome.com/1/023/847.htm",
+      "time": "11-08 07:57",
+      "src": "IT之家"
+    },
+    {
       "title": "漫步者 HECATE GT3 TWS 耳机开售：-50dB 深度混合降噪，265 元",
       "link": "https://www.ithome.com/1/023/812.htm",
       "time": "11-07 21:33",
@@ -858,22 +870,10 @@
       "src": "IT之家"
     },
     {
-      "title": "漫步者 W900NB 30 周年典藏版头戴蓝牙耳机上架：限量 3000 套，1159 元",
-      "link": "https://www.ithome.com/1/023/799.htm",
-      "time": "11-07 20:17",
-      "src": "IT之家"
-    },
-    {
-      "title": "15980 元起：山灵发布 15 单元耳机 Dynasty「王朝」、无损音乐播放器 M10 等新品",
-      "link": "https://www.ithome.com/1/023/793.htm",
-      "time": "11-07 18:41",
-      "src": "IT之家"
-    },
-    {
-      "title": "华为海外推出 FreeBuds SE 5 MAX 无线耳机：52dB 多模降噪，支持 iOS / 安卓 / 鸿蒙三系统",
-      "link": "https://www.ithome.com/1/023/768.htm",
-      "time": "11-07 17:46",
-      "src": "IT之家"
+      "title": "Googlebook更新优化本地AI内存占用 最高可释放6GB系统内存",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585418.htm",
+      "time": "11-08 07:11",
+      "src": "cnBeta.COM"
     },
     {
       "title": "HWiNFO测试版泄露Radeon RX 7500与英特尔Razor Lake处理器的踪迹",
@@ -1110,6 +1110,30 @@
   },
   "intl_news": [
     {
+      "title": "英国监管施压：Snapchat 未成年人找好友功能在该国默认关闭",
+      "link": "https://www.ithome.com/1/023/853.htm",
+      "time": "11-08 08:40",
+      "src": "IT之家"
+    },
+    {
+      "title": "索尼全球首发“基于视觉语言模型的驾驶接管危险预警”，为驾驶员提供分级提示",
+      "link": "https://www.ithome.com/1/023/849.htm",
+      "time": "11-08 08:05",
+      "src": "IT之家"
+    },
+    {
+      "title": "全球最大、发展最快：我国可再生能源技术占据全球主导地位",
+      "link": "https://www.ithome.com/1/023/834.htm",
+      "time": "11-08 06:56",
+      "src": "IT之家"
+    },
+    {
+      "title": "欧洲多地爆发抗议，民众走上街头要求暂停数据中心建设",
+      "link": "https://www.ithome.com/1/023/831.htm",
+      "time": "11-08 06:46",
+      "src": "IT之家"
+    },
+    {
       "title": "比亚迪仰望鼎曜「山河鼎韵」限量版全球限量发售，定金 30 万元",
       "link": "https://www.ithome.com/1/023/826.htm",
       "time": "11-07 23:11",
@@ -1128,37 +1152,19 @@
       "src": "IT之家"
     },
     {
-      "title": "索尼“养老神器”全球首发：不靠摄像头和穿戴设备，Wi-Fi 信号就能感知老人跌倒",
-      "link": "https://www.ithome.com/1/023/801.htm",
-      "time": "11-07 20:26",
-      "src": "IT之家"
-    },
-    {
       "title": "从“资金支持”到“全球发行”：索尼“中国之星计划”第四期媒体群访",
       "link": "https://www.gcores.com/articles/222020",
       "time": "11-06 18:50",
       "src": "机核"
-    },
-    {
-      "title": "索尼宣布PS5全球销量突破9790万台，正积极筹备PS6",
-      "link": "https://www.gcores.com/articles/221997",
-      "time": "11-06 09:35",
-      "src": "机核"
-    },
-    {
-      "title": "NS2全球累计销量突破2635万台，上半年同比下降37%",
-      "link": "https://www.gcores.com/articles/221988",
-      "time": "11-06 08:55",
-      "src": "机核"
-    },
-    {
-      "title": "全球最大、发展最快！我国可再生能源技术占据全球主导地位",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-07/10728191.shtml",
-      "time": "11-07 23:42",
-      "src": "中新网"
     }
   ],
   "econ_news": [
+    {
+      "title": "消息称 Anthropic 仍在推进上市：最多募资 1000 亿美元，“史上最大 IPO”或有变数",
+      "link": "https://www.ithome.com/1/023/854.htm",
+      "time": "11-08 08:44",
+      "src": "IT之家"
+    },
     {
       "title": "马斯克再次表白中国，称赞中国汽车工业水平高",
       "link": "https://www.ithome.com/1/023/822.htm",
@@ -1178,21 +1184,15 @@
       "src": "IT之家"
     },
     {
-      "title": "谷歌 AI 新研究：无需袖带利用消费级智能手表检测高血压，成果登 Nature",
-      "link": "https://www.ithome.com/1/023/788.htm",
-      "time": "11-07 18:26",
-      "src": "IT之家"
-    },
-    {
-      "title": "菲律宾9月失业人数升至286万 就业市场承压",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-07/10728178.shtml",
-      "time": "11-07 23:04",
+      "title": "四川广元：航拍曾家山数万亩林海披上“黄金甲”",
+      "link": "https://www.chinanews.com.cn/tp/2026/11-08/10728225.shtml",
+      "time": "11-08 08:51",
       "src": "中新网"
     },
     {
-      "title": "（第九届进博会）华商侨企接入进博“引力场”：从商品贸易到生态共生",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-07/10728124.shtml",
-      "time": "11-07 21:26",
+      "title": "（第九届进博会）上海杨浦与老挝携手推进贸易往来",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-08/10728207.shtml",
+      "time": "11-08 08:33",
       "src": "中新网"
     },
     {
@@ -1210,55 +1210,62 @@
   ],
   "game_news": [
     {
-      "title": "比亚迪仰望鼎曜「山河鼎韵」限量版全球限量发售，定金 30 万元",
-      "link": "https://www.ithome.com/1/023/826.htm",
-      "time": "11-07 23:11",
+      "title": "官方确认：Linux 版 Epic 客户端将支持 Steam Deck 掌机",
+      "link": "https://www.ithome.com/1/023/851.htm",
+      "time": "11-08 08:24",
       "src": "IT之家"
     },
     {
-      "title": "索尼“养老神器”全球首发：不靠摄像头和穿戴设备，Wi-Fi 信号就能感知老人跌倒",
-      "link": "https://www.ithome.com/1/023/801.htm",
-      "time": "11-07 20:26",
+      "title": "美国 17 岁女孩失踪 521 天后获救，《Among Us》游戏对话成关键线索",
+      "link": "https://www.ithome.com/1/023/850.htm",
+      "time": "11-08 08:14",
       "src": "IT之家"
     },
     {
-      "title": "Newzoo 调查：在核心玩家中，实体游戏约占主机付费游戏库的 30%",
-      "link": "https://www.ithome.com/1/023/762.htm",
-      "time": "11-07 17:00",
+      "title": "索尼全球首发“基于视觉语言模型的驾驶接管危险预警”，为驾驶员提供分级提示",
+      "link": "https://www.ithome.com/1/023/849.htm",
+      "time": "11-08 08:05",
       "src": "IT之家"
     },
     {
-      "title": "IT之家 11.11 严选好货：PLUS DAY 0、10、14、20 点速抢 80 元神券，索尼 PS5 Slim 游戏主机仅 2298 元",
-      "link": "https://www.ithome.com/1/023/761.htm",
-      "time": "11-07 16:55",
+      "title": "尽管遭到恶意刷差评，《塞尔达传说：时之笛》重制版游戏仍创下 M 站用户评分新高",
+      "link": "https://www.ithome.com/1/023/848.htm",
+      "time": "11-08 08:02",
       "src": "IT之家"
     },
     {
-      "title": "从“资金支持”到“全球发行”：索尼“中国之星计划”第四期媒体群访",
-      "link": "https://www.gcores.com/articles/222020",
-      "time": "11-06 18:50",
-      "src": "机核"
+      "title": "育碧被曝正开发两款《刺客信条》新作，一款以古罗马为背景",
+      "link": "https://www.ithome.com/1/023/843.htm",
+      "time": "11-08 07:43",
+      "src": "IT之家"
     },
     {
-      "title": "日活百万的最新游戏｜机事本11.1-11.6",
-      "link": "https://www.gcores.com/articles/222014",
-      "time": "11-06 18:40",
-      "src": "机核"
+      "title": "索尼 PS Plus 推出新福利：订阅可获得 YouTube Premium 试用资格或硬件产品折扣，玩家并不买账",
+      "link": "https://www.ithome.com/1/023/842.htm",
+      "time": "11-08 07:40",
+      "src": "IT之家"
     },
     {
-      "title": "【会员抽奖】开放世界合作密室逃脱新作《逃脱学院 2：再返校园》现已发售",
-      "link": "https://www.gcores.com/articles/222003",
-      "time": "11-06 11:45",
-      "src": "机核"
+      "title": "《塞尔达传说：时之笛》重制版刚发售，就已可在越狱版 PS5 和 iPhone 上运行",
+      "link": "https://www.ithome.com/1/023/841.htm",
+      "time": "11-08 07:36",
+      "src": "IT之家"
     },
     {
-      "title": "【会员抽奖】EA 在 Steam 上线25 款 PC 经典游戏，其中包括《暴力摩托》和《银河飞将》系列的7款周年纪念版",
-      "link": "https://www.gcores.com/articles/222002",
-      "time": "11-06 11:38",
-      "src": "机核"
+      "title": "PS5 版《GTA 6》实体版包装盒曝光：仅含兑换码，无游戏光盘",
+      "link": "https://www.ithome.com/1/023/840.htm",
+      "time": "11-08 07:29",
+      "src": "IT之家"
     }
   ],
   "game_update": [
+    {
+      "title": "iG 战队 0:3 不敌 GEN 止步四强，无缘《英雄联盟》S16 最终决赛",
+      "link": "https://www.ithome.com/1/023/856.htm",
+      "time": "11-08 08:52",
+      "src": "IT之家",
+      "type": "不停机更新"
+    },
     {
       "title": "理想汽车OTA 9.2版本更新，智能辅助驾驶平台升级至马赫VLA 2.5",
       "link": "https://finance.sina.com.cn/tech/shenji/2026-11-06/doc-inixuiyw5019015.shtml",
@@ -1307,13 +1314,6 @@
       "time": "8-13",
       "type": "停机维护",
       "src": "腾讯官方"
-    },
-    {
-      "title": "《部落冲突》8/5 6:00 停机维护(预计180分钟): 周年庆版本上线, 维护后首领可领维护礼包",
-      "link": "https://new.qq.com/rain/a/20260804A0EYI300",
-      "time": "8-05",
-      "type": "停机维护",
-      "src": "腾讯官方"
     }
   ],
   "mil_news": [
@@ -1322,12 +1322,6 @@
       "link": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment",
       "time": "ISW每日评估",
       "src": "ISW"
-    },
-    {
-      "title": "中国战机再次飞越世界地标性建筑，歼-10 拉出三色彩烟与“万里长城之缩影”惊艳同框",
-      "link": "https://www.ithome.com/1/023/805.htm",
-      "time": "11-07 20:49",
-      "src": "IT之家"
     },
     {
       "title": "《使命召唤：现代战争4》和《使命召唤：战争地带》第1赛季现已上线",
@@ -1360,9 +1354,15 @@
       "src": "© 路透社图片"
     },
     {
-      "title": "伊朗称两艘油轮在霍尔木兹海峡触雷起火",
-      "link": "https://finance.sina.com.cn/world/2026-11-08/doc-inixyfin7702170.shtml",
-      "time": "11-08 05:17",
+      "title": "美伊局势，最新消息！伊朗与阿曼、埃及、约旦、沙特、卡塔尔等12国外长通电话",
+      "link": "https://finance.sina.com.cn/world/2026-11-08/doc-inixymrh4095535.shtml",
+      "time": "11-08 07:45",
+      "src": "证券时报"
+    },
+    {
+      "title": "伊朗解除导弹射程限制 美军组特遣部队防伊“跨境运武”",
+      "link": "https://finance.sina.com.cn/world/2026-11-08/doc-inixymrk7601291.shtml",
+      "time": "11-08 06:38",
       "src": "央视"
     }
   ]
