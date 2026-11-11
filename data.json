@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11 17:09",
+  "generated_at": "2026-11-12 01:49",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -129,9 +129,9 @@
       }
     ],
     "status": {
-      "state": "已收盘",
-      "label": "今日已收盘",
-      "date": "2026-11-11"
+      "state": "未开盘",
+      "label": "今日尚未开盘",
+      "date": "2026-11-12"
     },
     "watch": [
       {
@@ -233,16 +233,22 @@
     ],
     "news": [
       {
-        "title": "佳能发布 KrF 半导体光刻机 FPA-6400ES6a，宣称实现高生产率和业界高水平套刻精度",
-        "link": "https://www.ithome.com/1/025/574.htm",
-        "time": "11-11 16:24",
-        "src": "IT之家"
+        "title": "AI“店长”助商家出海 “双十一”海外潜力市场成交量大涨",
+        "link": "https://www.chinanews.com.cn/cj/2026/11-11/10730521.shtml",
+        "time": "11-11 21:27",
+        "src": "中新网"
       },
       {
-        "title": "消息称 Anthropic 承销商考虑上调 IPO 发行价，估值或突破 1.5 万亿美元",
-        "link": "https://www.ithome.com/1/025/526.htm",
-        "time": "11-11 15:23",
-        "src": "IT之家"
+        "title": "加州理工学院≈机器人首次在轨自主完成太空结构组装",
+        "link": "https://www.cnbeta.com.tw/articles/science/1585978.htm",
+        "time": "11-11 23:26",
+        "src": "cnBeta.COM"
+      },
+      {
+        "title": "SpaceX推进“星际大脑”计划：豪掷先进太阳能技术冲刺100吉瓦太空算力目标",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1585934.htm",
+        "time": "11-11 18:08",
+        "src": "cnBeta.COM"
       },
       {
         "title": "特斯拉上新：Cybertruck遥控车1769元 人形机器人摆件199元",
@@ -257,27 +263,21 @@
         "src": "cnBeta.COM"
       },
       {
-        "title": "派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等",
-        "link": "https://sspai.com/post/118854",
-        "time": "11-10 08:24",
-        "src": "少数派"
-      },
-      {
-        "title": "Anthropic披露与微软、谷歌达成超100亿美元新算力协议",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykehe9125336.shtml",
-        "time": "11-11 17:07",
+        "title": "野村现预计美联储今年12月和明年3月各加息一次 因通胀高于预期",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykvcr1619072.shtml",
+        "time": "11-11 23:45",
         "src": "环球市场播报"
       },
       {
-        "title": "500亿液冷龙头，涨停封板",
-        "link": "https://finance.sina.com.cn/stock/s/2026-11-11/doc-iniykehc2339975.shtml",
-        "time": "11-11 16:47",
-        "src": "21世纪经济报道"
+        "title": "摩根大通将共和服务公司评级上调至增持",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykvcx4278819.shtml",
+        "time": "11-11 23:42",
+        "src": "环球市场播报"
       },
       {
-        "title": "韩资管大佬提议：半导体暴利税建设韩股托底机制 为新生代配置资产",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykehe9091062.shtml",
-        "time": "11-11 16:21",
+        "title": "美元升至2025年5月以来最高 美联储加息押注升温",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykvcv2168726.shtml",
+        "time": "11-11 23:19",
         "src": "环球市场播报"
       }
     ]
@@ -294,138 +294,129 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 52231.89,
-      "pct": -0.3,
-      "chg": -157.86,
-      "amount": "3710092334亿"
+      "price": 52393.92,
+      "pct": 0.31,
+      "chg": 162.03,
+      "amount": "1536707611亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 25065.87,
-      "pct": -0.74,
-      "chg": -187.27,
-      "amount": "18474873894亿"
+      "price": 25612.76,
+      "pct": 2.18,
+      "chg": 546.89,
+      "amount": "17009595900亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7520.93,
-      "pct": -0.38,
-      "chg": -29.01,
-      "amount": "2270554559亿"
+      "price": 7634.95,
+      "pct": 1.52,
+      "chg": 114.02,
+      "amount": "941739576亿"
     }
   ],
   "anime": {
-    "date": "11-11",
-    "weekday": "水",
+    "date": "11-12",
+    "weekday": "木",
     "items": [
       {
-        "id": 975,
-        "name": "ONE PIECE",
-        "name_cn": "航海王",
-        "score": 8.3,
-        "img": "http://lain.bgm.tv/pic/cover/c/92/97/975_GFGYI.jpg",
-        "air_date": "1999-10-20",
-        "rank": 105
+        "id": 665390,
+        "name": "氷の城壁 第2期",
+        "name_cn": "冰之城墙 第二季",
+        "score": 7.5,
+        "img": "http://lain.bgm.tv/pic/cover/c/e4/41/665390_UCHPM.jpg",
+        "air_date": "2026-10-01",
+        "rank": 1009
       },
       {
-        "id": 412008,
-        "name": "転生したら剣でしたII",
-        "name_cn": "转生就是剑 第二季",
-        "score": 6.7,
-        "img": "http://lain.bgm.tv/pic/cover/c/ee/ed/412008_2PmNb.jpg",
-        "air_date": "2026-10-07",
-        "rank": 4059
-      },
-      {
-        "id": 646154,
-        "name": "世界最強の魔女、始めました",
-        "name_cn": "世界最强的魔女，就此开始",
-        "score": 6.4,
-        "img": "http://lain.bgm.tv/pic/cover/c/89/fc/646154_uQi81.jpg",
-        "air_date": "2026-10-07",
-        "rank": 5607
-      },
-      {
-        "id": 502123,
-        "name": "魔法騎士レイアース",
-        "name_cn": "魔法骑士雷阿斯 (2026)",
-        "score": 6.1,
-        "img": "http://lain.bgm.tv/pic/cover/c/e1/6f/502123_IiVB6.jpg",
-        "air_date": "2026-10-07",
-        "rank": 5637
-      },
-      {
-        "id": 486456,
-        "name": "佐々木とピーちゃん 第2期",
-        "name_cn": "佐佐木与文鸟小哔 第二季",
-        "score": 5.8,
-        "img": "http://lain.bgm.tv/pic/cover/c/fc/aa/486456_XO5B0.jpg",
-        "air_date": "2026-10-07",
-        "rank": 7734
-      },
-      {
-        "id": 471844,
-        "name": "帰還者の魔法は特別です 第2期",
-        "name_cn": "归还者的魔法要特别 第二季",
-        "score": 5.4,
-        "img": "http://lain.bgm.tv/pic/cover/c/1d/7c/471844_5G6H8.jpg",
-        "air_date": "2026-10-07",
+        "id": 705980,
+        "name": "熊出没之神奇宝物2",
+        "name_cn": "熊出没之神奇宝物 第二季",
+        "score": 7.2,
+        "img": "http://lain.bgm.tv/pic/cover/c/83/75/705980_zVjkX.jpg",
+        "air_date": "2026-10-01",
         "rank": null
       },
       {
-        "id": 393010,
-        "name": "探偵はもう、死んでいる。 Season 2",
-        "name_cn": "侦探已经死了。 第二季",
-        "score": 5.3,
-        "img": "http://lain.bgm.tv/pic/cover/c/65/61/393010_EIOi9.jpg",
-        "air_date": "2026-10-07",
-        "rank": 9000
-      },
-      {
-        "id": 657778,
-        "name": "獣王武神ダンデヴァイン",
-        "name_cn": "兽王武神丹帝拜恩",
-        "score": 5.3,
-        "img": "http://lain.bgm.tv/pic/cover/c/3b/a5/657778_7HXP5.jpg",
-        "air_date": "2026-10-07",
-        "rank": 9152
-      },
-      {
-        "id": 573707,
-        "name": "Helluva Boss Season 3",
-        "name_cn": "极恶老大 第三季",
-        "score": 3.3,
-        "img": "http://lain.bgm.tv/pic/cover/c/37/37/573707_EjKKu.jpg",
-        "air_date": "2026-10-14",
+        "id": 449346,
+        "name": "大理寺日志 叁",
+        "name_cn": "大理寺日志 第三季",
+        "score": 7.0,
+        "img": "http://lain.bgm.tv/pic/cover/c/fc/d2/449346_0ql6W.jpg",
+        "air_date": "2026-10-15",
         "rank": null
       },
       {
-        "id": 701779,
-        "name": "マゼンチュ",
+        "id": 622288,
+        "name": "FX戦士くるみちゃん",
+        "name_cn": "FX战士久留美",
+        "score": 6.8,
+        "img": "http://lain.bgm.tv/pic/cover/c/d3/99/622288_nmbC3.jpg",
+        "air_date": "2026-10-01",
+        "rank": 3482
+      },
+      {
+        "id": 577237,
+        "name": "仙逆剧场版 弑仙之战",
+        "name_cn": "仙逆剧场版 弑仙之战",
+        "score": 6.0,
+        "img": "http://lain.bgm.tv/pic/cover/c/33/a4/577237_Cd0Cm.jpg",
+        "air_date": "2026-10-01",
+        "rank": 5629
+      },
+      {
+        "id": 716967,
+        "name": "凶乱令嬢 ニア・リストンミニ",
+        "name_cn": "乱世千金倪亚‧利斯顿 迷你动画",
+        "score": 6.0,
+        "img": "http://lain.bgm.tv/pic/cover/c/43/67/716967_cp68P.jpg",
+        "air_date": "2026-10-15",
+        "rank": null
+      },
+      {
+        "id": 590553,
+        "name": "てつりょー！meet with 鉄道むすめ",
+        "name_cn": "铁旅！meet with 铁道少女",
+        "score": 5.6,
+        "img": "http://lain.bgm.tv/pic/cover/c/b6/e8/590553_Xz5PO.jpg",
+        "air_date": "2026-10-08",
+        "rank": 8642
+      },
+      {
+        "id": 654294,
+        "name": "冰剣の魔術師が世界を統べるⅡ",
+        "name_cn": "冰剑的魔术师将要统一世界 第二季",
+        "score": 5.6,
+        "img": "http://lain.bgm.tv/pic/cover/c/ec/2f/654294_ckrD9.jpg",
+        "air_date": "2026-10-08",
+        "rank": 7782
+      },
+      {
+        "id": 704737,
+        "name": "シルバニアファミリー フレアのカラフル・エブリデイ",
+        "name_cn": "",
+        "score": 5.0,
+        "img": "http://lain.bgm.tv/pic/cover/c/7d/06/704737_iWzS7.jpg",
+        "air_date": "2026-10-01",
+        "rank": null
+      },
+      {
+        "id": 576783,
+        "name": "狂王2",
+        "name_cn": "狂王 第2季",
+        "score": 3.0,
+        "img": "http://lain.bgm.tv/pic/cover/c/c8/1a/576783_a355J.jpg",
+        "air_date": "2026-10-08",
+        "rank": null
+      },
+      {
+        "id": 700127,
+        "name": "ちょこっとヤバシティ",
         "name_cn": "",
         "score": null,
-        "img": "http://lain.bgm.tv/pic/cover/c/78/a0/701779_0phov.jpg",
-        "air_date": "2026-10-07",
-        "rank": null
-      },
-      {
-        "id": 709475,
-        "name": "ゲルぴよ 第2期",
-        "name_cn": "",
-        "score": null,
-        "img": "http://lain.bgm.tv/pic/cover/c/6f/24/709475_zpW8A.jpg",
-        "air_date": "2026-10-21",
-        "rank": null
-      },
-      {
-        "id": 712926,
-        "name": "都市古医仙2",
-        "name_cn": "",
-        "score": null,
-        "img": "http://lain.bgm.tv/pic/cover/c/f5/be/712926_i4vqi.jpg",
-        "air_date": "2026-10-14",
+        "img": "http://lain.bgm.tv/pic/cover/c/e4/11/700127_gLl6x.jpg",
+        "air_date": "2026-10-01",
         "rank": null
       }
     ]
@@ -495,89 +486,89 @@
   "ai": {
     "news_zh": [
       {
-        "title": "微信鸿蒙版 App 获 8.0.23.37 邀测升级，小微 AI 助手更多功能灰度中",
-        "link": "https://www.ithome.com/1/025/601.htm",
-        "time": "11-11 16:54",
+        "title": "Adobe 公布四项 AI 实验项目：照片秒变 3D 场景，还能通过聊天设计 AI 角色",
+        "link": "https://www.ithome.com/1/025/815.htm",
+        "time": "11-11 22:32",
         "src": "IT之家"
       },
       {
-        "title": "曝 SpaceX 探索服务器机架层“去英伟达化”：只买芯片，更多配套硬件自行采购",
-        "link": "https://www.ithome.com/1/025/597.htm",
-        "time": "11-11 16:46",
+        "title": "DeepL 推出旗下最逼真语音 AI 翻译模型 Aure，实时复现说话者语气起伏、情绪流转等",
+        "link": "https://www.ithome.com/1/025/810.htm",
+        "time": "11-11 22:06",
         "src": "IT之家"
       },
       {
-        "title": "原创内容被判定“AI 生成未标识”，用户把平台告上法庭",
-        "link": "https://www.ithome.com/1/025/592.htm",
-        "time": "11-11 16:33",
+        "title": "沐曦和优必选联姻造具身芯片，消息称合资公司曦选创智融资 5 亿元",
+        "link": "https://www.ithome.com/1/025/807.htm",
+        "time": "11-11 21:46",
         "src": "IT之家"
       },
       {
-        "title": "AI 数据中心挤占成熟制程产能，汽车芯片供应链面临瓶颈",
-        "link": "https://www.ithome.com/1/025/588.htm",
-        "time": "11-11 16:31",
+        "title": "AI 提升飓风预报精度，人类气象专家仍不可替代",
+        "link": "https://www.ithome.com/1/025/806.htm",
+        "time": "11-11 21:42",
         "src": "IT之家"
       },
       {
-        "title": "我国加快推进“人工智能+自然资源”深度融合，计划 2030 年集成打造智能化国土空间治理基础平台",
-        "link": "https://www.ithome.com/1/025/575.htm",
-        "time": "11-11 16:24",
+        "title": "12+256G 版 2099 → 1695 元：一加 Turbo 6 国补直降，骁龙 8s / 7s Gen4 芯片、9000mAh 电池",
+        "link": "https://www.ithome.com/1/025/796.htm",
+        "time": "11-11 21:17",
         "src": "IT之家"
       },
       {
-        "title": "红果短剧上线 AI 剧虚拟形象确权功能",
-        "link": "https://www.ithome.com/1/025/569.htm",
-        "time": "11-11 16:12",
+        "title": "大水冲了龙王庙？AI 编程工具 Grok Build 漏洞导致 SpaceXSI 敏感资料暴露",
+        "link": "https://www.ithome.com/1/025/790.htm",
+        "time": "11-11 21:08",
         "src": "IT之家"
       },
       {
-        "title": "OpenAI 宣布 12 月 11 日停用 ChatGPT 旧版语音模式，全面转向 GPT-Live",
-        "link": "https://www.ithome.com/1/025/567.htm",
-        "time": "11-11 16:10",
+        "title": "任天堂又出手：GitHub 移除 144 个 Switch 破解芯片固件仓库",
+        "link": "https://www.ithome.com/1/025/768.htm",
+        "time": "11-11 20:02",
         "src": "IT之家"
       },
       {
-        "title": "消息称 OpenAI 今年 Q3 营收首次达百亿美元，环比大增近 50%",
-        "link": "https://www.ithome.com/1/025/560.htm",
-        "time": "11-11 15:57",
-        "src": "IT之家"
+        "title": "AI“店长”助商家出海 “双十一”海外潜力市场成交量大涨",
+        "link": "https://www.chinanews.com.cn/cj/2026/11-11/10730521.shtml",
+        "time": "11-11 21:27",
+        "src": "中新网"
       }
     ],
     "hf": [
       {
         "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-        "likes": 1284,
-        "downloads": 14378,
+        "likes": 2070,
+        "downloads": 16693,
         "pipeline": "text-generation"
       },
       {
         "id": "speridlabs/idol",
-        "likes": 1911,
-        "downloads": 26470,
+        "likes": 1958,
+        "downloads": 28250,
         "pipeline": "image-to-3d"
       },
       {
-        "id": "moonshotai/Kimi-K3.1-Pro",
-        "likes": 1892,
-        "downloads": 30721,
-        "pipeline": "image-text-to-text"
-      },
-      {
         "id": "MiniMaxAI/MiniMax-H3-Image",
-        "likes": 545,
-        "downloads": 667,
+        "likes": 650,
+        "downloads": 142989,
         "pipeline": "text-to-image"
       },
       {
+        "id": "moonshotai/Kimi-K3.1-Pro",
+        "likes": 1913,
+        "downloads": 33617,
+        "pipeline": "image-text-to-text"
+      },
+      {
         "id": "ricursiveAI/Ripple-65B-Preview",
-        "likes": 490,
-        "downloads": 6480,
+        "likes": 506,
+        "downloads": 7112,
         "pipeline": ""
       },
       {
         "id": "Angais/pixel-art-atlas-1.4m",
-        "likes": 342,
-        "downloads": 30689,
+        "likes": 375,
+        "downloads": 41578,
         "pipeline": ""
       }
     ],
@@ -750,45 +741,27 @@
   ],
   "hw_news": [
     {
-      "title": "24Gb GDDR7 价格过高，传 16GB 版本 GeForce RTX 5080 显卡回归市场",
-      "link": "https://www.ithome.com/1/025/586.htm",
-      "time": "11-11 16:31",
+      "title": "Xbox 版《GTA 6》预载文件出现 AMD FSR 4.1 线索，首发未必支持",
+      "link": "https://www.ithome.com/1/025/821.htm",
+      "time": "11-11 23:02",
       "src": "IT之家"
     },
     {
-      "title": "洛图科技：2026 年第三季度中国笔记本电脑线上销量同比下滑 14.0%，均价 7759 元上涨 13.4%",
-      "link": "https://www.ithome.com/1/025/564.htm",
-      "time": "11-11 16:03",
+      "title": "国补后 2299 → 1609 元：华硕 ROG“XG27UCSR”27 英寸显示器直降，4K 162Hz / FHD 485Hz 双模",
+      "link": "https://www.ithome.com/1/025/798.htm",
+      "time": "11-11 21:21",
       "src": "IT之家"
     },
     {
-      "title": "索尼 MDR-3R 复古头戴式有线耳机日本预定火爆，发货可能延迟",
-      "link": "https://www.ithome.com/1/025/505.htm",
-      "time": "11-11 15:19",
+      "title": "IBM 发布下一代量子处理器 Nighthawk r3，计划明年实现超 1000 量子比特系统",
+      "link": "https://www.ithome.com/1/025/787.htm",
+      "time": "11-11 20:57",
       "src": "IT之家"
     },
     {
-      "title": "华为 MateBook Fold S 鸿蒙小折叠电脑配件曝光：实体键盘也可折，左边按键右边触控板",
-      "link": "https://www.ithome.com/1/025/503.htm",
-      "time": "11-11 15:18",
-      "src": "IT之家"
-    },
-    {
-      "title": "微软强化Windows 11安全防护 “内存完整性”功能开始默认启用",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1585888.htm",
-      "time": "11-11 14:29",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "AMD发布第六代EPYC 9006处理器 最高256核心",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1585886.htm",
-      "time": "11-11 14:18",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "苹果秘密测试Harbor应用：多台Mac可通过雷雳5共享统一内存 组成私人计算池",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1585878.htm",
-      "time": "11-11 14:03",
+      "title": "据称英伟达取消RTX 5080 24GB显卡计划 16GB版本继续售卖",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585950.htm",
+      "time": "11-11 19:49",
       "src": "cnBeta.COM"
     },
     {
@@ -796,6 +769,12 @@
       "link": "https://sspai.com/post/111065",
       "time": "11-10 11:00",
       "src": "少数派"
+    },
+    {
+      "title": "瑞银：服务器CPU需求持续强劲，Arm市场份额升至20.1%，英特尔降至51.5%",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykqvx2240025.shtml",
+      "time": "11-11 21:17",
+      "src": "环球市场播报"
     },
     {
       "title": "理想汽车高管吐槽苹果新款笔记本电脑：风扇噪音大的像烧开水，准备退货",
@@ -810,16 +789,28 @@
       "src": "IT之家"
     },
     {
-      "title": "AMD与三星电子合作开发下一代嵌入式处理器",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniyixxw5238151.shtml",
-      "time": "11-11 14:27",
-      "src": "环球市场播报"
+      "title": "Computex 2026: NVIDIA 发布 ARM 架构 PC 芯片 RTX Spark, 集成 Blackwell GPU, 对标苹果 M5",
+      "link": "https://new.qq.com/rain/a/20260605A09PXY00",
+      "time": "精选",
+      "src": "资讯整理"
     },
     {
-      "title": "AMD与三星电子在下一代嵌入式处理器领域展开合作",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniyixya8487523.shtml",
-      "time": "11-11 14:13",
-      "src": "环球市场播报"
+      "title": "AMD 发布 Ryzen 7 7700X3D(104MB缓存,$329) 与 Radeon RX 9070 GRE(12GB,$549), 强化 1440p 游戏市场",
+      "link": "https://www.91mobiles.com/hub/computex-2026-amd-ryzen-x3d-cpus-radeon-9070-gre",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "Intel 预览 Nova Lake 桌面平台: 最高48核(16P+32E), 18A 工艺, LGA1954 新插槽, 预计2026年底上市",
+      "link": "https://www.160.com/article/12732.html",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "宏碁首发 1000Hz 电竞显示器; 微星 5K Mini-LED 双模电竞屏(5K@180Hz/2K@330Hz) 亮相 Computex 2026",
+      "link": "https://www.160.com/article/12732.html",
+      "time": "精选",
+      "src": "资讯整理"
     }
   ],
   "kojima": {
@@ -1020,128 +1011,134 @@
   },
   "intl_news": [
     {
-      "title": "Diraq 全球首台硅自旋量子计算机落地商业数据中心",
-      "link": "https://www.ithome.com/1/025/608.htm",
-      "time": "11-11 17:06",
+      "title": "俄罗斯月球核电站新计划：明年选定方案、本世纪 30 年代中期运行",
+      "link": "https://www.ithome.com/1/025/817.htm",
+      "time": "11-11 22:46",
       "src": "IT之家"
     },
     {
-      "title": "芬兰批准特斯拉辅助驾驶系统 TAD 上路使用，成为第 11 个放行的欧洲国家",
-      "link": "https://www.ithome.com/1/025/571.htm",
-      "time": "11-11 16:16",
+      "title": "2027 年第八届华为睿影 XMAGE 金鸡手机电影计划全球征片开启：设 7 项荣誉共 19 部荣誉作品",
+      "link": "https://www.ithome.com/1/025/799.htm",
+      "time": "11-11 21:25",
       "src": "IT之家"
     },
     {
-      "title": "全球首个“语音控制卫星”纪录诞生，喊话成功启动《毁灭战士》游戏",
-      "link": "https://www.ithome.com/1/025/546.htm",
-      "time": "11-11 15:34",
+      "title": "欧盟网络安全局警告：超市冰箱遭黑客攻击后，家用电器可能是下一个目标",
+      "link": "https://www.ithome.com/1/025/784.htm",
+      "time": "11-11 20:51",
       "src": "IT之家"
     },
     {
-      "title": "IDC：2030 年，全球数据中心机柜量将达 5800 万架",
-      "link": "https://www.ithome.com/1/025/483.htm",
-      "time": "11-11 15:12",
+      "title": "新报告：全球通过可再生能源、电动汽车避免的碳排放，约一半在中国实现",
+      "link": "https://www.ithome.com/1/025/776.htm",
+      "time": "11-11 20:24",
       "src": "IT之家"
     },
     {
-      "title": "国际能源署署长：中国在清洁能源领域走出先行之路，作用无可争议｜新闻会客厅",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-11/10730071.shtml",
-      "time": "11-11 16:55",
+      "title": "德权威机构大幅上调2026年德国经济增长预期",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-11/10730567.shtml",
+      "time": "11-11 23:58",
       "src": "中新网"
     },
     {
-      "title": "靖国神社“秘录”公开，戳穿日本右翼的隐秘算计（环球走笔）",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-11/10730273.shtml",
-      "time": "11-11 16:41",
+      "title": "“熊猫杯”国际足球锦标赛中国U19男足首站告捷",
+      "link": "https://www.chinanews.com.cn/ty/2026/11-11/10730566.shtml",
+      "time": "11-11 23:27",
       "src": "中新网"
     },
     {
-      "title": "外媒聚焦COP31：中国积极参与全球气候治理，助力全球绿色转型",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-11/10730274.shtml",
-      "time": "11-11 16:41",
+      "title": "2026年中国国际拳击公开赛收官 中国选手9金领跑",
+      "link": "https://www.chinanews.com.cn/ty/2026/11-11/10730565.shtml",
+      "time": "11-11 23:26",
       "src": "中新网"
     },
     {
-      "title": "澳大利亚经济学家彼得·德赖斯代尔接受《环球时报》专访：深圳APEC将为多边合作注入动力",
-      "link": "https://www.chinanews.com.cn/ll/2026/11-11/10730271.shtml",
-      "time": "11-11 16:36",
+      "title": "王沪宁会见古巴党和政府特使、古共中央政治局委员、外交部长罗德里格斯",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-11/10730549.shtml",
+      "time": "11-11 22:00",
       "src": "中新网"
     }
   ],
   "econ_news": [
     {
-      "title": "本田逐步减少电动汽车投入，转而投 30 亿美元发展混动车型",
-      "link": "https://www.ithome.com/1/025/609.htm",
-      "time": "11-11 17:08",
-      "src": "IT之家"
-    },
-    {
-      "title": "港珠澳大桥口岸经海关跨境电商平台出口破千亿元，包裹日均超 300 万个",
-      "link": "https://www.ithome.com/1/025/570.htm",
-      "time": "11-11 16:15",
-      "src": "IT之家"
-    },
-    {
-      "title": "消息称 OpenAI 今年 Q3 营收首次达百亿美元，环比大增近 50%",
-      "link": "https://www.ithome.com/1/025/560.htm",
-      "time": "11-11 15:57",
-      "src": "IT之家"
-    },
-    {
-      "title": "谷歌 Pixel Tag 防丢追踪器开售：对标苹果 AirTag，售价 29.99 美元",
-      "link": "https://www.ithome.com/1/025/553.htm",
-      "time": "11-11 15:47",
-      "src": "IT之家"
-    },
-    {
-      "title": "冒充自己的诈骗广告充斥 Facebook，日本亿万富翁前泽友作起诉 Meta 索赔 1 日元遭地方法院驳回",
-      "link": "https://www.ithome.com/1/025/544.htm",
-      "time": "11-11 15:31",
-      "src": "IT之家"
-    },
-    {
-      "title": "消息称 Anthropic 承销商考虑上调 IPO 发行价，估值或突破 1.5 万亿美元",
-      "link": "https://www.ithome.com/1/025/526.htm",
-      "time": "11-11 15:23",
-      "src": "IT之家"
-    },
-    {
-      "title": "答题闯关！21个经济体“线下见面”，这个“群”的群规你摸清了吗？",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-11/10730272.shtml",
-      "time": "11-11 16:38",
+      "title": "德权威机构大幅上调2026年德国经济增长预期",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-11/10730567.shtml",
+      "time": "11-11 23:58",
       "src": "中新网"
     },
     {
-      "title": "澳大利亚经济学家彼得·德赖斯代尔接受《环球时报》专访：深圳APEC将为多边合作注入动力",
-      "link": "https://www.chinanews.com.cn/ll/2026/11-11/10730271.shtml",
-      "time": "11-11 16:36",
+      "title": "中国（内蒙古）自由贸易试验区法治研究中心揭牌",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-11/10730546.shtml",
+      "time": "11-11 21:58",
       "src": "中新网"
+    },
+    {
+      "title": "Anthropic IPO获数倍超额认购 最高拟募资904亿美元 或创全球IPO纪录",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585964.htm",
+      "time": "11-11 22:38",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "汽油和食品价格上涨令《GTA6》售价80美元显得“物超所值”",
+      "link": "https://www.cnbeta.com.tw/articles/game/1585930.htm",
+      "time": "11-11 16:06",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "美国商务部推迟将Megaspeed列入贸易黑名单",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261111-%E7%BE%8E%E5%9B%BD%E5%95%86%E5%8A%A1%E9%83%A8%E6%8E%A8%E8%BF%9F%E5%B0%86megaspeed%E5%88%97%E5%85%A5%E8%B4%B8%E6%98%93%E9%BB%91%E5%90%8D%E5%8D%95",
+      "time": "11-11 21:54",
+      "src": "REUTERS - SUHA"
+    },
+    {
+      "title": "欧洲债市：英国及欧洲短债跑输 油价反弹推动加息押注升温",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniykzmp1520019.shtml",
+      "time": "11-12 01:45",
+      "src": "环球市场播报"
+    },
+    {
+      "title": "伯恩斯坦325美元目标价：甲骨文本轮下跌过度",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniykzmu8847149.shtml",
+      "time": "11-12 01:04",
+      "src": "环球市场播报"
+    },
+    {
+      "title": "受CoreWeave财报利好提振AI交易情绪，芯片板块集体大涨",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniykvcr1638852.shtml",
+      "time": "11-12 00:48",
+      "src": "环球市场播报"
     }
   ],
   "game_news": [
     {
-      "title": "澳大利亚科技教育电子游戏挑战赛将停办，主办方称生成式 AI 加大评审难度",
-      "link": "https://www.ithome.com/1/025/556.htm",
-      "time": "11-11 15:49",
+      "title": "Xbox 版《GTA 6》预载文件出现 AMD FSR 4.1 线索，首发未必支持",
+      "link": "https://www.ithome.com/1/025/821.htm",
+      "time": "11-11 23:02",
       "src": "IT之家"
     },
     {
-      "title": "索尼互动娱乐：PlayStation 5 游戏主机出货量已突破 1 亿台",
-      "link": "https://www.ithome.com/1/025/554.htm",
-      "time": "11-11 15:48",
+      "title": "贴脸开大：当着 XBOX 高层的面，前《铁拳》总监原田胜弘直言希望别再推出 XSS 这样的主机",
+      "link": "https://www.ithome.com/1/025/814.htm",
+      "time": "11-11 22:31",
       "src": "IT之家"
     },
     {
-      "title": "全球首个“语音控制卫星”纪录诞生，喊话成功启动《毁灭战士》游戏",
-      "link": "https://www.ithome.com/1/025/546.htm",
-      "time": "11-11 15:34",
+      "title": "任天堂又出手：GitHub 移除 144 个 Switch 破解芯片固件仓库",
+      "link": "https://www.ithome.com/1/025/768.htm",
+      "time": "11-11 20:02",
       "src": "IT之家"
     },
     {
-      "title": "索尼 MDR-3R 复古头戴式有线耳机日本预定火爆，发货可能延迟",
-      "link": "https://www.ithome.com/1/025/505.htm",
-      "time": "11-11 15:19",
-      "src": "IT之家"
+      "title": "欢乐沙盒模拟游戏《加油添乱Gas N Cars》今日正式登陆Steam",
+      "link": "https://www.gcores.com/articles/222200",
+      "time": "11-11 18:00",
+      "src": "机核"
+    },
+    {
+      "title": "【会员抽奖】《炼金术：智慧宫》公开实机演示，以1258年巴格达陷落为背景的第一人称生存恐怖游戏",
+      "link": "https://www.gcores.com/articles/222216",
+      "time": "11-11 17:15",
+      "src": "机核"
     },
     {
       "title": "《足球经理27》今日正式发售",
@@ -1159,12 +1156,6 @@
       "title": "索尼中止“搜打撤”游戏《Fairgame$》开发",
       "link": "https://www.gcores.com/articles/222196",
       "time": "11-11 12:39",
-      "src": "机核"
-    },
-    {
-      "title": "TPS动作恐怖游戏《梦魇执行官》 公开先导预告片与全新主视觉图",
-      "link": "https://www.gcores.com/articles/222191",
-      "time": "11-11 10:29",
       "src": "机核"
     }
   ],
@@ -1234,16 +1225,16 @@
       "src": "ISW"
     },
     {
-      "title": "美媒爆料：美财长因遭伊朗威胁已迁至军事基地居住",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-11/10730221.shtml",
-      "time": "11-11 16:34",
-      "src": "中新网"
+      "title": "“玄龙”隐身性能达世界前列！我国攻击-11 察打一体无人机更多硬核实力揭秘，或改变未来战场形态",
+      "link": "https://www.ithome.com/1/025/769.htm",
+      "time": "11-11 20:09",
+      "src": "IT之家"
     },
     {
-      "title": "美媒曝中国国防背景高校获得英伟达H200芯片 美国出口管制漏洞再受关注",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1585894.htm",
-      "time": "11-11 14:54",
-      "src": "cnBeta.COM"
+      "title": "伊朗将阿根廷海军和空军列为“恐怖组织”",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261111-%E4%BC%8A%E6%9C%97%E5%B0%86%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%B5%B7%E5%86%9B%E5%92%8C%E7%A9%BA%E5%86%9B%E5%88%97%E4%B8%BA-%E6%81%90%E6%80%96%E7%BB%84%E7%BB%87",
+      "time": "11-12 00:11",
+      "src": "via REUTERS - "
     },
     {
       "title": "以色列新一届议会周二宣誓就职，艾森科特承诺尽快组建国家紧急团结政府",
@@ -1270,10 +1261,10 @@
       "src": "via REUTERS - "
     },
     {
-      "title": "法国承诺对伊朗网攻超市冰柜系统进行隐秘制裁与报复 欧盟准备加入",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261110-%E6%B3%95%E5%9B%BD%E6%89%BF%E8%AF%BA%E5%AF%B9%E4%BC%8A%E6%9C%97%E7%BD%91%E6%94%BB%E8%B6%85%E5%B8%82%E5%86%B0%E6%9F%9C%E7%B3%BB%E7%BB%9F%E8%BF%9B%E8%A1%8C%E9%9A%90%E7%A7%98%E5%88%B6%E8%A3%81%E4%B8%8E%E6%8A%A5%E5%A4%8D-%E6%AC%A7%E7%9B%9F%E5%87%86%E5%A4%87%E5%8A%A0%E5%85%A5",
-      "time": "11-10 23:21",
-      "src": "AFP - JACK GUE"
+      "title": "英國美軍在用基地反恐案件：華府稱三伊朗關聯者策劃",
+      "link": "https://www.bbc.com/zhongwen/articles/cmx20xpn40zyo/trad?at_medium=RSS&at_campaign=rss",
+      "time": "11-11 11:12",
+      "src": "BBC中文"
     }
   ]
 }
