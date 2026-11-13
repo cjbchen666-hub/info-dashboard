@@ -1,133 +1,10 @@
 {
-  "generated_at": "2026-11-14 01:36",
+  "generated_at": "2026-11-14 07:26",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
-    "indices": [
-      {
-        "name": "上证指数",
-        "code": "000001",
-        "price": 3634.35,
-        "pct": -0.59,
-        "chg": -21.48,
-        "amount": "7706亿"
-      },
-      {
-        "name": "深证成指",
-        "code": "399001",
-        "price": 10968.79,
-        "pct": -2.05,
-        "chg": -229.19,
-        "amount": "8851亿"
-      },
-      {
-        "name": "创业板指",
-        "code": "399006",
-        "price": 2426.08,
-        "pct": -3.32,
-        "chg": -83.35,
-        "amount": "4353亿"
-      },
-      {
-        "name": "沪深300",
-        "code": "000300",
-        "price": 4016.29,
-        "pct": -0.68,
-        "chg": -27.64,
-        "amount": "4602亿"
-      },
-      {
-        "name": "科创50",
-        "code": "000688",
-        "price": 1279.66,
-        "pct": -2.3,
-        "chg": -30.18,
-        "amount": "1000亿"
-      },
-      {
-        "name": "北证50",
-        "code": "899050",
-        "price": 876.33,
-        "pct": -3.5,
-        "chg": -31.74,
-        "amount": "116亿"
-      }
-    ],
-    "gainers": [
-      {
-        "name": "幸福蓝海",
-        "code": "300528",
-        "pct": 20.01,
-        "price": 17.99
-      },
-      {
-        "name": "美晨科技",
-        "code": "300237",
-        "pct": 19.85,
-        "price": 3.26
-      },
-      {
-        "name": "旋极信息",
-        "code": "300324",
-        "pct": 17.58,
-        "price": 3.88
-      },
-      {
-        "name": "华是科技",
-        "code": "301218",
-        "pct": 15.31,
-        "price": 99.86
-      },
-      {
-        "name": "嘉益股份",
-        "code": "301004",
-        "pct": 13.54,
-        "price": 33.97
-      },
-      {
-        "name": "安达股份",
-        "code": "920202",
-        "pct": 13.31,
-        "price": 14.05
-      }
-    ],
-    "losers": [
-      {
-        "name": "和林微纳",
-        "code": "688661",
-        "pct": -16.22,
-        "price": 58.48
-      },
-      {
-        "name": "斯迪克",
-        "code": "300806",
-        "pct": -14.64,
-        "price": 39.0
-      },
-      {
-        "name": "思林杰",
-        "code": "688115",
-        "pct": -14.15,
-        "price": 46.35
-      },
-      {
-        "name": "科翔股份",
-        "code": "300903",
-        "pct": -13.38,
-        "price": 61.8
-      },
-      {
-        "name": "联讯仪器",
-        "code": "688808",
-        "pct": -13.08,
-        "price": 718.05
-      },
-      {
-        "name": "炬光科技",
-        "code": "688167",
-        "pct": -12.99,
-        "price": 135.73
-      }
-    ],
+    "indices": [],
+    "gainers": [],
+    "losers": [],
     "status": {
       "state": "休市",
       "label": "周末休市",
@@ -257,6 +134,18 @@
         "src": "中新网"
       },
       {
+        "title": "美联储警告：部分由AI推动的资产价格高企存在潜在风险",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1586326.htm",
+        "time": "11-14 06:50",
+        "src": "cnBeta.COM"
+      },
+      {
+        "title": "OpenAI撤销独立机器人研究团队 人员并入核心研究与应用部门",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1586318.htm",
+        "time": "11-14 03:58",
+        "src": "cnBeta.COM"
+      },
+      {
         "title": "黄仁勋一手打造4万亿美元AI巨头英伟达 但持股不足4%",
         "link": "https://www.cnbeta.com.tw/articles/tech/1586272.htm",
         "time": "11-13 20:53",
@@ -267,18 +156,6 @@
         "link": "https://www.cnbeta.com.tw/articles/tech/1586266.htm",
         "time": "11-13 18:07",
         "src": "cnBeta.COM"
-      },
-      {
-        "title": "日政府拟将未来五年防卫费总额提至60万亿日元 将新设统筹机构强化防卫基础",
-        "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261113-%E6%97%A5%E6%94%BF%E5%BA%9C%E6%8B%9F%E5%B0%86%E6%9C%AA%E6%9D%A5%E4%BA%94%E5%B9%B4%E9%98%B2%E5%8D%AB%E8%B4%B9%E6%80%BB%E9%A2%9D%E6%8F%90%E8%87%B360%E4%B8%87%E4%BA%BF%E6%97%A5%E5%85%83-%E5%B0%86%E6%96%B0%E8%AE%BE%E7%BB%9F%E7%AD%B9%E6%9C%BA%E6%9E%84%E5%BC%BA%E5%8C%96%E9%98%B2%E5%8D%AB%E5%9F%BA%E7%A1%80",
-        "time": "11-14 00:19",
-        "src": "© 路透社图片"
-      },
-      {
-        "title": "黄乐关联企业涉向华为提供英伟达算力 美司法部查其是否涉超微电脑产品走私案",
-        "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261113-%E9%BB%84%E4%B9%90%E5%85%B3%E8%81%94%E4%BC%81%E4%B8%9A%E6%B6%89%E5%90%91%E5%8D%8E%E4%B8%BA%E6%8F%90%E4%BE%9B%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%AE%97%E5%8A%9B-%E7%BE%8E%E5%8F%B8%E6%B3%95%E9%83%A8%E6%9F%A5%E5%85%B6%E6%98%AF%E5%90%A6%E6%B6%89%E8%B6%85%E5%BE%AE%E7%94%B5%E8%84%91%E4%BA%A7%E5%93%81%E8%B5%B0%E7%A7%81%E6%A1%88",
-        "time": "11-13 20:02",
-        "src": "© 路透社图片"
       }
     ]
   },
@@ -294,26 +171,26 @@
     {
       "name": "道琼斯",
       "code": ".DJI",
-      "price": 52262.77,
-      "pct": -0.07,
-      "chg": -34.32,
-      "amount": "1876951771亿"
+      "price": 52347.55,
+      "pct": 0.1,
+      "chg": 50.46,
+      "amount": "3374445385亿"
     },
     {
       "name": "纳斯达克",
       "code": ".IXIC",
-      "price": 25069.81,
-      "pct": -1.17,
-      "chg": -296.28,
-      "amount": "11022536043亿"
+      "price": 25136.27,
+      "pct": -0.91,
+      "chg": -229.82,
+      "amount": "19456586933亿"
     },
     {
       "name": "标普500",
       "code": ".INX",
-      "price": 7539.8,
-      "pct": -0.69,
-      "chg": -52.6,
-      "amount": "898182758亿"
+      "price": 7561.67,
+      "pct": -0.4,
+      "chg": -30.73,
+      "amount": "2062319049亿"
     }
   ],
   "anime": {
@@ -327,7 +204,7 @@
         "score": 7.9,
         "img": "http://lain.bgm.tv/pic/cover/c/be/e7/567896_RWffW.jpg",
         "air_date": "2026-10-03",
-        "rank": 479
+        "rank": 477
       },
       {
         "id": 554779,
@@ -336,7 +213,7 @@
         "score": 7.7,
         "img": "http://lain.bgm.tv/pic/cover/c/17/c7/554779_oPitO.jpg",
         "air_date": "2026-10-03",
-        "rank": 537
+        "rank": 525
       },
       {
         "id": 899,
@@ -345,7 +222,7 @@
         "score": 7.5,
         "img": "http://lain.bgm.tv/pic/cover/c/01/88/899_REwVW.jpg",
         "air_date": "1996-01-08",
-        "rank": 908
+        "rank": 911
       },
       {
         "id": 637802,
@@ -354,7 +231,7 @@
         "score": 7.5,
         "img": "http://lain.bgm.tv/pic/cover/c/7a/49/637802_YVTam.jpg",
         "air_date": "2026-10-03",
-        "rank": 1076
+        "rank": 1088
       },
       {
         "id": 507820,
@@ -372,7 +249,7 @@
         "score": 6.5,
         "img": "http://lain.bgm.tv/pic/cover/c/f9/ae/616808_F80Sl.jpg",
         "air_date": "2026-10-03",
-        "rank": 5136
+        "rank": 5142
       },
       {
         "id": 456078,
@@ -381,7 +258,7 @@
         "score": 6.2,
         "img": "http://lain.bgm.tv/pic/cover/c/f5/6b/456078_jtjPi.jpg",
         "air_date": "2026-10-03",
-        "rank": 6555
+        "rank": 6561
       },
       {
         "id": 559080,
@@ -417,7 +294,7 @@
         "score": 5.7,
         "img": "http://lain.bgm.tv/pic/cover/c/61/81/542007_wNKJa.jpg",
         "air_date": "2026-10-03",
-        "rank": 7926
+        "rank": 7939
       },
       {
         "id": 617273,
@@ -426,7 +303,7 @@
         "score": 5.7,
         "img": "http://lain.bgm.tv/pic/cover/c/60/14/617273_dhFwZ.jpg",
         "air_date": "2026-10-03",
-        "rank": 6644
+        "rank": 6643
       },
       {
         "id": 586255,
@@ -435,7 +312,7 @@
         "score": 5.6,
         "img": "http://lain.bgm.tv/pic/cover/c/9e/00/586255_FcfsN.jpg",
         "air_date": "2026-10-03",
-        "rank": 8641
+        "rank": 8640
       },
       {
         "id": 636512,
@@ -444,7 +321,7 @@
         "score": 5.4,
         "img": "http://lain.bgm.tv/pic/cover/c/42/ae/636512_oOtDt.jpg",
         "air_date": "2026-10-03",
-        "rank": 9193
+        "rank": 9223
       },
       {
         "id": 568525,
@@ -462,7 +339,7 @@
         "score": 4.3,
         "img": "http://lain.bgm.tv/pic/cover/c/7b/a7/613256_fxVvG.jpg",
         "air_date": "2026-10-10",
-        "rank": 9735
+        "rank": 9689
       },
       {
         "id": 717907,
@@ -480,7 +357,7 @@
         "score": 3.7,
         "img": "http://lain.bgm.tv/pic/cover/c/15/11/606716_Om183.jpg",
         "air_date": "2026-10-03",
-        "rank": 10326
+        "rank": 10327
       },
       {
         "id": 637206,
@@ -585,6 +462,12 @@
   "ai": {
     "news_zh": [
       {
+        "title": "英伟达董事会澄清：尚未选定 CEO 招聘猎头，也未正式接触候选人",
+        "link": "https://www.ithome.com/1/026/998.htm",
+        "time": "11-14 06:39",
+        "src": "IT之家"
+      },
+      {
         "title": "让智能体帮你购物，OpenAI 推出支付功能 ChatGPT Wallet",
         "link": "https://www.ithome.com/1/026/994.htm",
         "time": "11-13 23:49",
@@ -625,50 +508,44 @@
         "link": "https://www.ithome.com/1/026/960.htm",
         "time": "11-13 22:29",
         "src": "IT之家"
-      },
-      {
-        "title": "AI 助力复活尘封 15 年废案，iOS 4 时代苹果卡片后台界面曝光",
-        "link": "https://www.ithome.com/1/026/959.htm",
-        "time": "11-13 22:23",
-        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-        "likes": 4911,
+        "likes": 5746,
         "downloads": 21586,
         "pipeline": "text-generation"
       },
       {
         "id": "MiniMaxAI/MiniMax-H3-Image",
-        "likes": 972,
+        "likes": 1007,
         "downloads": 437039,
         "pipeline": "text-to-image"
       },
       {
         "id": "Angais/pixel-art-atlas-1.4m",
-        "likes": 455,
+        "likes": 460,
         "downloads": 53473,
         "pipeline": ""
       },
       {
         "id": "NousResearch/Arete-27B",
-        "likes": 525,
+        "likes": 543,
         "downloads": 5545,
         "pipeline": "text-generation"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 11731,
+        "likes": 11770,
         "downloads": 2778909,
         "pipeline": "image-to-video"
       },
       {
-        "id": "speridlabs/idol",
-        "likes": 2266,
-        "downloads": 31367,
-        "pipeline": "image-to-3d"
+        "id": "Qwen/Qwen3.8-27B",
+        "likes": 19865,
+        "downloads": 6960395,
+        "pipeline": "image-text-to-text"
       }
     ],
     "models": [
@@ -1128,15 +1005,15 @@
       "src": "机核"
     },
     {
-      "title": "（国际观察）“乌克兰困局”能否迎来破局时刻？",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-13/10731846.shtml",
-      "time": "11-13 22:32",
+      "title": "科斯塔：欧洲五国及欧盟机构将参与下一轮乌克兰问题谈判",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-14/10731873.shtml",
+      "time": "11-14 06:32",
       "src": "中新网"
     },
     {
-      "title": "全球首座半潜式风电制氢平台拖航启程",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-13/10731848.shtml",
-      "time": "11-13 22:27",
+      "title": "（国际观察）“乌克兰困局”能否迎来破局时刻？",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-13/10731846.shtml",
+      "time": "11-13 22:32",
       "src": "中新网"
     }
   ],
@@ -1184,13 +1061,25 @@
       "src": "中新网"
     },
     {
-      "title": "美国查获从币安被盗的12亿美元加密货币",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1586300.htm",
-      "time": "11-13 22:11",
+      "title": "美联储警告：部分由AI推动的资产价格高企存在潜在风险",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586326.htm",
+      "time": "11-14 06:50",
       "src": "cnBeta.COM"
     }
   ],
   "game_news": [
+    {
+      "title": "微软称 Outlook 等服务陆续恢复并趋稳，部分用户仍待恢复",
+      "link": "https://www.ithome.com/1/027/001.htm",
+      "time": "11-14 06:57",
+      "src": "IT之家"
+    },
+    {
+      "title": "微软发布 Win11 Beta / Experimental / RP 多版本预览版：含 28020.3532 等多版本推送",
+      "link": "https://www.ithome.com/1/026/997.htm",
+      "time": "11-14 02:07",
+      "src": "IT之家"
+    },
     {
       "title": "NearLink E1.0 也有新特性！华为 MatePad Pro 13.2 2023 等平板获推支持星闪电竞专链功能",
       "link": "https://www.ithome.com/1/026/995.htm",
@@ -1225,18 +1114,6 @@
       "title": "消息称抖音向主播发送发布《GTA6》游戏直播规范：大尺度内容要遮挡",
       "link": "https://www.ithome.com/1/026/938.htm",
       "time": "11-13 20:02",
-      "src": "IT之家"
-    },
-    {
-      "title": "太空模拟游戏《星际公民》开启“IAE 2956”活动，玩家可免费试玩游戏半个月",
-      "link": "https://www.ithome.com/1/026/934.htm",
-      "time": "11-13 19:40",
-      "src": "IT之家"
-    },
-    {
-      "title": "爱好者将诺基亚 N-Gage 平台 2004 年游戏《上古卷轴旅行：暗影之钥》移植到 PC 平台，支持 4K 分辨率运行",
-      "link": "https://www.ithome.com/1/026/933.htm",
-      "time": "11-13 19:24",
       "src": "IT之家"
     }
   ],
@@ -1318,34 +1195,34 @@
       "src": "cnBeta.COM"
     },
     {
-      "title": "消息人士称英伟达临时CEO曾反对黄仁勋力推交易 并与其女儿女婿发生冲突",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1586244.htm",
-      "time": "11-13 15:27",
-      "src": "cnBeta.COM"
+      "title": "伊朗黑客用中国AI攻击法国超市冷藏系统 背后还藏着谁？",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20261113-%E4%BC%8A%E6%9C%97%E9%BB%91%E5%AE%A2%E7%94%A8%E4%B8%AD%E5%9B%BDai%E6%94%BB%E5%87%BB%E6%B3%95%E5%9B%BD%E8%B6%85%E5%B8%82%E5%86%B7%E8%97%8F%E7%B3%BB%E7%BB%9F-%E8%83%8C%E5%90%8E%E8%BF%98%E8%97%8F%E7%9D%80%E8%B0%81",
+      "time": "11-14 02:10",
+      "src": "法广RFI"
     },
     {
-      "title": "加沙：以军袭击汗尤尼斯纳赛尔医院，6人死亡",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20261112-%E5%8A%A0%E6%B2%99-%E4%BB%A5%E5%86%9B%E8%A2%AD%E5%87%BB%E6%B1%97%E5%B0%A4%E5%B0%BC%E6%96%AF%E7%BA%B3%E8%B5%9B%E5%B0%94%E5%8C%BB%E9%99%A2%EF%BC%8C6%E4%BA%BA%E6%AD%BB%E4%BA%A1",
-      "time": "11-13 07:24",
-      "src": "AP Photo/Abdel"
+      "title": "乌军对俄境内目标发动大规模无人机攻击",
+      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261113-%E4%B9%8C%E5%86%9B%E5%AF%B9%E4%BF%84%E5%A2%83%E5%86%85%E7%9B%AE%E6%A0%87%E5%8F%91%E5%8A%A8%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%94%BB%E5%87%BB",
+      "time": "11-14 04:02",
+      "src": "REUTERS - Sofi"
     },
     {
-      "title": "以色列国防部长： 看守总理内塔尼亚胡要下令采取新的军事行动，无需征得反对派的许可",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20261112-%E4%BB%A5%E8%89%B2%E5%88%97%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF-%E7%9C%8B%E5%AE%88%E6%80%BB%E7%90%86%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E8%A6%81%E4%B8%8B%E4%BB%A4%E9%87%87%E5%8F%96%E6%96%B0%E7%9A%84%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%EF%BC%8C%E6%97%A0%E9%9C%80%E5%BE%81%E5%BE%97%E5%8F%8D%E5%AF%B9%E6%B4%BE%E7%9A%84%E8%AE%B8%E5%8F%AF",
-      "time": "11-13 05:08",
-      "src": "AP - Thanassis"
+      "title": "集体拒签“最后通牒”，大批媒体撤离五角大楼",
+      "link": "https://news.sina.com.cn/w/2025-10-18/doc-infuhrzs7824610.shtml",
+      "time": "10-18 11:10",
+      "src": ""
     },
     {
-      "title": "胡塞武装袭击沙特的“东西输油管道”及延布的石油设施。",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20261112-%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E8%A2%AD%E5%87%BB%E6%B2%99%E7%89%B9%E7%9A%84-%E4%B8%9C%E8%A5%BF%E8%BE%93%E6%B2%B9%E7%AE%A1%E9%81%93-%E5%8F%8A%E5%BB%B6%E5%B8%83%E7%9A%84%E7%9F%B3%E6%B2%B9%E8%AE%BE%E6%96%BD",
-      "time": "11-13 05:13",
-      "src": "© MOHAMMED HUW"
+      "title": "伊朗代理总统同俄罗斯总统通电话 讨论合作问题",
+      "link": "https://news.sina.com.cn/w/2024-06-27/doc-incaceev5723822.shtml",
+      "time": "06-27 03:10",
+      "src": "央视"
     },
     {
-      "title": "BCA Research：油价已基本消化战争溢价，即使美伊达成持久停火，布伦特原油仍有望维持在90美元以上",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniyriit1093538.shtml",
-      "time": "11-13 23:19",
-      "src": "环球市场播报"
+      "title": "以军称在加沙北部打死杰哈德一名军事指挥官",
+      "link": "https://news.sina.com.cn/w/2024-06-26/doc-inazyzfv6507547.shtml",
+      "time": "06-26 05:08",
+      "src": "央视"
     }
   ]
 }
