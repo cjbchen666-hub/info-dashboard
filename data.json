@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15 02:59",
+  "generated_at": "2026-11-15 07:47",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -239,10 +239,10 @@
         "src": "IT之家"
       },
       {
-        "title": "美联储理事巴尔：AI 快速普及，短期内收入不平等恐加剧",
-        "link": "https://www.ithome.com/1/027/177.htm",
-        "time": "11-14 16:54",
-        "src": "IT之家"
+        "title": "摩根士丹利财富管理Shalett：AI资本支出驱动的牛市逻辑依然稳固",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniytwwt3669681.shtml",
+        "time": "11-15 04:08",
+        "src": "环球市场播报"
       },
       {
         "title": "美联储柯林斯：稳步、渐进加息是适宜之举",
@@ -327,7 +327,7 @@
         "score": 7.4,
         "img": "http://lain.bgm.tv/pic/cover/c/67/5a/555605_cLCw5.jpg",
         "air_date": "2026-10-04",
-        "rank": 1422
+        "rank": 1413
       },
       {
         "id": 623249,
@@ -336,7 +336,7 @@
         "score": 7.1,
         "img": "http://lain.bgm.tv/pic/cover/c/0f/0f/623249_zCdly.jpg",
         "air_date": "2026-10-11",
-        "rank": 2328
+        "rank": 2362
       },
       {
         "id": 635258,
@@ -363,7 +363,7 @@
         "score": 6.5,
         "img": "http://lain.bgm.tv/pic/cover/c/44/ed/634210_O7aNK.jpg",
         "air_date": "2026-10-04",
-        "rank": 4265
+        "rank": 4303
       },
       {
         "id": 548156,
@@ -372,7 +372,7 @@
         "score": 6.3,
         "img": "http://lain.bgm.tv/pic/cover/c/f1/6c/548156_n0qcY.jpg",
         "air_date": "2026-10-04",
-        "rank": 6107
+        "rank": 6106
       },
       {
         "id": 688797,
@@ -390,7 +390,7 @@
         "score": 6.2,
         "img": "http://lain.bgm.tv/pic/cover/c/9e/b5/630160_tL25y.jpg",
         "air_date": "2026-10-04",
-        "rank": 6354
+        "rank": 6494
       },
       {
         "id": 664395,
@@ -426,7 +426,7 @@
         "score": 5.9,
         "img": "http://lain.bgm.tv/pic/cover/c/94/c9/636023_iF8j7.jpg",
         "air_date": "2026-10-04",
-        "rank": 7692
+        "rank": 7754
       },
       {
         "id": 664389,
@@ -444,16 +444,16 @@
         "score": 5.8,
         "img": "http://lain.bgm.tv/pic/cover/c/3e/fc/536270_51P45.jpg",
         "air_date": "2026-10-04",
-        "rank": 8001
+        "rank": 8024
       },
       {
         "id": 551304,
         "name": "わたしの幸せな結婚 特別篇",
         "name_cn": "我的幸福婚姻 特别篇",
-        "score": 5.7,
+        "score": 5.8,
         "img": "http://lain.bgm.tv/pic/cover/c/ac/40/551304_FbmZ9.jpg",
         "air_date": "2026-10-25",
-        "rank": 7076
+        "rank": 6945
       },
       {
         "id": 589775,
@@ -498,7 +498,7 @@
         "score": 5.3,
         "img": "http://lain.bgm.tv/pic/cover/c/af/7e/656083_B22Yt.jpg",
         "air_date": "2026-10-04",
-        "rank": 9274
+        "rank": 9273
       },
       {
         "id": 708612,
@@ -585,6 +585,12 @@
   "ai": {
     "news_zh": [
       {
+        "title": "一天暴涨 6 万：请愿恢复黄仁勋英伟达 CEO 职务人数突破 12 万人，马斯克也参与签名",
+        "link": "https://www.ithome.com/1/027/252.htm",
+        "time": "11-15 07:18",
+        "src": "IT之家"
+      },
+      {
         "title": "马斯克再度力挺黄仁勋：没有他，英伟达将失去部分关键合作",
         "link": "https://www.ithome.com/1/027/247.htm",
         "time": "11-14 23:28",
@@ -625,48 +631,42 @@
         "link": "https://www.ithome.com/1/027/221.htm",
         "time": "11-14 19:45",
         "src": "IT之家"
-      },
-      {
-        "title": "Cursor 披露安全事件调查结果，恶意 Claude Code 扩展最多波及 5000 用户",
-        "link": "https://www.ithome.com/1/027/215.htm",
-        "time": "11-14 18:52",
-        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-        "likes": 7328,
+        "likes": 7351,
         "downloads": 24470,
         "pipeline": "text-generation"
       },
       {
         "id": "MiniMaxAI/MiniMax-H3-Image",
-        "likes": 1105,
+        "likes": 1115,
         "downloads": 517948,
         "pipeline": "text-to-image"
       },
       {
         "id": "Angais/pixel-art-atlas-1.4m",
-        "likes": 479,
+        "likes": 483,
         "downloads": 57565,
         "pipeline": ""
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 11895,
+        "likes": 11924,
         "downloads": 2777667,
         "pipeline": "image-to-video"
       },
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 19983,
+        "likes": 20006,
         "downloads": 6757964,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-        "likes": 3106,
+        "likes": 3118,
         "downloads": 1657783,
         "pipeline": "image-text-to-text"
       }
@@ -1110,6 +1110,12 @@
   },
   "intl_news": [
     {
+      "title": "中国车企首家：小米泰坦合金 2.0 与新一代 SU7 从材料到整车通过国际 EPD 体系认证",
+      "link": "https://www.ithome.com/1/027/249.htm",
+      "time": "11-15 07:06",
+      "src": "IT之家"
+    },
+    {
       "title": "白宫“超级智能工作组”呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
       "link": "https://www.ithome.com/1/027/229.htm",
       "time": "11-14 21:03",
@@ -1146,15 +1152,9 @@
       "src": "中新网"
     },
     {
-      "title": "乌克兰“星盾”又被限速 泽连斯基痛批SpaceX",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1586420.htm",
-      "time": "11-14 22:55",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "微软称服务已全面恢复 此前故障波及全球",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1586400.htm",
-      "time": "11-14 17:09",
+      "title": "微软大规模全球宕机引发索赔行动 部分客户寻求获得服务补偿",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586430.htm",
+      "time": "11-15 04:55",
       "src": "cnBeta.COM"
     }
   ],
@@ -1169,12 +1169,6 @@
       "title": "预测市场平台 Kalshi 招募《GTA 6》研究员，需全程直播游玩过程并分析游戏内外经济",
       "link": "https://www.ithome.com/1/027/216.htm",
       "time": "11-14 19:03",
-      "src": "IT之家"
-    },
-    {
-      "title": "美联储理事巴尔：AI 快速普及，短期内收入不平等恐加剧",
-      "link": "https://www.ithome.com/1/027/177.htm",
-      "time": "11-14 16:54",
       "src": "IT之家"
     },
     {
@@ -1206,9 +1200,22 @@
       "link": "https://www.cnbeta.com.tw/articles/tech/1586376.htm",
       "time": "11-14 14:56",
       "src": "cnBeta.COM"
+    },
+    {
+      "title": "美国交通部长谈全美停飞：国会应该批准500亿美元改造空管系统",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586372.htm",
+      "time": "11-14 14:53",
+      "src": "cnBeta.COM"
     }
   ],
   "game_news": [
+    {
+      "title": "《英雄联盟：曙光》预告片发布：将上线全新客户端，更多详情明年 1 月揭晓",
+      "link": "https://www.ithome.com/1/027/250.htm",
+      "time": "11-15 07:09",
+      "src": "IT之家",
+      "type": "不停机更新"
+    },
     {
       "title": "微软大规模宕机后，开源办公套件 LibreOffice 单日收到超 1000 笔捐款创历史新高",
       "link": "https://www.ithome.com/1/027/225.htm",
@@ -1234,12 +1241,6 @@
       "src": "IT之家"
     },
     {
-      "title": "小心打着《GTA 6》PC 版旗号的诈骗：可盗取 Steam 账号和加密钱包数据",
-      "link": "https://www.ithome.com/1/027/170.htm",
-      "time": "11-14 16:29",
-      "src": "IT之家"
-    },
-    {
       "title": "拳头游戏公布《英雄联盟》赛事未来展望",
       "link": "https://www.gcores.com/articles/222361",
       "time": "11-14 17:23",
@@ -1260,6 +1261,20 @@
     }
   ],
   "game_update": [
+    {
+      "title": "《英雄联盟：曙光》预告片发布：将上线全新客户端，更多详情明年 1 月揭晓",
+      "link": "https://www.ithome.com/1/027/250.htm",
+      "time": "11-15 07:09",
+      "src": "IT之家",
+      "type": "不停机更新"
+    },
+    {
+      "title": "《英雄联盟：曙光》正式宣布",
+      "link": "https://www.gcores.com/articles/222374",
+      "time": "11-15 06:14",
+      "src": "机核",
+      "type": "不停机更新"
+    },
     {
       "title": "拳头游戏公布《英雄联盟》赛事未来展望",
       "link": "https://www.gcores.com/articles/222361",
@@ -1301,20 +1316,6 @@
       "time": "8-06",
       "type": "不停机更新",
       "src": "腾讯官方"
-    },
-    {
-      "title": "《龙族幻想》8/13 凌晨3:00-08:00 停机版本更新: 卡塞尔之辉规则调整/极道巅峰优化, 维护后发放更新奖励",
-      "link": "https://dna.qq.com/webplat/info/news_version3/37362/61695/61696/m22835/202608/989696.shtml",
-      "time": "8-13",
-      "type": "停机维护",
-      "src": "腾讯官方"
-    },
-    {
-      "title": "《部落冲突》8/5 6:00 停机维护(预计180分钟): 周年庆版本上线, 维护后首领可领维护礼包",
-      "link": "https://new.qq.com/rain/a/20260804A0EYI300",
-      "time": "8-05",
-      "type": "停机维护",
-      "src": "腾讯官方"
     }
   ],
   "mil_news": [
@@ -1349,6 +1350,12 @@
       "src": "中新网"
     },
     {
+      "title": "美：乌入北约就愿放弃领土？ 俄：先重谈欧洲安全架构再谈停火",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20261114-%E7%BE%8E-%E4%B9%8C%E5%85%A5%E5%8C%97%E7%BA%A6%E5%B0%B1%E6%84%BF%E6%94%BE%E5%BC%83%E9%A2%86%E5%9C%9F-%E4%BF%84-%E5%85%88%E9%87%8D%E8%B0%88%E6%AC%A7%E6%B4%B2%E5%AE%89%E5%85%A8%E6%9E%B6%E6%9E%84%E5%86%8D%E8%B0%88%E5%81%9C%E7%81%AB",
+      "time": "11-15 04:47",
+      "src": "法广RFI"
+    },
+    {
       "title": "泽连斯基指美方首次提出乌克兰以撤出顿巴斯为条件加入北约可能性",
       "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261114-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%8C%87%E7%BE%8E%E6%96%B9%E9%A6%96%E6%AC%A1%E6%8F%90%E5%87%BA%E4%B9%8C%E5%85%8B%E5%85%B0%E4%BB%A5%E6%92%A4%E5%87%BA%E9%A1%BF%E5%B7%B4%E6%96%AF%E4%B8%BA%E6%9D%A1%E4%BB%B6%E5%8A%A0%E5%85%A5%E5%8C%97%E7%BA%A6%E5%8F%AF%E8%83%BD%E6%80%A7",
       "time": "11-14 19:47",
@@ -1359,12 +1366,6 @@
       "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261114-%E7%BE%8E%E9%AB%98%E5%AE%98-%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%B8%8E%E6%99%AE%E4%B9%A0%E8%B0%88%E6%A0%B8%E8%A3%81%E5%86%9B-%E9%A2%84%E8%AE%A1%E4%B8%8D%E5%8D%95%E7%8B%AC%E8%A7%81%E6%99%AE%E4%BA%AC-%E4%B8%8D%E8%B0%88%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%89",
       "time": "11-14 17:42",
       "src": "© 法新社图片"
-    },
-    {
-      "title": "伊朗黑客用中国AI攻击法国超市冷藏系统 背后还藏着谁？",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20261113-%E4%BC%8A%E6%9C%97%E9%BB%91%E5%AE%A2%E7%94%A8%E4%B8%AD%E5%9B%BDai%E6%94%BB%E5%87%BB%E6%B3%95%E5%9B%BD%E8%B6%85%E5%B8%82%E5%86%B7%E8%97%8F%E7%B3%BB%E7%BB%9F-%E8%83%8C%E5%90%8E%E8%BF%98%E8%97%8F%E7%9D%80%E8%B0%81",
-      "time": "11-14 02:10",
-      "src": "法广RFI"
     }
   ]
 }
