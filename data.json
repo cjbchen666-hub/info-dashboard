@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15 07:47",
+  "generated_at": "2026-11-15 13:59",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,10 +233,16 @@
     ],
     "news": [
       {
-        "title": "前 Anthropic 研究员考克森：当今若要重新训练 Mythos，只需初始的一小部分算力",
-        "link": "https://www.ithome.com/1/027/221.htm",
-        "time": "11-14 19:45",
+        "title": "国产算力巨头超聚变创业板 IPO 过会，前身是华为 X86 服务器业务",
+        "link": "https://www.ithome.com/1/027/255.htm",
+        "time": "11-15 07:38",
         "src": "IT之家"
+      },
+      {
+        "title": "韩国央行逢低买金 第三季度黄金ETF持仓增40%",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyuyka6430476.shtml",
+        "time": "11-15 13:57",
+        "src": "环球市场播报"
       },
       {
         "title": "摩根士丹利财富管理Shalett：AI资本支出驱动的牛市逻辑依然稳固",
@@ -269,16 +275,10 @@
         "src": "市场资讯"
       },
       {
-        "title": "英国央行首席经济学家：需进一步加息",
-        "link": "https://finance.sina.com.cn/world/2026-11-14/doc-iniysrcc0597024.shtml",
-        "time": "11-14 13:06",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "Anthropic摩根大通总部路演 对算力支出表态谨慎",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniysepm3111917.shtml",
-        "time": "11-14 08:46",
-        "src": "环球市场播报"
+        "title": "脑卒中创新药先必新®舌下片首次纳入基本医保目录",
+        "link": "https://finance.sina.com.cn/tech/shenji/2026-11-15/doc-iniyuuaf2103793.shtml",
+        "time": "11-15 12:57",
+        "src": "新浪科技"
       }
     ]
   },
@@ -585,88 +585,88 @@
   "ai": {
     "news_zh": [
       {
-        "title": "一天暴涨 6 万：请愿恢复黄仁勋英伟达 CEO 职务人数突破 12 万人，马斯克也参与签名",
-        "link": "https://www.ithome.com/1/027/252.htm",
-        "time": "11-15 07:18",
+        "title": "韩国税务师考试榜一考生自首，承认用微型摄像头与 AI 作弊",
+        "link": "https://www.ithome.com/1/027/303.htm",
+        "time": "11-15 12:35",
         "src": "IT之家"
       },
       {
-        "title": "马斯克再度力挺黄仁勋：没有他，英伟达将失去部分关键合作",
-        "link": "https://www.ithome.com/1/027/247.htm",
-        "time": "11-14 23:28",
+        "title": "小米海外公布 18 Pro 系列手机背屏适配：支持谷歌地图、Spotify、Gemini 等应用",
+        "link": "https://www.ithome.com/1/027/295.htm",
+        "time": "11-15 11:45",
         "src": "IT之家"
       },
       {
-        "title": "智能体帮你联络商家或保险公司，Meta 旗下 Muse 上线代打电话功能",
-        "link": "https://www.ithome.com/1/027/238.htm",
-        "time": "11-14 21:46",
+        "title": "苹果智能家庭中枢 HomeView 首批评测出炉：Siri AI 问题频出，隐私问题引担忧",
+        "link": "https://www.ithome.com/1/027/294.htm",
+        "time": "11-15 11:31",
         "src": "IT之家"
       },
       {
-        "title": "黄仁勋辞任 CEO 后，英伟达诞生地丹尼餐厅移除纪念铭牌、又宣布将重新挂回",
-        "link": "https://www.ithome.com/1/027/233.htm",
-        "time": "11-14 21:31",
+        "title": "华为麒麟 9050 系列芯片新一代巴龙 AI Modem 情报公开：首创融合通信架构、业界首发四卡三待",
+        "link": "https://www.ithome.com/1/027/292.htm",
+        "time": "11-15 11:25",
         "src": "IT之家"
       },
       {
-        "title": "白宫“超级智能工作组”呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
-        "link": "https://www.ithome.com/1/027/229.htm",
-        "time": "11-14 21:03",
+        "title": "SK 集团会长崔泰源：我们所有子公司都要蜕变为 AI 企业",
+        "link": "https://www.ithome.com/1/027/277.htm",
+        "time": "11-15 10:13",
         "src": "IT之家"
       },
       {
-        "title": "英伟达副总裁卡坦扎罗否认签署要求前 CEO 黄仁勋复职的公开信，表态支持董事会和临时 CEO 克雷斯",
-        "link": "https://www.ithome.com/1/027/228.htm",
-        "time": "11-14 20:45",
+        "title": "韩国电信运营商 LG U+ 明年进军 AI Token 业务，帮助企业降低 AI 转型成本",
+        "link": "https://www.ithome.com/1/027/262.htm",
+        "time": "11-15 08:42",
         "src": "IT之家"
       },
       {
-        "title": "借助 Claude 和 Arduino 开发板，达人让 1994 款切诺基通过加州排放检测",
-        "link": "https://www.ithome.com/1/027/226.htm",
-        "time": "11-14 20:36",
+        "title": "国产算力巨头超聚变创业板 IPO 过会，前身是华为 X86 服务器业务",
+        "link": "https://www.ithome.com/1/027/255.htm",
+        "time": "11-15 07:38",
         "src": "IT之家"
       },
       {
-        "title": "前 Anthropic 研究员考克森：当今若要重新训练 Mythos，只需初始的一小部分算力",
-        "link": "https://www.ithome.com/1/027/221.htm",
-        "time": "11-14 19:45",
+        "title": "SpaceX 星舰飞船首次被发射塔机械臂捕获回收，马斯克将建 AI 数据中心星座",
+        "link": "https://www.ithome.com/1/027/253.htm",
+        "time": "11-15 07:26",
         "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-        "likes": 7351,
+        "likes": 7392,
         "downloads": 24470,
         "pipeline": "text-generation"
       },
       {
         "id": "MiniMaxAI/MiniMax-H3-Image",
-        "likes": 1115,
+        "likes": 1128,
         "downloads": 517948,
         "pipeline": "text-to-image"
       },
       {
         "id": "Angais/pixel-art-atlas-1.4m",
-        "likes": 483,
+        "likes": 485,
         "downloads": 57565,
         "pipeline": ""
       },
       {
-        "id": "Lightricks/LTX-2.5",
-        "likes": 11924,
-        "downloads": 2777667,
-        "pipeline": "image-to-video"
-      },
-      {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 20006,
+        "likes": 20029,
         "downloads": 6757964,
         "pipeline": "image-text-to-text"
       },
       {
+        "id": "Lightricks/LTX-2.5",
+        "likes": 11949,
+        "downloads": 2777667,
+        "pipeline": "image-to-video"
+      },
+      {
         "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-        "likes": 3118,
+        "likes": 3131,
         "downloads": 1657783,
         "pipeline": "image-text-to-text"
       }
@@ -840,45 +840,21 @@
   ],
   "hw_news": [
     {
-      "title": "英特尔官网确认酷睿 Ultra 7 处理器 260K 规格，最大睿频频率 5.4GHz",
-      "link": "https://www.ithome.com/1/027/245.htm",
-      "time": "11-14 22:51",
+      "title": "JPR 数据：全球 PC 客户端 CPU 出货量 2026Q3 同比 -6.5%、环比 -3.4%",
+      "link": "https://www.ithome.com/1/027/291.htm",
+      "time": "11-15 11:18",
       "src": "IT之家"
     },
     {
-      "title": "华硕 ROG 带来龙鳞 2 Ace Mini 鼠标，\"Demon1\" 联名款同步亮相",
-      "link": "https://www.ithome.com/1/027/242.htm",
-      "time": "11-14 22:40",
+      "title": "雷鸟：GT Max bilibili 限定版销售额投入 BLG 电竞基金，买家加赠冠军签名纪念版B站大会员年卡",
+      "link": "https://www.ithome.com/1/027/288.htm",
+      "time": "11-15 11:04",
       "src": "IT之家"
     },
     {
-      "title": "AOC“CU34G4ZD”34 英寸曲面显示器上市：1440P 280Hz QD-OLED Penta Tandem 面板，4999 元",
-      "link": "https://www.ithome.com/1/027/217.htm",
-      "time": "11-14 19:14",
-      "src": "IT之家"
-    },
-    {
-      "title": "黄仁勋离任 CEO 之际，英伟达品牌推广人员弗里曼称 GeForce 显卡不会终结",
-      "link": "https://www.ithome.com/1/027/212.htm",
-      "time": "11-14 18:43",
-      "src": "IT之家"
-    },
-    {
-      "title": "Mercury Research：AMD 第三季度桌面 CPU 市占率跌破 30%，英特尔夺回市场份额",
-      "link": "https://www.ithome.com/1/027/185.htm",
-      "time": "11-14 17:22",
-      "src": "IT之家"
-    },
-    {
-      "title": "英特尔联合 23 家韩国企业成立“K-AI 全栈联盟”，构建 AI 基础设施生态",
-      "link": "https://www.ithome.com/1/027/180.htm",
-      "time": "11-14 17:03",
-      "src": "IT之家"
-    },
-    {
-      "title": "消息称华硕 / 技嘉显卡工厂已执行最新成本价格调整政策：RTX5080 系列涨 1000 元、5060 涨 150 元",
-      "link": "https://www.ithome.com/1/027/178.htm",
-      "time": "11-14 16:56",
+      "title": "NINJUTSO 推出 TEN AIR PRO 鼠标：搭载 50K 传感器，599 元",
+      "link": "https://www.ithome.com/1/027/280.htm",
+      "time": "11-15 10:15",
       "src": "IT之家"
     },
     {
@@ -906,10 +882,34 @@
       "src": "cnBeta.COM"
     },
     {
-      "title": "经销商回应显卡价格跳水：涨价有人买，降价反而观望",
-      "link": "https://finance.sina.com.cn/jjxw/2026-11-14/doc-iniytnhv2612832.shtml",
-      "time": "11-14 21:04",
-      "src": ""
+      "title": "Computex 2026: NVIDIA 发布 ARM 架构 PC 芯片 RTX Spark, 集成 Blackwell GPU, 对标苹果 M5",
+      "link": "https://new.qq.com/rain/a/20260605A09PXY00",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "AMD 发布 Ryzen 7 7700X3D(104MB缓存,$329) 与 Radeon RX 9070 GRE(12GB,$549), 强化 1440p 游戏市场",
+      "link": "https://www.91mobiles.com/hub/computex-2026-amd-ryzen-x3d-cpus-radeon-9070-gre",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "Intel 预览 Nova Lake 桌面平台: 最高48核(16P+32E), 18A 工艺, LGA1954 新插槽, 预计2026年底上市",
+      "link": "https://www.160.com/article/12732.html",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "宏碁首发 1000Hz 电竞显示器; 微星 5K Mini-LED 双模电竞屏(5K@180Hz/2K@330Hz) 亮相 Computex 2026",
+      "link": "https://www.160.com/article/12732.html",
+      "time": "精选",
+      "src": "资讯整理"
+    },
+    {
+      "title": "微星 40 周年发布 RTX 5090 LIGHTNING Z 旗舰与内置 AI 代理的 OLED 电竞显示器",
+      "link": "https://www.160.com/article/12732.html",
+      "time": "精选",
+      "src": "资讯整理"
     }
   ],
   "kojima": {
@@ -1110,78 +1110,69 @@
   },
   "intl_news": [
     {
+      "title": "JPR 数据：全球 PC 客户端 CPU 出货量 2026Q3 同比 -6.5%、环比 -3.4%",
+      "link": "https://www.ithome.com/1/027/291.htm",
+      "time": "11-15 11:18",
+      "src": "IT之家"
+    },
+    {
+      "title": "BLG 战队 Knight 拿下《英雄联盟》S16 全球总决赛 FMVP，与 Bin 成为中国 LPL 首位大满贯中单、上单",
+      "link": "https://www.ithome.com/1/027/279.htm",
+      "time": "11-15 10:14",
+      "src": "IT之家",
+      "type": "不停机更新"
+    },
+    {
+      "title": "B站宣布免费送所有人大会员，英雄联盟 S16 全球总决赛中国战队 BLG 夺冠",
+      "link": "https://www.ithome.com/1/027/260.htm",
+      "time": "11-15 08:34",
+      "src": "IT之家",
+      "type": "不停机更新"
+    },
+    {
       "title": "中国车企首家：小米泰坦合金 2.0 与新一代 SU7 从材料到整车通过国际 EPD 体系认证",
       "link": "https://www.ithome.com/1/027/249.htm",
       "time": "11-15 07:06",
       "src": "IT之家"
     },
     {
-      "title": "白宫“超级智能工作组”呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
-      "link": "https://www.ithome.com/1/027/229.htm",
-      "time": "11-14 21:03",
-      "src": "IT之家"
+      "title": "BLG斩获《英雄联盟》S16全球总决赛冠军",
+      "link": "https://www.gcores.com/articles/222372",
+      "time": "11-15 08:02",
+      "src": "机核",
+      "type": "不停机更新"
     },
     {
-      "title": "遭遇全球规模最大加密货币盗窃后，币安目标下周全面恢复提现服务",
-      "link": "https://www.ithome.com/1/027/198.htm",
-      "time": "11-14 18:10",
-      "src": "IT之家"
-    },
-    {
-      "title": "《GTA 6》发售将为英国网络带来大考，宽带运营商表态“严阵以待”",
-      "link": "https://www.ithome.com/1/027/187.htm",
-      "time": "11-14 17:40",
-      "src": "IT之家"
-    },
-    {
-      "title": "英国格拉斯哥公寓楼发生蓄意纵火案 15人送医",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-14/10732206.shtml",
-      "time": "11-14 22:56",
+      "title": "联合国秘书长古特雷斯：充分肯定中国在可再生能源领域作出的努力丨新闻会客厅",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-15/10732319.shtml",
+      "time": "11-15 13:00",
       "src": "中新网"
     },
     {
-      "title": "专家学者厦门共话中国—东盟旅游安全治理",
-      "link": "https://www.chinanews.com.cn/aseaninfo/2026/11-14/10732187.shtml",
-      "time": "11-14 21:18",
+      "title": "BLG登顶S16全球总决赛冠军宝座，2000万人在B站见证LPL历史时刻",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-15/10732302.shtml",
+      "time": "11-15 12:05",
       "src": "中新网"
     },
     {
-      "title": "中国—东盟旅游安全学术研讨会在厦门举行",
-      "link": "https://www.chinanews.com.cn/aseaninfo/2026/11-14/10732183.shtml",
-      "time": "11-14 21:00",
+      "title": "国际永久编号361707号小行星被命名为“中国药科大学星”",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-15/10732297.shtml",
+      "time": "11-15 12:04",
       "src": "中新网"
-    },
-    {
-      "title": "微软大规模全球宕机引发索赔行动 部分客户寻求获得服务补偿",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1586430.htm",
-      "time": "11-15 04:55",
-      "src": "cnBeta.COM"
     }
   ],
   "econ_news": [
     {
-      "title": "Facebook 擅自读取意大利用户相册，Meta 被处以 8.05 亿欧元重罚",
-      "link": "https://www.ithome.com/1/027/227.htm",
-      "time": "11-14 20:42",
+      "title": "部分电动自行车 3C 认证卡壳，消费者购车后上牌遇阻",
+      "link": "https://www.ithome.com/1/027/275.htm",
+      "time": "11-15 09:43",
       "src": "IT之家"
     },
     {
-      "title": "预测市场平台 Kalshi 招募《GTA 6》研究员，需全程直播游玩过程并分析游戏内外经济",
-      "link": "https://www.ithome.com/1/027/216.htm",
-      "time": "11-14 19:03",
+      "title": "微软 XBOX 商店出现标价 1999 美元的《GTA6》游戏，疑为盒装兑换码占位商品",
+      "link": "https://www.ithome.com/1/027/254.htm",
+      "time": "11-15 07:30",
       "src": "IT之家"
-    },
-    {
-      "title": "解锁多样化主题乐园IP密码 把“看热闹”一次性消费拉长为复合消费",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-14/10732201.shtml",
-      "time": "11-14 22:20",
-      "src": "中新网"
-    },
-    {
-      "title": "“一张票”化身“一条消费链” 交通流量转化为文旅消费与区域经济增量‌",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-14/10732195.shtml",
-      "time": "11-14 21:36",
-      "src": "中新网"
     },
     {
       "title": "Meta被意大利数据保护机构罚款8.07亿欧元",
@@ -1206,9 +1197,57 @@
       "link": "https://www.cnbeta.com.tw/articles/tech/1586372.htm",
       "time": "11-14 14:53",
       "src": "cnBeta.COM"
+    },
+    {
+      "title": "Tendrils Compute获3000万美元融资 押注数千核心并行处理器 意在重新发明CPU",
+      "link": "https://www.cnbeta.com.tw/articles/science/1586362.htm",
+      "time": "11-14 14:45",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "特习会在即，美农民关注农产品贸易和关税问题",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261114-%E7%89%B9%E4%B9%A0%E4%BC%9A%E5%9C%A8%E5%8D%B3%EF%BC%8C%E7%BE%8E%E5%86%9C%E6%B0%91%E5%85%B3%E6%B3%A8%E5%86%9C%E4%BA%A7%E5%93%81%E8%B4%B8%E6%98%93%E5%92%8C%E5%85%B3%E7%A8%8E%E9%97%AE%E9%A2%98",
+      "time": "11-15 05:25",
+      "src": "REUTERS - Evel"
     }
   ],
   "game_news": [
+    {
+      "title": "《极限竞速：地平线 6》游戏 2026 年末-2027 年路线图公布，含两款 DLC 及内容更新",
+      "link": "https://www.ithome.com/1/027/305.htm",
+      "time": "11-15 12:53",
+      "src": "IT之家"
+    },
+    {
+      "title": "消息称松下计划下周推出 L 卡口电影摄影机：外形类似索尼 FX3，不支持拍照",
+      "link": "https://www.ithome.com/1/027/300.htm",
+      "time": "11-15 12:13",
+      "src": "IT之家"
+    },
+    {
+      "title": "雷鸟：GT Max bilibili 限定版销售额投入 BLG 电竞基金，买家加赠冠军签名纪念版B站大会员年卡",
+      "link": "https://www.ithome.com/1/027/288.htm",
+      "time": "11-15 11:04",
+      "src": "IT之家"
+    },
+    {
+      "title": "系列游戏首次：R 星称《GTA6》鼓励玩家共情",
+      "link": "https://www.ithome.com/1/027/273.htm",
+      "time": "11-15 09:42",
+      "src": "IT之家"
+    },
+    {
+      "title": "微软 Win11 大规模界面改版已开始推送，首先升级 Win8 时代的自动播放弹窗",
+      "link": "https://www.ithome.com/1/027/256.htm",
+      "time": "11-15 07:49",
+      "src": "IT之家"
+    },
+    {
+      "title": "微软 XBOX 商店出现标价 1999 美元的《GTA6》游戏，疑为盒装兑换码占位商品",
+      "link": "https://www.ithome.com/1/027/254.htm",
+      "time": "11-15 07:30",
+      "src": "IT之家"
+    },
     {
       "title": "《英雄联盟：曙光》预告片发布：将上线全新客户端，更多详情明年 1 月揭晓",
       "link": "https://www.ithome.com/1/027/250.htm",
@@ -1217,55 +1256,46 @@
       "type": "不停机更新"
     },
     {
-      "title": "微软大规模宕机后，开源办公套件 LibreOffice 单日收到超 1000 笔捐款创历史新高",
-      "link": "https://www.ithome.com/1/027/225.htm",
-      "time": "11-14 20:24",
-      "src": "IT之家"
-    },
-    {
-      "title": "预测市场平台 Kalshi 招募《GTA 6》研究员，需全程直播游玩过程并分析游戏内外经济",
-      "link": "https://www.ithome.com/1/027/216.htm",
-      "time": "11-14 19:03",
-      "src": "IT之家"
-    },
-    {
-      "title": "《GTA 6》发售将为英国网络带来大考，宽带运营商表态“严阵以待”",
-      "link": "https://www.ithome.com/1/027/187.htm",
-      "time": "11-14 17:40",
-      "src": "IT之家"
-    },
-    {
-      "title": "山灵音响 SM 3.3 数播解码一体机发售：双「昆仑 Pro」R2R 解码阵列，23980 元",
-      "link": "https://www.ithome.com/1/027/183.htm",
-      "time": "11-14 17:11",
-      "src": "IT之家"
-    },
-    {
-      "title": "拳头游戏公布《英雄联盟》赛事未来展望",
-      "link": "https://www.gcores.com/articles/222361",
-      "time": "11-14 17:23",
-      "src": "机核",
-      "type": "不停机更新"
-    },
-    {
-      "title": "喜爱《影之刃零》，但有些场面真绷不住！游戏茶话会 Vol.134",
-      "link": "https://www.gcores.com/radios/222023",
-      "time": "11-13 23:00",
-      "src": "机核"
-    },
-    {
-      "title": "沉迷《深空当铺》50小时后，我专访了游戏主创Bei Ning Pan",
-      "link": "https://www.gcores.com/articles/222315",
-      "time": "11-13 19:25",
+      "title": "【会员抽奖】原作者执导，原版演员回归！游戏版《东北往事》登陆主机平台",
+      "link": "https://www.gcores.com/articles/222316",
+      "time": "11-15 10:00",
       "src": "机核"
     }
   ],
   "game_update": [
     {
+      "title": "BLG 战队 Knight 拿下《英雄联盟》S16 全球总决赛 FMVP，与 Bin 成为中国 LPL 首位大满贯中单、上单",
+      "link": "https://www.ithome.com/1/027/279.htm",
+      "time": "11-15 10:14",
+      "src": "IT之家",
+      "type": "不停机更新"
+    },
+    {
+      "title": "B站宣布免费送所有人大会员，英雄联盟 S16 全球总决赛中国战队 BLG 夺冠",
+      "link": "https://www.ithome.com/1/027/260.htm",
+      "time": "11-15 08:34",
+      "src": "IT之家",
+      "type": "不停机更新"
+    },
+    {
+      "title": "队史首次！BLG 战队 3:1 力克 GEN 夺《英雄联盟》S16 冠军，中国战队连斩 4 支韩国队时隔 5 年再登顶",
+      "link": "https://www.ithome.com/1/027/258.htm",
+      "time": "11-15 08:02",
+      "src": "IT之家",
+      "type": "不停机更新"
+    },
+    {
       "title": "《英雄联盟：曙光》预告片发布：将上线全新客户端，更多详情明年 1 月揭晓",
       "link": "https://www.ithome.com/1/027/250.htm",
       "time": "11-15 07:09",
       "src": "IT之家",
+      "type": "不停机更新"
+    },
+    {
+      "title": "BLG斩获《英雄联盟》S16全球总决赛冠军",
+      "link": "https://www.gcores.com/articles/222372",
+      "time": "11-15 08:02",
+      "src": "机核",
       "type": "不停机更新"
     },
     {
@@ -1288,34 +1318,6 @@
       "time": "8-12",
       "type": "停机维护",
       "src": "PUBG 官方"
-    },
-    {
-      "title": "《英雄联盟》26.16版本 8/13 国服上线: 射手加强/游走辅助与下路法师削弱, 凯南/格温/阿兹尔增强",
-      "link": "https://view.inews.qq.com/a/20260804A0D12G00",
-      "time": "8-13",
-      "type": "不停机更新",
-      "src": "拳头官方"
-    },
-    {
-      "title": "《王者荣耀》8/8 6:00-8:00 全服不停机更新: 超极限狂潮玩法数值优化与问题修复",
-      "link": "https://3.pvp.qq.com/web201605/newsDetail.shtml?G_Biz=18&tid=806689",
-      "time": "8-08",
-      "type": "不停机更新",
-      "src": "王者荣耀官网"
-    },
-    {
-      "title": "《和平精英》8/8 刺激空投节版本更新: 《剑来》动画联动, 原创换装角色\"甜包\"登场, 送20连抽+3把全新枪皮",
-      "link": "https://www.3839.com/a/173639.htm",
-      "time": "8-08",
-      "type": "不停机更新",
-      "src": "和平精英官方"
-    },
-    {
-      "title": "《无畏契约》8/6 8:00 不停机版本更新: 修复敌方道具在英雄\"零\"赛博囚笼中异常生效的问题",
-      "link": "https://pd.qq.com/g/8bi2h5u02q/post/B_1bd7726af66b00001441152186777472600X60",
-      "time": "8-06",
-      "type": "不停机更新",
-      "src": "腾讯官方"
     }
   ],
   "mil_news": [
@@ -1326,27 +1328,15 @@
       "src": "ISW"
     },
     {
-      "title": "“像一大群蜜蜂”：亚马逊 Prime Air 送货无人机噪音过大，遭当地居民投诉",
-      "link": "https://www.ithome.com/1/027/239.htm",
-      "time": "11-14 22:09",
-      "src": "IT之家"
-    },
-    {
       "title": "开普勒互动首度公开新作《坦克狂途》实机演示",
       "link": "https://www.gcores.com/articles/222314",
       "time": "11-13 15:32",
       "src": "机核"
     },
     {
-      "title": "APEC朋友圈丨中国无人机如何改变智利农田",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-14/10732203.shtml",
-      "time": "11-14 22:35",
-      "src": "中新网"
-    },
-    {
-      "title": "中越边境互联互通“国门大动脉”将于本月通车",
-      "link": "https://www.chinanews.com.cn/aseaninfo/2026/11-14/10732185.shtml",
-      "time": "11-14 21:04",
+      "title": "美军：已护航超17亿桶原油通过霍尔木兹海峡",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-15/10732309.shtml",
+      "time": "11-15 12:15",
       "src": "中新网"
     },
     {
@@ -1366,6 +1356,18 @@
       "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261114-%E7%BE%8E%E9%AB%98%E5%AE%98-%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%B8%8E%E6%99%AE%E4%B9%A0%E8%B0%88%E6%A0%B8%E8%A3%81%E5%86%9B-%E9%A2%84%E8%AE%A1%E4%B8%8D%E5%8D%95%E7%8B%AC%E8%A7%81%E6%99%AE%E4%BA%AC-%E4%B8%8D%E8%B0%88%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%89",
       "time": "11-14 17:42",
       "src": "© 法新社图片"
+    },
+    {
+      "title": "伊朗革命卫队：出动六架无人机袭击了巴林美军基地一防空雷达",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyuykf3208928.shtml",
+      "time": "11-15 13:25",
+      "src": "环球市场播报"
+    },
+    {
+      "title": "美情报机构称伊朗武器库拥有1500至2500枚导弹 与特朗普所言相悖",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyupum3400016.shtml",
+      "time": "11-15 10:19",
+      "src": "环球市场播报"
     }
   ]
 }
