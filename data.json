@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16 03:39",
+  "generated_at": "2026-11-16 07:53",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -239,6 +239,36 @@
         "src": "IT之家"
       },
       {
+        "title": "Xbox计划用神经渲染降低Project Helix算力与内存压力",
+        "link": "https://www.cnbeta.com.tw/articles/game/1586530.htm",
+        "time": "11-16 07:15",
+        "src": "cnBeta.COM"
+      },
+      {
+        "title": "摩根士丹利预测韩国央行将在11月和2月加息",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniywste8965262.shtml",
+        "time": "11-16 07:42",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "百胜中国于11月13日于港交所耗资约848.62万港元回购2.19万股",
+        "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-16/doc-iniywsti1288481.shtml",
+        "time": "11-16 07:35",
+        "src": "新浪港股"
+      },
+      {
+        "title": "堪萨斯城联储行长：美联储在降低通胀方面还有更多工作要做",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniywnmm1416357.shtml",
+        "time": "11-16 07:26",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "施密德：通胀“朝错误方向移动” 美联储还有更多工作要做",
+        "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-16/doc-iniywnmk5850443.shtml",
+        "time": "11-16 06:44",
+        "src": "智通财经APP"
+      },
+      {
         "title": "美联储施密德：美联储在压低通胀方面仍有工作要做",
         "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniyvzvq6064412.shtml",
         "time": "11-16 02:43",
@@ -249,36 +279,6 @@
         "link": "https://finance.sina.com.cn/7x24/2026-11-15/doc-iniyvvpt1689841.shtml",
         "time": "11-15 23:30",
         "src": "环球市场播报"
-      },
-      {
-        "title": "A股又一例重组，暂缓审议！",
-        "link": "https://finance.sina.com.cn/stock/s/2026-11-15/doc-iniyvrfx3005468.shtml",
-        "time": "11-15 21:15",
-        "src": "市场资讯"
-      },
-      {
-        "title": "Anthropic IPO 之际，深陷困境的 AI 交易正寻求急需的亮点",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyvrfu6210816.shtml",
-        "time": "11-15 20:36",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "已报案！又有A股公司公章被冒用",
-        "link": "https://finance.sina.com.cn/stock/s/2026-11-15/doc-iniyvkxw6320193.shtml",
-        "time": "11-15 19:30",
-        "src": "市场资讯"
-      },
-      {
-        "title": "300394，已回购50万股，将全部注销",
-        "link": "https://finance.sina.com.cn/stock/s/2026-11-15/doc-iniyvery6400041.shtml",
-        "time": "11-15 17:40",
-        "src": "证券时报"
-      },
-      {
-        "title": "刚刚，A股公司实控人被刑拘！",
-        "link": "https://finance.sina.com.cn/stock/s/2026-11-15/doc-iniyvesc3173401.shtml",
-        "time": "11-15 17:30",
-        "src": "市场资讯"
       }
     ]
   },
@@ -327,7 +327,7 @@
         "score": 6.5,
         "img": "http://lain.bgm.tv/pic/cover/c/73/99/624923_4u99L.jpg",
         "air_date": "2026-10-05",
-        "rank": 4903
+        "rank": 4839
       },
       {
         "id": 707667,
@@ -345,7 +345,7 @@
         "score": 6.4,
         "img": "http://lain.bgm.tv/pic/cover/c/dc/f7/511936_XDkXO.jpg",
         "air_date": "2026-10-05",
-        "rank": 5662
+        "rank": 5756
       },
       {
         "id": 418229,
@@ -354,7 +354,7 @@
         "score": 6.2,
         "img": "http://lain.bgm.tv/pic/cover/c/52/fe/418229_gcFij.jpg",
         "air_date": "2026-10-05",
-        "rank": 6340
+        "rank": 6233
       },
       {
         "id": 708080,
@@ -390,7 +390,7 @@
         "score": 4.9,
         "img": "http://lain.bgm.tv/pic/cover/c/05/25/634587_8k4k7.jpg",
         "air_date": "2026-10-05",
-        "rank": 9508
+        "rank": 9523
       },
       {
         "id": 614640,
@@ -399,7 +399,7 @@
         "score": 4.8,
         "img": "http://lain.bgm.tv/pic/cover/c/1b/1e/614640_ESMLl.jpg",
         "air_date": "2026-10-05",
-        "rank": 8716
+        "rank": 8715
       },
       {
         "id": 390200,
@@ -513,6 +513,18 @@
   "ai": {
     "news_zh": [
       {
+        "title": "消息称黄仁勋考虑重返英伟达担任 CEO，其硅谷盟友正施压董事会",
+        "link": "https://www.ithome.com/1/027/470.htm",
+        "time": "11-16 07:26",
+        "src": "IT之家"
+      },
+      {
+        "title": "投资 19 亿美元：三星被曝将在美国为马斯克 SpaceX 生产卫星芯片，目标 2030 年投产",
+        "link": "https://www.ithome.com/1/027/465.htm",
+        "time": "11-16 07:01",
+        "src": "IT之家"
+      },
+      {
         "title": "韩国税务师考试头名 AI 作弊曝光后，政府全面调查今年国家资格考试",
         "link": "https://www.ithome.com/1/027/453.htm",
         "time": "11-15 21:42",
@@ -547,54 +559,42 @@
         "link": "https://www.ithome.com/1/027/433.htm",
         "time": "11-15 19:19",
         "src": "IT之家"
-      },
-      {
-        "title": "澳大利亚央行研究：AI 最先冲击年轻劳动者，尤其是软件、客服岗位",
-        "link": "https://www.ithome.com/1/027/432.htm",
-        "time": "11-15 19:03",
-        "src": "IT之家"
-      },
-      {
-        "title": "世界首颗：单次矩阵方程求解时间小于 100 纳秒，国产新型模拟计算芯片问世",
-        "link": "https://www.ithome.com/1/027/430.htm",
-        "time": "11-15 18:53",
-        "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-        "likes": 7498,
+        "likes": 7525,
         "downloads": 27037,
         "pipeline": "text-generation"
       },
       {
         "id": "MiniMaxAI/MiniMax-H3-Image",
-        "likes": 1171,
+        "likes": 1182,
         "downloads": 571067,
         "pipeline": "text-to-image"
       },
       {
         "id": "Angais/pixel-art-atlas-1.4m",
-        "likes": 499,
+        "likes": 504,
         "downloads": 60255,
         "pipeline": ""
       },
       {
         "id": "Qwen/Qwen3.8-27B",
-        "likes": 20094,
+        "likes": 20116,
         "downloads": 6547772,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "Lightricks/LTX-2.5",
-        "likes": 12033,
+        "likes": 12057,
         "downloads": 2754355,
         "pipeline": "image-to-video"
       },
       {
         "id": "Comfy-Org/MiniMax-H3-Image",
-        "likes": 407,
+        "likes": 411,
         "downloads": 1973388,
         "pipeline": "text-to-image"
       }
@@ -798,10 +798,10 @@
       "src": "IT之家"
     },
     {
-      "title": "当贝 H5 第二代电视盒子发售：升级全志 H626 处理器、支持双频 Wi-Fi 6，469 元",
-      "link": "https://www.ithome.com/1/027/404.htm",
-      "time": "11-15 16:46",
-      "src": "IT之家"
+      "title": "Xbox计划用神经渲染降低Project Helix算力与内存压力",
+      "link": "https://www.cnbeta.com.tw/articles/game/1586530.htm",
+      "time": "11-16 07:15",
+      "src": "cnBeta.COM"
     },
     {
       "title": "英伟达缩减AI融资支持 并不会让价格亲民的GeForce显卡在2027年重回市场",
@@ -1069,25 +1069,49 @@
       "type": "不停机更新"
     },
     {
-      "title": "法国周末示威活动中超过400人被拘捕",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-16/10732530.shtml",
-      "time": "11-16 00:06",
+      "title": "伊朗外交部：伊朗“不会等待任何人”，将继续回应任何军事侵略",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-16/10732541.shtml",
+      "time": "11-16 07:41",
       "src": "中新网"
     },
     {
-      "title": "聚焦APEC丨2000余位政商界领袖将参加APEC工商领导人峰会",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-15/10732511.shtml",
-      "time": "11-15 21:33",
+      "title": "伊朗：两艘油轮在霍尔木兹海峡触雷引发剧烈爆炸",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-16/10732537.shtml",
+      "time": "11-16 07:20",
       "src": "中新网"
     },
     {
-      "title": "云南提出建设RCEP国际教育合作区",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-15/10732492.shtml",
-      "time": "11-15 21:10",
+      "title": "胡塞武装宣布：沙特联军24小时内75次袭击也门多地",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-16/10732534.shtml",
+      "time": "11-16 07:03",
       "src": "中新网"
     }
   ],
   "econ_news": [
+    {
+      "title": "闻泰科技遭荷兰企业法庭临时措施裁定：罚金上限 3 亿欧元，将提起上诉",
+      "link": "https://www.ithome.com/1/027/473.htm",
+      "time": "11-16 07:37",
+      "src": "IT之家"
+    },
+    {
+      "title": "纽约市禁止“大数据杀熟”，企业利用监控算法实现差异化报价最高罚款 1000 美元",
+      "link": "https://www.ithome.com/1/027/469.htm",
+      "time": "11-16 07:23",
+      "src": "IT之家"
+    },
+    {
+      "title": "R 星联手 Twitch、Kick 送出《GTA 6》兑换码：每天需观看直播 3 小时抽奖，包含 100 美元终极版",
+      "link": "https://www.ithome.com/1/027/468.htm",
+      "time": "11-16 07:16",
+      "src": "IT之家"
+    },
+    {
+      "title": "投资 19 亿美元：三星被曝将在美国为马斯克 SpaceX 生产卫星芯片，目标 2030 年投产",
+      "link": "https://www.ithome.com/1/027/465.htm",
+      "time": "11-16 07:01",
+      "src": "IT之家"
+    },
     {
       "title": "澳大利亚央行研究：AI 最先冲击年轻劳动者，尤其是软件、客服岗位",
       "link": "https://www.ithome.com/1/027/432.htm",
@@ -1111,33 +1135,27 @@
       "link": "https://www.chinanews.com.cn/cj/2026/11-15/10732516.shtml",
       "time": "11-15 22:45",
       "src": "中新网"
-    },
-    {
-      "title": "（深圳APEC）APEC经济体相关侨批原件首次联合展出 见证亚太民间往来",
-      "link": "https://www.chinanews.com.cn/hr/2026/11-15/10732514.shtml",
-      "time": "11-15 22:39",
-      "src": "中新网"
-    },
-    {
-      "title": "R星称GTA6开发预算略低于迪拜哈利法塔15亿美元造价",
-      "link": "https://www.cnbeta.com.tw/articles/game/1586496.htm",
-      "time": "11-15 18:02",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "RTX 5090重返美国零售渠道 但售价飙至6599美元以上 较官方定价高出三倍多",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1586456.htm",
-      "time": "11-15 15:20",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "贝森特称英伟达需戏剧性改组：是否为推高营收和利润推动非法销售",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261115-%E8%B4%9D%E6%A3%AE%E7%89%B9%E7%A7%B0%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%9C%80%E6%88%8F%E5%89%A7%E6%80%A7%E6%94%B9%E7%BB%84-%E6%98%AF%E5%90%A6%E4%B8%BA%E6%8E%A8%E9%AB%98%E8%90%A5%E6%94%B6%E5%92%8C%E5%88%A9%E6%B6%A6%E5%BC%BA%E8%A1%8C%E6%8E%A8%E5%8A%A8%E8%BF%9D%E6%B3%95%E9%94%80%E5%94%AE",
-      "time": "11-16 01:11",
-      "src": "© 路透社图片"
     }
   ],
   "game_news": [
+    {
+      "title": "印度 eMudhra 证书安全事件后续：微软进一步封锁 10 张根证书，离线 Windows 设备需部署后续更新包",
+      "link": "https://www.ithome.com/1/027/472.htm",
+      "time": "11-16 07:35",
+      "src": "IT之家"
+    },
+    {
+      "title": "R 星联手 Twitch、Kick 送出《GTA 6》兑换码：每天需观看直播 3 小时抽奖，包含 100 美元终极版",
+      "link": "https://www.ithome.com/1/027/468.htm",
+      "time": "11-16 07:16",
+      "src": "IT之家"
+    },
+    {
+      "title": "微软 XBOX 明确 Project Helix 定位：首先是能运行 PC 游戏的主机",
+      "link": "https://www.ithome.com/1/027/463.htm",
+      "time": "11-16 06:47",
+      "src": "IT之家"
+    },
     {
       "title": "《GTA 6》通关时长爆料：主线约 50 小时，白金全成就预计 200 小时",
       "link": "https://www.ithome.com/1/027/459.htm",
@@ -1167,24 +1185,6 @@
       "link": "https://www.ithome.com/1/027/413.htm",
       "time": "11-15 17:20",
       "src": "IT之家"
-    },
-    {
-      "title": "遭受网络攻击后，世嘉日服 11 款街机游戏陆续恢复线上功能",
-      "link": "https://www.ithome.com/1/027/410.htm",
-      "time": "11-15 17:03",
-      "src": "IT之家"
-    },
-    {
-      "title": "社交 VR 平台 Somnium Space 宣布即将重返 Steam，预计相应版本将全面清除加密货币内容",
-      "link": "https://www.ithome.com/1/027/405.htm",
-      "time": "11-15 16:53",
-      "src": "IT之家"
-    },
-    {
-      "title": "当贝 H5 第二代电视盒子发售：升级全志 H626 处理器、支持双频 Wi-Fi 6，469 元",
-      "link": "https://www.ithome.com/1/027/404.htm",
-      "time": "11-15 16:46",
-      "src": "IT之家"
     }
   ],
   "game_update": [
@@ -1207,13 +1207,6 @@
       "link": "https://www.gcores.com/articles/222361",
       "time": "11-14 17:23",
       "src": "机核",
-      "type": "不停机更新"
-    },
-    {
-      "title": "一穿四LCK，BLG夺得2026英雄联盟S赛冠军",
-      "link": "https://www.chinanews.com.cn/ty/2026/11-15/10732488.shtml",
-      "time": "11-15 21:02",
-      "src": "中新网",
       "type": "不停机更新"
     },
     {
@@ -1243,6 +1236,13 @@
       "time": "8-08",
       "type": "不停机更新",
       "src": "和平精英官方"
+    },
+    {
+      "title": "《无畏契约》8/6 8:00 不停机版本更新: 修复敌方道具在英雄\"零\"赛博囚笼中异常生效的问题",
+      "link": "https://pd.qq.com/g/8bi2h5u02q/post/B_1bd7726af66b00001441152186777472600X60",
+      "time": "8-06",
+      "type": "不停机更新",
+      "src": "腾讯官方"
     }
   ],
   "mil_news": [
@@ -1265,34 +1265,34 @@
       "src": "机核"
     },
     {
+      "title": "伊朗外交部：伊朗“不会等待任何人”，将继续回应任何军事侵略",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-16/10732541.shtml",
+      "time": "11-16 07:41",
+      "src": "中新网"
+    },
+    {
+      "title": "伊朗：两艘油轮在霍尔木兹海峡触雷引发剧烈爆炸",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-16/10732537.shtml",
+      "time": "11-16 07:20",
+      "src": "中新网"
+    },
+    {
+      "title": "胡塞武装宣布：沙特联军24小时内75次袭击也门多地",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-16/10732534.shtml",
+      "time": "11-16 07:03",
+      "src": "中新网"
+    },
+    {
+      "title": "伊朗称一艘油轮在霍尔木兹海峡以东触雷起火",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-16/10732532.shtml",
+      "time": "11-16 06:20",
+      "src": "中新网"
+    },
+    {
       "title": "英国“伊丽莎白女王”号航母首次完成同时弹射四架攻击无人机",
       "link": "https://www.cnbeta.com.tw/articles/tech/1586502.htm",
       "time": "11-15 19:43",
       "src": "cnBeta.COM"
-    },
-    {
-      "title": "《Minecraft》将加入回旋镖式新武器 基岩版终于迎来完整副手功能",
-      "link": "https://www.cnbeta.com.tw/articles/game/1586442.htm",
-      "time": "11-15 15:12",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "菲外长称《南海行为准则》完成达80%剩下留给新加坡 指东盟十国与中国对局势看法不同",
-      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261115-%E8%8F%B2%E5%A4%96%E9%95%BF%E7%A7%B0-%E5%8D%97%E6%B5%B7%E8%A1%8C%E4%B8%BA%E5%87%86%E5%88%99-%E5%AE%8C%E6%88%90%E8%BE%BE80-%E5%89%A9%E4%B8%8B%E7%95%99%E7%BB%99%E6%96%B0%E5%8A%A0%E5%9D%A1-%E6%8C%87%E4%B8%9C%E7%9B%9F%E5%8D%81%E5%9B%BD%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%AF%B9%E5%B1%80%E5%8A%BF%E7%9C%8B%E6%B3%95%E4%B8%8D%E5%90%8C",
-      "time": "11-15 19:43",
-      "src": "© 美联社图片"
-    },
-    {
-      "title": "也门政府军从曼德海峡附近区域撤出 胡塞武装获取控制权",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20261115-%E4%B9%9F%E9%97%A8%E6%94%BF%E5%BA%9C%E5%86%9B%E4%BB%8E%E6%9B%BC%E5%BE%B7%E6%B5%B7%E5%B3%A1%E9%99%84%E8%BF%91%E5%8C%BA%E5%9F%9F%E6%92%A4%E5%87%BA-%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E8%8E%B7%E5%8F%96%E6%8E%A7%E5%88%B6%E6%9D%83",
-      "time": "11-15 20:07",
-      "src": "© 法新社图片"
-    },
-    {
-      "title": "第49届东盟峰会周日开幕，南海与缅甸成核心议题",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20261115-%E7%AC%AC49%E5%B1%8A%E4%B8%9C%E7%9B%9F%E5%B3%B0%E4%BC%9A%E5%91%A8%E6%97%A5%E5%BC%80%E5%B9%95%EF%BC%8C%E5%8D%97%E6%B5%B7%E4%B8%8E%E7%BC%85%E7%94%B8%E6%88%90%E6%A0%B8%E5%BF%83%E8%AE%AE%E9%A2%98",
-      "time": "11-15 20:11",
-      "src": "法广RFI"
     }
   ]
 }
