@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22 06:59",
+  "generated_at": "2026-11-22 14:18",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -233,9 +233,15 @@
     ],
     "news": [
       {
-        "title": "欧洲央行行长拉加德：欧盟应利用公共资金，率先承担大型芯片厂、数据中心等项目首轮损失",
-        "link": "https://www.ithome.com/1/030/472.htm",
-        "time": "11-21 20:36",
+        "title": "无需游戏引擎！马斯克称特斯拉 FSD v15 实景视图仅动用 AI4 芯片一个 TRIP 加速器一半算力",
+        "link": "https://www.ithome.com/1/030/563.htm",
+        "time": "11-22 12:18",
+        "src": "IT之家"
+      },
+      {
+        "title": "搜狐张朝阳回应“被证监会出具警示函”：此张朝阳不是我",
+        "link": "https://www.ithome.com/1/030/533.htm",
+        "time": "11-22 08:59",
         "src": "IT之家"
       },
       {
@@ -269,16 +275,10 @@
         "src": "© 路透社图片"
       },
       {
-        "title": "Anthropic上市表现遇冷 华尔街AI板块合计蒸发4万亿美元市值",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-21/doc-iniznnyc4994741.shtml",
-        "time": "11-21 14:30",
-        "src": "环球市场播报"
-      },
-      {
-        "title": "优必选入选恒生科技指数，在资讯科技业中位列第14位",
-        "link": "https://finance.sina.com.cn/stock/2026-11-21/doc-iniznakn3603311.shtml",
-        "time": "11-21 09:28",
-        "src": "新浪科技"
+        "title": "顺丰同城于11月20日斥资337.8万港元回购45.74万股",
+        "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-22/doc-inizqmrh6165707.shtml",
+        "time": "11-22 10:59",
+        "src": "新浪港股"
       }
     ]
   },
@@ -375,6 +375,15 @@
         "rank": 6316
       },
       {
+        "id": 630160,
+        "name": "ダークサモナーとデキている",
+        "name_cn": "黑暗召唤师在地下恋爱中",
+        "score": 6.3,
+        "img": "http://lain.bgm.tv/pic/cover/c/9e/b5/630160_tL25y.jpg",
+        "air_date": "2026-10-04",
+        "rank": 6484
+      },
+      {
         "id": 688797,
         "name": "僕らが選んだベストアドベンチャー",
         "name_cn": "数码宝贝30周年纪念：我们选出的最佳冒险",
@@ -384,19 +393,10 @@
         "rank": null
       },
       {
-        "id": 630160,
-        "name": "ダークサモナーとデキている",
-        "name_cn": "黑暗召唤师在地下恋爱中",
-        "score": 6.2,
-        "img": "http://lain.bgm.tv/pic/cover/c/9e/b5/630160_tL25y.jpg",
-        "air_date": "2026-10-04",
-        "rank": 6484
-      },
-      {
         "id": 664395,
         "name": "ダイヤのA actⅡ Second Season 第2クール",
         "name_cn": "钻石王牌 act2 第二季 第2部分",
-        "score": 6.2,
+        "score": 6.1,
         "img": "http://lain.bgm.tv/pic/cover/c/61/d5/664395_diPLi.jpg",
         "air_date": "2026-10-11",
         "rank": null
@@ -585,88 +585,88 @@
   "ai": {
     "news_zh": [
       {
-        "title": "韩国总统李在明：速度在 AI 竞赛中至关重要",
-        "link": "https://www.ithome.com/1/030/506.htm",
-        "time": "11-21 22:26",
+        "title": "无需游戏引擎！马斯克称特斯拉 FSD v15 实景视图仅动用 AI4 芯片一个 TRIP 加速器一半算力",
+        "link": "https://www.ithome.com/1/030/563.htm",
+        "time": "11-22 12:18",
         "src": "IT之家"
       },
       {
-        "title": "曝三星未来三年大部分存储芯片产能已被锁定，有客户希望供货保障至 2031 年",
-        "link": "https://www.ithome.com/1/030/475.htm",
-        "time": "11-21 20:47",
+        "title": "韩国高考 AI 作弊事件发酵，教育部长引咎辞职",
+        "link": "https://www.ithome.com/1/030/558.htm",
+        "time": "11-22 11:21",
         "src": "IT之家"
       },
       {
-        "title": "欧洲央行行长拉加德：欧盟应利用公共资金，率先承担大型芯片厂、数据中心等项目首轮损失",
-        "link": "https://www.ithome.com/1/030/472.htm",
-        "time": "11-21 20:36",
+        "title": "Anthropic 数学家 AI 攻克黎曼猜想？Lean 社区通过核验，数十人报告代码库编译正确",
+        "link": "https://www.ithome.com/1/030/547.htm",
+        "time": "11-22 10:31",
         "src": "IT之家"
       },
       {
-        "title": "前英特尔 CEO 基辛格：随着 AI 需要“一万倍的效率飞跃”，渐进式芯片性能提升无法满足",
-        "link": "https://www.ithome.com/1/030/464.htm",
-        "time": "11-21 19:43",
+        "title": "试题用于大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评",
+        "link": "https://www.ithome.com/1/030/540.htm",
+        "time": "11-22 09:42",
         "src": "IT之家"
       },
       {
-        "title": "前英伟达 AI 应用软件产品管理总监回忆黄仁勋：作风强硬，骨子里却很温暖",
-        "link": "https://www.ithome.com/1/030/459.htm",
-        "time": "11-21 19:10",
+        "title": "群联展示内置 NPU 与 64GB 内存的智能固态硬盘，可直接运行 AI 模型",
+        "link": "https://www.ithome.com/1/030/524.htm",
+        "time": "11-22 08:04",
         "src": "IT之家"
       },
       {
-        "title": "消息称华为 Mate 90 Air 手机搭载麒麟 9020 芯片，厚 6.58mm",
-        "link": "https://www.ithome.com/1/030/439.htm",
-        "time": "11-21 18:10",
+        "title": "IT早报 1122：曝其他厂商也考虑推出阔直板形态手机；Anthropic 研究员预测 2027 年底 AI 比肩顶尖专家；华为星芒 O1 Pro 定价 5499 元起引争议...",
+        "link": "https://www.ithome.com/1/030/518.htm",
+        "time": "11-22 07:31",
         "src": "IT之家"
       },
       {
-        "title": "华中科技大学与阿里巴巴联合成立 AI 前沿安全研究中心，课题覆盖大模型安全攻防等",
-        "link": "https://www.ithome.com/1/030/423.htm",
-        "time": "11-21 17:57",
+        "title": "加密聊天应用 Signal 默认屏蔽截图，防止 AI 智能体读取用户消息",
+        "link": "https://www.ithome.com/1/030/517.htm",
+        "time": "11-22 07:28",
         "src": "IT之家"
       },
       {
-        "title": "美参议员痛批苹果、谷歌：放任 AI 脱衣应用“野蛮生长”",
-        "link": "https://www.ithome.com/1/030/421.htm",
-        "time": "11-21 17:22",
-        "src": "IT之家"
+        "title": "联合国“杀手机器人”监管谈判未达预期",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1587422.htm",
+        "time": "11-22 04:22",
+        "src": "cnBeta.COM"
       }
     ],
     "hf": [
       {
         "id": "thinkingmachines/Inkling-2-Mini",
-        "likes": 2555,
+        "likes": 3279,
         "downloads": 7944,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Inkling-2-Mini-GGUF",
-        "likes": 591,
+        "likes": 685,
         "downloads": 238152,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "tencent/Hy4-flash",
-        "likes": 538,
+        "likes": 555,
         "downloads": 5588,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "inworld/voice-isolator",
-        "likes": 502,
+        "likes": 533,
         "downloads": 0,
         "pipeline": "audio-to-audio"
       },
       {
         "id": "apple/FastFrames-L",
-        "likes": 488,
+        "likes": 498,
         "downloads": 0,
         "pipeline": "text-to-video"
       },
       {
         "id": "harness-hub/Qwen3.8-27B-pi-adapted",
-        "likes": 931,
+        "likes": 942,
         "downloads": 2383,
         "pipeline": "image-text-to-text"
       }
@@ -840,39 +840,39 @@
   ],
   "hw_news": [
     {
-      "title": "vivo S60t 手机上架：第四代骁龙 7 处理器、12GB RAM，3199 元起",
-      "link": "https://www.ithome.com/1/030/471.htm",
-      "time": "11-21 20:24",
+      "title": "努比亚海外推出 PAD SE 平板：紫光展锐 T310 处理器、10.1 英寸屏幕，支持 4G",
+      "link": "https://www.ithome.com/1/030/553.htm",
+      "time": "11-22 11:02",
       "src": "IT之家"
     },
     {
-      "title": "极摩客 GMK M10 迷你主机上架：锐龙 5 6600H、24+512GB 到手 3399 元",
-      "link": "https://www.ithome.com/1/030/469.htm",
-      "time": "11-21 20:18",
+      "title": "告别“全损音质”：微软 Win11 系统将改进蓝牙耳机开麦体验",
+      "link": "https://www.ithome.com/1/030/535.htm",
+      "time": "11-22 09:14",
       "src": "IT之家"
     },
     {
-      "title": "JBL SOUNDGEAR SENSE 开放式蓝牙耳机发售：16.2mm 动圈单元、24 小时续航，1299 元",
-      "link": "https://www.ithome.com/1/030/468.htm",
-      "time": "11-21 20:05",
+      "title": "安卓又一阔屏新机来袭：DOOGEE Wide Core 亮相，6500mAh 电池、紫光展锐 T7250 处理器",
+      "link": "https://www.ithome.com/1/030/530.htm",
+      "time": "11-22 08:45",
       "src": "IT之家"
     },
     {
-      "title": "天钡 G-FLIP 带屏迷你主机新增 AMD R7 H 255 + 24G + 1T 版本，4599 元",
-      "link": "https://www.ithome.com/1/030/465.htm",
-      "time": "11-21 19:44",
+      "title": "群联展示内置 NPU 与 64GB 内存的智能固态硬盘，可直接运行 AI 模型",
+      "link": "https://www.ithome.com/1/030/524.htm",
+      "time": "11-22 08:04",
       "src": "IT之家"
     },
     {
-      "title": "前英特尔 CEO 基辛格：随着 AI 需要“一万倍的效率飞跃”，渐进式芯片性能提升无法满足",
-      "link": "https://www.ithome.com/1/030/464.htm",
-      "time": "11-21 19:43",
+      "title": "28 核英特尔 Nova Lake-S 处理器现身测试平台，最高运行频率达 5.2GHz",
+      "link": "https://www.ithome.com/1/030/522.htm",
+      "time": "11-22 07:48",
       "src": "IT之家"
     },
     {
-      "title": "AOC“CU34G4H”34 英寸带鱼屏显示器发售：1440P 200Hz Fast VA 面板，1599 元",
-      "link": "https://www.ithome.com/1/030/463.htm",
-      "time": "11-21 19:37",
+      "title": "华为星芒首款手机 OSTA O1 Pro 维修备件价格出炉：屏幕 899 元起，主板 3449 元起",
+      "link": "https://www.ithome.com/1/030/520.htm",
+      "time": "11-22 07:37",
       "src": "IT之家"
     },
     {
@@ -1083,6 +1083,12 @@
   "anime_industry": {
     "news": [
       {
+        "title": "九年长篇今日完结：国漫《斗破苍穹》剧场版《双帝之战》定档午间 12 点开播",
+        "link": "https://www.ithome.com/1/030/551.htm",
+        "time": "11-22 10:55",
+        "src": "IT之家"
+      },
+      {
         "title": "《动画产业报告2025》: 市场规模达 3.84 万亿日元创历史新高, 海外占比约 56.5%",
         "link": "https://www.info35.net/hotopics/44871.html",
         "time": "精选",
@@ -1110,27 +1116,33 @@
   },
   "intl_news": [
     {
-      "title": "全球唯一实现非晶合金车用电驱规模化量产，广汽夸克电驱非晶-碳纤维电驱第 10 万套下线",
-      "link": "https://www.ithome.com/1/030/504.htm",
-      "time": "11-21 21:53",
+      "title": "智能手环销量全球 No.1：小米手环官宣累计出货超 2.4 亿只，连续 35 个季度拿下第一",
+      "link": "https://www.ithome.com/1/030/568.htm",
+      "time": "11-22 13:24",
       "src": "IT之家"
     },
     {
-      "title": "为抵御黑客攻击，英国秘密发起大规模“冰箱保卫战”",
-      "link": "https://www.ithome.com/1/030/478.htm",
-      "time": "11-21 21:16",
+      "title": "品牌全球销量破百万：长城坦克首支单曲《百万分之一》定档 11 月 25 日“唱响”",
+      "link": "https://www.ithome.com/1/030/550.htm",
+      "time": "11-22 10:39",
       "src": "IT之家"
     },
     {
-      "title": "欧洲央行行长拉加德：欧盟应利用公共资金，率先承担大型芯片厂、数据中心等项目首轮损失",
-      "link": "https://www.ithome.com/1/030/472.htm",
-      "time": "11-21 20:36",
+      "title": "2026 脑机接口报告：全球企业增至 1175 家，中国三大城市群集聚 190 余家",
+      "link": "https://www.ithome.com/1/030/545.htm",
+      "time": "11-22 10:00",
       "src": "IT之家"
     },
     {
-      "title": "银联国际与传音达成全球手机 Pay 合作，首站落地巴基斯坦",
-      "link": "https://www.ithome.com/1/030/420.htm",
-      "time": "11-21 17:10",
+      "title": "蔚来在欧洲推出 Haven 特别版萤火虫，预计 2027 年春季交付",
+      "link": "https://www.ithome.com/1/030/532.htm",
+      "time": "11-22 08:55",
+      "src": "IT之家"
+    },
+    {
+      "title": "全球首款星闪音箱因科美 SL10 通过 OpenHarmony 兼容性测评，搭载开源鸿蒙 5.1 系统",
+      "link": "https://www.ithome.com/1/030/525.htm",
+      "time": "11-22 08:07",
       "src": "IT之家"
     },
     {
@@ -1140,65 +1152,35 @@
       "src": "机核"
     },
     {
-      "title": "英国国防大臣访基辅重申长期援乌承诺",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-22/10735938.shtml",
-      "time": "11-22 06:35",
+      "title": "从杭州看全球丝绸治理：一座产业城市为何成为新坐标？",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-22/10736032.shtml",
+      "time": "11-22 13:39",
       "src": "中新网"
     },
     {
-      "title": "英国凯特王妃通过纪录片深度讲述抗癌经历",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-22/10735937.shtml",
-      "time": "11-22 06:34",
-      "src": "中新网"
-    },
-    {
-      "title": "伊朗革命卫队称袭击美军在巴林两处基地防空雷达",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-22/10735934.shtml",
-      "time": "11-22 06:10",
+      "title": "粤桂企业合作畅通“桂品入湾”渠道 开拓东盟市场",
+      "link": "https://www.chinanews.com.cn/aseaninfo/2026/11-22/10736028.shtml",
+      "time": "11-22 13:31",
       "src": "中新网"
     }
   ],
   "econ_news": [
     {
-      "title": "亚马逊硬刚纽约拟议《配送保护法》：喊话消费者当心配送费涨价最高 5 美元",
-      "link": "https://www.ithome.com/1/030/505.htm",
-      "time": "11-21 22:18",
+      "title": "特斯拉在韩连续 9 个月位居进口车销量第一，大多产自上海超级工厂",
+      "link": "https://www.ithome.com/1/030/569.htm",
+      "time": "11-22 13:46",
       "src": "IT之家"
     },
     {
-      "title": "我国“5G + 工业互联网”项目达 2.7 万个，已覆盖全部 41 个工业大类",
-      "link": "https://www.ithome.com/1/030/473.htm",
-      "time": "11-21 20:44",
-      "src": "IT之家"
-    },
-    {
-      "title": "欧洲央行行长拉加德：欧盟应利用公共资金，率先承担大型芯片厂、数据中心等项目首轮损失",
-      "link": "https://www.ithome.com/1/030/472.htm",
-      "time": "11-21 20:36",
-      "src": "IT之家"
-    },
-    {
-      "title": "被指“平台成瘾性设计”损害儿童健康：YouTube 拟支付 30 亿美元和解美国多个学区诉讼",
-      "link": "https://www.ithome.com/1/030/416.htm",
-      "time": "11-21 16:45",
-      "src": "IT之家"
-    },
-    {
-      "title": "结构向优、动能向新 我国消费市场潜能不断释放",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-21/10735914.shtml",
-      "time": "11-21 21:14",
+      "title": "进口车厘子买回家没几天就坏了？这样做保鲜时间更久→",
+      "link": "https://www.chinanews.com.cn/life/2026/11-22/10736017.shtml",
+      "time": "11-22 13:14",
       "src": "中新网"
     },
     {
-      "title": "秋假+赏秋热潮叠加 地方文旅消费迎来新机遇",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-21/10735912.shtml",
-      "time": "11-21 21:09",
-      "src": "中新网"
-    },
-    {
-      "title": "经济日报：“温差”待消弭 信心不可失",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-21/10735911.shtml",
-      "time": "11-21 21:06",
+      "title": "10月份工业经济总体平稳 发展质量持续提升",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-22/10736013.shtml",
+      "time": "11-22 12:46",
       "src": "中新网"
     },
     {
@@ -1206,56 +1188,80 @@
       "link": "https://www.cnbeta.com.tw/articles/tech/1587418.htm",
       "time": "11-22 00:58",
       "src": "cnBeta.COM"
+    },
+    {
+      "title": "IPO融资额增至1195亿美元 Anthropic股价大跌超8%",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1587390.htm",
+      "time": "11-21 18:03",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "离职风波未平又遭SEC会计调查 英伟达本周市值蒸发近9000亿美元跌出美股前三",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1587384.htm",
+      "time": "11-21 17:58",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "《GTA6》首发收入达37.9亿美元 超越《复仇者联盟4》总票房刷新娱乐品纪录",
+      "link": "https://www.cnbeta.com.tw/articles/game/1587382.htm",
+      "time": "11-21 17:58",
+      "src": "cnBeta.COM"
+    },
+    {
+      "title": "比特币跌破56000美元 风险资产抛售加剧下行压力",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1587374.htm",
+      "time": "11-21 17:11",
+      "src": "cnBeta.COM"
     }
   ],
   "game_news": [
     {
-      "title": "育碧确认：《刺客信条》中国背景手游“代号 JADE”仍在开发",
-      "link": "https://www.ithome.com/1/030/507.htm",
-      "time": "11-21 22:47",
+      "title": "无需游戏引擎！马斯克称特斯拉 FSD v15 实景视图仅动用 AI4 芯片一个 TRIP 加速器一半算力",
+      "link": "https://www.ithome.com/1/030/563.htm",
+      "time": "11-22 12:18",
       "src": "IT之家"
     },
     {
-      "title": "极摩客 GMK M10 迷你主机上架：锐龙 5 6600H、24+512GB 到手 3399 元",
-      "link": "https://www.ithome.com/1/030/469.htm",
-      "time": "11-21 20:18",
+      "title": "《我的世界》PC 版游戏价格再度调整，国区 110.99 元 → 76.99 元",
+      "link": "https://www.ithome.com/1/030/557.htm",
+      "time": "11-22 11:19",
       "src": "IT之家"
     },
     {
-      "title": "JBL SOUNDGEAR SENSE 开放式蓝牙耳机发售：16.2mm 动圈单元、24 小时续航，1299 元",
-      "link": "https://www.ithome.com/1/030/468.htm",
-      "time": "11-21 20:05",
+      "title": "部分 PS5 玩家反馈《GTA6》游戏频繁崩溃：显示 CE-108255-1 错误，索尼和 R 星客服互相踢皮球",
+      "link": "https://www.ithome.com/1/030/546.htm",
+      "time": "11-22 10:25",
       "src": "IT之家"
     },
     {
-      "title": "天钡 G-FLIP 带屏迷你主机新增 AMD R7 H 255 + 24G + 1T 版本，4599 元",
-      "link": "https://www.ithome.com/1/030/465.htm",
-      "time": "11-21 19:44",
+      "title": "告别“全损音质”：微软 Win11 系统将改进蓝牙耳机开麦体验",
+      "link": "https://www.ithome.com/1/030/535.htm",
+      "time": "11-22 09:14",
       "src": "IT之家"
     },
     {
-      "title": "AOC“CU34G4H”34 英寸带鱼屏显示器发售：1440P 200Hz Fast VA 面板，1599 元",
-      "link": "https://www.ithome.com/1/030/463.htm",
-      "time": "11-21 19:37",
+      "title": "腾讯《怪物猎人：旅人》PC 版本首次亮相，游戏移动端预计年内上线",
+      "link": "https://www.ithome.com/1/030/526.htm",
+      "time": "11-22 08:23",
       "src": "IT之家"
     },
     {
-      "title": "育碧《雷曼：传奇再叙》通过 Steam Deck 掌机兼容性认证，游戏 12 月 3 日发售",
-      "link": "https://www.ithome.com/1/030/461.htm",
-      "time": "11-21 19:22",
-      "src": "IT之家"
+      "title": "《足球经理27》实体版今日发售",
+      "link": "https://www.gcores.com/articles/222582",
+      "time": "11-20 15:13",
+      "src": "机核"
     },
     {
-      "title": "系列最长影片：电影《饥饿游戏：收获日出》累计票房突破 2000 万元",
-      "link": "https://www.ithome.com/1/030/460.htm",
-      "time": "11-21 19:12",
-      "src": "IT之家"
+      "title": "【会员抽奖】冒险者横行，怪物奋起反击！《满盘怪招》Steam 试玩版现已上线",
+      "link": "https://www.gcores.com/articles/222580",
+      "time": "11-20 14:14",
+      "src": "机核"
     },
     {
-      "title": "酷冷至尊 MasterFan A120 全铝风扇黑金版限定配色发售，219 元",
-      "link": "https://www.ithome.com/1/030/457.htm",
-      "time": "11-21 18:37",
-      "src": "IT之家"
+      "title": "迎接《雾影猎人》S2 赛季「旧日之火」，咪咕游戏限时免费五天",
+      "link": "https://www.gcores.com/articles/222560",
+      "time": "11-20 10:00",
+      "src": "机核"
     }
   ],
   "game_update": [
@@ -1324,6 +1330,12 @@
       "src": "ISW"
     },
     {
+      "title": "品牌全球销量破百万：长城坦克首支单曲《百万分之一》定档 11 月 25 日“唱响”",
+      "link": "https://www.ithome.com/1/030/550.htm",
+      "time": "11-22 10:39",
+      "src": "IT之家"
+    },
+    {
       "title": "系列首次：《使命召唤：现代战争4》首月未进入美国年度销售榜前十",
       "link": "https://www.gcores.com/articles/222570",
       "time": "11-20 09:25",
@@ -1336,34 +1348,28 @@
       "src": "机核"
     },
     {
-      "title": "英国国防大臣访基辅重申长期援乌承诺",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-22/10735938.shtml",
-      "time": "11-22 06:35",
-      "src": "中新网"
-    },
-    {
-      "title": "伊朗革命卫队称袭击美军在巴林两处基地防空雷达",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-22/10735934.shtml",
-      "time": "11-22 06:10",
-      "src": "中新网"
-    },
-    {
       "title": "伊朗外长：俄罗斯和中国都反对伊朗改变核政策",
       "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261121-%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF-%E4%BF%84%E7%BD%97%E6%96%AF%E5%92%8C%E4%B8%AD%E5%9B%BD%E9%83%BD%E5%8F%8D%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%94%B9%E5%8F%98%E6%A0%B8%E6%94%BF%E7%AD%96",
       "time": "11-21 23:38",
       "src": "© ATTA KENARE "
     },
     {
-      "title": "欧洲各地爆发了抗议活动 ，高喊： “为我们的未来而战，而不是为他们的战争而战”",
-      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261120-%E6%AC%A7%E6%B4%B2%E5%90%84%E5%9C%B0%E7%88%86%E5%8F%91%E4%BA%86%E6%8A%97%E8%AE%AE%E6%B4%BB%E5%8A%A8-%EF%BC%8C%E9%AB%98%E5%96%8A-%E4%B8%BA%E6%88%91%E4%BB%AC%E7%9A%84%E6%9C%AA%E6%9D%A5%E8%80%8C%E6%88%98%EF%BC%8C%E8%80%8C%E4%B8%8D%E6%98%AF%E4%B8%BA%E4%BB%96%E4%BB%AC%E7%9A%84%E6%88%98%E4%BA%89%E8%80%8C%E6%88%98",
-      "time": "11-21 05:18",
-      "src": "© Massimiliano"
-    },
-    {
       "title": "中美俄元首峰會：從烏克蘭、伊朗、和平宣言到承諾核對話",
       "link": "https://www.bbc.com/zhongwen/articles/c38x04eppnpdo/trad?at_medium=RSS&at_campaign=rss",
       "time": "11-19 20:22",
       "src": "BBC中文"
+    },
+    {
+      "title": "“一斤羊肉120元！”西贝贾国龙改开火锅店，消费者喊话“性价比低，支持不起”",
+      "link": "https://finance.sina.com.cn/tech/internet/2026-11-21/doc-iniznnyh3523641.shtml",
+      "time": "11-21 14:44",
+      "src": "新浪科技"
+    },
+    {
+      "title": "集体拒签“最后通牒”，大批媒体撤离五角大楼",
+      "link": "https://news.sina.com.cn/w/2025-10-18/doc-infuhrzs7824610.shtml",
+      "time": "10-18 11:10",
+      "src": ""
     }
   ]
 }
