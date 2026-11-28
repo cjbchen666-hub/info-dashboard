@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28 09:18",
+  "generated_at": "2026-11-28 18:05",
   "update_note": "每 2 小时由云端定时自动更新",
   "ashare": {
     "indices": [
@@ -80,7 +80,7 @@
       {
         "name": "并行科技",
         "code": "920493",
-        "pct": 27.76,
+        "pct": 27.78,
         "price": 95.45
       },
       {
@@ -118,7 +118,7 @@
       {
         "name": "ST节能",
         "code": "000820",
-        "pct": -7.92,
+        "pct": -7.5,
         "price": 2.22
       },
       {
@@ -233,39 +233,33 @@
     ],
     "news": [
       {
-        "title": "亚马逊再现“临时工”：三星 Galaxy S26 Ultra 以 0.84 折成交，部分用户已收到货",
-        "link": "https://www.ithome.com/1/033/788.htm",
-        "time": "11-28 07:58",
+        "title": "世界最高输电铁塔在江苏首次开展检修，外骨骼机器人辅助极限作业",
+        "link": "https://www.ithome.com/1/033/942.htm",
+        "time": "11-28 17:45",
         "src": "IT之家"
       },
       {
-        "title": "智元：精灵 G2 机器人在龙旗科技产线正式承担喇叭 BOX 安装任务并实现并线生产",
-        "link": "https://www.ithome.com/1/033/744.htm",
-        "time": "11-27 20:43",
+        "title": "何小鹏：机器人交付后，预计首年实现良好盈利",
+        "link": "https://www.ithome.com/1/033/912.htm",
+        "time": "11-28 15:43",
         "src": "IT之家"
       },
       {
-        "title": "当机器人“遇上”无人机 2026香港AI科普周开幕",
-        "link": "http://www.chinanews.com.cn/tp/hd2011/2026/11-28/1211863.shtml",
-        "time": "11-28 08:32",
+        "title": "马斯克：谷歌已表示有兴趣从 SpaceX 租用更多算力",
+        "link": "https://www.ithome.com/1/033/898.htm",
+        "time": "11-28 15:31",
+        "src": "IT之家"
+      },
+      {
+        "title": "前10月中国社会物流总额312.4万亿元 同比增长4.8%",
+        "link": "https://www.chinanews.com.cn/cj/2026/11-28/10739294.shtml",
+        "time": "11-28 17:10",
         "src": "中新网"
       },
       {
-        "title": "从在轨测试到开放服务 北京太空算力“朋友圈”扩容",
-        "link": "https://www.chinanews.com.cn/gn/2026/11-27/10739083.shtml",
-        "time": "11-27 21:57",
-        "src": "中新网"
-      },
-      {
-        "title": "港股上行 恒生科技指数领跑大市",
-        "link": "https://www.chinanews.com.cn/cj/2026/11-27/10739070.shtml",
-        "time": "11-27 21:54",
-        "src": "中新网"
-      },
-      {
-        "title": "沃尔沃工人正手把手教人形机器人上岗",
-        "link": "https://www.cnbeta.com.tw/articles/tech/1588230.htm",
-        "time": "11-27 20:20",
+        "title": "AI交易强势反弹 纳指涨超2% Anthropic涨近11%",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1588296.htm",
+        "time": "11-28 15:07",
         "src": "cnBeta.COM"
       },
       {
@@ -275,9 +269,15 @@
         "src": "Reuters/路透社"
       },
       {
-        "title": "11月28日隔夜要闻：道指创下2022年以来最佳单周表现 铜和金均随科技股升 OpenAI反诉苹果",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafprp0817526.shtml",
-        "time": "11-28 06:02",
+        "title": "马斯克称谷歌有意从SpaceX租用更多算力",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkahrch4915841.shtml",
+        "time": "11-28 17:06",
+        "src": "环球市场播报"
+      },
+      {
+        "title": "马斯克：谷歌已表示有兴趣从SpaceX租用更多算力",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkahkvc0621566.shtml",
+        "time": "11-28 15:11",
         "src": "环球市场播报"
       }
     ]
@@ -585,90 +585,90 @@
   "ai": {
     "news_zh": [
       {
-        "title": "iOS 27.3 前瞻苹果 AI 限额：Siri AI 标准每日 20 次云端请求",
-        "link": "https://www.ithome.com/1/033/795.htm",
-        "time": "11-28 08:50",
+        "title": "世界最高输电铁塔在江苏首次开展检修，外骨骼机器人辅助极限作业",
+        "link": "https://www.ithome.com/1/033/942.htm",
+        "time": "11-28 17:45",
         "src": "IT之家"
       },
       {
-        "title": "IT早报 1128：DeepSeek 灰度测试“消耗额度”；有线电视与 IPTV 广告禁令生效；比亚迪海洋网旗舰 MPV 海鲸亮相；市监总局集中约谈 15 家电动自行车企业...",
-        "link": "https://www.ithome.com/1/033/784.htm",
-        "time": "11-28 07:28",
+        "title": "将星闪联接、端侧 AI、超高清音视频融入开源鸿蒙，上海海思介绍 Hi-OHOS 平台",
+        "link": "https://www.ithome.com/1/033/928.htm",
+        "time": "11-28 17:05",
         "src": "IT之家"
       },
       {
-        "title": "OpenAI 转守为攻：反诉苹果窃密，喊话“不公平竞争”",
-        "link": "https://www.ithome.com/1/033/780.htm",
-        "time": "11-28 07:12",
+        "title": "《黑神话：悟空》制作人冯骥发 8000 字长文谈“后 AI 时代”：如果有一天没有任何工作需要人了，人该怎么办？",
+        "link": "https://www.ithome.com/1/033/927.htm",
+        "time": "11-28 16:54",
         "src": "IT之家"
       },
       {
-        "title": "民间移植给力：苹果 M 芯片 Mac 已跑通《GTA 6》游戏，1080P 场景最高解锁 6FPS",
-        "link": "https://www.ithome.com/1/033/778.htm",
-        "time": "11-28 07:06",
+        "title": "南京发布鸿蒙智能体三年行动计划：2028 年营收破千亿，集聚企业超 100 家",
+        "link": "https://www.ithome.com/1/033/920.htm",
+        "time": "11-28 16:15",
         "src": "IT之家"
       },
       {
-        "title": "全球首个：联想为部分 Win11 商用电脑预装 OpenAI ChatGPT，企业登录最高可领 100 美元优惠额度",
-        "link": "https://www.ithome.com/1/033/777.htm",
-        "time": "11-28 07:04",
+        "title": "雅砻江公司与华为获联合国“全球可持续工业 AI 解决方案奖”，方案落地于全球最大水光互补电站",
+        "link": "https://www.ithome.com/1/033/914.htm",
+        "time": "11-28 15:52",
         "src": "IT之家"
       },
       {
-        "title": "防考生利用 AI 作弊，韩国学校抢购金属探测器",
-        "link": "https://www.ithome.com/1/033/763.htm",
-        "time": "11-27 22:11",
+        "title": "上汽荣威家越 07 大定锁单突破 3.5 万台，全系搭载豆包座舱助手",
+        "link": "https://www.ithome.com/1/033/913.htm",
+        "time": "11-28 15:51",
         "src": "IT之家"
       },
       {
-        "title": "上海警方破获一起购物卡充值诈骗案，骗子谎称“4 万元可安排入职英伟达”",
-        "link": "https://www.ithome.com/1/033/755.htm",
-        "time": "11-27 21:57",
+        "title": "何小鹏：机器人交付后，预计首年实现良好盈利",
+        "link": "https://www.ithome.com/1/033/912.htm",
+        "time": "11-28 15:43",
         "src": "IT之家"
       },
       {
-        "title": "美团王兴：与微信小微合作按计划推进，预计明年 AI 资本开支将低于今年",
-        "link": "https://www.ithome.com/1/033/748.htm",
-        "time": "11-27 21:06",
+        "title": "马斯克：谷歌已表示有兴趣从 SpaceX 租用更多算力",
+        "link": "https://www.ithome.com/1/033/898.htm",
+        "time": "11-28 15:31",
         "src": "IT之家"
       }
     ],
     "hf": [
       {
         "id": "thinkingmachines/Inkling-2-Mini",
-        "likes": 6466,
+        "likes": 6517,
         "downloads": 155741,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "unsloth/Inkling-2-Mini-GGUF",
-        "likes": 1613,
+        "likes": 1626,
         "downloads": 3302340,
         "pipeline": "image-text-to-text"
       },
       {
         "id": "Vyber07/cyber-security",
-        "likes": 2239,
+        "likes": 2254,
         "downloads": 110926,
         "pipeline": ""
       },
       {
         "id": "SulphurAI/Sulphur-3",
-        "likes": 1369,
+        "likes": 1394,
         "downloads": 539421,
         "pipeline": ""
       },
       {
-        "id": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
-        "likes": 1036,
-        "downloads": 1059763,
-        "pipeline": "image-text-to-text"
-      },
-      {
         "id": "prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
-        "likes": 639,
+        "likes": 657,
         "downloads": 382546,
         "pipeline": "text-generation"
+      },
+      {
+        "id": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+        "likes": 1050,
+        "downloads": 1059763,
+        "pipeline": "image-text-to-text"
       }
     ],
     "models": [
@@ -840,27 +840,45 @@
   ],
   "hw_news": [
     {
-      "title": "Linux 7.5 将合并支持 AMD RDNA5，新显卡驱动提前就位",
-      "link": "https://www.ithome.com/1/033/787.htm",
-      "time": "11-28 07:53",
+      "title": "AOC“Q25G5SE6”24.5 英寸 2K 360Hz 显示器开售，1399 元",
+      "link": "https://www.ithome.com/1/033/934.htm",
+      "time": "11-28 17:28",
       "src": "IT之家"
     },
     {
-      "title": "LGA 1700 老平台将迎新处理器，英特尔 Raptor Lake-S NEXT 已坐实",
-      "link": "https://www.ithome.com/1/033/786.htm",
-      "time": "11-28 07:39",
+      "title": "999 → 789 元：苹果 AirPods 5 降噪耳机京东久违发车",
+      "link": "https://www.ithome.com/1/033/930.htm",
+      "time": "11-28 17:15",
       "src": "IT之家"
     },
     {
-      "title": "Origin Code 预告 Vortex Evo DDR5 内存模组，EXPO ULL 认证",
-      "link": "https://www.ithome.com/1/033/766.htm",
-      "time": "11-27 22:37",
+      "title": "首销 499 → 329 元：荣耀 Earbuds 耳夹耳机新低，Hi-Res 金标音质",
+      "link": "https://www.ithome.com/1/033/921.htm",
+      "time": "11-28 16:38",
       "src": "IT之家"
     },
     {
-      "title": "闪极推出闪盘 PRO 2 主动散热硬盘盒：融合拓展坞功能、主打高扩展能力，399 元起",
-      "link": "https://www.ithome.com/1/033/751.htm",
-      "time": "11-27 21:35",
+      "title": "华为 HarmonyOS 7 系统 AI 快捷栏逐步放量，8GB 内存手机、折叠屏、平板均在支持范围内",
+      "link": "https://www.ithome.com/1/033/890.htm",
+      "time": "11-28 15:26",
+      "src": "IT之家"
+    },
+    {
+      "title": "一加 Turbo 6Xs 手机上架官网：天玑 7360 SUPER 处理器，1999 元",
+      "link": "https://www.ithome.com/1/033/865.htm",
+      "time": "11-28 15:08",
+      "src": "IT之家"
+    },
+    {
+      "title": "899 → 509 元：雷蛇毒蝰 V3 专业版 SE 无线鼠标京东自营直降",
+      "link": "https://www.ithome.com/1/033/848.htm",
+      "time": "11-28 14:35",
+      "src": "IT之家"
+    },
+    {
+      "title": "英特尔 Gaudi2 加速卡逆袭：软件优化后部分 AI 性能超英伟达 H100",
+      "link": "https://www.ithome.com/1/033/841.htm",
+      "time": "11-28 13:49",
       "src": "IT之家"
     },
     {
@@ -869,24 +887,6 @@
       "time": "11-27 09:00",
       "src": "机核",
       "type": "停机维护"
-    },
-    {
-      "title": "华为预告其高带宽内存设计可超越三星、SK海力士与美光 但实际验证仍待时日",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1588246.htm",
-      "time": "11-28 00:18",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "AMD下一代RDNA 5 GPU提前现身 2027年新显卡有戏",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1588212.htm",
-      "time": "11-27 17:47",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "30年前显卡神作集体复活 3dfx、NVIDIA、ATI再同台",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1588196.htm",
-      "time": "11-27 17:37",
-      "src": "cnBeta.COM"
     },
     {
       "title": "Computex 2026: NVIDIA 发布 ARM 架构 PC 芯片 RTX Spark, 集成 Blackwell GPU, 对标苹果 M5",
@@ -1117,89 +1117,83 @@
   },
   "intl_news": [
     {
-      "title": "约 37.5GB：全球最大域名注册商 GoDaddy 被爆数据泄露，含薪酬等员工信息",
-      "link": "https://www.ithome.com/1/033/791.htm",
-      "time": "11-28 08:22",
+      "title": "出海新节点：零跑汽车累计出口超 26 万台，官宣业务覆盖全球超 50 个国际市场",
+      "link": "https://www.ithome.com/1/033/938.htm",
+      "time": "11-28 17:41",
       "src": "IT之家"
     },
     {
-      "title": "英国养老金机构发生网络安全事件，系统紧急暂停运行",
-      "link": "https://www.ithome.com/1/033/779.htm",
-      "time": "11-28 07:07",
+      "title": "今年 10 月，欧盟纯电动汽车销量超过汽柴油汽车之和",
+      "link": "https://www.ithome.com/1/033/926.htm",
+      "time": "11-28 16:50",
       "src": "IT之家"
     },
     {
-      "title": "全球首个：联想为部分 Win11 商用电脑预装 OpenAI ChatGPT，企业登录最高可领 100 美元优惠额度",
-      "link": "https://www.ithome.com/1/033/777.htm",
-      "time": "11-28 07:04",
+      "title": "雅砻江公司与华为获联合国“全球可持续工业 AI 解决方案奖”，方案落地于全球最大水光互补电站",
+      "link": "https://www.ithome.com/1/033/914.htm",
+      "time": "11-28 15:52",
       "src": "IT之家"
     },
     {
-      "title": "消息称三星开发出全球首款 500 层以上 NAND 闪存：单芯片容量提升 50%，理论单位成本降三成",
-      "link": "https://www.ithome.com/1/033/737.htm",
-      "time": "11-27 20:07",
+      "title": "长城皮卡 300 万全球用户大会明日举行，27 款长城山海炮亮相发布",
+      "link": "https://www.ithome.com/1/033/911.htm",
+      "time": "11-28 15:38",
       "src": "IT之家"
     },
     {
-      "title": "全球首聊！《GTA6》里的动画比游戏主线都精彩？",
-      "link": "https://www.gcores.com/radios/222840",
-      "time": "11-26 22:32",
-      "src": "机核"
+      "title": "俄罗斯 AI 模型续写果戈理《死魂灵》第二卷，读者反应不一",
+      "link": "https://www.ithome.com/1/033/875.htm",
+      "time": "11-28 15:17",
+      "src": "IT之家"
     },
     {
-      "title": "科威特召见伊朗大使 抗议伊“持续袭击”",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-28/10739097.shtml",
-      "time": "11-28 06:46",
-      "src": "中新网"
+      "title": "全球最大“人造太阳”第 7 个真空室模块吊装就位，安装进度超四分之三",
+      "link": "https://www.ithome.com/1/033/854.htm",
+      "time": "11-28 14:54",
+      "src": "IT之家"
     },
     {
-      "title": "东西问｜普京与特朗普都爱中国菜：美食，是亚太相知最好的语言",
-      "link": "https://www.chinanews.com.cn/dxw/2026/11-27/10739092.shtml",
-      "time": "11-27 23:29",
-      "src": "中新网"
+      "title": "全球首个无需电池、可生物吸收的植入物问世，还能“发光报平安”",
+      "link": "https://www.ithome.com/1/033/853.htm",
+      "time": "11-28 14:49",
+      "src": "IT之家"
     },
     {
-      "title": "三星刷新闪存层数纪录 全球首款500层以上NAND诞生 容量提升50%",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1588252.htm",
-      "time": "11-28 00:30",
-      "src": "cnBeta.COM"
+      "title": "长安 NEVO X 概念车官宣 12 月 1 日全球首秀，2026 泰国国际车展正式亮相",
+      "link": "https://www.ithome.com/1/033/850.htm",
+      "time": "11-28 14:42",
+      "src": "IT之家"
     }
   ],
   "econ_news": [
     {
-      "title": "过去 7 年 30% 相关产品销售额！苹果在智利吃官司，最高面临 8000 万美元罚款",
-      "link": "https://www.ithome.com/1/033/783.htm",
-      "time": "11-28 07:26",
+      "title": "出海新节点：零跑汽车累计出口超 26 万台，官宣业务覆盖全球超 50 个国际市场",
+      "link": "https://www.ithome.com/1/033/938.htm",
+      "time": "11-28 17:41",
       "src": "IT之家"
     },
     {
-      "title": "全球首个：联想为部分 Win11 商用电脑预装 OpenAI ChatGPT，企业登录最高可领 100 美元优惠额度",
-      "link": "https://www.ithome.com/1/033/777.htm",
-      "time": "11-28 07:04",
+      "title": "南京发布鸿蒙智能体三年行动计划：2028 年营收破千亿，集聚企业超 100 家",
+      "link": "https://www.ithome.com/1/033/920.htm",
+      "time": "11-28 16:15",
       "src": "IT之家"
     },
     {
-      "title": "消息称徕卡 Q3 43 Monochrom 黑白相机 12 月 3 日发布，定价 7490 欧元",
-      "link": "https://www.ithome.com/1/033/739.htm",
-      "time": "11-27 20:14",
+      "title": "雅砻江公司与华为获联合国“全球可持续工业 AI 解决方案奖”，方案落地于全球最大水光互补电站",
+      "link": "https://www.ithome.com/1/033/914.htm",
+      "time": "11-28 15:52",
       "src": "IT之家"
     },
     {
-      "title": "智利拟对苹果开出约8000万美元罚单 要求开放iOS应用生态",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1588238.htm",
-      "time": "11-28 00:09",
+      "title": "美国AI代理购物迎来“黑五”大考 约半数大型零售商限制进入",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1588300.htm",
+      "time": "11-28 15:11",
       "src": "cnBeta.COM"
     },
     {
-      "title": "马斯克抛出天文数字：SpaceX未来市值会是全球经济的100万倍",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1588218.htm",
-      "time": "11-27 20:08",
-      "src": "cnBeta.COM"
-    },
-    {
-      "title": "PETA向黄仁勋寄出售价875美元的夹克 呼吁他换下标志性黑皮衣",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1588210.htm",
-      "time": "11-27 17:46",
+      "title": "被印度追税12亿美元 大众把奔驰、宝马、起亚写进法庭文件",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1588276.htm",
+      "time": "11-28 14:50",
       "src": "cnBeta.COM"
     },
     {
@@ -1213,35 +1207,41 @@
       "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261127-%E6%B3%95%E5%9B%BD%E9%99%B7%E5%85%A5%E7%BB%8F%E6%B5%8E%E8%A1%B0%E9%80%80",
       "time": "11-28 05:54",
       "src": "REUTERS - Sara"
+    },
+    {
+      "title": "北京罕提“国家队”上场 稳定跌跌不休的股市",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261127-%E5%8C%97%E4%BA%AC%E7%BD%95%E6%8F%90-%E5%9B%BD%E5%AE%B6%E9%98%9F-%E4%B8%8A%E5%9C%BA-%E7%A8%B3%E5%AE%9A%E8%B7%8C%E8%B7%8C%E4%B8%8D%E4%BC%91%E7%9A%84%E8%82%A1%E5%B8%82",
+      "time": "11-27 23:30",
+      "src": "Reuters/路透社"
     }
   ],
   "game_news": [
     {
-      "title": "IT 管理员称微软 Copilot 可擅自修改企业 OneDrive / SharePoint 文件，恐引合规风险",
-      "link": "https://www.ithome.com/1/033/790.htm",
-      "time": "11-28 08:24",
+      "title": "微软 XBOX GDK 工具包泄露，有望加速民间移植 PC 版《GTA 6》游戏",
+      "link": "https://www.ithome.com/1/033/884.htm",
+      "time": "11-28 15:23",
       "src": "IT之家"
     },
     {
-      "title": "《GTA 6》女主角露西娅扮演者佩雷斯致谢粉丝：为演好角色付出近十年心血",
-      "link": "https://www.ithome.com/1/033/782.htm",
-      "time": "11-28 07:21",
+      "title": "EA《钢铁侠》游戏蓄势待发，有望 2026 年游戏大奖活动上首秀",
+      "link": "https://www.ithome.com/1/033/864.htm",
+      "time": "11-28 15:07",
       "src": "IT之家"
     },
     {
-      "title": "民间移植给力：苹果 M 芯片 Mac 已跑通《GTA 6》游戏，1080P 场景最高解锁 6FPS",
-      "link": "https://www.ithome.com/1/033/778.htm",
-      "time": "11-28 07:06",
+      "title": "《GTA 6》可探索内容层层递进，R 星称希望玩家未来多年仍有新发现",
+      "link": "https://www.ithome.com/1/033/862.htm",
+      "time": "11-28 15:05",
       "src": "IT之家"
     },
     {
-      "title": "画面像电影：《荒野大镖客 2》游戏非官方 DLSS 5 后惊艳玩家，但掉 31% 帧率",
-      "link": "https://www.ithome.com/1/033/775.htm",
-      "time": "11-28 06:49",
+      "title": "小心 GitHub 上的《GTA 6》“PC 移植版”：不法分子可能借机传播恶意程序",
+      "link": "https://www.ithome.com/1/033/847.htm",
+      "time": "11-28 14:34",
       "src": "IT之家"
     },
     {
-      "title": "《空洞骑士：丝之歌》免费DLC12月上线，Team Cherry三款发行游戏同步公开",
+      "title": "《空洞骑士：丝之歌》免费DLC“悲恸之海”12月上线，Team Cherry三款发行游戏同步公开",
       "link": "https://www.gcores.com/articles/222869",
       "time": "11-27 23:26",
       "src": "机核"
@@ -1331,22 +1331,28 @@
       "src": "ISW"
     },
     {
+      "title": "2027 款长城坦克 400 家族上市：24.98 万元起，新增 VLA 辅助驾驶大模型",
+      "link": "https://www.ithome.com/1/033/843.htm",
+      "time": "11-28 14:25",
+      "src": "IT之家"
+    },
+    {
       "title": "《战锤40K：战争黎明4》涂装工具试玩版现已在Steam免费上线",
       "link": "https://www.gcores.com/articles/222820",
       "time": "11-27 09:10",
       "src": "机核"
     },
     {
-      "title": "当机器人“遇上”无人机 2026香港AI科普周开幕",
-      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/11-28/1211863.shtml",
-      "time": "11-28 08:32",
-      "src": "中新网"
+      "title": "美军在英国皇家空军基地击退无人机",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1588272.htm",
+      "time": "11-28 14:37",
+      "src": "cnBeta.COM"
     },
     {
-      "title": "科威特召见伊朗大使 抗议伊“持续袭击”",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-28/10739097.shtml",
-      "time": "11-28 06:46",
-      "src": "中新网"
+      "title": "台湾民众投票之际，中国派遣军机活动，不断维持军事压力",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261128-%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%BC%97%E6%8A%95%E7%A5%A8%E4%B9%8B%E9%99%85%EF%BC%8C%E4%B8%AD%E5%9B%BD%E6%B4%BE%E9%81%A3%E5%86%9B%E6%9C%BA%E6%B4%BB%E5%8A%A8%EF%BC%8C%E4%B8%8D%E6%96%AD%E7%BB%B4%E6%8C%81%E5%86%9B%E4%BA%8B%E5%8E%8B%E5%8A%9B",
+      "time": "11-28 17:00",
+      "src": "REUTERS - Tsai"
     },
     {
       "title": "特朗普称已敦促普京停止在欧洲各地的军事侵略",
@@ -1365,12 +1371,6 @@
       "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261127-%E6%8B%89%E8%84%B1%E7%BB%B4%E4%BA%9A%E5%86%9B%E6%96%B9-%E4%B8%80%E6%9E%B6%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%9F%AD%E6%9A%82%E4%BE%B5%E7%8A%AF%E9%A2%86%E7%A9%BA-%E5%8C%97%E7%BA%A6%E6%88%98%E6%9C%BA%E7%B4%A7%E6%80%A5%E5%9B%9E%E5%BA%94",
       "time": "11-28 00:26",
       "src": "© GINTS IVUSKA"
-    },
-    {
-      "title": "入侵乌克兰战争近五年，俄军损兵折将估计超过70万人",
-      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261127-%E5%85%A5%E4%BE%B5%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89%E8%BF%91%E4%BA%94%E5%B9%B4%EF%BC%8C%E4%BF%84%E5%86%9B%E6%8D%9F%E5%85%B5%E6%8A%98%E5%B0%86%E4%BC%B0%E8%AE%A1%E8%B6%85%E8%BF%8770%E4%B8%87%E4%BA%BA",
-      "time": "11-28 01:08",
-      "src": "via REUTERS - "
     }
   ]
 }
